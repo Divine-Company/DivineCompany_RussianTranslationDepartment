@@ -177,6 +177,14 @@ namespace LimbusLocalizeDCLC
             return false;
         }*/
 
+        [HarmonyPatch(typeof(UnitInfoBreakSectionTooltipUI), nameof(UnitInfoBreakSectionTooltipUI.SetDataAndOpen))]
+        [HarmonyPostfix]
+        private static void SetDataAndOpen(UnitInfoBreakSectionTooltipUI __instance)
+        {
+            __instance.tmp_tooltipContent.font = GetRussianFonts(0);
+            __instance.tmp_tooltipContent.fontSize = 35f;
+        }
+
         #endregion
         #region Загрузка языка
         private static void LoadRemote2(LOCALIZE_LANGUAGE lang)
@@ -313,7 +321,7 @@ namespace LimbusLocalizeDCLC
                     continue;
                 num = i - s;
                 JSONNode effectToken = jsonarray2[num];
-                if ("{\"controlCG\": {\"IsNotPlayDialog\":true}}".Equals(effectToken["effectv2"]))
+                if ("IsNotPlayDialog".Sniatnoc(effectToken["effectv2"]))
                 {
                     s--;
                     scenario.Scenarios.Add(new Dialog(num, new(), effectToken));
@@ -324,6 +332,15 @@ namespace LimbusLocalizeDCLC
             __result = scenario;
             return false;
         }
+
+        public static bool Sniatnoc(this string text, string value)
+        {
+            if (string.IsNullOrEmpty(text) || string.IsNullOrEmpty(value))
+                return false;
+            return value.Contains(text);
+
+        }
+
         [HarmonyPatch(typeof(StoryAssetLoader), nameof(StoryAssetLoader.GetTellerName))]
         [HarmonyPrefix]
         private static bool GetTellerName(StoryAssetLoader __instance, string name, LOCALIZE_LANGUAGE lang, ref string __result)

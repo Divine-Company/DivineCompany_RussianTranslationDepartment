@@ -42,7 +42,7 @@
     },
     {
       "id": "content_game_data_download",
-      "content": "Загружено {0}."
+      "content": "Будет загружено {0}."
     },
     {
       "id": "content_game_data_download_description",
@@ -70,7 +70,7 @@
     },
     {
       "id": "networkingerror_retry",
-      "content": "Попытаться снова"
+      "content": "Переподключиться"
     },
     {
       "id": "loginui_ok",
