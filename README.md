@@ -21,6 +21,7 @@
 ### 3. Запустите игру
 # Наши ссылки
 - [Discord](https://discord.gg/dqpnxc9muc) 
+- [Руководство в Стиме](https://steamcommunity.com/sharedfiles/filedetails/?id=3312939648) 
 # Информация о локализации
 - **Мод абсолютно бесплатен.** 
 - **Оригинальный мод, на основе которого был выполнен текущий, одобрен разработчиками Limbus Company.** Вы можете в этом убедиться по этой ссылке: [`Специальное объявление`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)
