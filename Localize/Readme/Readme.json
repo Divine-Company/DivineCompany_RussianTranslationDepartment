@@ -21,6 +21,16 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Всё обсуждается в нашем дискорде:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://discord.gg/dqpnxc9muc>Divine Company</link>\"}]}"
 	},
     {
+      "id": 3199,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-08-20T00:00:00.000Z",
+      "endDate": "2024-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Divine Company 0.1.2",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.2:\\n- Перевод нового события «Убийство в Варп-экспрессе» \\n- Существенное исправление ошибок в уже существующем переводе \\n- Улучшение кода \\n- Улучшение шрифтов \\n- Переосмысление терминологии, в том числе возвращение Корректировщиков</size>\"}]}"
+    },
+    {
       "id": 3200,
       "version": 0,
       "type": 0,
@@ -30,5 +40,6 @@
       "title_KR": "Divine Company 0.1.1",
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Первая версия русификатора включает:\\n- Перевод Обучения и 1-й Песни\\n- Частичный перевод интерфейса</size>\"}]}"
     }
+
   ]
 }

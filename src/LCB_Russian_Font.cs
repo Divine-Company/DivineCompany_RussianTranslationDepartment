@@ -383,9 +383,7 @@ namespace LimbusLocalizeDCLC
         private static void SetLoginInfo(LoginSceneManager __instance)
         {
             LoadLocal(LOCALIZE_LANGUAGE.EN);
-            __instance.tmp_loginAccount.text = "Divine Company v" + LCB_DCLCMod.VERSION;
-            __instance.tmp_loginAccount.characterSpacing = -2;
-            __instance.tmp_loginAccount.lineSpacing = -20;
+            __instance.tmp_loginAccountType.text = "Divine Company v" + LCB_DCLCMod.VERSION + "    " + __instance.tmp_loginAccountType.text;
         }
         private static void Init<T>(this JsonDataList<T> jsonDataList, List<string> jsonFilePathList) where T : LocalizeTextData, new()
         {
