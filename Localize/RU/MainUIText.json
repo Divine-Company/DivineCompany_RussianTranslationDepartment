@@ -230,7 +230,7 @@
     },
     {
       "id": "mainui_ego_list",
-      "content": "Список Э.Г.О."
+      "content": "Список ЭГО"
     },
     {
       "id": "mainui_personality_list",
@@ -266,7 +266,7 @@
     },
     {
       "id": "mainui_mirror_select_ego",
-      "content": "Выбрать Э.Г.О."
+      "content": "Выбрать ЭГО"
     },
     {
       "id": "mainui_mirror_opening",
@@ -390,11 +390,11 @@
     },
     {
       "id": "mainui_reward_random_box",
-      "content": "Ящики с осколками Э.Г.О."
+      "content": "Ящики с осколками ЭГО"
     },
     {
       "id": "mainui_reward_select_box",
-      "content": "Ящики с осколками Э.Г.О. на выбор"
+      "content": "Ящики с осколками ЭГО на выбор"
     },
     {
       "id": "mainui_manaUsage",
@@ -554,11 +554,11 @@
     },
     {
       "id": "mainui_ego_awaken_skill_reinforcement",
-      "content": "Улучшение пробуждения Э.Г.О."
+      "content": "Улучшение пробуждения ЭГО"
     },
     {
       "id": "mainui_ego_erosion_skill_reinforcement",
-      "content": "Улучшение коррозии Э.Г.О."
+      "content": "Улучшение коррозии ЭГО"
     },
     {
       "id": "mainui_lack_of_material_amount",
@@ -590,7 +590,7 @@
     },
     {
       "id": "mainui_ego_awaken_completion",
-      "content": "Э.Г.О. сплетено"
+      "content": "ЭГО сплетено"
     },
     {
       "id": "mainui_new_skill_acquisition",
@@ -618,11 +618,11 @@
     },
     {
       "id": "mainui_ego_awaken_skill_name_reinforcement",
-      "content": "Пробуждение Э.Г.О. [{0}] улучшено"
+      "content": "Пробуждение ЭГО [{0}] улучшено"
     },
     {
       "id": "mainui_ego_erosion_skill_name_reinforcement",
-      "content": "Коррозия Э.Г.О. [{0}] улучшена"
+      "content": "Коррозия ЭГО [{0}] улучшена"
     },
     {
       "id": "mainui_specific_level_achievement",
@@ -722,7 +722,7 @@
     },
     {
       "id": "order_of_acquisition",
-      "content": "Дата получения"
+      "content": "Недавнее"
     },
     {
       "id": "tolerance",
@@ -770,7 +770,7 @@
     },
     {
       "id": "notice_of_remain_extract_chance",
-      "content": "3★ личность или Э.Г.О. гарантировано через {0} извлечений"
+      "content": "3★ личность или ЭГО гарантировано через {0} извлечений"
     },
     {
       "id": "mainui_settings",
@@ -930,7 +930,7 @@
     },
     {
       "id": "ego_preview_notice",
-      "content": "Здесь показан макс. уровень Э.Г.О."
+      "content": "Здесь показан макс. уровень ЭГО"
     },
     {
       "id": "season_1",
@@ -974,7 +974,7 @@
     },
     {
       "id": "progress_ego_gacksung",
-      "content": "Усилить сплетение"
+      "content": "Усилить\nсплетение"
     },
     {
       "id": "skill_with_index",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "inventory_category_pieces",
-      "content": "Осколки Э.Г.О."
+      "content": "Осколки ЭГО"
     },
     {
       "id": "enkephalin_injection_complete",
@@ -1030,7 +1030,7 @@
     },
     {
       "id": "notice_not_enough_pieces",
-      "content": "※ Недостаточно осколков Э.Г.О."
+      "content": "※ Недостаточно осколков ЭГО"
     },
     {
       "id": "buy_personaliy",
@@ -1038,11 +1038,11 @@
     },
     {
       "id": "buy_ego",
-      "content": "Приобрести Э.Г.О."
+      "content": "Приобрести ЭГО"
     },
     {
       "id": "not_enough_pieces",
-      "content": "Недостаточно осколков Э.Г.О."
+      "content": "Недостаточно осколков ЭГО"
     },
     {
       "id": "basis",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "ego_gift",
-      "content": "Дары Э.Г.О."
+      "content": "Дары ЭГО"
     },
     {
       "id": "classification",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "select_piece",
-      "content": "Выберите осколок Э.Г.О."
+      "content": "Выберите осколок ЭГО"
     },
     {
       "id": "mail_item_warning",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "gacha_notice_exclude_ego",
-      "content": "Этот баннер не содержит Э.Г.О."
+      "content": "Этот баннер не содержит ЭГО"
     },
     {
       "id": "gacha_notice_single_season",
@@ -1298,7 +1298,7 @@
     },
     {
       "id": "season_n_ego",
-      "content": "Э.Г.О. {0} сезона"
+      "content": "ЭГО {0} сезона"
     },
     {
       "id": "season_n",
@@ -1306,19 +1306,19 @@
     },
     {
       "id": "new_season_former_piece_to_current_piece_desc",
-      "content": "Половина ваших осколков Э.Г.О. перенесётся в новый сезон"
+      "content": "Половина ваших осколков ЭГО перенесётся в новый сезон"
     },
     {
       "id": "new_season_former_piece_to_thread_desc",
-      "content": "Остальные осколки Э.Г.О. будут преобразованы в Сплетение"
+      "content": "Остальные осколки ЭГО будут преобразованы в Сплетение"
     },
     {
       "id": "new_season_former_box_to_current_box_desc",
-      "content": "Половина ящиков (всех видов) с осколками Э.Г.О. перенесутся в новый сезон."
+      "content": "Половина ящиков (всех видов) с осколками ЭГО перенесутся в новый сезон."
     },
     {
       "id": "new_season_former_box_to_thread_box",
-      "content": "Остальные ящики с осколками Э.Г.О. будут преобразованы в ящики со Сплетением."
+      "content": "Остальные ящики с осколками ЭГО будут преобразованы в ящики со Сплетением."
     },
     {
       "id": "new_pass_appeared",
@@ -1338,7 +1338,7 @@
     },
     {
       "id": "notice_of_pity_system",
-      "content": "Во время действия баннера вы можете заработать ‘Лисан’ [Идеал] в зависимости от количества совершённых извлечений.\nПосле получения определённого количества Лисан [Идеал], его можно будет обменять на 3★ личность или Э.Г.О. в соответствующем баннере.\n\n※ Лисан [Идеал] считается отдельным ресурсом и уникален для каждого баннера.\n※ После завершения баннера Лисан [Идеал] преобразуется в Сплетение."
+      "content": "Во время действия баннера вы можете заработать ‘Лисан’ [Идеал] в зависимости от количества совершённых извлечений.\nПосле получения определённого количества Лисан [Идеал], его можно будет обменять на 3★ личность или ЭГО в соответствующем баннере.\n\n※ Лисан [Идеал] считается отдельным ресурсом и уникален для каждого баннера.\n※ После завершения баннера Лисан [Идеал] преобразуется в Сплетение."
     },
     {
       "id": "twine_store",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": "ego_already_have",
-      "content": "Э.Г.О. уже имеется"
+      "content": "ЭГО уже имеется"
     },
     {
       "id": "shortage_number_of_extractions",
@@ -1494,7 +1494,7 @@
     },
     {
       "id": "ego_cost",
-      "content": "Ресурсы Э.Г.О."
+      "content": "Ресурсы ЭГО"
     },
     {
       "id": "enable_count_for_battle",
@@ -1570,7 +1570,7 @@
     },
     {
       "id": "ego_gift_effect_format",
-      "content": "Эффекты 「{0}」 даров Э.Г.О."
+      "content": "Эффекты 「{0}」 даров ЭГО"
     },
     {
       "id": "mainui_previous",
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "gacha_rate_info_announcer1",
-      "content": "Ниже находится список личностей, Э.Г.О. и комментаторов, которые Вы можете получить в соответствии с упомянутыми шансами на извлечение.\n\nСписок может изменяться в зависимости от сезона; о предстоящих изменениях содержимого будет объявляться заранее."
+      "content": "Ниже находится список личностей, ЭГО и комментаторов, которые Вы можете получить в соответствии с упомянутыми шансами на извлечение.\n\nСписок может изменяться в зависимости от сезона; о предстоящих изменениях содержимого будет объявляться заранее."
     },
     {
       "id": "mainui_battleresult_ordeal_victory",
@@ -1743,6 +1743,31 @@
     {
       "id": "buff_effect_for_level_format",
       "content": "「{0}」"
+    },
+    {
+      "id": "unit_keyword",
+      "content": "Trait Keywords"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "Reset Deployment Order?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(Owned : {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Paid : {0}, Free : {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Paid : {0}, Free : {1})"
+    },
+    {
+      "id": "mainui_ask_use_personality_level_ticket_disadvantage",
+      "content": "Using this ticket at your current story progress will raise your selected Identity's level to {1} instead of {0}, and any unused EXP in that process will be lost.\n\nWill you use this ticket anyway?"
+
     }
   ]
 }

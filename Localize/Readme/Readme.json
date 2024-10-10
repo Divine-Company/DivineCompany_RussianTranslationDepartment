@@ -20,7 +20,17 @@
       "title_KR": "Насчёт ошибки/предложения по переводу",
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Всё обсуждается в нашем дискорде:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://discord.gg/dqpnxc9muc>Divine Company</link>\"}]}"
 	},
-    {
+  {
+    "id": 3199,
+    "version": 0,
+    "type": 0,
+    "startDate": "2024-10-03T00:00:00.000Z",
+    "endDate": "2024-12-31T23:00:00.000Z",
+    "sprNameList": [],
+    "title_KR": "Divine Company 0.1.3",
+    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.3:\\n- Масштабная работа по редактированию пролога и первой главы \\n- Перевод 4-й Вальпургиевой Ночи \\n- Улучшение кода</size>\"}]}"
+  },
+  {
       "id": 3199,
       "version": 0,
       "type": 0,

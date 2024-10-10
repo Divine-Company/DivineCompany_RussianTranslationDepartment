@@ -177,14 +177,6 @@ namespace LimbusLocalizeDCLC
             return false;
         }*/
 
-        [HarmonyPatch(typeof(UnitInfoBreakSectionTooltipUI), nameof(UnitInfoBreakSectionTooltipUI.SetDataAndOpen))]
-        [HarmonyPostfix]
-        private static void SetDataAndOpen(UnitInfoBreakSectionTooltipUI __instance)
-        {
-            __instance.tmp_tooltipContent.font = GetRussianFonts(0);
-            __instance.tmp_tooltipContent.fontSize = 35f;
-        }
-
         #endregion
         #region Загрузка языка
         private static void LoadRemote2(LOCALIZE_LANGUAGE lang)
@@ -316,11 +308,6 @@ namespace LimbusLocalizeDCLC
                     s++;
                     continue;
                 }
-                if (jSONNode.Count == 1 && jSONNode[0].IsNumber)
-                {
-                    s++;
-                    continue;
-                }
                 int num;
                 if (jSONNode[0].IsNumber && jSONNode[0].AsInt < 0)
                     continue;
@@ -328,8 +315,10 @@ namespace LimbusLocalizeDCLC
                 JSONNode effectToken = jsonarray2[num];
                 if ("IsNotPlayDialog".Sniatnoc(effectToken["effectv2"]))
                 {
-                    s--;
                     scenario.Scenarios.Add(new Dialog(num, new(), effectToken));
+                    if (jSONNode.Count == 1)
+                        continue;
+                    s--;
                     effectToken = jsonarray2[num + 1];
                 }
                 scenario.Scenarios.Add(new Dialog(num, jSONNode, effectToken));

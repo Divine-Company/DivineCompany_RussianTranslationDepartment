@@ -850,12 +850,12 @@
     {
       "id": 1120701,
       "name": "Bullets are Pricey",
-      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of [Bullet], spend all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
     },
     {
       "id": 1120702,
       "name": "Bullets are Pricey",
-      "desc": "<style=\"highlight\">- Always Activate : Begin encounters with 7 Ammo</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\">- If a Coin that uses Ammo hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage.</style>\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage"
+      "desc": "<style=\"highlight\">- Always Active : begin encounters with 7 Ammo</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\"> If a Coin that uses Ammo Hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage as bonus damage.</style>\n- If this unit Critical Hits when out of [Bullet], consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
     },
     {
       "id": 1120721,
@@ -880,12 +880,12 @@
     {
       "id": 1040621,
       "name": "The Lucky Cig",
-      "desc": "If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> uses up their last <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> with a Skill, deal 50% of the Skill's damage as bonus damage to that Skill's target at Attack End."
+      "desc": "If 1 ally with the least Ammo uses up their last Ammo with a Coin, deal 50% of the damage dealt by that Coin attack against each target as bonus damage against each individual target. (rounded up)"
     },
     {
       "id": 1040631,
       "name": "The Lucky Cig",
-      "desc": "<style=\"highlight\">- If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> uses a Skill that spends <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u>, gain 3 Poise (once per turn; does not apply to allies without Ammo)</style>\n- If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> uses up their last <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> with a Skill, deal 50% of the Skill's damage as bonus damage to that Skill's target at Attack End."
+      "desc": "<style=\"highlight\">- If 1 ally with the least [Bullet] uses a Skill that spends [Bullet], gain 3 Poise. (once per turn; does not apply to allies without Ammo)</style>\n- If 1 ally with the least Ammo uses up their last Ammo with a Coin, deal 50% of the damage dealt by that Coin attack against each target as bonus damage against each individual target. (rounded up)"
     },
     {
       "id": 1030601,
@@ -1604,6 +1604,121 @@
       "name": "Call of the Erlking",
       "desc": "- Deal +1% more damage for every 1 [Sinking] on target (max 15%)\n\n- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (<style=\"highlight\">2 times</style> per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally with [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well",
       "summary": "Deal more damage based on [Sinking] on target"
+    },
+    {
+      "id": 1041001,
+      "name": "Spiderhead/Skullface",
+      "desc": "When hitting an enemy with a Coin that gains [RedEyeFirst]:\n- Deal +([RedEyeFirst]/2)% more damage\n- If the target has [Laceration], gain 1 [RedEyeFirst] (3 times per turn)\n\nWhen hitting an enemy with a Coin that gains [PenanceFirst]:\n- Deal +([PenanceFirst]/2)% more damage\n- At 20+ SP, gain 1 [PenanceFirst] (3 times per turn)",
+      "summary": "Coins that gain Red Eyes deal more damage; if the target has Bleed, gain 1 Red Eyes\nCoins that gain Penitence deal more damage; at 20+ SP, gain 1 Penitence"
+    },
+    {
+      "id": 1041011,
+      "name": "Spiderhead/Skullface",
+      "desc": "When hitting an enemy with a Coin that gains [RedEyeFirst]:\n- Deal +([RedEyeFirst]/2)% more damage\n<style=\"highlight\">- If this unit's Speed is faster than the target's by 3 or more, deal an additional +([RedEyeFirst]/2)% more damage</style>\n- If the target has [Laceration], gain 1 [RedEyeFirst] (3 times per turn)\n\nWhen hitting an enemy with a Coin that gains [PenanceFirst]:\n- Deal +([PenanceFirst]/2)% more damage\n<style=\"highlight\">- If the target's SP is lower than this unit's, deal an additional +([PenanceFirst]/2)% more damage(targets without SP: their SP counts as 0)</style>\n- At 20+ SP, gain 1 [PenanceFirst] (3 times per turn)\n\n<style=\"highlight\">When hit by an enemy, gain 1 [PenanceFirst] (max 3)</style>",
+      "summary": "Coins that gain Red Eyes deal more damage; if the target has Bleed, gain 1 Red Eyes\nCoins that gain Penitence deal more damage; at 20+ SP, gain 1 Penitence\nWhen hit by an enemy, gain 1 Penitence (max 3)"
+    },
+    {
+      "id": 1041002,
+      "name": "E.G.O Assimilation",
+      "desc": "When gaining [Charge] Count, gain [RedEyeFirst] or [PenanceFirst] instead\n- [RedEyeFirst] and [PenanceFirst] are unaffected by [Charge] Potency",
+      "summary": "When gaining Charge Count, gain Red Eyes or Penitence instead"
+    },
+    {
+      "id": 1041021,
+      "name": "Eat and Sleep",
+      "desc": "Combat Start:\n- 1 ally with the lowest HP percentage heals 3 HP\n- 1 ally with the least SP heals 3 SP",
+      "summary": "Heal HP for 1 ally with the lowest HP percentage, heal SP for 1 ally with the least SP"
+    },
+    {
+      "id": 1011001,
+      "name": "Fire.IShallFire.",
+      "desc": "When this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
+      "summary": "When this unit gains Ammo, gain Agility next turn"
+    },
+    {
+      "id": 1011002,
+      "name": "ISeeTheDyingButterfly.",
+      "desc": "Begin encounters with 10 of each of [BulletLament]\n\nWhen consuming [BulletLament], select randomly between The Living(Potency) and The Departed(Count) for each [BulletLament] value.\n\nWhen inflicting [SinkingWhite], inflict the same amount of The Living and The Departed as they were consumed. Example below:\n- If this unit consumed X Living, inflict X Living\n- If this unit consumed Y Departed, inflict Y Departed\n\nIf this unit runs out of [BulletLament] midway through Skill use, cancel all subsequent Coins and [ReloadLament]\n\nWhen [ReloadLament]ing, or when gaining [BulletLament], gain either The Living or The Departed based on this unit's current SP\n- At 0 or higher SP: 30% chance to gain The Living; 70% chance to gain The Departed.\n- At less than 0 SP: 70% chance to gain The Living; 30% chance to gain The Departed.\n- The probabilities are calculated separately for each ammo consumed.",
+      "summary": "Reloads if this unit runs out of Ammo midway through Skill use"
+    },
+    {
+      "id": 1011011,
+      "name": "Fire.IShallFire.",
+      "desc": "After Attack: if this unit killed the target with its Skill, [ReloadLament]\nWhen this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
+      "summary": "When this unit gains Ammo, gain Agility next turn. Reload On Kill."
+    },
+    {
+      "id": 1011021,
+      "name": "Hand of Salvation",
+      "desc": "When an ally hits with a Skill, consume 2 [Sinking] on the target to inflict them with 1 [SinkingWhite] (3 times per turn)",
+      "summary": "Convert target's Sinking into Butterfly"
+    },
+    {
+      "id": 1091001,
+      "name": "Speedy Delivery",
+      "desc": "Turn Start: At 6+ Speed, or if this unit has [Agility], gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (max 15%)\n\nUpon Retreat, apply 1 [ParryingResultUp] to 2 allies next turn (prioritizes Substituted units first, then in Deployment order)",
+      "summary": "Gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield\nUpon Retreat, apply 1 [ParryingResultUp] to 2 random allies"
+    },
+    {
+      "id": 1091011,
+      "name": "Speedy Delivery",
+      "desc": "Turn Start: At 6+ Speed, or if this unit has [Agility], gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (max <style=\"highlight\">20%</style>)\n\nUpon Retreat, apply 1 [ParryingResultUp] to 2 allies next turn (prioritizes Substituted units first, then in Deployment order)\n<style=\"highlight\">- Lasts for 1 additional turn for every 15 [DevyatDimensionalSack] on self (2 more turns max)</style>",
+      "summary": "Gain ([DevyatDimensionalSack])% of this unit's max HP as Shield\nUpon Retreat, apply 1 [ParryingResultUp] to 2 random allies"
+    },
+    {
+      "id": 1091002,
+      "name": "Lemme go and I swear I'll make it in time!",
+      "desc": "<For Chain Battles> When, after Retreating with '[Retreat]', if this unit rejoins the battle, halve the [DevyatDimensionalSack] value (once per Encounter, rounded up)",
+      "summary": "Halve the [DevyatDimensionalSack] value"
+    },
+    {
+      "id": 1091021,
+      "name": "Outstanding Courier",
+      "desc": "To 1 ally with the fastest Speed: Clash Power +1 to Skills that apply [Burst] Potency or Count",
+      "summary": "Skills that apply [Burst] Potency or Count gain Clash Power +1"
+    },
+    {
+      "id": 1081001,
+      "name": "Shock-nullifying Greatsword",
+      "desc": "At Combat Start, gain [DefenseUp] equal to [Vibration] Count on self (max 5)"
+    },
+    {
+      "id": 1081011,
+      "name": "Shock-nullifying Greatsword",
+      "desc": "At Combat Start, gain [DefenseUp] equal to [Vibration] Count on self (max 5)\n- If this unit is in [DefensiveStance], double the amount of [DefenseUp] gained from the above effect."
+    },
+    {
+      "id": 1081021,
+      "name": "Emergency Protection",
+      "desc": "At Combat Start, compare each Identity's current HP to their HP at the start of the previous turn. Then, apply 2 [DefenseUp] to the Identity with the greatest disparity of HP values between turns."
+    },
+    {
+      "id": 1101001,
+      "name": "Begin Protection Mission",
+      "desc": "At Combat Start, gain [DefenseUp] equal to [Vibration] Count on self (max 5)"
+    },
+    {
+      "id": 1101021,
+      "name": "Contract Target Protection",
+      "desc": "Turn End: apply 1 [Agility] and 3 [DefenseUp] to 1 ally with the lowest HP percentage next turn"
+    },
+    {
+      "id": 1051101,
+      "name": "Duel Livestream",
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)",
+      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
+    },
+    {
+      "id": 1051111,
+      "name": "Duel Livestream",
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot with [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
+      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
+    },
+    {
+      "id": 1051121,
+      "name": "One Step Ahead",
+      "desc": "The fastest ally, on Clash Win, gains 1 [Agility] next turn (2 times per turn)",
+      "summary": "The fastest ally, on Clash Win, gains 1 [Agility] next turn"
     }
   ]
 }
