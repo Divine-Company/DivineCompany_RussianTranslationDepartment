@@ -17,7 +17,7 @@ namespace LimbusLocalizeDCLC
         public static string GamePath;
         public const string GUID = "Com.Bright.LocalizeLimbusCompany";
         public const string NAME = "DivineCompany";
-        public const string VERSION = "0.1.3";
+        public const string VERSION = "0.1.3.1";
         public const string AUTHOR = "Original: Bright; Fork: KreeperHLC and Helck1";
         public const string DCLCLink = "https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment";
         public static Action<string, Action> LogFatalError { get; set; }

@@ -61,7 +61,7 @@
         "Walpu3EventText",
         "MirrorDungeonUI_4",
         "MirrorDungeonBattleRewardCase",
-		    "TutorialMirrorDungeon",
+        "TutorialMirrorDungeon",
         "EventTKTText",
         "RailwayDungeonUI_4",
         "EventMOWEText",
@@ -70,7 +70,12 @@
         "AbEventsResultLog_walpu4",
         "UI_ModuleDevice",
         "MissionUIText",
-        "UI_Mission_NewReturnUserEvent"
+        "UI_Mission_NewReturnUserEvent",
+        "UnitKeyword-a1c7p1",
+        "SeasonTitle-a1c7",
+        "BattlePass-a1c7",
+        "MainUIText-a1c7p1",
+        "UnitKeyword-a1c7p2"
     ],
     "character": [
         "Characters"
@@ -97,7 +102,10 @@
         "Enemies-mirror4",
         "Enemies-tkt",
         "Enemies-mowe",
-        "Enemies-walpu4"
+        "Enemies-walpu4",
+        "Enemies-a1c7p1",
+        "Enemies-a1c7p2",
+        "Assist-a1c7p2"
     ],
     "ego": [
         "Egos"
@@ -152,7 +160,7 @@
         "Skills_Enemy-walpu2",
         "Skills_Enemy-ycgd",
         "Skills_Abnormality-a1c6p2",
-		"Skills_Abnormality-a1c6p3",
+        "Skills_Abnormality-a1c6p3",
         "Skills_Enemy-a1c6p1",
         "Skills_Enemy-a1c6p2",
         "Skills_Enemy-a1c6p3",
@@ -160,7 +168,12 @@
         "Skills_Abnormality-tkt",
         "Skills_Enemy-mowe",
         "Skills_Abnormality-mowe",
-        "Skills_Abnormality-walpu4"
+        "Skills_Abnormality-walpu4",
+        "Skills_Enemy-a1c7p1",
+        "Skills_Abnormality-a1c7p1",
+        "Skills_Enemy-a1c7p2",
+        "Skills_Abnormality-a1c7p2",
+        "Skills_Assist"
     ],
     "passive": [
         "Passives",
@@ -194,7 +207,12 @@
         "Passives_Enemy-tkt",
         "Passives_Abnormality-tkt",
         "Passives_Abnormality-mowe",
-        "Passives_Abnormality-walpu4"
+        "Passives_Abnormality-walpu4",
+        "Passives_Enemy-a1c7p1",
+        "Passives_Abnormality-a1c7p1",
+        "Passives_Enemy-a1c7p2",
+        "Passives_Abnormality-a1c7p2",
+        "Passives_Assist"
     ],
     "buf": [
         "Bufs",
@@ -213,14 +231,17 @@
         "Bufs_Mirror4",
         "Bufs-tkt",
         "Bufs-mowe",
-        "Bufs-walpu4"
+        "Bufs-walpu4",
+        "Bufs-a1c7p1",
+        "Bufs-a1c7p2"
     ],
     "buffAbilities": [
         "BuffAbilities"
     ],
     "item": [
         "Items",
-        "Items-a1c6"
+        "Items-a1c6",
+        "Items-a1c7p1"
     ],
     "keyword": [
         "BattleKeywords",
@@ -238,7 +259,9 @@
         "BattleKeywords_Mirror4",
         "BattleKeywords-tkt",
         "BattleKeywords-mowe",
-        "BattleKeywords-walpu4"
+        "BattleKeywords-walpu4",
+        "BattleKeywords-a1c7p1",
+        "BattleKeywords-a1c7p2"
     ],
     "skillTag": [
         "SkillTag"
@@ -326,7 +349,8 @@
         "EGOgift_walpu4"
     ],
     "stageChapter": [
-        "StageChapterText"
+        "StageChapterText",
+        "StageChapterText-a1c7p1"
     ],
     "stagePart": [
         "StagePartText"
@@ -351,7 +375,9 @@
         "StageNode91-8",
         "StageNode91-9",
         "StageNode91-10",
-        "StageNode91-11"
+        "StageNode91-11",
+        "StageNode-a1c7p1",
+        "StageNode-a1c7p2"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -388,15 +414,18 @@
         "BattlePass",
         "BattlePass_Banner",
         "BattlePass_Banner_2",
-        "BattlePass_Banner-a1c6"
+        "BattlePass_Banner-a1c6",
+        "BattlePass_Banner-a1c7"
     ],
     "storyTheater": [
         "StoryTheaterMain",
-        "StoryTheaterOther"
+        "StoryTheaterOther",
+        "StoryTheaterMain-a1c7p1"
     ],
     "announcer": [
         "Announcer",
-        "Announcer-a1c6"        
+        "Announcer-a1c6",
+        "Announcer-a1c7p1"
     ],
     "normalBattleHint": [
         "BattleHint_NormalBattle"
@@ -405,14 +434,11 @@
         "BattleHint_AbnorBattle"
     ],
     "tutorialDesc": [
-      "TutorialDesc",
-      "TutorialDesc0-4",
-      "TutorialPopUpDesc",
-      "TutorialNewUpperSkillInfoUI",
-      "TutorialDesc_Ab"
-    ],
-    "battleSpeechBubble": [
-      "BattleSpeechBubbleDlg"
+        "TutorialDesc",
+        "TutorialDesc0-4",
+        "TutorialPopUpDesc",
+        "TutorialNewUpperSkillInfoUI",
+        "TutorialDesc_Ab"
     ],
     "personalityVoice": [
         "Voice_Yisang_LCB_10101",
@@ -531,7 +557,12 @@
         "Voice_Yisang_Funeral_10110",
         "Voice_Ryoshu_Spider_10410",
         "Voice_Rodion_Devjat_10910",
-        "Voice_Ishmael_Zwei_10810"
+        "Voice_Ishmael_Zwei_10810",
+        "Voice_Meursault_Cinq_10511",
+        "Voice_Sinclair_ZweiWest_11010",
+        "Voice_Outis_Bloodfiend_11111",
+        "Voice_Honglu_Bloodhunter_10610",
+        "Voice_Special_999"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -569,9 +600,13 @@
         "Voice_EGO_Gregor_12",
         "Voice_EGO_Enemy_999"
     ],
+    "battleSpeechBubble": [
+        "BattleSpeechBubbleDlg"
+    ],
     "iapProduct": [
         "IAPProduct",
-        "IAPProduct-a1c6"
+        "IAPProduct-a1c6",
+        "IAPProduct-a1c7"
     ],
     "iapSticker": [
         "IAPSticker"
@@ -598,26 +633,30 @@
         "IntroduceCharacter"
     ],
     "userBanner": [
-        "UserBanner"
+        "UserBanner",
+        "UserBanner-a1c7p1"
     ],
     "userTicketL": [
-        "UserTicket-L"
+        "UserTicket-L",
+        "UserTicket-L-a1c7p1"
     ],
     "userTicketR": [
-        "UserTicket-R"
+        "UserTicket-R",
+        "UserTicket-R-a1c7p1"
     ],
     "userTicketEGOBg": [
-        "UserTicket-EGOBg"
+        "UserTicket-EGOBg",
+        "UserTicket-EGOBg-a1c7p1"
     ],
     "bgmLyrics": [
-      "BgmLyrics_Credit",
-      "BgmLyrics_Credit4",
-      "BgmLyrics_Cromer1",
-      "BgmLyrics_Cromer2",
-      "BgmLyrics_DongLang",
-      "BgmLyrics_Ahab",
-      "BgmLyrics_DistHeath",
-      "BgmLyrics_MaouHeath"
+        "BgmLyrics_Credit",
+        "BgmLyrics_Credit4",
+        "BgmLyrics_Cromer1",
+        "BgmLyrics_Cromer2",
+        "BgmLyrics_DongLang",
+        "BgmLyrics_Ahab",
+        "BgmLyrics_DistHeath",
+        "BgmLyrics_MaouHeath"
     ],
     "threadDungeon": [
         "ThreadDungeon"
@@ -664,7 +703,9 @@
         "PanicInfo-a1c6p2",
         "PanicInfo-a1c6p3",
         "PanicInfo-tkt",
-        "PanicInfo-mowe"
+        "PanicInfo-mowe",
+        "PanicInfo-a1c7p1",
+        "PanicInfo-a1c7p2"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"
@@ -679,7 +720,7 @@
         "MirrorDungeonEgoGiftLockedDesc"
     ],
     "danteAbility": [
-      "DanteAbility"
+        "DanteAbility"
     ],
     "mirrorDungeonTheme": [
         "MirrorDungeonTheme-1"
