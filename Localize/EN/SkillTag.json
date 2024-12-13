@@ -219,6 +219,26 @@
     {
       "id": "CriticalEnemyTargetKill",
       "name": "[On Crit Kill Against Enemy]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[Hit after Clash Lose]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[On Target Kill Fail]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[On Ally Kill]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[On Ally Kill Fail]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
     }
   ]
 }

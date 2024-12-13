@@ -9,6 +9,7 @@ using TMPro;
 using UnityEngine;
 using ILObject = Il2CppSystem.Object;
 using UObject = UnityEngine.Object;
+using ULogger = UnityEngine.Logger;
 
 namespace LimbusLocalizeDCLC
 {
@@ -77,35 +78,35 @@ namespace LimbusLocalizeDCLC
         public static Action FatalErrorAction;
         public static string FatalErrorlog;
         #region Блокировка безвредных предупреждений
-        [HarmonyPatch(typeof(Logger), nameof(Logger.Log), new Type[]
+        [HarmonyPatch(typeof(ULogger), nameof(ULogger.Log), new Type[]
         {
             typeof(LogType),
             typeof(ILObject)
         })]
         [HarmonyPrefix]
-        private static bool Log(Logger __instance, LogType logType, ILObject message)
+        private static bool Log(ULogger __instance, LogType logType, ILObject message)
         {
             if (logType == LogType.Warning)
             {
-                string LogString = Logger.GetString(message);
+                string LogString = ULogger.GetString(message);
                 if (!LogString.StartsWith("<color=#0099bc><b>DOTWEEN"))
                     __instance.logHandler.LogFormat(logType, null, "{0}", LogString);
                 return false;
             }
             return true;
         }
-        [HarmonyPatch(typeof(Logger), nameof(Logger.Log),
+        [HarmonyPatch(typeof(ULogger), nameof(ULogger.Log),
         [
             typeof(LogType),
             typeof(ILObject),
             typeof(UObject)
         ])]
         [HarmonyPrefix]
-        private static bool Log(Logger __instance, LogType logType, ILObject message, UObject context)
+        private static bool Log(ULogger __instance, LogType logType, ILObject message, UObject context)
         {
             if (logType == LogType.Warning)
             {
-                string LogString = Logger.GetString(message);
+                string LogString = ULogger.GetString(message);
                 if (!LogString.StartsWith("Material"))
                     __instance.logHandler.LogFormat(logType, context, "{0}", LogString);
                 return false;

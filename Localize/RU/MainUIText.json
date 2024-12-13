@@ -1791,6 +1791,50 @@
     {
       "id": "mainui_exp_dungeon_9_open_day",
       "content": "EXP Luxcavation #7 (Blunt) opens on FRI, SAT, and SUN."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "Cannot\nDeploy\nBase\nIdentity"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "Cannot proceed with this {0} Identity. Support Identities added."
+    },
+    {
+      "id": "caution",
+      "content": "WARNING"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "This Announcer contains spoilers for Chapter <color=#990000><{0}-{1}></color>.\n\nView anyway?\""
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "One of the rewards you are about to claim\nincludes an Announcer who may contain spoilers\nfor a Chapter you haven't cleared yet.\n\nClaim them anyway?"
+    },
+    {
+      "id": "select_all",
+      "content": "Select All"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Deselect All"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
+    },
+    {
+      "id": "vending_machine_item_available_date_label",
+      "content": "Dispenser Unlock:\n{0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date",
+      "content": "Seasonal Identities can be Dispensed from the Dispenser starting from {0}/{1} {2} ({3})"
     }
   ]
 }

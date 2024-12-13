@@ -248,6 +248,13 @@
           "result": [
             "Вы накладываете бинты\nна раны в его груди.\n\nКровь сочится и пропитывает ткань.\nКажется, рана ещё болит.\n\nВы перевязываете её ещё раз,\nчтобы бинты держались долго."
           ]
+        },
+        {
+          "message": "Embrace the Sinners.",
+          "messageDesc": "Win the battle to earn a Keywordless E.G.O Gift and a Bleed E.G.O Gift",
+          "result": [
+            "Hugging that teddy bear would be very difficult, given all those nails protruding from its body.\n\nInstead, I decide to hug the Sinners one by one to see how it reacts.\n\nMost Sinners push me away, taken aback from the sudden awkwardness...\n\n... but the teddy bear impatiently stomps its feet, apparently jealous.\n\nPerhaps what it wanted was affection, after all?\n\nThe teddy bear rushes toward us, as if it's asking us to hug it as well."
+          ]
         }
       ]
     },
@@ -466,7 +473,7 @@
       "options": [
         {
           "message": "Прочитать табличку.",
-          "messageDesc": "Gluttony & Pride Advantage check. Pass to gain a Keywordless E.G.O Gift."
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Keywordless E.G.O Gift."
         },
         {
           "message": "Зачеркнуть буквы.",
@@ -534,7 +541,7 @@
       "options": [
         {
           "message": "Подойти к нему.",
-          "messageDesc": "Gluttony & Pride Advantage check. Pass to gain a Bleed E.G.O Gift."
+          "messageDesc": "Run a Gluttony & Pride Advantage check to gain a Bleed E.G.O Gift."
         },
         {
           "message": "Помахать в ответ.",
@@ -973,6 +980,13 @@
           "result": [
             "«Пха! Вы просто никогда качественный алкоголь не пили~ Угощайтесь!»\n\nВы резко отказываетесь от угощения.\n\n«Серьёзно?.. Такое дорогое спиртное, вы уверены?»\n\nВновь следует отказ.\n\n«Цк... Всё настроение испортили».\n\nСущество оставляет бутылку спиртного на месте и скрывается за стеной пара."
           ]
+        },
+        {
+          "message": "I don't know how to live without alcohol.",
+          "messageDesc": "Run a Sloth & Gluttony Advantage check to gain an E.G.O Gift.",
+          "result": [
+            ""
+          ]
         }
       ]
     },
@@ -1012,6 +1026,13 @@
           "messageDesc": "Select to gain a Keywordless E.G.O Gift",
           "result": [
             "Вы пробиваете отверстие пошире, и кровь кого-то некогда живого хлещет всё сильней, погребая под собой розу.\n\nСловно переполненная радостью, роза отпускает корни и ныряет в кровавый поток.\n\nОна погружается в него всё глубже и наконец опускается на самое дно.\n\nВ середине кровавой лужи распускается новый цветок.\n\nБыть может, это благодарность нам? Мы осторожно его подбираем."
+          ]
+        },
+        {
+          "message": "Feed it the blood of the Sinners",
+          "messageDesc": "Select to gain a Bleed E.G.O Gift",
+          "result": [
+            "What is the nature of the blood that fills the spring? Who—or what—is it from?\n\nInstead of feeding it that mysterious blood, I decide to feed it blood of the Sinners.\n\nThe bloodsteeped rose extends its petals, yearning for our blood nevertheless.\n\nThe rose drinks the blood of the Sinners, and a smaller flower blossoms next to the base of its stem.\n\nPerhaps it is giving us a gift in return for our blood. I carefully pick up the flower."
           ]
         }
       ]
@@ -1171,7 +1192,7 @@
       "options": [
         {
           "message": "Срезать кольцо.",
-          "messageDesc": "Gloom & Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
+          "messageDesc": "Run a Gloom & Envy Advantage check to gain a Charge E.G.O Gift.",
           "result": [
             ""
           ]
@@ -1199,8 +1220,16 @@
         },
         {
           "message": "Притвориться, что не знаете.",
+          "messageDesc": "Win the battle to earn 2 Rupture E.G.O Gifts",
           "result": [
-            "«Всякой сказке уготован свой конец... Так говорил мне клиент».\n\n«Я не могу с этим не согласиться».\n\n«Раз у этой истории такая развязка, так тому и быть».\n\nОхотник развернул скакуна туда, откуда прибыло к нам, и медленно двинулся прочь.\n\n«Да... Если кто-то узнает, что ход истории изменили вы, пеняйте на себя».\n\nОн скрылся, оставив вас наедине с размышлениями о его словах."
+            "\"You do not know? I see. If that is the determined trajectory of this tale, then it must be followed.\"\n\n\"Yet... how would you explain that thing hiding behind your leg?\"\n\nThe entity asks us with an air of hostility. It must've noticed the apple trembling behind my leg.\n\nAfter a quick deliberation with the Sinners, I decided to try lying to the entity.\n\n\"... You say that it is a pomegranate, not an apple? Do you take me for a witless imbecile? \"\n\n\"Enough talk. Make way, or suffer my wrath!\"\n\nThe entity charges at us, the lasso swinging wildly above its head."
+          ]
+        },
+        {
+          "message": "Point it in the wrong direction.",
+          "messageDesc": "Pride & Envy Advantage check. Pass to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
           ]
         }
       ]
@@ -1385,6 +1414,13 @@
           "result": [
             "'Спасибо, мне надо спешить, скоро начнётся распределение».\n\nГоворит Аномалия, держа пиджак одной из своих рук.\n\n«Это мне больше не понадобится».\n\nБабочка отправляется распространять пыльцу.\n\nОстаётся надеяться, что хотя бы маленький лучик солнца осветит её путь."
           ]
+        },
+        {
+          "message": "Try to console them.",
+          "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Sinking E.G.O Gift.",
+          "result": [
+            ""
+          ]
         }
       ]
     },
@@ -1460,7 +1496,7 @@
       "options": [
         {
           "message": "Согласиться на операцию.",
-          "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "messageDesc": "Run a Sloth & Gloom Advantage check to gain a Keywordless E.G.O Gift.",
           "result": [
             ""
           ]
@@ -1481,7 +1517,7 @@
       "options": [
         {
           "message": "Заполнить сосуд кровью Грешника.",
-          "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "messageDesc": "Run a Lust & Gloom Advantage check to gain a Keywordless E.G.O Gift.",
           "result": [
             ""
           ]
@@ -1594,6 +1630,119 @@
           "messageDesc": "Run a Lust & Sloth Advantage check. Pass to gain an E.G.O Gift.",
           "result": [
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901100,
+      "name": "",
+      "subDesc": "",
+      "desc": "The blocks are turning, interlocking and noisily grinding against one another.\n\nThe entity changes shape with every offering from surrounding clay dolls.\n\nSometimes its blocks rotate, and sometimes chunks of its red flesh shrink and stretch.\n\nSomething falls to the ground from its endlessly distorting form.\n\nOne of its blocks fell out of place, pushed out amidst the constant change.\n\nEven the clay dolls stop making their offerings, confused. They stare at the block.",
+      "options": [
+        {
+          "message": "Pick up the block.",
+          "messageDesc": "Wrath & Lust Advantage check. Pass to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Don't pick up the block.",
+          "result": [
+            "No need to get so up close and personal with this monstrous thing.\nWe leave the block on the ground and vacate to find a different path."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901101,
+      "name": "",
+      "subDesc": "",
+      "desc": "A thunderous howl booms from where lightning strikes.\n\nThere lies a hound with numerous heads; multiple telepoles are protruding from its back.\n\nI can see violet flashovers sparking from all of them, though they were all of differing sizes.\n\nThe hound hasn't noticed our approach just yet.\n\nMaybe we can take one of them if we sever its wire.",
+      "options": [
+        {
+          "message": "Take a small telepole.",
+          "messageDesc": "Pride & Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Yank out all of its telepoles.",
+          "messageDesc": "Win the battle to earn a Charge E.G.O Gift",
+          "result": [
+            "I told the Sinners to yank out every telepole they see.\n\nThey must've been pulling out its telepoles for a while now...\n\nThe docile hound suddenly jumps to its feet and cries, its howl like a thunder.\n\nLooks like we're going to have to fight our way through."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901102,
+      "name": "",
+      "subDesc": "",
+      "desc": "This place is brimming with the high-pitched screech of metals and industrial machine hammers slamming into something.\n\nFollowing the clamor led us to what looks like a plastic toy model of a factory.\n\nThis smoke-fuming factory of mysterious products churns on and on.\n\nA large octagonal screw tumbles out of the factory.",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Select to gain a Charge E.G.O Gift",
+          "result": [
+            "We picked up the massive octagonal screw.\n\nThere's no reaction from the factory even as we get further and further away.\n\nIt continues to churn and spew fumes as though to say that it has no need of the screw."
+          ]
+        },
+        {
+          "message": "Leave it there.",
+          "result": [
+            "We stood there for a while, waiting to see what might happen. The screw eventually rolled its way back into the factory.\n\nWas it a part of the factory, or was it the very thing that the factory produces?\n\nThough there was no way for us to know for sure, I could tell that the metallic noises coming from the factory sounded a tad more coordinated."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901103,
+      "name": "",
+      "subDesc": "",
+      "desc": "A forsaken tavern.\n\nWarm, hearty aroma of stew wafts from the empty kitchen.\n\nFollowing the trail of that delicious scent leads us to a coiling lizard with a head not unlike a cauldron.\n\nWithin its head is a hotly roaring fire and a modest cauldron dangling from above it.\n\nAncient stew boils vigorously from within the cauldron. It's been boiling for so long that it's become impossible to tell what the original ingredients may have been.\n\nAs I stood there wondering what must be done with this stew, a voice echoes from underneath the cauldron.\n\nThere lies a sentient hearthflame, speaking to us.\n\n'There isn't anyone left here to enjoy the stew.'\n'Would ya mind removing the cauldron?'",
+      "options": [
+        {
+          "message": "Gobble up the stew.",
+          "result": [
+            "The cauldron looks too heavy and hot for us to move, let alone touch.\n\nA discussion with the Sinners led to the conclusion that we would all rather try the stew instead.\n\nAccording to the Sinners, the stew tasted of... stewed meat and mysterious veggies.\n\nClearly, it was pretty delicious, if a bit mundane.\n\nThe hearthflame falls silent as well, apparently satisfied."
+          ]
+        },
+        {
+          "message": "Take the cauldron.",
+          "messageDesc": "Run a Wrath & Lust Advantage check to gain a Burn E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Take the hearthflame.",
+          "messageDesc": "Select to gain a Burn E.G.O Gift",
+          "result": [
+            "Cauldron... stew... all of that pales in comparison to a hearthflame that can speak.\n\nAfter a discussion with the Sinners, I decided to take the hearthflame.\n\n'Wha? Y-you're taking me? Huh? Why?'\n'What the hell— Why are you taking <i>me</i>?'\n\nThe astonished hearthflame continued to express its confusion, but I didn't really have an answer to give it, either.\nIt wasn't like it could understand what I was saying, given that I can communicate only in ticks and tocks...\nI continued to walk away in hurried steps without answering its questions, and the hearthflame soon fell silent as well."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 901104,
+      "name": "",
+      "subDesc": "",
+      "desc": "There is an indent on the earth, filled with water.\n\nSomething that lies within is constantly making ripples on its surface.\n\nA closer approach revealed a headless fish swimming in that shallow puddle.\n\nIts splashing movements are spirited, despite the glaring lack of a head.\n\nIs it twisting its body from pain?\n\nOr is it merely glad to be swimming in water?",
+      "options": [
+        {
+          "message": "Splash around together.",
+          "result": [
+            "I fell chest-first into the puddle and splashed around with the fish.\n\nSome Sinners joined in and splashed around together.\n\nWe all felt a little better, for some reason."
+          ]
+        },
+        {
+          "message": "Pop its sac.",
+          "messageDesc": "Win the battle to earn a Bleed E.G.O Gift",
+          "result": [
+            "The blood-filled sac of that fish must be causing it pain.\n\nPerhaps it can splash around more comfortably without that big sac of blood weighing it down?\n\nI ask the Sinners to pop its blood sac, but the fish turns aggressive and advances toward us upon hearing my order.\n\nAll that splashing around most likely had little to do with its blood sac."
           ]
         }
       ]

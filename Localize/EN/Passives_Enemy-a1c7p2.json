@@ -8,7 +8,7 @@
         {
             "id": 9017501,
             "name": "Festive Mood",
-            "desc": "Gain 1 [FestivalFever] every time this unit gains positive buff with Skill effects (once per type of buff)\n\nTurn Start: gain [FestivalFever] equal to the number of other allies (max 3)\nTurn End: lose [FestivalFever] equal to the number of allies that were killed this turn\n\nTurn End: heal SP equal to [FestivalFever] on self (does not activate at -45 SP)\nTurn End: at 8+ [FestivalFever], use a powerful Skill next turn"
+            "desc": "Gain 1 [FestivalFever] every time this unit gains positive buff with Skill effects (once per type of buff)\n\nTurn Start: gain [FestivalFever] equal to the number of other allies (max 3)\nTurn End: lose [FestivalFever] equal to the number of allies that were killed this turn\nTurn End: heal SP equal to [FestivalFever] on self (does not activate at -45 SP)\n\nTurn End: at 8+ [FestivalFever], use a powerful Skill next turn"
         },
         {
             "id": 9017502,
@@ -28,7 +28,7 @@
         {
             "id": 9017505,
             "name": "Bloodfeast",
-            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. When this unit enters the field, the sleeping blood drenching the battlefield will surface."
+            "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will surface."
         },
         {
             "id": 9017506,

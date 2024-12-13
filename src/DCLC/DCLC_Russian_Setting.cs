@@ -108,12 +108,11 @@ namespace LimbusLocalizeDCLC
         {
             if(!IsUseRussian.Value)
                 return true;
-            if (data != null && data.GetLackOfBuffs() != null && data.GetLackOfBuffs().Count > 0)
-                {
-                    string text = Singleton<TextDataManager>.Instance.BufList.GetData(data.GetLackOfBuffs()[0].ToString()).GetName() + " недостаточно";
-                    __instance.UIManager.bufTypoUI.OpenBufTypo(BUF_TYPE.Negative, text, data.GetLackOfBuffs()[0]);
-                }
-            return false;
+            if (data?._lackOfBuffs?.Count > 0)
+                __instance.UIManager.bufTypoUI.OpenBufTypo(BUF_TYPE.Negative,
+                    TextDataManager.Instance.BufList.GetData(data._lackOfBuffs[0].ToString()).GetName() + " недостаточно",
+                    data._lackOfBuffs[0]);
+        return false;
 
         }
         [HarmonyPatch(typeof(StoryPlayData), nameof(StoryPlayData.GetDialogAfterClearingAllCathy))]
