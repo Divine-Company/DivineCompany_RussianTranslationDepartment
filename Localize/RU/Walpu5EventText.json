@@ -10,11 +10,11 @@
     },
     {
       "id": "Walpu5_normal_stage",
-      "content": "Начать лёгкий режим"
+      "content": "Лёгкий режим"
     },
     {
       "id": "Walpu5_hard_stage",
-      "content": "Начать сложный режим"
+      "content": "Сложный режим"
     },
     {
       "id": "Walpu5_normal_stage_name",
@@ -134,7 +134,7 @@
     },
     {
       "id": "Walpu5_reward_event_desc",
-      "content": "Победите оследователей Церкви Шестерёнок в Лёгком и Сложном режимах и выполните задачи.\n\nЗа их выполнение вы получите награды."
+      "content": "Победите Последователей Церкви Шестерёнок в Лёгком и Сложном режимах и выполните задачи.\n\nЗа их выполнение вы получите награды."
     },
     {
       "id": "Walpu5_reward_normal_tab",
@@ -142,23 +142,23 @@
     },
     {
       "id": "Walpu5_reward_hard_tab",
-      "content": "Трудно"
+      "content": "Сложно"
     },
     {
-      "id": "Walpu5_modal_yes",
+      "id": "walpu3_modal_yes",
       "content": "Да"
     },
     {
-      "id": "Walpu5_modal_no",
+      "id": "walpu3_modal_no",
       "content": "Нет"
     },
     {
       "id": "walpu_modal_enterStage_10562",
-      "content": "Готовы ли вы войти в Книгу о Цервки Шестерёнок?"
+      "content": "Готовы ли вы войти в Книгу о Церкви Шестерёнок?"
     },
     {
       "id": "walpu_modal_enterStage_10563",
-      "content": "Готовы ли вы войти в Книгу о Цервки Шестерёнок?"
+      "content": "Готовы ли вы войти в Книгу о Церкви Шестерёнок?"
     },
     {
       "id": "walpu_battle_2_wave",
@@ -166,15 +166,15 @@
     },
     {
       "id": "walpu_battle_name_10562",
-      "content": "Последователь Церкви Шестерёнок"
+      "content": "Последователи Церкви Шестерёнок"
     },
     {
       "id": "walpu_battle_name_10563",
-      "content": "Последователь Церкви Шестерёнок"
+      "content": "Последователи Церкви Шестерёнок"
     },
     {
       "id": "walpu_battle_name_10564",
-      "content": "Последователь Церкви Шестерёнок"
+      "content": "Последователи Церкви Шестерёнок"
     },
     {
       "id": "tutorial_mainui_27_Walpu5_01_title",
@@ -250,19 +250,19 @@
     },
     {
       "id": "KillCount_Title_LOR_2",
-      "content": "Foes Slain"
+      "content": "Врагов пало"
     },
     {
       "id": "LOR_KillCountTitle_2",
-      "content": "Gear Worshipper"
+      "content": "Последователи"
     },
     {
       "id": "walpu_battle_result_win_2",
-      "content": "{0} Battle Completed"
+      "content": "Вы устранили {0}"
     },
     {
       "id": "walpu_battle_result_lose_2",
-      "content": "{0} Elimination Failed"
+      "content": "Вы не смогли устранить {0}"
     },
     {
       "id": "walpu_battle_result_win_1",
@@ -274,15 +274,15 @@
     },
     {
       "id": "mainui_battleresult_win_lor_stage_type_2",
-      "content": "Battle Completed"
+      "content": "Бой завершён"
     },
     {
       "id": "mainui_battleresult_defeat_lor_stage_type_2",
-      "content": "Elimination Failed"
+      "content": "Устранение провалено"
     },
     {
       "id": "mainui_battleresult_reward_title_lor_stage_type_2",
-      "content": "Vanquished Entities"
+      "content": "Повержено целей"
     },
     {
       "id": "walpu5_battle_entrance",

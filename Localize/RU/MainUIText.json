@@ -290,7 +290,7 @@
     },
     {
       "id": "mainui_support",
-      "content": "Поддержка"
+      "content": "<size=45px><line-height=50%>Помощь друзей"
     },
     {
       "id": "mainui_gacha_rateinfo",
@@ -1847,6 +1847,10 @@
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
       "content": "Don't see this message again"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "Notification Settings"
     }
   ]
 }
