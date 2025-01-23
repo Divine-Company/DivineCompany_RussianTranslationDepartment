@@ -85,7 +85,7 @@ namespace LimbusLocalizeDCLC
             ReadmeList.Clear();
             foreach (var notices in JSONNode.Parse(File.ReadAllText(LCB_DCLCMod.ModPath + "/Localize/Readme/Readme.json"))[0].AsArray.m_List)
             {
-                ReadmeList.Add(new Notice(JsonUtility.FromJson<KGPGBMLAEJC>(notices.ToString()), LOCALIZE_LANGUAGE.KR));
+                ReadmeList.Add(new Notice(JsonUtility.FromJson<JIDKMFJDLEG>(notices.ToString()), LOCALIZE_LANGUAGE.KR));
             }
         }
         public static List<Notice> ReadmeList = new();

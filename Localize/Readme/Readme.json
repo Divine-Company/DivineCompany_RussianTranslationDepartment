@@ -21,6 +21,16 @@
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Всё обсуждается в нашем дискорде:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://discord.gg/dqpnxc9muc>Divine Company</link>\"}]}"
 	},
   {
+    "id": 3194,
+    "version": 0,
+    "type": 0,
+    "startDate": "2025-01-23T00:00:00.000Z",
+    "endDate": "2025-12-31T23:00:00.000Z",
+    "sprNameList": [],
+    "title_KR": "Divine Company 0.2.1.1",
+    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2.1.1:\\n- Починка русификатора после нового обновления\\n- Перевод имён нового события \\n- Редактирование перевода</size>\"}]}"
+  },
+  {
     "id": 3195,
     "version": 0,
     "type": 0,

@@ -17,7 +17,7 @@ namespace LimbusLocalizeDCLC
         public static string GamePath;
         public const string GUID = "Com.Bright.LocalizeLimbusCompany";
         public const string NAME = "DivineCompany";
-        public const string VERSION = "0.2.1";
+        public const string VERSION = "0.2.1.1";
         public const string AUTHOR = "Original: Bright; Fork: KreeperHLC and Helck1";
         public const string DCLCLink = "https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment";
         public static Action<string, Action> LogFatalError { get; set; }
@@ -33,7 +33,7 @@ namespace LimbusLocalizeDCLC
             LogFatalError = (string log, Action action) => { DCLC_Manager.FatalErrorlog += log + "\n"; LogError(log); DCLC_Manager.FatalErrorAction = action; DCLC_Manager.CheckModActions(); };
             ModPath = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
             GamePath = new DirectoryInfo(Application.dataPath).Parent.FullName;
-            DCLC_UpdateChecker.StartAutoUpdate();
+            //DCLC_UpdateChecker.StartAutoUpdate(); TODO
             try
             {
                 Harmony harmony = new(NAME);
