@@ -150,7 +150,7 @@
       "prevDesc": "",
       "behaveDesc": "Кто её прочитает?",
       "successDesc": [
-        "Буквы на табличке вам незнакомы.\n\nХоть вы не понимаете весь текст,\nнекоторые слова выделяются.\n\nПравосудие...\nВозмездие...\nНаказание...\n\nВы также видите несколько словосочетаний, прочтение\nкоторых может обернуться для вас печальным исходом.\n\nВы вновь смотрите на писаря, он кивает\nвам и взмывает в небеса."
+        "Буквы на табличке вам незнакомы.\n\nХоть вы не понимаете весь текст,\nнекоторые слова выделяются.\n\nПравосудие...\nВозмездие...\nНаказание...\n\nВы также видите несколько словосочетаний, прочтение которых может обернуться для вас печальным исходом.\n\nВы вновь смотрите на писаря. Он кивает вам и взмывает в небеса."
       ],
       "failureDesc": [
         "Буквы на табличке вам незнакомы.\n\nВы думаете, что сможете их разобрать.\nНадо лишь немного напрячься.\n\nЕщё немного... Ещё чуть-чуть...\n\nКогда вы приходите в себя, писаря уже нет.\nВы остались одни с изумрудной табличкой в руках."
@@ -255,10 +255,10 @@
       "prevDesc": "",
       "behaveDesc": "Каковы ваши действия?",
       "successDesc": [
-        "“Причините многоножке боль путём электростимуляции,\nчтобы увеличить мощность разрядов».\n\nТак сказано на надписи над кнопками.\n\nВы нажимаете на кнопку, и аквариум заполняется водой.\n\nТело многоножки начинает дёргаться, словно в танце.\n\nПо всей видимости, нерадостном."
+        "«Причините многоножке боль путём электростимуляции,\nчтобы увеличить мощность разрядов».\n\nТак сказано на надписи над кнопками.\n\nВы нажимаете на кнопку, и аквариум заполняется водой.\n\nТело многоножки начинает дёргаться, словно в танце.\n\nПо всей видимости, нерадостном."
       ],
       "failureDesc": [
-        "“Причините многоножке боль путём электростимуляции,\nчтобы увеличить мощность разрядов».\n\nТак сказано на надписи над кнопками.\n\nВы нажимаете на кнопку, и аквариум заполняется водой.\n\nТело многоножки начинает дёргаться, словно в танце.\n\nВы смотрите, как её хвост царапает стекло.\nОно трескается, и вскоре стенки аквариума рушатся.\n\nНас обдаёт наэлектризованная вода."
+        "«Причините многоножке боль путём электростимуляции,\nчтобы увеличить мощность разрядов».\n\nТак сказано на надписи над кнопками.\n\nВы нажимаете на кнопку, и аквариум заполняется водой.\n\nТело многоножки начинает дёргаться, словно в танце.\n\nВы смотрите, как её хвост царапает стекло.\nОно трескается, и вскоре стенки аквариума рушатся.\n\nНас обдаёт наэлектризованная вода."
       ]
     },
     {
@@ -271,7 +271,7 @@
         "«Ага, отлично! Вот, пейте».\n\nГустая обжигающая жидкость словно бушует во всём теле.\n\n«М-м-м, мне нравится, как вы пьёте!»\n\nВы словно взмываете в небеса и чувствуете себя в как никогда лучшей форме.\n\n«Чувствуете эту магию? Вот это я понимаю, качественное медицинское снадобье! Давайте, ещё глоток!»\n\nСделав ещё несколько глотков, мы покидаем существо, полные сил и энергии."
       ],
       "failureDesc": [
-        "«Ага, отлично! Вот, пейте».\n\nГустая обжигающая жидкость словно бушует во всём теле.\n\n«Эй... Вы как?»\n\nПриступ тошноты сопровождается смещением всего, что в поле зрения, налево.\n\n«Какая досада... Такой качественный напиток... А ваше тело его, увы, не переносит. Лучше его не пейте».\n\nПытаясь не потерять голову и всё вокруг из виду, мы спешно покидаем существо.\n\nПо пути мы задеваем стены и бьёмся о них, но даже это лишь смутно остаётся в памяти."
+        "«Ага, отлично! Вот, пейте».\n\nГустая обжигающая жидкость словно бушует во всём теле.\n\n«Эй... Вы как?»\n\nПриступ тошноты сопровождается смещением всего, что в поле зрения, налево.\n\n«Какая досада... Такой качественный напиток... а ваше тело его, увы, не переносит. Лучше его не пейте».\n\nПытаясь не потерять голову и всё вокруг из виду, мы спешно покидаем существо.\n\nПо пути мы задеваем стены и бьёмся о них, но даже это лишь смутно остаётся в памяти."
       ]
     },
     {
@@ -669,12 +669,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will comfort it?",
+      "behaveDesc": "Кто утешит существо?",
       "successDesc": [
-        "{0} tries to comfort the Abnormality by saying that it will pass next time.\nI also quickly add that what really matters is the will to pass...\n... and even if it fails again, there'll always be a different path.\n\n'You share such kind words to a stranger.'\n'Right. I'll try again, and I'll make it this time.'\n'But even if I don't... should I continue to live on, I'm sure I'll stumble across another opportunity. A different path.'\n'Thank you.'\n\nFluttering butterflies dance around us, forming a line of butterflies before following {0}'s shadow."
+        "{0} пытается убедить Аномалию, что в следующий раз у неё всё получится.\nЯ также добавляю от себя, что главное — это быть настроенным на успех...\n...и даже в случае неудачи всегда есть альтернативный путь.\n\n«Вы слишком добры к незнакомцам.»\n«Но вы правы. Я попробую сдать ещё раз, и меня будет ждать успех.»\n«А если нет... тогда я продолжу жить, и мне обязательно попадётся другая возможность. Другой путь.»\n«Спасибо вам.»\n\nНас окружают бабочки, которые, порхая, выстраиваются в ряд и следуют туда, куда идёт {0}."
       ],
       "failureDesc": [
-        "{0} interrogates the Abnormality, suggesting that maybe it just didn't do enough to prepare for the interview.\nI also quickly tried to add that what really matters is the will to pass...\n... but the Abnormality is already casting a downward gaze, beaten down from {0}'s brutally rational advice.\n\n'I'm not looking for an advice right now.'\n'No, actually, I don't think your advice will be of any comfort to me, now or later.'\n\nThe streetlight dies, and shadow fills the space.\nI can no longer feel the Abnormality's presence."
+        "{0} засыпает Аномалию вопросами и выдвигает тезис, что, вероятно, она мало готовилась к экзамену.\nЯ пытаюсь быстро добавить от себя, что главное — это быть настроенным на успех...\n...но Аномалия уже поникла — видимо, {0} произносит слишком жестокие слова.\n\n«Сейчас мне нужны не советы.»\n«Хотя нет. Я думаю, ваши слова не будут мне советом ни сейчас, ни впредь.»\n\nУличный фонарь гаснет, и вокруг опускается тень.\nЯ больше не чувствую присутствие Аномалии."
       ]
     },
     {
@@ -682,12 +682,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will step forth?",
+      "behaveDesc": "Кто выйдет вперёд?",
       "successDesc": [
-        "{0} walks past the clay dolls and stands before the entity.\n\nThe Sinner picks up the block and attempts to fit it into an opening, but the entity's form is too different now. There is no place for the block.\nClick. Clack.\nThe faint noise grows gradually clearer.\nIt's the sound of interlocking, turning blocks.\n{0} looks up at the threateningly intensifying noise.\nThe disc is now the deep, dense color of the night sky, shimmering with light.\n\n{0} quickly retreats from this ominous transformation, gulping with fear."
+        "{0} минует глиняных кукол и встаёт перед Аномалией.\n\nГрешник поднимает плиту и пытается вставить её в пустеющую щель, однако существо слишком сильно изменило свою форму. Плите уже нет места.\nЩёлк, щёлк.\nТихий звук становится всё громче.\nЗвучат соединяющиеся и вращающиеся плиты.\n{0} поднимает голову на звук, ужасающий своей нарастающей громкостью.\nДиск мерцает густым тёмным цветом ночного неба.\n\n{0} стремительно отбегает от зловеще трансформирующегося существа, глубоко дыша от страха."
       ],
       "failureDesc": [
-        "{0} walks past the clay dolls and stands before the entity.\n\nThe Sinner picks up the block and attempts to fit it into an opening, but the entity's form is too different now. There is no place for the block.\nClick. Clack.\nThe faint noise grows gradually clearer.\nIt's the sound of interlocking, turning blocks.\n{0} looks up at the threateningly intensifying noise.\nThe disc is now the deep, dense color of the night sky, shimmering with light.\n\n{0} quickly tries to retreat from this ominous transformation, gulping from fear...\nbut the clay dolls all grab onto {0} in dull, hypnotic movements, trapping the Sinner there.\nOnly after shaking them off could {0} retreat to safety."
+        "{0} минует глиняных кукол и встаёт перед Аномалией.\n\nГрешник поднимает плиту и пытается вставить её в пустеющую щель, однако существо слишком сильно изменило свою форму. Плите уже нет места.\nЩёлк, щёлк.\nТихий звук становится всё громче.\nЗвучат соединяющиеся и вращающиеся плиты.\n{0} поднимает голову на звук, ужасающий своей нарастающей громкостью.\nДиск мерцает густым тёмным цветом ночного неба.\n\n{0}, глубоко дыша от страха, пытается отбежать от зловеще трансформирующегося существа...\nно {0} оказывается в окружении глиняных кукол, медленно тянущихся к Грешнику.\nЛишь стряхнув их, {0} оказывается в безопасности."
       ]
     },
     {
@@ -695,12 +695,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who should yank out a telepole?",
+      "behaveDesc": "Кто вытащит один из электростолбов?",
       "successDesc": [
-        "{0} removed the smallest telepole.\n\nThere is a low, warning growl, but that's the end of it.\n\nMaybe this level of intrusion was tolerable.\n\nRelieved, we leave the place still full of lightning strikes."
+        "{0} вытаскивает самый маленький электростолб.\n\nПёс издаёт глухой предупредительный рык, но этим всё и заканчивается.\n\nВозможно, такое нарушение спокойствия пёс счёл приемлемым.\n\nВздохнув с облегчением, мы покидаем место, полное разрядов молний."
       ],
       "failureDesc": [
-        "{0} removed the smallest telepole.\n\nThere is a low, warning growl; a spark rapidly climbs the telepole.\n\n{0} quickly released the telepole, but it was too late.\n\n{0} returns empty-handed, sizzled by lightning."
+        "{0} вытаскивает самый маленький электростолб.\n\nПёс издаёт глухой предупредительный рык, и по электростолбу начинают бежать искры.\n\n{0} быстро отпускает столб, но уже поздно.\n\n{0} возвращается с пустыми руками и следами от электрических ожогов."
       ]
     },
     {
@@ -708,12 +708,12 @@
       "title": "",
       "eventDesc": "",
       "prevDesc": "",
-      "behaveDesc": "Who will get the cauldron off the fire?",
+      "behaveDesc": "Кто снимет котёл с огня?",
       "successDesc": [
-        "{0} grabbed the cauldron and pulled it off the fire.\n\nTheir hand was lightly burned, but it wasn't anything serious.\n\n'Thanks. Feel free to keep the cauldron.'\n\nThe hearthflame thanked us."
+        "{0} хватает котёл и снимает его с пламени.\n\nРука Грешника обожжена, но несильно.\n\n«Спасибо. Котёл можете оставить себе.»\n\nПламя отблагодарило нас."
       ],
       "failureDesc": [
-        "{0} grabbed the cauldron and pulled it off the fire...\n\n... but tripped on a protruding piece of rock, pouring hot stew all over the other Sinners.\n\n'O-oh no, are you guys okay? That must've been really hot.'\n'Still, thank you. Feel free to keep the cauldron...'\n\nThe hearthflame thanked us, if a bit apologetically."
+        "{0} хватает котёл и снимает его с пламени...\n\n...но спотыкается о выпирающий камень и проливает горячий суп на остальных Грешников.\n\n«О-ого, вы как, в порядке? Должно быть, вас сильно ошпарило.»\n«Спасибо вам за помощь. Котёл можете оставить себе...»\n\nПламя отблагодарило нас, пусть и извиняющимся тоном."
       ]
     }
   ]

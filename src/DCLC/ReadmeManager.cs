@@ -102,8 +102,8 @@ namespace LimbusLocalizeDCLC
         }
         public static Notice HandleDynamicType(string jsonPayload)
         {
-            var noticetype = typeof(NoticeSynchronousDataList).GetMethod("get_noticeFormats")!.Invoke(SynchronousDataManager.Instance.NoticeSynchronousDataList, null)!.GetType()
-                .GetGenericArguments()[0];
+            var noticetype = typeof(NoticeSynchronousDataList).GetProperty("noticeFormats")!.PropertyType
+            .GetGenericArguments()[0];
 
             var deserializedObject = typeof(JsonUtility).GetMethod("FromJson", [typeof(string)])!
                 .MakeGenericMethod(noticetype).Invoke(null, [jsonPayload]);

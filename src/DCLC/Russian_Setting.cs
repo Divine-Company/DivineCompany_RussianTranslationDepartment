@@ -12,6 +12,8 @@ namespace LimbusLocalizeDCLC
 {
     public static class DCLC_Russian_Setting
     {
+        public static ConfigEntry<bool> Lyrics = DCLCMod.DCLC_Settings.Bind("DCLC Settings", "Lyrics", false, "Экспериментальное: Включение субтитров в битвах (true|false)");
+
         public static ConfigEntry<bool> IsUseRussian = DCLCMod.DCLC_Settings.Bind("DCLC Settings", "IsUseRussian", true, "Использовать Русский ( true | false )");
         static bool _isuserussian;
         static Toggle Russian_Setting;

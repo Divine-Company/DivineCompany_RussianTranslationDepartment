@@ -90,6 +90,9 @@
     <Reference Include="UnityEngine.UnityWebRequestModule">
       <HintPath>..\lib\UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
+    <Reference Include="FMODUnity">
+      <HintPath>..\lib\FMODUnity.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Target Name="CopyFile" AfterTargets="build">
     <Message Text="Copying files..." Importance="high" />

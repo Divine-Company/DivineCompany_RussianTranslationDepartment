@@ -38,6 +38,17 @@ namespace LimbusLocalizeDCLC
             TextMeshProUGUI Title_textTMP = __instance._stageInfoDisplay.rect_title.GetChild(2).GetComponentInChildren<TextMeshProUGUI>(true);  //TODO Rewrite
             Title_textTMP.characterSpacing = 1;
         }
-        
+
+        [HarmonyPatch(typeof(NetworkingUI), "Initialize")]
+        [HarmonyPostfix]
+        private static void NetworkingUI_Init(NetworkingUI __instance)
+        {
+            TextMeshProUGUI connecting_textTMP = __instance._connectingRoot.GetComponentInChildren<TextMeshProUGUI>(true);
+            connecting_textTMP.text = "СОЕДИНЕНИЕ";
+            connecting_textTMP.fontSize = 98;
+            connecting_textTMP.font = Russian_Font.GetRussianFonts(0);
+        }
+
+
     }
 }

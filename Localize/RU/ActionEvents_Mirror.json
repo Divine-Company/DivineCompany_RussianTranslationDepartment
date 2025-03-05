@@ -102,12 +102,12 @@
       "id": 901002,
       "name": "",
       "subDesc": "",
-      "desc": "Кровь стекает стеной; за ней лежат горы золота.\nВпереди спираль, что громко скрипит.\n\nПо-видимому, она долго сверлила вглубь, чтобы здесь оказаться.\nУ неё нет глаз, но она поворачивается к вам.",
+      "desc": "Кровь стекает стеной; за ней лежат горы золота.\n\nВпереди спираль, что громко скрипит.\n\nПо-видимому, она долго сверлила вглубь, чтобы здесь оказаться.\n\nУ неё нет глаз, но она поворачивается к вам.",
       "options": [
         {
           "message": "Смотреть на неё.",
           "result": [
-            "Вы жадно наблюдаете за её вращением.\nВашу голову пронзают спирали из шипов.\n\nГнев и презрение фонтанируют из обнажённого мозга.\nПохоже, эти чувства всё время были внутри вас."
+            "Вы жадно наблюдаете за её вращением.\n\nВашу голову пронзают спирали из шипов.\n\nГнев и презрение фонтанируют из обнажённого мозга.\n\nПохоже, эти чувства всё время были внутри вас."
           ]
         },
         {
@@ -121,7 +121,7 @@
           "message": "Схватить спираль.",
           "messageDesc": "Win the battle to earn a Keywordless E.G.O Gift and a Bleed E.G.O Gift",
           "result": [
-            "Грешник хватает скрипящую спираль.\nРаздаётся ужасный металлический свист, спираль презренно смотрит на вас.\nЗатем она пронзает сердце Грешника."
+            "Грешник хватает скрипящую спираль.\n\nРаздаётся ужасный металлический свист, спираль презренно смотрит на вас.\n\nЗатем она пронзает сердце Грешника."
           ]
         }
       ]
@@ -129,7 +129,7 @@
     {
       "id": 901003,
       "name": "",
-      "desc": "В пустыне из пепла раздаётся крик.\nИздали надвигается стена тумана.\n\nЕё контуры напоминают человека.\nОднако это может быть призрак или дух, принявший физическую форму.\n\nВ его рту, словно застывшем в крике отчаяния, видна лишь тьма.",
+      "desc": "В пустыне из пепла раздаётся крик.\nИздали надвигается стена тумана.\n\nЕё контуры напоминают человека. Однако это может быть призрак или дух, принявший физическую форму.\n\nВ его рту, словно застывшем в крике отчаяния, видна лишь тьма.",
       "options": [
         {
           "message": "Ступить в туман.",
@@ -150,7 +150,7 @@
       "id": 901004,
       "name": "",
       "subDesc": "",
-      "desc": "Капельница даёт кровь нуждающимся.\nОна даёт лишь ту кровь, что у неё есть — свою.\n\nТех, кому не нужно переливание,\n она полосует ножницами, чтобы оно стало им необходимо.\n\nПоэтому на её пути полно новых реципиентов.",
+      "desc": "Капельница даёт кровь нуждающимся. Она даёт лишь ту кровь, что у неё есть — свою.\n\nТех, кому не нужно переливание,она полосует ножницами, чтобы оно стало им необходимо.\n\nПоэтому на её пути полно новых реципиентов.",
       "options": [
         {
           "message": "Принять кровь.",
@@ -181,7 +181,7 @@
           ]
         },
         {
-          "message": "Не трогать его.",
+          "message": "Не трогать гроб.",
           "result": [
             ""
           ]
@@ -250,10 +250,10 @@
           ]
         },
         {
-          "message": "Embrace the Sinners.",
+          "message": "Обнять Грешников.",
           "messageDesc": "Win the battle to earn a Keywordless E.G.O Gift and a Bleed E.G.O Gift",
           "result": [
-            "Hugging that teddy bear would be very difficult, given all those nails protruding from its body.\n\nInstead, I decide to hug the Sinners one by one to see how it reacts.\n\nMost Sinners push me away, taken aback from the sudden awkwardness...\n\n... but the teddy bear impatiently stomps its feet, apparently jealous.\n\nPerhaps what it wanted was affection, after all?\n\nThe teddy bear rushes toward us, as if it's asking us to hug it as well."
+            "Глядя на гвозди, торчащие из тела мишки, вы понимаете, что обнять его будет непросто.\n\nВместо этого вы, наблюдая за реакцией Аномалии, обнимаете каждого Грешника по очереди.\n\nНекоторые из них, чувствуя себя неловко, отталкивают вас...\n\n...а медведь, скорее всего завидуя им, начинает нетерпеливо топать своими лапами.\n\nМожет, всё это время он просто хотел любви?\n\nМишка устремляется к нам, словно просит, чтобы мы его обняли."
           ]
         }
       ]
@@ -262,7 +262,7 @@
       "id": 901009,
       "name": "",
       "subDesc": "",
-      "desc": "Безмолвно догорают свечи.\nТишину нарушает лишь бег пера по бумаге.\n\nПисец поочерёдно смотрит тремя глазами\nна огромный фолиант, переплетённый кожей.\n\nВы не можете понять, что он переписывает,\nосмысленно ли;\nно руки писца всё в движении.\n\nЖаждущий разрушения и погибели всего сущего,\nон пишет, и пишет, и пишет.\n\nВам кажется, что он слагает пророчества о неизвестном месте и времени.",
+      "desc": "Безмолвно догорают свечи.\nТишину нарушает лишь бег пера по бумаге.\n\nПисец поочерёдно смотрит тремя глазами\nна огромный фолиант, переплетённый кожей.\n\nВы не можете понять, что он переписывает,\nосмысленно ли; но руки писца всё в движении.\n\nЖаждущий разрушения и погибели всего сущего,\nон пишет, и пишет, и пишет...\n\nВам кажется, что он слагает пророчества о неизвестном месте и времени.",
       "options": [
         {
           "message": "Задуть свечи.",
@@ -278,10 +278,10 @@
           ]
         },
         {
-          "message": "Собрать все свечи.",
+          "message": "Собрать свечи.",
           "messageDesc": "Win the battle to earn 2 Burn E.G.O Gifts",
           "result": [
-            "Вы собираете все свечи в одном месте.\nВнезапно пламя поднимается вверх, и порыв ветра сдувает его в сторону.\n@#$!!@#*!\nКак только колонна огня касается книги, три глаза мечутся по сторонам и злобно глядят на Грешников."
+            "Вы собираете все свечи в одном месте.\n\nВнезапно пламя поднимается вверх, и порыв ветра сдувает его в сторону.\n\n@#$!!@#*!\nКак только колонна огня касается книги, три глаза мечутся по сторонам и злобно глядят на Грешников."
           ]
         }
       ]
@@ -392,27 +392,27 @@
       "id": 901014,
       "name": "",
       "subDesc": "",
-      "desc": "Палящий жар сопровождается чьим-то воплем.\nЧеловеческим или нет, вы не знаете.\n\nОткуда-то доносится шипение\nи запах палёной плоти.\n\n«Прошу вас! Воды!\nКто-нибудь даст мне воды?»",
+      "desc": "Палящий жар сопровождается чьим-то воплем.\nЧеловеческим или нет, вы не знаете.\n\nОткуда-то доносится шипение и запах палёной плоти.\n\n«Прошу вас! Воды! Кто-нибудь даст мне воды?»",
       "options": [
         {
-          "message": "Дать воду.",
+          "message": "Поделиться водой.",
           "messageDesc": "Select to gain a Keywordless E.G.O Gift",
           "result": [
-            "Вы вливаете воду в пасть быка,\nно она мгновенно превращается в стену пара.\n\nЕго раскалённое тело не пропускает ни капли.\n\nТо ли из-за болезненных ожогов,\nто ли из-за неутолённой жажды,\nбык впадает в ярость и таранит собой стены.\n\nЕго порыв гнева не минует и нас."
+            "Вы вливаете воду в пасть быка, но она мгновенно превращается в стену пара.\n\nЕго раскалённое тело не пропускает ни капли.\n\nТо ли из-за болезненных ожогов,\nто ли из-за неутолённой жажды,\nбык впадает в ярость и таранит собой стены.\n\nЕго порыв гнева не минует и нас."
           ]
         },
         {
-          "message": "Не давать воду.",
+          "message": "Не делиться водой.",
           "messageDesc": "Select to gain a Keywordless E.G.O Gift",
           "result": [
-            "Не в силах даже держаться на ногах,\nбык истошно ревёт.\n\nЕго рёв напоминает стон и вызывает у вас слёзы.\n\nОтголоски тоскливого крика долгое время не отступают."
+            "Не в силах даже держаться на ногах, бык истошно ревёт.\n\nЕго рёв напоминает стон и вызывает у вас слёзы.\n\nОтголоски тоскливого крика долгое время не отступают."
           ]
         },
         {
           "message": "Выпить воду.",
           "messageDesc": "Win the battle to earn a Keywordless E.G.O Gift and a Burn E.G.O Gift",
           "result": [
-            "Лить воду внутрь раскалённого быка было бы непозволительной роскошью.\nВместо этого вы даёте её Грешникам, изнемогающим от опаляющего жара.\nБык ревёт в отчаянии...\nПо крайней мере, каждому Грешнику досталось по глотку...\nВы ещё не успели об этом подумать, как бык уже несётся в вашем направлении."
+            "Лить воду внутрь раскалённого быка было бы непозволительной роскошью. Вместо этого вы даёте её Грешникам, изнемогающим от опаляющего жара.\n\nБык ревёт в отчаянии...\n\nПо крайней мере, каждому Грешнику досталось по глотку...\n\nВы ещё не успели об этом подумать, как бык уже несётся в вашем направлении."
           ]
         }
       ]
@@ -756,14 +756,14 @@
           "message": "Взять цветок.",
           "messageDesc": "Select to gain a Keywordless E.G.O Gift",
           "result": [
-            "Вы берёте окровавленный цветок, и он выражает радость.\n\nВозможно, сейчас эти свадебные цветы\nиграют роль проклятия\nи мешают им покинуть гнездо.\n\nМолодожёны не сажали и не растили их.\n\nБутоны питались\nчужой наивностью."
+            "Вы берёте окровавленный цветок, и они выражают радость.\n\nВозможно, сейчас эти свадебные цветы играют роль проклятия и мешают им покинуть гнездо.\n\nМолодожёны не сажали и не растили их.\n\nБутоны питались чужой наивностью."
           ]
         },
         {
           "message": "Убрать лозы.",
           "result": [
-            "Вы вырываете лозу, и она кричит.\n\nМолодожёнам очень больно, но это их дом.\n\nКто его разрушит, тот будет презрён.\n\nВозможно, не стоит так резко судить о чужой боли.",
-            "Вы пытаетесь вырвать лозы,\nно они крепче, чем кажутся.\n\nВы несколько раз их тянете\nи лишь царапаете свои ладони.\n\nМолодые наблюдают за вами со стороны.\n\nКажется, им грустно\nи в то же время страшно."
+            "Вы вырываете лозу, и они кричат.\n\nМолодожёнам очень больно, но это их дом.\n\nКто его разрушит, тот будет презрён.\n\nВозможно, не стоит так резко судить о чужой боли.",
+            "Вы пытаетесь вырвать лозы,\nно они крепче, чем кажутся.\n\nВы несколько раз их тянете\nи лишь царапаете свои ладони.\n\nМолодые наблюдают за вами со стороны.\n\nКажется, им грустно и в то же время страшно."
           ]
         }
       ]
@@ -982,7 +982,7 @@
           ]
         },
         {
-          "message": "I don't know how to live without alcohol.",
+          "message": "Я жить не могу без спиртного.",
           "messageDesc": "Run a Sloth & Gluttony Advantage check to gain an E.G.O Gift.",
           "result": [
             ""
@@ -1022,17 +1022,17 @@
           ]
         },
         {
-          "message": "Пробиться к источнику крови, чтобы цветок пил ещё.",
+          "message": "Пробиться к источнику, чтобы утолить жажду цветка.",
           "messageDesc": "Select to gain a Keywordless E.G.O Gift",
           "result": [
             "Вы пробиваете отверстие пошире, и кровь кого-то некогда живого хлещет всё сильней, погребая под собой розу.\n\nСловно переполненная радостью, роза отпускает корни и ныряет в кровавый поток.\n\nОна погружается в него всё глубже и наконец опускается на самое дно.\n\nВ середине кровавой лужи распускается новый цветок.\n\nБыть может, это благодарность нам? Мы осторожно его подбираем."
           ]
         },
         {
-          "message": "Feed it the blood of the Sinners",
+          "message": "Напоить цветок кровью Грешников",
           "messageDesc": "Select to gain a Bleed E.G.O Gift",
           "result": [
-            "What is the nature of the blood that fills the spring? Who—or what—is it from?\n\nInstead of feeding it that mysterious blood, I decide to feed it blood of the Sinners.\n\nThe bloodsteeped rose extends its petals, yearning for our blood nevertheless.\n\nThe rose drinks the blood of the Sinners, and a smaller flower blossoms next to the base of its stem.\n\nPerhaps it is giving us a gift in return for our blood. I carefully pick up the flower."
+            "Откуда появилась кровь, которая наполняет источник? Кто (или что) её проливает?\n\nЧем поить цветок этой таинственной кровью, вы решаете дать цветку испить крови Грешников.\n\nОкровавленная роза протягивает к нам свои лепестки, желая насытиться любой кровью.\n\nРоза пьёт кровь Грешников, и возле её корней распускается новый бутон.\n\nВозможно, это её благодарность за угощение. Вы осторожно подбираете его."
           ]
         }
       ]
@@ -1226,7 +1226,7 @@
           ]
         },
         {
-          "message": "Point it in the wrong direction.",
+          "message": "Направить его по ложному следу.",
           "messageDesc": "Pride & Envy Advantage check. Pass to gain a Rupture E.G.O Gift.",
           "result": [
             ""
@@ -1400,23 +1400,23 @@
       "id": 901062,
       "name": "",
       "subDesc": "",
-      "desc": "Чёрно-белая аллея.\n\nЕдинственный уличный фонарь, освещающий дорогу, делает пейзаж тем более туманным.\n\nВ свете фонаря кто-то стоит.\n\nПи-пи-пи-пи-пи...\n\nУстройство на руке существа громко пищит.\n\n«Сегодня пришли результаты моего собеседования по трудоустройству в крупной компании».\n\n«Каждый на этой улице готовится к экзаменам или собеседованиям».\n\n«Ставя на кон всё, что есть, народ ждёт результатов и, если они неутешительные, уходит прочь и исчезает».\n\n«А у меня теперь специально другая голова; я хочу улететь, даже если меня ждёт провал».\n\n«Можете, пожалуйста, посмотреть, какой у меня результат?»\n\nУстройство сообщает, что Аномалия провалилась.\n\n«Что там написано? Успех?'",
+      "desc": "Чёрно-белая аллея.\n\nЕдинственный уличный фонарь, освещающий дорогу, делает пейзаж тем более туманным.\n\nВ свете фонаря кто-то стоит.\n\nПи-пи-пи-пи-пи...\n\nУстройство на руке существа громко пищит.\n\n«Сегодня пришли результаты моего собеседования по трудоустройству в крупной компании».\n\n«Каждый на этой улице готовится к экзаменам или собеседованиям».\n\n«Ставя на кон всё, что есть, народ ждёт результатов и, если они неутешительные, уходит прочь и исчезает».\n\n«А у меня теперь специально другая голова; я хочу улететь, даже если меня ждёт провал».\n\n«Можете, пожалуйста, посмотреть, какой у меня результат?»\n\nУстройство сообщает, что Аномалия провалилась.\n\n«Что там написано? Успех?»",
       "options": [
         {
           "message": "Сказать правду.",
           "messageDesc": "Select to gain a Charge E.G.O Gift",
           "result": [
-            "'Провал, да...'.\n\nПиджак, который Аномалия держала одной из своих рук, падает на землю.\n\nВ то же время пакет в другой её руке начинает шуршать.\n\n«Так даже лучше, иного и быть не могло».\n\n«Интересно, куда мы попадаем после смерти?»\n\n«Будет ли нас в конце пути ждать распустившийся цветок?»\n\nПосле этих слов бабочка на голове Аномалии улетает прочь, а безжизненное тело падает на асфальт.\n\nИз окровавленного пакета выкатывается голова — вероятно, она раньше была на плечах.\n\nСозревшая куколка оставила такой тяжёлый кокон."
+            "«Провал, да...».\n\nПиджак, который Аномалия держала одной из своих рук, падает на землю.\n\nВ то же время пакет в другой её руке начинает шуршать.\n\n«Так даже лучше, иного и быть не могло».\n\n«Интересно, куда мы попадаем после смерти?»\n\n«Будет ли нас в конце пути ждать распустившийся цветок?»\n\nПосле этих слов бабочка на голове Аномалии улетает прочь, а безжизненное тело падает на асфальт.\n\nИз окровавленного пакета выкатывается голова — вероятно, она раньше была на плечах.\n\nСозревшая куколка оставила такой тяжёлый кокон."
           ]
         },
         {
           "message": "Соврать.",
           "result": [
-            "'Спасибо, мне надо спешить, скоро начнётся распределение».\n\nГоворит Аномалия, держа пиджак одной из своих рук.\n\n«Это мне больше не понадобится».\n\nБабочка отправляется распространять пыльцу.\n\nОстаётся надеяться, что хотя бы маленький лучик солнца осветит её путь."
+            "«Спасибо, мне надо спешить, скоро начнётся распределение».\n\nГоворит Аномалия, держа пиджак одной из своих рук.\n\n«Это мне больше не понадобится».\n\nБабочка отправляется распространять пыльцу.\n\nОстаётся надеяться, что хотя бы маленький лучик солнца осветит её путь."
           ]
         },
         {
-          "message": "Try to console them.",
+          "message": "Попробовать утешить существо.",
           "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Sinking E.G.O Gift.",
           "result": [
             ""
@@ -1638,19 +1638,19 @@
       "id": 901100,
       "name": "",
       "subDesc": "",
-      "desc": "The blocks are turning, interlocking and noisily grinding against one another.\n\nThe entity changes shape with every offering from surrounding clay dolls.\n\nSometimes its blocks rotate, and sometimes chunks of its red flesh shrink and stretch.\n\nSomething falls to the ground from its endlessly distorting form.\n\nOne of its blocks fell out of place, pushed out amidst the constant change.\n\nEven the clay dolls stop making their offerings, confused. They stare at the block.",
+      "desc": "Плиты диска вращаются, соединяются и со скрипом трутся друг об друга.\n\nСущество меняет форму всякий раз, когда окружающие её глиняные куклы дают ей подношения.\n\nТо вращаются плиты, то сжимаются и разжимаются куски его красной плоти...\n\nТо из его постоянно меняющегося тела что-то выпадает.\n\nВечных перемен не выдерживает одна из плит и громко падает на землю.\n\nДаже глиняные куклы перестают делать подношения и в исступлении смотрят на упавшую плиту.",
       "options": [
         {
-          "message": "Pick up the block.",
+          "message": "Поднять плиту.",
           "messageDesc": "Wrath & Lust Advantage check. Pass to gain a Rupture E.G.O Gift.",
           "result": [
             ""
           ]
         },
         {
-          "message": "Don't pick up the block.",
+          "message": "Не поднимать плиту.",
           "result": [
-            "No need to get so up close and personal with this monstrous thing.\nWe leave the block on the ground and vacate to find a different path."
+            "Не стоит так близко подходить к этому чудовищу.\nВы оставляете плиту на земле и продолжаете путь."
           ]
         }
       ]
@@ -1659,20 +1659,20 @@
       "id": 901101,
       "name": "",
       "subDesc": "",
-      "desc": "A thunderous howl booms from where lightning strikes.\n\nThere lies a hound with numerous heads; multiple telepoles are protruding from its back.\n\nI can see violet flashovers sparking from all of them, though they were all of differing sizes.\n\nThe hound hasn't noticed our approach just yet.\n\nMaybe we can take one of them if we sever its wire.",
+      "desc": "Там, куда ударила молния, раздаётся громогласный вой.\n\nЕго издал пёс со множеством голов, из тела которого торчит множество электростолбов.\n\nВсе они разного размера, но из каждого из них появляются фиолетовые искры.\n\nПёс пока не заметил нашего присутствия.\n\nВозможно, обрезав провода, мы сможем забрать себе один из столбов.",
       "options": [
         {
-          "message": "Take a small telepole.",
+          "message": "Взять маленький электростолб.",
           "messageDesc": "Pride & Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
           "result": [
             ""
           ]
         },
         {
-          "message": "Yank out all of its telepoles.",
+          "message": "Вытащить каждый электростолб.",
           "messageDesc": "Win the battle to earn a Charge E.G.O Gift",
           "result": [
-            "I told the Sinners to yank out every telepole they see.\n\nThey must've been pulling out its telepoles for a while now...\n\nThe docile hound suddenly jumps to its feet and cries, its howl like a thunder.\n\nLooks like we're going to have to fight our way through."
+            "Вы говорите Грешникам вытащить все электростолбы, что попадутся на глаза.\n\nГрешники всё продолжают и продолжают вытаскивать столбы...\n\nПока внезапно некогда спокойный пёс не вскакивает с воем, похожим на раскаты грома.\n\nПохоже, мы не продолжим путь без боя."
           ]
         }
       ]
@@ -1681,19 +1681,19 @@
       "id": 901102,
       "name": "",
       "subDesc": "",
-      "desc": "This place is brimming with the high-pitched screech of metals and industrial machine hammers slamming into something.\n\nFollowing the clamor led us to what looks like a plastic toy model of a factory.\n\nThis smoke-fuming factory of mysterious products churns on and on.\n\nA large octagonal screw tumbles out of the factory.",
+      "desc": "Вы слышите, как неподалёку раздаётся пронзительный скрежет металла и удары работающих прессов.\n\nИдя на звук, вы приходите к тому, что напоминает игрушечную модель какого-то завода.\n\nЗавод, полный дыма, без конца что-то производит.\n\nВдруг на землю падает большой восьмиугольный болт.",
       "options": [
         {
-          "message": "Take it.",
+          "message": "Подобрать его.",
           "messageDesc": "Select to gain a Charge E.G.O Gift",
           "result": [
-            "We picked up the massive octagonal screw.\n\nThere's no reaction from the factory even as we get further and further away.\n\nIt continues to churn and spew fumes as though to say that it has no need of the screw."
+            "Вы подбираете огромный восьмиугольный болт.\n\nВы уходите всё дальше и дальше от завода, но тот никак не реагирует.\n\nОн продолжает гудеть и испускать дым, словно пытаясь сказать, что этот болт ему и не нужен."
           ]
         },
         {
-          "message": "Leave it there.",
+          "message": "Оставить его.",
           "result": [
-            "We stood there for a while, waiting to see what might happen. The screw eventually rolled its way back into the factory.\n\nWas it a part of the factory, or was it the very thing that the factory produces?\n\nThough there was no way for us to know for sure, I could tell that the metallic noises coming from the factory sounded a tad more coordinated."
+            "Вы некоторое время стоите и ждёте, что же произойдёт. Со временем болт покатился и вернулся на завод.\n\nОн часть этого завода или его продукция?\n\nПускай точного ответа вам не узнать, вы слышите, как металлический шум с производственной линии стал чуть-чуть более слаженным."
           ]
         }
       ]
@@ -1702,26 +1702,26 @@
       "id": 901103,
       "name": "",
       "subDesc": "",
-      "desc": "A forsaken tavern.\n\nWarm, hearty aroma of stew wafts from the empty kitchen.\n\nFollowing the trail of that delicious scent leads us to a coiling lizard with a head not unlike a cauldron.\n\nWithin its head is a hotly roaring fire and a modest cauldron dangling from above it.\n\nAncient stew boils vigorously from within the cauldron. It's been boiling for so long that it's become impossible to tell what the original ingredients may have been.\n\nAs I stood there wondering what must be done with this stew, a voice echoes from underneath the cauldron.\n\nThere lies a sentient hearthflame, speaking to us.\n\n'There isn't anyone left here to enjoy the stew.'\n'Would ya mind removing the cauldron?'",
+      "desc": "Покинутый трактир.\n\nИз пустой кухни веет аромат тёплой и насыщенной похлёбки.\n\nСледуя за этим восхитительным запахом, мы оказываемся перед свернувшейся в клубок ящерицей, чья голова чем-то напоминает чан.\n\nВнутри неё бушует пламя, а над ним расположен немаленький котёл.\n\nВнутри котла кипит древняя похлёбка. Кипит с незапамятных времён — так долго, что уже и не скажешь, какими были первоначальные ингредиенты.\n\nПока я думаю, что делать с этой похлёбкой, из-под котла раздаётся голос.\n\nС нами говорит разумное пламя.\n\n«Здесь не осталось никого, кто мог бы насладиться похлёбкой.»\n«Заберите этот котёл, а?»",
       "options": [
         {
-          "message": "Gobble up the stew.",
+          "message": "Навалиться на похлёбку.",
           "result": [
-            "The cauldron looks too heavy and hot for us to move, let alone touch.\n\nA discussion with the Sinners led to the conclusion that we would all rather try the stew instead.\n\nAccording to the Sinners, the stew tasted of... stewed meat and mysterious veggies.\n\nClearly, it was pretty delicious, if a bit mundane.\n\nThe hearthflame falls silent as well, apparently satisfied."
+            "Котёл слишком тяжёлый и горячий — мы не сможем не то что его поднять, даже к нему прикоснуться.\n\nПосле недолгих размышлений мы с Грешниками приходим к выводу, что проще будет съесть всю похлёбку.\n\nСо слов Грешников её вкус... отдавал тушёным мясом и неизвестными овощами.\n\nПохлёбка была довольно обычной и довольно вкусной.\n\nПламя замолкает — видимо, мы смогли ему угодить."
           ]
         },
         {
-          "message": "Take the cauldron.",
+          "message": "Взять котёл.",
           "messageDesc": "Run a Wrath & Lust Advantage check to gain a Burn E.G.O Gift.",
           "result": [
             ""
           ]
         },
         {
-          "message": "Take the hearthflame.",
+          "message": "Взять пламя.",
           "messageDesc": "Select to gain a Burn E.G.O Gift",
           "result": [
-            "Cauldron... stew... all of that pales in comparison to a hearthflame that can speak.\n\nAfter a discussion with the Sinners, I decided to take the hearthflame.\n\n'Wha? Y-you're taking me? Huh? Why?'\n'What the hell— Why are you taking <i>me</i>?'\n\nThe astonished hearthflame continued to express its confusion, but I didn't really have an answer to give it, either.\nIt wasn't like it could understand what I was saying, given that I can communicate only in ticks and tocks...\nI continued to walk away in hurried steps without answering its questions, and the hearthflame soon fell silent as well."
+            "Котёл... Похлёбка... Всё это меркнет перед говорящим пламенем.\n\nПосле недолгих размышлений я принимаю решение забрать пламя.\n\n«Э? В-вы меня забираете? Чего? Почему?»\n«Что за... Почему <i>меня</i>?»\n\nОбескураженное пламя продолжает недоумённо задавать вопросы, на которые я не смогу дать ответа. Всё равно моё тиканье оно не поймёт... Оставив его вопросы без ответа, я в спешке покидаю это место, и вскоре пламя замолкает."
           ]
         }
       ]
@@ -1730,19 +1730,19 @@
       "id": 901104,
       "name": "",
       "subDesc": "",
-      "desc": "There is an indent on the earth, filled with water.\n\nSomething that lies within is constantly making ripples on its surface.\n\nA closer approach revealed a headless fish swimming in that shallow puddle.\n\nIts splashing movements are spirited, despite the glaring lack of a head.\n\nIs it twisting its body from pain?\n\nOr is it merely glad to be swimming in water?",
+      "desc": "В земле виднеется углубление, заполненное водой.\n\nЧто-то на глубине создаёт на поверхности воды круги.\n\nПрисмотревшись, мы видим, что это обезглавленная рыба барахтается в мелкой луже.\n\nЕё движения оживлённые, хоть рана на шее и бросается в глаза.\n\nОна содрогается от боли?\n\nИли она счастлива, что может плавать в воде?",
       "options": [
         {
-          "message": "Splash around together.",
+          "message": "Поплескаться вместе с рыбой.",
           "result": [
-            "I fell chest-first into the puddle and splashed around with the fish.\n\nSome Sinners joined in and splashed around together.\n\nWe all felt a little better, for some reason."
+            "Я бросаюсь в воду и плескаюсь в ней вместе с рыбой.\n\nНекоторые из Грешников последовали моему примеру.\n\nПочему-то мы все почувствовали себя гораздо лучше."
           ]
         },
         {
-          "message": "Pop its sac.",
+          "message": "Проколоть её кисту.",
           "messageDesc": "Win the battle to earn a Bleed E.G.O Gift",
           "result": [
-            "The blood-filled sac of that fish must be causing it pain.\n\nPerhaps it can splash around more comfortably without that big sac of blood weighing it down?\n\nI ask the Sinners to pop its blood sac, but the fish turns aggressive and advances toward us upon hearing my order.\n\nAll that splashing around most likely had little to do with its blood sac."
+            "Скорее всего, огромная киста на животе причиняет ей боль.\n\nВозможно, ей будет легче плескаться без этого тяжёлого кровяного мешка?\n\nЯ прошу Грешников проколоть кисту, но рыба, услышав мою команду, сразу же озлобленно поворачивается к нам.\n\nСкорее всего, её времяпровождение почти никак не было связано с кровавым наростом."
           ]
         }
       ]

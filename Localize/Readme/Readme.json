@@ -19,77 +19,87 @@
       "sprNameList": [],
       "title_KR": "Насчёт ошибки/предложения по переводу",
       "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Всё обсуждается в нашем дискорде:</size>\"},{\"formatKey\":\"HyperLink\",\"formatValue\":\"<link=https://discord.gg/dqpnxc9muc>Divine Company</link>\"}]}"
-	},
-  {
-    "id": 3194,
-    "version": 0,
-    "type": 0,
-    "startDate": "2025-01-23T00:00:00.000Z",
-    "endDate": "2025-12-31T23:00:00.000Z",
-    "sprNameList": [],
-    "title_KR": "Divine Company 0.2.1.1",
-    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2.1.1:\\n- Починка русификатора после нового обновления\\n- Перевод имён нового события \\n- Редактирование перевода</size>\"}]}"
-  },
-  {
-    "id": 3195,
-    "version": 0,
-    "type": 0,
-    "startDate": "2025-01-17T00:00:00.000Z",
-    "endDate": "2025-12-31T23:00:00.000Z",
-    "sprNameList": [],
-    "title_KR": "Divine Company 0.2.1",
-    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2.1:\\n- Перевод нового события «5-я Вальпургиева ночь»\\n- Улучшение качества перевода интерфейса</size>\"}]}"
-  },
-  {
-    "id": 3196,
-    "version": 0,
-    "type": 0,
-    "startDate": "2024-12-31T00:00:00.000Z",
-    "endDate": "2025-12-31T23:00:00.000Z",
-    "sprNameList": [],
-    "title_KR": "Divine Company 0.2",
-    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2:\\n- Перевод 7-й Песни</size>\"}]}"
-  },
-  {
-    "id": 3197,
-    "version": 0,
-    "type": 0,
-    "startDate": "2024-10-18T00:00:00.000Z",
-    "endDate": "2025-12-31T23:00:00.000Z",
-    "sprNameList": [],
-    "title_KR": "Divine Company 0.1.3.1",
-    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.3.1:\\n- Перевод первой части событий в Mirror Dungeon \\n- Редактирование перевода</size>\"}]}"
-  },
-  {
-    "id": 3198,
-    "version": 0,
-    "type": 0,
-    "startDate": "2024-10-03T00:00:00.000Z",
-    "endDate": "2025-12-31T23:00:00.000Z",
-    "sprNameList": [],
-    "title_KR": "Divine Company 0.1.3",
-    "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.3:\\n- Масштабная работа по редактированию пролога и первой главы \\n- Перевод 4-й Вальпургиевой Ночи \\n- Улучшение кода</size>\"}]}"
-  },
-  {
-      "id": 3199,
-      "version": 0,
-      "type": 0,
-      "startDate": "2024-08-20T00:00:00.000Z",
-      "endDate": "2025-12-31T23:00:00.000Z",
-      "sprNameList": [],
-      "title_KR": "Divine Company 0.1.2",
-      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.2:\\n- Перевод нового события «Убийство в Варп-экспрессе» \\n- Существенное исправление ошибок в уже существующем переводе \\n- Улучшение кода \\n- Улучшение шрифтов \\n- Переосмысление терминологии, в том числе возвращение Корректировщиков</size>\"}]}"
     },
     {
-      "id": 3200,
+      "id": 3194,
       "version": 0,
       "type": 0,
-      "startDate": "2024-08-07T00:00:00.000Z",
+      "startDate": "2025-02-21T00:00:00.000Z",
       "endDate": "2025-12-31T23:00:00.000Z",
       "sprNameList": [],
-      "title_KR": "Divine Company 0.1.1",
-      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Первая версия русификатора включает:\\n- Перевод Обучения и 1-й Песни\\n- Частичный перевод интерфейса</size>\"}]}"
-    }
+      "title_KR": "Divine Company 0.2.2",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2.2:\\n- Починка русификатора после нового обновления\\n- Перевод некоторых элементов интерфейса \\n- Исправление известных ошибок в переводе \\n- Возвращение теней у шрифтов \\n- Экспериментальное: Субтитры для личностей в столкновениях. \\nЧтобы включить: Изменить значение в файле Com.Bright.LocalizeLimbusCompany.cfg (Открыть можно с помощью блокнота). \\nФайл находится по пути: ПКМ по игре в Стиме > Управление > Посмотреть локальные файлы > BepInEx > config.</size>\"}]}"
+    },
+    {
+      "id": 3194,
+      "version": 0,
+      "type": 0,
+      "startDate": "2025-01-23T00:00:00.000Z",
+      "endDate": "2025-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Divine Company 0.2.1.1",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2.1.1:\\n- Починка русификатора после нового обновления\\n- Перевод имён нового события \\n- Редактирование перевода</size>\"}]}"
+    },
+    {
+      "id": 3195,
+      "version": 0,
+      "type": 0,
+      "startDate": "2025-01-17T00:00:00.000Z",
+      "endDate": "2025-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Divine Company 0.2.1",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2.1:\\n- Перевод нового события «5-я Вальпургиева ночь»\\n- Улучшение качества перевода интерфейса</size>\"}]}"
+    },
+    {
+      "id": 3196,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-12-31T00:00:00.000Z",
+      "endDate": "2025-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Divine Company 0.2",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.2:\\n- Перевод 7-й Песни</size>\"}]}"
+    },
+    {
+      "id": 3197,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-10-18T00:00:00.000Z",
+      "endDate": "2025-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Divine Company 0.1.3.1",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.3.1:\\n- Перевод первой части событий в Mirror Dungeon \\n- Редактирование перевода</size>\"}]}"
+    },
+    {
+      "id": 3198,
+      "version": 0,
+      "type": 0,
+      "startDate": "2024-10-03T00:00:00.000Z",
+      "endDate": "2025-12-31T23:00:00.000Z",
+      "sprNameList": [],
+      "title_KR": "Divine Company 0.1.3",
+      "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.3:\\n- Масштабная работа по редактированию пролога и первой главы \\n- Перевод 4-й Вальпургиевой Ночи \\n- Улучшение кода</size>\"}]}"
+    },
+    {
+        "id": 3199,
+        "version": 0,
+        "type": 0,
+        "startDate": "2024-08-20T00:00:00.000Z",
+        "endDate": "2025-12-31T23:00:00.000Z",
+        "sprNameList": [],
+        "title_KR": "Divine Company 0.1.2",
+        "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Изменения в версии 0.1.2:\\n- Перевод нового события «Убийство в Варп-экспрессе» \\n- Существенное исправление ошибок в уже существующем переводе \\n- Улучшение кода \\n- Улучшение шрифтов \\n- Переосмысление терминологии, в том числе возвращение Корректировщиков</size>\"}]}"
+      },
+      {
+        "id": 3200,
+        "version": 0,
+        "type": 0,
+        "startDate": "2024-08-07T00:00:00.000Z",
+        "endDate": "2025-12-31T23:00:00.000Z",
+        "sprNameList": [],
+        "title_KR": "Divine Company 0.1.1",
+        "content_KR": "{\"list\":[{\"formatKey\":\"SubTitle\",\"formatValue\":\"<size=49>Первая версия русификатора включает:\\n- Перевод Обучения и 1-й Песни\\n- Частичный перевод интерфейса</size>\"}]}"
+      }
 
   ]
 }

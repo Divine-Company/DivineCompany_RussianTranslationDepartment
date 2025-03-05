@@ -24,9 +24,12 @@ namespace LimbusLocalizeDCLC
             if (!File.Exists(path))
                 return false;
 
-            var AllAssets = AssetBundle.LoadFromFile(path).LoadAllAssets();
+            var assetBundle = AssetBundle.LoadFromFile(path);
+            if (assetBundle == null) return false;
 
-            foreach (var Asset in AllAssets)
+            var allAssets = assetBundle.LoadAllAssets();
+
+            foreach (var Asset in allAssets)
             {
                 var TryCastFontAsset = Asset.TryCast<TMP_FontAsset>();
                 if (!TryCastFontAsset) continue;
@@ -36,14 +39,6 @@ namespace LimbusLocalizeDCLC
                 tmprussian_fonts.Add(TryCastFontAsset);
                 tmprussian_fonts_names.Add(TryCastFontAsset.name);
 
-                var TryCastMaterial = Asset.TryCast<Material>();
-                if (!TryCastMaterial) continue;
-
-                UnityEngine.Object.DontDestroyOnLoad(TryCastMaterial);
-                TryCastMaterial.hideFlags |= HideFlags.HideAndDontSave;
-                tmprussian_materials.Add(TryCastMaterial);
-                tmprussian_materials_names.Add(TryCastMaterial.name);
-
             }
 
             if(tmprussian_fonts.Count == 0)
@@ -52,302 +47,96 @@ namespace LimbusLocalizeDCLC
                 return true;
             
         }
-        public static bool GetRussianFonts(string fontname, out TMP_FontAsset fontAsset)
-        {
-            fontAsset = null;
-            if (tmprussian_fonts.Count == 0)
-                return false;
 
-            switch (fontname)
-            {
-                case "BebasKai SDF":
-                case "Liberation Sans SDF":
-                    fontAsset = GetRussianFonts(0);
-                    return true;
-
-                case "Caveat Semibold SDF":
-                    fontAsset = GetRussianFonts(1);
-                    return true;
-
-                case "ExcelsiorSans SDF":
-                    fontAsset = GetRussianFonts(2);
-                    return true;
-
-                case string fontName when fontName.StartsWith("Corporate-Logo-Bold"):
-                case "KOTRA_BOLD SDF":
-                    fontAsset = GetRussianFonts(3);
-                    return true;
-
-                case string fontName when fontName.StartsWith("HigashiOme - Gothic - C") || fontName.StartsWith("SCDream5 SDF"):
-                case "Pretendard-Regular SDF":
-                    fontAsset = GetRussianFonts(4);
-                    return true;
-
-                default:
-                    return false;
-            }
-            
-
-        }
 
         public static TMP_FontAsset GetRussianFonts(int idx)
         {
             return tmprussian_fonts[Math.Min(idx, tmprussian_fonts.Count - 1)];
         }
 
-        public static Material  GetRussianMaterials(int idx)
-        {
-            return tmprussian_materials[Math.Min(idx, tmprussian_materials.Count - 1)];
-        }
-
         public static bool IsRussianFont(TMP_FontAsset fontAsset)
             => tmprussian_fonts_names.Contains(fontAsset.name);
 
-        public static bool IsRussianMaterial(Material matAsset)
-            => tmprussian_materials_names.Contains(matAsset.name);
-
-        public static Texture2D duplicateTexture(Texture2D source)
+        static void AddFallbackFont(TMP_FontAsset fontAsset, TMP_FontAsset fallbackFont)
         {
-            RenderTexture renderTex = RenderTexture.GetTemporary(
-                        source.width,
-                        source.height,
-                        0,
-                        RenderTextureFormat.Default,
-                        RenderTextureReadWrite.Linear);
-
-            Graphics.Blit(source, renderTex);
-            RenderTexture previous = RenderTexture.active;
-            RenderTexture.active = renderTex;
-            Texture2D readableText = new Texture2D(source.width, source.height);
-            readableText.ReadPixels(new Rect(0, 0, renderTex.width, renderTex.height), 0, 0);
-            readableText.Apply();
-            RenderTexture.active = previous;
-            RenderTexture.ReleaseTemporary(renderTex);
-            return readableText;
+            if (!fontAsset.fallbackFontAssetTable.Contains(fallbackFont))
+            {
+                fontAsset.fallbackFontAssetTable.Add(fallbackFont);
+                fontAsset.SetDirty();
+            }
         }
+
+        static void RemoveFallbackFont(TMP_FontAsset fontAsset, string fallbackName)
+        {
+            var fallbackToRemove = FindFallbackFont(fontAsset, fallbackName);
+            if (fallbackToRemove != null)
+            {
+                fontAsset.fallbackFontAssetTable.Remove(fallbackToRemove);
+            }
+        }
+        static TMP_FontAsset FindFallbackFont(TMP_FontAsset fontAsset, string name)
+            => fontAsset.fallbackFontAssetTable.FirstOrDefault(fallback => fallback.name == name);
+
+        public static T FirstOrDefault<T>(this List<T> list, Func<T, bool> predicate)
+        {
+            foreach (var item in list)
+            {
+                if (predicate(item))
+                {
+                    return item;
+                }
+            }
+            return default;
+        }
+
+
 
         [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.font), MethodType.Setter)]
         [HarmonyPrefix]
-
-        private static bool Set_font(TMP_Text __instance, ref TMP_FontAsset value)
+        public static bool Set_font(TMP_Text __instance, ref TMP_FontAsset value)
         {
-            if (IsRussianFont(__instance.m_fontAsset)) return false;
-            string fontname = __instance.m_fontAsset.name;
-            if (GetRussianFonts(fontname, out TMP_FontAsset font))
+            switch (value.name)
             {
-
-                //Debug.Log("Material Name : " + __instance.fontMaterial.name); TODO
-                //Debug.Log("Test : " + __instance.text);
-                if (__instance.fontMaterial.name.Contains("Mikodacs SDF UnderLine") || __instance.fontMaterial.name.Contains("KOTRA_BOLD SDF Underline"))
-                {
-                    if (__instance.fontMaterial.IsKeywordEnabled("UNDERLAY_ON"))
-                    {
-
-                        if (!premat.ContainsKey(__instance))
-                        {
-                            premat[__instance] = __instance.fontMaterial;
-                        }
-                    }
-
-                }
-
-                if (__instance.fontMaterial.name.Contains("Glow"))
-                {
-                    if (__instance.fontMaterial.IsKeywordEnabled("GLOW_ON"))
-                    {
-
-                        if (!premat.ContainsKey(__instance))
-                        {
-                            premat[__instance] = __instance.fontMaterial;
-                        }
-                    }
-
-                }
-
-                value = font;
+                case "Pretendard-Regular SDF":
+                    RemoveFallbackFont(value, "SCDream5 SDF");
+                    AddFallbackFont(value, tmprussian_fonts[4]);
+                    return true;
+                case "BebasKai SDF":
+                    AddFallbackFont(value, tmprussian_fonts[0]);
+                    return true;
+                case "Mikodacs SDF":
+                    RemoveFallbackFont(value, "Pretendard-Regular SDF");
+                    AddFallbackFont(value, tmprussian_fonts[3]);
+                    return true;
+                case "KOTRA_BOLD SDF":
+                    AddFallbackFont(value, tmprussian_fonts[3]);
+                    return true;
+                case "SCDream5 SDF":
+                    AddFallbackFont(value, tmprussian_fonts[4]);
+                    return true;
             }
             return true;
         }
 
-        public static Dictionary<TMP_Text, Material> premat = new Dictionary<TMP_Text, Material>();
-        public static Dictionary<TMP_Text, Material> prematGlow = new Dictionary<TMP_Text, Material>();
 
-        [HarmonyPatch(typeof(TMP_Text), nameof(TMP_Text.fontMaterial), MethodType.Setter)]
-        [HarmonyPrefix]
-        static void set_fontMaterialUnderlay(TMP_Text __instance, ref Material value)
-        {
-            if (IsRussianFont(__instance.m_fontAsset))
-            {
-                value = __instance.m_fontAsset.material;
+//    case "BebasKai SDF":
+//      case "Liberation Sans SDF":
+//            fontAsset = GetRussianFonts(0);
 
-                if (premat.ContainsKey(__instance))
-                {
-                    if (!CloneMat) CloneMat = UnityEngine.Object.Instantiate(__instance.m_fontAsset.material);
-                    value = CloneMat;
-                    Material pre = premat[__instance];
-                    Color f1 = Color.black;
+//          case "Caveat Semibold SDF":
+//                fontAsset = GetRussianFonts(1);
 
-                    CloneMat.shader = Shader.Find("TextMeshPro/Distance Field");
-                    CloneMat.SetColor("_UnderlayColor", f1);
-                    CloneMat.SetFloat("_UnderlayOffsetX", 5);
-                    CloneMat.SetFloat("_UnderlayOffsetY", -5);
-                    CloneMat.SetFloat("_UnderlayDilate", 3);
-                    CloneMat.SetFloat("_UnderlaySoftness", 0);
-                    CloneMat.EnableKeyword("UNDERLAY_ON");
+//              case "ExcelsiorSans SDF":
+//                    fontAsset = GetRussianFonts(2);
 
-                    __instance.m_fontAsset.material.shader = Shader.Find("TextMeshPro/Distance Field");
-                    __instance.m_fontAsset.material.SetColor("_UnderlayColor", f1);
-                    __instance.m_fontAsset.material.SetFloat("_UnderlayOffsetX", 0);
-                    __instance.m_fontAsset.material.SetFloat("_UnderlayOffsetY", (float)-0.5);
-                    __instance.m_fontAsset.material.EnableKeyword("UNDERLAY_ON");
-                }
-            }
-        }
-        public static Material CloneMat;
-        static void set_fontMaterialGlow(TMP_Text __instance, ref Material value)
-        {
-            if (IsRussianFont(__instance.m_fontAsset))
-            {
-                if (prematGlow.ContainsKey(__instance))
-                {
-                    if (!CloneMatGlow) CloneMatGlow = UnityEngine.Object.Instantiate(__instance.m_fontAsset.material);
-                    value = CloneMatGlow;
-                    Material pre = premat[__instance];
+//              case string fontName when fontName.StartsWith("Corporate-Logo-Bold"):
+//                case "KOTRA_BOLD SDF":
+//                  fontAsset = GetRussianFonts(3);
 
-                    CloneMatGlow.shader = Shader.Find("TextMeshPro/Distance Field");
-                    CloneMatGlow.SetFloat("_GlowOffset", 0);
-                    CloneMatGlow.SetFloat("_GlowInner", 0.05f);
-                    CloneMatGlow.SetFloat("_GlowOuter", 1);
-                    CloneMatGlow.SetFloat("_GlowPower", 0.5f);
-                    CloneMatGlow.EnableKeyword("GLOW_ON");
+//                case string fontName when fontName.StartsWith("HigashiOme - Gothic - C") || fontName.StartsWith("SCDream5 SDF"):
+//                case "Pretendard-Regular SDF":
+//                    fontAsset = GetRussianFonts(4);
 
-                    __instance.m_fontAsset.material.shader = Shader.Find("TextMeshPro/Distance Field");
-                    __instance.m_fontAsset.material.SetFloat("_GlowOffset", 0);
-                    __instance.m_fontAsset.material.SetFloat("_GlowInner", 0.05f);
-                    __instance.m_fontAsset.material.SetFloat("_GlowOuter", 1);
-                    __instance.m_fontAsset.material.SetFloat("_GlowPower", 0.5f);
-                    __instance.m_fontAsset.material.EnableKeyword("GLOW_ON");
-                }
-            }
-        }
-        public static Material CloneMatGlow;
-
-        [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.UpdateTMP))]
-        [HarmonyPrefix]
-        private static bool UpdateTMP(TextMeshProLanguageSetter __instance, LOCALIZE_LANGUAGE lang)
-        {
-            FontInformation fontInformation = __instance._fontInformation.Count > 0 ? __instance._fontInformation[0] : null;
-            if (!fontInformation?.fontAsset || !__instance._text)
-                return false;
-            var raw_fontAsset = fontInformation.fontAsset;
-            bool use_ru = GetRussianFonts(raw_fontAsset.name, out var ru_fontAsset);
-
-            var fontAsset = use_ru ? ru_fontAsset : raw_fontAsset;
-            var fontMaterial = use_ru ? ru_fontAsset.material : fontInformation.fontMaterial ?? fontInformation.fontAsset.material;
-
-            __instance._text.font = fontAsset;
-            __instance._text.fontMaterial = fontMaterial;
-            if (__instance._matSetter)
-            {
-                __instance._matSetter.defaultMat = fontMaterial;
-                __instance._matSetter.ResetMaterial();
-            }
-            return false;
-        }
-        [HarmonyPatch(typeof(TextMeshProLanguageSetter), nameof(TextMeshProLanguageSetter.Awake))]
-        [HarmonyPrefix]
-        private static void Awake(TextMeshProLanguageSetter __instance)
-        {
-            if (!__instance._text)
-                if (__instance.TryGetComponent<TextMeshProUGUI>(out var textMeshProUGUI))
-                    __instance._text = textMeshProUGUI;
-            if (!__instance._matSetter)
-                if (__instance.TryGetComponent<TextMeshProMaterialSetter>(out var textMeshProMaterialSetter))
-                    __instance._matSetter = textMeshProMaterialSetter;
-        }
-
-        public static System.Collections.Generic.Dictionary<string, Color> ColorSchemes = new ()
-        {
-            {"yisang", new Color(0.831f, 0.882f, 0.909f, 1.0f)},
-            {"faust", new Color(1.0f, 0.694f, 0.705f, 1.0f)},
-            {"donquixote", new Color(1.0f, 0.937f, 0.137f, 1.0f)},
-            {"ryoshu", new Color(0.811f, 0, 0, 1.0f)},
-            {"meursault", new Color(0.352f, 0411f, 0.701f, 1.0f)},
-            {"honglu", new Color(0.356f, 1.0f, 0.870f, 1.0f)},
-            {"heathcliff", new Color(0.549f, 0.388f, 0.760f, 1.0f)},
-            {"ishmael", new Color(1.0f, 0.584f, 0, 1.0f)},
-            {"rodya", new Color(0.572f, 0.219f, 0.219f, 1.0f)},
-            {"sinclair",new Color(0.545f, 0.611f, 0.082f, 1.0f)},
-            {"outis", new Color(0.415f, 0.6f, 0.454f, 1.0f)},
-            {"gregor", new Color(0.631f, 0.349f, 0.117f, 1.0f)},
-
-            {"wrath", new Color(1.0f, 0.294f, 0.2f, 1.0f)},
-            {"lust", new Color(1.0f, 0.396f, 0.101f, 1.0f)},
-            {"sloth", new Color(1.0f, 0.729f, 0.341f, 1.0f)},
-            {"gluttony", new Color(0.796f, 0.913f, 0, 1.0f)},
-            {"gloom", new Color(0.247f, 0.870f, 1.0f, 1.0f)},
-            {"pride", new Color(0, 0.388f, 0.737f, 1.0f)},
-            {"envy", new Color(0.760f, 0.266f, 1.0f, 1.0f)},
-
-            {"whiteish", new Color(0.9f, 0.9f, 0.9f, 1.0f)},
-            {"charcoal", new Color (0.016f, 0.016f, 0.016f, 0.91f)},
-            {"crimson", new Color(0.666f, 0.001f, 0, 0.99f)},
-            {"violet", new Color(0.577f, 0.0118f, 0.502f, 0.75f)}
-        };
-
-        [HarmonyPatch(typeof(TextMeshProMaterialSetter), nameof(TextMeshProMaterialSetter.WriteMaterialProperty))]
-        [HarmonyPrefix]
-        public static bool WriteMaterialProperty(TextMeshProMaterialSetter __instance)
-        {
-            //Debug.Log("Material Name : " + __instance._text.m_sharedMaterial.name);
-            //Debug.Log("Test : " + __instance._text.font.name);
-            if (!__instance._text.font.name.StartsWith("Pretendard-Regular") && !__instance._text.font.name.StartsWith("Mikodacs") || !Russian_Font.GetRussianFonts(__instance._text.font.name, out _) && !Russian_Font.IsRussianFont(__instance._text.font))
-                return true;
-            Color underlay = __instance._text.fontMaterial.GetColor("_UnderlayColor");
-
-            if (__instance._text.font.name.StartsWith("Pretendard-Regular"))
-                __instance._text.m_sharedMaterial = Russian_Font.GetRussianMaterials(15);
-
-            Color underlayColor = __instance.underlayColor;
-
-            if (__instance._text.font.name.StartsWith("Pretendard-Regular"))
-            {
-                if (__instance.underlayOn && __instance._fontMaterialInstance.HasProperty(ShaderUtilities.ID_UnderlayColor))
-                {
-                    underlayColor = __instance.underlayHdrColorOn ? __instance.underlayHdrColor : underlayColor;
-                    if (underlayColor.r > 0f || underlayColor.g > 0f || underlayColor.b > 0f)
-                        __instance._text.color = underlayColor;
-                }
-
-                if (__instance.Text.text.EndsWith("</color>"))
-                {
-                    Color glowColor = new Color(__instance.faceColor.r, __instance.faceColor.g, __instance.faceColor.b, 0.4f);
-                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
-                    __instance._text.fontMaterial.SetColor("_GlowColor", glowColor);
-                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
-                    __instance._text.color = __instance.faceColor;
-                    return false;
-                }
-                else if (__instance.underlayHdrColorOn == false)
-                {
-                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
-                    __instance._text.fontMaterial.SetColor("_GlowColor", underlayColor);
-                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
-                    __instance._text.color = ColorSchemes["whiteish"];
-                    return false;
-                }
-                else
-                {
-                    Color glowColor = new Color(__instance.faceColor.r, __instance.faceColor.g, __instance.faceColor.b, 0.4f);
-                    __instance._text.fontMaterial.SetColor("_UnderlayColor", underlayColor);
-                    __instance._text.fontMaterial.SetColor("_GlowColor", glowColor);
-                    __instance._text.fontMaterial.SetFloat("_GlowPower", 0.2f);
-                    __instance._text.color = ColorSchemes["charcoal"];
-                    return false;
-                }
-            }
-            return false;
-        }
 
         #endregion
         #region Загрузка языка

@@ -438,7 +438,7 @@
     },
     {
       "id": "mainui_owned",
-      "content": "Имеется"
+      "content": "В наличии"
     },
     {
       "id": "mainui_growth_level_limited",
@@ -658,7 +658,7 @@
     },
     {
       "id": "mainui_ask_purchase_enkephalin",
-      "content": "Не хватает энкефалина.\nХотите восполнить недостающий энкефалин?"
+      "content": "Не хватает энкефалина.\nnЖелаете восполнить недостающий энкефалин?"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_box",
@@ -1118,7 +1118,7 @@
     },
     {
       "id": "empty_mailbox_notice",
-      "content": "Нет полученных писем."
+      "content": "Почтовый ящик пуст."
     },
     {
       "id": "gacha_rate_detail",
