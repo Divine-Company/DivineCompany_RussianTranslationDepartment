@@ -7,6 +7,7 @@ using System.Linq;
 using UnityEngine;
 using FMOD.Studio;
 using UnityEngine.UI;
+using UnityEngine.Playables;
 
 namespace LimbusLocalizeDCLC
 {
@@ -29,6 +30,22 @@ namespace LimbusLocalizeDCLC
             {"Gregor", new Color(0.624f, 0.349f, 0.114f, 1.0f)},        // #9f591d
         };
 
+        public static Dictionary<string, Color32> ColorSchemes32 = new ()
+        {
+            {"Yi Sang", new Color32(211, 223, 231, 255)},       // #d3dfe7
+            {"Faust", new Color32(254, 178, 181, 255)},          // #feb2b5
+            {"Don Quixote", new Color32(254, 238, 36, 255)},   // #feee24
+            {"Ryōshū", new Color32(205, 0, 0, 255)},                  // #cd0000
+            {"Meursault", new Color32(90, 105, 175, 255)},     // #5a69af
+            {"Hong Lu", new Color32(92, 254, 220, 255)},       // #5cfedc
+            {"Heathcliff", new Color32(141, 100, 191, 255)},    // #8d64bf
+            {"Ishmael", new Color32(254, 148, 0, 255)},             // #fe9400
+            {"Rodion", new Color32(145, 55, 55, 255)},        // #913737
+            {"Sinclair",new Color32(138, 155, 21, 255)},       // #8a9b15
+            {"Outis", new Color32(106, 151, 115, 255)},         // #6a9773
+            {"Gregor", new Color32(159, 89, 29, 255)},        // #9f591d
+        };
+
 
         [HarmonyPatch(typeof(VoiceGenerator), nameof(VoiceGenerator.CreateVoiceInstance))]
         [HarmonyPostfix]
@@ -47,23 +64,19 @@ namespace LimbusLocalizeDCLC
 
             if (!path.StartsWith("battle_")) return;
 
-            string personalityID = "";
-
             Debug.Log("voice event path: " + path);
 
-            if (path.StartsWith("battle_special_"))
+            string personalityID = "";
+
+            if (path.StartsWith("battle_special_") || path.StartsWith("battle_s3")) //For Erlking
                 personalityID = path.Split('_')[2];
             else
                 personalityID = path.Split('_')[^2];
 
             Debug.Log("personalityID: " + personalityID);
-            Debug.Log("mainVoice multiVoicesCount: " + VoiceGenerator.multiVoices.Count);
-            Debug.Log("mainVoice personalityID: " + VoiceGenerator.mainVoice.personalityID);
 
             string personalityName = Singleton<TextDataSet>.Instance.PersonalityList.GetData(personalityID).name;
 
-            Debug.Log("Voice volume: " + VoiceGenerator.volume);
-            Debug.Log("Voice Length: " + VoiceGenerator.GetCurrentVoiceLength());
             Debug.Log("Name: " + personalityName + "\n");
 
 
@@ -72,32 +85,15 @@ namespace LimbusLocalizeDCLC
             var gradientController = SingletonBehavior<OutterGradiantEffectController>.Instance;
 
             gradientController._dialogText_Upper.m_fontStyle = TMPro.FontStyles.Normal;
-            //gradientController._dialogText_Upper.fontMaterial = ;
-            gradientController._dialogText_Upper.color = new Color(1, 1, 1, 1);
-
-            // Создаем эффект тени
-            Shadow shadowEffect = gradientController._dialogText_Upper.GetComponent<Shadow>();
-            if (!shadowEffect)
-            {
-                shadowEffect = gradientController._dialogText_Upper.gameObject.AddComponent<Shadow>();
-            }
-
-            // Настраиваем параметры тени
-            shadowEffect.effectColor = new Color(0, 0, 0, 0.5f); // Черный цвет с прозрачностью 50%
-            shadowEffect.effectDistance = new Vector2(2, -2);   // Смещение тени (X, Y)
-            shadowEffect.useGraphicAlpha = true;                // Использовать прозрачность текста
-
-            string text_color = $"{ColorUtility.ToHtmlStringRGBA(ColorSchemes[$"{personalityName}"])}";
-            
 
             foreach (var data in dataList.dataList)
                 if (path.Equals(data.id))
                 {
-                    gradientController.SetDialog_Upper($"<size=120%><color=#{text_color}>{data.dlg}</color></size>\n", 0, 5);
+                    gradientController._dialogText_Upper.fontMaterial.SetColor(TMPro.ShaderUtilities.ID_UnderlayColor, ColorSchemes[$"{personalityName}"]);
+                    gradientController.SetDialog_Upper($"</color><size=120%>{data.dlg}</size>\n", 0, 5);
+                    gradientController._dialogText_Upper.faceColor = ColorSchemes32[$"{personalityName}"];
                     break;
                 }
-            //gradientController._dialogText_Upper.text = null;
-            //;
         }
 
         public static string LastSkillId = "";
@@ -119,7 +115,7 @@ namespace LimbusLocalizeDCLC
 
             Debug.Log("path after: " + path);
 
-            if (!Singleton<TextDataSet>.Instance.personalityVoiceText._voiceDictionary.TryGetValue($"{id}", out var dataList)) return;
+            if (!Singleton<TextDataSet>.Instance.personalityVoiceText._voiceDictionary.TryGetValue(id.ToString(), out var dataList)) return;
 
             var gradientController = SingletonBehavior<OutterGradiantEffectController>.Instance;
 
@@ -127,31 +123,18 @@ namespace LimbusLocalizeDCLC
             string ThisSkillId = $"{pathParts[0]}" + "_" + $"{pathParts[1]}" + "_" + $"{pathParts[2]}";
 
             gradientController._dialogText_Upper.m_fontStyle = TMPro.FontStyles.Normal;
-            //gradientController._dialogText_Upper.fontMaterial = gradientController._dialogText_Upper.font.material;
-            gradientController._dialogText_Upper.color = new Color(1, 1, 1, 1);
-
-            // Создаем эффект тени
-            Shadow shadowEffect = gradientController._dialogText_Upper.GetComponent<Shadow>();
-            if (!shadowEffect)
-            {
-                shadowEffect = gradientController._dialogText_Upper.gameObject.AddComponent<Shadow>();
-            }
-            // Настраиваем параметры тени
-            shadowEffect.effectColor = new Color(0, 0, 0, 0.5f); // Черный цвет с прозрачностью 50%
-            shadowEffect.effectDistance = new Vector2(2, -2);   // Смещение тени (X, Y)
-            shadowEffect.useGraphicAlpha = true;                // Использовать прозрачность текста
-
-            string text_color = $"{ColorUtility.ToHtmlStringRGBA(ColorSchemes[$"{personalityName}"])}";
 
             foreach (var data in dataList.dataList)
                 if (path.Equals(data.id))
                 {
                     Debug.Log("LastSkillId: " + LastSkillId);
                     Debug.Log("phrase: " + data.dlg + "\n");
+                    gradientController._dialogText_Upper.fontMaterial.SetColor(TMPro.ShaderUtilities.ID_UnderlayColor, ColorSchemes[$"{personalityName}"]);
                     if(ThisSkillId.Equals(LastSkillId))
-                        gradientController.SetDialog_Upper(gradientController._dialogText_Upper.text + " " + $"<size=120%><color=#{text_color}>{data.dlg}</color></size>", 0, 5);
+                        gradientController.SetDialog_Upper(gradientController._dialogText_Upper.text + " " + $"<size=120%>{data.dlg}</size>", 0, 999999);
                     else
-                        gradientController.SetDialog_Upper($"<size=120%><color=#{text_color}>{data.dlg}</color></size>", 0, 5);
+                        gradientController.SetDialog_Upper($"</color><size=120%>{data.dlg}</size>", 0, 5);
+                    gradientController._dialogText_Upper.faceColor = ColorSchemes32[$"{personalityName}"];
                     LastSkillId = ThisSkillId;
                     break;
                 }

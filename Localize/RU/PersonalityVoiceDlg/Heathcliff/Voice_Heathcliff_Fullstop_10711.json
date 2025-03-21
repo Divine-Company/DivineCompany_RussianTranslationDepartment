@@ -123,62 +123,62 @@
         {
             "id": "battle_s3_10711_1_1",
             "desc": "Goin' for the Bullseye",
-            "dlg": "Goin' for the bullseye."
+            "dlg": "Целюсь в яблочко."
         },
         {
             "id": "battle_special_10711_1_1",
-            "desc": "Assist Attack 1",
-            "dlg": "Line of sight secured... Shooting."
+            "desc": "Assist Attack I",
+            "dlg": "Есть прострел... Стреляю."
         },
         {
             "id": "battle_special_10711_1_2",
-            "desc": "Assist Attack 2",
-            "dlg": "Hong Lu, providing support."
+            "desc": "Assist Attack II",
+            "dlg": "Хун Лу, прикрываю."
         },
         {
             "id": "battle_special_10711_2_1",
-            "desc": "Combo: Target Marked 1",
-            "dlg": "Okay, I see it."
+            "desc": "Combo: Target Marked I",
+            "dlg": "Окей, цель в прицеле."
         },
         {
             "id": "battle_special_10711_2_1-04",
-            "desc": "Combo: Full-Stop to Life 1",
-            "dlg": "Okay, I see it."
+            "desc": "Combo: Full-Stop to Life I",
+            "dlg": "Окей, цель в прицеле."
         },
         {
             "id": "battle_special_10711_2_2",
-            "desc": "Combo: Full-Stop to Life 2",
-            "dlg": "Move aside!"
+            "desc": "Combo: Full-Stop to Life II",
+            "dlg": "В сторону!"
         },
         {
             "id": "battle_special_10711_2_3",
-            "desc": "Combo: Target Marked 2",
-            "dlg": "Alright, Target confirmed."
+            "desc": "Combo: Target Marked II",
+            "dlg": "Принял. Цель подтверждена."
         },
         {
             "id": "battle_special_10711_3_1-01",
-            "desc": "Evade Melee Support 1",
-            "dlg": "Cover me!"
+            "desc": "Evade Melee Support I",
+            "dlg": "Прикрой!"
         },
         {
             "id": "battle_special_10711_3_2",
-            "desc": "Evade Melee Support 2",
-            "dlg": "I'll leave it to you, Hong Lu!"
+            "desc": "Evade Melee Support II",
+            "dlg": "Твой выход, Хун Лу!"
         },
         {
             "id": "battle_special_10711_4_1",
             "desc": "Retreat",
-            "dlg": "Tsk. I've run out first..."
+            "dlg": "Цк. Я первый отстрелялся..."
         },
         {
             "id": "battle_special_10711_5_1",
-            "desc": "Returning to Battle 1",
-            "dlg": "Alright...  Mag change complete."
+            "desc": "Returning to Battle I",
+            "dlg": "Так... Перезарядка завершена."
         },
         {
             "id": "battle_special_10711_5_2",
-            "desc": "Returning to Battle 2",
-            "dlg": "Sniper repositioning complete."
+            "desc": "Returning to Battle II",
+            "dlg": "Смена позиции завершена."
         }
     ]
 }

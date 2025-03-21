@@ -8,6 +8,7 @@
         "AbEventsResultLog_Refraction2",
         "AbEventsResultLog_Refraction3",
         "AbEventsResultLog_Refraction4",
+        "AbEventsResultLog_Refraction5",
         "DungeonArea1-1",
         "DungeonArea1-2",
         "BattlePass",
@@ -81,7 +82,13 @@
         "MirrorDungeonUI_5",
         "Walpu5EventText",
         "EventLCBCheckupText",
-        "AbEventsResultLog-a1c971"
+        "AbEventsResultLog-a1c971",
+        "EventLCBCheckupText",
+        "RailwayDungeonUI_5",
+        "MirrorDungeonUI_5_InfinityFloor",
+        "UI_Mission_MirrorDungeon5Event",
+        "EventLimbus2ndAnnivText",
+        "NightCleanUpEvent"
     ],
     "character": [
         "Characters"
@@ -95,6 +102,7 @@
         "Enemies_Refraction2",
         "Enemies_Refraction3",
         "Enemies_Refraction4",
+        "Enemies_Refraction5",
         "Enemies91-4",
         "Enemies-a1c5p1",
         "Enemies-a1c5p2",
@@ -114,7 +122,8 @@
         "Assist-a1c7p2",
         "Enemies-a1c7p3",
         "Enemies-walpu5",
-        "Enemies-a1c971"
+        "Enemies-a1c971",
+        "Enemies-sweep"
     ],
     "ego": [
         "Egos"
@@ -155,6 +164,7 @@
         "Skills_Abnormality_Refraction2",
         "Skills_Abnormality_Refraction3",
         "Skills_Abnormality_Refraction4",
+        "Skills_Abnormality_Refraction5",
         "Skills_Abnormality-ycgd",
         "Skills_Abnormality_Mirror",
         "Skills_Tutorial",
@@ -190,7 +200,10 @@
         "Skills_Abnormality-a1c971",
         "Skills_Enemy-a1c971",
         "Skills_Abnormality-a1c9115",
-        "Skills_Enemy-a1c9115"
+        "Skills_Enemy-a1c9115",
+        "Skills_Abnormality-a1c9116",
+        "Skills_Enemy-a1c9116"
+        
     ],
     "passive": [
         "Passives",
@@ -202,6 +215,7 @@
         "Passives_Abnormality_Refraction2",
         "Passives_Abnormality_Refraction3",
         "Passives_Abnormality_Refraction4",
+        "Passives_Abnormality_Refraction5",
         "Passives_Abnormality91-4",
         "Passives_Abnormality-ycgd",
         "Passive_Ego",
@@ -233,13 +247,16 @@
         "Passives_Enemy-a1c7p3",
         "Passives_Abnormality-a1c7p3",
         "Passives_Enemy-walpu5",
-        "Passive-a1c971"
+        "Passive-a1c971",
+        "Passives-a1c9116",
+        "Passives_Abnormality-a1c9116"
     ],
     "buf": [
         "Bufs",
         "Bufs_Refraction2",
         "Bufs_Refraction3",
         "Bufs_Refraction4",
+        "Bufs_Refraction5",
         "Bufs-a1c5p1",
         "Bufs-a1c5p2",
         "Bufs-a1c5p3",
@@ -259,7 +276,8 @@
         "Bufs_Mirror5",
         "Bufs-walpu5",
         "Bufs-a1c971",
-        "Bufs-a1c9114"
+        "Bufs-a1c9114",
+        "Bufs-a1c9116"
     ],
     "buffAbilities": [
         "BuffAbilities"
@@ -275,6 +293,7 @@
         "BattleKeywords_Refraction2",
         "BattleKeywords_Refraction3",
         "BattleKeywords_Refraction4",
+        "BattleKeywords_Refraction5",
         "BattleKeywords-a1c5p1",
         "BattleKeywords-a1c5p2",
         "BattleKeywords-a1c5p3",
@@ -293,7 +312,8 @@
         "BattleKeywords_Mirror5",
         "BattleKeywords-walpu5",
         "BattleKeywords-a1c971",
-        "BattleKeywords-a1c9114"
+        "BattleKeywords-a1c9114",
+        "BattleKeywords-a1c9116"
     ],
     "skillTag": [
         "SkillTag"
@@ -303,6 +323,7 @@
         "AbEvents_Refraction2",
         "AbEvents_Refraction3",
         "AbEvents_Refraction4",
+        "AbEvents_Refraction5",
         "AbEvents_Mirror",
         "AbEvents-a1c5p1",
         "AbEvents-a1c5p2",
@@ -317,7 +338,8 @@
         "AbEvents-walpu4",
         "AbEvents-a1c7p3",
         "AbEvents-walpu5",
-        "AbEvents_lcbcheckup"
+        "AbEvents_lcbcheckup",
+        "AbEvents_night-clean-up"
     ],
     "abnormalityCharDlgs": [
         "AbDlg_YiSang",
@@ -341,6 +363,7 @@
         "AbnormalityGuides_Refraction2",
         "AbnormalityGuides_Refraction3",
         "AbnormalityGuides_Refraction4",
+        "AbnormalityGuides_Refraction5",
         "AbnormalityGuides_Mirror",
         "AbnormalityGuides-a1c5p1",
         "AbnormalityGuides-a1c5p2",
@@ -362,6 +385,7 @@
         "ActionEvents_Refraction2",
         "ActionEvents_Refraction3",
         "ActionEvents_Refraction4",
+        "ActionEvents_Refraction5",
         "ActionEvents_Mirror",
         "ActionEvents-a1c5p1",
         "ActionEvents-a1c5p2",
@@ -376,7 +400,8 @@
         "ActionEvents-a1c7p3",
         "ActionEvents-walpu5",
         "ActionEvents_lcbcheckup",
-        "ActionEvents_a1c971"
+        "ActionEvents_a1c971",
+        "ActionEvents_night-clean-up"
     ],
     "egoGifts": [
         "EGOgift_StoryDungeon",
@@ -427,7 +452,8 @@
         "StageNode-a1c7p2",
         "StageNode-a1c7p3",
         "StageNode91-13",
-        "StageNode91-14"
+        "StageNode91-14",
+        "StageNode91-16"
     ],
     "dungeonNodeInfo": [
         "MirrorDungeonNode1-1",
@@ -447,7 +473,8 @@
         "RailwayDungeonNode1-1",
         "RailwayDungeonNode2",
         "RailwayDungeonNode3",
-        "RailwayDungeonNode4"
+        "RailwayDungeonNode4",
+        "RailwayDungeonNode5"
     ],
     "railwayDungeon": [
         "RailwayDungeon"
@@ -471,8 +498,7 @@
     ],
     "storyTheater": [
         "StoryTheaterMain",
-        "StoryTheaterOther",
-        "StoryTheaterMain-a1c7p1"
+        "StoryTheaterOther"
     ],
     "announcer": [
         "Announcer"
@@ -622,7 +648,12 @@
         "Voice_Yisang_LCE_10111",
         "Voice_Faust_LCE_10211",
         "Voice_Ishmael_Kurokumo_10811",
-        "Voice_Heathcliff_Kurokumo_10712"
+        "Voice_Heathcliff_Kurokumo_10712",
+        "Voice_Yisang_LiuAssoc_10112",
+        "Voice_DonQuixote_CinqEast_10311",
+        "Voice_Gregor_Firepunch_11211",
+        "Voice_Ryoshu_Blackwater_10411",
+        "Voice_Outis_Blackwater_11112"
     ],
     "announcerVoice": [
         "Announcer_Dante_1",
@@ -652,7 +683,9 @@
         "Announcer_FullStop_25",
         "Announcer_Hohenheim_90001",
         "Announcer_Aengdu_26",
-        "Announcer_Jun_27"
+        "Announcer_Jun_27",
+        "Announcer_Vergilius_28",
+        "Announcer_Ricardo_29"
     ],
     "egoVoice": [
         "Voice_EGO_YiSang_1",
@@ -740,7 +773,8 @@
         "RailwayDungeonStationName1-1",
         "RailwayDungeonStationName2",
         "RailwayDungeonStationName3",
-        "RailwayDungeonStationName4"
+        "RailwayDungeonStationName4",
+        "RailwayDungeonStationName5"
     ],
     "railwayDungeonBuff": [
         "RailwayDungeonBuff"
@@ -783,7 +817,8 @@
         "PanicInfo-a1c7p2",
         "PanicInfo-a1c7p3",
         "PanicInfo-walpu5",
-        "PanicInfo-a1c971"
+        "PanicInfo-a1c971",
+        "PanicInfo-a1c9116"
     ],
     "dungeonStartBuffs": [
         "DungeonStartBuffs"

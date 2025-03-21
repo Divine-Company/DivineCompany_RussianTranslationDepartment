@@ -658,7 +658,7 @@
     },
     {
       "id": "mainui_ask_purchase_enkephalin",
-      "content": "Не хватает энкефалина.\nnЖелаете восполнить недостающий энкефалин?"
+      "content": "Не хватает энкефалина.\nЖелаете восполнить недостающий энкефалин?"
     },
     {
       "id": "mainui_ask_purchase_enkephalin_box",
@@ -1853,8 +1853,8 @@
       "content": "Notification Settings"
     },
     {
-      "id": "septempeccata_classification",
-      "content": "Class {0}"
+      "id": "paid_lunacy_ui",
+      "content": "Paid Lunacy"
     }
   ]
 }

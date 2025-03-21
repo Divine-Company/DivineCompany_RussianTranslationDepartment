@@ -123,52 +123,52 @@
         {
             "id": "battle_s3_10611_1-01",
             "desc": "Full-Stop to Life: First coin",
-            "dlg": "A full-stop..."
+            "dlg": "Я ставлю точку..."
         },
         {
             "id": "battle_s3_10611_1-02-1",
             "desc": "Full-Stop to Life: Final coin",
-            "dlg": "To your life!"
+            "dlg": "В твоей жизни!"
         },
         {
             "id": "battle_s3_10611_1-01-1",
             "desc": "Full-Stop to Life: Middle coin kill",
-            "dlg": "To your life."
+            "dlg": "В твоей жизни."
         },
         {
             "id": "battle_special_10611_1_1",
-            "desc": "Target Spotted 1",
-            "dlg": "Heathcliff, now!"
+            "desc": "Target Spotted I",
+            "dlg": "Хитклиф, давай!"
         },
         {
             "id": "battle_special_10611_1_2",
-            "desc": "Target Spotted 2",
-            "dlg": "Line of sight is clear."
+            "desc": "Target Spotted II",
+            "dlg": "Прострел свободен."
         },
         {
             "id": "battle_special_10611_1_3",
-            "desc": "Target Spotted 3",
-            "dlg": "This way, you can shoot, right?"
+            "desc": "Target Spotted III",
+            "dlg": "Теперь ты сможешь сделать выстрел, да?"
         },
         {
             "id": "battle_special_10611_2_1-01",
             "desc": "Combo: Full-Stop to Life",
-            "dlg": "Finish them off."
+            "dlg": "Добивай."
         },
         {
             "id": "battle_special_10611_2_2",
             "desc": "Combo: Target Marked",
-            "dlg": "Take care of them."
+            "dlg": "Цель на тебе."
         },
         {
             "id": "battle_special_10611_3",
             "desc": "Melee Support",
-            "dlg": "Okay, I've got this~"
+            "dlg": "Ага, сейчас всё будет! "
         },
         {
             "id": "battle_special_10611_3-01",
             "desc": "Melee Support Fast",
-            "dlg": "Okay I've got this~"
+            "dlg": "Да, сейчас всё будет!"
         }
     ]
 }
