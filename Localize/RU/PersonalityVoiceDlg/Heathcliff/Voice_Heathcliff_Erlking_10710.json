@@ -139,6 +139,61 @@
             "id": "battle_defeat_10710_1",
             "desc": "Defeat Wail",
             "dlg": "What a sorry mess this is... no matter. I will return. I will return again and again until the day I crush Wuthering Heights between my teeth."
+        },
+        {
+            "id": "battle_s2_10710_1_1_txt-01",
+            "desc": "Memorial Procession",
+            "dlg": "Порву на части."
+        },
+        {
+            "id": "battle_s3_10710_1_1_txt",
+            "desc": "Reqiuem",
+            "dlg": "Покойся в своих сожалениях!"
+        },
+        {
+            "id": "battle_s3_10710_large_2",
+            "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): First coin",
+            "dlg": "Хоть я не могу тебя запереть..."
+        },
+        {
+            "id": "battle_s3_10710_large_3",
+            "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): Final coin",
+            "dlg": "Я высеку на тебе твои сожаления!"
+        },
+        {
+            "id": "battle_add_10710_1",
+            "desc": "Mount Dullahan",
+            "dlg": "Дуллахан! Пора скакать на смерть."
+        },
+        {
+            "id": "battle_s2_10710_ride_1",
+            "desc": "Memorial Procession: Dullahan",
+            "dlg": "Порви их всех, о Дуллахан!"
+        },
+        {
+            "id": "battle_s3_10710_ride_1",
+            "desc": "Lament, Mourn, and Despair: Final coin heads",
+            "dlg": "Исчезни... вместе с бурей."
+        },
+        {
+            "id": "battle_s3_10710_ride_4",
+            "desc": "Lament, Mourn, and Despair: Final coin tails",
+            "dlg": "Исчезни вместе с бурей!"
+        },
+        {
+            "id": "battle_s3_10710_down_1",
+            "desc": "Dismount Dullahan",
+            "dlg": "Снова один... Мне самому с этим разобраться?"
+        },
+        {
+            "id": "battle_add_10710_2",
+            "desc": "Wildhunt on other IDs",
+            "dlg": "Не ждать тебе упокоения."
+        },
+        {
+            "id": "battle_add_10710_3",
+            "desc": "Wildhunt on Wuthering Heights IDs",
+            "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока не заглушишь воплем бурю!"
         }
     ]
 }
