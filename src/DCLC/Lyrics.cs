@@ -2,12 +2,14 @@
 using Voice;
 using BattleUI.Dialog;
 using System.Collections.Generic;
+using TMPro;
 using System.Threading.Tasks;
 using System.Linq;
 using UnityEngine;
 using FMOD.Studio;
 using UnityEngine.UI;
 using UnityEngine.Playables;
+using BattleUI;
 
 namespace LimbusLocalizeDCLC
 {
@@ -83,14 +85,17 @@ namespace LimbusLocalizeDCLC
             if (!Singleton<TextDataSet>.Instance.personalityVoiceText._voiceDictionary.TryGetValue(personalityID, out var dataList)) return;
 
             var gradientController = SingletonBehavior<OutterGradiantEffectController>.Instance;
+            var ShadowImage = gradientController._dialogText_Upper.gameObject.GetComponentInParent<Image>(true);
 
-            gradientController._dialogText_Upper.m_fontStyle = TMPro.FontStyles.Normal;
+            gradientController._dialogText_Upper.m_fontStyle = FontStyles.Normal;
 
             foreach (var data in dataList.dataList)
                 if (path.Equals(data.id))
                 {
-                    gradientController._dialogText_Upper.fontMaterial.SetColor(TMPro.ShaderUtilities.ID_UnderlayColor, ColorSchemes[$"{personalityName}"]);
+                    gradientController._dialogText_Upper.fontMaterial.SetColor(ShaderUtilities.ID_UnderlayColor, ColorSchemes[$"{personalityName}"]);
                     gradientController.SetDialog_Upper($"</color><size=120%>{data.dlg}</size>\n", 0, 5);
+                    EnableandDisableShadow(gradientController._dialogText_Upper, ShadowImage, 5);
+                    
                     gradientController._dialogText_Upper.faceColor = ColorSchemes32[$"{personalityName}"];
                     break;
                 }
@@ -118,29 +123,36 @@ namespace LimbusLocalizeDCLC
             if (!Singleton<TextDataSet>.Instance.personalityVoiceText._voiceDictionary.TryGetValue(id.ToString(), out var dataList)) return;
 
             var gradientController = SingletonBehavior<OutterGradiantEffectController>.Instance;
+            var ShadowImage = gradientController._dialogText_Upper.gameObject.GetComponentInParent<Image>(true);
 
             string[] pathParts = path.Split('_');
             string ThisSkillId = $"{pathParts[0]}" + "_" + $"{pathParts[1]}" + "_" + $"{pathParts[2]}";
 
-            gradientController._dialogText_Upper.m_fontStyle = TMPro.FontStyles.Normal;
+            gradientController._dialogText_Upper.m_fontStyle = FontStyles.Normal;
 
             foreach (var data in dataList.dataList)
                 if (path.Equals(data.id))
                 {
                     Debug.Log("LastSkillId: " + LastSkillId);
                     Debug.Log("phrase: " + data.dlg + "\n");
-                    gradientController._dialogText_Upper.fontMaterial.SetColor(TMPro.ShaderUtilities.ID_UnderlayColor, ColorSchemes[$"{personalityName}"]);
+                    gradientController._dialogText_Upper.fontMaterial.SetColor(ShaderUtilities.ID_UnderlayColor, ColorSchemes[$"{personalityName}"]);
                     if(ThisSkillId.Equals(LastSkillId))
-                        gradientController.SetDialog_Upper(gradientController._dialogText_Upper.text + " " + $"<size=120%>{data.dlg}</size>", 0, 999999);
+                        gradientController.SetDialog_Upper(gradientController._dialogText_Upper.text + " " + $"<size=120%>{data.dlg}</size>", 0, 5);
                     else
                         gradientController.SetDialog_Upper($"</color><size=120%>{data.dlg}</size>", 0, 5);
+                    EnableandDisableShadow(gradientController._dialogText_Upper, ShadowImage, 5);
                     gradientController._dialogText_Upper.faceColor = ColorSchemes32[$"{personalityName}"];
                     LastSkillId = ThisSkillId;
                     break;
                 }
         }
 
-
+        async static void EnableandDisableShadow(TextMeshProUGUI Text, Image Shadow, float duration)
+        {
+            if(!Shadow.enabled) Shadow.enabled = true;
+            await Task.Delay((int)(duration * 1300));
+            if(!Text.enabled) Shadow.enabled = false;
+        }
 
         [HarmonyPatch(typeof(BattleUnitView), nameof(BattleUnitView.SetPlayVoice))]
         [HarmonyPrefix]

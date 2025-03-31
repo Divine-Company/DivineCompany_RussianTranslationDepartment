@@ -8,25 +8,6 @@ namespace LimbusLocalizeDCLC
 {
     internal class DCLC_TextUI
     {
-
-        [HarmonyPatch(typeof(BattlePassUIPopup), nameof(BattlePassUIPopup.localizeHelper.Initialize))]
-        [HarmonyPostfix]
-        private static void BattlePass_Init(BattlePassUIPopup __instance)
-        {
-            TextMeshProUGUI dailyMissionButton_textTMP = __instance.dailyMissionButton.GetComponentInChildren<UIVerticalWriteLocalize>(true).horizontalText.GetComponentInChildren<TextMeshProUGUI>(true);
-            dailyMissionButton_textTMP.m_fontAsset = Russian_Font.GetRussianFonts(3);
-            dailyMissionButton_textTMP.fontMaterial = Russian_Font.GetRussianFonts(3).material;
-
-            TextMeshProUGUI weeklyMissionButton_textTMP = __instance.weeklyMissionButton.GetComponentInChildren<UIVerticalWriteLocalize>(true).horizontalText.GetComponentInChildren<TextMeshProUGUI>(true);
-            weeklyMissionButton_textTMP.m_fontAsset = Russian_Font.GetRussianFonts(3);
-            weeklyMissionButton_textTMP.fontMaterial = Russian_Font.GetRussianFonts(3).material;
-
-            TextMeshProUGUI seasonMissionButton_textTMP = __instance.seasonMissionButton.GetComponentInChildren<UIVerticalWriteLocalize>(true).horizontalText.GetComponentInChildren<TextMeshProUGUI>(true);
-            seasonMissionButton_textTMP.m_fontAsset = Russian_Font.GetRussianFonts(3);
-            seasonMissionButton_textTMP.fontMaterial = Russian_Font.GetRussianFonts(3).material;
-
-        }
-
         [HarmonyPatch(typeof(StageInfoUI), nameof(StageInfoUI.SetDataOpen))]
         [HarmonyPostfix]
         private static void StageInfoUI_Init(StageInfoUI __instance)

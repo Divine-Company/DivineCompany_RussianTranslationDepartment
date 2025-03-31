@@ -122,87 +122,107 @@
         },
         {
             "id": "battle_react_10310_1-1",
-            "desc": "Defeat Wail",
+            "desc": "Hardblood I Gain",
             "dlg": "Flowing Blood."
         },
         {
             "id": "battle_react_10310_1-2",
-            "desc": "Defeat Wail",
+            "desc": "Hardblood II Gain",
             "dlg": "Warm blood..."
         },
         {
             "id": "battle_react_10310_1-3",
-            "desc": "Defeat Wail",
+            "desc": "Hardblood III Gain",
             "dlg": "Blood... filled with emotions."
         },
         {
             "id": "battle_react_10310_2",
-            "desc": "Defeat Wail",
+            "desc": "Variant Sancho Hardblood Arts: Empower Skill 3",
             "dlg": "When it comes to making weapons, I had surpassed my father."
         },
         {
             "id": "battle_react_10310_3-4",
-            "desc": "Defeat Wail",
-            "dlg": "Variant Sancho Hardblood Arts 6th... Tear apart!"
+            "desc": "Variant Sancho Hardblood Arts 6 - Whip: First coin",
+            "dlg": "Variant Sancho Hardblood Arts 6th..."
+        },
+        {
+            "id": "battle_react_10310_3-4-1",
+            "desc": "Variant Sancho Hardblood Arts 6 - Whip: Final coin",
+            "dlg": "Tear apart!"
         },
         {
             "id": "battle_react_10310_4-4",
-            "desc": "Defeat Wail",
-            "dlg": "Variant Sancho Hardblood Arts 8th... Split apart!"
+            "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: First coin",
+            "dlg": "Variant Sancho Hardblood Arts 8th..."
+        },
+        {
+            "id": "battle_react_10310_4-4-1",
+            "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: Final coin",
+            "dlg": "Split apart!"
         },
         {
             "id": "battle_react_10310_5-2",
-            "desc": "Defeat Wail",
-            "dlg": "Ascendant Sancho Hardblood Arts... La Sangre. Time to end this."
+            "desc": "Ascendant Sancho Hardblood Arts - La Sangre: First coin",
+            "dlg": "Ascendant Sancho Hardblood Arts... La Sangre."
+        },
+        {
+            "id": "battle_react_10310_5-2-1",
+            "desc": "Ascendant Sancho Hardblood Arts - La Sangre: Final coin",
+            "dlg": "Time to end this."
         },
         {
             "id": "battle_react_10310_6-4",
-            "desc": "Defeat Wail",
-            "dlg": "Hardblood Arts 15th... Building up to the finale!"
+            "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: First coin",
+            "dlg": "Hardblood Arts 15th..."
+        },
+        {
+            "id": "battle_react_10310_6-4-1",
+            "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: Final coin",
+            "dlg": "Building up to the finale!"
         },
         {
             "id": "battle_react_10310_7",
-            "desc": "Defeat Wail",
+            "desc": "Trio's Enhanced Skills Ready",
             "dlg": "With your weapons... I will lead this bloody battle to victory."
         },
         {
             "id": "battle_react_10310_8-1",
-            "desc": "Defeat Wail",
+            "desc": "Death while Barber Outis Present",
             "dlg": "Barber... I leave the rest of the Family to you."
         },
         {
             "id": "battle_react_10310_8-2",
-            "desc": "Defeat Wail",
+            "desc": "Death while Priest Gregor Present",
             "dlg": "Priest... I leave the rest of the Family to you."
         },
         {
             "id": "battle_react_10310_8-3",
-            "desc": "Defeat Wail",
+            "desc": "Death while Princess Rodion Present",
             "dlg": "My only sister... I leave the rest of the Family to you."
          },
         {
             "id": "battle_react_10310_9",
-            "desc": "Defeat Wail",
+            "desc": "Staggered while Bloodfiends are deployed",
             "dlg": "Focus on the feast in front of your eyes."
         },
         {
             "id": "battle_s2_10310_1_3",
-            "desc": "Defeat Wail",
+            "desc": "Let All Blossom Free",
             "dlg": "Bow down."
         },
         {
             "id": "battle_s2_10310_1_3-01",
-            "desc": "Defeat Wail",
+            "desc": "Let All Blossom Free",
             "dlg": "Bow down."
         },
         {
-            "id": "battle_s3_10310_1_3-01",
-            "desc": "Defeat Wail",
+            "id": "battle_s3_10310_1_3",
+            "desc": "Shall Impale",
             "dlg": "Get Impaled!"
         },
         {
             "id": "battle_s3_10310_1_3-01",
-            "desc": "Defeat Wail",
+            "desc": "Shall Impale",
             "dlg": "Get Impaled!"
         }
     ]
