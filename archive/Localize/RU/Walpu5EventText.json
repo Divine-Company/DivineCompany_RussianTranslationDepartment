@@ -1,0 +1,292 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu5_reward_button",
+      "content": "Задачи"
+    },
+    {
+      "id": "Walpu5_story_theater_button",
+      "content": "Перечитать историю"
+    },
+    {
+      "id": "Walpu5_normal_stage",
+      "content": "Лёгкий режим"
+    },
+    {
+      "id": "Walpu5_hard_stage",
+      "content": "Сложный режим"
+    },
+    {
+      "id": "Walpu5_normal_stage_name",
+      "content": "Книга о Церкви Шестерёнок"
+    },
+    {
+      "id": "Walpu5_hard_stage_name",
+      "content": "Книга о Церкви Шестерёнок"
+    },
+    {
+      "id": "Walpu5_hard_stage_unlock_condition",
+      "content": "Пройдите лёгкую сложность чтобы открыть"
+    },
+    {
+      "id": "EVENT_Walpu5_NORMAL",
+      "content": "Легко"
+    },
+    {
+      "id": "EVENT_Walpu5_HARD",
+      "content": "Сложно"
+    },
+    {
+      "id": "missionConditionTitle_10037",
+      "content": "Победить Последователей Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_10038",
+      "content": "Победить Последователей Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_10039",
+      "content": "Победить Последователей Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_10040",
+      "content": "Победить Агрессивных Фанатиков Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_10041",
+      "content": "Завершить бой без смертей"
+    },
+    {
+      "id": "missionConditionTitle_10042",
+      "content": "Завершить бой без падения ПР Грешников до -45"
+    },
+    {
+      "id": "missionConditionTitle_10043",
+      "content": "Победить Последователей Церкви Шестерёнок Грешником с эффектом 'Ready to Fire' за бой"
+    },
+    {
+      "id": "missionConditionTitle_10044",
+      "content": "Завершить бой, не позволив Грешнику с эффектом 'Ready to Fire' получить урон от атакующих навыков противников более 4 раз или погибнуть"
+    },
+    {
+      "id": "missionConditionTitle_10045",
+      "content": "Победить 4+ Последователей Церкви Шестерёнок одним атакующим навыком"
+    },
+    {
+      "id": "missionConditionTitle_10046",
+      "content": "Победить Агрессивных Фанатиков Церкви Шестерёнок с 80%+ ОЗ одним атакующим навыком"
+    },
+    {
+      "id": "missionConditionTitle_20039",
+      "content": "Победить Последователей Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_20040",
+      "content": "Победить Последователей Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_20041",
+      "content": "Победить Последователей Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_20042",
+      "content": "Победить Агрессивных Фанатиков Церкви Шестерёнок за бой"
+    },
+    {
+      "id": "missionConditionTitle_20043",
+      "content": "Завершить бой без смертей"
+    },
+    {
+      "id": "missionConditionTitle_20044",
+      "content": "Завершить бой без падения ПР Грешников до -45"
+    },
+    {
+      "id": "missionConditionTitle_20045",
+      "content": "Завершить бой без накопления 10 Дыма"
+    },
+    {
+      "id": "missionConditionTitle_20046",
+      "content": "Победить Последователей Церкви Шестерёнок Грешником с эффектом 'Ready to Fire' за бой"
+    },
+    {
+      "id": "missionConditionTitle_20047",
+      "content": "Победить Последователей Церкви Шестерёнок Грешником с эффектом 'Ready to Fire' за бой"
+    },
+    {
+      "id": "missionConditionTitle_20048",
+      "content": "Завершить бой, не позволив Грешнику с эффектом 'Ready to Fire' получить урон от атакующих навыков противников более 2 раз или погибнуть"
+    },
+    {
+      "id": "missionConditionTitle_20049",
+      "content": "Победить 7+ Последователей Церкви Шестерёнок одним атакующим навыком"
+    },
+    {
+      "id": "missionConditionTitle_20050",
+      "content": "Победить Агрессивных Фанатиков Церкви Шестерёнок с 80%+ ОЗ одним атакующим навыком"
+    },
+    {
+      "id": "missionConditionTitle_20051",
+      "content": "Нанести 300+ Критического урона одним атакующим навыком за бой"
+    },
+    {
+      "id": "missionConditionTitle_30004",
+      "content": "Завершить все задачи в лёгком и сложном режимах"
+    },
+    {
+      "id": "Walpu5_reward_event_desc",
+      "content": "Победите Последователей Церкви Шестерёнок в Лёгком и Сложном режимах и выполните задачи.\n\nЗа их выполнение вы получите награды."
+    },
+    {
+      "id": "Walpu5_reward_normal_tab",
+      "content": "Легко"
+    },
+    {
+      "id": "Walpu5_reward_hard_tab",
+      "content": "Сложно"
+    },
+    {
+      "id": "walpu3_modal_yes",
+      "content": "Да"
+    },
+    {
+      "id": "walpu3_modal_no",
+      "content": "Нет"
+    },
+    {
+      "id": "walpu_modal_enterStage_10562",
+      "content": "Готовы ли вы войти в Книгу о Церкви Шестерёнок?"
+    },
+    {
+      "id": "walpu_modal_enterStage_10563",
+      "content": "Готовы ли вы войти в Книгу о Церкви Шестерёнок?"
+    },
+    {
+      "id": "walpu_battle_2_wave",
+      "content": "Молельный зал"
+    },
+    {
+      "id": "walpu_battle_name_10562",
+      "content": "Последователи Церкви Шестерёнок"
+    },
+    {
+      "id": "walpu_battle_name_10563",
+      "content": "Последователи Церкви Шестерёнок"
+    },
+    {
+      "id": "walpu_battle_name_10564",
+      "content": "Последователи Церкви Шестерёнок"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_01_title",
+      "content": "The 5th Walpurgis Night - Full-Stopped by a Bullet"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_01_title_01",
+      "content": "The 5th Walpurgis Night - Full-Stopped by a Bullet"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_01_desc_01",
+      "content": "[The 5th Walpurgis Night - Full-Stopped by a Bullet] unlocks regardless of your progress in the Main Story. Enter via the event banner on the Window or the Driverside tabs."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_02_title_01",
+      "content": "Длительность события"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_02_desc_01",
+      "content": "The duration of The 5th Walpurgis Night event is shown here. During the event, complete Missions for Easy and Hard difficulty event Encounters and claim their rewards."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_title_01",
+      "content": "Easy Difficulty Encounter"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_desc_01",
+      "content": "Select the door to begin the Easy difficulty Encounter.\nThe Encounter consumes an Enkephalin Module upon entry.\nOn Easy difficulty, any Deployed Identities under Level 50 will be raised to Level 50.\nAlso, any Deployed Identities under Tier 3 Uptie Level will be raised to Tier 3 Uptie Level.\nHowever, your current E.G.O Threadspinning Tiers will be reflected."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_title_02",
+      "content": "Hard Difficulty Encounter"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_03_desc_02",
+      "content": "Clearing the Easy difficulty Encounter unlocks the Hard difficulty.\nIn Hard difficulty, your Identities' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_04_title_01",
+      "content": "Эффект 'Ready to Fire'"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_04_desc_01",
+      "content": "The #1 Sinner to be deployed in the Teams menu will be imbued with the 'Ready to Fire' effect. The Sinner with the 'Ready to Fire' effect will gain more Slots and other beneficial effects."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_05_title_01",
+      "content": "Задачи"
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_05_desc_01",
+      "content": "You can enter the [Задачи] page, where you can view the list of Missions to be completed during the Encounter and their rewards. "
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_06_desc_01",
+      "content": "You can view the Reward Exchange period in the [Задачи] page."
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_06_desc_02",
+      "content": "Easy difficulty and Hard difficulty each has different sets of Missions to complete. "
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_06_desc_03",
+      "content": "Complete these Missions and claim various rewards from the [Задачи] page. "
+    },
+    {
+      "id": "tutorial_mainui_27_Walpu5_07_desc_01",
+      "content": "Even after the event fully ends, you will be able to experience the 'The 5th Walpurgis Night - Full-Stopped by a Bullet' combat Encounters and view its story anytime at the Driverside and Theater - [Detour Tales]."
+    },
+    {
+      "id": "Walpu5_not_progress_event_date",
+      "content": "Событие завершено"
+    },
+    {
+      "id": "KillCount_Title_LOR_2",
+      "content": "Врагов пало"
+    },
+    {
+      "id": "LOR_KillCountTitle_2",
+      "content": "Последователи"
+    },
+    {
+      "id": "walpu_battle_result_win_2",
+      "content": "Вы устранили {0}"
+    },
+    {
+      "id": "walpu_battle_result_lose_2",
+      "content": "Вы не смогли устранить {0}"
+    },
+    {
+      "id": "walpu_battle_result_win_1",
+      "content": "{0} Eliminated"
+    },
+    {
+      "id": "walpu_battle_result_lose_1",
+      "content": "{0} Elimination Failed"
+    },
+    {
+      "id": "mainui_battleresult_win_lor_stage_type_2",
+      "content": "Бой завершён"
+    },
+    {
+      "id": "mainui_battleresult_defeat_lor_stage_type_2",
+      "content": "Устранение провалено"
+    },
+    {
+      "id": "mainui_battleresult_reward_title_lor_stage_type_2",
+      "content": "Повержено целей"
+    },
+    {
+      "id": "walpu5_battle_entrance",
+      "content": "В бой!"
+    }
+  ]
+}

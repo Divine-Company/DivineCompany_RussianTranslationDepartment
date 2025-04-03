@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_01",
+      "content": "Плотность информации во время боя"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_01",
+      "content": "Во время справа сверху появляется кнопка, которая позволяет настраивать плотность информации на экране.\n\nКаждая внутренняя опция определяет количество информации на экране: минимальное, среднее, максимальной."
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_02",
+      "content": "MAX"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_02",
+      "content": "Кнопка максимального количества информации.\n\nЭта базовая опция, которая активна при старте игры.\n\nПоказыается больше информации, чем при других двух опциях.\n\nТакже показываются описания Ключевых слов Навыков."
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_03",
+      "content": "MID"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_03",
+      "content": "Кнопка среднего количества информации.\n\nПри этой опции не будут показываться Ключевые слова Навыков.\n\nВо всём остальном она работает так же, как и кнопка максимальной информации."
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_04",
+      "content": "MIN"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_04",
+      "content": "Кнопка минимального количества информации.\n\nПри этой опции не будут отображаться Ключевые слова и Эффекты Навыков."
+    }
+  ]
+}

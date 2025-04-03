@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "1",
+      "content": "Пройти за {0} ходов"
+    },
+    {
+      "id": "2",
+      "content": "Пройти все этажи"
+    },
+    {
+      "id": "3",
+      "content": "Пройти этап"
+    },
+    {
+      "id": "40000",
+      "content": "Пройти этап Грешниками с более 50% ОЗ"
+    },
+    {
+      "id": "50000",
+      "content": "Defeat the Peccatula within the turn limit"
+    },
+    {
+      "id": "60000",
+      "content": "Defeat the enemies before they self-detonate"
+    },
+    {
+      "id": "70000",
+      "content": "Do not take 10+ hits during the Encounter for each Identity"
+    },
+    {
+      "id": "80000",
+      "content": "Each unit defeats the Peccatulum that has taken their shape once"
+    }
+  ]
+}

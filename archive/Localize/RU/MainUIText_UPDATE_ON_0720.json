@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "move_to_inventory",
+      "content": "Перейти в инвентарь"
+    },
+    {
+      "id": "progress_personality_gacksung",
+      "content": "Связь"
+    },
+    {
+      "id": "mainui_reinforce_support_passive",
+      "content": "Пассивное умение поддержки [{0}] улучшено"
+    },
+    {
+      "id": "mainui_reinforce_battle_passive",
+      "content": "Боевое пассивное [{0}] улучшено"
+    },
+    {
+      "id": "mainui_battle_passsive_reinforce",
+      "content": "Боевое пассивное умение улучшено"
+    },
+    {
+      "id": "mainui_support_passsive_reinforce",
+      "content": "Пассивное умение поддержки улучшено"
+    },
+    {
+      "id": "mainui_target_num_label",
+      "content": "Кол-во целей"
+    },
+    {
+      "id": "mainui_awaken_requirement_label",
+      "content": "Нужные ресурсы"
+    }
+  ]
+}

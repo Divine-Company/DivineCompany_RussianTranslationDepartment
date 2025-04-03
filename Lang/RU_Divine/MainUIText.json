@@ -1,0 +1,1868 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_main_button0",
+      "content": "Окно"
+    },
+    {
+      "id": "mainui_main_button1",
+      "content": "Грешники"
+    },
+    {
+      "id": "mainui_main_button2",
+      "content": "Проектор"
+    },
+    {
+      "id": "mainui_main_button3",
+      "content": "Карта"
+    },
+    {
+      "id": "mainui_main_button4",
+      "content": "Извлечение"
+    },
+    {
+      "id": "mainui_main_button5",
+      "content": "Автомат"
+    },
+    {
+      "id": "mainui_main_exp",
+      "content": "Опыт"
+    },
+    {
+      "id": "mainui_main_stamina",
+      "content": "Выносливость"
+    },
+    {
+      "id": "mainui_main_enkephalin",
+      "content": "Энкефалин"
+    },
+    {
+      "id": "mainui_main_madness",
+      "content": "Безумство"
+    },
+    {
+      "id": "mainui_battleselection_everydungeon",
+      "content": "Зазеркалья"
+    },
+    {
+      "id": "mainui_stageinfo_recommendlevel",
+      "content": "Рек. уровень"
+    },
+    {
+      "id": "mainui_stageinfo_enemyinfo",
+      "content": "Противники"
+    },
+    {
+      "id": "mainui_stageinfo_exclearcondition",
+      "content": "Доп. задачи"
+    },
+    {
+      "id": "mainui_stageinfo_statinfo",
+      "content": "Характеристики"
+    },
+    {
+      "id": "mainui_stageinfo_resistinfo",
+      "content": "Уязвимости"
+    },
+    {
+      "id": "mainui_stageinfo_enterbutton",
+      "content": "Войти"
+    },
+    {
+      "id": "mainui_stageinfo_dungeonclear",
+      "content": "Главные задачи"
+    },
+    {
+      "id": "mainui_sinners_battleannouncer",
+      "content": "<size=38>Комментатор</size>"
+    },
+    {
+      "id": "mainui_sinners_dante",
+      "content": "Данте"
+    },
+    {
+      "id": "mainui_sinners_decklist",
+      "content": "Список пассажиров"
+    },
+    {
+      "id": "mainui_sinners_deck",
+      "content": "Пассажиры"
+    },
+    {
+      "id": "mainui_sinners_passive",
+      "content": "Пассивные"
+    },
+    {
+      "id": "mainui_sinners_egoresource",
+      "content": "Грехи"
+    },
+    {
+      "id": "mainui_sinners_participant",
+      "content": "Выбрать участников"
+    },
+    {
+      "id": "mainui_sinners_startbattle",
+      "content": "В бой!"
+    },
+    {
+      "id": "mainui_common_personality",
+      "content": "Личность"
+    },
+    {
+      "id": "mainui_common_filter",
+      "content": "Фильтр"
+    },
+    {
+      "id": "mainui_common_state",
+      "content": "Текущий"
+    },
+    {
+      "id": "mainui_common_sort",
+      "content": "Сортировать"
+    },
+    {
+      "id": "mainui_sinners_unequipego",
+      "content": "Не экипировано"
+    },
+    {
+      "id": "mainui_skip_desc",
+      "content": "Пропустить?"
+    },
+    {
+      "id": "mainui_battleresult_reward",
+      "content": "Награда"
+    },
+    {
+      "id": "mainui_battleresult_exclearreward",
+      "content": "Доп. награда"
+    },
+    {
+      "id": "mainui_battleresult_statistics",
+      "content": "Статистика"
+    },
+    {
+      "id": "mainui_ok",
+      "content": "Принять"
+    },
+    {
+      "id": "mainui_battleresult_victory",
+      "content": "Победа"
+    },
+    {
+      "id": "mainui_battleresult_defeat",
+      "content": "Поражение"
+    },
+    {
+      "id": "mainui_battleresult_return",
+      "content": "Компенсация"
+    },
+    {
+      "id": "mainui_battleresult_hint",
+      "content": "Подсказка"
+    },
+    {
+      "id": "mainui_page",
+      "content": "Стр. {0}"
+    },
+    {
+      "id": "mainui_cancel",
+      "content": "Закрыть"
+    },
+    {
+      "id": "mainui_select",
+      "content": "Выбрать"
+    },
+    {
+      "id": "mainui_select_finished",
+      "content": "Завершить"
+    },
+    {
+      "id": "mainui_grade",
+      "content": "Этап {0}"
+    },
+    {
+      "id": "mainui_floor",
+      "content": "Этаж {0}"
+    },
+    {
+      "id": "mainui_main_enkephalin_Box",
+      "content": "Энкефалиновая ячейка"
+    },
+    {
+      "id": "mainui_main_own_count",
+      "content": "Имеется"
+    },
+    {
+      "id": "mainui_mirror_entrance_entry",
+      "content": "Войти в {0}?"
+    },
+    {
+      "id": "mainui_mirror_entrance_progressing",
+      "content": "{0} в процессе прохождения."
+    },
+    {
+      "id": "mainui_mirror_entrance_re_entry",
+      "content": "Продолжить экспедицию?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit",
+      "content": "Покинуть экспедицию?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit_former",
+      "content": "Прогресс экспедиции будет обнулён."
+    },
+    {
+      "id": "mainui_mirror_entrance_warning",
+      "content": "※ Потраченные модули энкефалина не будут возвращены."
+    },
+    {
+      "id": "mainui_proress",
+      "content": "Продолжить"
+    },
+    {
+      "id": "mainui_stop",
+      "content": "Прекратить"
+    },
+    {
+      "id": "mainui_next",
+      "content": "Далее"
+    },
+    {
+      "id": "mainui_ego_list",
+      "content": "Список ЭГО"
+    },
+    {
+      "id": "mainui_personality_list",
+      "content": "Список личностей"
+    },
+    {
+      "id": "mainui_acquired_reward",
+      "content": "Полученные награды"
+    },
+    {
+      "id": "mainui_dungeon_finished",
+      "content": "Приостановить экспедицию"
+    },
+    {
+      "id": "mainui_category",
+      "content": "Легенда карты"
+    },
+    {
+      "id": "mainui_stats_hp",
+      "content": "ОЗ"
+    },
+    {
+      "id": "mainui_stats_speed",
+      "content": "СКР"
+    },
+    {
+      "id": "mainui_stats_defense",
+      "content": "Уровень защиты"
+    },
+    {
+      "id": "mainui_upgrade",
+      "content": "Улучшить"
+    },
+    {
+      "id": "mainui_mirror_select_ego",
+      "content": "Выбрать ЭГО"
+    },
+    {
+      "id": "mainui_mirror_opening",
+      "content": "Вход открыт"
+    },
+    {
+      "id": "mainui_simulation",
+      "content": "Симуляция"
+    },
+    {
+      "id": "mainui_untill",
+      "content": "До"
+    },
+    {
+      "id": "mainui_free",
+      "content": "Бесп."
+    },
+    {
+      "id": "mainui_paid",
+      "content": "Купл."
+    },
+    {
+      "id": "mainui_support",
+      "content": "<size=45px><line-height=55%>Помощь друзей"
+    },
+    {
+      "id": "mainui_gacha_rateinfo",
+      "content": "Вероятности"
+    },
+    {
+      "id": "mainui_gacha_history",
+      "content": "История"
+    },
+    {
+      "id": "mainui_gacha_daliynotice",
+      "content": "Обновляется ежедневно в {0}:00"
+    },
+    {
+      "id": "mainui_gacha_alreadyusedgacha",
+      "content": "Ежедневные попытки закончились"
+    },
+    {
+      "id": "mainui_gacha_extract1",
+      "content": "Извлечь 1"
+    },
+    {
+      "id": "mainui_gacha_extract10",
+      "content": "Извлечь 10"
+    },
+    {
+      "id": "mainui_open_battlepass",
+      "content": "Боевой пропуск открыт!"
+    },
+    {
+      "id": "mainui_grade_without_space",
+      "content": "Уровень {0}"
+    },
+    {
+      "id": "mainui_type",
+      "content": "Тип"
+    },
+    {
+      "id": "mainui_level_unit",
+      "content": "{0}★"
+    },
+    {
+      "id": "mainui_Change_lobby_illust",
+      "content": "Сменить изображение"
+    },
+    {
+      "id": "mainui_lobby_illust_acquisition_method",
+      "content": "Как разблокировать:"
+    },
+    {
+      "id": "mainui_networkingerror_content",
+      "content": "Подключение нестабильно.\nПожалуйста, проверьте подключение к Интернету."
+    },
+    {
+      "id": "mainui_networkingerror_close",
+      "content": "Закрыть"
+    },
+    {
+      "id": "mainui_networkingerror_retry",
+      "content": "Попытаться снова"
+    },
+    {
+      "id": "mainui_event_notice",
+      "content": "События"
+    },
+    {
+      "id": "mainui_system_notice",
+      "content": "Система"
+    },
+    {
+      "id": "mainui_team",
+      "content": "Команда"
+    },
+    {
+      "id": "mainui_cost",
+      "content": "Cost"
+    },
+    {
+      "id": "mainui_dungeon_progress_rate",
+      "content": "Прогресс экспедиции"
+    },
+    {
+      "id": "mainui_guaranteed_reward",
+      "content": "Награда"
+    },
+    {
+      "id": "mainui_select_reward",
+      "content": "Дополнительные награды"
+    },
+    {
+      "id": "mainui_battle_pass_exp",
+      "content": "Опыт Лимбус пропуска"
+    },
+    {
+      "id": "mainui_enforce_ticket",
+      "content": "Билеты улучшения"
+    },
+    {
+      "id": "mainui_reward_random_box",
+      "content": "Ящики с осколками ЭГО"
+    },
+    {
+      "id": "mainui_reward_select_box",
+      "content": "Ящики с осколками ЭГО на выбор"
+    },
+    {
+      "id": "mainui_manaUsage",
+      "content": "Рассудок"
+    },
+    {
+      "id": "mainui_abnormality_analysis_level",
+      "content": "Текущий уровень"
+    },
+    {
+      "id": "mainui_analysis",
+      "content": "Сплести"
+    },
+    {
+      "id": "mainui_abnormality_analysis",
+      "content": "Сплетение"
+    },
+    {
+      "id": "mainui_receive",
+      "content": "Забрать"
+    },
+    {
+      "id": "mainui_dungeon_finished_reward",
+      "content": "Награды экспедиции"
+    },
+    {
+      "id": "mainui_passive",
+      "content": "Пассивные"
+    },
+    {
+      "id": "mainui_support_passive",
+      "content": "Поддержка"
+    },
+    {
+      "id": "mainui_synchronization",
+      "content": "Связать"
+    },
+    {
+      "id": "mainui_personality_synchronization_level",
+      "content": "Сила связи"
+    },
+    {
+      "id": "mainui_owned",
+      "content": "В наличии"
+    },
+    {
+      "id": "mainui_growth_level_limited",
+      "content": "Неприменимо к личностям {0}+ уровня"
+    },
+    {
+      "id": "mainui_stats_attack",
+      "content": "Атака"
+    },
+    {
+      "id": "mainui_mailbox_receive_all",
+      "content": "Забрать всё"
+    },
+    {
+      "id": "mainui_mailbox_receive_history",
+      "content": "История"
+    },
+    {
+      "id": "mainui_remain_days",
+      "content": "До окончания: {0} д."
+    },
+    {
+      "id": "mainui_mail_remains_count",
+      "content": "Лимит писем"
+    },
+    {
+      "id": "mainui_mail_warning",
+      "content": "※ Вмещает до 100 писем; истекшие письма будут <color=#990000>удалены</color>."
+    },
+    {
+      "id": "mainui_mail_warning2",
+      "content": "※ Полученные предметы могут быть возвращены обратно."
+    },
+    {
+      "id": "main_information",
+      "content": "Информация"
+    },
+    {
+      "id": "main_until",
+      "content": "Истекает"
+    },
+    {
+      "id": "mainui_synchronization_grade",
+      "content": "Сила связи"
+    },
+    {
+      "id": "mainui_organization",
+      "content": "Отряд"
+    },
+    {
+      "id": "story_ui_log_popup",
+      "content": "Журнал"
+    },
+    {
+      "id": "mail_box_attachments",
+      "content": "Содержимое"
+    },
+    {
+      "id": "mail_box_unseal_result",
+      "content": "Посылка получена"
+    },
+    {
+      "id": "item_use_result",
+      "content": "Предмет использован"
+    },
+    {
+      "id": "giving_up_story_dungeon_title",
+      "content": "Покинуть сюжетную экспедицию"
+    },
+    {
+      "id": "giving_up_story_dungeon_content",
+      "content": "Вы проходите экспедицию  {0} эпизода.\nОтказаться от наград и начать новую экспедицию?"
+    },
+    {
+      "id": "mainui_all",
+      "content": "Все"
+    },
+    {
+      "id": "mainui_opened",
+      "content": "Открыто"
+    },
+    {
+      "id": "mainui_not_opened",
+      "content": "Закрыто"
+    },
+    {
+      "id": "mainui_buy",
+      "content": "<size=48>Подтвердить</size>"
+    },
+    {
+      "id": "mainui_use",
+      "content": "Использовать"
+    },
+    {
+      "id": "mainui_consume",
+      "content": "Расходуемые"
+    },
+    {
+      "id": "mainui_currencies",
+      "content": "Ресурсы"
+    },
+    {
+      "id": "mainui_inventory",
+      "content": "Инвентарь"
+    },
+    {
+      "id": "mainui_awaken_requirement_amount",
+      "content": "Нужные ресурсы"
+    },
+    {
+      "id": "mainui_passive_skill_addition",
+      "content": "Открытые пассивные умения"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_reinforcement",
+      "content": "Улучшение пробуждения ЭГО"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_reinforcement",
+      "content": "Улучшение коррозии ЭГО"
+    },
+    {
+      "id": "mainui_lack_of_material_amount",
+      "content": "Недостаточно сплетения."
+    },
+    {
+      "id": "mainui_move",
+      "content": "Вперёд"
+    },
+    {
+      "id": "mainui_move_to_twine_store",
+      "content": "Обмен осколков"
+    },
+    {
+      "id": "mainui_move_to_twine_store_question",
+      "content": "Не хватает сплетения.\nПерейти в обменный автомат?"
+    },
+    {
+      "id": "mainui_confirm_of_purchased_twine",
+      "content": "Обменять {0} ед. сплетения?"
+    },
+    {
+      "id": "mainui_result_of_purchased_twine",
+      "content": "Получено {0} ед. сплетения."
+    },
+    {
+      "id": "mainui_personality_awaken_completion",
+      "content": "Связь личности усилена"
+    },
+    {
+      "id": "mainui_ego_awaken_completion",
+      "content": "ЭГО сплетено"
+    },
+    {
+      "id": "mainui_new_skill_acquisition",
+      "content": "Новый навык: [{0}]"
+    },
+    {
+      "id": "mainui_new_passive_skill_acquisition",
+      "content": "Новый пассивный навык: [{0}]"
+    },
+    {
+      "id": "mainui_new_battle_passive_acquisition",
+      "content": "Новый боевой пассивный навык: [{0}]"
+    },
+    {
+      "id": "mainui_new_support_passive_acquisition",
+      "content": "Новый поддерживающий пассивный навык: [{0}]"
+    },
+    {
+      "id": "mainui_skill_reinforcement",
+      "content": "Навык улучшен: [{0}]"
+    },
+    {
+      "id": "mainui_unlock_personality_story",
+      "content": "История [{0}] разблокирована"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_name_reinforcement",
+      "content": "Пробуждение ЭГО [{0}] улучшено"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_name_reinforcement",
+      "content": "Коррозия ЭГО [{0}] улучшена"
+    },
+    {
+      "id": "mainui_specific_level_achievement",
+      "content": "Достигните {0} уровня"
+    },
+    {
+      "id": "mainui_personality_awaken_level_up_condition",
+      "content": "Требуется {0} сила связи"
+    },
+    {
+      "id": "mainui_battle_passsive_addition",
+      "content": "Боевой пассивный навык открыт"
+    },
+    {
+      "id": "mainui_support_passsive_addition",
+      "content": "Поддерживающий пассивный навык открыт"
+    },
+    {
+      "id": "mainui_check_purchase",
+      "content": "Подтвердить покупку"
+    },
+    {
+      "id": "mainui_acquire_banner",
+      "content": "Баннер получен"
+    },
+    {
+      "id": "mainui_purchase_complete",
+      "content": "Куплено"
+    },
+    {
+      "id": "mainui_activation",
+      "content": "АКТИВИРОВАНО"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin",
+      "content": "Не хватает энкефалина.\nЖелаете восполнить недостающий энкефалин?"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_box",
+      "content": "Не хватает энкефалиновых ячеек.\nЖелаете их приобрести?"
+    },
+    {
+      "id": "mainui_rewatching-stage-story",
+      "content": "Просмотр истории"
+    },
+    {
+      "id": "mainui_before_battle",
+      "content": "До битвы"
+    },
+    {
+      "id": "mainui_after_battle",
+      "content": "После битвы"
+    },
+    {
+      "id": "mainui_story",
+      "content": "История"
+    },
+    {
+      "id": "Get_Reward",
+      "content": "Полученные награды"
+    },
+    {
+      "id": "mainui_user_exp",
+      "content": "Опыт директора"
+    },
+    {
+      "id": "mainui_chapter_progress",
+      "content": "Прогресс"
+    },
+    {
+      "id": "mainui_ex_clear_progress",
+      "content": "Доп. цели"
+    },
+    {
+      "id": "mainui_notice_spend_free_lunacy_first",
+      "content": "※ Сначала используется бесплатное Безумство."
+    },
+    {
+      "id": "mainui_notice_require_lunacy",
+      "content": "※ Недостаточно Безумства."
+    },
+    {
+      "id": "mainui_progress_of_spend",
+      "content": "Потратить {0} для получения {1}?"
+    },
+    {
+      "id": "game_setting",
+      "content": "Настройки"
+    },
+    {
+      "id": "level",
+      "content": "Уровень"
+    },
+    {
+      "id": "name",
+      "content": "Имя"
+    },
+    {
+      "id": "order_of_acquisition",
+      "content": "Недавнее"
+    },
+    {
+      "id": "tolerance",
+      "content": "Уязвимости"
+    },
+    {
+      "id": "outstanding_staff",
+      "content": "Самый ценный сотрудник"
+    },
+    {
+      "id": "total_damage_contribution",
+      "content": "Процент нанесённого урона"
+    },
+    {
+      "id": "deal_damage",
+      "content": "Нанесено"
+    },
+    {
+      "id": "taken_damage",
+      "content": "Получено"
+    },
+    {
+      "id": "user_level_up_notice",
+      "content": "Уровень директора повышен!"
+    },
+    {
+      "id": "increase_maxium_enkephalin",
+      "content": "Вместимость энкефалина повышена!"
+    },
+    {
+      "id": "recharge_enkephalin_notice",
+      "content": "Энкефалин восполнен."
+    },
+    {
+      "id": "gacha_extract_multiple",
+      "content": "Извлечь {0}"
+    },
+    {
+      "id": "number_of_times",
+      "content": "Раз(а)"
+    },
+    {
+      "id": "number_of_remain_extract_times",
+      "content": "Извлечений осталось"
+    },
+    {
+      "id": "notice_of_remain_extract_chance",
+      "content": "3★ личность или ЭГО гарантировано через {0} извлечений"
+    },
+    {
+      "id": "mainui_settings",
+      "content": "Настройки"
+    },
+    {
+      "id": "mainui_environment_settings",
+      "content": "Настройки"
+    },
+    {
+      "id": "mainui_back",
+      "content": "Назад"
+    },
+    {
+      "id": "mainui_quit_game",
+      "content": "Выйти из игры"
+    },
+    {
+      "id": "mainui_acquisition",
+      "content": "Открыто"
+    },
+    {
+      "id": "mainui_not_acquisition",
+      "content": "Не открыто"
+    },
+    {
+      "id": "mainui_no_record",
+      "content": "Отсутствует журнал получений"
+    },
+    {
+      "id": "resume",
+      "content": "Продолжить"
+    },
+    {
+      "id": "mainui_entering",
+      "content": "Войти"
+    },
+    {
+      "id": "mainui_open_after_clear",
+      "content": "Откроется после прохождения {0} части"
+    },
+    {
+      "id": "mainui_organization_sharp",
+      "content": "Отряд #{0}"
+    },
+    {
+      "id": "mainui_participant_count",
+      "content": "Изменить отряд"
+    },
+    {
+      "id": "mainui_edit",
+      "content": "Изменить"
+    },
+    {
+      "id": "mainui_unlock_condition_by_personality_awaken_level",
+      "content": "Откроется на {0} силе связи"
+    },
+    {
+      "id": "skill_growth_value",
+      "content": "Прирост"
+    },
+    {
+      "id": "gacha_history_notice",
+      "content": "※ Отображается до {1} извлечений за последние {0} дней"
+    },
+    {
+      "id": "gacha_history_empty",
+      "content": "Извлечений не обнаружено."
+    },
+    {
+      "id": "own",
+      "content": "Есть"
+    },
+    {
+      "id": "gacha_category",
+      "content": "Категория"
+    },
+    {
+      "id": "gacha_time",
+      "content": "Дата"
+    },
+    {
+      "id": "used_currencies",
+      "content": "Ресурсы использованы"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_module",
+      "content": "Недостаточно модулей энкефалина.\nЖелаете их собрать?"
+    },
+    {
+      "id": "list",
+      "content": "Список"
+    },
+    {
+      "id": "rank",
+      "content": "Редкость"
+    },
+    {
+      "id": "probability",
+      "content": "Шанс"
+    },
+    {
+      "id": "gacha_rate_label",
+      "content": "Вероятность извлечения"
+    },
+    {
+      "id": "gacha_rate_title_ten1",
+      "content": "[Извлечь 10 (с 1 по 9-ое)]: одинаковая вероятность с [Извлечь 1]"
+    },
+    {
+      "id": "gacha_rate_title_ten2",
+      "content": "[Извлечь 10 (10-е)]"
+    },
+    {
+      "id": "gacha_rate_info_intro1",
+      "content": "In compliance with the 「Voluntary Restraint Guidelines of Korea Association of Game Industry」, detailed rates for chance-based items are disclosed here.\n\nIndividual rates are rounded up from the fifth digit after the decimal point. The actual sum is applied as 100%."
+    },
+    {
+      "id": "gacha_rate_info_intro2",
+      "content": "In [10 Extractions], at least 1 Identity with a rarity of 2★ or higher will be extracted.\n\nThe table for the 10th Extraction is as follows:"
+    },
+    {
+      "id": "gacha_rate_info_ego1",
+      "content": "Below is the list of Identities and E.G.O you can obtain following the aforementioned rates.\n\nThe list may change in certain seasons; upcoming changes to the reward tables will be announced in advance."
+    },
+    {
+      "id": "gacha_rate_info_ego2",
+      "content": "<b>E.G.O is extracted non-repetitively; E.G.O acquired through any means, including Extraction, Dispenser, and redemption from the mailbox, will be excluded from the Extraction table.</b>\n\nAs long as there is E.G.O remaining in the table of possible results, the chance of extracting E.G.O in Extraction does not change. Therefore, the chance of acquiring specific E.G.O will increase as more extractions are performed."
+    },
+    {
+      "id": "gacha_rate_info_complete1",
+      "content": "If there is no E.G.O remaining in the table due to the user acquiring all of them, the rates for [1 Extraction] and [10 Extraction] will change accordingly to the following:"
+    },
+    {
+      "id": "gacha_rate_info_complete2",
+      "content": "In Target Extractions, certain Identities and E.G.O have higher extraction rates.\n\nTarget Identities account for 50% of the probabilities for their respective rarities; the rates are evenly shared among them.\n\nThe other 50% of probabilities are evenly distributed between the non-targeted Identities in the table."
+    },
+    {
+      "id": "gacha_rate_info_complete3",
+      "content": "The same applies to Target E.G.O.\n\nChanges in probabilities for Target Extractions do not affect the chances of items of certain types and rarities appearing."
+    },
+    {
+      "id": "gacha_rate_info_piece1",
+      "content": "★ Egoshards\nWhen you extract an Identity or E.G.O you already own, you will get Egoshards of the character, its quantity depending on the item’s type and rarity."
+    },
+    {
+      "id": "gacha_rate_info_piece2",
+      "content": "Egoshards can only be used for a set period. When the expiration date arrives, 50% of the Egoshards in possession are carried over to the next season.\n\nThe remaining Egoshards are converted to Thread."
+    },
+    {
+      "id": "gacha_rate_info_piece3",
+      "content": "The same applies to Egoshard Crates.\n\nPlayers will be notified of the upcoming season change and expiration of Egoshards and Egoshard Crates sometime before the expiration date."
+    },
+    {
+      "id": "personality_preview_notice",
+      "content": "Здесь показаны макс. уровень и сила связи личности."
+    },
+    {
+      "id": "ego_preview_notice",
+      "content": "Здесь показан макс. уровень ЭГО"
+    },
+    {
+      "id": "season_1",
+      "content": "Сезон 1"
+    },
+    {
+      "id": "commonly",
+      "content": "Обычный"
+    },
+    {
+      "id": "notice_external_website",
+      "content": "Перейти по внешей ссылке."
+    },
+    {
+      "id": "pass_level",
+      "content": "Ур. пропуска"
+    },
+    {
+      "id": "normal_reward",
+      "content": "Обычные награды"
+    },
+    {
+      "id": "limbus_pass_reward",
+      "content": "Награды Лимбус пропуска"
+    },
+    {
+      "id": "loading_battlehint",
+      "content": "Советы по ведению боя"
+    },
+    {
+      "id": "status_up",
+      "content": "Характеристики улучшены"
+    },
+    {
+      "id": "active_skill_acquired",
+      "content": "Новые навыки"
+    },
+    {
+      "id": "active_skill_reinforcement",
+      "content": "Улучшение навыков"
+    },
+    {
+      "id": "progress_ego_gacksung",
+      "content": "Усилить\nсплетение"
+    },
+    {
+      "id": "skill_with_index",
+      "content": "<size=28>Навык {0}</size>"
+    },
+    {
+      "id": "mail_date",
+      "content": "Дата"
+    },
+    {
+      "id": "mail_sender",
+      "content": "Отправитель"
+    },
+    {
+      "id": "mail_history_notice",
+      "content": "※ В архиве отображаются до {0} полученных писем."
+    },
+    {
+      "id": "cant_receive_mail_all_tilte",
+      "content": "Невозможно принять"
+    },
+    {
+      "id": "cant_receive_mail_all_main",
+      "content": "Нет доступных писем для «Принять всё»"
+    },
+    {
+      "id": "attached_item",
+      "content": "Прикреплено"
+    },
+    {
+      "id": "inventory_category_all",
+      "content": "Все"
+    },
+    {
+      "id": "inventory_category_normal",
+      "content": "Основные"
+    },
+    {
+      "id": "inventory_category_consumable",
+      "content": "Расходуемые"
+    },
+    {
+      "id": "inventory_category_pieces",
+      "content": "Осколки ЭГО"
+    },
+    {
+      "id": "enkephalin_injection_complete",
+      "content": "Энкефалин пополнен"
+    },
+    {
+      "id": "purchase_impossible",
+      "content": "Нельзя приобрести"
+    },
+    {
+      "id": "notice_not_enough_pieces",
+      "content": "※ Недостаточно осколков ЭГО"
+    },
+    {
+      "id": "buy_personaliy",
+      "content": "Приобрести Личность"
+    },
+    {
+      "id": "buy_ego",
+      "content": "Приобрести ЭГО"
+    },
+    {
+      "id": "not_enough_pieces",
+      "content": "Недостаточно осколков ЭГО"
+    },
+    {
+      "id": "basis",
+      "content": "Основные"
+    },
+    {
+      "id": "skip_tutorial",
+      "content": "Пропустить обучение"
+    },
+    {
+      "id": "skip_tutorial_description",
+      "content": "Пропустить обучение?"
+    },
+    {
+      "id": "min_speed_upgrade",
+      "content": "Мин. СКР увеличена"
+    },
+    {
+      "id": "max_speed_upgrade",
+      "content": "Макс. СКР увеличена"
+    },
+    {
+      "id": "min_max_speed_upgrade",
+      "content": "Мин. и макс. СКР увеличены"
+    },
+    {
+      "id": "mailbox",
+      "content": "Почтовый ящик"
+    },
+    {
+      "id": "remain_days_label",
+      "content": "До"
+    },
+    {
+      "id": "extract_again",
+      "content": "Извлечь ещё раз"
+    },
+    {
+      "id": "ego_gift",
+      "content": "Дары ЭГО"
+    },
+    {
+      "id": "classification",
+      "content": "Категория"
+    },
+    {
+      "id": "quantity",
+      "content": "Количество"
+    },
+    {
+      "id": "appearance_probability",
+      "content": "Вероятность"
+    },
+    {
+      "id": "Individual_appearance_probability",
+      "content": "Индивидуальная вероятность"
+    },
+    {
+      "id": "notice_sold_out",
+      "content": "Нет в наличии"
+    },
+    {
+      "id": "select_piece",
+      "content": "Выберите осколок ЭГО"
+    },
+    {
+      "id": "mail_item_warning",
+      "content": "※ Может не подлежать возврату после принятия."
+    },
+    {
+      "id": "mainui_unlock_condition_by_ego_awaken_level",
+      "content": "Открывается на {0} уровне пробуждения"
+    },
+    {
+      "id": "empty_mailbox_notice",
+      "content": "Почтовый ящик пуст."
+    },
+    {
+      "id": "gacha_rate_detail",
+      "content": "Детали извлечения"
+    },
+    {
+      "id": "gacha_alarm_title",
+      "content": "Продолжение извлечения"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "Завершите\nЭтап {0}"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "Завершите\n{0}-ю Песнь"
+    },
+    {
+      "id": "ingredients",
+      "content": "Предметы"
+    },
+    {
+      "id": "remote_download_return_title",
+      "content": "Была обнаружена новая версия игры.\nВозврат на начальный экран."
+    },
+    {
+      "id": "battle_skip",
+      "content": "Пропуск битвы"
+    },
+    {
+      "id": "ask_battle_skip",
+      "content": "Вы правда желаете пропустить битву?"
+    },
+    {
+      "id": "notice_consumption_multiples",
+      "content": "Стоимость {0} x {1}"
+    },
+    {
+      "id": "notice_additional_rewards",
+      "content": "Дополнительная награда {0}"
+    },
+    {
+      "id": "gacha_notice_exclude_ego",
+      "content": "Этот баннер не содержит ЭГО"
+    },
+    {
+      "id": "gacha_notice_single_season",
+      "content": "В этом баннере личности редкости 2★ и 3★ относятся к {0} сезону."
+    },
+    {
+      "id": "error_and_return_to_main",
+      "content": "Произошла ошибка.\nВозврат на начальный экран."
+    },
+    {
+      "id": "to_window",
+      "content": "К окну"
+    },
+    {
+      "id": "completion",
+      "content": "Выполнено"
+    },
+    {
+      "id": "event_in_progress",
+      "content": "Событие открыто"
+    },
+    {
+      "id": "end_of_event",
+      "content": "Событие завершилось"
+    },
+    {
+      "id": "gacha_rate_info_intro1_1a",
+      "content": "Вероятности одинарного извлечения."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1b",
+      "content": "Содержание одинарного извлечения {0}."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1c",
+      "content": "Когда Вы используете {0}, Вы можете выбрать один тип ресурса из предоставленных."
+    },
+    {
+      "id": "package_info_detail1",
+      "content": "Когда Вы выберете валюту, содержание приобретения её иного количества составляет {0}."
+    },
+    {
+      "id": "package_info_detail2",
+      "content": "※ “{0}” в нижней части содержания является примером выбора ресурсов из верхней части содержания."
+    },
+    {
+      "id": "acquired_quantity",
+      "content": "Количество"
+    },
+    {
+      "id": "name_of_currencies",
+      "content": "Ресурсы"
+    },
+    {
+      "id": "package_info_title",
+      "content": "Детали приобритения ресурсов"
+    },
+    {
+      "id": "used_once",
+      "content": "Использовано 1 раз"
+    },
+    {
+      "id": "probability_details",
+      "content": "Вероятности"
+    },
+    {
+      "id": "be_in_use",
+      "content": "Используется"
+    },
+    {
+      "id": "season_information",
+      "content": "Информация о сезонах"
+    },
+    {
+      "id": "announcer_selection_description",
+      "content": "※ При одновременном выборе от 2 до 5 комментаторов будет проигрываться случайная фраза."
+    },
+    {
+      "id": "panic_type",
+      "content": "Виды паники"
+    },
+    {
+      "id": "mental_strength",
+      "content": "Рассудок"
+    },
+    {
+      "id": "mental_increase_condition",
+      "content": "Восстановление рассудка"
+    },
+    {
+      "id": "mental_decrease_condition",
+      "content": "Потеря рассудка"
+    },
+    {
+      "id": "mental_low_morale_effect",
+      "content": "Эффекты низкой морали"
+    },
+    {
+      "id": "mental_panic_effect",
+      "content": "Эффекты паники"
+    },
+    {
+      "id": "open_scheduled_date_month_day",
+      "content": "Открывается через {0} м. и {1} д. (Месяц/День)"
+    },
+    {
+      "id": "mainui_acquire_user_ticker_deco",
+      "content": "(Пробный текст)"
+    },
+    {
+      "id": "last_battlepass_season_level",
+      "content": "Уровень пропуска"
+    },
+    {
+      "id": "season_end_notification",
+      "content": "Уведомление об окончании сезона"
+    },
+    {
+      "id": "season_start_notification",
+      "content": "Уведомление о начале сезона"
+    },
+    {
+      "id": "new_story_appeared_by_new_season",
+      "content": "Доступно продолжение сюжета"
+    },
+    {
+      "id": "collection_rate",
+      "content": "Коллекция"
+    },
+    {
+      "id": "season_n_personality",
+      "content": "Личности {0} сезона"
+    },
+    {
+      "id": "season_n_ego",
+      "content": "ЭГО {0} сезона"
+    },
+    {
+      "id": "season_n",
+      "content": "Сезон {0}"
+    },
+    {
+      "id": "new_season_former_piece_to_current_piece_desc",
+      "content": "Половина ваших осколков ЭГО перенесётся в новый сезон"
+    },
+    {
+      "id": "new_season_former_piece_to_thread_desc",
+      "content": "Остальные осколки ЭГО будут преобразованы в Сплетение"
+    },
+    {
+      "id": "new_season_former_box_to_current_box_desc",
+      "content": "Половина ящиков (всех видов) с осколками ЭГО перенесутся в новый сезон."
+    },
+    {
+      "id": "new_season_former_box_to_thread_box",
+      "content": "Остальные ящики с осколками ЭГО будут преобразованы в ящики со Сплетением."
+    },
+    {
+      "id": "new_pass_appeared",
+      "content": "Доступен новый пропуск"
+    },
+    {
+      "id": "get_not_acquired_rewards",
+      "content": "Незабранные награды получены"
+    },
+    {
+      "id": "items_changed_by_season_changed_desc",
+      "content": "Все ресурсы прошлого сезона перенесутся в текущий сезон."
+    },
+    {
+      "id": "exchange",
+      "content": "Обменять"
+    },
+    {
+      "id": "notice_of_pity_system",
+      "content": "Во время действия баннера вы можете заработать ‘Лисан’ [Идеал] в зависимости от количества совершённых извлечений.\nПосле получения определённого количества Лисан [Идеал], его можно будет обменять на 3★ личность или ЭГО в соответствующем баннере.\n\n※ Лисан [Идеал] считается отдельным ресурсом и уникален для каждого баннера.\n※ После завершения баннера Лисан [Идеал] преобразуется в Сплетение."
+    },
+    {
+      "id": "twine_store",
+      "content": "<size=70>Обмен осколков<size=70>"
+    },
+    {
+      "id": "pass",
+      "content": "Пропуск"
+    },
+    {
+      "id": "event",
+      "content": "Событие"
+    },
+    {
+      "id": "notice_of_pity_point_expiration",
+      "content": "{1} Лисан [Идеал] из {0} преобразовано в Сплетение."
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not",
+      "content": "Потратить 200 Лисан [Идеал] и совершить обмен?"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have",
+      "content": "Вы уже владеете выбранной личностью. Обменять 200 Лисан [Идеал] на 50 осколков личности данного Грешника?"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone",
+      "content": "Откроется после обновления {0}/{1} ({2})"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_date",
+      "content": "{0}/{1} ({2})"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_desc",
+      "content": "Откроется после обновления"
+    },
+    {
+      "id": "enkephalin_desc",
+      "content": "Используется для входа в этапы."
+    },
+    {
+      "id": "not_exchangeable",
+      "content": "Нельзя обменять"
+    },
+    {
+      "id": "ego_already_have",
+      "content": "ЭГО уже имеется"
+    },
+    {
+      "id": "shortage_number_of_extractions",
+      "content": "Недостаточно Лисан [Идеал]"
+    },
+    {
+      "id": "lack_of_formation_participation",
+      "content": "В этом бою могут принять участие <color=#990000>до {0}</color> грешников."
+    },
+    {
+      "id": "tutorial_formation_participation_add_title",
+      "content": "Больше участников"
+    },
+    {
+      "id": "tutorial_formation_participation_add_desc",
+      "content": "В некоторых этапах участие в битве могут принять больше грешников, чем обычно. В таком случае замигает кнопка «Изменить отряд»."
+    },
+    {
+      "id": "could_not_select_friend_support_in_this_dungeon",
+      "content": "Вы не можете использовать личность поддержки {0} в этой экспедиции."
+    },
+    {
+      "id": "formation_force_participation_on",
+      "content": "Сюжет"
+    },
+    {
+      "id": "formation_force_participation_off",
+      "content": "Сюжет"
+    },
+    {
+      "id": "formation_must_participate_specific_character",
+      "content": "Необходим(а) {0}."
+    },
+    {
+      "id": "cannot_exit_node_after_enter_by_force_alice_character",
+      "content": "После входа перемещение в другие секции экспедиции станет невозможным; у {0} полностью восстановится ОЗ, а рассудок вернётся к 0.\nВы уверены, что хотите продолжить?"
+    },
+    {
+      "id": "story_dungeon_4_first_open_popup_desc",
+      "content": "В этой экспедиции вы не можете выбрать личность поддержки Ли Сана. Ли Сан всегда должен принимать участие в боях."
+    },
+    {
+      "id": "attack_level",
+      "content": "Уровень атаки"
+    },
+    {
+      "id": "defense_level",
+      "content": "Уровень защиты"
+    },
+    {
+      "id": "personality_level",
+      "content": "Уровень личности"
+    },
+    {
+      "id": "enemy_level",
+      "content": "Уровень противника"
+    },
+    {
+      "id": "cannot_enter",
+      "content": "Невозможно войти"
+    },
+    {
+      "id": "lack_of_item_amount",
+      "content": "Не хватает {0}"
+    },
+    {
+      "id": "required_count",
+      "content": "Необходимо"
+    },
+    {
+      "id": "on_event_reward_grace_period",
+      "content": "Период получения наград"
+    },
+    {
+      "id": "user_level_maximum_notice",
+      "content": "Достигнут макс. уровень."
+    },
+    {
+      "id": "user_level_limit_increase_notice",
+      "content": "※ Макс. уровень директора может быть увеличен в будущих обновлениях."
+    },
+    {
+      "id": "level_up",
+      "content": "Усилить"
+    },
+    {
+      "id": "summary",
+      "content": "Обзор"
+    },
+    {
+      "id": "abnormality_part_skill",
+      "content": "Умения части тела"
+    },
+    {
+      "id": "awaken",
+      "content": "Пробуждение"
+    },
+    {
+      "id": "erosion",
+      "content": "Коррозия"
+    },
+    {
+      "id": "formation_panel_detail",
+      "content": "Детали"
+    },
+    {
+      "id": "ego_cost",
+      "content": "Ресурсы ЭГО"
+    },
+    {
+      "id": "enable_count_for_battle",
+      "content": "Лимит отряда"
+    },
+    {
+      "id": "select_for_formation",
+      "content": "Выбрать грешника"
+    },
+    {
+      "id": "edit_for_formation",
+      "content": "Изменить"
+    },
+    {
+      "id": "full_participated",
+      "content": "Макс. участников"
+    },
+    {
+      "id": "select_for_delete_participation",
+      "content": "Отменить выбор"
+    },
+    {
+      "id": "clear_reward",
+      "content": "Награды за прохождение"
+    },
+    {
+      "id": "event_information",
+      "content": "Информация о событии"
+    },
+    {
+      "id": "notice_not_on_sales_period",
+      "content": "※ Нельзя приобрести в текущий период."
+    },
+    {
+      "id": "pc_shortcut",
+      "content": "Горячие клавиши на ПК"
+    },
+    {
+      "id": "shortcut_manual_popup_title",
+      "content": "Руководство по горячим клавишам"
+    },
+    {
+      "id": "new_dungeon_update_alarm",
+      "content": "ОБНАРУЖЕНО КОЛЕБАНИЕ ЛАЗЕЙКИ"
+    },
+    {
+      "id": "buy_announcer",
+      "content": "Купить комментатора"
+    },
+    {
+      "id": "label_require_paid_lunacy",
+      "content": "※ Недостаточно платного Безумства."
+    },
+    {
+      "id": "notice_require_paid_lunacy",
+      "content": "Не хватает платного Безумства"
+    },
+    {
+      "id": "mainui_original",
+      "content": "Перед"
+    },
+    {
+      "id": "open_after_clear_node",
+      "content": "Откроется после прохождения {0}-{1}"
+    },
+    {
+      "id": "effect_list_to_applied_level",
+      "content": "Активные эффекты уровня"
+    },
+    {
+      "id": "choice_event_effect",
+      "content": "Выбранные эффекты"
+    },
+    {
+      "id": "ego_gift_effect_format",
+      "content": "Эффекты 「{0}」 даров ЭГО"
+    },
+    {
+      "id": "mainui_previous",
+      "content": "Назад"
+    },
+    {
+      "id": "formation_force_abstain",
+      "content": "Невозможно выбрать"
+    },
+    {
+      "id": "formation_view_detail",
+      "content": "Детали"
+    },
+    {
+      "id": "only_hyphen",
+      "content": "-"
+    },
+    {
+      "id": "first_time",
+      "content": "В первый раз"
+    },
+    {
+      "id": "formation_Announcer_fixed",
+      "content": "В отряде"
+    },
+    {
+      "id": "gacha_rate_info_wa1",
+      "content": "★ Ящик сплетения"
+    },
+    {
+      "id": "gacha_rate_info_wa2",
+      "content": "Повторное получение уже имеющегося комментатора преобразует его в ящики сплетения.\n\nЯщики сплетения переносятся в следующий сезон без изменений."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Эта история происходит после {0} песни основного сюжета. Всё равно желаете увидеть эту сцену?"
+    },
+    {
+      "id": "notice_of_pity_point_already_have_announcer",
+      "content": "Вы уже владеете выбранным комменатором. Обменять 200 Лисан [Идеал] на 50 ящиков сплетения?"
+    },
+    {
+      "id": "gacha_rate_info_announcer1",
+      "content": "Ниже находится список личностей, ЭГО и комментаторов, которые Вы можете получить в соответствии с упомянутыми шансами на извлечение.\n\nСписок может изменяться в зависимости от сезона; о предстоящих изменениях содержимого будет объявляться заранее."
+    },
+    {
+      "id": "mainui_battleresult_ordeal_victory",
+      "content": "Подавление выполнено"
+    },
+    {
+      "id": "mainui_battleresult_ordeal_defeat",
+      "content": "Подавление провалено"
+    },
+    {
+      "id": "remain_exchange_count",
+      "content": "Осталось"
+    },
+    {
+      "id": "remains",
+      "content": "Осталось"
+    },
+    {
+      "id": "everyday",
+      "content": "Ежедневные"
+    },
+    {
+      "id": "for_n_days",
+      "content": "{0} д."
+    },
+    {
+      "id": "all_personalities",
+      "content": "Все личности"
+    },
+    {
+      "id": "leap_up_ticket_title",
+      "content": "Выберите личность для подъёма"
+    },
+    {
+      "id": "leap_up_able_uptie_tier_and_level",
+      "content": "Может повысить уровень и связь личности"
+    },
+    {
+      "id": "leap_up_able_uptie_tier",
+      "content": "Может повысить связь личности"
+    },
+    {
+      "id": "leap_up_able_level",
+      "content": "Может повысить уровень личности"
+    },
+    {
+      "id": "leap_up_confim_title",
+      "content": "Выбрать личность"
+    },
+    {
+      "id": "leap_up_confim_main",
+      "content": "Уровень и связь личности [{0}] изменятся."
+    },
+    {
+      "id": "leap_up_confim_caution_uptie",
+      "content": "The selected Identity's Uptie Tier cannot be raised further."
+    },
+    {
+      "id": "leap_up_confim_caution_level",
+      "content": "Выбранная личность максимального уровня."
+    },
+    {
+      "id": "leap_up_confim_last_question",
+      "content": "Использовать <color=#F8C200>{0}</color>?"
+    },
+    {
+      "id": "expiration_date",
+      "content": "Доступный период"
+    },
+    {
+      "id": "unlink_account_title",
+      "content": "Выберите учётную запись чтобы её отвязать"
+    },
+    {
+      "id": "unlink_account_current_account",
+      "content": "Текущая учётная запись"
+    },
+    {
+      "id": "unlink_account_linked_account",
+      "content": "Привязанная учётная запись"
+    },
+    {
+      "id": "unlink_account_desc",
+      "content": "После отвязки, следующая отвязка будет доступна через {0} дней."
+    },
+    {
+      "id": "unlink_account_desc_unable_by_day",
+      "content": "Может бы отвязана через {0} дней."
+    },
+    {
+      "id": "unlink_account_complete_title",
+      "content": "Учётная запись отвязана"
+    },
+    {
+      "id": "unlink_account_complete_desc",
+      "content": "Отвязка учётной записи завершена.\nnВозврат на начальный экран."
+    },
+    {
+      "id": "mainui_stageinfo_effectiveAttribute",
+      "content": "Рек. типы урона"
+    },
+    {
+      "id": "personality_level_limit_release_title",
+      "content": "Повышение макс. возможного уровня личностей"
+    },
+    {
+      "id": "personality_level_limit_release_desc",
+      "content": "Порог максимального уровня для ваших личностей был увеличен."
+    },
+    {
+      "id": "mainui_sinners_startSuppress",
+      "content": "Подавить"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_victory",
+      "content": "Подавление аномалии выполнено"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_defeat",
+      "content": "Подавление аномалии провалено"
+    },
+    {
+      "id": "ui_text_unknown",
+      "content": "Неизвестно"
+    },
+    {
+      "id": "buff_effect_for_level_format",
+      "content": "「{0}」"
+    },
+    {
+      "id": "unit_keyword",
+      "content": "Trait Keywords"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "Reset Deployment Order?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(Owned : {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Paid : {0}, Free : {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Paid : {0}, Free : {1})"
+    },
+    {
+      "id": "mainui_ask_use_personality_level_ticket_disadvantage",
+      "content": "Using this ticket at your current story progress will raise your selected Identity's level to {1} instead of {0}, and any unused EXP in that process will be lost.\n\nWill you use this ticket anyway?"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "EXP Luxcavation #7 (Slash)"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "EXP Luxcavation #7 (Slash) opens on MON, TUE, and SUN."
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "EXP Luxcavation #7 (Pierce)"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "EXP Luxcavation #7 (Pierce) opens on WED, THU, and SUN."
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "EXP Luxcavation #7 (Blunt)"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "EXP Luxcavation #7 (Blunt) opens on FRI, SAT, and SUN."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "Cannot\nDeploy\nBase\nIdentity"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "Cannot proceed with this {0} Identity. Support Identities added."
+    },
+    {
+      "id": "caution",
+      "content": "WARNING"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "This Announcer contains spoilers for Chapter <color=#990000><{0}-{1}></color>.\n\nView anyway?\""
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "One of the rewards you are about to claim\nincludes an Announcer who may contain spoilers\nfor a Chapter you haven't cleared yet.\n\nClaim them anyway?"
+    },
+    {
+      "id": "select_all",
+      "content": "Select All"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Deselect All"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
+    },
+    {
+      "id": "vending_machine_item_available_date_label",
+      "content": "Dispenser Unlock:\n{0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date",
+      "content": "Seasonal Identities can be Dispensed from the Dispenser starting from {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v2",
+      "content": "Seasonal E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v3",
+      "content": "Seasonal ID & E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "Don't see this message again"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "Notification Settings"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "Paid Lunacy"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "This story cannot be skipped."
+    },
+    {
+      "id": "remote_download_quit_game",
+      "content": "A new download has been added.\nThe game will be closed; please restart the game to download the update."
+    }
+  ]
+}
