@@ -14,18 +14,11 @@
 
 # Инструкция по установке
 ### 1. Скачайте архив с файлами игры: [Перевод](../../releases/latest)
-### 2. Разархивируйте архив в папку с игрой
-   - Для этого нажмите ПКМ по игре в стим > Управление > Посмотреть локальные файлы.
+### 2. Разархивируйте архив в папку LimbusCompany_Data, которая находится в папке с игрой
+   - Для этого нажмите ПКМ по игре в Cтим > Управление > Посмотреть локальные файлы > LimbusCompany_Data.
    - Перенесите содержимое архива в открывшуюся папку.
 ### 3. Запустите игру
 # Наши ссылки
 - [Discord](https://discord.gg/dqpnxc9muc) 
 - [Руководство в Стиме](https://steamcommunity.com/sharedfiles/filedetails/?id=3312939648) 
-# Информация о локализации
-- **Мод абсолютно бесплатен.** 
-- **Оригинальный мод, на основе которого был выполнен текущий, одобрен разработчиками Limbus Company.** Вы можете в этом убедиться по этой ссылке: [`Специальное объявление`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)
-- **Лицензии:** [`LICENSE`](./LICENSE), [`CN_LICENSE`](./.github/CN_LICENSE).
-# Создатели оригинального мода
-<a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
 </a>
