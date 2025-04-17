@@ -1908,6 +1908,13 @@
       "desc": "- Max Stack: 1\n- Expires at Turn End\n- Every Identity treats this unit as having their Vengeance Mark",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "BirdCage",
+      "name": "Searing Birdcage",
+      "desc": "Max Stack: 5\nIf this unit has Burn, Wrath Resistance +0.1 for every Stack (cannot exceed 2.0 Wrath Resistance with this effect)\nTurn End: gain Bind equal to Stack next turn\nTurn End: halve Stack (rounded down)\n※ Cannot gain additional Stacks of this effect while it is already active",
+      "summary": "Wrath Resistance +0.1 for every Stack",
+      "undefined": "-"
     }
   ]
 }
