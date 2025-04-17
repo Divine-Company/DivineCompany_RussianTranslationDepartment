@@ -2,67 +2,67 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Hohenheim's Laboratory, Past",
-      "content": "We arrived at the entrance to Hohenheim's laboratory."
+      "place": "Лаборатория Хоэнхайма, прошлое",
+      "content": "Мы подошли ко входу в лабораторию Хоэнхайма."
     },
     {
       "id": 1,
       "model": "뒤틀린호엔하임",
-      "content": "This may be my final order to you."
+      "content": "Возможно, это будет моё последнее к вам поручение."
     },
     {
       "id": 2,
       "model": "뒤틀린호엔하임",
-      "content": "Either suppress me and return safe and sound to where you came from, or... fail the suppression, place me in a containment unit, and perhaps we can observe what happens next."
+      "content": "Либо подавите меня — вы вернётесь из Подземелья в целости и сохранности... либо потерпите неудачу — меня поместят в камеру содержания, и мы будем наблюдать за дальнейшим развитием событий."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<…….>"
+      "content": "<...>"
     },
     {
       "id": 4,
-      "content": "That's when Heathcliff suddenly strode forward."
+      "content": "Внезапно Хитклиф сделал шаг вперёд."
     },
     {
       "id": 5,
       "model": "후디히스",
-      "content": "Hohenheim, you…"
+      "content": "Хоэнхайм, а ты..."
     },
     {
       "id": 6,
       "model": "후디히스",
-      "content": "Do you still believe in that potentiality?"
+      "content": "Ты всё ещё веришь в потенциал?"
     },
     {
       "id": 7,
       "model": "뒤틀린호엔하임",
-      "content": "……."
+      "content": "..."
     },
     {
       "id": 8,
       "model": "후디히스",
-      "content": "I do."
+      "content": "Я вот верю."
     },
     {
       "id": 9,
       "model": "후디히스",
-      "content": "It’s what keeps me going."
+      "content": "Он даёт мне сил двигаться дальше."
     },
     {
       "id": 10,
       "model": "후디히스",
-      "content": "You only hire researchers from the Backstreets, don’t you? I heard from ‘em earlier."
+      "content": "Я слышал от твоих ребят, что ты берёшь в исследователи только выходцев из Подворотен, да?"
     },
     {
       "id": 11,
       "model": "후디히스",
-      "content": "They told me that you’re a right pompous bloke, but… thanks to you, they can continue to research and believe that there might be things in the world that's worth working toward."
+      "content": "Они сказали, мол, высокомерия тебе не занимать... но благодаря тебе они могут продолжать свои исследования и надеяться, что в мире есть к чему стремиться."
     },
     {
       "id": 12,
       "model": "뒤틀린호엔하임",
-      "content": "……."
+      "content": "..."
     }
   ]
 }

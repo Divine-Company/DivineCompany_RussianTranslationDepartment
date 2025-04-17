@@ -2,63 +2,63 @@
     "dataList": [
         {
             "id": "이상",
-            "name": "Ли Сан",
-            "nickName": "Грешник #1"
+            "name": "Yi Sang",
+            "nickName": "Sinner #1"
         },
         {
             "id": "파우스트",
-            "name": "Фауст",
-            "nickName": "Грешник #2"
+            "name": "Faust",
+            "nickName": "Sinner #2"
         },
         {
             "id": "돈키호테",
-            "name": "Дон Кихот",
-            "nickName": "Грешник #3"
+            "name": "Don Quixote",
+            "nickName": "Sinner #3"
         },
         {
             "id": "료슈",
-            "name": "Рёсю",
-            "nickName": "Грешник #4"
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
         },
         {
             "id": "뫼르소",
-            "name": "Мерсо",
-            "nickName": "Грешник #5"
+            "name": "Meursault",
+            "nickName": "Sinner #5"
         },
         {
             "id": "홍루",
-            "name": "Хун Лу",
-            "nickName": "Грешник #6"
+            "name": "Hong Lu",
+            "nickName": "Sinner #6"
         },
         {
             "id": "히스클리프",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "이스마엘",
-            "name": "Измаил",
-            "nickName": "Грешник #8"
+            "name": "Ishmael",
+            "nickName": "Sinner #8"
         },
         {
             "id": "로쟈",
-            "name": "Родион",
-            "nickName": "Грешник #9"
+            "name": "Rodion",
+            "nickName": "Sinner #9"
         },
         {
             "id": "싱클레어",
-            "name": "Синклер",
-            "nickName": "Грешник #11"
+            "name": "Sinclair",
+            "nickName": "Sinner #11"
         },
         {
             "id": "오티스",
-            "name": "Утис",
-            "nickName": "Грешник #12"
+            "name": "Outis",
+            "nickName": "Sinner #12"
         },
         {
             "id": "그레고르",
-            "name": "Грегор",
-            "nickName": "Грешник #13"
+            "name": "Gregor",
+            "nickName": "Sinner #13"
         },
         {
             "id": "아야",
@@ -87,18 +87,18 @@
         },
         {
             "id": "베르길리우스",
-            "name": "Вергилий",
-            "nickName": "Проводник"
+            "name": "Vergilius",
+            "nickName": "Guide"
         },
         {
             "id": "베르길리우스2",
-            "name": "Вергилий",
-            "nickName": "Проводник"
+            "name": "Vergilius",
+            "nickName": "Guide"
         },
         {
             "id": "베르길리우스3",
-            "name": "Вергилий",
-            "nickName": "Проводник"
+            "name": "Vergilius",
+            "nickName": "Guide"
         },
         {
             "id": "눈이붉은자",
@@ -107,23 +107,23 @@
         },
         {
             "id": "카론",
-            "name": "Харон",
-            "nickName": "Водитель"
+            "name": "Charon",
+            "nickName": "Bus Driver"
         },
         {
             "id": "단테",
-            "name": "Данте",
-            "nickName": "Директор"
+            "name": "Dante",
+            "nickName": "Manager"
         },
         {
             "id": "단테1",
-            "name": "Данте",
-            "nickName": "Директор"
+            "name": "Dante",
+            "nickName": "Manager"
         },
         {
             "id": "단테2",
-            "name": "Данте",
-            "nickName": "Директор"
+            "name": "Dante",
+            "nickName": "Manager"
         },
         {
             "id": "4구 불량배 1",
@@ -432,23 +432,23 @@
         },
         {
             "id": "그레고르요리사",
-            "name": "Грегор",
-            "nickName": "Грешник #13"
+            "name": "Gregor",
+            "nickName": "Sinner #13"
         },
         {
             "id": "뫼르소요리사",
-            "name": "Мерсо",
-            "nickName": "Грешник #5"
+            "name": "Meursault",
+            "nickName": "Sinner #5"
         },
         {
             "id": "오티스요리사",
-            "name": "Утис",
-            "nickName": "Грешник #12"
+            "name": "Outis",
+            "nickName": "Sinner #12"
         },
         {
             "id": "료슈요리사",
-            "name": "Рёсю",
-            "nickName": "Грешник #4"
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
         },
         {
             "id": "삼조",
@@ -467,8 +467,8 @@
         },
         {
             "id": "히스클리프요리사",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "뒤틀린닭1",
@@ -912,13 +912,13 @@
         },
         {
             "id": "다친이스마엘",
-            "name": "Измаил",
-            "nickName": "Грешник #8"
+            "name": "Ishmael",
+            "nickName": "Sinner #8"
         },
         {
             "id": "다친파우스트",
-            "name": "Фауст",
-            "nickName": "Грешник #2"
+            "name": "Faust",
+            "nickName": "Sinner #2"
         },
         {
             "id": "에이해브",
@@ -992,7 +992,7 @@
         },
         {
             "id": "이스마엘과거",
-            "name": "Измаил",
+            "name": "Ishmael",
             "nickName": "The Pequod"
         },
         {
@@ -1002,7 +1002,7 @@
         },
         {
             "id": "이스마엘과거2",
-            "name": "Измаил",
+            "name": "Ishmael",
             "nickName": ""
         },
         {
@@ -1122,17 +1122,17 @@
         },
         {
             "id": "히스클리프꾸밈",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "히스클리프헝클어짐",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "어린히스클리프",
-            "name": "Хитклиф",
+            "name": "Heathcliff",
             "nickName": "Wuthering Heights"
         },
         {
@@ -1252,7 +1252,7 @@
         },
         {
             "id": "어린히스클리프2",
-            "name": "Хитклиф",
+            "name": "Heathcliff",
             "nickName": "Wuthering Heights"
         },
         {
@@ -1277,12 +1277,12 @@
         },
         {
             "id": "히스클리프과거",
-            "name": "Хитклиф",
+            "name": "Heathcliff",
             "nickName": ""
         },
         {
             "id": "뒤틀린히스클리프",
-            "name": "Хитклиф",
+            "name": "Heathcliff",
             "nickName": ""
         },
         {
@@ -1292,7 +1292,7 @@
         },
         {
             "id": "마왕히스클리프2",
-            "name": "Erlking Хитклиф",
+            "name": "Erlking Heathcliff",
             "nickName": "A Distant World"
         },
         {
@@ -1312,12 +1312,12 @@
         },
         {
             "id": "마왕히스클리프말",
-            "name": "Erlking Хитклиф",
+            "name": "Erlking Heathcliff",
             "nickName": "A Distant World"
         },
         {
             "id": "마왕히스클리프3",
-            "name": "Erlking Хитклиф",
+            "name": "Erlking Heathcliff",
             "nickName": "A Distant World"
         },
         {
@@ -1327,13 +1327,13 @@
         },
         {
             "id": "히스클리프검정",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "히스클리프다침",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "N사연구원검은색",
@@ -1347,23 +1347,23 @@
         },
         {
             "id": "히스클리프2",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "탐정홍루",
-            "name": "Хун Лу",
-            "nickName": "Грешник #6"
+            "name": "Hong Lu",
+            "nickName": "Sinner #6"
         },
         {
             "id": "탐정로쟈",
-            "name": "Родион",
-            "nickName": "Грешник #9"
+            "name": "Rodion",
+            "nickName": "Sinner #9"
         },
         {
             "id": "탐정료슈",
-            "name": "Рёсю",
-            "nickName": "Грешник #4"
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
         },
         {
             "id": "T사대표",
@@ -1497,48 +1497,48 @@
         },
         {
             "id": "실루엣돈키호테",
-            "name": "Дон Кихот",
+            "name": "Don Quixote",
             "nickName": ""
         },
         {
             "id": "돈키호테다침",
-            "name": "Дон Кихот",
-            "nickName": "Грешник #3"
+            "name": "Don Quixote",
+            "nickName": "Sinner #3"
         },
         {
             "id": "말쿠트",
-            "name": "Малхут",
+            "name": "Malkuth",
             "nickName": ""
         },
         {
             "id": "네짜흐",
-            "name": "Нецах",
+            "name": "Netzach",
             "nickName": ""
         },
         {
             "id": "호드",
-            "name": "Ход",
+            "name": "Hod",
             "nickName": ""
         },
         {
             "id": "체사라",
-            "name": "Чезара",
-            "nickName": "Архивный Отдел Корпорации P"
+            "name": "Cesara",
+            "nickName": "P Corp. Archival Department"
         },
         {
             "id": "알레시오",
             "name": "Alessio",
-            "nickName": "Архивный Отдел Корпорации P"
+            "nickName": "P Corp. Archival Department"
         },
         {
             "id": "로메로",
-            "name": "Ромеро",
-            "nickName": "Офис «Охотники за Клыками»"
+            "name": "Romero",
+            "nickName": "Fanghunt Office"
         },
         {
             "id": "혈귀사냥꾼",
             "name": "Bloodfiend Hunter",
-            "nickName": "Офис «Охотники за Клыками»"
+            "nickName": "Fanghunt Office"
         },
         {
             "id": "까미유카메라",
@@ -1578,7 +1578,7 @@
         {
             "id": "피주머니",
             "name": "Bloodbag",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "불주먹",
@@ -1587,8 +1587,8 @@
         },
         {
             "id": "이발사",
-            "name": "Цирюльник",
-            "nickName": "Ламанчаленд"
+            "name": "The Barber",
+            "nickName": "La Manchaland"
         },
         {
             "id": "라만차내레이션",
@@ -1597,52 +1597,52 @@
         },
         {
             "id": "이발사다침",
-            "name": "Цирюльник",
-            "nickName": "Ламанчаленд"
+            "name": "The Barber",
+            "nickName": "La Manchaland"
         },
         {
             "id": "이발사부하",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "기사돈키",
-            "name": "Дон Кихот",
+            "name": "Don Quixote",
             "nickName": "Brave Adventurer"
         },
         {
             "id": "기사싱클",
-            "name": "Синклер",
-            "nickName": "Рыцарь Белой Луны"
+            "name": "Sinclair",
+            "nickName": "The Knight of the White Moon"
         },
         {
             "id": "산손",
-            "name": "Самсон",
+            "name": "Sansón",
             "nickName": "???"
         },
         {
             "id": "기사산손",
-            "name": "Самсон",
-            "nickName": "Рыцарь Белой Луны"
+            "name": "Sansón",
+            "nickName": "The Knight of the White Moon"
         },
         {
             "id": "주민오티스",
-            "name": "Утис",
+            "name": "Outis",
             "nickName": "Traveling Villager"
         },
         {
             "id": "주민로쟈",
-            "name": "Родион",
+            "name": "Rodion",
             "nickName": "Shepherd Ranch Villager"
         },
         {
             "id": "말레고르",
-            "name": "Грегор",
+            "name": "Gregor",
             "nickName": "Rocinante"
         },
         {
             "id": "곰스클리프",
-            "name": "Хитклиф",
+            "name": "Heathcliff",
             "nickName": "Big Scary Bear"
         },
         {
@@ -1652,58 +1652,58 @@
         },
         {
             "id": "돌시네아",
-            "name": "Дульсинея",
-            "nickName": "Ламанчаленд"
+            "name": "Dulcinea",
+            "nickName": "La Manchaland"
         },
         {
             "id": "돌시부하1",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "돌시부하2",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "신부",
-            "name": "Священник",
-            "nickName": "Ламанчаленд"
+            "name": "The Priest",
+            "nickName": "La Manchaland"
         },
         {
             "id": "백발가면혈귀실루엣",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "백발가면혈귀",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "혈귀료슈",
-            "name": "Рёсю",
-            "nickName": "Грешник #4"
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
         },
         {
             "id": "혈귀홍루",
-            "name": "Хун Лу",
-            "nickName": "Грешник #6"
+            "name": "Hong Lu",
+            "nickName": "Sinner #6"
         },
         {
             "id": "기사싱클2",
-            "name": "Синклер",
-            "nickName": "Рыцарь Белой Луны"
+            "name": "Sinclair",
+            "nickName": "The Knight of the White Moon"
         },
         {
             "id": "로메로다침",
-            "name": "Ромеро",
-            "nickName": "Офис «Охотники за Клыками»"
+            "name": "Romero",
+            "nickName": "Fanghunt Office"
         },
         {
             "id": "신부다침",
-            "name": "Священник",
-            "nickName": "Ламанчаленд"
+            "name": "The Priest",
+            "nickName": "La Manchaland"
         },
         {
             "id": "웨이다침",
@@ -1713,77 +1713,77 @@
         {
             "id": "신부부하",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "돌시네아다침",
-            "name": "Дульсинея",
-            "nickName": "Ламанчаленд"
+            "name": "Dulcinea",
+            "nickName": "La Manchaland"
         },
         {
             "id": "맨발돈키호테",
-            "name": "Дон Кихот?",
+            "name": "Don Quixote?",
             "nickName": "???"
         },
         {
             "id": "돈키호테무표정",
-            "name": "Дон Кихот",
-            "nickName": "Грешник #3"
+            "name": "Don Quixote",
+            "nickName": "Sinner #3"
         },
         {
             "id": "키호테",
-            "name": "Дон Кихот",
-            "nickName": "Ламанчаленд"
+            "name": "Don Quixote",
+            "nickName": "La Manchaland"
         },
         {
             "id": "가면키호테",
-            "name": "Дон Кихот",
-            "nickName": "Ламанчаленд"
+            "name": "Don Quixote",
+            "nickName": "La Manchaland"
         },
         {
             "id": "산초",
-            "name": "Санчо",
-            "nickName": "Ламанчаленд"
+            "name": "Sancho",
+            "nickName": "La Manchaland"
         },
         {
             "id": "옛돈키",
-            "name": "Санчо",
+            "name": "Sancho",
             "nickName": "???"
         },
         {
             "id": "옛산초",
-            "name": "Санчо",
+            "name": "Sancho",
             "nickName": "???"
         },
         {
             "id": "산손베르길리우스",
-            "name": "Самсон",
+            "name": "Sansón",
             "nickName": "???"
         },
         {
             "id": "바리",
-            "name": "Бари",
-            "nickName": "Рыцарь Белой Луны"
+            "name": "Bari",
+            "nickName": "The Knight of the White Moon"
         },
         {
             "id": "이발사하편",
-            "name": "Цирюльник",
-            "nickName": "Ламанчаленд"
+            "name": "The Barber",
+            "nickName": "La Manchaland"
         },
         {
             "id": "신부하편",
-            "name": "Священник",
-            "nickName": "Ламанчаленд"
+            "name": "The Priest",
+            "nickName": "La Manchaland"
         },
         {
             "id": "돌시네아하편",
-            "name": "Дульсинея",
-            "nickName": "Ламанчаленд"
+            "name": "Dulcinea",
+            "nickName": "La Manchaland"
         },
         {
             "id": "돌시부하3",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "마을주민1",
@@ -1793,81 +1793,81 @@
         {
             "id": "장미침식혈귀",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "장미침식까미유",
             "name": "",
-            "nickName": "Ламанчаленд"
+            "nickName": "La Manchaland"
         },
         {
             "id": "산초피묻음",
-            "name": "Санчо",
-            "nickName": "Ламанчаленд"
+            "name": "Sancho",
+            "nickName": "La Manchaland"
         },
         {
             "id": "돈키호테피묻음",
-            "name": "Дон Кихот",
-            "nickName": "Грешник #3"
+            "name": "Don Quixote",
+            "nickName": "Sinner #3"
         },
         {
             "id": "로시난테",
             "name": "",
-            "nickName": "Дон Кихот"
+            "nickName": "Don Quixote"
         },
         {
             "id": "돈키호테산초",
-            "name": "Санчо",
-            "nickName": "Ламанчаленд"
+            "name": "Sancho",
+            "nickName": "La Manchaland"
         },
         {
             "id": "이발사다침2",
-            "name": "Цирюльник",
-            "nickName": "Ламанчаленд"
+            "name": "The Barber",
+            "nickName": "La Manchaland"
         },
         {
             "id": "신부다침2",
-            "name": "Священник",
-            "nickName": "Ламанчаленд"
+            "name": "The Priest",
+            "nickName": "La Manchaland"
         },
         {
             "id": "돈키호테산초2",
-            "name": "Санчо",
-            "nickName": "Ламанчаленд"
+            "name": "Sancho",
+            "nickName": "La Manchaland"
         },
         {
             "id": "키호테빛",
-            "name": "Дон Кихот",
-            "nickName": "Ламанчаленд"
+            "name": "Don Quixote",
+            "nickName": "La Manchaland"
         },
         {
             "id": "옛산초2",
-            "name": "Санчо",
+            "name": "Sancho",
             "nickName": "???"
         },
         {
             "id": "단테3",
-            "name": "Данте",
-            "nickName": "Директор"
+            "name": "Dante",
+            "nickName": "Manager"
         },
         {
             "id": "호엔하임",
-            "name": "Хоэнхайм",
+            "name": "Hohenheim",
             "nickName": "LCE Research Team Chief"
         },
         {
             "id": "호엔하임과거",
-            "name": "Хоэнхайм",
+            "name": "Hohenheim",
             "nickName": "???"
         },
         {
             "id": "알리사",
-            "name": "Алисса",
+            "name": "Alyssa",
             "nickName": "???"
         },
         {
             "id": "마튼",
-            "name": "Мартон",
+            "name": "Marton",
             "nickName": "???"
         },
         {
@@ -1897,8 +1897,8 @@
         },
         {
             "id": "후디히스",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "베르길파우",
@@ -1917,8 +1917,8 @@
         },
         {
             "id": "다친베르길리우스",
-            "name": "Вергилий",
-            "nickName": "Проводник"
+            "name": "Vergilius",
+            "nickName": "Guide"
         },
         {
             "id": "뉴파일럿",
@@ -1987,7 +1987,7 @@
         },
         {
             "id": "로쟈싱클",
-            "name": "Родион и Синклер",
+            "name": "Rodion & Sinclair",
             "nickName": "LCB"
         },
         {
@@ -1997,58 +1997,58 @@
         },
         {
             "id": "이상다침",
-            "name": "Ли Сан",
-            "nickName": "Грешник #1"
+            "name": "Yi Sang",
+            "nickName": "Sinner #1"
         },
         {
             "id": "파우스트다침",
-            "name": "Фауст",
-            "nickName": "Грешник #2"
+            "name": "Faust",
+            "nickName": "Sinner #2"
         },
         {
             "id": "료슈다침",
-            "name": "Рёсю",
-            "nickName": "Грешник #4"
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
         },
         {
             "id": "뫼르소다침",
-            "name": "Мерсо",
-            "nickName": "Грешник #5"
+            "name": "Meursault",
+            "nickName": "Sinner #5"
         },
         {
             "id": "홍루다침",
-            "name": "Хун Лу",
-            "nickName": "Грешник #6"
+            "name": "Hong Lu",
+            "nickName": "Sinner #6"
         },
         {
             "id": "히스클리프다침2",
-            "name": "Хитклиф",
-            "nickName": "Грешник #7"
+            "name": "Heathcliff",
+            "nickName": "Sinner #7"
         },
         {
             "id": "이스마엘다침",
-            "name": "Измаил",
-            "nickName": "Грешник #8"
+            "name": "Ishmael",
+            "nickName": "Sinner #8"
         },
         {
             "id": "로쟈다침",
-            "name": "Родион",
-            "nickName": "Грешник #9"
+            "name": "Rodion",
+            "nickName": "Sinner #9"
         },
         {
             "id": "싱클레어다침",
-            "name": "Синклер",
-            "nickName": "Грешник #11"
+            "name": "Sinclair",
+            "nickName": "Sinner #11"
         },
         {
             "id": "오티스다침",
-            "name": "Утис",
-            "nickName": "Грешник #12"
+            "name": "Outis",
+            "nickName": "Sinner #12"
         },
         {
             "id": "그레고르다침",
-            "name": "Грегор",
-            "nickName": "Грешник #13"
+            "name": "Gregor",
+            "nickName": "Sinner #13"
         },
         {
             "id": "베르너",
@@ -2062,18 +2062,18 @@
         },
         {
             "id": "이스마엘F",
-            "name": "Измаил",
-            "nickName": "Грешник #8"
+            "name": "Ishmael",
+            "nickName": "Sinner #8"
         },
         {
             "id": "그레고르F",
-            "name": "Грегор",
-            "nickName": "Грешник #13"
+            "name": "Gregor",
+            "nickName": "Sinner #13"
         },
         {
             "id": "료슈F",
-            "name": "Рёсю",
-            "nickName": "Грешник #4"
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
         }
     ]
 }

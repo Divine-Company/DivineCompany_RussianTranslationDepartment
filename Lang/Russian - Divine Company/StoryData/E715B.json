@@ -2,92 +2,92 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Lobotomy Corp. Branch, Past?",
+      "place": "Филиал Корпорации «Лоботомия», прошлое?",
       "model": "검열된직원",
-      "content": "……."
+      "content": "..."
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<What’s going on with them…?>"
+      "content": "<Что это с ними?..>"
     },
     {
       "id": 3,
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>Good. It appears that I can censor these with my own will, at least to a degree.</color>"
+      "content": "<color=#ffffa1>Отлично. Похоже, я могу их зацензурить, хотя бы до некоторой степени.</color>"
     },
     {
       "id": 4,
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>Your mission here is to classify my Distortion, reach the end of this Dungeon of the Fathoms, and bring me back.</color>"
+      "content": "<color=#ffffa1>Ваше задание — классифицировать моё Искажение, добраться до конца этого Подземелья Чертогов разума и вызволить меня.</color>"
     },
     {
       "id": 5,
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>Your mission, however, does <i>not</i> involve digging into my past.</color>"
+      "content": "<color=#ffffa1><i>Лезть в моё прошлое</i> не входит в ваши задачи.</color>"
     },
     {
       "id": 7,
       "model": "그레고르",
-      "content": "This is…?"
+      "content": "Это же?.."
     },
     {
       "id": 8,
       "model": "이상",
-      "content": "It appears that we… have a passing familiarity with this place…"
+      "content": "По-видимому, данное место... уже отчасти представляется нам знакомым..."
     },
     {
       "id": 9,
       "model": "검열된직원",
-      "content": "You… us…"
+      "content": "Вы... нас..."
     },
     {
       "id": 10,
       "model": "이상",
-      "content": "What is it that they seek to convey?"
+      "content": "Что же нам так жаждут сообщить?"
     },
     {
       "id": 11,
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>I don’t believe any level of proper communication will be feasible, given that you are in a Dungeon of the Fathoms.</color>"
+      "content": "<color=#ffffa1>Сомневаюсь, что какая-либо коммуникация будет возможна, учитывая, что вы в Подземелье Чертогов разума.</color>"
     },
     {
       "id": 12,
       "model": "후디히스",
-      "content": "Well, then do somethin’ about it!"
+      "content": "Ну так сделай чё-нибудь!"
     },
     {
       "id": 13,
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>I regret to tell you that the setting of this Dungeon is out of my hands. Had it been up to me, I would have manifested a place that was much more fascinating than this. Like that Library, fabled to have every book in existence…</color>"
+      "content": "<color=#ffffa1>Боюсь, что окружение, встретившее вас в Подземелье, находится вне моего контроля. Будь на то моя воля, я бы проявил более занимательное место — как та Библиотека, в которой, как гласят легенды, хранится любая книга...</color>"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "You… used to work for the Lobotomy Corporation…?"
+      "content": "Вы... раньше работали в Корпорации «Лоботомия»?"
     },
     {
       "id": 15,
       "model": "뒤틀린호엔하임",
-      "content": "<color=#ffffa1>One of my past careers, yes.</color>"
+      "content": "<color=#ffffa1>Так и есть, то было одним из направлений моей карьеры.</color>"
     },
     {
       "id": 16,
       "model": "검열된직원",
-      "content": "… Us… us…"
+      "content": "...нас... нас..."
     },
     {
       "id": 17,
-      "content": "Diplomacy did not seem to be an option here—the censored people brandished their weapons threateningly and stood in our path."
+      "content": "Ставя крест на переговорах, зацензуренные люди угрожающе схватились за оружие и встали у нас на пути."
     },
     {
       "id": 18,
-      "content": "Looks like... we're going to have to take them down if we want to make any progress here."
+      "content": "Похоже... чтобы пройти вглубь подземелья, нам придётся их сразить."
     },
     {
       "id": 19,
       "model": "단테",
-      "content": "<It can't be helped. Let's get ready for a fight...>"
+      "content": "<Выбора нет. Готовьтесь к бою...>"
     }
   ]
 }

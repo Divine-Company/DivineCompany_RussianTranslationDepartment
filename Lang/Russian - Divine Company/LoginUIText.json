@@ -332,6 +332,18 @@
     {
       "id": "custom_localize_desc",
       "content": "※ Перезапустите игру, чтобы изменения вступили в силу."
+    },
+    {
+      "id": "steam_overlay_cannot_activate_title",
+      "content": "Steam Transaction Error"
+    },
+    {
+      "id": "steam_overlay_cannot_activate_text",
+      "content": "Please turn on the [Enable the Steam Overlay while in-game] option\nfrom Steam's game properties - General,\nthen restart the game."
+    },
+    {
+      "id": "servererror_remain_restore_purchasing",
+      "content": "A transaction is still in progress.\nPlease use the [Restore Purchase] button and try again."
     }
   ]
 }

@@ -2,73 +2,74 @@
   "dataList": [
     {
       "id": 0,
-      "place": "LCE Research Team Lab. Unit",
+      "place": "Лаборатория исследовательской команды ЭКЛ",
       "model": "후디히스",
-      "content": "Next up… you three! Let’s get in there!"
+      "content": "Дальше у нас... вы трое! Вперёд!"
     },
     {
       "id": 1,
       "model": "그레고르",
-      "content": "Indoor voice will do, bud. We can hear you just fine without you shouting at the top of your lungs…"
+      "content": "Можешь убавить громкость, дружище. Мы тебя и так прекрасно слышим, не нужно кричать во всё горло..."
     },
     {
       "id": 2,
       "model": "호엔하임",
-      "content": "Now, let us discuss Peccatulum Pigritiae—Sloth."
+      "content": "Перейдём к «Peccatulum Pigritiae», Пороку Лени."
     },
     {
       "id": 3,
       "model": "호엔하임",
-      "content": "Stones are sturdy, but that's all there is to them. They are directionless and unmoving—completely surrendered to inertia."
+      "content": "Камням свойственна твёрдость и ничего более. Они никуда не держат путь, лишь стоят на месте и отдают всех себя инерции."
     },
     {
+      "id": null,
       "model": "호엔하임",
-      "content": "They are trapped in their current lot in existence until someone else comes along to roll them away. Truly, there is no better symbol for sloth than them."
+      "content": "Существуют там, где остались, пока кто-нибудь не даст толчок и не сдвинет их с мёртвой точки. Лучшей аналогии, чем камень, для лени и не придумаешь."
     },
     {
       "id": 4,
       "model": "파우스트",
-      "content": "……."
+      "content": "..."
     },
     {
       "id": 5,
       "model": "뫼르소",
-      "content": "It is efficient to live within the bounds of rigidly established routines."
+      "content": "Жизнь в рамках незыблемой рутины продуктивна."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "Ngh… getting lumped in with these two is making me real self-conscious all of a sudden. Like I’m just some lazy, incompetent—"
+      "content": "Гх... От того, что меня определили вместе с этими двумя, аж неловко становится. Будто бы я тоже ленивый и некомпетентный..."
     },
     {
       "id": 7,
       "model": "파우스트",
-      "content": "Do not compare yourself to Faust, Gregor. Should Faust become the point of reference for one's competency, the overwhelming majority of the City's population would be deemed incompetent."
+      "content": "Не сравнивайте себя с Фауст, Грегор. Если оценивать способности других людей относительно Фауст, подавляющее большинство населения Города будет классифицировано как некомпетентное."
     },
     {
       "id": 8,
       "model": "뫼르소",
-      "content": " Mm."
+      "content": " Мгм."
     },
     {
       "id": 9,
       "model": "그레고르",
-      "content": "... I'll admit that I'm not the most diligent person in the room, but I'm taking back that comment about being incompetent."
+      "content": "...Ладно, то, что я не самый трудолюбивый — это правда, но вот некомпетентный — тут я погорячился."
     },
     {
       "id": 10,
       "model": "그레고르",
-      "content": "Check this out, fellas. I'm not that rusty just yet."
+      "content": "Вот, народ, глядите. Я уже не молод, но ещё полон сил и энергии!"
     },
     {
       "id": 11,
       "model": "뫼르소",
-      "content": "Charging alone into danger poses— Too late."
+      "content": "В одиночку бросаться навстречу опасности... Поздно."
     },
     {
       "id": 12,
       "model": "파우스트",
-      "content": "... This will be harder than expected. Let us provide assistance."
+      "content": "...Судя по всему, это испытание будет не из простых. Нужно оказать ему помощь."
     }
   ]
 }
