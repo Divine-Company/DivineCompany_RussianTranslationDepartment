@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "battle_battleunit_guard",
-      "content": "Guard"
+      "content": "Защита"
     },
     {
       "id": "popup_message_ego_seat_lack",
@@ -14,7 +14,7 @@
     },
     {
       "id": "option_title",
-      "content": "Settings"
+      "content": "Настройки"
     },
     {
       "id": "option_btn_exit",
@@ -106,7 +106,7 @@
     },
     {
       "id": "info_button_skill",
-      "content": "Skill"
+      "content": "Навык"
     },
     {
       "id": "info_button_awakenskill",
@@ -114,7 +114,7 @@
     },
     {
       "id": "info_button_erosionskill",
-      "content": "Corrosion"
+      "content": "Коррозия"
     },
     {
       "id": "resonance",
@@ -506,11 +506,11 @@
     },
     {
       "id": "resumption",
-      "content": "Resume"
+      "content": "Продолжить"
     },
     {
       "id": "stage_GiveUp",
-      "content": "Give Up"
+      "content": "Сдаться"
     },
     {
       "id": "show_skillTool",

@@ -4,13 +4,22 @@
 </a>
 
 # Divine Company
-Русификатор Limbus Company
+Русификатор для игры Limbus Company
 
 [![Скачиваний](https://img.shields.io/github/downloads/Divine-Company/DivineCompany_RussianTranslationDepartment/total.svg?label=Скачиваний)](../../releases)
 [![Версия](https://img.shields.io/github/release/Divine-Company/DivineCompany_RussianTranslationDepartment.svg?label=Версия)](../../releases/latest)
 
 [Chinese](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)
 </div>
+
+# Перевод включает в себя
+- Пролог «Сумрачный лес»
+- 1-я Песнь «Изгой»
+- Событие «Убийство в Варп-экспрессе»
+- 4-я Вальпургиева Ночь
+- 7-я Песнь «Оставившая мечту»
+- 5-я Вальпургиева Ночь
+- Событие «Общий осмотр»
 
 # Инструкция по установке
 ### 1. Скачайте архив с файлами игры: [Перевод](../../releases/latest)
@@ -19,6 +28,7 @@
    - Перенесите содержимое архива в открывшуюся папку.
 ### 3. Запустите игру
 # Наши ссылки
-- [Discord](https://discord.gg/dqpnxc9muc) 
-- [Руководство в Стиме](https://steamcommunity.com/sharedfiles/filedetails/?id=3312939648) 
+- [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3345409756)
+- [Канал Telegram](https://t.me/LimbusCompanyDC)
+- [Группа VK](https://vk.com/limbuscompanydc)
 </a>
