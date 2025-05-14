@@ -2,124 +2,124 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 8, Entrance",
+      "place": "Подворотни Района 8, на въезде",
       "model": "그레고르",
-      "content": "This really isn’t a great start, fellas… Haah. It's never easy, is it?"
+      "content": "Да уж, да уж… Боюсь представить, что нас ждёт дальше, после такого-то начала."
     },
     {
       "id": 1,
       "model": "로쟈",
-      "content": "Hey, at least we got a nice warm-up. It wasn’t all bad."
+      "content": "Слушай, зато получилось размяться. Есть свои плюсы."
     },
     {
       "id": 2,
       "model": "이스마엘",
-      "content": "I don’t know, this seems more serious than our usual street brawls…"
+      "content": "Не знаю, мне кажется, это была не обычная уличная стычка…"
     },
     {
       "id": 3,
-      "content": "Ishmael's right. They weren't your everyday thugs who pick fights with random people for no good reason."
+      "content": "Измаил права. На нас напали не случайные бандиты, которые хотят создать другим людям проблемы безо всякой причины."
     },
     {
       "id": 4,
-      "content": "They were contracted by someone to specifically target and eliminate Hong Lu."
+      "content": "На нас напал Офис, который наняли специально для того, чтобы устранить Хун Лу."
     },
     {
       "id": 5,
-      "content": "And given how open they were about their intent, calling it a ‘contract’… it doesn’t seem like whoever gave the contract was exactly going for subtlety."
+      "content": "И с учётом того, как его глава открыто упомянул «контракт»… не похоже, чтобы инициатор этого контракта ставил в приоритет скрытный подход."
     },
     {
       "id": 6,
-      "content": "Then… maybe this is what Jia Xichun was talking about way back when she mentioned surviving as Heirs?"
+      "content": "Возможно… это имела в виду Цзя Сичунь, говоря про выживание наследников?"
     },
     {
       "id": 7,
       "model": "이스마엘",
-      "content": "Whoever's behind this must have a bone to pick with Hong Lu."
+      "content": "Тот, кто за всем стоит, наверняка точит злобу на Хун Лу."
     },
     {
       "id": 8,
       "model": "오티스",
-      "content": "Indeed. It seems that we must expect more skirmishes like this going forward."
+      "content": "Верно. Нам стоит ожидать дальнейших нападений."
     },
     {
       "id": 9,
       "model": "돈키호테",
-      "content": "Alas, was this trial not readily overcome?!"
+      "content": "Ужель мы не покончили с этими ворогами?!"
     },
     {
       "id": 10,
       "model": "오티스",
-      "content": "Not the point… think on it a little more."
+      "content": "Дело не в этом… Всё не так просто."
     },
     {
       "id": 11,
       "model": "단테",
-      "content": "<Seems like they’re assuming that Hong Lu’s brought something here in order to participate in that 'Family Hierarch Evaluation'...>"
+      "content": "<Судя по их словам, они решили, что Хун Лу принёс что-то для участия в некой «Процедуре отбора главы семейства»...>"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<... Then there’s no reason to assume that we’ve seen the last of them. They’re going to try again to take out the competition.>"
+      "content": "<...В таком случае нет никакой причины полагать, что наш противник остановится на этом. Наверняка он захочет любой ценой устранить конкурента.>"
     },
     {
       "id": 13,
       "model": "오티스",
-      "content": "A highly accurate assessment of the situation by the Executive Manager. I expected no less from someone of your genius."
+      "content": "Крайне точное замечание, исполнительный директор. Иного от вашего гения и не ожидалось."
     },
     {
       "id": 14,
       "model": "로쟈",
-      "content": "Mmm~ Goin’ for the classics of brown-nosing today, Outis?"
+      "content": "М-м-м… Опять за старое. Подхалимничаем, Утис?"
     },
     {
       "id": 15,
       "model": "오티스",
-      "content": "Since when was it ‘brown-nosing’ to compliment a job well done? Do you not expect—"
+      "content": "Когда это похвала за хорошую работу стала подхалимством? Неужели ты считаешь, что…"
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "This inane conversation is most riveting, but I would prefer some silence while we wait."
+      "content": "Каким бы занимательным ни было ваше пустословие, я бы предпочёл провести время ожидания в тишине."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "It seems that the company foresaw such difficulties. They've sent you a support team to help handle this issue."
+      "content": "Кажется, наша компания предусмотрела, что такое может произойти, поэтому выслала отряд поддержки."
     },
     {
       "id": 18,
-      "content": "We heard voices coming from behind us, from where Vergilius pointed."
+      "content": "Вергилий указал куда-то позади нас, и оттуда раздался голос."
     },
     {
       "id": 19,
       "teller": "???",
       "title": "???",
-      "content": "My... you guys still haven't learned how to stick to the plan, have you?"
+      "content": "Да-а... Смотрю, вы так и не научились придерживаться плана?"
     },
     {
       "id": 20,
       "teller": "???",
       "title": "???",
-      "content": "It really threw me off when I was told to meet you in some Backstreets location, away from our agreed rendezvous point."
+      "content": "Когда мне сказали встретить вас где-то в Подворотнях, вдали от изначального места встречи, я знатно удивилась."
     },
     {
       "id": 21,
-      "content": "A familiar voice. A voice we could not forget."
+      "content": "Знакомый голос. Голос, который мы не успели забыть."
     },
     {
       "id": 22,
       "model": "뉴소드",
-      "content": "Been a while, everyone."
+      "content": "Давно не виделись."
     },
     {
       "id": 23,
       "model": "뉴파일럿",
-      "content": "H-hi, I’m here too… hehe."
+      "content": "П-привет, и я здесь… Хе-хе."
     },
     {
       "id": 24,
-      "content": "We turned around to follow where the voice was coming from… and recognized the two people we've been hoping to see again."
+      "content": "Мы повернулись на два голоса… и встретились взглядами с теми, кого были так рады вновь увидеть."
     }
   ]
 }

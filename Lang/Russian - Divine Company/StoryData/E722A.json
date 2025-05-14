@@ -2,570 +2,570 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 8, Somewhere",
+      "place": "Подворотни Района 8, неизвестно где",
       "model": "경도",
-      "content": "Now, here we are."
+      "content": "Вот мы и на месте."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "Haah... haah... is this the place...?"
+      "content": "Ах... Хах... Мы уже пришли?.."
     },
     {
       "id": 2,
-      "content": "After running through alleyway after alleyway, after turning corner after corner, we finally came across the sight of several small buildings tightly built next to one another."
+      "content": "Пробежав по многочисленным улочкам, свернув за множество углов, мы наконец-то оказались перед многочисленными зданиями, тесно соприкасающимися между собой."
     },
     {
       "id": 3,
-      "content": "At the center of them was a building lit with red lamps, adorned with a doorplate with complicated looking letters scribbled over it."
+      "content": "По центру красовалось здание с красными фонарями, украшенное дверной табличкой со сложными иероглифами."
     },
     {
       "id": 4,
       "model": "로쟈",
-      "content": "This is shoddier than I expected... Hey, isn't this place a bit too trashy to house your precious young master?"
+      "content": "Не такой дрянной отель я ожидала... Эй, тебе не кажется, что для твоего юного господина это место слишком убогое?"
     },
     {
       "id": 5,
       "model": "경도",
-      "content": "That is not our building. Please, look this way to see where our honored guests will be staying for the night."
+      "content": "Это не наше здание. За местом, в котором вы справите ночь, прошу посмотреть сюда."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "I knew it! I heard so much from Hong Lu about all the splendor, all the... huh?"
+      "content": "Как знала! Я ведь так много слышала о лоске в семье Хун Лу, о том, как они... Э-Э-Э?!"
     },
     {
       "id": 7,
-      "content": "We followed Qingtao's finger and... arrived at a small warehouse of sorts, its exterior painted in black."
+      "content": "Мы пошли туда, куда указал Циньтао... и оказались перед чем-то наподобие сарая, окрашенного в чёрный цвет."
     },
     {
       "id": 8,
-      "content": "That... looks smaller than even Mephistopheles..."
+      "content": "С виду... он даже меньше, чем Мефистофель..."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<... Can we all even fit in there?>"
+      "content": "<...Мы туда вообще поместимся?>"
     },
     {
       "id": 10,
       "model": "로쟈",
-      "content": "H-hey, that place looks trashy as heck, even for us! Let alone your young master!"
+      "content": "С-слушай, даже по нашим стандартам это никуда не годится! А про твоего юного господина я вообще молчу!"
     },
     {
       "id": 11,
       "model": "경도",
-      "content": "This is the nearest kezhan we could afford to stay in, at least among the ones that I manage... Yet its location in the Backstreets heavily limits the level of decency it can afford..."
+      "content": "Это ближайший кэчжань, где мы могли позволить себе остановиться — во всяком случае из числа тех, которыми я заведую... Однако его местоположение в Подворотнях значительно ограничивает предлагаемое им удобство..."
     },
     {
       "id": 12,
       "model": "경도",
-      "content": "My deepest and sincerest apologies, young master..."
+      "content": "Приношу глубочайшие извинения, юный господин..."
     },
     {
       "id": 13,
       "model": "홍루",
-      "content": "Don't worry, we can't always sleep in decent places~ It looks just fine for an overnight stay to me!"
+      "content": "Не беспокойся, не каждый же день нам спать в роскошных покоях! Как по мне, для одной ночёвки он вполне себе сгодится!"
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "Are you nuts? Can that thing even fit all of us in there?"
+      "content": "Вы что, с ума сошли? Мы в этой каморке вообще уместимся?"
     },
     {
       "id": 15,
       "model": "경도",
-      "content": "... Much did I wish to guide the honored guests to the family mansion in the central zone..."
+      "content": "...Как бы мне ни хотелось провести вас, дорогие гости, в особняк семейства в центре..."
     },
     {
       "id": 16,
       "model": "경도",
-      "content": "However, the time..."
+      "content": "...время не на нашей стороне..."
     },
     {
       "id": 17,
       "model": "료슈",
-      "content": "Oho... the sweeping wave."
+      "content": "А-ха... Волна, вычищающая всё."
     },
     {
       "id": 18,
       "model": "단테",
-      "content": "<Hm... doesn't that start at 3:13 in the morning? I feel like we've got plenty of time to get there.>"
+      "content": "<Хм... Разве то, о чём мы говорим, не начинается в 3:13, утра? По-моему, чтобы добраться до центра, времени предостаточно.>"
     },
     {
       "id": 19,
       "model": "이스마엘",
-      "content": "Exactly. Don't we have more than enough time to get to the family mansion?"
+      "content": "Вот именно. Мы ведь успеем дойти до особняка, даже особо не торопясь?"
     },
     {
       "id": 20,
       "model": "이스마엘",
-      "content": "According to the H Corp. travel guide, the central area is only like an hour away from here…"
+      "content": "Согласно путеводитель по Крылу H, центр всего в часе ходьбы отсюда…"
     },
     {
       "id": 21,
       "model": "경도",
-      "content": "Has the honored guest traveled to District 8 before?"
+      "content": "Почтенная гостья раньше посещала Район 8?"
     },
     {
       "id": 22,
       "model": "이스마엘",
-      "content": "Well, no. This is my first time here. But..."
+      "content": "Эм, нет. Я здесь в первый раз. Но..."
     },
     {
       "id": 23,
       "model": "경도",
-      "content": "Then one must ask how the honored guest could claim to have the full understanding of a place merely by flipping through a book, when she hasn't had to contend with it in person?"
+      "content": "Тогда нельзя не задаться вопросом, как почтенная гостья способна с такой уверенностью утверждать о чём-либо, что никогда не видела вживую, лишь на основании прочитанное ею литературы?"
     },
     {
       "id": 24,
       "model": "경도",
-      "content": "Innumerable, unpredictable changes await in this teeming jungle of buildings; the ever-shifting structures, the constantly changing paths, ambushes from foolish yet vicious Syndicates or, even Offices of the Backstreets, oh! We are beset by danger from all sides!"
+      "content": "В этих искусственных джунглях в любой момент происходят кардинальные перемены; здания меняют местоположение; дороги постоянно изменяются; безумные и безжалостные Синдикаты и даже Офисы Подворотен поджидают прохожих в западнях! Ох, опасность ждёт нас на каждом шагу!"
     },
     {
       "id": 25,
       "model": "경도",
-      "content": "Such bold, flippant approach to predicting the phenomena of this place is to court death. Even a toddler must know that."
+      "content": "Столь безрассудный и легкомысленный подход к предсказанию местных особенностей может стать вашей погибелью. Это знают даже маленькие дети."
     },
     {
       "id": 26,
       "model": "이스마엘",
-      "content": "……."
+      "content": "..."
     },
     {
       "id": 27,
       "model": "경도",
-      "content": "One fails to disguise his utter sorrow at the inadequacy of her wisdom."
+      "content": "Ввиду неблагоразумия почтенной гостьи нельзя не опечалиться."
     },
     {
       "id": 28,
       "model": "단테",
-      "content": "<Is it just me, or are we all thinking back to Ishmael back at the Great Lake?>"
+      "content": "<Мы все вспомнили прежнюю Измаил на Великом Озере, не только я?>"
     },
     {
       "id": 29,
       "model": "이스마엘",
-      "content": "Zip it, Dante."
+      "content": "Прикусите язык, Данте."
     },
     {
       "id": 30,
       "model": "오티스",
-      "content": "But if the guidebook lists a path, does it not imply that it is technically possible to reach there in time?"
+      "content": "Но если данный маршрут указан в путеводителе, разве мы чисто технически не успеем добраться до пункта назначения вовремя?"
     },
     {
       "id": 31,
-      "content": "Outis suddenly took a step forward."
+      "content": "Внезапно Утис сделала шаг вперёд."
     },
     {
       "id": 32,
-      "content": "In her hand was the H Corp. travel pamphlet that Ishmael was talking about."
+      "content": "В её руках был тот самый путеводитель по Крылу H."
     },
     {
       "id": 33,
       "model": "오티스",
-      "content": "I have faith that if our Executive Manager would lead us in your, directionally challenged, stead, they would be able to lead us to our destination before night falls."
+      "content": "Уверена, что если нас поведёт исполнительный директор, а не топографический кретин вроде тебя, то мы прибудем в центр до наступления ночи."
     },
     {
       "id": 34,
       "model": "단테",
-      "content": "<... Me?>"
+      "content": "<...Я вас поведу?>"
     },
     {
       "id": 35,
       "model": "이상",
-      "content": "This does not appear to have been discussed aforehand..."
+      "content": "Похоже, это предложение заранее не обсуждалось..."
     },
     {
       "id": 36,
       "model": "경도",
-      "content": "Very well. Allow me to speak freely, without frills."
+      "content": "Что ж. Я тоже выскажусь, без лишних прикрас."
     },
     {
       "id": 37,
       "model": "경도",
-      "content": "My responsibility is to bring the honored guests to the central zone, and to ensure the young master's safety."
+      "content": "Моя задача — привести почтенных гостей в центр и обеспечить безопасность юного господина."
     },
     {
       "id": 38,
       "model": "경도",
-      "content": "It is... indeed technically possible to reach the family mansion before the Night in the Backstreets commences. <i>Technically</i>."
+      "content": "Чисто технически... дойти до особняка семейства до начала Ночи в Подворотнях возможно. <i>Технически</i>."
     },
     {
       "id": 39,
       "model": "오티스",
-      "content": "... Hm."
+      "content": "...Хм."
     },
     {
       "id": 40,
       "model": "경도",
-      "content": "Yet! Not even one iota of danger to the young master shall be permitted! The mission that has been so graciously bestowed upon this humble servant is not to guide the young master with haste, but to guide him with utmost safety!"
+      "content": "Однако! Жизнь юного господина нельзя подвергать ни малейшему риску! Ответственное задание, которое поручили вашему покорному слуге — это провести юного господина маршрутом не как можно более быстрым, а как можно более безопасным!"
     },
     {
       "id": 41,
       "model": "오티스",
-      "content": "Oho!"
+      "content": "А-а-а!"
     },
     {
       "id": 42,
       "model": "경도",
-      "content": "It is said that those engaging in strategies and plans must remain wary of losing sight of their purpose; to stubbornly forge on toward the family mansion in lieu of necessary intel to see when these mobs of assailants would end is to wrongly prioritize the journey over the destination."
+      "content": "Считается, что те, кто разрабатывает планы и стратегии, должны быть внимательны, чтобы их наработки не отклонялись первоначальной цели; слепо прокладывать путь к особняку в отсутствие информации о том, когда прекратятся нападения различных банд, значит ставить в приоритет маршрут, а не, как должно, достижение пункта назначения."
     },
     {
       "id": 43,
       "model": "오티스",
-      "content": "You... oh, you...!"
+      "content": "Ты... Да ты же!.."
     },
     {
       "id": 44,
       "model": "오티스",
-      "content": "Wonderful. Truly impressive. You have all the qualities of someone I would trust with my life when devising a stratagem. This is the most fitting attitude for those who genuinely wish the best for those they serve."
+      "content": "Великолепно. Впечатляет. Ты обладаешь всеми качествами, чтобы я доверила тебе разработку стратагем, от которых зависит моя жизнь. Твой подход идеален, если ставить главной целью защиту тех, кому подчиняешься."
     },
     {
       "id": 45,
       "model": "이스마엘",
-      "content": "Really? You're just gonna... start going along with him all of a sudden?"
+      "content": "Серьёзно? Вы с ничего... начинаете его поддерживать?"
     },
     {
       "id": 46,
       "model": "오티스",
-      "content": "I have misunderstood your intentions, truly."
+      "content": "Я полностью ошибалась насчёт твоих намерений."
     },
     {
       "id": 47,
       "model": "경도",
-      "content": "... Hm."
+      "content": "...Хм."
     },
     {
       "id": 48,
       "model": "오티스",
-      "content": "They sparked my ire by comparing some of your... choice words with my very own..."
+      "content": "Мой гнев был вызван... сравнением твоей манеры речи с моей..."
     },
     {
       "id": 49,
       "model": "경도",
-      "content": "... Mmhmm!"
+      "content": "...Мгм-м-м!"
     },
     {
       "id": 50,
       "model": "오티스",
-      "content": "... yet now, my eyes have been opened to the honest loyalty that lies within your heart!"
+      "content": "...но теперь мне очевидно, что твоя душа полна лишь беспрекословной верности твоему господину!"
     },
     {
       "id": 51,
       "model": "경도",
-      "content": "HA HA HA! This humble servant did not imagine even in his wildest dreams that there would be someone who understands the fathoms of his loyalty. It seems that young master has certainly gained an eye for allies and fellowships; this is a cause for much relief in my heart."
+      "content": "ХА-ХА-ХА! Ваш покорный слуга и представить себе не мог, что в мире найдётся кто-то, кто по-настоящему понимает его искреннюю преданность. Отрадно, что у юного господина такое развитое чутьё, когда вопрос касается выбора союзников!"
     },
     {
       "id": 52,
       "model": "오티스",
-      "content": "HA HA HA! Listen to him! This one knows how to jest!"
+      "content": "ХА-ХА-ХА! Юморист, вот он выдал!"
     },
     {
       "id": 53,
       "model": "그레고르",
-      "content": "They're basically best buds now, huh..."
+      "content": "Уже скорешились, значит..."
     },
     {
       "id": 54,
       "model": "오티스",
-      "content": "Ahem. Ahm. I may have lost my cool for a moment there. Anyway, this man speaks true. It is highly likely that we would be exposed to attacks of similar nature were we to continue moving at this time."
+      "content": "Кхм. Я... Кажется, я поддалась эмоциям. В общем, он говорит чистую правду. Если мы продолжим продвижение вглубь Гнезда в это время суток, с большой вероятностью нам придётся продолжить сдерживать аналогичный натиск."
     },
     {
       "id": 55,
       "model": "단테",
-      "content": "<She's just fully on his side now, isn't she...>"
+      "content": "<Как быстро она переобулась...>"
     },
     {
       "id": 56,
-      "content": "That's when I realized that she was looking in my direction."
+      "content": "И в этот момент я замечаю, что Утис всё это время смотрела на меня."
     },
     {
       "id": 57,
-      "content": "The exaggerated smile had all but completely faded from her face, replaced with an odd but dead-serious expression. When our gazes locked, she nodded. She must be..."
+      "content": "Натянутая улыбка пропала, выражение лица стало максимально серьёзным. Когда мы пересеклись взглядами, Утис едва заметно кивнула. Видимо, она..."
     },
     {
       "id": 58,
-      "content": "... completely turned around by that guy! Is this her way of saying \"so long, I'm gonna quit and go work with this guy now, thanks for everything\"?!"
+      "content": "...целиком и полностью им прониклась! Это она мне так говорит: «Спасибо за всё, я ухожу работать бок о бок с ним, бывай»?!"
     },
     {
       "id": 59,
       "model": "오티스",
-      "content": "And as for this 'hotel'... it is still much better than sleeping in outdoor tent barracks. We should be able to relieve ourselves of some fatigue here before moving on."
+      "content": "Что касается «отеля»... Ночевать в нём всяко лучше, чем в палаточных бараках. Мы сможем восстановить силы и потом продолжить продвижение."
     },
     {
       "id": 60,
       "model": "이상",
-      "content": "Did you not earlier insist on continuing our search for a better accommodation with the greatest vehemence, miss Outis...?"
+      "content": "Утис, разве немногим ранее вы не были непреклонны в том, чтобы найти более подобающий ночлег?"
     },
     {
       "id": 61,
       "model": "이스마엘",
-      "content": "... Yeah, whatever. We get your point, let's go inside."
+      "content": "...Ладно, мы поняли. Пошли внутрь."
     },
     {
       "id": 62,
       "model": "경도",
-      "content": "Whew... my humblest self can only behold your generous acceptance of this insufficient lodging with the deepest gratitude."
+      "content": "Фух... Ваш скромный слуга безмерно ценит ваше почтенное согласие на справление ночи в столь примитивной обители."
     },
     {
       "id": 63,
-      "content": "After all that serious talk, the man seemed oddly relieved to hear our decision as he brought his fist and palm together."
+      "content": "После столь серьёзного разговора, услышав то, что мы согласны остановится в этом отеле, юноша заметно успокоился. Он вновь свёл кулак и ладонь."
     },
     {
       "id": 64,
       "model": "이상",
-      "content": "Architecture of today mustn't be judged with such haste merely by an observation of their exterior; the interior may hold aught to be surprised of. Worry not..."
+      "content": "Архитектура наших современников не должна оцениваться по одному лишь экстерьеру; внутреннее убранство удивит вас сполна. Не беспокойтесь..."
     },
     {
       "id": 65,
-      "content": "With Rodion's surrendered \"wouldn't that be nice~\", we made our way into the building."
+      "content": "«Хотелось бы!..» — сдалась Родион, и мы зашли в здание."
     },
     {
       "id": 66,
-      "place": "Kezhan Lounge",
+      "place": "Фойе кэчжаня",
       "model": "히스클리프",
-      "content": "Ooh...! This actually ain't so bad. It's clean in here."
+      "content": "Ого! А тут не так и плохо. Чистенько."
     },
     {
       "id": 67,
       "model": "이상",
-      "content": "This place presents a rather classical aesthetic. The landscape paintings lining the walls give off a rather sophisticated mood."
+      "content": "Интерьер выполнен во вполне классическом стиле, а стены, расписанные пейзажами, лишь подчёркивают его строгость."
     },
     {
       "id": 68,
       "model": "단테",
-      "content": "<And it's much more spacious inside than it looks from the outside. Did they use some kind of space expansion technology in here, too?>"
+      "content": "<И вдобавок ко всему, здесь куда просторнее, чем кажется снаружи. Этот кэчжань тоже строили с применением технологии расширения пространства?>"
     },
     {
       "id": 69,
       "model": "파우스트",
-      "content": "No. It seems that the building only appeared small due to the density of structures in proximity."
+      "content": "Нет. Вероятнее всего, данное здание лишь казалось тесным в сравнении с окружающими его строениями."
     },
     {
       "id": 70,
       "model": "경도",
-      "content": "Well, the door is now open. Should my presence be required, I shall be in the small shed next to this building. Please, do converse freely."
+      "content": "Что ж, наши двери открыты для вас. В случае если вам что-либо от меня нужно, я буду ждать вас в небольшой каморке неподалёку. Не буду вам мешать."
     },
     {
       "id": 71,
-      "content": "The man smiled awkwardly and quietly excused himself as the excitement among the Sinners began to grow..."
+      "content": "Юноша неловко улыбнулся и вышел, не привлекая к себе внимание. Между тем Грешники становились всё более и более радостными..."
     },
     {
       "id": 72,
       "model": "홍루",
-      "content": "……."
+      "content": "..."
     },
     {
       "id": 73,
-      "content": "...Meanwhile, Hong Lu stood a fair distance from the guide, quietly watching his face as he left."
+      "content": "...кроме Хун Лу, молчаливо смотревшего в лицо вышедшему проводнику."
     },
     {
       "id": 74,
-      "content": "His expression was enigmatic, as if he were gazing upon the clouds, the flowers… or even the wind."
+      "content": "Его выражение было загадочным, словно он разглядывал облака, цветы… или, может, ветер."
     },
     {
       "id": 75,
-      "content": "Yet there was no light in those eyes—it was as if they beheld a stormcloud, a desolate field of wilted flowers, and a howling, destructive gale..."
+      "content": "Однако его глаза были тёмными, словно он видел грозовую тучу, увядающие бутоны или, может, бушующую бурю..."
     },
     {
       "id": 76,
       "model": "단테",
-      "content": "<Do you suspect something, Hong Lu?>"
+      "content": "<Ты что-то подозреваешь, Хун Лу?>"
     },
     {
       "id": 77,
-      "content": "So I decided to ask."
+      "content": "Я решаю узнать у него напрямую."
     },
     {
       "id": 78,
       "model": "홍루",
-      "content": "Not yet, I don't think."
+      "content": "Нет, пока нет."
     },
     {
       "id": 79,
       "model": "단테",
-      "content": "<... Huh?>"
+      "content": "<...Что?>"
     },
     {
       "id": 80,
-      "content": "... Not <i>yet</i>?"
+      "content": "...<i>Пока</i> нет?"
     },
     {
       "id": 81,
       "teller": "???",
       "title": "???",
-      "content": "So, big brother. Something felt off to you too, huh?"
+      "content": "Итак, братец. Ты тоже почувствовал, что здесь что-то нечисто, да?"
     },
     {
       "id": 82,
-      "content": "That's when we caught a familiar voice."
+      "content": "Вдруг мы услышали знакомый голос."
     },
     {
       "id": 83,
       "model": "홍루",
-      "content": "Wow, Xichun! It's you! And so soon, too!"
+      "content": "Ого, Сичунь! Это и правда ты! Мы словно и не прощались!"
     },
     {
       "id": 84,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "Yeah, I told you I had a feeling we'd be seeing each other again very soon."
+      "title": "Семья Цзя",
+      "content": "Как видишь, моё предчувствие о том, что мы увидимся совсем скоро, меня не обмануло."
     },
     {
       "id": 85,
       "model": "웨이",
-      "title": "Jia Family",
-      "content": "Have you been well, young master?"
+      "title": "Семья Цзя",
+      "content": "Как вы поживаете, юный господин?"
     },
     {
       "id": 86,
       "model": "홍루",
-      "content": "I'm so glad to see that you're doing well, Mister Wei. Oh, wait! Don't tell me you're staying here too, Xichun?"
+      "content": "Рад видеть вас в добре и здравии, господин Вэй. Ах, постойте! Сичунь, только не говори мне, что ты тоже остаёшься здесь на ночь?"
     },
     {
       "id": 87,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "I normally wouldn't ever set foot in a place like this, but..."
+      "title": "Семья Цзя",
+      "content": "В обычных обстоятельствах я бы в такого рода места не ступала ни ногой..."
     },
     {
       "id": 88,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "I ran into some kind of large-scale construction on my way back to the family mansion. Had to come in through the Backstreets."
+      "title": "Семья Цзя",
+      "content": "Однако, пока я возвращалась в особняк, на моём пути решили провести большую стройку. Пришлось идти в обход через Подворотни."
     },
     {
       "id": 89,
-      "content": "... So we weren't the only ones troubled by that random construction site."
+      "content": "...Выходит, те внезапные строительные работы стали помехой не только для нас."
     },
     {
       "id": 90,
       "model": "돈키호테",
-      "content": "Uoooh! H-hail to thee!"
+      "content": "О-о-о! Д-добрейшего вам здравия!"
     },
     {
       "id": 91,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "Gah..."
+      "title": "Семья Цзя",
+      "content": "Ах..."
     },
     {
       "id": 92,
-      "content": "The confident look on Xichun's face was immediately replaced by that of alarm."
+      "content": "Уверенность на лице Сичунь резко сменилась встревоженностью."
     },
     {
       "id": 93,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "D-did she lose her memories again? Is she with you?"
+      "title": "Семья Цзя",
+      "content": "О-она ещё с вами? Ей снова стёрли память?"
     },
     {
       "id": 94,
       "model": "홍루",
-      "content": "No. Don Quixote's the same as always."
+      "content": "Нет. Дон Кихот была и остаётся собой."
     },
     {
       "id": 95,
       "model": "돈키호테",
-      "content": "Ahem, ahem-hem..."
+      "content": "Кхем-кхем-кхем..."
     },
     {
       "id": 96,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "But... she looks like such an airhead..."
+      "title": "Семья Цзя",
+      "content": "Но... сейчас у неё словно ни одной мысли в голове нет..."
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "Young Xi-chun? W-well, wouldst thou accompany me to the lounge but a moment, so that we may share a moment of 'catching-up'...?"
+      "content": "Юная Си…чунь? Как вы… зрите на предложение отправиться в гостевые покои, дабы… «наверстать упущенное»?.."
     },
     {
       "id": 98,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "……."
+      "title": "Семья Цзя",
+      "content": "..."
     },
     {
       "id": 99,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "Oh. Yeah, actually. Let's do that. Hold on."
+      "title": "Семья Цзя",
+      "content": "Ах. Да, правда. Так и поступим. Одну секунду."
     },
     {
       "id": 100,
-      "content": "Jia Xichun seemed to hesitate for a moment, staring at Don Quixote after hearing that her memories were intact..."
+      "content": "Услышав, что воспоминания Дон Кихот никуда не делись, Сичунь поколебалась..."
     },
     {
       "id": 101,
-      "content": "... before walking right up to her."
+      "content": "...но затем сразу же подошла вплотную к Дон Кихот."
     },
     {
       "id": 102,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "I like that idea. Shall we? Wei, why don't you go and find a room for me to stay in while I talk some things out with her?"
+      "title": "Семья Цзя",
+      "content": "Мне нравится твоё предложение. Итак, пройдём? Вэй, не найдёшь мне комнату, где мы с ней могли бы уединиться и кое о чём поговорить?"
     },
     {
       "id": 103,
       "model": "돈키호테",
-      "content": "Uh... uhh?"
+      "content": "Эм... Э-э-э?"
     },
     {
       "id": 104,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "What? You wanted to do some catching-up, right?"
+      "title": "Семья Цзя",
+      "content": "Что? Ты же хотела наверстать упущенное, разве нет?"
     },
     {
       "id": 105,
       "model": "돈키호테",
-      "content": "'Tis, uh... M-Manager Esquire...!"
+      "content": "Сие, как бы вам сказать... Э-эсквайр Данте!"
     },
     {
       "id": 106,
       "model": "파우스트",
-      "content": "... Loss of critical personnel may be a cause for disciplinary action, Dante."
+      "content": "...Потеря одной из ключевых фигур грозит дисциплинарным взысканием, Данте."
     },
     {
       "id": 107,
       "model": "단테",
-      "content": "<I don't think there's anything wrong with making friends, though?>"
+      "content": "<А я не думаю, что шанс завести друзей — это так плохо…>"
     },
     {
       "id": 108,
       "model": "홍루",
-      "content": "Hehe, looks like Xichun really likes Don Quixote if she's comfortable enough to tease her like that."
+      "content": "Хе-хе, похоже, Дон Кихот и правда пришлась по душе Сичунь, раз она с ней так заигрывает."
     },
     {
       "id": 109,
       "model": "이스마엘",
-      "content": "It's not Don Quixote she likes. She obviously just wants Don Quixote's power she saw back then..."
+      "content": "Тут вопрос не в душе. Ваша сестра просто хочет завладеть той силой, которую она увидела ещё там..."
     },
     {
       "id": 110,
       "model": "웨이",
-      "title": "Jia Family",
-      "content": "My lady, this is hardly the appropriate place for—"
+      "title": "Семья Цзя",
+      "content": "Позвольте, госпожа, это место едва ли подходит для…"
     },
     {
       "id": 111,
       "model": "가시춘",
-      "title": "Jia Family",
-      "content": "Fine... I'll try again later. Go get some sleep. I'm heading in, too."
+      "title": "Семья Цзя",
+      "content": "Ладно... Потом попробую ещё раз. Иди выспись. Я тоже пойду отдохну."
     },
     {
       "id": 112,
-      "content": "Xichun sighed with a bit of disappointment before heading into the lobby..."
+      "content": "Сичунь разочарованно вздохнула и направилась вглубь фойе..."
     },
     {
       "id": 113,
       "model": "단테",
-      "content": "<Well... let's all head inside now.>"
+      "content": "<Что ж... давайте и мы пройдём внутрь.>"
     },
     {
       "id": 114,
-      "content": "So I and the rest of the Sinners followed her into the lodging."
+      "content": "И мы все пошли вслед за ней."
     }
   ]
 }
