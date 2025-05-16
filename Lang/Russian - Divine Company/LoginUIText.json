@@ -119,7 +119,6 @@
     {
       "id": "guestlogin_failed_try_newguest",
       "content": "Не удалось войти в систему как Гость.\nГостевая учётная запись либо уже связана, либо не существует.\n\nХотите ли вы создать новую гостевую учётную запись?"
-	  
     },
     {
       "id": "secession_remain_days",
@@ -344,6 +343,10 @@
     {
       "id": "servererror_remain_restore_purchasing",
       "content": "A transaction is still in progress.\nPlease use the [Restore Purchase] button and try again."
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "External server connection error. Please try again at a later time."
     }
   ]
 }

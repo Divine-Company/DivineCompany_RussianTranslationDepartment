@@ -715,6 +715,45 @@
       "failureDesc": [
         "{0} хватает котёл и снимает его с пламени...\n\n...но спотыкается о выпирающий камень и проливает горячий суп на остальных Грешников.\n\n«О-ого, вы как, в порядке? Должно быть, вас сильно ошпарило.»\n«Спасибо вам за помощь. Котёл можете оставить себе...»\n\nПламя отблагодарило нас, пусть и извиняющимся тоном."
       ]
+    },
+    {
+      "id": 90100503,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who should do it?",
+      "successDesc": [
+        "{0} picks up a knife from the ground and slides it across their hand.\n\nThe flesh splits open, and dark blood gushes out of the wound onto the coffin.\n\nRed fluid trickles along the bound rope...\n\nThe rattling coffin eventually comes to a slow stop, and the wailings fade."
+      ],
+      "failureDesc": [
+        "{0} picks up a knife from the ground and slides it across their hand.\n\nThe flesh splits open, and dark blood gushes out of the wound onto the coffin.\n\nRed fluid trickles along the bound rope...\n\nThe coffin begins to shake. Something scratches at its walls.\n\nIt sounds as though something is stepping across the soil; the knot dances in the wind.\n\nA dessiccated arm emerges from the coffin and grabs onto {0}.\n\nYet, the undone knot and the dessiccated arm soon fades into nothingness like mirages."
+      ]
+    },
+    {
+      "id": 90101503,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "\"Oho! Then here, have a drink.\"\n\n{0} began chugging the strong liquor.\nIt's uncertain whether {0} really likes to drink, or is simply trying to indulge the entity.\n\n\"Hot damn, looks like the hooch's finally found its match!\"\n\"Y'know what's better than neckin' the whole bottle?\"\n\nSomething chucks a huge barrel of liquor toward us from beyond the thick miasma of steam.\nWe barely managed to catch the barrel. A lively voice booms in our direction.\n\n\"A keg stand!\""
+      ],
+      "failureDesc": [
+        "\"Oho! Then here, have a drink.\"\n\n{0} began chugging the strong liquor.\nIt's uncertain whether {0} really likes to drink, or is simply trying to indulge the entity.\n\n\"Hot damn, looks like the hooch's finally found its match!\"\n\"Y'know what's better than neckin' the whole bottle?\"\n\nSomething chucks a huge barrel of liquor toward us from beyond the steam.\nThe abruptness of that aggressive throw completely caught us off guard; without a soft landing spot, the barrel shatters against the ground.\n\n\"A keg sta— Aw, what the heck! Y'know how precious that barrel was?!\"\n\"Bah! At least take the barrel splinters with you. It's got a pretty strong, top-notch aroma of its own.\""
+      ]
+    },
+    {
+      "id": 90104703,
+      "title": "",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will speak?",
+      "successDesc": [
+        "When I point to some random, incorrect direction, the entity approaches and looms over me.\nIn place of its head was but an eyeless rose, but... I could still feel its piercing gaze.\n\n\"Such tale is your wish? Then I hope you have it within you to be responsible for your own words.\"\n\"Should you come across the apple in your journey, I bid you to bind it with this lasso.\"\n\nThe entity tossed a lasso at us before gallopping off astride the great steed of vines.\nOnly when could we no longer hear the sound of galloping hooves did the apple slowly emerge from behind my leg, shuddering.\n\n\"C-can you please get rid of that lasso? Please... I'm scared.\"\n\nThe apple pleaded, but some Sinners disagreed.\nThe lasso may come in handy.\nI denied the apple's request, wound the lasso on my arm, and continued onward."
+      ],
+      "failureDesc": [
+        "When I point to some random, incorrect direction, the entity approaches and looms over me.\nIn place of its head was but an eyeless rose, but... I could still feel its piercing gaze.\n\n\"Such tale is your wish? Then I hope you have it within you to be responsible for your own words.\"\n\"Should you come across the apple in your journey, I bid you to bind it with this lasso.\"\n\nThe last sentence must've scared the apple—it flinches.\nThe entity noticed the hem of my pants shake slightly and erupts into a furious bellow, swinging the lasso.\n\n\"BEGONE!\"\n\nThe apple tries to hurry away from the entity, but it's soon snared by the barbed lasso.\nAfter fastening the apple to the vine horse's leg, the entity gallops into the forest.\nThe apple's desperate cries for help slowly fades away from us."
+      ]
     }
   ]
 }

@@ -287,6 +287,18 @@
     {
       "id": "walpu5_battle_entrance",
       "content": "В бой!"
+    },
+    {
+      "id": "Walpu5_modal_yes",
+      "content": "Yes"
+    },
+    {
+      "id": "Walpu5_modal_no",
+      "content": "No"
+    },
+    {
+      "id": "walpu5_on_end_event",
+      "content": "Event Closed"
     }
   ]
 }
