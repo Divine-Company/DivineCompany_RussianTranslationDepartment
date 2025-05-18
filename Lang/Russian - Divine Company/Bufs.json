@@ -2,44 +2,44 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Attack Power Up",
-      "desc": "Attack Skill Final Power +{0} for this turn.",
-      "summary": "ATK Skill Final Power +{0}",
+      "name": "Повышение силы атаки",
+      "desc": "+{0} к Итоговой Силе атакующих навыков в этом ходу.",
+      "summary": "+{0} к Итоговой Силе АТК навыков",
       "undefined": "-"
     },
     {
       "id": "Agility",
-      "name": "Haste",
-      "desc": "Speed +{0} for this turn.",
-      "summary": "SPD +{0}",
+      "name": "Спешка",
+      "desc": "+{0} к Скорости в этом ходу.",
+      "summary": "СКР +{0}",
       "undefined": "-"
     },
     {
       "id": "Endurance",
-      "name": "Defense Power Up",
-      "desc": "Defense Skill Final Power +{0} for this turn.",
-      "summary": "DEF Skill Final Power +{0}",
+      "name": "Увеличение Силы Защиты",
+      "desc": "+{0} к Итоговой Силе защитных навыков в этом ходу.",
+      "summary": "+{0} к Итоговой Силе ЗЩТ навыков",
       "undefined": "-"
     },
     {
       "id": "Reduction",
-      "name": "Attack Power Down",
-      "desc": "Attack Skill Final Power -{0} for this turn.",
-      "summary": "ATK Skill Final Power -{0}",
+      "name": "Уменьшение Силы Атаки",
+      "desc": "-{0} к Итоговой Силе атакующих навыков в этом ходу.",
+      "summary": "-{0} к Итоговой Силе АТК навыков",
       "undefined": "-"
     },
     {
       "id": "Binding",
-      "name": "Bind",
-      "desc": "Speed -{0} for this turn.",
-      "summary": "SPD -{0}",
+      "name": "Путы",
+      "desc": "-{0} к Скорости в этом ходу.",
+      "summary": "СКР -{0}",
       "undefined": "-"
     },
     {
       "id": "Vulnerable",
-      "name": "Fragile",
-      "desc": "Take +{0}0% damage this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Taken",
+      "name": "Хрупкость",
+      "desc": "Входящий урон от атак увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона",
       "undefined": "-"
     },
     {
@@ -85,16 +85,16 @@
     },
     {
       "id": "EgoErode",
-      "name": "E.G.O Corrosion",
-      "desc": "Won’t listen to orders and will only use Corrosion Skills.",
-      "summary": "Out of control; uses Corrosion Skills",
+      "name": "Коррозия ЭГО",
+      "desc": "Отказывается следовать приказам и будет использовать только навыки Коррозии.",
+      "summary": "Бесконтрольно использует навыки Коррозии",
       "undefined": "-"
     },
     {
       "id": "Charge",
-      "name": "Charge",
-      "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\n\n<color=#1aece7>Total Count consumed: {2}</color>",
-      "summary": "Specific Skill Resource",
+      "name": "Заряд",
+      "desc": "Используется различными навыками для дополнительных эффектов. Максимальное значение Счётчика равно 20. Счётчик понижается на 1 каждый ход.\n\n<color=#1aece7>Счётчика использовано: {2}</color>",
+      "summary": "Ресурс для навыков",
       "undefined": "-"
     },
     {
@@ -105,39 +105,39 @@
     },
     {
       "id": "ResultEnhancement",
-      "name": "Power Up",
-      "desc": "Skill Final Power +{0} for this turn.",
-      "summary": "Skill Final Power +{0}"
+      "name": "Увеличение Силы",
+      "desc": "+{0} к Итоговой Силе навыков в этом ходу.",
+      "summary": "+{0} к Итоговой Силе навыков"
     },
     {
       "id": "Protection",
-      "name": "Protection",
-      "desc": "Take -{0}0% damage this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Taken"
+      "name": "Защита",
+      "desc": "Входящий урон от атак снижается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона"
     },
     {
       "id": "AttackDmgUp",
-      "name": "Damage Up",
-      "desc": "Deal +{0}0% damage with skills this turn. (Max 100%)",
-      "summary": "+{0}0% Damage Dealt"
+      "name": "Увеличение Урона",
+      "desc": "Наносит +{0}0% урона навыками в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% наносимого урона"
     },
     {
       "id": "DefenseUp",
-      "name": "Defense Level Up",
-      "desc": "Defense Level +{0} for this turn.",
-      "summary": "Defense Level +{0}"
+      "name": "Увеличение Уровня Защиты",
+      "desc": "Уровень Защиты +{0} в этом ходу.",
+      "summary": "Уровень Защиты +{0}"
     },
     {
       "id": "PlusCoinValueUp",
-      "name": "Plus Coin Boost",
-      "desc": "Plus Coin Power +{0} for this turn.",
-      "summary": "Plus Coin Power +{0}"
+      "name": "Усиление Положительных Монет",
+      "desc": "Сила Положительных Монет +{0} в этом ходу.",
+      "summary": "Сила Положительных Монет +{0}"
     },
     {
       "id": "MinusCoinValueUp",
-      "name": "Minus Coin Boost",
-      "desc": "Minus Coin Power +{0} for this turn.",
-      "summary": "Minus Coin Power +{0}"
+      "name": "Усиление Отрицательных Монет",
+      "desc": "Сила Отрицательных Монет +{0} в этом ходу.",
+      "summary": "Сила Отрицательных Монет +{0}"
     },
     {
       "id": "TimesCoinValueUp",
@@ -147,45 +147,45 @@
     },
     {
       "id": "Disarming",
-      "name": "Defense Power Down",
-      "desc": "Defense Skill Final Power -{0} for this turn.",
-      "summary": "DEF Skill Final Power -{0}"
+      "name": "Уменьшение Силы Защиты",
+      "desc": "-{0} к Итоговой Силе защитных навыков в этом ходу.",
+      "summary": "-{0} к Итоговой Силе ЗЩТ навыков"
     },
     {
       "id": "ResultReduction",
-      "name": "Power Down",
-      "desc": "Skill Final Power -{0} for this turn.",
-      "summary": "Skill Final Power -{0}"
+      "name": "Уменьшение Силы",
+      "desc": "-{0} к Итоговой Силе навыков в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков"
     },
     {
       "id": "AttackDmgDown",
-      "name": "Damage Down",
-      "desc": "Deal -{0}0% damage with skills this turn. (Max 100%)",
-      "summary": "-{0}0% Damage Dealt"
+      "name": "Уменьшение Урона",
+      "desc": "Наносит -{0}0% урона навыками в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% наносимого урона"
     },
     {
       "id": "DefenseDown",
-      "name": "Defense Level Down",
-      "desc": "Defense Level -{0} for this turn.",
-      "summary": "Defense Level -{0}"
+      "name": "Уменьшение Уровня Защиты",
+      "desc": "Уровень Защиты -{0} в этом ходу.",
+      "summary": "Уровень Защиты -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "Paralyze",
-      "desc": "Fix the Power of {0} Coin(s) to 0 for this turn.",
-      "summary": "{0} Coin(s) have 0 Power"
+      "name": "Паралич",
+      "desc": "Сила {0} Монет обнулена в этом ходу.",
+      "summary": "Сила {0} Монет обнулена"
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "Plus Coin Drop",
-      "desc": "Plus Coin Power -{0} for this turn.",
-      "summary": "Plus Coin Power -{0}"
+      "name": "Ослабление Положительных Монет",
+      "desc": "Сила Положительных Монет -{0} в этом ходу.",
+      "summary": "Сила Положительных Монет -{0}"
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "Minus Coin Drop",
-      "desc": "Minus Coin Power -{0} for this turn.",
-      "summary": "Minus Coin Power -{0}"
+      "name": "Ослабление Отрицательных Монет",
+      "desc": "Сила Отрицательных Монет -{0} в этом ходу.",
+      "summary": "Сила Отрицательных Монет -{0}"
     },
     {
       "id": "TimesCoinValueDown",
@@ -195,9 +195,9 @@
     },
     {
       "id": "BeingGolden",
-      "name": "Golden Sheen",
-      "desc": "Turn Start: Heal 10 HP per Count.",
-      "summary": "HP Recovery"
+      "name": "Золотой Отлив",
+      "desc": "В начале хода исцеляет по 10 ОЗ за каждый Счётчик.",
+      "summary": "Восстановление ОЗ"
     },
     {
       "id": "MoonLight",
@@ -252,69 +252,69 @@
     },
     {
       "id": "Nail",
-      "name": "N Corp’s Nails",
-      "desc": "Turn Start: Gain 1 Bleed and increase the Bleed Count by {0}.\nTurn End: Reduce this effect by 1.",
-      "summary": "Gain 1 Bleed and add +{0} Bleed Count"
+      "name": "Гвозди Крыла N",
+      "desc": "В начале хода накладывается 1 Кровотечение и увеличивается Счётчик Кровотечения на {0}.\nВ конце хода уменьшается на 1.",
+      "summary": "Накладывает 1 Кровотечение и добавляет +{0} Счётчика Кровотечения"
     },
     {
       "id": "Inactible",
-      "name": "Immobilized",
-      "desc": "Does not act for this turn.",
-      "summary": "Inactive"
+      "name": "Обездвиженность",
+      "desc": "Пропускает свой ход.",
+      "summary": "Неактивно"
     },
     {
       "id": "Combustion",
-      "name": "Burn",
-      "desc": "Turn End: Take {0} fixed damage. Lasts {1} turn(s).",
-      "summary": "{0} fixed HP damage"
+      "name": "Горение",
+      "desc": "В конце следующих {1} ходов наносится {0} чистого урона.",
+      "summary": "{0} чистого урона по ОЗ"
     },
     {
       "id": "Laceration",
-      "name": "Bleed",
-      "desc": "The next {1} time(s) this unit tosses an attack skill Coin, take {0} fixed damage.",
-      "summary": "{0} fixed HP damage"
+      "name": "Кровотечение",
+      "desc": "Следующие {1} раз при броске Монеты наносится {0} чистого урона.",
+      "summary": "{0} чистого урона по ОЗ"
     },
     {
       "id": "Vibration",
-      "name": "Tremor",
-      "desc": "When hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s).",
-      "summary": "Raise Stagger Threshold by {0}"
+      "name": "Тремор",
+      "desc": "Следующие {1} ходов при срабатывании Приступа Тремора, приближает Порог Оглушения на {0}.",
+      "summary": "Приближает Порог Оглушения на {0}"
     },
     {
       "id": "Burst",
-      "name": "Rupture",
-      "desc": "The next {1} time(s) the unit is hit, take {0} fixed damage.",
-      "summary": "{0} fixed HP damage"
+      "name": "Разрыв",
+      "desc": "Следующие {1} раз при ударе от чужой Монеты, дополнительно наносится {0} чистого урона.",
+      "summary": "{0} чистого урона по ОЗ"
     },
     {
       "id": "Sinking",
-      "name": "Sinking",
-      "desc": "The next {1} time(s) the unit is hit, take {0} fixed SP damage. (Units with no Sanity take Gloom damage.)",
-      "summary": "{0} Sinking DMG"
+      "name": "Горе",
+      "desc": "Следующие {1} раз при ударе от чужой Монеты, ПР снижается на {0}. (Если у персонажа нет Показателя Рассудка, вместого этого наносится урон Унынием.)",
+      "summary": "{0} УРН Горем"
     },
     {
       "id": "Breath",
-      "name": "Poise",
-      "desc": "Boost critical hit chance by {0}x5% for the next {1} hit(s).",
-      "summary": "{0}x5% crit chance"
+      "name": "Концентрация",
+      "desc": "Шанс критического удара увеличивается на {0}x5% для следующих {1} ударов Монетой.",
+      "summary": "{0}x5% шанс крит. удара"
     },
     {
       "id": "BloodPocket",
-      "name": "Blood Sac",
-      "desc": "Use a powerful attack at a certain Count.",
-      "summary": "Readies a powerful attack"
+      "name": "Кровавая Киста",
+      "desc": "При достижении определённой величины Счётчика использует усиленную атаку.",
+      "summary": "Подготавливает мощную атаку"
     },
     {
       "id": "WaterPocket",
-      "name": "Fluid Sac",
-      "desc": "Heals {0} x 20 HP.",
-      "summary": "HP heal boost"
+      "name": "Киста",
+      "desc": "Исцеляет {0} x 20 ОЗ.",
+      "summary": "Исцеление ОЗ"
     },
     {
       "id": "DogThunder",
-      "name": "Lightning",
-      "desc": "Powers up at a certain Count.",
-      "summary": "Strengthens self"
+      "name": "Молнии",
+      "desc": "При достижении определённой величины Счётчика переходит в усиленную фазу.",
+      "summary": "Усиливается"
     },
     {
       "id": "Run_Panic",
@@ -325,14 +325,14 @@
     {
       "id": "Operation",
       "name": "Surgery",
-      "desc": "Die when Count reaches 5.\nReduce Max HP by 20% per Count ({0}).\nDeal +20% damage per Count ({0}).\nTurn Start: Gain {0} Haste.",
-      "summary": "Dies at 5 Count"
+      "desc": "Умирает при достижении 5 Счётчика.\nУменьшает максимальные ОЗ на 20% за каждый Счётчик ({0}).\nНаносит +{0}0% урона за каждый Счётчик ({0}).\nВ начале хода накладывает {0} Спешки.",
+      "summary": "Умирает при 5 Счётчика"
     },
     {
       "id": "Emergency_Operation",
       "name": "Makeshift Surgery",
-      "desc": "Boost Max HP by 25% and skill Power by 1 per this effect’s Count.\nEach turn, increase this effect’s Count by 1.\nDie when Count reaches 5.",
-      "summary": "Dies at 5 Count"
+      "desc": "Умирает при достижении 5 Счётчика.\nУвеличивает максимальные ОЗ на 25% и Силу навыков на 1 за каждый Счётчик.\nВ начале хода увеличивает свой Счётчик на 1.",
+      "summary": "Умирает при 5 Счётчика"
     },
     {
       "id": "BabayagaTimeLimit",
@@ -348,21 +348,21 @@
     },
     {
       "id": "Muckworm",
-      "name": "Maggots",
-      "desc": "Turn End: Take Gluttony damage by the Count, then lower it by 1; Bleed Count +1.",
-      "summary": "Gluttony damage; Bleed Count +1"
+      "name": "Личинки",
+      "desc": "В конце хода наносится урон Чревоугодием, равный Счётчику. Затем Счётчик Личинок снижается на 1, а Счётчик Кровотечения увеличивается на 1.",
+      "summary": "Урон Чревоугодием и +1 Счётчика Кровотечения"
     },
     {
       "id": "AttackUp",
-      "name": "Offense Level Up",
-      "desc": "Offense Level +{0} for this turn.",
-      "summary": "Offense Level +{0}"
+      "name": "Увеличение Уровня Атаки",
+      "desc": "Уровень Атаки +{0} в этом ходу.",
+      "summary": "Уровень Атаки +{0}"
     },
     {
       "id": "AttackDown",
-      "name": "Offense Level Down",
-      "desc": "Offense Level -{0} for this turn.",
-      "summary": "Offense Level -{0}"
+      "name": "Уменьшение Уровня Атаки",
+      "desc": "Уровень Атаки -{0} в этом ходу.",
+      "summary": "Уровень Атаки -{0}"
     },
     {
       "id": "Liu_Meursault_Guard_Buff",
@@ -1533,79 +1533,98 @@
     },
     {
       "id": "RailBuffForLine2_A_ENEMY",
-      "name": "Cycle"
+      "name": "Cycle",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_B_ENEMY",
-      "name": "Opportunistic"
+      "name": "Opportunistic",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_C_ENEMY",
-      "name": "Hardening"
+      "name": "Hardening",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_D_ENEMY",
-      "name": "Accelerating"
+      "name": "Accelerating",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_E_ENEMY",
-      "name": "Inhaling"
+      "name": "Inhaling",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_F_ENEMY",
-      "name": "Thirsting"
+      "name": "Thirsting",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_A_ALLY",
-      "name": "Slash Boost"
+      "name": "Slash Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_B_ALLY",
-      "name": "Pierce Boost"
+      "name": "Pierce Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_C_ALLY",
-      "name": "Blunt Boost"
+      "name": "Blunt Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_D_ALLY",
-      "name": "Wrath Boost"
+      "name": "Wrath Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_E_ALLY",
-      "name": "Lust Boost"
+      "name": "Lust Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_F_ALLY",
-      "name": "Sloth Boost"
+      "name": "Sloth Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_G_ALLY",
-      "name": "Gluttony Boost"
+      "name": "Gluttony Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_H_ALLY",
-      "name": "Gloom Boost"
+      "name": "Gloom Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_I_ALLY",
-      "name": "Pride Boost"
+      "name": "Pride Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_J_ALLY",
-      "name": "Envy Boost"
+      "name": "Envy Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_K_ALLY",
-      "name": "Heal All"
+      "name": "Heal All",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_L_ALLY",
-      "name": "Heal Selected"
+      "name": "Heal Selected",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_T_ALLY",
-      "name": "Resurrect"
+      "name": "Resurrect",
+      "desc": ""
     },
     {
       "id": "Discard",
@@ -1614,31 +1633,38 @@
     },
     {
       "id": "RailBuffForLine2_M_ALLY",
-      "name": "Burn Boost"
+      "name": "Burn Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_N_ALLY",
-      "name": "Bleed Boost"
+      "name": "Bleed Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_O_ALLY",
-      "name": "Tremor Boost"
+      "name": "Tremor Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_P_ALLY",
-      "name": "Rupture Boost"
+      "name": "Rupture Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_Q_ALLY",
-      "name": "Sinking Boost"
+      "name": "Sinking Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_R_ALLY",
-      "name": "Poise Boost"
+      "name": "Poise Boost",
+      "desc": ""
     },
     {
       "id": "RailBuffForLine2_S_ALLY",
-      "name": "Charge Boost"
+      "name": "Charge Boost",
+      "desc": ""
     },
     {
       "id": "KnowledgeExplored",
