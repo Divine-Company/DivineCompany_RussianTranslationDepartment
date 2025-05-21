@@ -30,7 +30,7 @@
     },
     {
       "id": "Binding",
-      "name": "Путы",
+      "name": "Медлительность",
       "desc": "-{0} к Скорости в этом ходу.",
       "summary": "СКР -{0}",
       "undefined": "-"
@@ -111,7 +111,7 @@
     },
     {
       "id": "Protection",
-      "name": "Защита",
+      "name": "Стойкость",
       "desc": "Входящий урон от атак снижается на {0}0% в этом ходу. (Макс. 100%)",
       "summary": "-{0}0% входящего урона"
     },
@@ -324,27 +324,27 @@
     },
     {
       "id": "Operation",
-      "name": "Surgery",
+      "name": "Пластика",
       "desc": "Умирает при достижении 5 Счётчика.\nУменьшает максимальные ОЗ на 20% за каждый Счётчик ({0}).\nНаносит +{0}0% урона за каждый Счётчик ({0}).\nВ начале хода накладывает {0} Спешки.",
       "summary": "Умирает при 5 Счётчика"
     },
     {
       "id": "Emergency_Operation",
-      "name": "Makeshift Surgery",
-      "desc": "Умирает при достижении 5 Счётчика.\nУвеличивает максимальные ОЗ на 25% и Силу навыков на 1 за каждый Счётчик.\nВ начале хода увеличивает свой Счётчик на 1.",
+      "name": "Кустарная Пластика",
+      "desc": "Умирает при достижении 5 Счётчика.\nУвеличивает максимальные ОЗ на 25% и Силу навыков на 1 за каждый Счётчик.\nВ начале хода Счётчик увеличивается на 1.",
       "summary": "Умирает при 5 Счётчика"
     },
     {
       "id": "BabayagaTimeLimit",
-      "name": "Baba Yaga’s Coming!",
-      "desc": "Baba Yaga is closing in. Clear the way or face certain death.",
-      "summary": "Baba Yaga approaches!"
+      "name": "Баба-яга настигает!",
+      "desc": "Баба-яга приближается. Расчистите путь, не то вас ждёт гибель.",
+      "summary": "Баба-яга приближается!"
     },
     {
       "id": "PinkRibbon_Ishmael",
-      "name": "Pink Ribbons",
-      "desc": "Increase Count by 1 whenever the unit tosses an attack skill Coin.\nTurn End: Gain Bind by the Count, then remove this effect.",
-      "summary": "Gain {0} Bind"
+      "name": "Розовые Ленты",
+      "desc": "Счётчик увеличивается на 1 каждый раз, когда происходит бросок Монеты атакующего навыка.\nВ конце хода накаладывается Медлительность, равная Счётчику, затем эффект заканчивается.",
+      "summary": "Накладывается {0} Медлительности"
     },
     {
       "id": "Muckworm",
@@ -372,104 +372,104 @@
     },
     {
       "id": "SlashResistUp",
-      "name": "Slash Resist Up",
-      "desc": "Reduce Slash Resistance by 0.{0}"
+      "name": "Увеличение Защиты От Рубящего Урона",
+      "desc": "Уменьшает уязвимость к Рубящему урону на 0.{0}"
     },
     {
       "id": "PenetrateResistUp",
-      "name": "Pierce Resist Up",
-      "desc": "Reduce Pierce Resistance by 0.{0}"
+      "name": "Увеличение Защиты От Колящего Урона",
+      "desc": "Уменьшает уязвимость к Колящему урону на 0.{0}"
     },
     {
       "id": "HitResistUp",
-      "name": "Blunt Resist Up",
-      "desc": "Reduce Blunt Resistance by 0.{0}"
+      "name": "Увеличение Защиты От Дробящего Урона",
+      "desc": "Уменьшает уязвимость к Дробящему урону на 0.{0}"
     },
     {
       "id": "SlashDamageUp",
-      "name": "Slash DMG Up",
-      "desc": "Deal +{0}0% damage with Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage +{0}0%"
+      "name": "Увеличение Рубящего Урона",
+      "desc": "+{0}0% к урону Рубящих навыков в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к Рубящему урону"
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "Pierce DMG Up",
-      "desc": "Deal +{0}0% damage with Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage +{0}0%"
+      "name": "Увеличение Колящего Урона",
+      "desc": "+{0}0% к урону Колящих навыков в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к Колющему урону"
     },
     {
       "id": "HitDamageUp",
-      "name": "Blunt DMG Up",
-      "desc": "Deal +{0}0% damage with Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage +{0}0%"
+      "name": "Увеличение Дробящего Урона",
+      "desc": "+{0}0% к урону Дробящих навыков в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к Дробящему урону"
     },
     {
       "id": "SlashResistDown",
-      "name": "Slash Resist Down",
-      "desc": "Increase Slash Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Рубящего Урона",
+      "desc": "Увеличивает уязвимость к Рубящему урону на 0.{0}"
     },
     {
       "id": "PenetrateResistDown",
-      "name": "Pierce Resist Down",
-      "desc": "Increase Pierce Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Колящего Урона",
+      "desc": "Увеличивает уязвимость к Колящему урону на 0.{0}"
     },
     {
       "id": "HitResistDown",
-      "name": "Blunt Resist Down",
-      "desc": "Increase Blunt Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Дробящего Урона",
+      "desc": "Увеличивает уязвимость к Дробящему урону на 0.{0}"
     },
     {
       "id": "SlashDamageDown",
-      "name": "Slash DMG Down",
-      "desc": "Deal -{0}0% damage with Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage -{0}0%"
+      "name": "Уменьшение Рубящего Урона",
+      "desc": "-{0}0% к урону Рубящих навыков в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к Рубящему урону"
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "Pierce DMG Down",
-      "desc": "Deal -{0}0% damage with Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage -{0}0%"
+      "name": "Уменьшение Колящего Урона",
+      "desc": "-{0}0% к урону Колящих навыков в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к Колющему урону"
     },
     {
       "id": "HitDamageDown",
-      "name": "Blunt DMG Down",
-      "desc": "Deal -{0}0% damage with Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage -{0}0%"
+      "name": "Уменьшение Дробящего Урона",
+      "desc": "-{0}0% к урону Дробящих навыков в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к Дробящему урону"
     },
     {
       "id": "CrimsonResistDown",
-      "name": "Wrath Resist Down",
-      "desc": "Increase Wrath Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Гревом",
+      "desc": "Увеличивает уязвимость к урону Гневом на 0.{0}"
     },
     {
       "id": "ScarletResistDown",
-      "name": "Lust Resist Down",
-      "desc": "Increase Lust Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Похоти",
+      "desc": "Увеличивает уязвимость к урону Похотью на 0.{0}"
     },
     {
       "id": "AmberResistDown",
-      "name": "Sloth Resist Down",
-      "desc": "Increase Sloth Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Ленью",
+      "desc": "Увеличивает уязвимость к урону Ленью на 0.{0}"
     },
     {
       "id": "ShamrockResistDown",
-      "name": "Gluttony Resist Down",
-      "desc": "Increase Gluttony Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Чревоугодием",
+      "desc": "Увеличивает уязвимость к урону Чревоугодием на 0.{0}"
     },
     {
       "id": "AzureResistDown",
-      "name": "Gloom Resist Down",
-      "desc": "Increase Gloom Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Унынием",
+      "desc": "Увеличивает уязвимость к урону Унынием на 0.{0}"
     },
     {
       "id": "IndigoResistDown",
-      "name": "Pride Resist Down",
-      "desc": "Increase Pride Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Гордыней",
+      "desc": "Увеличивает уязвимость к урону Гордыней на 0.{0}"
     },
     {
       "id": "VioletResistDown",
-      "name": "Envy Resist Down",
-      "desc": "Increase Envy Resistance by 0.{0}"
+      "name": "Уменьшение Защиты От Урона Завистью",
+      "desc": "Увеличивает уязвимость к урону Завистью на 0.{0}"
     },
     {
       "id": "CrimsonResistUp",
@@ -508,93 +508,93 @@
     },
     {
       "id": "CrimsonDamageDown",
-      "name": "Wrath DMG Down",
-      "desc": "Deal -{0}0% damage with Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage -{0}0%"
+      "name": "Уменьшение Урона Гневом",
+      "desc": "-{0}0% к урону навыков Гнева в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Гневом"
     },
     {
       "id": "ScarletDamageDown",
-      "name": "Lust DMG Down",
-      "desc": "Deal -{0}0% damage with Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage -{0}0%"
+      "name": "Уменьшение Урона Похотью",
+      "desc": "-{0}0% к урону навыков Похоти в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Похотью"
     },
     {
       "id": "AmberDamageDown",
-      "name": "Sloth DMG Down",
-      "desc": "Deal -{0}0% damage with Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage -{0}0%"
+      "name": "Уменьшение Урона Ленью",
+      "desc": "-{0}0% к урону навыков Лени в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Ленью"
     },
     {
       "id": "ShamrockDamageDown",
-      "name": "Gluttony DMG Down",
-      "desc": "Deal -{0}0% damage with Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage -{0}0%"
+      "name": "Уменьшение Урона Чревоугодием",
+      "desc": "-{0}0% к урону навыков Чревоугодия в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Чревоугодием"
     },
     {
       "id": "AzureDamageDown",
-      "name": "Gloom DMG Down",
-      "desc": "Deal -{0}0% damage with Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage -{0}0%"
+      "name": "Уменьшение Урона Унынием",
+      "desc": "-{0}0% к урону навыков Уныния в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Унынием"
     },
     {
       "id": "IndigoDamageDown",
-      "name": "Pride DMG Down",
-      "desc": "Deal -{0}0% damage with Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage -{0}0%"
+      "name": "Уменьшение Урона Гордыней",
+      "desc": "-{0}0% к урону навыков Гордыни в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Гордыней"
     },
     {
       "id": "VioletDamageDown",
-      "name": "Envy DMG Down",
-      "desc": "Deal -{0}0% damage with Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage -{0}0%"
+      "name": "Уменьшение Урона Завистью",
+      "desc": "-{0}0% к урону навыков Зависти в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% к урону Завистью"
     },
     {
       "id": "CrimsonDamageUp",
-      "name": "Wrath DMG Up",
-      "desc": "Deal +{0}0% damage with Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage +{0}0%"
+      "name": "Увеличение Урона Гневом",
+      "desc": "+{0}0% к урону навыков Гнева в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Гневом"
     },
     {
       "id": "ScarletDamageUp",
-      "name": "Lust DMG Up",
-      "desc": "Deal +{0}0% damage with Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage +{0}0%"
+      "name": "Увеличение Урона Похотью",
+      "desc": "+{0}0% к урону навыков Похоти в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Похотью"
     },
     {
       "id": "AmberDamageUp",
-      "name": "Sloth DMG Up",
-      "desc": "Deal +{0}0% damage with Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage +{0}0%"
+      "name": "Увеличение Урона Ленью",
+      "desc": "+{0}0% к урону навыков Лени в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Ленью"
     },
     {
       "id": "ShamrockDamageUp",
-      "name": "Gluttony DMG Up",
-      "desc": "Deal +{0}0% damage with Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage +{0}0%"
+      "name": "Увеличение Урона Чревоугодием",
+      "desc": "+{0}0% к урону навыков Чревоугодия в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Чревоугодием"
     },
     {
       "id": "AzureDamageUp",
-      "name": "Gloom DMG Up",
-      "desc": "Deal +{0}0% damage with Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage +{0}0%"
+      "name": "Увеличение Урона Унынием",
+      "desc": "+{0}0% к урону навыков Уныния в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Унынием"
     },
     {
       "id": "IndigoDamageUp",
-      "name": "Pride DMG Up",
-      "desc": "Deal +{0}0% damage with Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage +{0}0%"
+      "name": "Увеличение Урона Гордыней",
+      "desc": "+{0}0% к урону навыков Гордыни в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Гордыней"
     },
     {
       "id": "VioletDamageUp",
-      "name": "Envy DMG Up",
-      "desc": "Deal +{0}0% damage with Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage +{0}0%"
+      "name": "Увеличение Урона Завистью",
+      "desc": "+{0}0% к урону навыков Зависти в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% к урону Завистью"
     },
     {
       "id": "Curse",
-      "name": "Curse",
-      "desc": "Turn End: Next turn, randomly gain one of the following, then reduce this effect’s Count by 1.\n1 Attack Power Down/1 Defense Power Down/2 Offense Level Down/2 Defense Level Down.",
-      "summary": "Gain a negative status effect, then reduce Count by 1"
+      "name": "Проклятие",
+      "desc": "В конце хода Счётчик снижается на 1 и накладывается одно из:\n1 Уменьшение Силы Атаки, 1 Уменьшение Силы Защиты, 2 Уменьшения Уровня Атаки, 2 Уменьшения Уровня Защиты.",
+      "summary": "Накладывается один негативный статус, затем Счётчик снижается на 1"
     },
     {
       "id": "AttackDmgUp_Weak",
@@ -604,14 +604,14 @@
     },
     {
       "id": "Bullet",
-      "name": "Ammo",
-      "desc": "Spent by certain skills. Some attacks cancel if lacking Ammo.",
-      "summary": "Resource for certain skills"
+      "name": "Боезапас",
+      "desc": "Используется различными навыками. Некоторые атаки прекращаются, если Боезапас закончился.",
+      "summary": "Ресурс для различных навыков"
     },
     {
       "id": "Meursault_Last_Remodeling",
-      "name": "Final Augment",
-      "desc": "Turn Start: Gain 3 Attack Power Up, Defense Power Up, and Haste; die in {0} turn(s)."
+      "name": "Последняя Операция",
+      "desc": "В начале хода накладывается 3 Увеличения Силы Атаки, 3 Увеличения Силы Защиты 3 и Спешки.\nУмирает через {0} ходов."
     },
     {
       "id": "Choice_90103301",
@@ -673,9 +673,9 @@
     },
     {
       "id": "Assemble",
-      "name": "Fanatic",
-      "desc": "Skill Final Power +{0} against units with Nails for this turn. (Applies to clashes as well)",
-      "summary": "Final Power +{0}"
+      "name": "Фанатизм",
+      "desc": "+{0} к Итоговой Силе навыков против персонажей с Гвоздями в этом ходу. (Также работает и в Схватках)",
+      "summary": "+{0} к Итоговой Силе"
     },
     {
       "id": "ReinforcedAssemble",
