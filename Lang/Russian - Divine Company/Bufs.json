@@ -684,237 +684,237 @@
     },
     {
       "id": "Greedy",
-      "name": "Desirous",
-      "desc": "Gain 2 Fragile and 10 Bind this turn. Also, gain a skill slot and change behavior.",
-      "summary": "Gain 2 Fragile and 10 Bind"
+      "name": "Пленение",
+      "desc": "В этот ход накладывается 2 Хрупкости и 10 Медлительности. Также, получает дополнительный слот навыка и изменяет своё поведение.",
+      "summary": "Накладывается 2 Хрупкости и 10 Медлительности"
     },
     {
       "id": "Desire",
-      "name": "Urge",
-      "desc": "Turn End: At 5+ Stack, take 30 SP damage, gain 2 Fragile and 10 Bind, and remove this effect.",
-      "summary": "Take 30 SP damage & gain 2 Fragile and 10 Bind"
+      "name": "Порыв",
+      "desc": "При 5+ Счётчика в конце хода ПР снижается на 30, накладывается 2 Хрупкости и 10 Медлительности, затем эффект заканчивается.",
+      "summary": "ПР снижается на 30, накладывается 2 Хрупкости и 10 Медлительности"
     },
     {
       "id": "GreedyReady",
-      "name": "Constricting Desires",
-      "desc": "Use a skill that applies ‘Desirous’ in {0} turn(s)."
+      "name": "Опутывающие Желания",
+      "desc": "Через 0 ходов использует навык, который накладывает Пленение."
     },
     {
       "id": "Decay",
-      "name": "Rotting Skin",
-      "desc": "When attacked, inflict 3 Poison on the attacker.",
-      "summary": "Inflict 3 Poison on attacker"
+      "name": "Гниющая Кожа",
+      "desc": "При ударе от противника, накладывает на него 3 Отравления.",
+      "summary": "Накладывает 3 Отравления на атакующего"
     },
     {
       "id": "Poison",
-      "name": "Poison",
-      "desc": "Turn End: Take {0} fixed damage, then halve the Count.",
+      "name": "Отравление",
+      "desc": "В конце хода наносится {0} чистого урона, а Счётчик сокращается вдвое (с округлением вниз).",
       "summary": "{0} HP damage"
     },
     {
       "id": "Cromer_Target",
-      "name": "Gaze of the One Who Grips",
-      "desc": "Staggered for this turn. Take +100% damage from Kromer."
+      "name": "Взор Одержащей",
+      "desc": "Оглушен в этот ход. Входящий урон от атак Кромер увеличивается на 100%."
     },
     {
       "id": "Cromer_Boredom",
-      "name": "Accept the Pain!",
-      "desc": "Deal and take 100% more damage.\nDefense Skill Final Power -5."
+      "name": "Смирись с болью!",
+      "desc": "Входящий и исходящий урон увлечивается на 100%.\n-5 к Итоговой Силе защитных навыков."
     },
     {
       "id": "Cromer_Ecstasy",
-      "name": "Ecstatic",
-      "desc": "All the Maw’s physical resistances change to ‘Fatal’.",
-      "summary": "Weaken part’s phys. resist"
+      "name": "В Экстазе",
+      "desc": "Все уязвимости Пасти изменяются на Фатальные.",
+      "summary": "Уменьшает защиту от физ. атак"
     },
     {
       "id": "Cromer_Madness",
-      "name": "Purity",
-      "desc": "All parts gain 3 Bind and 3 Damage Up, and their phys. resistances change to ‘Fatal’."
+      "name": "Чистота",
+      "desc": "На все части накладывается 3 Медлительности, 3 Увеличения Урона и их уязвимости изменяются на Фатальные."
     },
     {
       "id": "Hardening",
-      "name": "Hardening",
-      "desc": "Turn Start: At 3+ Count, the Arms change into a “perfect” state."
+      "name": "Отвердевание",
+      "desc": "При 3+ Счётчика в начале хода Руки переходят в \"идеальное\" состояние."
     },
     {
       "id": "Perfected",
-      "name": "Perfect Shell",
-      "desc": "Turn Start: The Arms gain 2 Attack Power Up. Removed when the Arms’ HP falls below 50%",
-      "summary": "Gain 2 Attack Power Up"
+      "name": "Идеальная Оболочка",
+      "desc": "В начале хода накладывается 2 Увеличения Силы Атаки на Руки. При достижении ОЗ Рук ниже 50% эффект заканчивается.",
+      "summary": "Накладывается 2 Увеличения Силы Атаки"
     },
     {
       "id": "Enrage",
       "name": "Буйство",
       "desc": "В этом ходу накладывается 3 Увеличения Силы Атаки и 3 Хрупкости, а также меняется модель поведения. Входящие атаки не будут накладывать Инстинкты. ",
-      "summary": "Gain 3 Attack Power Up & 3 Fragile"
+      "summary": "Накладывается 3 Увеличения Силы Атаки и 3 Хрупкости"
     },
     {
       "id": "Aggressive",
       "name": "Инстинкты",
-      "desc": "В конце хода при 4+ Счётчиках переходит в \"агрессивное\" состояние."
+      "desc": "При 4+ Счётчика в конце хода переходит в \"агрессивное\" состояние."
     },
     {
       "id": "Whistle_Courage",
       "name": "Храбрость, Перебарывающая Страх",
       "desc": "В начале хода накладывается 1 Увеличения Силы Атаки и 2 Стойкости.",
-      "summary": "Gain 1 Attack Power Up & 2 Protection"
+      "summary": "Накладывается 1 Увеличения Силы Атаки и 2 Стойкости"
     },
     {
       "id": "Whistle_Fear",
-      "name": "Fearsome Whistles",
-      "desc": "Turn Start: Gain 1 Bind and 1 Paralyze.",
-      "summary": "Gain 1 Bind & 1 Paralyze"
+      "name": "Устрашающий Свист",
+      "desc": "В начале хода накладывается 1 Медлительности и 1 Паралича.",
+      "summary": "Накладывается 1 Медлительности и 1 Паралича"
     },
     {
       "id": "SlashTakeDamageDown",
-      "name": "Slash Protection",
-      "desc": "Take -{0}0% damage from Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage taken -{0}0%"
+      "name": "Устойчивость к Рубящему",
+      "desc": "Входящий урон от Рубящих атак уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего Рубящего урона"
     },
     {
       "id": "PenetrateTakeDamageDown",
-      "name": "Pierce Protection",
-      "desc": "Take -{0}0% damage from Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage taken -{0}0%"
+      "name": "Устойчивость к Колющему",
+      "desc": "Входящий урон от Колющих атак уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего Колющего урона"
     },
     {
       "id": "HitTakeDamageDown",
-      "name": "Blunt Protection",
-      "desc": "Take -{0}0% damage from Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage taken -{0}0%"
+      "name": "Устойчивость к Дробящему",
+      "desc": "Входящий урон от Дробящих атак уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего Дробящего урона"
     },
     {
       "id": "CrimsonTakeDamageDown",
-      "name": "Wrath Protection",
-      "desc": "Take -{0}0% damage from Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage taken -{0}0%"
+      "name": "Устойчивость к Гневу",
+      "desc": "Входящий урон от атак Гнева уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Гневом"
     },
     {
       "id": "ScarletTakeDamageDown",
-      "name": "Lust Protection",
-      "desc": "Take -{0}0% damage from Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage taken -{0}0%"
+      "name": "Устойчивость к Похоти",
+      "desc": "Входящий урон от атак Похоти уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Похотью"
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "Sloth Protection",
-      "desc": "Take -{0}0% damage from Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage taken -{0}0%"
+      "name": "Устойчивость к Лени",
+      "desc": "Входящий урон от атак Лени уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Ленью"
     },
     {
       "id": "ShamrockTakeDamageDown",
-      "name": "Gluttony Protection",
-      "desc": "Take -{0}0% damage from Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage taken -{0}0%"
+      "name": "Устойчивость к Чревоугодию",
+      "desc": "Входящий урон от атак Чревоугодия уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Чревоугодием"
     },
     {
       "id": "AzureTakeDamageDown",
-      "name": "Gloom Protection",
-      "desc": "Take -{0}0% damage from Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage taken -{0}0%"
+      "name": "Устойчивость к Унынию",
+      "desc": "Входящий урон от атак Уныния уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Унынием"
     },
     {
       "id": "IndigoTakeDamageDown",
-      "name": "Pride Protection",
-      "desc": "Take -{0}0% damage from Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage taken -{0}0%"
+      "name": "Устойчивость к Гордыне",
+      "desc": "Входящий урон от атак Гордыни уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Гордыней"
     },
     {
       "id": "VioletTakeDamageDown",
-      "name": "Envy Protection",
-      "desc": "Take -{0}0% damage from Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage taken -{0}0%"
+      "name": "Устойчивость к Зависти",
+      "desc": "Входящий урон от атак Зависти уменьшается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "-{0}0% входящего урона Завистью"
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "Slash Fragility",
-      "desc": "Take +{0}0% damage from Slash skills this turn. (Max 100%)",
-      "summary": "Slash damage taken +{0}0%"
+      "name": "Уязвимость к Рубящему",
+      "desc": "Входящий урон от Рубящих атак увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего Рубящего урона"
     },
     {
       "id": "PenetrateTakeDamageUp",
-      "name": "Pierce Fragility",
-      "desc": "Take +{0}0% damage from Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce damage taken +{0}0%"
+      "name": "Уязвимость к Колящему",
+      "desc": "Входящий урон от Колющих атак увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего Колющего урона"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "Blunt Fragility",
-      "desc": "Take +{0}0% damage from Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt damage taken +{0}0%"
+      "name": "Уязвимость к Дробящему",
+      "desc": "Входящий урон от Дробящих атак увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего Дробящего урона"
     },
     {
       "id": "CrimsonTakeDamageUp",
-      "name": "Wrath Fragility",
-      "desc": "Take +{0}0% damage from Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath damage taken +{0}0%"
+      "name": "Уязвимость к Гневу",
+      "desc": "Входящий урон от атак Гнева увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Гневом"
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "Lust Fragility",
-      "desc": "Take +{0}0% damage from Lust skills this turn. (Max 100%)",
-      "summary": "Lust damage taken +{0}0%"
+      "name": "Уязвимость к Похоти",
+      "desc": "Входящий урон от атак Похоти увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Похотью"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "Sloth Fragility",
-      "desc": "Take +{0}0% damage from Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth damage taken +{0}0%"
+      "name": "Уязвимость к Лени",
+      "desc": "Входящий урон от атак Лени увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Ленью"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "Gluttony Fragility",
-      "desc": "Take +{0}0% damage from Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony damage taken +{0}0%"
+      "name": "Уязвимость к Чревоугодию",
+      "desc": "Входящий урон от атак Чревоугодия увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Чревоугодием"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "Gloom Fragility",
-      "desc": "Take +{0}0% damage from Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom damage taken +{0}0%"
+      "name": "Уязвимость к Унынию",
+      "desc": "Входящий урон от атак Уныния увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Унынием"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "Pride Fragility",
-      "desc": "Take +{0}0% damage from Pride skills this turn. (Max 100%)",
-      "summary": "Pride damage taken +{0}0%"
+      "name": "Уязвимость к Гордыне",
+      "desc": "Входящий урон от атак Гордыни увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Гордыней"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Envy Fragility",
-      "desc": "Take +{0}0% damage from Envy skills this turn. (Max 100%)",
-      "summary": "Envy damage taken +{0}0%"
+      "name": "Уязвимость к Зависти",
+      "desc": "Входящий урон от атак Зависти увеличивается на {0}0% в этом ходу. (Макс. 100%)",
+      "summary": "+{0}0% входящего урона Завистью"
     },
     {
       "id": "LittleCourage",
-      "name": "A Sign",
-      "desc": "Sinclair’s determination to stand up to Kromer. Once three strokes have been drawn…",
-      "summary": "Sinclair’s Will"
+      "name": "Знак",
+      "desc": "Решимость Синклера противостоять Кромер. Как только три знака будут начерчены...",
+      "summary": "Воля Синклера"
     },
     {
       "id": "NailPersonality",
-      "name": "Nails",
-      "desc": "Unique Bleed\nTurn Start: Gain 1 Bleed and increase the Bleed Count by {0}.\nTurn End: Halve this effect’s Count. (Rounded down)",
-      "summary": "Gain 1 Bleed and add +{0} Bleed Count"
+      "name": "Гвозди",
+      "desc": "Уникальное Кровотечение.\nВ начале хода накладывает 1 Кровотечение и увеличивает его Счётчик на {0}.\nВ конце хода Счётчик сокращается вдвое (с округлением вниз).",
+      "summary": "Накладывает 1 Кровотечение и {0} его Счётчика"
     },
     {
       "id": "AssemblePersonality",
-      "name": "Fanatic",
-      "desc": "Skill Final Power +{0} against units with Nails for this turn. (Applies to clashes as well)",
-      "summary": "Final Power +{0}"
+      "name": "Фанатизм",
+      "desc": "+{0} к Итоговой Силе навыков против персонажей с Гвоздями в этом ходу. (Также работает и в Схватках)",
+      "summary": "+{0} к Итоговой Силе"
     },
     {
       "id": "MarkOfHeresy",
-      "name": "Gaze",
-      "desc": "Take +20% damage from Pierce and Blunt skills this turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is an 'N Corp. Fanatic', also apply 1 Fanatic next turn.",
-      "summary": "Pierce & Blunt damage taken +20%"
+      "name": "Взор",
+      "desc": "Входящий урон от Колющих и Дробящих атак увеличивается на 20% в этом ходу.\nКогда Грешник побеждает врага с этим эффектом, он восстанавливает 10 ПР.\nЕсли Грешник \"Фанатик Крыла N\", то на него дополнительно накладывается 1 Фанатизм в следующем ходу.",
+      "summary": "+20% входящего Колющего и Дробящего урона"
     },
     {
       "id": "HitResultUp",
-      "name": "Blunt Power Up",
-      "desc": "Blunt Skill Final Power +{0} for this turn.",
-      "summary": "Blunt Skill Final Power +{0}"
+      "name": "Увеличение Силы Дробящего",
+      "desc": "+{0} к Итоговой Силе Дробящих навыков в этом ходу.",
+      "summary": "+{0} к Итоговой Силе Дробящих навыков"
     },
     {
       "id": "WeaknessAnalysis",
