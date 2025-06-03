@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Увеличение Силы Атаки",
+      "name": "Увеличение силы атаки",
       "desc": "+{0} к Итоговой Силе атакующих навыков в этом ходу.",
       "summary": "+{0} к Итоговой Силе АТК навыков",
       "undefined": "-"
@@ -16,14 +16,14 @@
     },
     {
       "id": "Endurance",
-      "name": "Увеличение Силы Защиты",
+      "name": "Увеличение силы защиты",
       "desc": "+{0} к Итоговой Силе защитных навыков в этом ходу.",
       "summary": "+{0} к Итоговой Силе ЗЩТ навыков",
       "undefined": "-"
     },
     {
       "id": "Reduction",
-      "name": "Уменьшение Силы Атаки",
+      "name": "Уменьшение силы атаки",
       "desc": "-{0} к Итоговой Силе атакующих навыков в этом ходу.",
       "summary": "-{0} к Итоговой Силе АТК навыков",
       "undefined": "-"
@@ -105,7 +105,7 @@
     },
     {
       "id": "ResultEnhancement",
-      "name": "Увеличение Силы",
+      "name": "Увеличение силы навыков",
       "desc": "+{0} к Итоговой Силе навыков в этом ходу.",
       "summary": "+{0} к Итоговой Силе навыков"
     },
@@ -117,7 +117,7 @@
     },
     {
       "id": "AttackDmgUp",
-      "name": "Увеличение Урона",
+      "name": "Увеличение урона",
       "desc": "Наносит +{0}0% урона навыками в этом ходу. (Макс. 100%)",
       "summary": "+{0}0% наносимого урона"
     },
@@ -147,19 +147,19 @@
     },
     {
       "id": "Disarming",
-      "name": "Уменьшение Силы Защиты",
+      "name": "Уменьшение силы защиты",
       "desc": "-{0} к Итоговой Силе защитных навыков в этом ходу.",
       "summary": "-{0} к Итоговой Силе ЗЩТ навыков"
     },
     {
       "id": "ResultReduction",
-      "name": "Уменьшение Силы",
+      "name": "Уменьшение силы навыков",
       "desc": "-{0} к Итоговой Силе навыков в этом ходу.",
       "summary": "-{0} к Итоговой Силе навыков"
     },
     {
       "id": "AttackDmgDown",
-      "name": "Уменьшение Урона",
+      "name": "Уменьшение урона",
       "desc": "Наносит -{0}0% урона навыками в этом ходу. (Макс. 100%)",
       "summary": "-{0}0% наносимого урона"
     },
@@ -253,7 +253,7 @@
     {
       "id": "Nail",
       "name": "Гвозди Крыла N",
-      "desc": "В начале хода накладывается 1 Кровотечение и увеличивается Счётчик Кровотечения на {0}.\nВ конце хода уменьшается на 1.",
+      "desc": "В начале хода накладывается 1 Кровотечение и увеличивается Счётчик Кровотечения на {0}.\nВ конце хода Счётчик Гровздей Крыла N уменьшается на 1.",
       "summary": "Накладывает 1 Кровотечение и добавляет +{0} Счётчика Кровотечения"
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "id": "BloodPocket",
-      "name": "Кровавая Киста",
-      "desc": "При достижении определённой величины Счётчика использует усиленную атаку.",
+      "name": "Кровавая киста",
+      "desc": "При достижении определённого Значения использует усиленную атаку.",
       "summary": "Подготавливает мощную атаку"
     },
     {
@@ -313,7 +313,7 @@
     {
       "id": "DogThunder",
       "name": "Молнии",
-      "desc": "При достижении определённой величины Счётчика переходит в усиленную фазу.",
+      "desc": "При достижении определённого Значения переходит в усиленную фазу.",
       "summary": "Усиливается"
     },
     {
@@ -325,13 +325,13 @@
     {
       "id": "Operation",
       "name": "Пластика",
-      "desc": "Умирает при достижении 5 Счётчика.\nУменьшает максимальные ОЗ на 20% за каждый Счётчик ({0}).\nНаносит +{0}0% урона за каждый Счётчик ({0}).\nВ начале хода накладывает {0} Спешки.",
+      "desc": "Умирает при достижении 5 Значения. \nУменьшает максимальные ОЗ на 20% за каждое Значение ({0}).\nНаносит +{0}0% урона за каждое Значение ({0}).\nВ начале хода накладывается {0} Спешки.",
       "summary": "Умирает при 5 Счётчика"
     },
     {
       "id": "Emergency_Operation",
-      "name": "Кустарная Пластика",
-      "desc": "Умирает при достижении 5 Счётчика.\nУвеличивает максимальные ОЗ на 25% и Силу навыков на 1 за каждый Счётчик.\nВ начале хода Счётчик увеличивается на 1.",
+      "name": "Кустарная пластика",
+      "desc": "Умирает при достижении 5 Значения.\nУвеличивает максимальные ОЗ на 25% и Силу навыков на 1 за каждое Значение.\nВ начале хода Значение увеличивается на 1.",
       "summary": "Умирает при 5 Счётчика"
     },
     {
@@ -342,8 +342,8 @@
     },
     {
       "id": "PinkRibbon_Ishmael",
-      "name": "Розовые Ленты",
-      "desc": "Счётчик увеличивается на 1 каждый раз, когда происходит бросок Монеты атакующего навыка.\nВ конце хода накаладывается Медлительность, равная Счётчику, затем эффект заканчивается.",
+      "name": "Розовые ленты",
+      "desc": "Значение увеличивается на 1 каждый раз, когда происходит бросок Монеты атакующего навыка.\nВ конце хода накладывается Медлительность, равная Значению, после чего Розовые ленты сбрасываются.",
       "summary": "Накладывается {0} Медлительности"
     },
     {
@@ -372,17 +372,17 @@
     },
     {
       "id": "SlashResistUp",
-      "name": "Увеличение Защиты От Рубящего Урона",
+      "name": "Увеличение защиты от Рубящего Урона",
       "desc": "Уменьшает уязвимость к Рубящему урону на 0.{0}"
     },
     {
       "id": "PenetrateResistUp",
-      "name": "Увеличение Защиты От Колющего Урона",
+      "name": "Увеличение защиты от Колющего Урона",
       "desc": "Уменьшает уязвимость к Колющему урону на 0.{0}"
     },
     {
       "id": "HitResistUp",
-      "name": "Увеличение Защиты От Дробящего Урона",
+      "name": "Увеличение защиты от Дробящего Урона",
       "desc": "Уменьшает уязвимость к Дробящему урону на 0.{0}"
     },
     {
@@ -405,17 +405,17 @@
     },
     {
       "id": "SlashResistDown",
-      "name": "Уменьшение Защиты От Рубящего Урона",
+      "name": "Уменьшение защиты от Рубящего Урона",
       "desc": "Увеличивает уязвимость к Рубящему урону на 0.{0}"
     },
     {
       "id": "PenetrateResistDown",
-      "name": "Уменьшение Защиты От Колющего Урона",
+      "name": "Уменьшение защиты от Колющего Урона",
       "desc": "Увеличивает уязвимость к Колющему урону на 0.{0}"
     },
     {
       "id": "HitResistDown",
-      "name": "Уменьшение Защиты От Дробящего Урона",
+      "name": "Уменьшение защиты от Дробящего Урона",
       "desc": "Увеличивает уязвимость к Дробящему урону на 0.{0}"
     },
     {
@@ -438,37 +438,37 @@
     },
     {
       "id": "CrimsonResistDown",
-      "name": "Уменьшение Защиты От Урона Гревом",
+      "name": "Уменьшение защиты от Урона Гревом",
       "desc": "Увеличивает уязвимость к урону Гневом на 0.{0}"
     },
     {
       "id": "ScarletResistDown",
-      "name": "Уменьшение Защиты От Урона Похоти",
+      "name": "Уменьшение защиты от Урона Похотью",
       "desc": "Увеличивает уязвимость к урону Похотью на 0.{0}"
     },
     {
       "id": "AmberResistDown",
-      "name": "Уменьшение Защиты От Урона Ленью",
+      "name": "Уменьшение защиты от Урона Ленью",
       "desc": "Увеличивает уязвимость к урону Ленью на 0.{0}"
     },
     {
       "id": "ShamrockResistDown",
-      "name": "Уменьшение Защиты От Урона Чревоугодием",
+      "name": "Уменьшение защиты от Урона Чревоугодием",
       "desc": "Увеличивает уязвимость к урону Чревоугодием на 0.{0}"
     },
     {
       "id": "AzureResistDown",
-      "name": "Уменьшение Защиты От Урона Унынием",
+      "name": "Уменьшение защиты от Урона Унынием",
       "desc": "Увеличивает уязвимость к урону Унынием на 0.{0}"
     },
     {
       "id": "IndigoResistDown",
-      "name": "Уменьшение Защиты От Урона Гордыней",
+      "name": "Уменьшение защиты от Урона Гордыней",
       "desc": "Увеличивает уязвимость к урону Гордыней на 0.{0}"
     },
     {
       "id": "VioletResistDown",
-      "name": "Уменьшение Защиты От Урона Завистью",
+      "name": "Уменьшение защиты от Урона Завистью",
       "desc": "Увеличивает уязвимость к урону Завистью на 0.{0}"
     },
     {
@@ -594,11 +594,11 @@
       "id": "Curse",
       "name": "Проклятие",
       "desc": "В конце хода Счётчик снижается на 1 и накладывается один из следующих эффектов:\n1 Уменьшение Силы Атаки, 1 Уменьшение Силы Защиты, 2 Уменьшения Уровня Атаки, 2 Уменьшения Уровня Защиты.",
-      "summary": "Накладывается один негативный статус, затем Счётчик снижается на 1"
+      "summary": "Накладывается один негативный эффект, затем Счётчик снижается на 1"
     },
     {
       "id": "AttackDmgUp_Weak",
-      "name": "Weak-resist DMG Boost",
+      "name": "Усиление урона по слабостям",
       "desc": "Boost the damage of attacks against Weak resistances by {0}%",
       "summary": "+{0}% damage to Weak resistances"
     },
@@ -610,7 +610,7 @@
     },
     {
       "id": "Meursault_Last_Remodeling",
-      "name": "Последняя Операция",
+      "name": "Последняя операция",
       "desc": "В начале хода накладывается 3 Увеличения Силы Атаки, 3 Увеличения Силы Защиты 3 и Спешки.\nУмирает через {0} ходов."
     },
     {
@@ -674,7 +674,7 @@
     {
       "id": "Assemble",
       "name": "Фанатизм",
-      "desc": "+{0} к Итоговой Силе навыков против персонажей с Гвоздями в этом ходу. (Также работает и в Схватках)",
+      "desc": "В этом ходу навыки, применяемые против персонажей с Гвоздями, получают +{0} к Итоговой Силе. (Также работает и в Схватках)",
       "summary": "+{0} к Итоговой Силе"
     },
     {
@@ -696,12 +696,12 @@
     },
     {
       "id": "GreedyReady",
-      "name": "Опутывающие Желания",
-      "desc": "Через 0 ходов использует навык, который накладывает Пленение."
+      "name": "Опутывающие желания",
+      "desc": "Через {0} ходов использует навык, который накладывает Пленение."
     },
     {
       "id": "Decay",
-      "name": "Гниющая Кожа",
+      "name": "Гниющая кожа",
       "desc": "При ударе от противника, накладывает на него 3 Отравления.",
       "summary": "Накладывает 3 Отравления на атакующего"
     },
@@ -723,7 +723,7 @@
     },
     {
       "id": "Cromer_Ecstasy",
-      "name": "В Экстазе",
+      "name": "В экстазе",
       "desc": "Все уязвимости Пасти изменяются на Фатальные.",
       "summary": "Уменьшает защиту от физ. атак"
     },
@@ -739,8 +739,8 @@
     },
     {
       "id": "Perfected",
-      "name": "Идеальная Оболочка",
-      "desc": "В начале хода накладывается 2 Увеличения Силы Атаки на Руки. При достижении ОЗ Рук ниже 50% эффект заканчивается.",
+      "name": "Идеальная оболочка",
+      "desc": "В начале хода на Руки накладывается 2 Увеличения Силы Атаки. При достижении ОЗ Рук ниже 50% эффект заканчивается.",
       "summary": "Накладывается 2 Увеличения Силы Атаки"
     },
     {
@@ -756,13 +756,13 @@
     },
     {
       "id": "Whistle_Courage",
-      "name": "Храбрость, Перебарывающая Страх",
+      "name": "Храбрость, перебарывающая страх",
       "desc": "В начале хода накладывается 1 Увеличения Силы Атаки и 2 Стойкости.",
       "summary": "Накладывается 1 Увеличения Силы Атаки и 2 Стойкости"
     },
     {
       "id": "Whistle_Fear",
-      "name": "Устрашающий Свист",
+      "name": "Устрашающий свист",
       "desc": "В начале хода накладывается 1 Медлительности и 1 Паралича.",
       "summary": "Накладывается 1 Медлительности и 1 Паралича"
     },
@@ -889,13 +889,13 @@
     {
       "id": "LittleCourage",
       "name": "Знак",
-      "desc": "Решимость Синклера противостоять Кромер. Как только три знака будут начерчены...",
+      "desc": "<i>Решимость Синклера противостоять Кромер. Как только будут проведены три черты...</i>",
       "summary": "Воля Синклера"
     },
     {
       "id": "NailPersonality",
       "name": "Гвозди",
-      "desc": "Уникальное Кровотечение.\nВ начале хода накладывает 1 Кровотечение и увеличивает его Счётчик на {0}.\nВ конце хода Счётчик сокращается вдвое (с округлением вниз).",
+      "desc": "Особое Кровотечение.\nВ начале хода накладывает 1 Кровотечение и увеличивает его Счётчик на {0}.\nВ конце хода Счётчик Гвоздей сокращается вдвое (с округлением вниз).",
       "summary": "Накладывает 1 Кровотечение и {0} его Счётчика"
     },
     {
@@ -907,7 +907,7 @@
     {
       "id": "MarkOfHeresy",
       "name": "Взор",
-      "desc": "Входящий урон от Колющих и Дробящих атак увеличивается на 20% в этом ходу.\nКогда Грешник побеждает врага с этим эффектом, он восстанавливает 10 ПР.\nЕсли Грешник \"Фанатик Крыла N\", то на него дополнительно накладывается 1 Фанатизм в следующем ходу.",
+      "desc": "Входящий урон от Колющих и Дробящих навыков увеличивается на 20% в этом ходу.\nГрешник, одолевший врага с этим эффектом, восстанавливает 10 ПР.\nЕсли Грешник «Фанатик Крыла N», то на него также накладывается 1 Фанатизм в следующем ходу.",
       "summary": "+20% входящего Колющего и Дробящего урона"
     },
     {
@@ -918,14 +918,14 @@
     },
     {
       "id": "WeaknessAnalysis",
-      "name": "Weakness Analyzed",
+      "name": "Обнаружение слабостей",
       "desc": "A random “Endure” or “Normal” attack type resistance is weakened [+0.2 to damage multiplier] for this turn.",
       "summary": "Weaken [+0.2 dmg multi] an “Endured” or “Normal” resistance"
     },
     {
       "id": "Cycle",
       "name": "Карма",
-      "desc": "Входящий урон увеличивается на {0}%.\nВ конце хода умирает при достижении 108 Счётчика.",
+      "desc": "Входящий урон увеличивается на {0}%.\nВ конце хода умирает при достижении 108 Значения.",
       "summary": "Пассивный навык аномалии «Моя Форма Пустеет»"
     },
     {
@@ -942,14 +942,14 @@
     },
     {
       "id": "CyclingKarma",
-      "name": "Циклическая Карма",
+      "name": "Циклическая карма",
       "desc": "После успешной атаки персонажи переносят свою Карму на цель. \nКарма не передаётся аномалии «Моя Форма Пустеет», пока живы её союзники.",
       "summary": "Карма переносится при ударах"
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "Уменьшение Исцеления ОЗ",
-      "desc": "Исцеление ОЗ от пассивных эффектов, навыков и Монет снижается на -{0}0% в этом ходу (Макс. 5).",
+      "name": "Уменьшение исцеления ОЗ",
+      "desc": "Макс. значение: 5.\nИсцеление ОЗ от пассивных эффектов, навыков и Монет снижается на -{0}0% в этом ходу.",
       "summary": "Исцеление ОЗ -{0}0%"
     },
     {
@@ -966,14 +966,14 @@
     },
     {
       "id": "GainSinStockAdder",
-      "name": "Усиление Генерации ЭГО-ресурсов",
+      "name": "Усиление генерации ЭГО-ресурсов",
       "desc": "Увеличивает количество ЭГО-ресурсов, создаваемых при использовании навыков, на {0} в этом ходу. ",
       "summary": "+{0} к кол-ву получаемых ЭГО-ресурсов"
     },
     {
       "id": "Weak_Chicken",
-      "name": "Птичий Апокалипсис",
-      "desc": "Выразительная реакция на блюда, приготовленные Грешниками.\nТекущие ОЗ снижены на 40% от Макс. ОЗ.",
+      "name": "Птичий апокалипсис",
+      "desc": "Текущие ОЗ снижены на 40% от Макс. ОЗ.\n\n<i>Выразительная реакция на блюда, приготовленные Грешниками.</i>",
       "summary": "ОЗ -40%"
     },
     {
@@ -984,86 +984,86 @@
     },
     {
       "id": "DimensionRift",
-      "name": "Межпространственный Разлом",
+      "name": "Межпространственный разлом",
       "desc": "В конце хода Счётчик Разрыва увеличивается на {0}.",
       "summary": "Увеличивает Счётчик Разрыва"
     },
     {
       "id": "Scared",
-      "name": "Fear",
-      "desc": "Turn End: At -20 SP or lower, gain 1 Protection next turn.",
-      "summary": "Turn End: At -20 SP or lower, gain 1 Protection next turn."
+      "name": "Страх",
+      "desc": "В конце хода при -20 ПР или ниже, накладывается 1 Стойкости в следующем ходу.",
+      "summary": "В конце хода при -20 ПР или ниже, накладывается 1 Стойкости в следующем ходу."
     },
     {
       "id": "Stressed",
-      "name": "Stressed",
-      "desc": "Turn End: At -25 SP or lower, gain 1 Defense Power Up next turn",
-      "summary": "Turn End: At -25 SP or lower, gain 1 Defense Power Up next turn"
+      "name": "Стресс",
+      "desc": "В конце хода при -25 ПР или ниже, накладывается 1 Увеличение Силы Защиты в следующем ходу.",
+      "summary": "В конце хода при -25 ПР или ниже, накладывается 1 Увеличение Силы Защиты в следующем ходу."
     },
     {
       "id": "Nervous",
-      "name": "Nervous",
-      "desc": "Turn End: At -15 SP or lower, gain 5 Defense Level Up next turn",
-      "summary": "Turn End: At -15 SP or lower, gain 5 Defense Level Up next turn"
+      "name": "Тревожность",
+      "desc": "В конце хода при -15 ПР или ниже, накладывается 5 Увеличения Уровня Защиты в следующем ходу.",
+      "summary": "В конце хода при -15 ПР или ниже, накладывается 5 Увеличения Уровня Защиты в следующем ходу."
     },
     {
       "id": "ShardOfUmbrella",
-      "name": "Umbrella Splinters",
-      "desc": "Turn End: Gain {0} x 5 Rupture",
-      "summary": "Turn End: Gain {0} x 5 Rupture"
+      "name": "Впивающиеся осколки зонтов",
+      "desc": "В конце хода накладывается {0} x 5 Разрыва.",
+      "summary": "В конце хода накладывается {0} x 5 Разрыва."
     },
     {
       "id": "WrappedCurseTag",
-      "name": "Entangled Curse Talisman",
-      "desc": "Deal +{0}% damage\nAt 9+ Count, gain 2 Attack Power Down at turn start",
-      "summary": "Deal +{0}% damage; at 9+ Count, gain 2 Attack Power Down at turn start"
+      "name": "Откреплённый проклятый талисман",
+      "desc": "+{0}% к исходящему урону.\nВ начале хода при 9+ Значения накладывается 2 Уменьшения Силы Атаки.",
+      "summary": "+{0}% к исходящему урону.\nВ начале хода при 9+ Значения накладывается 2 Уменьшения Силы Атаки."
     },
     {
       "id": "ReattachedCurseTag",
-      "name": "Reattached Curse Talisman",
-      "desc": "At 9+, gain 5 Bind at the start of the turn.\nAt 12+, gain 5 Attack Power Down at the start of the turn.",
-      "summary": "At 9+, gain 5 Bind at the start of the turn.\nAt 12+, gain 5 Attack Power Down at the start of the turn."
+      "name": "Возвращённый проклятый талисман",
+      "desc": "В начале хода:\nПри 9+ Значения, накладывается 5 Медлительности.\nПри 12+ Значения, накладывается 5 Уменьшения Силы Атаки.",
+      "summary": "В начале хода:\nПри 9+ Значения, накладывается 5 Медлительности.\nПри 12+ Значения, накладывается 5 Уменьшения Силы Атаки."
     },
     {
       "id": "ElectricStorage",
-      "name": "Capacitor",
-      "desc": "It seems to be storing electricity in its body.",
+      "name": "Конденсатор",
+      "desc": "<i>Судя по всему, в теле накапливается электричество.</i>",
       "summary": "표시용"
     },
     {
       "id": "SelfCharge",
-      "name": "Self-charge",
-      "desc": "Electric currents seem to flow around its body.\nAfter the unit faces death, as long as it has Self-charge, its HP is fixed at 1 until it is fully consumed. (Max 20)",
+      "name": "Самозаряд",
+      "desc": "Макс. значение: 20.\nПока имеется этот эффект, после получения смертельного урона ОЗ не могут быть меньше 1.\n\n<i>Электрический ток проходит через всё тело.</i>",
       "summary": "표시용"
     },
     {
       "id": "Exalted",
-      "name": "Morale Boost",
-      "desc": "Gain {0} Damage Up every turn (Max 5)\nCannot gain the status while Tipsy",
-      "summary": "Gain Damage Up by the effect's Count every turn; Cannot gain the status while Tipsy"
+      "name": "Приподнятое настроение",
+      "desc": "Макс. значение: 5.\nНакладывается {0} Увеличения Урона каждый ход.\nНевозможно получить этот статус, имея «Опьянение».",
+      "summary": "Накладывается Увеличение Урона за Счётчик каждый ход.\nНевозможно получить этот статус, имея «Опьянение»."
     },
     {
       "id": "Tipsiness",
-      "name": "Tipsy",
-      "desc": "Clash Power -{0} (Max 5)",
-      "summary": "Lose Clash Power by the effect's Count"
+      "name": "Опьянение",
+      "desc": "Макс. значение: 5.\n-{0} к Силе в Схватке.",
+      "summary": "Теряет Силу в Схватке пропорционально Счётчику эффекта."
     },
     {
       "id": "Predation",
-      "name": "Predation",
-      "desc": "It seems to be preparing a powerful move.",
+      "name": "Хищничество",
+      "desc": "<i>Нам стоит готовится к усиленной атаке.</i>",
       "summary": "표시용"
     },
     {
       "id": "ATL_Agility",
-      "name": "Faster!",
-      "desc": "Gain 2 Haste",
+      "name": "Быстрее!",
+      "desc": "Накладывается 2 Спешки.",
       "summary": "표시용"
     },
     {
       "id": "ATL_Breath",
-      "name": "Aim True!",
-      "desc": "Gain 3 Poise",
+      "name": "Бей в цель!",
+      "desc": "Накладывается 3 Концентрации.",
       "summary": "표시용"
     },
     {
@@ -1074,20 +1074,20 @@
     },
     {
       "id": "ATL_EndureCombustion",
-      "name": "Burn Resistance",
-      "desc": "When taking damage from Burn, reduce the damage by {0}0% (Max 10)",
-      "summary": "When taking damage from Burn, take {0}0% less damage"
+      "name": "Сопротивление к Горению",
+      "desc": "Макс. значение: 10.\nУменьшает входящий урон от Горения на {0}0%.",
+      "summary": "Уменьшает входящий урон от Горения на {0}0%."
     },
     {
       "id": "Resonate",
-      "name": "Resonant",
-      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal {0} * 3 fixed damage and raise Stagger Threshold by {0} * 3%",
-      "summary": "When triggering Tremor Burst or raising Stagger Thresholds, deal damage and raise Stagger Threshold further"
+      "name": "Резонирование",
+      "desc": "При срабатывании Приступа Тремора или приближении Порога Оглушения, дополнительно наносится {0} * 3 чистого урона и приближается Порог Оглушения на {0} * 3%.",
+      "summary": "При срабатывании Приступа Тремора или приближении Порога Оглушения, дополнительно наносится чистый урон и приближается Порог Оглушения."
     },
     {
       "id": "VibrationAssimilation",
-      "name": "Tremor Sync",
-      "desc": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have",
+      "name": "Синхронизация с Тремором",
+      "desc": "В Схватке, за каждые 5 Тремора на цели, та получает -1 к Силе в Схватке.",
       "summary": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have"
     },
     {
@@ -1705,8 +1705,8 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Tremor Burst",
-      "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
+      "name": "Приступ Тремора",
+      "desc": "Приближает Порог Оглушения цели на значение, равное значению Тремора на цели."
     },
     {
       "id": "OneOnOneDuel",
@@ -1720,158 +1720,158 @@
     },
     {
       "id": "FreischutzShotCount",
-      "name": "Magic Bullet",
-      "desc": "- Max Value: 7\n- Value changes depending on certain Skill effects.\n- [Lobotomy E.G.O::Magic Bullet Outis Only]\n· Skill 3 Base Power +{0}\n· Skill 3 Coin Power +{1}"
+      "name": "Магическая пуля",
+      "desc": "Макс. значение: 7.\nЗначение меняется от различных навыков.\nДля Личности Утис “ЭГО «Лоботомии»: Магическая пуля”:\n+{0} к Начальной Силе Навыка 3;\n+{1} к Силе Монет Навыка 3."
     },
     {
       "id": "DarkFlame",
-      "name": "Dark Flame",
-      "desc": "- Unique Burn\n- Max Value: 7\n- Target Defense Level -{0}\n- Turn End: Deal ({0} x Burn on target) Pride Affinity damage, then expires"
+      "name": "Тёмное пламя",
+      "desc": "Особое Горение.\nМакс. значение: 7.\n-{0} к Уровню Защиты.\nВ конце хода наносится ({0} x значение Горения) урона Гордыней, после чего Тёмное пламя заканчивается."
     },
     {
       "id": "CtrlTeamCaptain",
-      "name": "Control Team Captain",
-      "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- When this unit defeats an enemy with a Skill, 2 allies(including this unit) with the least SP heal 25 SP. Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities"
+      "name": "Капитан Команды Контроля",
+      "desc": "+1 слот навыка.\nНабор навыков изменён: 2/2/2.\nКогда этот персонаж одолевает противника при помощи своего навыка:\n2 персонажа с наименьшими ПР (включая себя) восстанавливают 25 ПР;\nДаёт 1 ЭГО-ресурс всех Грехов и ещё 1 для соответствующего Греху навыка, при помощи которого был повержен противник."
     },
     {
       "id": "HeatedGasHarpoon",
-      "name": "Heated Gas Harpoon",
-      "desc": "This Turn: Inflict 1 Burn with Heads Hit"
+      "name": "Нагретый Газовый Гарпун",
+      "desc": "В этом ходу удары от Орлов накладывают 1 Горение."
     },
     {
       "id": "OverHeatedGasHarpoon",
-      "name": "Overheated Gas Harpoon",
-      "desc": "This Turn: inflict 1 Burn On Hit"
+      "name": "Перегретый Газовый Гарпун",
+      "desc": "В этом ходу удары накладывают 1 Горение."
     },
     {
       "id": "CoverAttack",
-      "name": "Assist Attack",
-      "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 1 against the same enemy Unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used as an Assist Attack does not affect Unit B's upcoming Skills list."
+      "name": "Вспомогательная Атака",
+      "desc": "Если Персонаж А использует этот эффект по отношению к Персонажу Б:\nПерсонаж Б использует Навык 1 для Односторонней атаки по той же цели, которую атаковал Персонаж А при помощи своего навыка.\nЭффект срабатывает по окончании атаки Персонажа А.\nСрабатывание данного эффекта не оказывает влияния на дальнейшую ротацию навыков Персонажа Б."
     },
     {
       "id": "ReCompulsion",
-      "name": "Reverse Compulsion",
-      "desc": "Heal 15 SP at every Turn Start"
+      "name": "Обратное Принуждение",
+      "desc": "В начале каждого хода восстанавливает 15 ПР."
     },
     {
       "id": "IndigoResultUp",
-      "name": "Pride Power Up",
-      "desc": "Pride Skill Final Power +{0} for this turn.",
-      "summary": "Pride Skill Final Power +{0}"
+      "name": "Увеличение Силы Гордыни",
+      "desc": "+{0} к Итоговой Силе навыков Гордыни в этом ходу.",
+      "summary": "+{0} к Итоговой Силе навыков Гордыни"
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "Sword of the Homeland - Rending",
-      "desc": "Skill 1 Final Power +{0} for this turn.",
-      "summary": "Skill 1 Final Power +{0}"
+      "name": "Меч Родины — Разящий",
+      "desc": "+{0} к Итоговой Силе Навыка 1 в этом ходу.",
+      "summary": "+{0} к Итоговой Силе Навыка 1"
     },
     {
       "id": "BladeResultUpTier2",
-      "name": "Sword of the Homeland - Penetrating",
-      "desc": "Skill 2 Final Power +{0} for this turn.",
-      "summary": "Skill 2 Final Power +{0}"
+      "name": "Меч Родины — Пронзающий",
+      "desc": "+{0} к Итоговой Силе Навыка 2 в этом ходу.",
+      "summary": "+{0} к Итоговой Силе Навыка 2"
     },
     {
       "id": "SwordPlayOfTheHomeland",
-      "name": "Swordplay of the Homeland",
-      "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% damage and deals +(50/# of Coins)% damage on Critical Hit",
-      "summary": "Enhance Skill when over a certain Poise threshold"
+      "name": "Фехтование, Стиль Родины",
+      "desc": "При 5+ значении Концентрации, Навыки 1 и 2 получают +(3/кол-во Монет, мин. 1) к Силе Монет и наносят +(30/кол-во Монет)% урона при критическом ударе.\nПри 7+ значении Концентрации, Навык 3 наносит +(30/кол-во Монет)% урона при использовании, а также +(50/кол-во Монет)% урона при критическом ударе.",
+      "summary": "Усиляет навыки при достаточной Концентрации"
     },
     {
       "id": "SwordPlayOfTheMemorial",
-      "name": "Remembrance",
-      "desc": "When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\nWhen at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% damage and deals +(50/# of Coins)% damage on Critical Hit",
-      "summary": "Enhance Skill when over a certain Poise threshold"
+      "name": "Светлая Память",
+      "desc": "При 5+ значении Концентрации, Навыки 1 и 2 получают +(3/кол-во Монет, мин. 1) к Силе Монет и наносят +(30/кол-во Монет)% урона при критическом ударе.\nПри 7+ значении Концентрации, Навык 3 наносит +(30/кол-во Монет)% урона при использовании, а также +(50/кол-во Монет)% урона при критическом ударе.",
+      "summary": "Усиляет навыки при достаточной Концентрации"
     },
     {
       "id": "RedApricotBlossom",
-      "name": "Red Plum Blossom",
-      "desc": "- Unique Bleed\n- Max value: 10\n- +10% chance for this unit to be Critically Hit if this unit is the main target\n- When struck by a Critical Hit, gain Bleed equal to the half of the value and take +({0} x 3)% damage on Critical Hit\n- Reduce value by 1 when hit",
+      "name": "Цветение Красной Сливы",
+      "desc": "Особое Кровотечение.\nМакс. значение: 10.\n+10% к шансу критической атаки по персонажу, если данный персонаж является основной целью.\nПри получении критического урона накладывается Кровотечение, равное половине значения эффекта и дополнительно наносится на ({0} x 3)% урона.\nПри ударе от чужой Монеты значение снижается на 1.",
       "summary": "Higher chance to be Critically Hit; take more damage upon Critical Hit"
     },
     {
       "id": "ShamrockResultUp",
-      "name": "Gluttony Power Up",
-      "desc": "Gluttony Skill Final Power +{0} for this turn.",
-      "summary": "Gluttony Skill Final Power +{0}"
+      "name": "Увеличение Силы Чревоугодия",
+      "desc": "+{0} к Итоговой Силе навыков Чревоугодия в этом ходу.",
+      "summary": "+{0} к Итоговой Силе навыков Чревоугодия"
     },
     {
       "id": "ScarletResultUp",
-      "name": "Lust Power Up",
-      "desc": "Lust Skill Final Power +{0} for this turn.",
-      "summary": "Lust Skill Final Power +{0}"
+      "name": "Увеличение Силы Похоти",
+      "desc": "+{0} к Итоговой Силе навыков Похоти в этом ходу.",
+      "summary": "+{0} к Итоговой Силе навыков Похоти"
     },
     {
       "id": "AzureResultUp",
-      "name": "Gloom Power Up",
-      "desc": "Gloom Skill Final Power +{0} for this turn.",
-      "summary": "Gloom Skill Final Power +{0}"
+      "name": "Увеличение Силы Уныния",
+      "desc": "+{0} к Итоговой Силе навыков Уныния в этом ходу.",
+      "summary": "+{0} к Итоговой Силе навыков Уныния"
     },
     {
       "id": "HitResultDown",
-      "name": "Blunt Power Down",
-      "desc": "Blunt Skill Final Power -{0} for this turn.",
-      "summary": "Blunt Skill Final Power -{0}"
+      "name": "Уменьшение Силы Дробящего",
+      "desc": "-{0} к Итоговой Силе Дробящих навыков в этом ходу.",
+      "summary": "-{0} к Итоговой Силе Дробящих навыков"
     },
     {
       "id": "PenetrateResultDown",
-      "name": "Pierce Power Down",
-      "desc": "Pierce Skill Final Power -{0} for this turn.",
-      "summary": "Pierce Skill Final Power -{0}"
+      "name": "Уменьшение Силы Колющего",
+      "desc": "-{0} к Итоговой Силе Колющих навыков в этом ходу.",
+      "summary": "-{0} к Итоговой Силе Колющих навыков"
     },
     {
       "id": "SlashResultDown",
-      "name": "Slash Power Down",
-      "desc": "Slash Skill Final Power -{0} for this turn.",
-      "summary": "Slash Skill Final Power -{0}"
+      "name": "Уменьшение Силы Рубящего",
+      "desc": "-{0} к Итоговой Силе Рубящих навыков в этом ходу.",
+      "summary": "-{0} к Итоговой Силе Рубящих навыков"
     },
     {
       "id": "CrimsonResultDown",
-      "name": "Wrath Power Down",
-      "desc": "Wrath Skill Final Power -{0} for this turn",
-      "summary": "Wrath Skill Final Power -{0}"
+      "name": "Уменьшение Силы Гнева",
+      "desc": "-{0} к Итоговой Силе навыков Гнева в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Гнева"
     },
     {
       "id": "ScarletResultDown",
-      "name": "Lust Power Down",
-      "desc": "Lust Skill Final Power -{0} for this turn.",
-      "summary": "Lust Skill Final Power -{0}"
+      "name": "Уменьшение Силы Похоти",
+      "desc": "-{0} к Итоговой Силе навыков Похоти в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Похоти"
     },
     {
       "id": "ShamrockResultDown",
-      "name": "Gluttony Power Down",
-      "desc": "Gluttony Skill Final Power -{0} for this turn.",
-      "summary": "Gluttony Skill Final Power -{0}"
+      "name": "Уменьшение Силы Чревоугодия",
+      "desc": "-{0} к Итоговой Силе навыков Чревоугодия в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Чревоугодия"
     },
     {
       "id": "AmberResultDown",
-      "name": "Sloth Power Down",
-      "desc": "Sloth Skill Final Power -{0} for this turn",
-      "summary": "Sloth Skill Final Power -{0}"
+      "name": "Уменьшение Силы Лени",
+      "desc": "-{0} к Итоговой Силе навыков Лени в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Лени"
     },
     {
       "id": "AzureResultDown",
-      "name": "Gloom Power Down",
-      "desc": "Gloom Skill Final Power -{0} for this turn.",
-      "summary": "Gloom Skill Final Power -{0}"
+      "name": "Уменьшение Силы Уныния",
+      "desc": "-{0} к Итоговой Силе навыков Уныния в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Уныния"
     },
     {
       "id": "IndigoResultDown",
-      "name": "Pride Power Down",
-      "desc": "Pride Skill Final Power -{0} for this turn.",
-      "summary": "Pride Skill Final Power -{0}"
+      "name": "Уменьшение Силы Гордыни",
+      "desc": "-{0} к Итоговой Силе навыков Гордыни в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Гордыни"
     },
     {
       "id": "VioletResultDown",
-      "name": "Envy Power Down",
-      "desc": "Envy Skill Final Power -{0} for this turn.",
-      "summary": "Envy Skill Final Power -{0}"
+      "name": "Уменьшение Силы Зависти",
+      "desc": "-{0} к Итоговой Силе навыков Зависти в этом ходу.",
+      "summary": "-{0} к Итоговой Силе навыков Зависти"
     },
     {
       "id": "VibrationCollapse",
-      "name": "Tremor - Decay",
-      "desc": "Lose 1 Defense Level for every 4 Tremor Potency on self\nFor {1} turns: when Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by {0}\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)",
-      "summary": "Lose 1 Defense Level for every 4 Tremor Potency on self\nRaise Stagger Threshold by {0}"
+      "name": "Тремор — Разложение",
+      "desc": "-1 к Уровню Защиты за каждые 4 значения Тремора.\nСледующие {1} ходов при срабатывании Приступа Тремора, приближает Порог Оглушения на {0} (Эффекты, влияющие на значение/Счётчик Тремора, работают так же, как и с обыкновенным Тремором).",
+      "summary": "-1 к Уровню Защиты за каждые 4 значения Тремора\nПриближает Порог Оглушения на {0}"
     },
     {
       "id": "EchoOfMansion",

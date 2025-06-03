@@ -2,38 +2,38 @@
   "dataList": [
     {
       "id": "ExaminationOfQiu",
-      "name": "Проблеск надежды",
-      "desc": "Он не бьётся в полную силу:\n-35 к Начальному Уровню Нападения\n-35 к Начальному Уровню Защиты\nИсходящий урон Односторонними атаками увеличивается на 30%.",
+      "name": "Малоприметное предвосхищение",
+      "desc": "Он не бьётся в полную силу:\n-35 к Базовому Уровню Атаки\n-35 к Базовому Уровню Защиты\nИсходящий урон Односторонними атаками увеличивается на 30%.",
       "summary": ""
     },
     {
       "id": "BurstStop",
-      "name": "Deathrite 【Halt】",
-      "desc": "Base Stack: 4\n- Deathrite\n- When getting Rupture triggered while this unit has 3+ Bind, lose 1 Stack\n- When losing Stacks, raise this unit's Stagger Threshold by 10\n- At 0 Stack, raise this unit's Stagger Threshold by Rupture Potency on self, then expires\n- ※ Cannot gain additional Stacks of this effect while it is already active",
+      "name": "Приговор: Утомление",
+      "desc": "Приговор.\nБазовое значение: 4.\nПри 3+ Медлительности и срабатывании Разрыва на себе, Значение уменьшается на 1.\nПри уменьшении Значения, повышает Порог Оглушения на 10.\nПри нулевом Значении повышает Порог Оглушения на Значение Разрыва и сбрасывается.\n※ Этот эффект не накладывается, если уже находится на цели.",
       "summary": ""
     },
     {
       "id": "BurstSuppress",
-      "name": "Deathrite 【Impede】",
-      "desc": "Base Stack: 10\n- Deathrite\n- When this unit loses other Deathrites' Stacks due to their conditions, lose 1 Stack (max 4 per turn)\n- At 0 Stack, gain 6 Offense Level Down for the next turn, then expires\n- ※ Cannot gain additional Stacks of this effect while it is already active",
+      "name": "Приговор: Прекращение",
+      "desc": "Приговор.\nБазовое значение: 10.\nПри уменьшении Значения других Приговоров на себе, уменьшает своё Значение на 1 (до 4 раз за ход).\nПри нулевом Значении накладывает 6 Уменьшения Уровня Атаки на следующий ход и сбрасывается.\n※ Этот эффект не накладывается, если уже находится на цели.",
       "summary": ""
     },
     {
       "id": "BurstWave",
-      "name": "Deathrite 【Wane】",
-      "desc": "Base Stack: 10\n- Deathrite\nWhen the unit that inflicted this effect triggers Rupture, lose 1 Stack\n- Also lose 1 Stack of a random Deathrite on self, except for this Deathrite\n- At 0 Stack, expires\n- ※ Cannot gain additional Stacks of this effect while it is already active",
+      "name": "Приговор: Угасание",
+      "desc": "Приговор.\nБазовое значение: 10.\nПри срабатывании Разрыва персонажем, который наложил этот эффект, уменьшает своё Значение и Значение другого Приговора на 1.\nПри нулевом Значении сбрасывается.\n※ Этот эффект не накладывается, если уже находится на цели.",
       "summary": ""
     },
     {
       "id": "Teaching",
-      "name": "Dialogues",
-      "desc": "Max Stack: 3\n- Turn End: heal 5 SP\n- When HP drops to 0 during the Encounter, heal up to max HP (activates as many times as this unit has Stacks)\n- Activated: {0} time(s)",
+      "name": "Диалоги",
+      "desc": "Макс. значение: 3.\nВ конце хода восстанавливает 5 ПР.\nПри получении смертельного урона теряет 1 Значение и полностью исцеляется.\n<color=#5bffde>Использовано: {0}</color>",
       "summary": ""
     },
     {
       "id": "BurstWeakness",
-      "name": "Deathrite 【Enfeeble】",
-      "desc": "Base Stack: 5\n- Deathrite\n- If the target's Speed is faster than this unit's, and if the Speed difference 5 or greater: when getting Rupture triggered, lose 1 Stack\n- When losing Stacks, gain 1 Defense Level Down next turn (once per turn)\n- At 0 Stack, gain 3 Defense Level Down and 1 Bind next turn, then expires\n- ※ Cannot gain additional Stacks of this effect while it is already active",
+      "name": "Приговор: Ослабление",
+      "desc": "Приговор.\nБазовое значение: 5.\nЕсли Скорость персонажа с этим эффектом меньше на 5+, чем Скорость его цели и срабатывании Разрыва на себе, Значение уменьшается на 1.\nПри уменьшении Значения, накладывает 1 Уменьшения Уровня Защиты на следующий ход (раз в ход).\nПри нулевом Значении накладывает 3 Уменьшения Уровня Защиты, 1 Медлительности и сбрасывается.\n※ Этот эффект не накладывается, если уже находится на цели.",
       "summary": ""
     },
     {
