@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Повышение силы атаки",
+      "name": "Увеличение Силы Атаки",
       "desc": "+{0} к Итоговой Силе атакующих навыков в этом ходу.",
       "summary": "+{0} к Итоговой Силе АТК навыков",
       "undefined": "-"
@@ -377,8 +377,8 @@
     },
     {
       "id": "PenetrateResistUp",
-      "name": "Увеличение Защиты От Колящего Урона",
-      "desc": "Уменьшает уязвимость к Колящему урону на 0.{0}"
+      "name": "Увеличение Защиты От Колющего Урона",
+      "desc": "Уменьшает уязвимость к Колющему урону на 0.{0}"
     },
     {
       "id": "HitResistUp",
@@ -393,8 +393,8 @@
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "Увеличение Колящего Урона",
-      "desc": "+{0}0% к урону Колящих навыков в этом ходу. (Макс. 100%)",
+      "name": "Увеличение Колющего Урона",
+      "desc": "+{0}0% к урону Колющих навыков в этом ходу. (Макс. 100%)",
       "summary": "+{0}0% к Колющему урону"
     },
     {
@@ -410,8 +410,8 @@
     },
     {
       "id": "PenetrateResistDown",
-      "name": "Уменьшение Защиты От Колящего Урона",
-      "desc": "Увеличивает уязвимость к Колящему урону на 0.{0}"
+      "name": "Уменьшение Защиты От Колющего Урона",
+      "desc": "Увеличивает уязвимость к Колющему урону на 0.{0}"
     },
     {
       "id": "HitResistDown",
@@ -426,8 +426,8 @@
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "Уменьшение Колящего Урона",
-      "desc": "-{0}0% к урону Колящих навыков в этом ходу. (Макс. 100%)",
+      "name": "Уменьшение Колющего Урона",
+      "desc": "-{0}0% к урону Колющих навыков в этом ходу. (Макс. 100%)",
       "summary": "-{0}0% к Колющему урону"
     },
     {
@@ -924,33 +924,33 @@
     },
     {
       "id": "Cycle",
-      "name": "Karma",
-      "desc": "Take +{0}% damage. Turn End: Die at 108+ Count.",
-      "summary": "My Form Empties’ Passive"
+      "name": "Карма",
+      "desc": "Входящий урон увеличивается на {0}%.\nВ конце хода умирает при достижении 108 Счётчика.",
+      "summary": "Пассивный навык аномалии «Моя Форма Пустеет»"
     },
     {
       "id": "Duress",
-      "name": "Captivity",
-      "desc": "Become Staggered for 3 turns.\nTurn Start: If Kqe-1j-23 is Staggered, remove this status.",
-      "summary": "Kqe’s Passive"
+      "name": "Захват",
+      "desc": "Оглушается на 3 хода. \nВ начале хода если «Kqe-1j-23» оглушён, эффект заканчивается.",
+      "summary": "Пассивный навык аномалии «Kqe-1j-23»"
     },
     {
       "id": "VioletResultUp",
-      "name": "Envy Power Up",
-      "desc": "Envy Skill Final Power +{0} for this turn.",
-      "summary": "Envy Skill Final Power +{0}"
+      "name": "Увеличение Силы Зависти",
+      "desc": "+{0} к Итоговой Силе навыков Зависти в этом ходу.",
+      "summary": "+{0} к Итоговой Силе навыков Зависти"
     },
     {
       "id": "CyclingKarma",
-      "name": "Cyclical Karma",
-      "desc": "All units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
-      "summary": "Karma transfers on hit"
+      "name": "Циклическая Карма",
+      "desc": "После успешной атаки персонажи переносят свою Карму на цель. \nКарма не передаётся аномалии «Моя Форма Пустеет», пока живы её союзники.",
+      "summary": "Карма переносится при ударах"
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "HP Healing Down",
-      "desc": "Heal -{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
-      "summary": "HP Healing -{0}0%"
+      "name": "Уменьшение Исцеления ОЗ",
+      "desc": "Исцеление ОЗ от пассивных эффектов, навыков и Монет снижается на -{0}0% в этом ходу (Макс. 5).",
+      "summary": "Исцеление ОЗ -{0}0%"
     },
     {
       "id": "AttackLevelAdder",
@@ -966,15 +966,15 @@
     },
     {
       "id": "GainSinStockAdder",
-      "name": "E.G.O Resource Amp",
-      "desc": "Gain +{0} E.G.O resources from using skills this turn.",
-      "summary": "+{0} E.G.O resource gain"
+      "name": "Усиление Генерации ЭГО-ресурсов",
+      "desc": "Увеличивает количество ЭГО-ресурсов, создаваемых при использовании навыков, на {0} в этом ходу. ",
+      "summary": "+{0} к кол-ву получаемых ЭГО-ресурсов"
     },
     {
       "id": "Weak_Chicken",
-      "name": "Poultry Apocalypse",
-      "desc": "The reaction wrought by the Sinners’ cooking. Loses HP by 40% of Max HP.",
-      "summary": "HP -40%"
+      "name": "Птичий Апокалипсис",
+      "desc": "Выразительная реакция на блюда, приготовленные Грешниками.\nТекущие ОЗ снижены на 40% от Макс. ОЗ.",
+      "summary": "ОЗ -40%"
     },
     {
       "id": "Strong_Chicken",
@@ -984,9 +984,9 @@
     },
     {
       "id": "DimensionRift",
-      "name": "Dimensional Rift",
-      "desc": "Turn End: Gain +{0} Rupture Count",
-      "summary": "Increase Rupture Count"
+      "name": "Межпространственный Разлом",
+      "desc": "В конце хода Счётчик Разрыва увеличивается на {0}.",
+      "summary": "Увеличивает Счётчик Разрыва"
     },
     {
       "id": "Scared",

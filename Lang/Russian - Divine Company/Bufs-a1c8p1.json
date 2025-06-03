@@ -2,22 +2,22 @@
   "dataList": [
     {
       "id": "TheDrifter_LowMorale",
-      "name": "Podao",
-      "desc": "- Low Morale\n- Take +10% damage from Unopposed Attacks; deal +30% damage with Counterattacks",
+      "name": "Пудао",
+      "desc": "Низкий Рассудок:\nВходящий урон от Односторонних атак увеличивается на 10%.\nИсходящий урон от Контратак увеличивается на 30%.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TheDrifter_Panic",
-      "name": "Podao",
-      "desc": "- Panic\n- Take +20% damage from Unopposed Attacks; deal +50% damage with Counterattacks",
+      "name": "Пудао",
+      "desc": "Паника:\nВходящий урон от Односторонних атак увеличивается на 20%.\nИсходящий урон от Контратак увеличивается на 50%.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SipOfAlcohol",
-      "name": "Swig",
-      "desc": "- Max Stack :5\n- Turn End: at 3 Stack, heal 3% HP (Core, Part)\n- Turn End: at 5 Stack, gain 3 Attack Power Up and 2 Fragile next turn",
+      "name": "Глоток Спиртного",
+      "desc": "Макс. значение: 5\nВ конце хода:\nПри значении 3+, исцеляется на 3% ОЗ (Ядро и Части Тела)\nПри значении 5+, накладывается 3 Повышения Силы Атаки и 2 Хрупкости в следующем ходу",
       "summary": "",
       "undefined": "-"
     }
