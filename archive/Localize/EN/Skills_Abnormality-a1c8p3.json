@@ -142,7 +142,7 @@
         {
           "level": 1,
           "name": "Blasting Shatterslash [爆碎斬]",
-          "desc": "Prioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 3)",
+          "desc": "Prioritizes targets with [Prey]\nCan clash with this Skill regardless of Speed\nCoin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 3)\n[DefeatDuel] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -211,7 +211,7 @@
         {
           "level": 1,
           "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stack, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 5)\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stack, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 5)\n[DefeatDuel] Gain 4 [ResultReduction]\n[DefeatDuel] Gain 1 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
           "coinlist": [
             {
               "coindescs": [
@@ -242,7 +242,7 @@
         {
           "level": 1,
           "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
-          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 4)\n- ... 25 Stack, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 6)\n- ... 50 Stack, Coin Power +1 and deal +50% damage\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "desc": "Prioritizes targets with [Prey]\nCan Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stack , gain Atk Weight +1 for every 10 Stack consumed (max 4)\n- ... 25 Stack, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 6)\n- ... 50 Stack, Coin Power +1 and deal +50% damage\n[DefeatDuel] Gain 2 [ResultReduction]\n[DefeatDuel] Gain 6 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
           "coinlist": [
             {
               "coindescs": [
@@ -332,7 +332,7 @@
         {
           "level": 1,
           "name": "Reloading Tiantui Star's Blade",
-          "desc": "[DuelCounter]\n[WhenUse] Heal 10 SP\n- At less than 0 SP, heal 5 additional SP\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
+          "desc": "[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -569,7 +569,7 @@
         {
           "level": 1,
           "name": "Spiral Warp Field",
-          "desc": "[DuelGuard]\n[StartBattle] Jia Huan and Gubo gain 30 Shield\n[WinDuel] Jia Huan and Gubo gain 30 Shield",
+          "desc": "[CanDuelGuard]\n[StartBattle] Jia Huan and Gubo gain 30 Shield\n[WinDuel] Jia Huan and Gubo gain 30 Shield",
           "coinlist": [
             {
               "coindescs": [
@@ -986,7 +986,7 @@
         {
           "level": 1,
           "name": "Completed Heixian Bolus - You [酉] - Defense",
-          "desc": "[WhenUse] If target has 5+ (sum of [Laceration] + [Burst]), Coin Power +2\n[WhenUse] Heal 8 SP\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count",
+          "desc": "[CanDuelGuard]\n[WhenUse] If target has 5+ (sum of [Laceration] + [Burst]), Coin Power +2\n[WhenUse] Heal 8 SP\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1156,9 +1156,15 @@
         {
           "level": 1,
           "name": "Nothing But a Meaningless Struggle...!",
-          "desc": "[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 3)\n[WinDuel] Inflict +1 [Burst] Count, inflict 2 [DefenseDown]",
+          "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu heals 15 SP. At 0 SP, heal 30 SP instead.",
           "coinlist": [
-            {}
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
           ]
         }
       ]
@@ -1339,7 +1345,7 @@
         {
           "level": 1,
           "name": "An Offering of Extreme Extracted Immortality [極仙榨滴供養]",
-          "desc": "[CantIdentify]\nThis Skill cannot deal damage to allies\n[WhenUse] Coin Power +2 and deal +20% damage for every 1 ally with [SupremeEternalLife]\n[WhenUse] If there aren't any allies with [SupremeEternalLife], apply 200 Shield to all targets\n[EndSkill] Ends turn",
+          "desc": "[CantIdentify]\nThis Skill cannot deal damage to allies\nCan Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n[WhenUse] Coin Power +2 and deal +20% damage for every 1 ally with [SupremeEternalLife]\n[WhenUse] If there aren't any allies with [SupremeEternalLife], apply 200 Shield to all targets\n[EndSkill] Ends turn",
           "coinlist": [
             {
               "coindescs": [
@@ -1548,9 +1554,11 @@
         {
           "level": 1,
           "name": "Nothing But a Meaningless Struggle...!",
-          "desc": "[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 3)\n[WinDuel] Inflict +1 [Burst] Count, inflict 2 [DefenseDown]",
+          "desc": "[CanDuelGuard]\n[WhenUse] Coin Power +1 for every 5 (sum of [Laceration] and [Burst] on target) (max 3)\n[WinDuel] Inflict +1 [Burst] Count, inflict 2 [DefenseDown]",
           "coinlist": [
-            {}
+            {
+              "desc": "[SuperCoin]"
+            }
           ]
         }
       ]
