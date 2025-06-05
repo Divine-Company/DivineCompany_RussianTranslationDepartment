@@ -2602,29 +2602,29 @@
     },
     {
       "id": "WaitingXichun",
-      "name": "Ready [待]",
-      "desc": "- Max Stack: 3\n- Number of turns this unit spent in Retreat or as a Backup unit",
+      "name": "Дай (Выжидание)",
+      "desc": "Макс. значение: 3.\nКоличество ходов, которые этот персонаж провёл в Отступлении или в Запасе.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "StartXichun",
-      "name": "Launcher [始]",
-      "desc": "- Max Stack: 6\n- Number of turns this unit spent active in the Encounter\n- Expires upon Retreat\n- Gain 1 Stack at Turn End",
+      "name": "Ши (Подготовка)",
+      "desc": "Макс. значение: 6.\nКоличество ходов, которые этот персонаж провёл на поле боя.\nВ конце хода получает 1 Значение.\nСбрасывается при Отступлении.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "CheerUpXichun",
-      "name": "Assist [援]",
-      "desc": "- Max Stack: 1\n- If target has 5+ types of negative effects, Clash Power +1, deal +10% damage",
+      "name": "Юань (Подмога)",
+      "desc": "Макс. значение: 1.\nЕсли на цели есть больше пять негативных эффектов, +1 к Силе в Схватке и наносимый урон увеличивается на 10%.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RetreatForCommon",
-      "name": "Battlefield Retreat",
-      "desc": "- Turn End: recover from Stagger and Retreat from the Encounter (unless it's a forced Stagger; does not count as death)\n· In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order (escape from the Encounter entirely if there are no other Backup Units remaining to swap places with next turn. When returning to battle, return in the order they retreated in)\n· When returning to battle, return with the same amount of HP and SP this unit had when it retreated, and eliminate all effects on self save for a select few (if this unit had less than 0 SP when retreating, reset SP to 0 instead)",
+      "name": "Отступление с поля боя",
+      "desc": "В конце хода восстанавливается от Оглушения и Отступает с поля боя (Если это не системное Оглушение. Не считается смертью).\nВ Цепных Битвах, передаёт слоты навыков Вступившему персонажу и встаёт в конец цепочки Резерва (Сбегает из боя, если персонажей в Резерве не осталось. При возвращении в бой, Отступившие возвращаются в порядке, в котором они Отступили)\nВозвращаясь, сохраняет значения ОЗ и ПР (если они были больше нуля, в ином случае обнуляется), которые были при Отступлении и сбрасывает все эффекты, кроме исключений.",
       "summary": "",
       "undefined": "-"
     }

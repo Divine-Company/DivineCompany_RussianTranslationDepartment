@@ -1251,6 +1251,375 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Багряный выпад",
+          "desc": "[WhenUse] При наличии на цели 5+ негативных статусов, получает 1 Силу в Схватке\n[WinDuel] Получает 1 [Breath:`Концентрацию`] и 1 Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 1 [AttackUp:`Увеличение Уровня Атаки`] на следующий ход (один раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Багряный выпад",
+          "desc": "[WhenUse] При наличии на цели 5+ негативных статусов, получает 1 Силу в Схватке\n<style=\"highlight\">[WhenUse] Получает 1 Силу Монет за каждые 3 [Burst:`Разрыва`] на цели</style>\n[WinDuel] Получает 2 [Breath:`Концентрации`] и 1 Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 1 [AttackUp:`Увеличение Уровня Атаки`] на следующий ход (один раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Багряный выпад",
+          "desc": "[WhenUse] При наличии на цели 5+ негативных статусов, получает 1 Силу в Схватке\n[WhenUse] Получает 1 Силу Монет за каждые 3 [Burst:`Разрыва`] на цели <style=\"highlight\">(Макс. 2)</style>\n[WinDuel] Получает <style=\"highlight\">3</style> [Breath:`Концентрации`] и <style=\"highlight\">2</style> Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 1 [AttackUp:`Увеличение Уровня Атаки`] на следующий ход (<style=\"highlight\">два раза</style> за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Багряный Феникс",
+          "desc": "[WhenUse] При наличии на цели 5+ негативных статусов, получает 1 Силу в Схватке",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (Макс. 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (Макс. 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (20 + [Breath:`Концентрации`] + [Burst:`Разрыва`] на цели)% больше урона при критическом ударе (Макс. 50%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Багряный Феникс",
+          "desc": "[WhenUse] При наличии на цели 5+ негативных статусов, получает 1 Силу в Схватке",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [DefenseDown] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [DefenseDown] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (Макс. 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (Макс. 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (20 + [Breath:`Концентрации`] + [Burst:`Разрыва`] на цели)% больше урона при критическом ударе (Макс. 50%)"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Получает 3 [AttackUp:`Увеличения Уровня Атаки`] на следующий ход (один раз за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Багряный Феникс",
+          "desc": "[WhenUse] При наличии на цели 5+ негативных статусов, получает 1 Силу в Схватке\n<style=\"highlight\">[WhenUse] При наличии на цели 4+ [Burst:`Разрыва`] , получает 1 Силу в Схватке</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Накладывает <style=\"highlight\">2</style> [DefenseDown:`Уменьшения Уровня Защиты`] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Накладывает <style=\"highlight\">2</style> [DefenseDown:`Уменьшения Уровня Защиты`] на следующий ход"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (Макс. 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (Макс. 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на (20 + [Breath:`Концентрации`] + [Burst:`Разрыва`] на цели)% больше урона при критическом ударе (Макс. 50%)"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Получает 3 [AttackUp:`Увеличения Уровня Атаки`] на следующий ход (один раз за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Багряное Цветение",
+          "desc": "[BeforeAttack] При наличии на основной цели 6+ негативных статусов, получает 1 Кол-во целей\n[WhenUse] Получает 2 Силы Монет за каждые 3 различных негативных статуса на основной цели (Макс. 4)\n[WhenUse] Получает 1 Силу Монет за каждые 7 ([Burst:`Разрыва`] + Счётчика [Burst:`Разрыва`] на основной цели) (Макс. 3)\n[WinDuel] Получает 4 [Breath:`Концентрации`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Наносит на (20 + [Breath:`Концентрации`] + [Burst:`Разрыва`] на оснорвной цели)% больше урона при критическом ударе (Макс. 40%)"
+                },
+                {
+                  "desc": "Наносит на (45 + [Breath:`Концентрации`] + [Burst:`Разрыва`] на оснорвной цели)% больше урона при критическом ударе (Макс. 65%)"
+                },
+                {
+                  "desc": "Наносит на 5% больше урона при критическом ударе за каждый [StartXichun] (Макс. 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 2 [Breath:`Концентрации`] и 1 Счётчика [Breath:`Концентрации`]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Получает 2 Счётчика [Breath:`Концентрации`] (три раза за ход)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Багряное Цветение",
+          "desc": "[BeforeAttack] При наличии на основной цели <style=\"highlight\">6+</style> негативных статусов, получает 1 Кол-во целей\n<style=\"highlight\">[BeforeAttack] При 3+ [StartXichun], получает 1 Кол-во целей</style>\n[WhenUse] Получает 2 Силы Монет за каждые 3 различных негативных статуса на основной цели (Макс. <style=\"highlight\">6</style>)\n[WhenUse] Получает 1 Силу Монет за каждые 7 ([Burst:`Разрыва`] + Счётчика [Burst:`Разрыва`] на основной цели) (Макс. <style=\"highlight\">5</style>)\n[WinDuel] Получает 4 [Breath:`Концентрации`]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Наносит на (<style=\"highlight\">50</style> + [Breath:`Концентрации`] + [Burst:`Разрыва`] на оснорвной цели)% больше урона при критическом ударе (Макс. <style=\"highlight\">75</style>%)"
+                },
+                {
+                  "desc": "Наносит на (<style=\"highlight\">80</style> + [Breath:`Концентрации`] + [Burst:`Разрыва`] на оснорвной цели)% больше урона при критическом ударе (Макс. <style=\"highlight\">105</style>%)"
+                },
+                {
+                  "desc": "Наносит на 5% больше урона при критическом ударе за каждый [StartXichun] (Макс. 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Burst:`Разрыва`]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Накладывает 1 Счётчика [Burst:`Разрыва`]</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 2 [Breath:`Концентрации`] и 1 Счётчика [Breath:`Концентрации`]"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Получает 2 Счётчика [Breath:`Концентрации`] (три раза за ход)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Мастер Уклонения",
+          "desc": "[StartBattle] В конце хода при 3+ [StartXichun], осуществляет [RetreatForCommon].\nПри Отступлении, встаёт в начало цепочки Резерва (Возвращается раньше других персонажей в Резерве)\n[OnSucceedEvade] Получает 2 [Breath:`Концентрации`] (два раза за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Мастер Уклонения",
+          "desc": "[StartBattle] В конце хода при 3+ [StartXichun], осуществляет [RetreatForCommon].\nПри Отступлении, встаёт в начало цепочки Резерва (Возвращается раньше других персонажей в Резерве)\n<style=\"highlight\">[WhenUse] Получает 1 Счётчик [Breath:`Концентрации`] (два раза за ход)</style>\n[OnSucceedEvade] Получает 2 [Breath:`Концентрации`] (два раза за ход)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Багряный выпад - Ши (Подготовка)",
+          "desc": "[CantDuel]\n[BeforeAttack] Использует все [WaitingXichun], получая ([WaitingXichun] x 2) Кол-ва Целей (Макс. 5)\n[WhenUse] Получает 5 [Breath:`Концентрации`] и 2 Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Burst:`Разрыва`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Багряный выпад - Ши (Подготовка)",
+          "desc": "[CantDuel]\n[BeforeAttack] Использует все [WaitingXichun], получая ([WaitingXichun] x 2) Кол-ва Целей (Макс. 5)\n[WhenUse] Получает 5 [Breath:`Концентрации`] и 2 Счётчика [Breath:`Концентрации`]\n<style=\"highlight\">[WhenUse] При 3+ [WaitingXichun], получает 1 Силу Монет</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Burst:`Разрыва`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Багряный выпад - Ши (Подготовка)",
+          "desc": "[CantDuel]\n[BeforeAttack] Использует все [WaitingXichun], получая ([WaitingXichun] x 2) Кол-ва Целей (Макс. 5)\n[WhenUse] Получает 5 [Breath:`Концентрации`] и 2 Счётчика [Breath:`Концентрации`]\n[WhenUse] При 3+ [WaitingXichun], получает <style=\"highlight\">2</style> Силы Монет",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Burst:`Разрыва`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

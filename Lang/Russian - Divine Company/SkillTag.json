@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[On Hit]"
+      "name": "[При ударе]"
     },
     {
       "id": "WhenUse",
-      "name": "[On Use]"
+      "name": "[При использовании]"
     },
     {
       "id": "WinDuel",
-      "name": "[Clash Win]"
+      "name": "[Победа в Схватке]"
     },
     {
       "id": "BeforeAttack",
-      "name": "[Before Attack]"
+      "name": "[Перед атакой]"
     },
     {
       "id": "Wide",
@@ -86,15 +86,15 @@
     },
     {
       "id": "OnSucceedAttackHead",
-      "name": "[Heads Hit]"
+      "name": "[При ударе Орлом]"
     },
     {
       "id": "OnSucceedAttackTail",
-      "name": "[Tails Hit]"
+      "name": "[При ударе Решкой]"
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[On Evade]"
+      "name": "[При уклонении]"
     },
     {
       "id": "AlwaysUse",
@@ -106,7 +106,7 @@
     },
     {
       "id": "EnemyKill",
-      "name": "[On Kill]"
+      "name": "[При убийстве]"
     },
     {
       "id": "EnemyKillFail",
@@ -122,7 +122,7 @@
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[On Crit]"
+      "name": "[При крит. атаке]"
     },
     {
       "id": "StartDuel",
@@ -182,11 +182,11 @@
     },
     {
       "id": "TargetKill",
-      "name": "[On Target Kill]"
+      "name": "[При убийстве цели]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[On Crit Kill]"
+      "name": "[При убийстве крит. ударом]"
     },
     {
       "id": "BeforeUse",
@@ -206,7 +206,7 @@
     },
     {
       "id": "WhenUseEvade",
-      "name": "[On Evade Use]"
+      "name": "[При использовании Уворота]"
     },
     {
       "id": "EndCoin",
@@ -218,7 +218,7 @@
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[On Crit Kill Against Enemy]"
+      "name": "[При убийстве врага крит. ударом]"
     },
     {
       "id": "DefeatDuelAttack",
