@@ -2143,19 +2143,19 @@
     {
       "id": 1081201,
       "name": "Посицзыхуань (Настрой: Разрывная концентрация)",
-      "desc": "При убийстве цели с помощью атакующих навыков этого Грешника, он получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (3 за 1 врага, один раз за ход).\nЕсли этот Грешник получил 3 [Breath:`Концентрации`] с помощую вышеуказанного эффекта, он получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (2 за 1 врага, один раз за ход).\nВ Схватке, если Уровень Атаки выше чем у цели, получает 1 Силу Схватки.\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник накладывает на 1 [Burst:`Разрыв`] или Счётчик [Burst:`Разрыва`] больше с помощью базовых атакующих навыков (два раза за ход).",
+      "desc": "При убийстве цели с помощью атакующих навыков этого Грешника, он получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (3 за 1 врага, один раз за ход).\nЕсли этот Грешник получил 3 [Breath:`Концентрации`] с помощью вышеуказанного эффекта, он получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (2 за 1 врага, один раз за ход).\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник получает 1 Силу Схватки.\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник накладывает на 1 [Burst:`Разрыв`] или Счётчик [Burst:`Разрыва`] больше с помощью базовых атакующих навыков (два раза за ход).",
       "summary": "In a Clash, if this unit's Offense Level is higher than the target's, Clash Power +1\nInflict +1 more [Burst] Potency and [Burst] Count with this unit's Base Attack Skills"
     },
     {
       "id": 1081202,
       "name": "Шидун (Подготовленный заход)",
-      "desc": "Upon Retreat: apply 1 Offense Level Up next turn to allies in their Deployment order\n- Number of affected allies = [StartXichun] Stack on self\n- If the affected ally is a \"Jia Family\" unit, apply 2 Offense Level Up next turn instead\n- Does not affect allies that either Return or Substitute next turn\n\nOn the turn this unit Substituted or Returned to the field, gain [WaitingXichun]; then, at Combat Start, as the very first Skill in the Skill order, use 'Crimson Strike - Launcher【始】' against a random target.",
+      "desc": "При Отступлении накладывает 1 [AttackUp] на следующий ход на Грешников, следуя Цепочке Выхода:\nКоличество затронутых Грешников равно Значению [StartXichun];\nЕсли затронутый Грешник из фракции «Семья Цзя», вместо этого накладывает на него 2 [AttackUp:`Увеличения Уровня Атаки`] на следующий ход;\nНе затрагивает Грешников, которые Возвращаются или Вступают на следующем ходу.\n\nКогда этот Грешник Вступает или Возвращается на поле боя, получает [WaitingXichun] и затем, в начале боевой фазы использует «Багряный выпад - Ши (Подготовка)» против случайной цели.",
       "summary": "In the turn this unit entered the battle via Substitution or Return: at Combat Start, as the very first Skill in the Skill order, use 'Crimson Strike - Launcher (始)' against a random target"
     },
     {
       "id": 1081221,
       "name": "Юхуань (Настрой: Выдержка)",
-      "desc": "If this unit is defeated in an Encounter, apply [CheerUpXichun] to the subsequently Substituting Identity (the fastest Backup Unit in the Deployment Order) next turn\n\nIn Chain Battles, if this unit is a Backup unit or has Retreated, activate the following:\n- Combat Start: Among the Identities who 1) are at 50% HP or lower, and 2) used a Defense Skill, choose the Identity with the fastest Deployment order. At Turn End, that Identity recovers from Stagger caused by damage and performs a [RetreatForCommon] (2 times per Encounter)",
+      "desc": "При гибели этого Грешника в Битве, на следующего Вступающего Грешника (находящегося в начале Цепочки Резерва) накладывает [CheerUpXichun] на следующий ход.\n\nВ Цепных Битвах, при гибели или Отступлении этого Грешника, срабатывает следующий эффект:\nВ начале боя среди Грешников, имеющих менее 50% ОЗ или использующих защитный навык выбирается первейший в Цепочке Выхода.\nВ конце хода, выбранный Грешник восстанавливается от не системного Оглушения и осуществляет [RetreatForCommon] (Два раза за Битву).",
       "summary": "Turn End: Retreat the Identity that, at Combat Start, has 50% or less HP and has used a Defense Skill this turn"
     }
   ]
