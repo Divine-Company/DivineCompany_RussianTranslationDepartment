@@ -604,8 +604,8 @@
     },
     {
       "id": "Bullet",
-      "name": "Пули",
-      "desc": "Используется различными навыками. Некоторые атаки прекращаются, если Пули закончились.",
+      "name": "Патроны",
+      "desc": "Используется различными навыками.\nНекоторые удары прекращаются, если Патроны закончились.",
       "summary": "Ресурс для различных навыков"
     },
     {
@@ -1721,12 +1721,12 @@
     {
       "id": "FreischutzShotCount",
       "name": "Магическая пуля",
-      "desc": "Макс. значение: 7.\nЗначение меняется от различных навыков.\nДля Личности Утис “ЭГО «Лоботомии»: Магическая пуля”:\n+{0} к Начальной Силе Навыка 3;\n+{1} к Силе Монет Навыка 3."
+      "desc": "Макс. значение: 7.\nЗначение меняется от различных эффектов у навыков.\nДля Личности Утис “ЭГО «Лоботомии»: Магическая пуля”:\n+{0} к Базовой Силе Навыка 3;\n+{1} к Силе Монет Навыка 3."
     },
     {
       "id": "DarkFlame",
       "name": "Тёмное пламя",
-      "desc": "Особое Горение.\nМакс. значение: 7.\n-{0} к Уровню Защиты.\nВ конце хода наносится ({0} x значение Горения) урона Гордыней, после чего Тёмное пламя заканчивается."
+      "desc": "Особое Горение.\nМакс. значение: 7.\n-{0} к Уровню Защиты.\nВ конце хода наносится ({0} x значение Горения) урона Гордыней, после чего Тёмное пламя сбрасывается."
     },
     {
       "id": "CtrlTeamCaptain",
@@ -1911,8 +1911,8 @@
     },
     {
       "id": "Switch_Vibration",
-      "name": "Amplitude Conversion",
-      "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
+      "name": "Преобразование Амплитуды",
+      "desc": "Преобразует Тремор на цели в указанный вид Тремора.\nЗначение и Счётчик при преобразовании остаются неизменными."
     },
     {
       "id": "MarkOfButler",
@@ -2162,8 +2162,8 @@
     },
     {
       "id": "SuperCoin",
-      "name": "Unbreakable Coin",
-      "desc": "- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
+      "name": "Нерушимая Монета",
+      "desc": "Эта Монета не разрушается при поражении в Схватке.\nЕсли эта Монета присутствует у атакующего навыка, она используется после завершения атаки цели, участвовавшей в Схватке.\nПри поражении в Схватке, Сила такой Монеты становится равна 1.",
       "summary": ""
     },
     {
@@ -2630,8 +2630,8 @@
     },
     {
       "id": "FireBulletPropellant",
-      "name": "Scorch Propellant Ammo",
-      "desc": "- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills\n- Counts as \"Ammo\"",
+      "name": "Зажигательный патрон",
+      "desc": "Особые Патроны.\nМакс. значение: 15.\nИспользуется различными навыками.\nСчитаются статусом «Патроны».",
       "summary": "",
       "undefined": "-"
     },
@@ -2644,36 +2644,36 @@
     },
     {
       "id": "BulletPropellantAlly",
-      "name": "Tigermark Round",
-      "desc": "- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Cumulative Rounds spent: {0}\n- Max Capacity: 12",
+      "name": "Тигриный патрон",
+      "desc": "Особые Патроны.\nМакс. значение: 12.\nПри 8 и более использованных Тигриных и Зверских тигриных патронов вместо «Ганци (Непоколебимый дух)» накладывается «Ганци - Син (Непоколебимый дух - Син)» от пассивного навыка этого персонажа.\n<color=#b95768>Использовано: {0}</color>",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BulletPropellantSpecialAlly",
-      "name": "Savage Tigermark Round",
-      "desc": "- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Cumulative Rounds spent: {0}\n- Actives the same way as Tigermark Round does\n- Max Capacity: 8",
+      "name": "Зверский тигриный патрон",
+      "desc": "Особые Патроны.\nМакс. значение: 8.\nПри 8 и более использованных Тигриных и Зверских тигриных патронов вместо «Ганци (Непоколебимый дух)» накладывается «Ганци - Син (Непоколебимый дух - Син)» от пассивного навыка этого персонажа.\nИспользуется так же, как и «Тигриный патрон».\n<color=#b95768>Использовано: {0}</color>",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IrritationAlly",
-      "name": "Unrelenting Spirit [剛氣]",
-      "desc": "- Min & Max Speed +1\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 2.5)% damage (max 20%)\n- Inflict +1 more Tremor Potency and Tremor Count with this unit's Skills\n- If this unit has spent 8+ (sum of Tigermark Round and Savage Tigermark Round): at Turn End, convert this buff to Unrelenting Spirit - Shin [剛氣-心] next turn\n- Max Stack: 1",
+      "name": "Ганци (Непоколебимый дух)",
+      "desc": "Макс. значение: 1.\n+1 к минимальной и максимальной Скорости.\nЕсли Скорость персонажа с этим эффектом больше на 3+, чем Скорость его цели, наносит на (Различие в скорости x 2.5)% больше урона (Макс. 20%).\nНакладывает на 1 больше Тремора и его Счётчика с помощью навыков.\nПри 8 и более использованных Тигриных и Зверских тигриных патронов этот эффект заменяется на «Ганци - Син (Непоколебимый дух - Син)» в следующем ходу.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HugeIrritationAlly",
-      "name": "Unrelenting Spirit - Shin [剛氣-心]",
-      "desc": "- Min & Max Speed +3\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 40%)\n- Inflict +2 more Tremor Potency and Tremor Count with this unit's Skills\n- Max Stack: 1",
+      "name": "Ганци - Син (Непоколебимый дух - Син)",
+      "desc": "Макс. значение: 1.\n+3 к минимальной и максимальной Скорости.\nЕсли Скорость персонажа с этим эффектом больше на 3+, чем Скорость его цели, наносит на (Различие в скорости x 5)% больше урона (Макс. 40%).\nНакладывает на 2 больше Тремора и его Счётчика с помощью навыков.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BeastEyesAlly",
-      "name": "Overheat",
-      "desc": "- Loses this effect when this unit gains Savage Tigermark Round\n- Min & Max Speed +2\n- Base Attack Skills Lose (cumulative number of Tigermark & Savage Tigermark Rounds spent / 2) Clash Power (max 10); however, gain the following effects(cumulative):\n· Cumulative Rounds spent: {0}\n· 8+ Rounds spent: Gain 1 Protection for every 10% missing HP on self at Turn Start (max 5)\n· 14+ Rounds spent: On Clash Lose, Unbreakable Coins of this unit's Base Attack Skills deal +(75 + missing HP percentage on self)% damage (max 150%)\n· 20+ Rounds Spent: Deal +(HP percentage difference)% damage against targets with higher remaining HP percentage than this unit (max 50%; except E.G.O Skills)",
+      "name": "Перегрев",
+      "desc": "Эффект сбрасывается при получении эффекта «Зверский тигриный патрон».\n+2 к минимальной и максимальной Скорости.\n-(Использованные Тигриные и Зверские тигриные патроны / 2) Силы в Схватке атакующих навыков (Макс. 10).\nИспользовав Тигриные и Зверские тигриные патроны, активируются следующие эффекты:\nПри 8 и более в начале хода накладывается 1 Стойкость за каждые 10% потерянных ОЗ (Макс. 5);\nПри 14 и более при поражении в Схватке, Нерушимые Монеты атакующих навыков наносят на (75 + процент потерянных ОЗ)% больше урона (Макс. 150%);\nПри 20 и более наносит на (процент разницы в ОЗ)% больше урона не ЭГО навыками против целей с большим процентом оставшихся ОЗ, чем у этого персонажа (Макс. 50%).\n<color=#b95768>Использовано патронов: {0}</color>",
       "summary": "",
       "undefined": "-"
     }

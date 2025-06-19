@@ -153,7 +153,9 @@
             },
             {
               "coindescs": [
-                {}
+                {
+                  "desc": ""
+                }
               ]
             },
             {
@@ -179,7 +181,9 @@
             },
             {
               "coindescs": [
-                {}
+                {
+                  "desc": ""
+                }
               ]
             },
             {
@@ -1149,20 +1153,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Double Slash - Blast [爆]",
+          "name": "Двойной разрез - Бао (Двойной разрез - Подрыв)",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             }
@@ -1170,26 +1174,26 @@
         },
         {
           "level": 2,
-          "name": "Double Slash - Blast [爆]",
-          "desc": "<style=\"highlight\">Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)</style>",
+          "name": "Двойной разрез - Бао (Двойной разрез - Подрыв)",
+          "desc": "<style=\"highlight\">+1 к Итоговой Силе за каждые 4 ([Combustion:`Горения`] и [Vibration:`Тремора`] на основной цели) (Макс. 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Vibration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Накладывает 1 [Vibration]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             }
@@ -1197,26 +1201,26 @@
         },
         {
           "level": 4,
-          "name": "Double Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max <style=\"highlight\">3</style>)",
+          "name": "Двойной разрез - Бао (Двойной разрез - Подрыв)",
+          "desc": "+1 к Итоговой Силе за каждые 4 ([Combustion:`Горения`] и [Vibration:`Тремора`] на основной цели) (Макс. <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Combustion:`Горения`]"
                 }
               ]
             }
@@ -1229,33 +1233,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Triple Slash - Blast [爆]",
+          "name": "Тройной разрез - Бао (Тройной разрез - Подрыв)",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Combustion:`Горения`]"
                 }
               ]
             }
@@ -1263,42 +1267,42 @@
         },
         {
           "level": 2,
-          "name": "Triple Slash - Blast [爆]",
-          "desc": "<style=\"highlight\">Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 2)</style>",
+          "name": "Тройной разрез - Бао (Тройной разрез - Подрыв)",
+          "desc": "<style=\"highlight\">+1 к Итоговой Силе за каждые 4 ([Combustion:`Горения`] и [Vibration:`Тремора`] на основной цели) (Макс. 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Vibration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Накладывает 1 [Vibration]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 3 или более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1</style>"
                 }
               ]
             }
@@ -1306,42 +1310,42 @@
         },
         {
           "level": 4,
-          "name": "Triple Slash - Blast [爆]",
-          "desc": "Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max <style=\"highlight\">4</style>)",
+          "name": "Тройной разрез - Бао (Тройной разрез - Подрыв)",
+          "desc": "+1 к Итоговой Силе за каждые 4 ([Combustion:`Горения`] и [Vibration:`Тремора`] на основной цели) (Макс. <style=\"highlight\">4</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> Счётчика [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] При 3 или более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -1354,48 +1358,48 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "If this unit has [BulletPropellantSpecialAlly], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead\n- [BeforeUse] If this unit does not have [BulletPropellantSpecialAlly], cancel activation\nIf the main target has 8+ (sum of [Combustion] and [Vibration]), Coin Power +1",
+          "name": "Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)",
+          "desc": "При 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], вместо этого навыка использует «Savage Tigerslayer's Perfected Flurry of Blades»\n+1 к Силе Монет при 8 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "If this unit spent [BulletPropellantAlly] due to this Coin's effect, deal +20% damage"
+                  "desc": "При использовании [BulletPropellantAlly:`Тигриного патрона`] этой Монетой наносит на 20% больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect once more"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -1403,48 +1407,48 @@
         },
         {
           "level": 4,
-          "name": "Tanglecleaver [快刀亂麻]",
-          "desc": "If this unit has [BulletPropellantSpecialAlly], activate 'Savage Tigerslayer's Perfected Flurry of Blades' instead\n- [BeforeUse] If this unit does not have [BulletPropellantSpecialAlly], cancel activation\n<style=\"highlight\">Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on the main target), (max 2)</style>",
+          "name": "Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)",
+          "desc": "При 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], вместо этого навыка использует «Savage Tigerslayer's Perfected Flurry of Blades»\n<style=\"highlight\">+1 к Силе Монет за каждые 8 ([Combustion:`Горения`] и [Vibration:`Тремора`] на основной цели) (Макс. 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> Счётчика [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> Счётчика [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "If this unit spent [BulletPropellantAlly] due to this Coin's effect, deal <style=\"highlight\">+50%</style> damage"
+                  "desc": "При использовании [BulletPropellantAlly:`Тигриного патрона`] этой Монетой наносит на <style=\"highlight\">50%</style> больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect <style=\"highlight\">2</style> more times"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1\n<style=\"highlight\">Используя [BulletPropellantAlly], повторно активирует эффект выше ещё два раза</style>"
                 }
               ]
             }
