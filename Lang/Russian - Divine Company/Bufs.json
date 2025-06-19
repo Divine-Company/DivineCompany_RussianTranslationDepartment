@@ -2627,6 +2627,55 @@
       "desc": "В конце хода восстанавливается от Оглушения и Отступает с поля боя (Если это не системное Оглушение. Не считается смертью).\nВ Цепных Битвах, передаёт слоты навыков Вступившему персонажу и встаёт в конец цепочки Резерва (Сбегает из боя, если персонажей в Резерве не осталось. При возвращении в бой, Отступившие возвращаются в порядке, в котором они Отступили)\nВозвращаясь, сохраняет значения ОЗ и ПР (если они были больше нуля, в ином случае обнуляется), которые были при Отступлении и сбрасывает все эффекты, кроме исключений.",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "FireBulletPropellant",
+      "name": "Scorch Propellant Ammo",
+      "desc": "- Max Capacity: 15\n- Unique Ammo\n- Spent by certain Skills\n- Counts as \"Ammo\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SingBulletSupport",
+      "name": "(엄지 싱클 탄환 보급 받는 대상 이펙트)",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantAlly",
+      "name": "Tigermark Round",
+      "desc": "- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Cumulative Rounds spent: {0}\n- Max Capacity: 12",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BulletPropellantSpecialAlly",
+      "name": "Savage Tigermark Round",
+      "desc": "- Unique Ammo\n- At 8+ (cumulative sum of Tigermark Rounds and Savage Tigermark Rounds spent), gain Unrelenting Spirit - Shin [剛氣-心] instead of Unrelenting Spirit [剛氣] from this unit's Passive\n- Cumulative Rounds spent: {0}\n- Actives the same way as Tigermark Round does\n- Max Capacity: 8",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IrritationAlly",
+      "name": "Unrelenting Spirit [剛氣]",
+      "desc": "- Min & Max Speed +1\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 2.5)% damage (max 20%)\n- Inflict +1 more Tremor Potency and Tremor Count with this unit's Skills\n- If this unit has spent 8+ (sum of Tigermark Round and Savage Tigermark Round): at Turn End, convert this buff to Unrelenting Spirit - Shin [剛氣-心] next turn\n- Max Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HugeIrritationAlly",
+      "name": "Unrelenting Spirit - Shin [剛氣-心]",
+      "desc": "- Min & Max Speed +3\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 40%)\n- Inflict +2 more Tremor Potency and Tremor Count with this unit's Skills\n- Max Stack: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeastEyesAlly",
+      "name": "Overheat",
+      "desc": "- Loses this effect when this unit gains Savage Tigermark Round\n- Min & Max Speed +2\n- Base Attack Skills Lose (cumulative number of Tigermark & Savage Tigermark Rounds spent / 2) Clash Power (max 10); however, gain the following effects(cumulative):\n· Cumulative Rounds spent: {0}\n· 8+ Rounds spent: Gain 1 Protection for every 10% missing HP on self at Turn Start (max 5)\n· 14+ Rounds spent: On Clash Lose, Unbreakable Coins of this unit's Base Attack Skills deal +(75 + missing HP percentage on self)% damage (max 150%)\n· 20+ Rounds Spent: Deal +(HP percentage difference)% damage against targets with higher remaining HP percentage than this unit (max 50%; except E.G.O Skills)",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }
