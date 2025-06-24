@@ -2143,7 +2143,7 @@
     {
       "id": 1081201,
       "name": "Посицзыхуань (Настрой: Разрывная концентрация)",
-      "desc": "При убийстве цели с помощью атакующих навыков этого Грешника, он получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (3 за 1 врага, один раз за ход).\nЕсли этот Грешник получил 3 [Breath:`Концентрации`] с помощью вышеуказанного эффекта, он получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (2 за 1 врага, один раз за ход).\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник получает 1 Силу Схватки.\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник накладывает на 1 [Burst:`Разрыв`] или Счётчик [Burst:`Разрыва`] больше с помощью базовых атакующих навыков (два раза за ход).",
+      "desc": "При убийстве цели с помощью атакующих навыков этого Грешника, он получает [Breath:`Концентрацию`], равную [Burst:`Разрыву`] на цели (3 за 1 врага, один раз за ход).\nЕсли этот Грешник получил 3 [Breath:`Концентрации`] с помощью вышеуказанного эффекта, он получает Счётчик [Breath:`Концентрации`], равный Счётчику [Burst:`Разрыва`] на цели (2 за 1 врага, один раз за ход).\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник получает 1 Силу Схватки.\nВ Схватке, если Уровень Атаки выше чем у цели, Грешник накладывает на 1 [Burst:`Разрыв`] или Счётчик [Burst:`Разрыва`] больше с помощью базовых атакующих навыков (до двух раз за ход).",
       "summary": "In a Clash, if this unit's Offense Level is higher than the target's, Clash Power +1\nInflict +1 more [Burst] Potency and [Burst] Count with this unit's Base Attack Skills"
     },
     {
@@ -2155,7 +2155,7 @@
     {
       "id": 1081221,
       "name": "Юхуань (Настрой: Выдержка)",
-      "desc": "При гибели этого Грешника в Битве, на следующего Вступающего Грешника (находящегося в начале Цепочки Резерва) накладывает [CheerUpXichun] на следующий ход.\n\nВ Цепных Битвах, при гибели или Отступлении этого Грешника, срабатывает следующий эффект:\nВ начале боя среди Грешников, имеющих менее 50% ОЗ или использующих защитный навык выбирается первейший в Цепочке Выхода.\nВ конце хода, выбранный Грешник восстанавливается от не системного Оглушения и осуществляет [RetreatForCommon] (Два раза за Битву).",
+      "desc": "При гибели этого Грешника в Битве, на следующего Вступающего Грешника (находящегося в начале Цепочки Резерва) накладывает [CheerUpXichun] на следующий ход.\n\nВ Цепных Битвах, при гибели или Отступлении этого Грешника, срабатывает следующий эффект:\nВ начале боя среди Грешников, имеющих менее 50% ОЗ или использующих защитный навык выбирается первейший в Цепочке Выхода.\nВ конце хода, выбранный Грешник восстанавливается от не принудительного Оглушения и осуществляет [RetreatForCommon] (До двух раз за Битву).",
       "summary": "Turn End: Retreat the Identity that, at Combat Start, has 50% or less HP and has used a Defense Skill this turn"
     },
     {
@@ -2184,26 +2184,26 @@
     },
     {
       "id": 1051202,
-      "name": "Chachihu [揷翅虎]",
-      "desc": "Always Active: begin Encounters with 12 [BulletPropellantAlly]\n\nWhen flipping a Coin that consumes [BulletPropellantAlly] or [BulletPropellantSpecialAlly]: while not having those 'Unique Ammo' does not cancel this unit's attacks, the Coin's On Hit \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIf this unit equipped Defense Skills for the first time in this Encounter, or if this unit spent all of his [BulletPropellantAlly], or if this unit is Staggered: at the end of that turn, reload 8 [BulletPropellantSpecialAlly] and gain 1 [IrritationAlly] (once per Encounter)\n- If this effect activates while this unit is Staggered, recover from Stagger (unless it's a forced Stagger)\n- Remove all [BulletPropellantAlly] if this unit has any leftover [BulletPropellantAlly]\n- At 8+ (sum of [BulletPropellantAlly] and [BulletPropellantSpecialAlly] spent), convert [IrritationAlly] to [HugeIrritationAlly]\n\nWhen this unit uses a Base Attack Skill that spends the final Round of [BulletPropellantSpecialAlly]...\n- Gain Atk Weight +2 before attacking\n- Gain 1 [BeastEyesAlly] next turn",
+      "name": "Чачиху (Крылатый тигр)",
+      "desc": "Всегда активно: \n- Начинает Бой с 12 [BulletPropellantAlly:`Тигриными патронами`].\n\nПри броске Монеты, использующей [BulletPropellantAlly:`Тигриные`] и [BulletPropellantSpecialAlly:`Зверские тигриные`] патроны:\n- При отсутствии указанных патронов не отменяет атаку, но не активирует эффекты, связанные с [Combustion:`Горением`].\n\nПри использовании защитного навыка первый раз в Бою, или при использовании всех [BulletPropellantAlly:`Тигриных патронов`] или при Оглушении:\n- В конце этого хода перезаряжает 8 [BulletPropellantSpecialAlly:`Зверских тигриных патронов`] и получает 1 [IrritationAlly] (один раз за Бой);\n- При активации этого эффекта в состоянии не принудительного Оглушения, восстанавливается от него;\n- Обнуляет [BulletPropellantAlly:`Тигриные патроны`];\n- При 8 и более использованных [BulletPropellantAlly:`Тигриных`] и [BulletPropellantSpecialAlly:`Зверских тигриных`] патронов [IrritationAlly] заменяется на [HugeIrritationAlly].\n\nПри применении атакующего навыка, который использует последний [BulletPropellantSpecialAlly]:\n- Получает 2 Массы атаки перед атакой;\n- Получает 1 [BeastEyesAlly] на следующий ход.",
       "summary": ""
     },
     {
       "id": 1051201,
-      "name": "Tiantui Star's Blade [天退星刀]",
-      "desc": "When this unit has [BulletPropellantAlly]:\n- At 1+ [BulletPropellantAlly], convert all Coins of 'Tanglecleaver' into [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +1 Power (activates only as long as the Coin has Rounds left to spend)\n\nWhen this unit has [BulletPropellantSpecialAlly]:\n- At 1+ [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills to [SuperCoin]s\n- At 0 [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills that spend 'Unique Ammo' to [SuperCoin]s\n- Skill Coins that spend [BulletPropellantSpecialAlly] gain +2 Power (activates only as long as the Coin has Rounds left to spend)",
+      "name": "Тяньтуйсиндао (Тяньтуй, Звезда клинка)",
+      "desc": "При наличии у Грешника [BulletPropellantAlly:`Тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantAlly:`Тигриных патронов`], трансформирует все Монеты навыка «Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)» в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantAlly:`Тигриные патроны`], получают +1 к Силе.\n\nПри наличии у Грешника [BulletPropellantSpecialAlly:`Зверских тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], транформирует все Монеты атакующих навыков в [SuperCoin:`Нерушимые Монеты`];\n- В ином случае, трансформирует только те Монеты атакующих навыков, которые используют «Особые Патроны», в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantSpecialAlly:`Зверские тигриные патроны`], получают +2 к Силе.",
       "summary": ""
     },
     {
       "id": 1051211,
-      "name": "Tiantui Star's Blade [天退星刀]",
-      "desc": "When this unit has [BulletPropellantAlly]:\n- At 1+ [BulletPropellantAlly], convert all Coins of 'Tanglecleaver' into [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +1 Power <style=\"highlight\">and deal +10% damage</style> (activates only as long as the Coin has Rounds left to spend)\n\nWhen this unit has [BulletPropellantSpecialAlly]:\n- At 1+ [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills to [SuperCoin]s\n- At 0 [BulletPropellantSpecialAlly], convert all Coins of this unit's Base Attack Skills that spend 'Unique Ammo' to [SuperCoin]s\n- Skill Coins that spend [BulletPropellantAlly] gain +2 Power, <style=\"highlight\">deal +30% damage, and inflict +2 more [Combustion] Potency and [Combustion] Count On Hit with those Coins</style> (activates only as long as the Coin has Rounds left to spend)",
+      "name": "Тяньтуйсиндао (Тяньтуй, Звезда клинка)",
+      "desc": "При наличии у Грешника [BulletPropellantAlly:`Тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantAlly:`Тигриных патронов`], трансформирует все Монеты навыка «Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)» в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantAlly:`Тигриные патроны`], получают +1 к Силе <style=\"upgradeHighlight\">и наносят на 10% больше урона</style>.\n\nПри наличии у Грешника [BulletPropellantSpecialAlly:`Зверских тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], транформирует все Монеты атакующих навыков в [SuperCoin:`Нерушимые Монеты`];\n- В ином случае, трансформирует только те Монеты атакующих навыков, которые используют «Особые Патроны», в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantSpecialAlly:`Зверские тигриные патроны`], получают +2 к Силе, <style=\"upgradeHighlight\">наносят на 30% больше урона и накладывают на 2 больше [Combustion:`Горения`] и его Счётчика при ударе</style>.",
       "summary": ""
     },
     {
       "id": 1051221,
-      "name": "Savage Tiger's Lunge",
-      "desc": "When 1 ally with the fastest Speed uses a Skill that spends [Bullet], if their Speed is faster than the target's by 3 or more, deal +(Speed difference × 2)% more damage (max 10%).\n(This effect does not activate if the affected unit lacks the [Bullet] buff entirely. However, it will activate if they have the [Bullet] buff, even if they have 0 rounds left)",
+      "name": "Выпад свирепого тигра",
+      "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3 и более, он наносит на (Разница в Скорости × 2)% больше урона (Макс. 10%) (Эффект срабатывает только при наличии статуса Патроны).",
       "summary": ""
     },
     {

@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "battle_battleunit_guard",
-      "content": "Guard"
+      "content": "Блок"
     },
     {
       "id": "popup_message_ego_seat_lack",
@@ -34,7 +34,7 @@
     },
     {
       "id": "guard",
-      "content": "Guard"
+      "content": "Блок"
     },
     {
       "id": "power",
@@ -390,15 +390,15 @@
     },
     {
       "id": "battle_battleunit_evade",
-      "content": "Evade"
+      "content": "Уклонение"
     },
     {
       "id": "battle_battleunit_counter",
-      "content": "Counter"
+      "content": "Контратака"
     },
     {
       "id": "battle_operation_defence",
-      "content": "Defense"
+      "content": "Защита"
     },
     {
       "id": "battle_increase_mp",
@@ -706,7 +706,7 @@
     },
     {
       "id": "battle_operation_counter",
-      "content": "Power Counter"
+      "content": "Активная Контратака"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
@@ -754,7 +754,7 @@
     },
     {
       "id": "battle_operation_defense",
-      "content": "Power Guard"
+      "content": "Активный Блок"
     },
     {
       "id": "battle_operation_defense_TextTypo",
