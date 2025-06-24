@@ -2208,8 +2208,8 @@
     },
     {
       "id": 1051231,
-      "name": "Savage Tiger's Lunge",
-      "desc": "When 1 ally with the fastest Speed uses a Skill that spends [Bullet], if their Speed is faster than the target's by 3 or more, deal +(Speed difference × <style=\"highlight\">3</style>)% more damage (max <style=\"highlight\">15%</style>).\n(This effect does not activate if the affected unit lacks the [Bullet] buff entirely. However, it will activate if they have the [Bullet] buff, even if they have 0 rounds left)",
+      "name": "Выпад свирепого тигра",
+      "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3 и более, он наносит на (Разница в Скорости × <style=\"upgradeHighlight\">3</style>)% больше урона (Макс. <style=\"upgradeHighlight\">15%</style>) (Эффект срабатывает только при наличии статуса Патроны).",
       "summary": ""
     }
   ]
