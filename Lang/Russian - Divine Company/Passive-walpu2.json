@@ -13,12 +13,12 @@
     {
       "id": 814901,
       "name": "Pain",
-      "desc": "If an ally is defeated in Combat, gain 1 Bind, 1 Attack Power Up, and 3 Damage Up next turn."
+      "desc": "If an ally is defeated in Combat, gain 1 [Binding], 1 [Enhancement], and 3 [AttackDmgUp] next turn."
     },
     {
       "id": 814902,
       "name": "Weakness",
-      "desc": "If this unit dies, apply 5 Damage Up next turn to all enemies. This effect does not stack."
+      "desc": "If this unit dies, apply 5 [AttackDmgUp] next turn to all enemies. This effect does not stack."
     },
     {
       "id": 815001,

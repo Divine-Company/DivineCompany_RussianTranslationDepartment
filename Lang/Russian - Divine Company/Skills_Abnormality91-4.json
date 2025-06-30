@@ -11,21 +11,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -44,7 +44,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +4 [Burst] Count"
                 }
               ]
             }
@@ -63,14 +63,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Burst] Count"
                 }
               ]
             }
@@ -84,15 +84,15 @@
         {
           "level": 1,
           "name": "Shell Attack!!!",
-          "desc": "[CantIdentify] \nDeal +20% damage per 5 Rupture Count on target",
+          "desc": "[CantIdentify] \nDeal +20% damage per 5 [Burst] Count on target",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Burst] Count"
                 }
               ]
             }
@@ -106,12 +106,12 @@
         {
           "level": 1,
           "name": "Crab Rave",
-          "desc": "[CantIdentify] Damage +20% per 5 Rupture Count on Target\n[EndSkill] Summon 3 Crabs if there are less than 5 other Crabs on field at the end of the turn (Max 5)",
+          "desc": "[CantIdentify] Damage +20% per 5 [Burst] Count on Target\n[EndSkill] Summon 3 Crabs if there are less than 5 other Crabs on field at the end of the turn (Max 5)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
                 }
               ]
             }
@@ -125,7 +125,7 @@
         {
           "level": 1,
           "name": "Foam Armor",
-          "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 Rupture",
+          "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 [Burst]",
           "coinlist": [
             {}
           ]
@@ -138,7 +138,7 @@
         {
           "level": 1,
           "name": "Foam Armor",
-          "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 Rupture",
+          "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and inflict 1 [Burst]",
           "coinlist": [
             {}
           ]

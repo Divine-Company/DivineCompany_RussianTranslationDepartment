@@ -15,7 +15,7 @@
         {
           "level": 1,
           "name": "Keep Down",
-          "desc": "[OnSucceedAttack] Inflict 2 Bind; Heal 5% of Max HP"
+          "desc": "[OnSucceedAttack] Inflict 2 [Binding]; Heal 5% of Max HP"
         }
       ]
     },
@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "Sneaky Attack",
-          "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
+          "desc": "[OnSucceedAttack] Gain 1 [Enhancement] next turn"
         }
       ]
     },
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "Open Wound",
-          "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+          "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
         }
       ]
     },
@@ -54,7 +54,7 @@
         {
           "level": 1,
           "name": "Spot Vulnerability",
-          "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
+          "desc": "[OnSucceedAttack] Inflict 3 [Vulnerable] next turn"
         }
       ]
     },
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "Onslaught Command",
-          "desc": "[WhenUse] Apply 1 Attack Power Up to a random ally next turn"
+          "desc": "[WhenUse] Apply 1 [Enhancement] to a random ally next turn"
         }
       ]
     },
@@ -83,7 +83,7 @@
         {
           "level": 1,
           "name": "Rampart Command",
-          "desc": "[2xPostLine]\n[WhenUse] Give 2 Defense Power Up to 2 random allies next turn"
+          "desc": "[2xPostLine]\n[WhenUse] Give 2 [Endurance] to 2 random allies next turn"
         }
       ]
     },
@@ -263,7 +263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -334,7 +334,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Burst] Count next turn"
                 }
               ]
             }
@@ -353,7 +353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -395,21 +395,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -441,7 +441,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Burst] Count next turn"
                 }
               ]
             }
@@ -460,7 +460,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Binding] next turn"
                 }
               ]
             }
@@ -502,21 +502,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -548,7 +548,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Burst] Count next turn"
                 }
               ]
             }
@@ -585,7 +585,7 @@
         {
           "level": 1,
           "name": "Rampart Command",
-          "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
+          "desc": "[WhenUse] Apply 1 [Protection] to 2 random allies next turn",
           "coinlist": [
             {}
           ]
@@ -613,7 +613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict +5 [Burst] Count next turn"
                 }
               ]
             }
@@ -653,12 +653,12 @@
         {
           "level": 1,
           "name": "Onslaught Command",
-          "desc": "[WhenUse] Apply 1 Damage Up to 2 random allies next turn",
+          "desc": "[WhenUse] Apply 1 [AttackDmgUp] to 2 random allies next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict +5 [Burst] Count next turn"
                 }
               ]
             }
@@ -701,7 +701,7 @@
         {
           "level": 1,
           "name": "Rampart Command",
-          "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
+          "desc": "[WhenUse] Apply 1 [Protection] to 2 random allies next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -738,14 +738,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -790,7 +790,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             },
@@ -798,7 +798,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -843,7 +843,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -888,7 +888,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration] next turn"
                 }
               ]
             }
@@ -907,14 +907,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst] next turn"
                 }
               ]
             }
@@ -961,7 +961,7 @@
         {
           "level": 1,
           "name": "I’ll Show You…!",
-          "desc": "[StartBattle] Gain 1 Attack Power Up",
+          "desc": "[StartBattle] Gain 1 [Enhancement]",
           "coinlist": [
             {}
           ]
@@ -1006,7 +1006,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -1025,7 +1025,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [PlusCoinValueDown] next turn"
                 }
               ]
             }
@@ -1044,14 +1044,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
                 }
               ]
             }
@@ -1111,7 +1111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 }
               ]
             }
@@ -1131,7 +1131,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
                 }
               ]
             },
@@ -1153,7 +1153,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             }
@@ -1213,7 +1213,7 @@
         {
           "level": 1,
           "name": "Danza de Paz",
-          "desc": "[WhenUse] Apply 1 Defense Power Up to all allies next turn",
+          "desc": "[WhenUse] Apply 1 [Endurance] to all allies next turn",
           "coinlist": [
             {}
           ]
@@ -1233,7 +1233,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Reduction] next turn"
                 }
               ]
             }
@@ -1273,7 +1273,7 @@
         {
           "level": 1,
           "name": "Danza de Emoción",
-          "desc": "[WhenUse] Gain 1 Attack Power Up next turn",
+          "desc": "[WhenUse] Gain 1 [Enhancement] next turn",
           "coinlist": [
             {}
           ]
@@ -1291,28 +1291,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] next turn"
                 }
               ]
             }
@@ -1331,7 +1331,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Reduction] and [Paralysis] next turn"
                 }
               ]
             }
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Gain 2 [Enhancement] next turn"
                 }
               ]
             }
@@ -1371,7 +1371,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Defense Power Up next turn"
+                  "desc": "[OnSucceedAttack] Gain 2 [Endurance] next turn"
                 }
               ]
             }
@@ -1422,14 +1422,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] next turn"
                 }
               ]
             }
@@ -1487,7 +1487,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             }
@@ -1519,7 +1519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count next turn"
                 }
               ]
             }
@@ -1538,21 +1538,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration] next turn"
                 }
               ]
             }
@@ -1584,7 +1584,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Vibration] next turn"
                 }
               ]
             },
@@ -1592,7 +1592,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -1624,7 +1624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count next turn"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count next turn"
                 }
               ]
             }
@@ -1638,7 +1638,7 @@
         {
           "level": 1,
           "name": "Shelter",
-          "desc": "[WinDuel] Apply 1 Defense Power Up to 2 random allies next turn",
+          "desc": "[WinDuel] Apply 1 [Endurance] to 2 random allies next turn",
           "coinlist": [
             {}
           ]
@@ -1656,7 +1656,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -1699,7 +1699,7 @@
         {
           "level": 1,
           "name": "Cover",
-          "desc": "[WinDuel] Apply 2 Protection to a random other ally next turn",
+          "desc": "[WinDuel] Apply 2 [Protection] to a random other ally next turn",
           "coinlist": [
             {}
           ]
@@ -1719,7 +1719,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] next turn"
                 }
               ]
             }
@@ -1738,14 +1738,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             }
@@ -1778,7 +1778,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze and Defense Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] and [Disarming] next turn"
                 }
               ]
             }
@@ -1797,7 +1797,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 }
               ]
             }
@@ -1816,14 +1816,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] next turn"
                 }
               ]
             }
@@ -1857,21 +1857,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] and [Laceration] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] and [Laceration] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] and [Laceration] next turn"
                 }
               ]
             }
@@ -1885,13 +1885,13 @@
         {
           "level": 1,
           "name": "Aggressive Preaching",
-          "desc": "[DefeatDuel] Gain 2 Fragile next turn",
+          "desc": "[DefeatDuel] Gain 2 [Vulnerable] next turn",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -1910,7 +1910,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Nail] next turn"
                 }
               ]
             }
@@ -1944,7 +1944,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bind and 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] and 2 [Paralysis] next turn"
                 }
               ]
             }
@@ -1958,12 +1958,12 @@
         {
           "level": 1,
           "name": "Oppressive Preaching",
-          "desc": "[DefeatDuel] Gain 2 Attack Power Down next turn",
+          "desc": "[DefeatDuel] Gain 2 [Reduction] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Reduction] next turn"
                 }
               ]
             }
@@ -1983,14 +1983,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, inflict 10 Bind next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Nail], inflict 10 [Binding] next turn"
                 }
               ]
             }
@@ -2009,7 +2009,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Nail] next turn"
                 }
               ]
             }
@@ -2036,12 +2036,12 @@
         {
           "level": 1,
           "name": "Congregate",
-          "desc": "[WinDuel] Apply 1 Fanatic to 2 random allies next turn",
+          "desc": "[WinDuel] Apply 1 [AssemblePersonality] to 2 random allies next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] next turn"
                 }
               ]
             },
@@ -2056,7 +2056,7 @@
         {
           "level": 1,
           "name": "Hardy Faith",
-          "desc": "[WhenUse] Gain 1 Protection",
+          "desc": "[WhenUse] Gain 1 [Protection]",
           "coinlist": [
             {}
           ]
@@ -2074,7 +2074,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Binding] and 2 [Reduction] next turn"
                 }
               ]
             }
@@ -2112,7 +2112,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] next turn"
                 }
               ]
             },
@@ -2132,7 +2132,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Nail]"
                 }
               ]
             },
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, inflict 10 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Nail], inflict 10 [Reduction] and [Paralysis] next turn"
                 }
               ]
             }
@@ -2159,21 +2159,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Nail] next turn"
                 }
               ]
             }
@@ -2192,7 +2192,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed and 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] and 2 [Vulnerable] next turn"
                 }
               ]
             },
@@ -2207,7 +2207,7 @@
         {
           "level": 1,
           "name": "Hammers, Heed Me…!",
-          "desc": "[WinDuel] Apply 1 Fanatic to all allies next turn",
+          "desc": "[WinDuel] Apply 1 [AssemblePersonality] to all allies next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -2231,14 +2231,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Nail], Stagger them"
                 }
               ]
             }
@@ -2252,7 +2252,7 @@
         {
           "level": 1,
           "name": "Stalwart Faith",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "desc": "[WhenUse] Gain 2 [Protection]",
           "coinlist": [
             {}
           ]
@@ -2265,26 +2265,26 @@
         {
           "level": 1,
           "name": "Spike Drive",
-          "desc": "At less than 50% HP, inflict +1 N Corp’s Nails",
+          "desc": "At less than 50% HP, inflict +1 [Nail]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Nail] next turn"
                 }
               ]
             }
@@ -2303,7 +2303,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration] next turn"
                 }
               ]
             }
@@ -2317,7 +2317,7 @@
         {
           "level": 1,
           "name": "The Great Task Will Be Done…!",
-          "desc": "[WhenUse] Apply 1 Fanatic to all allies next turn",
+          "desc": "[WhenUse] Apply 1 [AssemblePersonality] to all allies next turn",
           "coinlist": [
             {}
           ]
@@ -2335,14 +2335,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Nail]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Nail], Stagger them"
                 }
               ]
             }
@@ -2356,19 +2356,19 @@
         {
           "level": 1,
           "name": "Annihilate Heretics",
-          "desc": "If target has N Corp’s Nails, +100% Damage",
+          "desc": "If target has [Nail], +100% Damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Burst] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vulnerable] next turn"
                 }
               ]
             }
@@ -2387,7 +2387,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Nail] next turn"
                 }
               ]
             }
@@ -2432,7 +2432,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -2451,14 +2451,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -2490,7 +2490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -2509,7 +2509,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 }
               ]
             },
@@ -2542,7 +2542,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
                 }
               ]
             }
@@ -2561,14 +2561,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Reduce target's Defense Level by 2 and inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Reduce target's Defense Level by 2 and inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -2600,7 +2600,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Vibration]"
                 }
               ]
             }
@@ -2619,7 +2619,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind and reduce target's Defense Level by 2 next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] and reduce target's Defense Level by 2 next turn"
                 }
               ]
             }
@@ -2633,12 +2633,12 @@
         {
           "level": 1,
           "name": "Kieegikhik",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "desc": "[WhenUse] Gain 2 [Protection]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -2735,7 +2735,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
                 }
               ]
             }
@@ -2754,7 +2754,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
                 }
               ]
             }
@@ -2773,7 +2773,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
                 }
               ]
             }
@@ -2792,10 +2792,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vulnerable] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [DefenseDown] next turn"
                 }
               ]
             }
@@ -2814,7 +2814,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
                 }
               ]
             }
@@ -2833,10 +2833,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Reduction] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -2855,14 +2855,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -2882,10 +2882,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -2904,21 +2904,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vulnerable] next turn"
                 }
               ]
             }
@@ -2932,7 +2932,7 @@
         {
           "level": 1,
           "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "desc": "[WhenUse] Gain 2 [Protection]",
           "coinlist": [
             {}
           ]
@@ -2950,10 +2950,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Vibration] Count"
                 }
               ]
             }
@@ -2972,7 +2972,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown] next turn"
                 }
               ]
             }
@@ -2991,14 +2991,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 [AttackDown] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -3012,7 +3012,7 @@
         {
           "level": 1,
           "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gain 2 Protection",
+          "desc": "[WhenUse] Gain 2 [Protection]",
           "coinlist": [
             {}
           ]
@@ -3030,10 +3030,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +5 Rupture Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +5 [Burst] Count"
                 }
               ]
             }
@@ -3047,12 +3047,12 @@
         {
           "level": 1,
           "name": "SPOTTED, SPOTTED: Injury",
-          "desc": "Prioritizes enemies with Rupture",
+          "desc": "Prioritizes enemies with [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to target's Rupture Count"
+                  "desc": "[OnSucceedAttack] Deal fixed damage equal to target's [Burst] Count"
                 }
               ]
             }
@@ -3071,10 +3071,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +3 [Vibration] Count"
                 }
               ]
             }
@@ -3088,15 +3088,15 @@
         {
           "level": 1,
           "name": "Breaking down.",
-          "desc": "Prioritizes enemies with Tremor",
+          "desc": "Prioritizes enemies with [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Paralysis] next turn"
                 }
               ]
             }
@@ -3110,12 +3110,12 @@
         {
           "level": 1,
           "name": "WARNING, WARNING: Shaking",
-          "desc": "Prioritizes enemies with Tremor",
+          "desc": "Prioritizes enemies with [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Vibration]"
                 }
               ]
             }
@@ -3148,7 +3148,7 @@
         {
           "level": 1,
           "name": "Enter Defensive Mode",
-          "desc": "[StartBattle] Gain 3 Protection",
+          "desc": "[StartBattle] Gain 3 [Protection]",
           "coinlist": [
             {}
           ]
@@ -3166,10 +3166,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by the number of Coins that hit last turn"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] by the number of Coins that hit last turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -3188,7 +3188,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
                 }
               ]
             }
@@ -3207,7 +3207,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Double target’s Tremor Count"
+                  "desc": "[OnSucceedAttack] Double target’s [Vibration] Count"
                 }
               ]
             }
@@ -3226,14 +3226,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -3247,7 +3247,7 @@
         {
           "level": 1,
           "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "desc": "[WhenUse] Gain 1 [VibrationAssimilation] next turn",
           "coinlist": [
             {}
           ]
@@ -3265,7 +3265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             }
@@ -3284,7 +3284,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] by target's [Vibration]"
                 }
               ]
             }
@@ -3303,21 +3303,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -3331,7 +3331,7 @@
         {
           "level": 1,
           "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "desc": "[WhenUse] Gain 1 [VibrationAssimilation] next turn",
           "coinlist": [
             {}
           ]
@@ -3349,30 +3349,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -3391,10 +3391,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -3415,14 +3415,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict [Vibration] by target's [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by the number of Heads this skill lands"
+                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict [Vibration] by the number of Heads this skill lands"
                 }
               ]
             }
@@ -3436,7 +3436,7 @@
         {
           "level": 1,
           "name": "Rev Up",
-          "desc": "[WhenUse] Gain 1 Tremor Sync next turn",
+          "desc": "[WhenUse] Gain 1 [VibrationAssimilation] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3460,7 +3460,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             }
@@ -3480,14 +3480,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict [Paralysis] by target's [Vibration] next turn"
                 }
               ]
             }
@@ -3506,7 +3506,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] by target's [Vibration]"
                 }
               ]
             }
@@ -3526,17 +3526,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Inflict [Vibration] by target's [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict [Paralysis] by target's [Vibration] next turn"
                 }
               ]
             }
@@ -3555,21 +3555,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -3605,7 +3605,7 @@
         {
           "level": 1,
           "name": "Final Warmup",
-          "desc": "[StartBattle] Gain 4 Protection\nHeal 15 SP",
+          "desc": "[StartBattle] Gain 4 [Protection]\nHeal 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -3629,7 +3629,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
                 }
               ]
             }
@@ -3648,7 +3648,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -3668,7 +3668,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -3700,7 +3700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             }
@@ -3720,10 +3720,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Vibration]"
                 }
               ]
             }
@@ -3737,12 +3737,12 @@
         {
           "level": 1,
           "name": "Arresting!",
-          "desc": "Prioritizes enemies with Tremor",
+          "desc": "Prioritizes enemies with [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -3788,7 +3788,7 @@
         {
           "level": 1,
           "name": "Administering Resister Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nGive 1 Protection against a random affinity\nDeals no damage",
+          "desc": "[CantDuel][WhenUse] Targets allies\nGive 1 [Protection] against a random affinity\nDeals no damage",
           "coinlist": [
             {
               "coindescs": [
@@ -3812,7 +3812,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Decay Ampule\nInflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [CollapseAmpoule]\nInflict 1 [Paralysis] next turn"
                 }
               ]
             }
@@ -3850,10 +3850,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [CollapseAmpoule]"
                 }
               ]
             }
@@ -3873,21 +3873,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vulnerable] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [CollapseAmpoule]"
                 }
               ]
             }
@@ -3906,7 +3906,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Damage Up next turn"
+                  "desc": "[OnSucceedAttack] Give 2 [AttackDmgUp] next turn"
                 }
               ]
             }
@@ -3925,10 +3925,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Give 2 [Enhancement] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -3960,7 +3960,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
                 }
               ]
             }
@@ -3979,14 +3979,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             }
@@ -4006,7 +4006,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -4044,7 +4044,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -4063,7 +4063,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -4082,14 +4082,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -4122,12 +4122,12 @@
         {
           "level": 1,
           "name": "Harming Curse",
-          "desc": "[WhenUse] Gain 1 Entangled Curse Talisman",
+          "desc": "[WhenUse] Gain 1 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
                 }
               ]
             }
@@ -4141,19 +4141,19 @@
         {
           "level": 1,
           "name": "Proliferating Curse",
-          "desc": "[WhenUse] Gain 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Gain 2 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             }
@@ -4167,13 +4167,13 @@
         {
           "level": 1,
           "name": "Restraining Curse",
-          "desc": "[WhenUse] Gain 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Gain 2 [WrappedCurseTag]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -4187,29 +4187,29 @@
         {
           "level": 1,
           "name": "Pronounced Wound",
-          "desc": "[EndBattle] Remove all Entangled Curse Talisman",
+          "desc": "[EndBattle] Remove all [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Burst]"
                 }
               ]
             }
@@ -4247,7 +4247,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -4261,12 +4261,12 @@
         {
           "level": 1,
           "name": "Explosive Fluid",
-          "desc": "[WhenUse] Gain 1 Morale Boost",
+          "desc": "[WhenUse] Gain 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -4280,19 +4280,19 @@
         {
           "level": 1,
           "name": "Wobbling Fluid",
-          "desc": "[WhenUse] Gain 1 Morale Boost",
+          "desc": "[WhenUse] Gain 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -4306,7 +4306,7 @@
         {
           "level": 1,
           "name": "Fluid Guard",
-          "desc": "[WhenUse] Heal 5% of Max HP\nGain 2 Fragile next turn\n[EndBattle] Remove all Tipsy",
+          "desc": "[WhenUse] Heal 5% of Max HP\nGain 2 [Vulnerable] next turn\n[EndBattle] Remove all [Tipsiness]",
           "coinlist": [
             {
               "coindescs": [
@@ -4330,7 +4330,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -4344,13 +4344,13 @@
         {
           "level": 1,
           "name": "Blunt Curse",
-          "desc": "[WhenUse] Inflict 1 Reattached Curse Talisman",
+          "desc": "[WhenUse] Inflict 1 [ReattachedCurseTag]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] Inflict 3 [HitTakeDamageUp]"
                 }
               ]
             }
@@ -4364,13 +4364,13 @@
         {
           "level": 1,
           "name": "Multiplying Talismans",
-          "desc": "Targets the enemy with the most Rupture",
+          "desc": "Targets the enemy with the most [Burst]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] by the amount of [ReattachedCurseTag] on target"
                 }
               ]
             }
@@ -4384,20 +4384,20 @@
         {
           "level": 1,
           "name": "Paralyzing Curse",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman from target",
+          "desc": "[EndBattle] Remove all [ReattachedCurseTag] from target",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Paralyze by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Inflict [Paralysis] by the amount of [ReattachedCurseTag] on target"
                 }
               ]
             }
@@ -4416,7 +4416,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflict 5 [ReattachedCurseTag]"
                 }
               ]
             }
@@ -4430,19 +4430,19 @@
         {
           "level": 1,
           "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all [ReattachedCurseTag] from target",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflict 2 [ReattachedCurseTag]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] If target has 9+ [ReattachedCurseTag], inflict 5 [Paralysis]\nDeal fixed damage by 50% of damage dealt"
                 }
               ]
             }
@@ -4456,7 +4456,7 @@
         {
           "level": 1,
           "name": "Spreading Curse Talisman",
-          "desc": "[WhenUse] Inflict 2 Reattached Curse Talisman",
+          "desc": "[WhenUse] Inflict 2 [ReattachedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
@@ -4475,19 +4475,19 @@
         {
           "level": 1,
           "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all [ReattachedCurseTag] from target",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflict 2 [ReattachedCurseTag]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 9+ Reattached Curse Talisman, inflict 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackTail] If target has 9+ [ReattachedCurseTag], inflict 5 [Paralysis]\nDeal fixed damage by 50% of damage dealt"
                 }
               ]
             }
@@ -4506,7 +4506,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -4525,7 +4525,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackTail] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -4573,15 +4573,15 @@
         {
           "level": 1,
           "name": "Interlocking Moment",
-          "desc": "[WhenUse] Gain +1 Charge Count",
+          "desc": "[WhenUse] Gain +1 [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflict 1 [InterlockingTime]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge Count to inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] Count to inflict 3 [Paralysis]"
                 }
               ]
             }
@@ -4595,12 +4595,12 @@
         {
           "level": 1,
           "name": "Siphon Time",
-          "desc": "[WhenUse] Gain +1 Charge Count",
+          "desc": "[WhenUse] Gain +1 [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Haste; Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility]; Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -4614,22 +4614,22 @@
         {
           "level": 1,
           "name": "Accelerating Moment",
-          "desc": "[StartBattle] Gain +3 Charge Count\n[WhenUse] At 5+ Charge Count, Clash Power +2\nBecome immobilized next turn",
+          "desc": "[StartBattle] Gain +3 [Charge] Count\n[WhenUse] At 5+ [Charge] Count, Clash Power +2\nBecome immobilized next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ Charge Count, spend all Charge Count to deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] At 5+ [Charge] Count, spend all [Charge] Count to deal +10% damage for each Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflict 1 [InterlockingTime]"
                 }
               ]
             }
@@ -4643,7 +4643,7 @@
         {
           "level": 1,
           "name": "Borrow Time",
-          "desc": "[StartBattle] Gain 3 [TimeRental] and +1 Charge Count",
+          "desc": "[StartBattle] Gain 3 [TimeRental] and +1 [Charge] Count",
           "coinlist": [
             {}
           ]
@@ -4709,7 +4709,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind and 3 Paralyze next turn."
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] and 3 [Paralysis] next turn."
                 }
               ]
             }
@@ -4728,7 +4728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -4748,7 +4748,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }

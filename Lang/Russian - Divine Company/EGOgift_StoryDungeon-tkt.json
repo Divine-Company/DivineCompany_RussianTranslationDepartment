@@ -3,7 +3,7 @@
     {
       "id": 2036,
       "name": "Silver Watch Case",
-      "desc": "When dealing damage to an enemy with Attack Skills(Not counting E.G.O Skills) that inflict [Vibration] Potency, Count, or Unique Tremor, deal +10% damage.\n\nIf the Skill triggered [VibrationExplosion] on the enemy for the first time this turn, inflict +2 [Vibration] Count next turn (once per turn)",
+      "desc": "When dealing damage to an enemy with Attack Skills(Not counting E.G.O Skills) that inflict [Vibration] Potency, Count, or Unique [Vibration], deal +10% damage.\n\nIf the Skill triggered [VibrationExplosion] on the enemy for the first time this turn, inflict +2 [Vibration] Count next turn (once per turn)",
       "simpleDesc": [
         {
           "abilityID": 2036,
@@ -120,7 +120,7 @@
         },
         {
           "abilityID": 20431,
-          "simpleDesc": "Multiply [Vibration] Potency and Count by 1.5 when triggering Amplitude Conversion"
+          "simpleDesc": "Multiply [Vibration] Potency and Count by 1.5 when triggering [Switch_Vibration]"
         },
         {
           "abilityID": 20432,

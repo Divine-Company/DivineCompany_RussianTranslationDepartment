@@ -89,7 +89,7 @@
     {
       "id": 9413,
       "name": "Nagel und Hammer Scriptures",
-      "desc": "When an ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1~2 [NailPersonality].\n\nIf the said ally is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start.",
+      "desc": "When an ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1~2 [NailPersonality].\n\nIf the said ally is an 'N Corp. Fanatic', gain 1 [AssemblePersonality] at Turn Start.",
       "simpleDesc": [
         {
           "abilityID": 9413,
@@ -97,7 +97,7 @@
         },
         {
           "abilityID": 94131,
-          "simpleDesc": "If the unit is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start."
+          "simpleDesc": "If the unit is an 'N Corp. Fanatic', gain 1 [AssemblePersonality] at Turn Start."
         }
       ]
     },
@@ -134,7 +134,7 @@
     {
       "id": 9416,
       "name": "Wholeness",
-      "desc": "If the ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 2~3 [NailPersonality].\n\nIf the ally is an 'N Corp. Fanatic'., gain 1 Fanatic at Turn Start, and deal +25% damage against targets with [Laceration].\n\nActivate a special effect when there are 5+ 'N Corp. Fanatic' Identities(only counts Identities on the field at Encounter Start):\n- 'N Corp. Fanatic' Identities gain Final Power +1, Plus Coin Power +1, Minus Coin Power -1, and Attack Skills inflict +1 more [NailPersonality]. If an 'N Corp. Fanatic' Identity is at max SP at Turn Start, gain 3 [AttackDmgUp].",
+      "desc": "If the ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 2~3 [NailPersonality].\n\nIf the ally is an 'N Corp. Fanatic'., gain 1 [AssemblePersonality] at Turn Start, and deal +25% damage against targets with [Laceration].\n\nActivate a special effect when there are 5+ 'N Corp. Fanatic' Identities(only counts Identities on the field at Encounter Start):\n- 'N Corp. Fanatic' Identities gain Final Power +1, Plus Coin Power +1, Minus Coin Power -1, and Attack Skills inflict +1 more [NailPersonality]. If an 'N Corp. Fanatic' Identity is at max SP at Turn Start, gain 3 [AttackDmgUp].",
       "simpleDesc": [
         {
           "abilityID": 9416,
@@ -266,7 +266,7 @@
       "simpleDesc": [
         {
           "abilityID": 9433,
-          "simpleDesc": "Turn Start: Gain 5 Bind and 3 Defense Level Down."
+          "simpleDesc": "Turn Start: Gain 5 [Binding] and 3 [DefenseDown]."
         },
         {
           "abilityID": 94331,

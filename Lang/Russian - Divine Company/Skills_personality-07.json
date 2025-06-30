@@ -6,13 +6,13 @@
         {
           "level": 1,
           "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +2 Poise Count\n[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -21,13 +21,13 @@
         {
           "level": 2,
           "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +3 Poise Count\n[WhenUse] Gain +3 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +3 [Breath] Count\n[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -36,13 +36,13 @@
         {
           "level": 4,
           "name": "Stalk Prey",
-          "desc": "[WhenUse] Gain +4 Poise Count\n[WhenUse] Gain +5 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +4 [Breath] Count\n[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -56,13 +56,13 @@
         {
           "level": 1,
           "name": "Snagharpoon",
-          "desc": "[WhenUse] Gain +2 Aggro to this Skill Slot next turn",
+          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/4 of Bleed Potency on target (Max 10)"
+                  "desc": "[CriticalOnSucceedAttack] Inflict [Laceration] Count equal to 1/4 of [Laceration] Potency on target (Max 10)"
                 }
               ]
             },
@@ -72,13 +72,13 @@
         {
           "level": 2,
           "name": "Snagharpoon",
-          "desc": "[WhenUse] Gain +3 Aggro to this Skill Slot next turn\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [Breath] for every 3 [Laceration] on target (Max 10)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/4 of Bleed Potency on target (Max 10)"
+                  "desc": "[CriticalOnSucceedAttack] Inflict [Laceration] Count equal to 1/4 of [Laceration] Potency on target (Max 10)"
                 }
               ]
             },
@@ -88,13 +88,13 @@
         {
           "level": 4,
           "name": "Snagharpoon",
-          "desc": "[WhenUse] Gain +5 Aggro to this Skill Slot next turn\n[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)",
+          "desc": "[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 1 [Breath] for every 3 [Laceration] on target (Max 10)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict Bleed Count equal to 1/3 of Bleed Potency on target (Max 10)"
+                  "desc": "[CriticalOnSucceedAttack] Inflict [Laceration] Count equal to 1/3 of [Laceration] Potency on target (Max 10)"
                 }
               ]
             },
@@ -114,20 +114,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 [Laceration]"
                 }
               ]
             },
@@ -149,26 +149,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 75%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] At 75%- HP, inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 75%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] At 75%- HP, inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] At 50%- HP, inflict 1 [Laceration]"
                 }
               ]
             },
@@ -190,7 +190,7 @@
         {
           "level": 1,
           "name": "Payback",
-          "desc": "[WhenUse] Gain +2 Aggro to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)",
+          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
         {
           "level": 4,
           "name": "Payback",
-          "desc": "[WhenUse] Gain +5 Aggro to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)",
+          "desc": "[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[StartBattle] Gain [DefenseUp] for every [Breath] on self (Max 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -761,7 +761,7 @@
         {
           "level": 4,
           "name": "Memorial Procession",
-          "desc": "[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 Sinking on target (max 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 for every 4 [Coffin] on self (max 2)</style>\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "desc": "[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Sinking] on target (max 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 for every 4 [Coffin] on self (max 2)</style>\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
           "coinlist": [
             {},
             {
@@ -809,7 +809,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 3)"
+                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) [Sinking] on 2 random enemies (max 3)"
                 }
               ]
             }
@@ -836,7 +836,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">5</style>)"
+                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) [Sinking] on 2 random enemies (max <style=\"highlight\">5</style>)"
                 }
               ]
             }
@@ -900,7 +900,7 @@
         {
           "level": 3,
           "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +7% damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +7% damage for every [Coffin] on self (max 70%)\n[WhenUse] Deal +10% damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -918,7 +918,7 @@
                   "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)"
+                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) [Sinking] on 2 random enemies (max 4)"
                 },
                 {
                   "desc": "[EnemyKill] Heal 15 SP"
@@ -930,7 +930,7 @@
         {
           "level": 4,
           "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every [Coffin] on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -948,7 +948,7 @@
                   "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) [Sinking] on 2 random enemies (max <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[EnemyKill] Heal 15 SP"
@@ -965,7 +965,7 @@
         {
           "level": 3,
           "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +7% damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +7% damage for every [Coffin] on self (max 70%)\n[WhenUse] Deal +10% damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -983,7 +983,7 @@
                   "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)"
+                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) [Sinking] on 2 random enemies (max 4)"
                 },
                 {
                   "desc": "[EnemyKill] Heal 15 SP"
@@ -995,7 +995,7 @@
         {
           "level": 4,
           "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
+          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every [Coffin] on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -1013,7 +1013,7 @@
                   "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) [Sinking] on 2 random enemies (max <style=\"highlight\">8</style>)"
                 },
                 {
                   "desc": "[EnemyKill] Heal 15 SP"
@@ -1193,7 +1193,7 @@
         {
           "level": 3,
           "name": "Goin' for the Bullseye",
-          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% damage",
+          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 12.5)% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1213,7 +1213,7 @@
         {
           "level": 4,
           "name": "Goin' for the Bullseye",
-          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) Poise Potency, and deal +(value consumed x 12.5)% damage\n<style=\"highlight\">[EndSkill] Gain +2 [Breath] Count</style>",
+          "desc": "[BeforeUse] If this unit has [Bullet_LogicAtelier], activate 'AL-HV Pulverisation Round' instead\nIf this unit's Speed is faster than the target's, deal +10% damage for every 1 Speed difference (max 50%)\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Consume all [LogicAtelierAM] on self, gain (value consumed x 2) [Breath] Potency, and deal +(value consumed x 12.5)% damage\n<style=\"highlight\">[EndSkill] Gain +2 [Breath] Count</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1241,7 +1241,7 @@
         {
           "level": 1,
           "name": "Combat Poise",
-          "desc": "Turn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "desc": "Turn Start: At 0 [Bullet], this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
           "coinlist": [
             {
               "coindescs": []
@@ -1251,7 +1251,7 @@
         {
           "level": 4,
           "name": "Combat Poise",
-          "desc": "Turn Start: At 0 Ammo, this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[OnSucceedEvade] Gain 3 [Breath] (3 times per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
+          "desc": "Turn Start: At 0 [Bullet], this Skill activates as 'Taking Cover' instead\n[WhenUse] If Full-Stop Office Rep. Hong Lu is on the field, request [MeleeCover] from that unit (once per turn)\n<style=\"highlight\">[OnSucceedEvade] Gain 3 [Breath] (3 times per turn)</style>\n[EndBattle] Gain 1 [LogicAtelierAM] next turn (once per turn)",
           "coinlist": [
             {
               "coindescs": []

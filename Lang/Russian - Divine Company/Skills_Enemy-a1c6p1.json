@@ -1493,7 +1493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [PlusCoinValueDown] next turn"
                 }
               ]
             },

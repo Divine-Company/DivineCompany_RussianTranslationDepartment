@@ -173,7 +173,7 @@
         {
           "level": 1,
           "name": "Sacrifice for the Family",
-          "desc": "[StartBattle] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce Bleed Count every time it is activated; cannot be Staggered from this damage)\n[StartBattle] All allies heal 5 SP (including self)",
+          "desc": "[StartBattle] At 50%+ HP, activate [Laceration] on self (max 3 times; reduce [Laceration] Count every time it is activated; cannot be Staggered from this damage)\n[StartBattle] All allies heal 5 SP (including self)",
           "coinlist": [
             {
               "coindescs": [
@@ -985,7 +985,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain Offense Level Up equal to [DefenseUp] next turn"
+                  "desc": "[OnSucceedAttack] Gain [AttackUp] equal to [DefenseUp] next turn"
                 }
               ]
             }
@@ -1197,7 +1197,7 @@
         {
           "level": 1,
           "name": "Thorns",
-          "desc": "[CantChangeTarget]\nPrioritizes targets with Barbed Lasso",
+          "desc": "[CantChangeTarget]\nPrioritizes targets with [ThornNoose]",
           "coinlist": [
             {
               "coindescs": [
@@ -1308,7 +1308,7 @@
         {
           "level": 1,
           "name": "IT'S ABOUT TO BLOW!!!!!",
-          "desc": "[CantDuel]\n[StartBattle] Gain 3 Fragile",
+          "desc": "[CantDuel]\n[StartBattle] Gain 3 [Vulnerable]",
           "coinlist": [
             {
               "coindescs": [

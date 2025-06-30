@@ -175,10 +175,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Gain 1 [Enhancement] next turn"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 2 Attack Power Up next turn"
+                  "desc": "[EnemyKill] Gain 2 [Enhancement] next turn"
                 }
               ]
             }
@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "Bodysack",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] Gain 20 [DefenseDown]\n[DefeatDuel] Gain 1 Fettered Woe",
+          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] Gain 20 [DefenseDown]\n[DefeatDuel] Gain 1 [AaCfPcBf]",
           "coinlist": [
             {
               "coindescs": [
@@ -484,7 +484,7 @@
         {
           "level": 1,
           "name": "Receiving Arts 7: Capture",
-          "desc": "[StartBattle] Gain Atk Weight equal to the number of enemies with [AaCfPcBb]\n[WhenUse] If this unit's Speed is faster than the main target's by 3 or more, inflict 2 Slash Resist Down\n[WhenUse] If target has [AaCfPcBb], Clash Power +8\n[EndBattle] All [AaCfPcBb] expires",
+          "desc": "[StartBattle] Gain Atk Weight equal to the number of enemies with [AaCfPcBb]\n[WhenUse] If this unit's Speed is faster than the main target's by 3 or more, inflict 2 [SlashResistDown]\n[WhenUse] If target has [AaCfPcBb], Clash Power +8\n[EndBattle] All [AaCfPcBb] expires",
           "coinlist": [
             {
               "coindescs": [
@@ -723,7 +723,7 @@
         {
           "level": 1,
           "name": "The Nightmarish Vengeance, Returned",
-          "desc": "[CantChangeTarget]\n[WhenUse] If the target does not have [AaCfPbBa], Clash Power +10\n[DefeatDuel] Gain 3 Fragile next turn",
+          "desc": "[CantChangeTarget]\n[WhenUse] If the target does not have [AaCfPbBa], Clash Power +10\n[DefeatDuel] Gain 3 [Vulnerable] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -872,7 +872,7 @@
         {
           "level": 1,
           "name": "Heed My Call, Wuthering Heights",
-          "desc": "[CantDuel]\n[WhenUse] Generate 1 Wild Hunt unit next turn",
+          "desc": "[CantDuel]\n[WhenUse] Generate 1 [WildHunt] unit next turn",
           "coinlist": [
             {
               "coindescs": [

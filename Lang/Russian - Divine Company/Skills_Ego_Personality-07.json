@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
+                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
                 }
               ]
             }
@@ -27,10 +27,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
+                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly select one of the following effects: 1 Poise Count, 1 Charge Count, 1 Haste, 1 Offense Level Up, or 1 Defense Level Up. Then, apply the selected effect to 2 random allies next turn"
+                  "desc": "[EnemyKill] Randomly select one of the following effects: 1 [Breath] Count, 1 [Charge] Count, 1 [Agility], 1 [AttackUp], or 1 [DefenseUp]. Then, apply the selected effect to 2 random allies next turn"
                 }
               ]
             }
@@ -45,10 +45,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly select one of the following effects: 2 Poise Count, 2 Charge Count, 2 Haste, 2 Offense Level Up, or 2 Defense Level Up. Then, apply the selected effect to 2 random allies next turn"
+                  "desc": "[EnemyKill] Randomly select one of the following effects: 2 [Breath] Count, 2 [Charge] Count, 2 [Agility], 2 [AttackUp], or 2 [DefenseUp]. Then, apply the selected effect to 2 random allies next turn"
                 }
               ]
             }
@@ -68,7 +68,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 }
               ]
             }
@@ -83,7 +83,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 }
               ]
             }
@@ -98,7 +98,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 }
               ]
             }
@@ -412,7 +412,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson., inflict 1 [AmberTakeDamageUp] next turn as well"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson., inflict 1 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -440,7 +440,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">Sloth A-Reson.</style>, inflict 1 [AmberTakeDamageUp] next turn as well"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">Sloth A-Reson.</style>, inflict 1 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -468,7 +468,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, inflict 1 [AmberTakeDamageUp] next turn as well"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, inflict 1 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -504,7 +504,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson, inflict 2 [AmberTakeDamageUp] next turn as well"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson, inflict 2 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -535,7 +535,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">Sloth A-Reson</style>, inflict 2 [AmberTakeDamageUp] next turn as well"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">Sloth A-Reson</style>, inflict 2 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -566,7 +566,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering Tremor Burst, inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, inflict 2 [AmberTakeDamageUp] next turn as well"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, inflict 2 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }

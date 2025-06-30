@@ -8,22 +8,22 @@
     {
       "id": 90002,
       "name": "Nutritive Reinforcements",
-      "desc": "After defeating an enemy, heal 20 HP, and gain 5 Defense Power Up next turn."
+      "desc": "After defeating an enemy, heal 20 HP, and gain 5 [Endurance] next turn."
     },
     {
       "id": 90003,
       "name": "Sharp Edge",
-      "desc": "On hit, inflict 1-2 Bleed.\nIf a unit is Marked, attack them first."
+      "desc": "On hit, inflict 1-2 [Laceration].\nIf a unit is [AaCePcBa], attack them first."
     },
     {
       "id": 90004,
       "name": "Weak Morale",
-      "desc": "Whenever an ally dies, permanently gain 1 Fragile."
+      "desc": "Whenever an ally dies, permanently gain 1 [Vulnerable]."
     },
     {
       "id": 90005,
       "name": "Retribution",
-      "desc": "When HP drops below 50%, gain 5 Attack Power Up next turn."
+      "desc": "When HP drops below 50%, gain 5 [Enhancement] next turn."
     },
     {
       "id": 90006,
@@ -58,7 +58,7 @@
     {
       "id": 9100401,
       "name": "Hora de Fiesta",
-      "desc": "At the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 Attack Power Up and 1 Defense Power Up at turn start."
+      "desc": "At the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 [Enhancement] and 1 [Endurance] at turn start."
     },
     {
       "id": 9100402,
@@ -73,12 +73,12 @@
     {
       "id": 9003201,
       "name": "Noble be Thy Sacrifice",
-      "desc": "When an ally is defeated, gain 1 Attack Power Up next turn."
+      "desc": "When an ally is defeated, gain 1 [Enhancement] next turn."
     },
     {
       "id": 9003801,
       "name": "Joy of Execution",
-      "desc": "After defeating an enemy, gain 2 Damage Up next turn."
+      "desc": "After defeating an enemy, gain 2 [AttackDmgUp] next turn."
     },
     {
       "id": 9100501,
@@ -88,12 +88,12 @@
     {
       "id": 9100601,
       "name": "Persistence",
-      "desc": "When HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn."
+      "desc": "When HP drops below 50%, remove all negative status effects next turn, and gain 4 [Assemble], 1 [Enhancement], and 1 [Endurance] each turn."
     },
     {
       "id": 9100502,
       "name": "Thou Shalt Hammer",
-      "desc": "If this unit is Fanatic, deal +50% damage."
+      "desc": "If this unit is [Assemble], deal +50% damage."
     },
     {
       "id": 9004601,
@@ -108,7 +108,7 @@
     {
       "id": 9004603,
       "name": "Caution: Unsteady",
-      "desc": "This unit's stagger threshold rises by 50% more when affected by Tremor Burst"
+      "desc": "This unit's stagger threshold rises by 50% more when affected by [VibrationExplosion]"
     },
     {
       "id": 9004604,
@@ -118,42 +118,42 @@
     {
       "id": 9004901,
       "name": "Damageable Disuniter",
-      "desc": "After being staggered, inflict 1 less Rupture and Rupture Count"
+      "desc": "After being staggered, inflict 1 less [Burst] and [Burst] Count"
     },
     {
       "id": 9005001,
       "name": "Damageable Thumper",
-      "desc": "After being staggered, inflict 1 less Tremor and Tremor Count"
+      "desc": "After being staggered, inflict 1 less [Vibration] and [Vibration] Count"
     },
     {
       "id": 9100701,
       "name": "Overheating Attack Function",
-      "desc": "When staggering a unit with an attack, gain 3 Damage Up next turn."
+      "desc": "When staggering a unit with an attack, gain 3 [AttackDmgUp] next turn."
     },
     {
       "id": 9100702,
       "name": "Breakable Disuniter",
-      "desc": "After being staggered, inflict 3 less Rupture and Rupture Count"
+      "desc": "After being staggered, inflict 3 less [Burst] and [Burst] Count"
     },
     {
       "id": 9100703,
       "name": "Breakable Thumper",
-      "desc": "After being staggered, inflict 3 less Tremor and Tremor Count"
+      "desc": "After being staggered, inflict 3 less [Vibration] and [Vibration] Count"
     },
     {
       "id": 9100801,
       "name": "Spanner Up",
-      "desc": "Gain Resonant by the number of heads Coins that successfully hit during a turn. (Max 10)"
+      "desc": "Gain [Resonate] by the number of heads Coins that successfully hit during a turn. (Max 10)"
     },
     {
       "id": 9100802,
       "name": "Rosespanner Workshop Rep",
-      "desc": "Inflict more Tremor by the number of allies that have died this wave"
+      "desc": "Inflict more [Vibration] by the number of allies that have died this wave"
     },
     {
       "id": 9100803,
       "name": "Guess I'm the Last",
-      "desc": "When alone, gain 1 Resonant and 1 Tremor Sync every turn."
+      "desc": "When alone, gain 1 [Resonate] and 1 [VibrationAssimilation] every turn."
     },
     {
       "id": 9100804,
@@ -173,17 +173,17 @@
     {
       "id": 9100903,
       "name": "Multiplying Curse Talisman",
-      "desc": "At 30% or less HP, inflict +1 Reattached Curse Talisman"
+      "desc": "At 30% or less HP, inflict +1 [ReattachedCurseTag]"
     },
     {
       "id": 9100904,
       "name": "Encroaching Curse Talisman",
-      "desc": "At 30% or less HP, if the target has 5+ Reattached Curse Talisman after an attack is finished, inflict 2 Paralyze next turn."
+      "desc": "At 30% or less HP, if the target has 5+ [ReattachedCurseTag] after an attack is finished, inflict 2 [Paralysis] next turn."
     },
     {
       "id": 9006201,
       "name": "Floods of Sorrow",
-      "desc": "Tails Coins inflict 2 Sinking"
+      "desc": "Tails Coins inflict 2 [Sinking]"
     },
     {
       "id": 9006202,
@@ -193,12 +193,12 @@
     {
       "id": 9006101,
       "name": "Intoxication",
-      "desc": "At 5 Morale Boost, gain 5 Tipsy."
+      "desc": "At 5 [Exalted], gain 5 [Tipsiness]."
     },
     {
       "id": 9006102,
       "name": "Hangover Cure",
-      "desc": "At 5 Tipsy, uses a defense skill."
+      "desc": "At 5 [Tipsiness], uses a defense skill."
     },
     {
       "id": 9006801,
@@ -218,7 +218,7 @@
     {
       "id": 9007002,
       "name": "Time Reversion Retroaction",
-      "desc": "After activating Golden Time, gain 3 Fragile at turn end."
+      "desc": "After activating Golden Time, gain 3 [Vulnerable] at turn end."
     },
     {
       "id": 9005401,

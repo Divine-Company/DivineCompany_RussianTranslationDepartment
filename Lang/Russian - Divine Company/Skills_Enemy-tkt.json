@@ -635,7 +635,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
                 },
                 {
                   "desc": "[OnSucceedAttack] At 5+ [Vibration] Count, trigger [Switch_Vibration] into [VibrationChain]"
@@ -657,7 +657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Count on self to inflict 1 Fragile"
+                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Count on self to inflict 1 [Vulnerable]"
                 }
               ]
             },
@@ -796,7 +796,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Count on self to inflict 1 Fragile"
+                  "desc": "[OnSucceedAttack] Consume 1 [Vibration] Count on self to inflict 1 [Vulnerable]"
                 }
               ]
             },

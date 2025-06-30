@@ -23,12 +23,12 @@
     {
       "id": 2021,
       "name": "Mermaid Oil",
-      "desc": "Inflict 1 additional [Vibration] with a Skill that inflicts Tremor"
+      "desc": "Inflict 1 additional [Vibration] with a Skill that inflicts [Vibration]"
     },
     {
       "id": 2022,
       "name": "Crossed Knot",
-      "desc": "Turn End: if more than 15% of the Max HP was lost this turn, gain 2 Attack Power Up next turn"
+      "desc": "Turn End: if more than 15% of the Max HP was lost this turn, gain 2 [Enhancement] next turn"
     },
     {
       "id": 2023,
@@ -38,17 +38,17 @@
     {
       "id": 2024,
       "name": "Rusted Hook",
-      "desc": "Gain 1 Poise when a Skill's first coin Heads Hits against an enemy with [Laceration]"
+      "desc": "Gain 1 [Breath] when a Skill's first coin Heads Hits against an enemy with [Laceration]"
     },
     {
       "id": 2025,
       "name": "Standard Issue Mag",
-      "desc": "Identities with [Bullet] start encounters with +3 max Ammo"
+      "desc": "Identities with [Bullet] start encounters with +3 max [Bullet]"
     },
     {
       "id": 2026,
       "name": "Unbreakable Knot",
-      "desc": "Ishmael's Skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)"
+      "desc": "Ishmael's Skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 [Agility] and 1 [Enhancement] next turn (Once per turn)"
     }
   ]
 }

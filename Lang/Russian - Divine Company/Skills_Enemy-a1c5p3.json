@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Laceration]"
                 }
               ]
             }
@@ -30,21 +30,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -58,12 +58,12 @@
         {
           "level": 1,
           "name": "Protect the Town!",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] Gain 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -73,7 +73,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -83,7 +83,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -93,7 +93,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -110,12 +110,12 @@
         {
           "level": 1,
           "name": "Javelin",
-          "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+          "desc": "[WhenUse] Gain 5 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] and 2 [AttackDmgDown] next turn"
                 }
               ]
             }
@@ -129,7 +129,7 @@
         {
           "level": 1,
           "name": "Guard",
-          "desc": "When attacked while this unit has Shield, gain 1 Offense Level Up next turn",
+          "desc": "When attacked while this unit has Shield, gain 1 [AttackUp] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -153,14 +153,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -179,28 +179,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -214,12 +214,12 @@
         {
           "level": 1,
           "name": "Protect the Town!",
-          "desc": "[WhenUse] Gain 5 Poise",
+          "desc": "[WhenUse] Gain 5 [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -229,7 +229,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -239,7 +239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -249,7 +249,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 4 SP"
@@ -266,12 +266,12 @@
         {
           "level": 1,
           "name": "Javelin",
-          "desc": "[WhenUse] Gain 5 Poise and +2 Poise Count",
+          "desc": "[WhenUse] Gain 5 [Breath] and +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] and 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -285,7 +285,7 @@
         {
           "level": 1,
           "name": "Evade",
-          "desc": "[OnSucceedEvade] Gain 1 Offense Level Up next turn (Max 3)",
+          "desc": "[OnSucceedEvade] Gain 1 [AttackUp] next turn (Max 3)",
           "coinlist": [
             {
               "coindescs": [

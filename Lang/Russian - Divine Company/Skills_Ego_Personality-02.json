@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
                 }
               ]
             }
@@ -27,10 +27,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
                 }
               ]
             }
@@ -45,10 +45,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
                 }
               ]
             }
@@ -68,10 +68,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttackTail] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
                 }
               ]
             }
@@ -86,13 +86,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
                 }
               ]
             }
@@ -107,13 +107,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
                 }
               ]
             }

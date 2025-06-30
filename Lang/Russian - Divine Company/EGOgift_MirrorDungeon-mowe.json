@@ -7,7 +7,7 @@
       "simpleDesc": [
         {
           "abilityID": 9732,
-          "simpleDesc": "Gain 1 Haste next turn"
+          "simpleDesc": "Gain 1 [Agility] next turn"
         }
       ]
     },
@@ -29,7 +29,7 @@
     {
       "id": 9734,
       "name": "E-Type Dimensional Dagger",
-      "desc": "Skill 1s that gain [Charge] Count or 'Unique Charge' gain Clash Power +1 and deal +5% damage.\n\nIf that Skill 1 was a Single-coin Skill, gain Clash Power +1 and deal +12.5% damage instead.\n\nIf a W Corp. Identity dealt damage to an enemy with an Envy Skill(including E.G.O Skills), inflict 2 HP Healing Down. (does not stack)",
+      "desc": "Skill 1s that gain [Charge] Count or 'Unique Charge' gain Clash Power +1 and deal +5% damage.\n\nIf that Skill 1 was a Single-coin Skill, gain Clash Power +1 and deal +12.5% damage instead.\n\nIf a W Corp. Identity dealt damage to an enemy with an Envy Skill(including E.G.O Skills), inflict 2 [TakeHpHealReduce]. (does not stack)",
       "simpleDesc": [
         {
           "abilityID": 9734,
@@ -41,7 +41,7 @@
         },
         {
           "abilityID": 97342,
-          "simpleDesc": "Inflict 2 HP Healing Down"
+          "simpleDesc": "Inflict 2 [TakeHpHealReduce]"
         }
       ]
     },
@@ -52,11 +52,11 @@
       "simpleDesc": [
         {
           "abilityID": 9735,
-          "simpleDesc": "Skill 1 gains Clash Power, Charge Count, and Charge Barrier"
+          "simpleDesc": "Skill 1 gains Clash Power, [Charge] Count, and [ChargeForceField]"
         },
         {
           "abilityID": 97351,
-          "simpleDesc": "Gain Charge Barrier"
+          "simpleDesc": "Gain [ChargeForceField]"
         }
       ]
     },
@@ -71,11 +71,11 @@
         },
         {
           "abilityID": 97361,
-          "simpleDesc": "Gain Haste"
+          "simpleDesc": "Gain [Agility]"
         },
         {
           "abilityID": 97362,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Gain [AttackUp]"
         }
       ]
     },
@@ -101,11 +101,11 @@
       "simpleDesc": [
         {
           "abilityID": 9738,
-          "simpleDesc": "Gain Haste and Charge Count"
+          "simpleDesc": "Gain [Agility] and [Charge] Count"
         },
         {
           "abilityID": 97381,
-          "simpleDesc": "Gain more Charge Count"
+          "simpleDesc": "Gain more [Charge] Count"
         }
       ]
     },
@@ -116,7 +116,7 @@
       "simpleDesc": [
         {
           "abilityID": 9739,
-          "simpleDesc": "Halve Bleed Potency on self, heal HP"
+          "simpleDesc": "Halve [Laceration] Potency on self, heal HP"
         }
       ]
     },
@@ -131,7 +131,7 @@
         },
         {
           "abilityID": 97401,
-          "simpleDesc": "Gain Haste and Damage Up next turn"
+          "simpleDesc": "Gain [Agility] and [AttackDmgUp] next turn"
         },
         {
           "abilityID": 97402,
@@ -150,11 +150,11 @@
         },
         {
           "abilityID": 97411,
-          "simpleDesc": "Gain Clash Power; gain Charge Count upon Clash Win, lose Charge Count upon Clash Lose"
+          "simpleDesc": "Gain Clash Power; gain [Charge] Count upon Clash Win, lose [Charge] Count upon Clash Lose"
         },
         {
           "abilityID": 97412,
-          "simpleDesc": "Inflict Envy Fragility"
+          "simpleDesc": "Inflict [VioletTakeDamageUp]"
         }
       ]
     },
@@ -169,11 +169,11 @@
         },
         {
           "abilityID": 97421,
-          "simpleDesc": "Gain Clash Power and Offense Level Up"
+          "simpleDesc": "Gain Clash Power and [AttackUp]"
         },
         {
           "abilityID": 97422,
-          "simpleDesc": "Immediately before death, consume Charge Count to instantly heal and gain Protection"
+          "simpleDesc": "Immediately before death, consume [Charge] Count to instantly heal and gain [Protection]"
         }
       ]
     },
@@ -188,11 +188,11 @@
         },
         {
           "abilityID": 97431,
-          "simpleDesc": "Spend additional Charge Count to deal bonus damage"
+          "simpleDesc": "Spend additional [Charge] Count to deal bonus damage"
         },
         {
           "abilityID": 97432,
-          "simpleDesc": "Max Charge Count +5"
+          "simpleDesc": "Max [Charge] Count +5"
         }
       ]
     }

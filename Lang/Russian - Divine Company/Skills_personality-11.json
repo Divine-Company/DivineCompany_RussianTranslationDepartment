@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "Wait Up!",
-          "desc": "If this Skill is Discarded, gain +3 Tremor Count",
+          "desc": "If this Skill is Discarded, gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lower user's Stagger Threshold for every Tremor Count on self (Max 10) "
+                  "desc": "[OnSucceedAttackHead] Lower user's Stagger Threshold for every [Vibration] Count on self (Max 10) "
                 }
               ]
             }
@@ -20,12 +20,12 @@
         {
           "level": 2,
           "name": "Wait Up!",
-          "desc": "If this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Gain +2 Tremor Count\nAt 6+ Tremor Count, gain Final Power +1",
+          "desc": "If this Skill is Discarded, gain +4 [Vibration] Count\n[WhenUse] Gain +2 [Vibration] Count\nAt 6+ [Vibration] Count, gain Final Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold for every Tremor Count on self (Max 10) "
+                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold for every [Vibration] Count on self (Max 10) "
                 }
               ]
             }
@@ -34,12 +34,12 @@
         {
           "level": 4,
           "name": "Wait Up!",
-          "desc": "If this Skill is Discarded, gain +4 Tremor Count\n[WhenUse] Gain +2 Tremor Count\nAt 6+ Tremor Count, gain Final Power +2",
+          "desc": "If this Skill is Discarded, gain +4 [Vibration] Count\n[WhenUse] Gain +2 [Vibration] Count\nAt 6+ [Vibration] Count, gain Final Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold for every Tremor Count on self (Max 10) "
+                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold for every [Vibration] Count on self (Max 10) "
                 }
               ]
             }
@@ -53,26 +53,26 @@
         {
           "level": 1,
           "name": "Slice",
-          "desc": "[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] [Discard] the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] At 6+ [Vibration] Count, trigger [VibrationExplosion]. Reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -81,26 +81,26 @@
         {
           "level": 2,
           "name": "Slice",
-          "desc": "If this Skill is Discarded, gain 1 [AttackUp]\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "If this Skill is Discarded, gain 1 [AttackUp]\n[WhenUse] [Discard] the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] At 6+ [Vibration] Count, trigger [VibrationExplosion]. Reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -109,26 +109,26 @@
         {
           "level": 4,
           "name": "Slice",
-          "desc": "If this Skill is Discarded, gain 1 [AttackUp]\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "If this Skill is Discarded, gain 1 [AttackUp]\n[WhenUse] [Discard] the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] At 6+ [Vibration] Count, trigger [VibrationExplosion]. Reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -142,36 +142,36 @@
         {
           "level": 3,
           "name": "Daring Decision",
-          "desc": "[WhenUse] Discard this unit's Skills in descending order of ranks from all of its Skill Slots\nSpend 10 Tremor Count to gain Coin Power +1",
+          "desc": "[WhenUse] [Discard] this unit's Skills in descending order of ranks from all of its Skill Slots\nSpend 10 [Vibration] Count to gain Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the Skill spent Tremor Count, inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] If the Skill spent [Vibration] Count, inflict +3 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]; after [VibrationExplosion], reduce target's [Vibration] Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]; after [VibrationExplosion], reduce target's [Vibration] Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]; after [VibrationExplosion], reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -180,36 +180,36 @@
         {
           "level": 4,
           "name": "Daring Decision",
-          "desc": "[WhenUse] Discard this unit's Skills in descending order of ranks from all of its Skill Slots\nSpend 10 Tremor Count to gain Coin Power +2",
+          "desc": "[WhenUse] [Discard] this unit's Skills in descending order of ranks from all of its Skill Slots\nSpend 10 [Vibration] Count to gain Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the Skill spent Tremor Count, inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] If the Skill spent [Vibration] Count, inflict +3 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; after [VibrationExplosion], reduce target's [Vibration] Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; after [VibrationExplosion], reduce target's [Vibration] Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; after [VibrationExplosion], reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -223,7 +223,7 @@
         {
           "level": 1,
           "name": "Hangover Cure",
-          "desc": "[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] [Discard] the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {}
           ]
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "name": "Hangover Cure",
-          "desc": "[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] [Discard] the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {}
           ]
@@ -265,7 +265,7 @@
         {
           "level": 2,
           "name": "Marche",
-          "desc": "[WhenUse] Gain 2 [Agility] next turn\n[WhenUse] This slot gains 1 Aggro next turn",
+          "desc": "[WhenUse] Gain 2 [Agility] next turn\n[WhenUse] This slot gains 1 [Aggro] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
         {
           "level": 4,
           "name": "Marche",
-          "desc": "[WhenUse] Gain 2 [Agility] next turn\n[WhenUse] This Skill Slot gains 3 Aggro next turn",
+          "desc": "[WhenUse] Gain 2 [Agility] next turn\n[WhenUse] This Skill Slot gains 3 [Aggro] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -333,7 +333,7 @@
         {
           "level": 2,
           "name": "Punition",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 2 Aggro next turn",
+          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 2 [Aggro] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -354,7 +354,7 @@
         {
           "level": 4,
           "name": "Punition",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 4 Aggro next turn",
+          "desc": "If this unit's Speed is faster than the target's, Coin Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 4 [Aggro] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -388,7 +388,7 @@
                   "desc": "[OnSucceedAttack] Inflict [DuelDeclaration_Outis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 1 Haste next turn to 2 allies with the slowest Speed"
+                  "desc": "[OnSucceedAttack] Apply 1 [Agility] next turn to 2 allies with the slowest Speed"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] +50% Damage on Critical Hit"
@@ -408,7 +408,7 @@
                   "desc": "[OnSucceedAttack] Inflict [DuelDeclaration_Outis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply 2 Haste next turn to 2 allies with the slowest Speed"
+                  "desc": "[OnSucceedAttack] Apply 2 [Agility] next turn to 2 allies with the slowest Speed"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] +70% Damage on Critical Hit"
@@ -582,7 +582,7 @@
         {
           "level": 3,
           "name": "Magic Bullet Fire",
-          "desc": "Deal +0.5% damage for every [Combustion] on target (Max 15%)\n\n[BeforeAttack] Gain 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last Ammo)",
+          "desc": "Deal +0.5% damage for every [Combustion] on target (Max 15%)\n\n[BeforeAttack] Gain 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last [Bullet])",
           "coinlist": [
             {
               "coindescs": [
@@ -596,7 +596,7 @@
         {
           "level": 4,
           "name": "Magic Bullet Fire",
-          "desc": "<style=\"highlight\">Deal +1% damage for every [Combustion] on target (Max 30%)</style>\n\n[BeforeAttack] Gain 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last Ammo)",
+          "desc": "<style=\"highlight\">Deal +1% damage for every [Combustion] on target (Max 30%)</style>\n\n[BeforeAttack] Gain 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last [Bullet])",
           "coinlist": [
             {
               "coindescs": [
@@ -651,7 +651,7 @@
         {
           "level": 2,
           "name": "Knocking",
-          "desc": "[WhenUse] If target has 7+ Sinking, Coin Power +1",
+          "desc": "[WhenUse] If target has 7+ [Sinking], Coin Power +1",
           "coinlist": [
             {},
             {

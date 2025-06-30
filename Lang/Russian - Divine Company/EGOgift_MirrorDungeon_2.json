@@ -45,7 +45,7 @@
       "simpleDesc": [
         {
           "abilityID": 9160,
-          "simpleDesc": "Activate Bleed once"
+          "simpleDesc": "Activate [Laceration] once"
         }
       ]
     },
@@ -56,7 +56,7 @@
       "simpleDesc": [
         {
           "abilityID": 9162,
-          "simpleDesc": "On Clash Win, activate Bleed on the target once"
+          "simpleDesc": "On Clash Win, activate [Laceration] on the target once"
         },
         {
           "abilityID": 91621,
@@ -68,7 +68,7 @@
         },
         {
           "abilityID": 91623,
-          "simpleDesc": "Inflict 3 Bleed Potency and +1 Bleed Count"
+          "simpleDesc": "Inflict 3 [Laceration] Potency and +1 [Laceration] Count"
         }
       ]
     },
@@ -94,7 +94,7 @@
       "simpleDesc": [
         {
           "abilityID": 9164,
-          "simpleDesc": "At 8+ Tremor Count, Clash Power +1"
+          "simpleDesc": "At 8+ [Vibration] Count, Clash Power +1"
         },
         {
           "abilityID": 91641,
@@ -128,11 +128,11 @@
       "simpleDesc": [
         {
           "abilityID": 9167,
-          "simpleDesc": "On Clash Win, inflict Tremor equal to the # of remaining Coins. If the target does not have [Vibration], inflict Tremor Count"
+          "simpleDesc": "On Clash Win, inflict [Vibration] equal to the # of remaining Coins. If the target does not have [Vibration], inflict [Vibration] Count"
         },
         {
           "abilityID": 91671,
-          "simpleDesc": "Turm Start: gain Clash Power Up based on Tremor Count on self"
+          "simpleDesc": "Turm Start: gain [ParryingResultUp] based on [Vibration] Count on self"
         },
         {
           "abilityID": 91672,
@@ -162,7 +162,7 @@
       "simpleDesc": [
         {
           "abilityID": 9170,
-          "simpleDesc": "Rupture effects deal +100% damage against Shields"
+          "simpleDesc": "[Burst] effects deal +100% damage against Shields"
         },
         {
           "abilityID": 91701,
@@ -204,7 +204,7 @@
       "simpleDesc": [
         {
           "abilityID": 9172,
-          "simpleDesc": "Heal SP based on Sinking on the target"
+          "simpleDesc": "Heal SP based on [Sinking] on the target"
         }
       ]
     },
@@ -226,7 +226,7 @@
       "simpleDesc": [
         {
           "abilityID": 9175,
-          "simpleDesc": "Heal SP based on Sinking on the target"
+          "simpleDesc": "Heal SP based on [Sinking] on the target"
         },
         {
           "abilityID": 91751,
@@ -241,30 +241,30 @@
       "simpleDesc": [
         {
           "abilityID": 9176,
-          "simpleDesc": "Inflict Sinking Potency and Count"
+          "simpleDesc": "Inflict [Sinking] Potency and Count"
         },
         {
           "abilityID": 91761,
-          "simpleDesc": "Inflict Defense Level Down"
+          "simpleDesc": "Inflict [DefenseDown]"
         },
         {
           "abilityID": 91762,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Gain [AttackUp]"
         },
         {
           "abilityID": 91763,
-          "simpleDesc": "Inflict Sinking Count"
+          "simpleDesc": "Inflict [Sinking] Count"
         }
       ]
     },
     {
       "id": 9178,
       "name": "Angel's Cut",
-      "desc": "Turn End: when an ally has more than 20 Poise Potency, the said unit consumes 1 Poise Potency to gain +1 Poise Count",
+      "desc": "Turn End: when an ally has more than 20 [Breath] Potency, the said unit consumes 1 [Breath] Potency to gain +1 [Breath] Count",
       "simpleDesc": [
         {
           "abilityID": 9178,
-          "simpleDesc": "Consume 1 Poise Potency to gain 1 Poise Count"
+          "simpleDesc": "Consume 1 [Breath] Potency to gain 1 [Breath] Count"
         }
       ]
     },
@@ -275,11 +275,11 @@
       "simpleDesc": [
         {
           "abilityID": 9180,
-          "simpleDesc": "Gain Poise Count"
+          "simpleDesc": "Gain [Breath] Count"
         },
         {
           "abilityID": 91801,
-          "simpleDesc": "Apply 2 Haste and 1 Offense Level Up"
+          "simpleDesc": "Apply 2 [Agility] and 1 [AttackUp]"
         },
         {
           "abilityID": 91802,
@@ -287,7 +287,7 @@
         },
         {
           "abilityID": 91803,
-          "simpleDesc": "Discard a Skill of the lowest rank in this unit's Skill Slot"
+          "simpleDesc": "[Discard] a Skill of the lowest rank in this unit's Skill Slot"
         }
       ]
     },

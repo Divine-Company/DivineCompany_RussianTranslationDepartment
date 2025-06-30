@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Vibration] Count"
                 }
               ]
             },
@@ -20,7 +20,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Vibration] Count"
                 }
               ]
             }
@@ -29,16 +29,16 @@
         {
           "level": 2,
           "name": "Fierce Assault",
-          "desc": "At 10+ Tremor Count, Coin Power +1",
+          "desc": "At 10+ [Vibration] Count, Coin Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count"
                 }
               ]
             },
@@ -46,10 +46,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -58,16 +58,16 @@
         {
           "level": 4,
           "name": "Fierce Assault",
-          "desc": "At 10+ Tremor Count, Coin Power +1",
+          "desc": "At 10+ [Vibration] Count, Coin Power +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             },
@@ -75,10 +75,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -92,12 +92,12 @@
         {
           "level": 1,
           "name": "Steady...",
-          "desc": "[WhenUse] Gain +2 Tremor Count",
+          "desc": "[WhenUse] Gain +2 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             }
@@ -106,12 +106,12 @@
         {
           "level": 2,
           "name": "Steady...",
-          "desc": "[WhenUse] Gain +4 Tremor Count",
+          "desc": "[WhenUse] Gain +4 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 }
               ]
             }
@@ -120,12 +120,12 @@
         {
           "level": 4,
           "name": "Steady...",
-          "desc": "[WhenUse] Gain +6 Tremor Count",
+          "desc": "[WhenUse] Gain +6 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
                 }
               ]
             }
@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 6 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ [Vibration] Count, spend all [Vibration] Count to inflict target with the same amount of [Vibration] Count\n[OnSucceedAttack] At less than 10 [Vibration] Count, gain 6 [Vibration] and trigger [VibrationExplosion] on self\nDeal Blunt damage equal to [VibrationExplosion] damage"
                 }
               ]
             }
@@ -153,12 +153,12 @@
         {
           "level": 4,
           "name": "Gamble",
-          "desc": "Coin Power +1 for every 10 Tremor Count on self (Max 2)",
+          "desc": "Coin Power +1 for every 10 [Vibration] Count on self (Max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ [Vibration] Count, spend all [Vibration] Count to inflict target with the same amount of [Vibration] Count\n[OnSucceedAttack] At less than 10 [Vibration] Count, gain 10 [Vibration] and trigger [VibrationExplosion] on self\nDeal Blunt damage equal to [VibrationExplosion] damage"
                 }
               ]
             }
@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "Crab Bastards...!",
-          "desc": "[WhenUse] Gain 1 Rupture Protection (3 times per turn)",
+          "desc": "[WhenUse] Gain 1 [BurstProtection] (3 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -785,7 +785,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] On 1 other ally with the lowest HP percentage, apply 2 Defense Level Up next turn"
+                  "desc": "[WinDuelAttack] On 1 other ally with the lowest HP percentage, apply 2 [DefenseUp] next turn"
                 }
               ]
             },
@@ -806,7 +806,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] On <style=\"highlight\">2 other allies</style> with the lowest HP percentage, apply 2 Defense Level Up next turn"
+                  "desc": "[WinDuelAttack] On <style=\"highlight\">2 other allies</style> with the lowest HP percentage, apply 2 [DefenseUp] next turn"
                 }
               ]
             },

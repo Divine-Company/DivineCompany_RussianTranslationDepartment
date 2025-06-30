@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed. If target has Bleed, inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]. If target has [Laceration], inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -30,14 +30,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -51,26 +51,26 @@
         {
           "level": 1,
           "name": "Pain",
-          "desc": "Prioritizes enemies with Bleed",
+          "desc": "Prioritizes enemies with [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 10% of damage dealt as bonus damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 10% of damage dealt as bonus damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Bleed by Bleed on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] by [Laceration] on target"
                 }
               ]
             }
@@ -84,7 +84,7 @@
         {
           "level": 1,
           "name": "Defend",
-          "desc": "If this unit has Shield HP, inflict 2 Bleed next turn On Hit",
+          "desc": "If this unit has Shield HP, inflict 2 [Laceration] next turn On Hit",
           "coinlist": [
             {
               "coindescs": [
@@ -108,7 +108,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed. If target has Bleed, inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]. If target has [Laceration], inflict +2 [Laceration] Count"
                 }
               ]
             }
@@ -127,14 +127,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
                 }
               ]
             }
@@ -148,32 +148,32 @@
         {
           "level": 1,
           "name": "Pain",
-          "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.",
+          "desc": "Prioritizes targets with [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 10% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses (Bleed on target) SP"
+                  "desc": "[OnSucceedAttackHead] Target loses ([Laceration] on target) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 10% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses (Bleed on target) SP"
+                  "desc": "[OnSucceedAttackHead] Target loses ([Laceration] on target) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Bleed by Bleed on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] by [Laceration] on target"
                 }
               ]
             }
@@ -211,7 +211,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed. If target has Bleed, inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]. If target has [Laceration], inflict +2 [Laceration] Count"
                 }
               ]
             }
@@ -230,14 +230,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
                 }
               ]
             }
@@ -251,35 +251,35 @@
         {
           "level": 1,
           "name": "Pain",
-          "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
+          "desc": "Prioritizes targets with [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 20% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses (Bleed on target) SP"
+                  "desc": "[OnSucceedAttack] Target loses ([Laceration] on target) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 20% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses (Bleed on target) SP"
+                  "desc": "[OnSucceedAttack] Target loses ([Laceration] on target) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Bleed by Bleed on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] by [Laceration] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ Bleed, Reuse this Coin once"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Laceration], Reuse this Coin once"
                 }
               ]
             }
@@ -317,20 +317,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed. If target has Bleed, inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]. If target has [Laceration], inflict +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Laceration] Count"
                 }
               ]
             }
@@ -349,21 +349,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
                 }
               ]
             }
@@ -377,45 +377,45 @@
         {
           "level": 1,
           "name": "Pain",
-          "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 15 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
+          "desc": "Prioritizes targets with [Laceration]\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 15 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 20% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                  "desc": "[OnSucceedAttack] Target loses ([Laceration] on target/2) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 20% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                  "desc": "[OnSucceedAttack] Target loses ([Laceration] on target/2) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If target has [Laceration], deal 20% of damage dealt as bonus damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                  "desc": "[OnSucceedAttack] Target loses ([Laceration] on target/2) SP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Bleed by Bleed on target"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] by [Laceration] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 7+ Bleed, Reuse this Coin once"
+                  "desc": "[OnSucceedAttack] If target has 7+ [Laceration], Reuse this Coin once"
                 }
               ]
             }

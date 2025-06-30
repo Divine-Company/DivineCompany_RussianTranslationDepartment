@@ -578,7 +578,7 @@
         {
           "level": 1,
           "name": "6:5",
-          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict Marked on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to Max HP",
+          "desc": "[CantDuel][CantChangeTarget]\nTake damage in the target's place. Get staggered next turn.\nInflict [AaCePcBa] on a random enemy without [AaCePcBa].\n[EndBattle] All Candles heal to Max HP",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
                   "desc": "[OnSucceedAttack] This unit's max HP decreases by 5%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion] on self"
                 }
               ]
             },
@@ -596,7 +596,7 @@
                   "desc": "[OnSucceedAttack] This unit's max HP decreases by 5%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn on self"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion] on self"
                 }
               ]
             }
@@ -632,19 +632,19 @@
         {
           "level": 1,
           "name": "Insidious Pallidification",
-          "desc": "[StartBattle] Gain 10% of Max HP as Shield. For every Queequeg's Ego, gain additional 0.3% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 Queequeg's Ego",
+          "desc": "[StartBattle] Gain 10% of Max HP as Shield. For every [AaCePcBq], gain additional 0.3% of Max HP as additional Shield.\nWhen attacked while Shielded, attacker loses 5 SP\nWhen attacked, use this Skill once for every 10 [AaCePcBq]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }

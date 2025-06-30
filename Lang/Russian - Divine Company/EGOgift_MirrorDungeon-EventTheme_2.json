@@ -227,7 +227,7 @@
       "simpleDesc": [
         {
           "abilityID": 9758,
-          "simpleDesc": "Heal SP, gain Clash Power Up, and E.G.O resources when substituting in"
+          "simpleDesc": "Heal SP, gain [ParryingResultUp], and E.G.O resources when substituting in"
         }
       ]
     },
@@ -332,7 +332,7 @@
       "simpleDesc": [
         {
           "abilityID": 9765,
-          "simpleDesc": "Gain Poise Potency"
+          "simpleDesc": "Gain [Breath] Potency"
         },
         {
           "abilityID": 97651,
@@ -571,7 +571,7 @@
         },
         {
           "abilityID": 97781,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Gain [AttackUp]"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "simpleDesc": [
         {
           "abilityID": 9779,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Gain [AttackUp]"
         },
         {
           "abilityID": 97791,
@@ -601,11 +601,11 @@
         },
         {
           "abilityID": 97801,
-          "simpleDesc": "Randomly apply Offense Level Up between allies"
+          "simpleDesc": "Randomly apply [AttackUp] between allies"
         },
         {
           "abilityID": 97802,
-          "simpleDesc": "Randomly apply Offense Level Up between allies"
+          "simpleDesc": "Randomly apply [AttackUp] between allies"
         }
       ]
     },
@@ -616,7 +616,7 @@
       "simpleDesc": [
         {
           "abilityID": 9781,
-          "simpleDesc": "Gain Protection and heal SP"
+          "simpleDesc": "Gain [Protection] and heal SP"
         },
         {
           "abilityID": 97811,
@@ -631,11 +631,11 @@
       "simpleDesc": [
         {
           "abilityID": 9782,
-          "simpleDesc": "Gain Lust Power Up"
+          "simpleDesc": "Gain [ScarletResultUp]"
         },
         {
           "abilityID": 97821,
-          "simpleDesc": "Gain Lust Power Up and Slash Power Up"
+          "simpleDesc": "Gain [ScarletResultUp] and [SlashResultUp]"
         }
       ]
     },
@@ -646,15 +646,15 @@
       "simpleDesc": [
         {
           "abilityID": 9783,
-          "simpleDesc": "Gain Lust Power Up and Slash Power Up"
+          "simpleDesc": "Gain [ScarletResultUp] and [SlashResultUp]"
         },
         {
           "abilityID": 97831,
-          "simpleDesc": "Gain Coin Power, inflict more Bleed and Bleed Count, and deal more damage"
+          "simpleDesc": "Gain Coin Power, inflict more [Laceration] and [Laceration] Count, and deal more damage"
         },
         {
           "abilityID": 97832,
-          "simpleDesc": "Nullify the first Stagger Threshold; gain Protection at under certain HP; gain Haste after taking damage"
+          "simpleDesc": "Nullify the first Stagger Threshold; gain [Protection] at under certain HP; gain [Agility] after taking damage"
         }
       ]
     },
@@ -665,7 +665,7 @@
       "simpleDesc": [
         {
           "abilityID": 9784,
-          "simpleDesc": "Gain Slash Power Up and deal more damage"
+          "simpleDesc": "Gain [SlashResultUp] and deal more damage"
         },
         {
           "abilityID": 97841,
@@ -673,7 +673,7 @@
         },
         {
           "abilityID": 97842,
-          "simpleDesc": "Gain Slash DMG Up"
+          "simpleDesc": "Gain [SlashDamageUp]"
         }
       ]
     },
@@ -688,11 +688,11 @@
         },
         {
           "abilityID": 97851,
-          "simpleDesc": "Gain Slash DMG Up, Offense Level Up, and Defense Level Up"
+          "simpleDesc": "Gain [SlashDamageUp], [AttackUp], and [DefenseUp]"
         },
         {
           "abilityID": 97852,
-          "simpleDesc": "Gain Damage Up"
+          "simpleDesc": "Gain [AttackDmgUp]"
         }
       ]
     },
@@ -714,11 +714,11 @@
       "simpleDesc": [
         {
           "abilityID": 9787,
-          "simpleDesc": "Inflict Rupture"
+          "simpleDesc": "Inflict [Burst]"
         },
         {
           "abilityID": 97871,
-          "simpleDesc": "Inflict Rupture Potency and Count"
+          "simpleDesc": "Inflict [Burst] Potency and Count"
         }
       ]
     },
@@ -729,7 +729,7 @@
       "simpleDesc": [
         {
           "abilityID": 9788,
-          "simpleDesc": "Inflict Rupture or Rupture Count"
+          "simpleDesc": "Inflict [Burst] or [Burst] Count"
         }
       ]
     },
@@ -740,7 +740,7 @@
       "simpleDesc": [
         {
           "abilityID": 9789,
-          "simpleDesc": "Deal more Blunt damage. The Middle Identities gain Offense Level Up as well"
+          "simpleDesc": "Deal more Blunt damage. The Middle Identities gain [AttackUp] as well"
         }
       ]
     },
@@ -751,11 +751,11 @@
       "simpleDesc": [
         {
           "abilityID": 9790,
-          "simpleDesc": "Clash Power Up"
+          "simpleDesc": "[ParryingResultUp]"
         },
         {
           "abilityID": 97901,
-          "simpleDesc": "Deal additional damage when dealing damage with Heishou - Mao Talisman"
+          "simpleDesc": "Deal additional damage when dealing damage with Heishou - Mao [Talisman]"
         }
       ]
     },
@@ -766,7 +766,7 @@
       "simpleDesc": [
         {
           "abilityID": 9791,
-          "simpleDesc": "Gain Haste"
+          "simpleDesc": "Gain [Agility]"
         },
         {
           "abilityID": 97911,
@@ -785,11 +785,11 @@
       "simpleDesc": [
         {
           "abilityID": 9792,
-          "simpleDesc": "Deal more Blunt damage. The Middle Identities gain Offense Level Up as well"
+          "simpleDesc": "Deal more Blunt damage. The Middle Identities gain [AttackUp] as well"
         },
         {
           "abilityID": 97921,
-          "simpleDesc": "Blunt Skill Power Up"
+          "simpleDesc": "Blunt Skill [ResultEnhancement]"
         },
         {
           "abilityID": 97922,
@@ -804,26 +804,26 @@
       "simpleDesc": [
         {
           "abilityID": 9793,
-          "simpleDesc": "Inflict Rupture"
+          "simpleDesc": "Inflict [Burst]"
         },
         {
           "abilityID": 97931,
-          "simpleDesc": "Inflict Rupture"
+          "simpleDesc": "Inflict [Burst]"
         },
         {
           "abilityID": 97932,
-          "simpleDesc": "Clash Power Up"
+          "simpleDesc": "[ParryingResultUp]"
         },
         {
           "abilityID": 97933,
-          "simpleDesc": "Deal additional damage when dealing damage with Heishou - Mao Talisman"
+          "simpleDesc": "Deal additional damage when dealing damage with Heishou - Mao [Talisman]"
         }
       ]
     },
     {
       "id": 9794,
       "name": "Swishing Fuel Tank",
-      "desc": "[Effects apply only to #2, #4 Deployed Identities]\n\nWhen taking lethal damage, 60% chance to not take that damage and heal 30 HP. (once per Encounter)\nThe above effect does not activate under the following conditions:\n- When the Skill damage taken exceeds the unit's max HP\n- When the unit has the HP Healing Down effect",
+      "desc": "[Effects apply only to #2, #4 Deployed Identities]\n\nWhen taking lethal damage, 60% chance to not take that damage and heal 30 HP. (once per Encounter)\nThe above effect does not activate under the following conditions:\n- When the Skill damage taken exceeds the unit's max HP\n- When the unit has the [TakeHpHealReduce] effect",
       "simpleDesc": [
         {
           "abilityID": 9794,

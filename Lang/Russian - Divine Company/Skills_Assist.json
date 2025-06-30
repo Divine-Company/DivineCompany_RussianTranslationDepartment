@@ -98,13 +98,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 7 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 7 [Laceration]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Deal +200% damage"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[CriticalOnSucceedAttack] Inflict +3 [Laceration] Count"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count"

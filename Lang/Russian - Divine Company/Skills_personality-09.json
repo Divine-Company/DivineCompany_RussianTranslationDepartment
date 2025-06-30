@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Illuminate Thy Vacuity",
-          "desc": "Gain (Insight x 3% of Max HP) Shield if this Skill is Discarded",
+          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded",
           "coinlist": [
             {},
             {},
@@ -22,7 +22,7 @@
         {
           "level": 2,
           "name": "Illuminate Thy Vacuity",
-          "desc": "Gain (Insight x 4% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If Insight is 2 or higher, gain Coin Power by (Insight -1)",
+          "desc": "Gain ([KnowledgeExplored] x 4% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If [KnowledgeExplored] is 2 or higher, gain Coin Power by ([KnowledgeExplored] -1)",
           "coinlist": [
             {},
             {},
@@ -38,7 +38,7 @@
         {
           "level": 4,
           "name": "Illuminate Thy Vacuity",
-          "desc": "Gain (Insight x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If Insight is 2 or higher, gain Coin Power by (Insight -1)",
+          "desc": "Gain ([KnowledgeExplored] x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] If [KnowledgeExplored] is 2 or higher, gain Coin Power by ([KnowledgeExplored] -1)",
           "coinlist": [
             {},
             {},
@@ -59,7 +59,7 @@
         {
           "level": 1,
           "name": "Weight of Knowledge",
-          "desc": "Gain (Insight x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 Aggro next turn",
+          "desc": "Gain ([KnowledgeExplored] x 5% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 [Aggro] next turn",
           "coinlist": [
             {},
             {},
@@ -67,7 +67,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             }
@@ -76,7 +76,7 @@
         {
           "level": 2,
           "name": "Weight of Knowledge",
-          "desc": "Gain (Insight x 8% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 Aggro next turn",
+          "desc": "Gain ([KnowledgeExplored] x 8% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 [Aggro] next turn",
           "coinlist": [
             {},
             {},
@@ -84,7 +84,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 }
               ]
             }
@@ -93,7 +93,7 @@
         {
           "level": 4,
           "name": "Weight of Knowledge",
-          "desc": "Gain (Insight x 10% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 5+ [Sinking], gain Clash Power +2",
+          "desc": "Gain ([KnowledgeExplored] x 10% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 [Aggro] next turn\n[WhenUse] If target has 5+ [Sinking], gain Clash Power +2",
           "coinlist": [
             {},
             {},
@@ -101,7 +101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
                 }
               ]
             }
@@ -115,12 +115,12 @@
         {
           "level": 3,
           "name": "Excruciating Study",
-          "desc": "Gain (Insight x 15% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 Aggro next turn",
+          "desc": "Gain ([KnowledgeExplored] x 15% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 3 [Aggro] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +4 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +4 [Sinking] Count"
                 }
               ]
             },
@@ -129,7 +129,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -138,12 +138,12 @@
         {
           "level": 4,
           "name": "Excruciating Study",
-          "desc": "Gain (Insight x 20% of Max HP) Shield if this Skill is Discarded\n[WhenUse] Discard 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn\n[WhenUse] If target has 7+ [Sinking], gain Coin Power +1",
+          "desc": "Gain ([KnowledgeExplored] x 20% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 2 Skills of the lowest ranks in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 [Aggro] next turn\n[WhenUse] If target has 7+ [Sinking], gain Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +4 [Sinking] Count"
                 }
               ]
             },
@@ -152,7 +152,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -166,7 +166,7 @@
         {
           "level": 3,
           "name": "Fixated Study",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 Aggro next turn",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 2 [Aggro] next turn",
           "coinlist": [
             {}
           ]
@@ -174,7 +174,7 @@
         {
           "level": 4,
           "name": "Fixated Study",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 Aggro next turn",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] This Slot gains 5 [Aggro] next turn",
           "coinlist": [
             {}
           ]

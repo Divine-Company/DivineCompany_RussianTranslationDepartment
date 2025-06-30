@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +3 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain +3 [Charge] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Give +1 Poise Count to 1 random ally"
+                  "desc": "[OnSucceedAttack] Give +1 [Breath] Count to 1 random ally"
                 }
               ]
             }
@@ -30,10 +30,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +4 Charge Count"
+                  "desc": "[OnSucceedAttackHead] Gain +4 [Charge] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Give +1 Poise Count to 1 random ally"
+                  "desc": "[OnSucceedAttack] Give +1 [Breath] Count to 1 random ally"
                 },
                 {
                   "desc": "[EndSkillHead] Apply 1 [PenetrateResultUp] and 1 [AttackDmgUp] to 4 allies with the highest SP"
@@ -51,10 +51,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +6 Charge Count"
+                  "desc": "[OnSucceedAttack] Gain +6 [Charge] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Give +2 Poise Count to 1 random ally"
+                  "desc": "[OnSucceedAttack] Give +2 [Breath] Count to 1 random ally"
                 },
                 {
                   "desc": "[EndSkill] Apply 2 [PenetrateResultUp] and 2 [AttackDmgUp] to 4 allies with the highest SP"
@@ -77,10 +77,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise and +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Pride Fragility this turn and next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] this turn and next turn"
                 }
               ]
             }
@@ -98,13 +98,13 @@
                   "desc": "[OnSucceedAttackTail] Heal 3% of Max HP on self"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise and +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Pride Fragility this turn and next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] this turn and next turn"
                 },
                 {
-                  "desc": "[EndSkillTail] Apply 2 Damage Up this turn and next turn to 4 allies with the least SP"
+                  "desc": "[EndSkillTail] Apply 2 [AttackDmgUp] this turn and next turn to 4 allies with the least SP"
                 }
               ]
             }
@@ -122,13 +122,13 @@
                   "desc": "[OnSucceedAttack] Heal 3% of Max HP on self"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Poise and +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Pride Fragility this turn and next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [IndigoTakeDamageUp] this turn and next turn"
                 },
                 {
-                  "desc": "[EndSkill] Apply 2 Damage Up this turn and next turn to 4 allies with the least SP"
+                  "desc": "[EndSkill] Apply 2 [AttackDmgUp] this turn and next turn to 4 allies with the least SP"
                 }
               ]
             }

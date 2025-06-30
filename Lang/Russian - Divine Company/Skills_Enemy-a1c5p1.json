@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Sinking]"
                 }
               ]
             }
@@ -63,7 +63,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Sinking] Count"
                 }
               ]
             }
@@ -77,7 +77,7 @@
         {
           "level": 1,
           "name": "Mucous Skin",
-          "desc": "If attacked while Shielded, inflict 1 Sinking on the attacker",
+          "desc": "If attacked while Shielded, inflict 1 [Sinking] on the attacker",
           "coinlist": [
             {}
           ]
@@ -95,7 +95,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
                 }
               ]
             }
@@ -114,14 +114,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
                 }
               ]
             }
@@ -135,7 +135,7 @@
         {
           "level": 1,
           "name": "Battle Cry",
-          "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+          "desc": "[WhenUse] Gain 2 [Breath] next turn.\nTurn End: Heal HP equal to the Shield HP.",
           "coinlist": [
             {}
           ]
@@ -179,7 +179,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Laceration] Count"
                 }
               ]
             }
@@ -198,14 +198,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
                 }
               ]
             }
@@ -219,7 +219,7 @@
         {
           "level": 1,
           "name": "Battle Cry",
-          "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+          "desc": "[WhenUse] Gain 2 [Breath] next turn.\nTurn End: Heal HP equal to the Shield HP.",
           "coinlist": [
             {
               "coindescs": [
@@ -269,10 +269,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
                 }
               ]
             }
@@ -292,7 +292,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed and +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration] and +3 [Laceration] Count"
                 }
               ]
             }
@@ -306,19 +306,19 @@
         {
           "level": 1,
           "name": "Faster",
-          "desc": "[EndSkill] Gain 1 Damage Up next turn",
+          "desc": "[EndSkill] Gain 1 [AttackDmgUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Poise next turn"
+                  "desc": "[OnSucceedAttack] Gain 4 [Breath] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -332,7 +332,7 @@
         {
           "level": 1,
           "name": "Battle Cry",
-          "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+          "desc": "[WhenUse] Gain 2 [Breath] next turn.\nTurn End: Heal HP equal to the Shield HP.",
           "coinlist": [
             {}
           ]
@@ -364,15 +364,15 @@
         {
           "level": 1,
           "name": "Hit Me Harder",
-          "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection",
+          "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 [Protection]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -386,25 +386,25 @@
         {
           "level": 1,
           "name": "Hit Me Right here",
-          "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Protection",
+          "desc": "[WhenUse] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 [Protection]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDmgDown] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -418,22 +418,22 @@
         {
           "level": 1,
           "name": "Even Harder",
-          "desc": "[EndSkill] Gain 1 Damage Up next turn",
+          "desc": "[EndSkill] Gain 1 [AttackDmgUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Protection"
+                  "desc": "[OnSucceedAttack] Gain 2 [Protection]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Protection next turn"
+                  "desc": "[OnSucceedAttack] Gain 2 [Protection] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Poise next turn"
+                  "desc": "[OnSucceedAttack] Gain 4 [Breath] next turn"
                 }
               ]
             }
@@ -447,7 +447,7 @@
         {
           "level": 1,
           "name": "Defend",
-          "desc": "[WhenUse] Gain 2 Poise next turn.\nTurn End: Heal HP equal to the Shield HP.",
+          "desc": "[WhenUse] Gain 2 [Breath] next turn.\nTurn End: Heal HP equal to the Shield HP.",
           "coinlist": [
             {}
           ]
@@ -478,14 +478,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 }
               ]
             }
@@ -504,10 +504,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking Fragility"
+                  "desc": "[OnSucceedAttack] Inflict 2 [SinkingVulnerable]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
@@ -529,20 +529,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -556,12 +556,12 @@
         {
           "level": 1,
           "name": "Shrieking Waves",
-          "desc": "Damage +20% per 5 Sinking Potency on target\nIf target's SP is below 0, deal +10% damage",
+          "desc": "Damage +20% per 5 [Sinking] Potency on target\nIf target's SP is below 0, deal +10% damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Sinking Deluge"
+                  "desc": "[OnSucceedAttack] [SinkingSurge]"
                 }
               ]
             }
@@ -575,7 +575,7 @@
         {
           "level": 1,
           "name": "Mucous Skin",
-          "desc": "If attacked while Shielded, inflict 1 Sinking on the attacker",
+          "desc": "If attacked while Shielded, inflict 1 [Sinking] on the attacker",
           "coinlist": [
             {}
           ]
@@ -593,7 +593,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 }
               ]
             }
@@ -612,20 +612,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Laceration]"
                 }
               ]
             }
@@ -639,13 +639,13 @@
         {
           "level": 1,
           "name": "Battle Command",
-          "desc": "[WhenUse] Gain 5 Poise this turn",
+          "desc": "[WhenUse] Gain 5 [Breath] this turn",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 2 Protection, 1 Attack Power Up to all other allies next turn"
+                  "desc": "[OnSucceedAttack] Apply 2 [Protection], 1 [Enhancement] to all other allies next turn"
                 }
               ]
             }
@@ -664,20 +664,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed Count\nDeal bonus damage equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] Count\nDeal bonus damage equal to <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
                 },
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "Spend 1 [Bullet]"
                 }
               ]
             }
@@ -691,7 +691,7 @@
         {
           "level": 1,
           "name": "Evade",
-          "desc": "[OnSucceedEvade] Gain 5 Poise next turn.\n[OnSucceedEvade] Apply 2 Poise to all allies next turn.",
+          "desc": "[OnSucceedEvade] Gain 5 [Breath] next turn.\n[OnSucceedEvade] Apply 2 [Breath] to all allies next turn.",
           "coinlist": [
             {
               "coindescs": [

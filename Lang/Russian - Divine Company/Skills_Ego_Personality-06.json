@@ -77,10 +77,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
                 }
               ]
             }
@@ -95,10 +95,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 }
               ]
             }
@@ -113,10 +113,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 }
               ]
             }
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] by (Gluttony Reson. /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -154,13 +154,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] by (Gluttony Reson. /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Gluttony Fragility next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [ShamrockTakeDamageUp] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -175,13 +175,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture by (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] by (Gluttony Reson. /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Gluttony Fragility next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [ShamrockTakeDamageUp] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -201,13 +201,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] Count by (Gluttony Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 20% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -222,13 +222,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] Count by (Gluttony Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 }
               ]
             }
@@ -243,13 +243,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Rupture Count by (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] Inflict [Burst] Count by (Gluttony Reson. /3)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 50% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
                 }
               ]
             }

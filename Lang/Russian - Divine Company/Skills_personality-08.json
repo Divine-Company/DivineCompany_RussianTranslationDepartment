@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +3 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -27,19 +27,19 @@
         {
           "level": 2,
           "name": "Ready to Crush",
-          "desc": "[WhenUse] Gain +3 Tremor Count",
+          "desc": "[WhenUse] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +3 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -48,19 +48,19 @@
         {
           "level": 4,
           "name": "Ready to Crush",
-          "desc": "[WhenUse] Gain +3 Tremor Count",
+          "desc": "[WhenUse] Gain +3 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +3 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -79,17 +79,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [DefenseDown] next turn"
                 }
               ]
             }
@@ -98,25 +98,25 @@
         {
           "level": 2,
           "name": "Explosive Blast",
-          "desc": "At 5+ Tremor Count, Coin Power +1",
+          "desc": "At 5+ [Vibration] Count, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown] next turn"
                 }
               ]
             }
@@ -125,25 +125,25 @@
         {
           "level": 4,
           "name": "Explosive Blast",
-          "desc": "At 5+ Tremor Count, Coin Power +1",
+          "desc": "At 5+ [Vibration] Count, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [DefenseDown] next turn"
                 }
               ]
             }
@@ -157,32 +157,32 @@
         {
           "level": 3,
           "name": "Risky Judgement",
-          "desc": "At 5+ Tremor Count, Coin Power +1\nIf target has 6+ Sinking, deal +20% damage",
+          "desc": "At 5+ [Vibration] Count, Coin Power +1\nIf target has 6+ [Sinking], deal +20% damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Spend 5 [Vibration] Count to inflict 1 [Vulnerable] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Spend 5 [Vibration] Count to inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -191,32 +191,32 @@
         {
           "level": 4,
           "name": "Risky Judgement",
-          "desc": "Coin Power +1 for every 5 Tremor Count on self (Max 2)\nIf target has 6+ Sinking, deal +40% damage",
+          "desc": "Coin Power +1 for every 5 [Vibration] Count on self (Max 2)\nIf target has 6+ [Sinking], deal +40% damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Spend 5 [Vibration] Count to inflict 1 [Vulnerable] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend 5 Tremor Count to inflict 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Spend 5 [Vibration] Count to inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
@@ -230,7 +230,7 @@
         {
           "level": 1,
           "name": "Nimble Steps",
-          "desc": "[WhenUse] Gain 2 Rupture Protection (6 times per turn)",
+          "desc": "[WhenUse] Gain 2 [BurstProtection] (6 times per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -255,7 +255,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -264,13 +264,13 @@
         {
           "level": 2,
           "name": "To Me!",
-          "desc": "[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
+          "desc": "[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 [Protection] to the ally next turn when they gain [Aggro] (Once per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -279,13 +279,13 @@
         {
           "level": 4,
           "name": "To Me!",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
+          "desc": "<style=\"highlight\">[StartBattle] Apply 2 [DefenseUp] to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) [Aggro] (Once per turn)\n- At 4+ highest A-Reson., apply 1 [Protection] to the ally next turn when they gain [Aggro] (Once per turn)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             }
@@ -305,14 +305,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Combustion]"
                 }
               ]
             }
@@ -321,20 +321,20 @@
         {
           "level": 2,
           "name": "Pursue Them to the End!",
-          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 Damage Up to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up",
+          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 [AttackDmgUp] to the ally\n- At 4+ Pride A-Reson., apply 1 additional [IndigoResultUp]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             }
@@ -343,20 +343,20 @@
         {
           "level": 4,
           "name": "Pursue Them to the End!",
-          "desc": "[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 Damage Up to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up",
+          "desc": "[StartBattle] Apply 3 [AttackUp] to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 [AttackDmgUp] to the ally\n- At 4+ Pride A-Reson., apply 2 additional [IndigoResultUp]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             }
@@ -370,27 +370,27 @@
         {
           "level": 3,
           "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 [Breath], and +4 [Breath] Count. (2 times max. Max # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 }
               ]
             }
@@ -399,27 +399,27 @@
         {
           "level": 4,
           "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, max +30%)\nCoin Power +1 for every 5 [Laceration] on target (Max 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, max +30%)\nCoin Power +1 for every 5 [Laceration] on target (Max 2)\n[EndSkill] If target is Staggered or defeated, (1+(highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 [Breath], and gain +4 [Breath] Count. (4 times max. Max # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 }
               ]
             }

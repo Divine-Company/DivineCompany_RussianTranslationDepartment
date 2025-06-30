@@ -337,7 +337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Erase the target's time. Once this unit erases the target's time, all Parts recover [OwnTime] to their max values and gain 10 Haste and 10 Attack Power Up next turn."
+                  "desc": "[OnSucceedAttack] Erase the target's time. Once this unit erases the target's time, all Parts recover [OwnTime] to their max values and gain 10 [Agility] and 10 [Enhancement] next turn."
                 }
               ]
             }
@@ -418,7 +418,7 @@
                   "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
                 }
               ]
             }

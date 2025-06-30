@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 Sinking and +5 Sinking Count"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Sinking] and +5 [Sinking] Count"
                 }
               ]
             }
@@ -52,14 +52,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal bonus damage by target’s Sinking"
+                  "desc": "[OnSucceedAttackHead] Deal bonus damage by target’s [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking"
+                  "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’s [Sinking]"
                 }
               ]
             }
@@ -73,26 +73,26 @@
         {
           "level": 1,
           "name": "Gushing Gloom",
-          "desc": "[WhenUse] Target loses 5 SP\nTargets the enemy with the most Sinking",
+          "desc": "[WhenUse] Target loses 5 SP\nTargets the enemy with the most [Sinking]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal bonus damage by target’s Sinking"
+                  "desc": "[OnSucceedAttackHead] Deal bonus damage by target’s [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking"
+                  "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’s [Sinking]"
                 }
               ]
             }
@@ -106,12 +106,12 @@
         {
           "level": 1,
           "name": "Eyeball Weight",
-          "desc": "[DefeatDuel] Cancel all skills\n[DefeatDuel] Gain 3 Fragile\nIf the target is below 0 SP, +10% Damage",
+          "desc": "[DefeatDuel] Cancel all skills\n[DefeatDuel] Gain 3 [Vulnerable]\nIf the target is below 0 SP, +10% Damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Double target’s Sinking and its Count"
+                  "desc": "[OnSucceedAttackHead] Double target’s [Sinking] and its Count"
                 }
               ]
             }
@@ -130,7 +130,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking"
+                  "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’s [Sinking]"
                 }
               ]
             }
@@ -149,7 +149,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal bonus damage by target’s Sinking"
+                  "desc": "[OnSucceedAttackHead] Deal bonus damage by target’s [Sinking]"
                 }
               ]
             }
@@ -163,7 +163,7 @@
         {
           "level": 1,
           "name": "Croohoo",
-          "desc": "[StartBattle] Gain 2 Protection",
+          "desc": "[StartBattle] Gain 2 [Protection]",
           "coinlist": []
         }
       ]
@@ -174,7 +174,7 @@
         {
           "level": 1,
           "name": "Booting Town Tour",
-          "desc": "[WhenUse] Gain +4 Charge Count",
+          "desc": "[WhenUse] Gain +4 [Charge] Count",
           "coinlist": [
             {}
           ]
@@ -193,7 +193,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [PlusCoinValueDown] next turn"
                 }
               ]
             }
@@ -212,7 +212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             }
@@ -226,12 +226,12 @@
         {
           "level": 1,
           "name": "Processing Transfer Reg",
-          "desc": "[WhenUse] Spend all Charge Count",
+          "desc": "[WhenUse] Spend all [Charge] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Put target in Captivity"
+                  "desc": "[OnSucceedAttack] Put target in [Duress]"
                 }
               ]
             }
@@ -245,12 +245,12 @@
         {
           "level": 1,
           "name": "Pleased to Meet You, Dear Neighbor",
-          "desc": "[CantDuel]\nAttacks target in Captivity",
+          "desc": "[CantDuel]\nAttacks target in [Duress]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
                 }
               ]
             }
@@ -269,14 +269,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] to inflict 5 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn"
+                  "desc": "[OnSucceedAttack] Spend 2 [Charge] to inflict 5 [Combustion]"
                 }
               ]
             }
@@ -290,7 +290,7 @@
         {
           "level": 1,
           "name": "Processing Computation",
-          "desc": "[WhenUse] Gain 5 Protection",
+          "desc": "[WhenUse] Gain 5 [Protection]",
           "coinlist": []
         }
       ]
@@ -312,12 +312,12 @@
         {
           "level": 1,
           "name": "Processing Transfer Reg",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse] Spend all Charge",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nTargets unit with most HP\n[WhenUse] Spend all [Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Put target in Captivity"
+                  "desc": "[OnSucceedAttack] Put target in [Duress]"
                 }
               ]
             }
@@ -336,7 +336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
                 }
               ]
             }
@@ -355,14 +355,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
                 }
               ]
             }
@@ -381,14 +381,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal HP damage equal to Rupture Potency\nRemove all Rupture from target"
+                  "desc": "[OnSucceedAttackHead] Deal HP damage equal to [Burst] Potency\nRemove all [Burst] from target"
                 }
               ]
             }
@@ -407,7 +407,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -427,7 +427,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 }
               ]
             }
@@ -475,13 +475,13 @@
         {
           "level": 1,
           "name": "Dāna",
-          "desc": "[WhenUse] Apply 2 Protection to a random other ally",
+          "desc": "[WhenUse] Apply 2 [Protection] to a random other ally",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDmgDown] next turn"
                 }
               ]
             }
@@ -495,13 +495,13 @@
         {
           "level": 1,
           "name": "Expound Sutras",
-          "desc": "[WhenUse] Apply 2 Attack Power Up to a random other ally",
+          "desc": "[WhenUse] Apply 2 [Enhancement] to a random other ally",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 2 Attack Power Up to a random other ally next turn"
+                  "desc": "[OnSucceedAttack] Apply 2 [Enhancement] to a random other ally next turn"
                 }
               ]
             }
@@ -515,7 +515,7 @@
         {
           "level": 1,
           "name": "Mahāsrī",
-          "desc": "[WhenUse] Give 3 Protection next turn",
+          "desc": "[WhenUse] Give 3 [Protection] next turn",
           "coinlist": []
         }
       ]
@@ -526,7 +526,7 @@
         {
           "level": 1,
           "name": "Svāhā",
-          "desc": "[WhenUse] Give 3 Damage Up next turn",
+          "desc": "[WhenUse] Give 3 [AttackDmgUp] next turn",
           "coinlist": []
         }
       ]
@@ -537,12 +537,12 @@
         {
           "level": 1,
           "name": "Prajñāpāramitā",
-          "desc": "[CantIdentify] Targets the unit with the most Karma\nDeal more damage based on target’s Karma (+2% per Count)\nIf target has no Karma, -50% Damage",
+          "desc": "[CantIdentify] Targets the unit with the most [Cycle]\nDeal more damage based on target’s [Cycle] (+2% per Count)\nIf target has no [Cycle], -50% Damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Karma, inflict 50 Karma"
+                  "desc": "[OnSucceedAttack] If target has [Cycle], inflict 50 [Cycle]"
                 }
               ]
             }
@@ -561,7 +561,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Reduction] next turn"
                 }
               ]
             }
@@ -575,12 +575,12 @@
         {
           "level": 1,
           "name": "Compulsory Offering",
-          "desc": "[DefeatDuel] Apply 20 Karma to a random other ally next turn",
+          "desc": "[DefeatDuel] Apply 20 [Cycle] to a random other ally next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 20 Karma"
+                  "desc": "[OnSucceedAttack] Inflict 20 [Cycle]"
                 }
               ]
             }
@@ -594,19 +594,19 @@
         {
           "level": 1,
           "name": "Sluggard Waker",
-          "desc": "[DefeatDuel] Apply 20 Karma to a random other ally next turn",
+          "desc": "[DefeatDuel] Apply 20 [Cycle] to a random other ally next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Karma"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Cycle]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 Karma"
+                  "desc": "[OnSucceedAttack] Inflict 10 [Cycle]"
                 }
               ]
             }
@@ -654,14 +654,14 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Samsara"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Paralysis] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Inflict 3 Fragile next turn"
+                  "desc": "Inflict 3 [Vulnerable] next turn"
                 }
               ]
             }
@@ -675,7 +675,7 @@
         {
           "level": 1,
           "name": "Bodhi Svāhā",
-          "desc": "[WhenUse] Gain 10 Damage Up\nTargets Staggered enemies first",
+          "desc": "[WhenUse] Gain 10 [AttackDmgUp]\nTargets Staggered enemies first",
           "coinlist": []
         }
       ]
@@ -691,7 +691,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Damage Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [AttackDmgDown] next turn"
                 }
               ]
             }
@@ -711,7 +711,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Binding] next turn"
                 }
               ]
             }
@@ -730,7 +730,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             }
@@ -749,7 +749,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [PlusCoinValueDown] next turn"
                 }
               ]
             }
@@ -768,7 +768,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [PlusCoinValueDown] next turn"
                 }
               ]
             },
@@ -777,7 +777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
                 }
               ]
             }
@@ -796,7 +796,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Paralysis] next turn"
                 }
               ]
             }
@@ -815,7 +815,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Damage Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
                 }
               ]
             }

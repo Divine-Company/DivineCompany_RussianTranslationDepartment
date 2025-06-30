@@ -3,17 +3,17 @@
     {
       "id": 9011001,
       "name": "Keen Strike",
-      "desc": "On Hit, inflict 1 Bleed (3 times per turn)"
+      "desc": "On Hit, inflict 1 [Laceration] (3 times per turn)"
     },
     {
       "id": 9011002,
       "name": "Deep Slash",
-      "desc": "Clash Win: inflict +1 Bleed Count"
+      "desc": "Clash Win: inflict +1 [Laceration] Count"
     },
     {
       "id": 9011301,
       "name": "Brutal Stab",
-      "desc": "Inflict +1 more Bleed when an Attack Skill inflicts Bleed"
+      "desc": "Inflict +1 more [Laceration] when an Attack Skill inflicts [Laceration]"
     },
     {
       "id": 9101301,

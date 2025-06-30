@@ -56,7 +56,7 @@
       "simpleDesc": [
         {
           "abilityID": 2066,
-          "simpleDesc": "Gain Defense Level Up equal to the number of times this unit was hit"
+          "simpleDesc": "Gain [DefenseUp] equal to the number of times this unit was hit"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "simpleDesc": [
         {
           "abilityID": 2067,
-          "simpleDesc": "Inflict 3 Rupture Potency and +1 Rupture Count to all enemies/Parts without Rupture"
+          "simpleDesc": "Inflict 3 [Burst] Potency and +1 [Burst] Count to all enemies/Parts without [Burst]"
         }
       ]
     },
@@ -78,7 +78,7 @@
       "simpleDesc": [
         {
           "abilityID": 2068,
-          "simpleDesc": "Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for 3 turns"
+          "simpleDesc": "Deployed units lose 5 SP; affected units gain [ShamrockResultUp] and [ShamrockDamageUp] for 3 turns"
         }
       ]
     },
@@ -89,22 +89,22 @@
       "simpleDesc": [
         {
           "abilityID": 2069,
-          "simpleDesc": "Combat Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for this Encounter"
+          "simpleDesc": "Combat Deployed units lose 5 SP; affected units gain [ShamrockResultUp] and [ShamrockDamageUp] for this Encounter"
         },
         {
           "abilityID": 20691,
-          "simpleDesc": "Lose 5 SP on Clash Lose. Convert the Skill's final Coin to Unbreakable Coin"
+          "simpleDesc": "Lose 5 SP on Clash Lose. Convert the Skill's final Coin to [SuperCoin]"
         }
       ]
     },
     {
       "id": 2070,
       "name": "Moon in the Water",
-      "desc": "On Hit against enemies with 5+ Rupture Potency: gain 1 Poise Potency and +1 Poise Count (3 times per Skill)\n\n<i><color=#a16a3b>How heartless they are—the flowing stream and the wilting blossom both.</color></i>",
+      "desc": "On Hit against enemies with 5+ [Burst] Potency: gain 1 [Breath] Potency and +1 [Breath] Count (3 times per Skill)\n\n<i><color=#a16a3b>How heartless they are—the flowing stream and the wilting blossom both.</color></i>",
       "simpleDesc": [
         {
           "abilityID": 2070,
-          "simpleDesc": "On Hit against enemies with 5+ Rupture: gain Poise Potency and Count"
+          "simpleDesc": "On Hit against enemies with 5+ Rupture: gain [Breath] Potency and Count"
         }
       ]
     },
@@ -119,7 +119,7 @@
         },
         {
           "abilityID": 20712,
-          "simpleDesc": "If a target with 15+ Rupture is defeated, the unit that defeated it gains 2 Offense Level Up next turn"
+          "simpleDesc": "If a target with 15+ [Burst] is defeated, the unit that defeated it gains 2 [AttackUp] next turn"
         }
       ]
     },
@@ -130,15 +130,15 @@
       "simpleDesc": [
         {
           "abilityID": 2072,
-          "simpleDesc": "Gain 1 Charge every time this unit consumes 10 Charge Count"
+          "simpleDesc": "Gain 1 [Charge] every time this unit consumes 10 [Charge] Count"
         },
         {
           "abilityID": 20721,
-          "simpleDesc": "At 2+ Charge, gain 1 Clash Power Up next turn"
+          "simpleDesc": "At 2+ [Charge], gain 1 [ParryingResultUp] next turn"
         },
         {
           "abilityID": 20722,
-          "simpleDesc": "On Hit with Skills that consumed 5+ Charge Count: inflict 1 Rupture"
+          "simpleDesc": "On Hit with Skills that consumed 5+ [Charge] Count: inflict 1 [Burst]"
         }
       ]
     },
@@ -153,7 +153,7 @@
         },
         {
           "abilityID": 20731,
-          "simpleDesc": "At -15 or less SP: convert the final Coin for their Skills into Unbreakable Coin"
+          "simpleDesc": "At -15 or less SP: convert the final Coin for their Skills into [SuperCoin]"
         }
       ]
     },
@@ -168,7 +168,7 @@
         },
         {
           "abilityID": 20741,
-          "simpleDesc": "On Hit, deal +1% damage for every (Bleed Potency on target + Bleed Count on target)"
+          "simpleDesc": "On Hit, deal +1% damage for every ([Laceration] Potency on target + [Laceration] Count on target)"
         }
       ]
     },
@@ -183,7 +183,7 @@
         },
         {
           "abilityID": 20751,
-          "simpleDesc": "Heal 50% HP and gain 2 Attack Power Up for this Encounter"
+          "simpleDesc": "Heal 50% HP and gain 2 [Enhancement] for this Encounter"
         }
       ]
     },
@@ -194,7 +194,7 @@
       "simpleDesc": [
         {
           "abilityID": 2076,
-          "simpleDesc": "Gain 2 Poise Potency and +2 Poise Count"
+          "simpleDesc": "Gain 2 [Breath] Potency and +2 [Breath] Count"
         },
         {
           "abilityID": 20761,
@@ -209,7 +209,7 @@
       "simpleDesc": [
         {
           "abilityID": 20771,
-          "simpleDesc": "Gain 1 Clash Power Up for 3 turns after Substituting in"
+          "simpleDesc": "Gain 1 [ParryingResultUp] for 3 turns after Substituting in"
         }
       ]
     },

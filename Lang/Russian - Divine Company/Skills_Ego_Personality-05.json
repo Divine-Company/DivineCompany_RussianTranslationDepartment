@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count; Inflict (Wrath A-Reson. /3) additional [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -30,10 +30,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count; Inflict (Wrath A-Reson. /3) additional [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
                 }
               ]
             }
@@ -48,10 +48,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count; Inflict (Wrath A-Reson. /3) additional [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
                 }
               ]
             }
@@ -71,10 +71,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst.\nAmount of Stagger Threshold raised by Tremor Burst increases by 30% of Tremor on target.\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion].\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 30% of [Vibration] on target.\nReduce [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
+                  "desc": "[EndSkill] Gain 3 [Binding] and 1 [HitResultUp] next turn."
                 }
               ]
             }
@@ -89,10 +89,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 40% of Tremor on target.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 40% of [Vibration] on target.\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
+                  "desc": "[EndSkill] Gain 3 [Binding] and 1 [HitResultUp] next turn."
                 }
               ]
             }
@@ -107,10 +107,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst\nAmount of Stagger Threshold raised by Tremor Burst increases by 50% of Tremor on target.\nIf target does not have a Stagger Threshold upon Tremor Burst,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50% of [Vibration] on target.\nIf target does not have a Stagger Threshold upon [VibrationExplosion],\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[EndSkill] Gain 3 Bind and 1 Blunt Power Up next turn."
+                  "desc": "[EndSkill] Gain 3 [Binding] and 1 [HitResultUp] next turn."
                 }
               ]
             }

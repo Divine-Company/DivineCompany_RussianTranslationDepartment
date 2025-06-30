@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
@@ -48,7 +48,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
@@ -71,7 +71,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 Rupture Count"
+                  "desc": "[OnSucceedAttackTail] Inflict +2 [Burst] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal self by 30% of damage dealt"
@@ -89,10 +89,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttackTail] Inflict +3 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
@@ -110,10 +110,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 }
               ]
             }
@@ -154,10 +154,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 }
               ]
             }
@@ -172,13 +172,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Attack Power Down and 1 Defense Power Down next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 [Reduction] and 1 [Disarming] next turn"
                 }
               ]
             }
@@ -198,10 +198,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 }
               ]
             }
@@ -216,13 +216,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 [ScarletTakeDamageUp] next turn"
                 }
               ]
             }
@@ -237,13 +237,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 Burn"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Burn"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 [ScarletTakeDamageUp] next turn"
                 }
               ]
             }

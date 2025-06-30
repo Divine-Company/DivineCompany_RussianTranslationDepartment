@@ -13,7 +13,7 @@
     {
       "id": 9008902,
       "name": "Crashing Filth",
-      "desc": "At 10% of Max HP, inflict 20 SP damage On Hit, inflict 1 Pallid Noise next turn, then dies."
+      "desc": "At 10% of Max HP, inflict 20 SP damage On Hit, inflict 1 [AaCePbBa] next turn, then dies."
     },
     {
       "id": 9008903,
@@ -38,7 +38,7 @@
     {
       "id": 9009202,
       "name": "Disintegrating Inorganic Material",
-      "desc": "Gain 1 Fragile next turn if an ally dies"
+      "desc": "Gain 1 [Vulnerable] next turn if an ally dies"
     },
     {
       "id": 9009301,
@@ -48,27 +48,27 @@
     {
       "id": 9009302,
       "name": "Scattered Inorganic Material",
-      "desc": "Gain 1 Attack Power Down next turn if an ally dies"
+      "desc": "Gain 1 [Reduction] next turn if an ally dies"
     },
     {
       "id": 9009401,
       "name": "Organic Breathing",
-      "desc": "If this unit dealt the final blow, apply 5 Poise to all Pallidified allies. Apply 1 Poise Count"
+      "desc": "If this unit dealt the final blow, apply 5 [Breath] to all Pallidified allies. Apply 1 [Breath] Count"
     },
     {
       "id": 9009501,
       "name": "Organic Hardening",
-      "desc": "If this unit dealt the final blow, apply 1 Protection and 2 Defense Level Up to all allies."
+      "desc": "If this unit dealt the final blow, apply 1 [Protection] and 2 [DefenseUp] to all allies."
     },
     {
       "id": 9009601,
       "name": "Vengeance Tattoo",
-      "desc": "Every time a Middle ally is killed in this encounter, gain 1 Offense Level Up (Max 5)"
+      "desc": "Every time a Middle ally is killed in this encounter, gain 1 [AttackUp] (Max 5)"
     },
     {
       "id": 9009602,
       "name": "Little Vengeance",
-      "desc": "Upon Clash Lose, gain 1 Minus Coin Boost next turn (2 times per turn)"
+      "desc": "Upon Clash Lose, gain 1 [MinusCoinValueUp] next turn (2 times per turn)"
     },
     {
       "id": 9009603,
@@ -78,7 +78,7 @@
     {
       "id": 9009604,
       "name": "Chains of Loyalty",
-      "desc": "When a Middle ally is killed, gain 1 Plus Coin Boost next turn."
+      "desc": "When a Middle ally is killed, gain 1 [PlusCoinValueUp] next turn."
     },
     {
       "id": 809901,
@@ -89,7 +89,7 @@
     {
       "id": 809902,
       "name": "Chains of Loyalty",
-      "desc": "When an ally from the Middle is killed, gain 1 Plus Coin Boost next turn. (Max 2)",
+      "desc": "When an ally from the Middle is killed, gain 1 [PlusCoinValueUp] next turn. (Max 2)",
       "summary": ""
     },
     {
@@ -107,7 +107,7 @@
     {
       "id": 809905,
       "name": "In the World of Bristly",
-      "desc": "Gain 6 Defense Level Down next turn after losing a Clash 3 times",
+      "desc": "Gain 6 [DefenseDown] next turn after losing a Clash 3 times",
       "summary": ""
     },
     {

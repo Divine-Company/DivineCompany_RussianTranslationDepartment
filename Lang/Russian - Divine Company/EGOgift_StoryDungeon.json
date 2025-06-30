@@ -47,22 +47,22 @@
     {
       "id": 1005,
       "name": "Ebony Brooch",
-      "desc": "For the first 3 turns of battle, inflict 2 Bind on all enemies.",
+      "desc": "For the first 3 turns of battle, inflict 2 [Binding] on all enemies.",
       "simpleDesc": [
         {
           "abilityID": 1005,
-          "simpleDesc": "Inflict 2 Bind"
+          "simpleDesc": "Inflict 2 [Binding]"
         }
       ]
     },
     {
       "id": 1006,
       "name": "Etched Doomsday",
-      "desc": "On the first turn of battle, inflict 1 Burn on all enemies 5 times.",
+      "desc": "On the first turn of battle, inflict 1 [Combustion] on all enemies 5 times.",
       "simpleDesc": [
         {
           "abilityID": 1006,
-          "simpleDesc": "Inflict 1 Burn"
+          "simpleDesc": "Inflict 1 [Combustion]"
         }
       ]
     },
@@ -92,7 +92,6 @@
       "id": 1013,
       "name": "Toy Screw",
       "desc": "All allies gain +10% Max HP.",
-      "abnormalityName": "Cyborg",
       "simpleDesc": [
         {
           "abilityID": 1013,
@@ -103,29 +102,29 @@
     {
       "id": 1014,
       "name": "Rainbow Mainspring",
-      "desc": "At the start of the turn, apply 2 Protection to the ally with the least HP.",
+      "desc": "At the start of the turn, apply 2 [Protection] to the ally with the least HP.",
       "simpleDesc": [
         {
           "abilityID": 1014,
-          "simpleDesc": "Gain 2 Protection"
+          "simpleDesc": "Gain 2 [Protection]"
         }
       ]
     },
     {
       "id": 1015,
       "name": "Rusty Mainspring",
-      "desc": "At the start of the turn, apply 1 Protection to the ally with the least HP.",
+      "desc": "At the start of the turn, apply 1 [Protection] to the ally with the least HP.",
       "simpleDesc": [
         {
           "abilityID": 1015,
-          "simpleDesc": "Gain 1 Protection"
+          "simpleDesc": "Gain 1 [Protection]"
         }
       ]
     },
     {
       "id": 1016,
       "name": "Emergency Surgical Kit",
-      "desc": "During battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gain 3 Surgery.\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)",
+      "desc": "During battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gain 3 [Operation].\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)",
       "simpleDesc": [
         {
           "abilityID": 1016,
@@ -133,22 +132,22 @@
         },
         {
           "abilityID": 10161,
-          "simpleDesc": "Gain 3 Surgery"
+          "simpleDesc": "Gain 3 [Operation]"
         }
       ]
     },
     {
       "id": 1018,
       "name": "Writhing Ribbon",
-      "desc": "After winning a Clash using a Lust skill, inflict 1 Bind and 1 Fragile next turn.",
+      "desc": "After winning a Clash using a Lust skill, inflict 1 [Binding] and 1 [Vulnerable] next turn.",
       "simpleDesc": [
         {
           "abilityID": 1018,
-          "simpleDesc": "Inflict 1 Bind"
+          "simpleDesc": "Inflict 1 [Binding]"
         },
         {
           "abilityID": 10181,
-          "simpleDesc": "Inflict 1 Fragile"
+          "simpleDesc": "Inflict 1 [Vulnerable]"
         }
       ]
     },
@@ -199,11 +198,11 @@
     {
       "id": 1032,
       "name": "Torch Stack",
-      "desc": "Start the next 3 battles with 3 Haste.\nExpires afterward.",
+      "desc": "Start the next 3 battles with 3 [Agility].\nExpires afterward.",
       "simpleDesc": [
         {
           "abilityID": 1032,
-          "simpleDesc": "Gain 3 Haste"
+          "simpleDesc": "Gain 3 [Agility]"
         }
       ]
     },
@@ -221,15 +220,15 @@
     {
       "id": 1034,
       "name": "Blood-red Mane",
-      "desc": "Allies with Lust skills gain the following effects:\nIf the unit took no damage from attacks this turn, gain 2 Haste and 2 Defense Power Up next turn.\nIf the unit took damage from attacks this turn, gain 2 Bind and 2 Attack Power Up next turn.",
+      "desc": "Allies with Lust skills gain the following effects:\nIf the unit took no damage from attacks this turn, gain 2 [Agility] and 2 [Endurance] next turn.\nIf the unit took damage from attacks this turn, gain 2 [Binding] and 2 [Enhancement] next turn.",
       "simpleDesc": [
         {
           "abilityID": 1034,
-          "simpleDesc": "Gain 2 Haste and Defense Power Up"
+          "simpleDesc": "Gain 2 [Agility] and [Endurance]"
         },
         {
           "abilityID": 10341,
-          "simpleDesc": "Gain 2 Bind and Attack Power Up"
+          "simpleDesc": "Gain 2 [Binding] and [Enhancement]"
         }
       ]
     },
@@ -280,11 +279,11 @@
     {
       "id": 1041,
       "name": "Hemorrhagic Hand",
-      "desc": "At the start of the turn, apply 2 Attack Power Up to allies at 25% or lower health.",
+      "desc": "At the start of the turn, apply 2 [Enhancement] to allies at 25% or lower health.",
       "simpleDesc": [
         {
           "abilityID": 1041,
-          "simpleDesc": "Gain 2 Attack Power Up"
+          "simpleDesc": "Gain 2 [Enhancement]"
         }
       ]
     },
@@ -346,22 +345,22 @@
     {
       "id": 1049,
       "name": "Hammer",
-      "desc": "When inflicting Tremor with skill effects, inflict 1 more at a 50% chance.",
+      "desc": "When inflicting [Vibration] with skill effects, inflict 1 more at a 50% chance.",
       "simpleDesc": [
         {
           "abilityID": 1049,
-          "simpleDesc": "Inflict 1 additional Tremor"
+          "simpleDesc": "Inflict 1 additional [Vibration]"
         }
       ]
     },
     {
       "id": 1050,
       "name": "Nagel",
-      "desc": "When inflicting Bleed with skill effects, inflict 1 more at a 50% chance.",
+      "desc": "When inflicting [Laceration] with skill effects, inflict 1 more at a 50% chance.",
       "simpleDesc": [
         {
           "abilityID": 1050,
-          "simpleDesc": "Inflict 1 additional Bleed"
+          "simpleDesc": "Inflict 1 additional [Laceration]"
         }
       ]
     },
@@ -383,7 +382,7 @@
     {
       "id": 1052,
       "name": "Hot ‘n Juicy Drumstick",
-      "desc": "When inflicting Burn with skill effects against enemies, inflict +5 Burn Count.",
+      "desc": "When inflicting [Combustion] with skill effects against enemies, inflict +5 [Combustion] Count.",
       "simpleDesc": [
         {
           "abilityID": 1052,
@@ -394,7 +393,7 @@
     {
       "id": 1053,
       "name": "Dry-to-the-Bone Breast",
-      "desc": "When inflicting Rupture with skill effects against enemies, inflict +5 Rupture Count.",
+      "desc": "When inflicting [Burst] with skill effects against enemies, inflict +5 [Burst] Count.",
       "simpleDesc": [
         {
           "abilityID": 1053,
@@ -416,7 +415,7 @@
     {
       "id": 1055,
       "name": "Contaminated Needle & Thread",
-      "desc": "Each turn, the first skill to deal damage to an enemy inflicts Bleed by 1/3 of the damage dealt.",
+      "desc": "Each turn, the first skill to deal damage to an enemy inflicts [Laceration] by 1/3 of the damage dealt.",
       "simpleDesc": [
         {
           "abilityID": 1055,
@@ -504,18 +503,18 @@
     {
       "id": 2007,
       "name": "Pungent Bud",
-      "desc": "When inflicting Sinking with skill effects, apply 1 more Sinking with a 50% chance",
+      "desc": "When inflicting [Sinking] with skill effects, apply 1 more [Sinking] with a 50% chance",
       "simpleDesc": [
         {
           "abilityID": 2007,
-          "simpleDesc": "When inflicting Sinking with skill effects, apply 1 more Sinking with a 50% chance"
+          "simpleDesc": "When inflicting [Sinking] with skill effects, apply 1 more [Sinking] with a 50% chance"
         }
       ]
     },
     {
       "id": 2008,
       "name": "Hot Tears",
-      "desc": "Take -10% Wrath-affinity damage\nWhen hit, gain 1 Attack Power Up next turn (Once per turn per Sinner)",
+      "desc": "Take -10% Wrath-affinity damage\nWhen hit, gain 1 [Enhancement] next turn (Once per turn per Sinner)",
       "simpleDesc": [
         {
           "abilityID": 2009,
@@ -523,18 +522,18 @@
         },
         {
           "abilityID": 200901,
-          "simpleDesc": "When hit, gain 1 Attack Power Up next turn"
+          "simpleDesc": "When hit, gain 1 [Enhancement] next turn"
         }
       ]
     },
     {
       "id": 2009,
       "name": "Cooled Tear",
-      "desc": "When attacked, gain 1 Protection next turn (Once per turn per Sinner)",
+      "desc": "When attacked, gain 1 [Protection] next turn (Once per turn per Sinner)",
       "simpleDesc": [
         {
           "abilityID": 2009,
-          "simpleDesc": "When hit, gain 1 Protection next turn"
+          "simpleDesc": "When hit, gain 1 [Protection] next turn"
         }
       ]
     },
@@ -596,7 +595,7 @@
     {
       "id": 2015,
       "name": "Piece of a Broken Bond",
-      "desc": "Yi Sang's skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)\n\n<i>\"Taking a backward glance at our trails... all of us have been suffering great losses.\"</i>",
+      "desc": "Yi Sang's skills gain +2 Final Power\nWhen an ally dies, remaining allies gain 1 [Agility] and 1 [Enhancement] next turn (Once per turn)\n\n<i>\"Taking a backward glance at our trails... all of us have been suffering great losses.\"</i>",
       "simpleDesc": [
         {
           "abilityID": 2015,
@@ -604,7 +603,7 @@
         },
         {
           "abilityID": 201501,
-          "simpleDesc": "When an ally dies, remaining allies gain 1 Haste and 1 Attack Power Up next turn (Once per turn)"
+          "simpleDesc": "When an ally dies, remaining allies gain 1 [Agility] and 1 [Enhancement] next turn (Once per turn)"
         }
       ]
     },

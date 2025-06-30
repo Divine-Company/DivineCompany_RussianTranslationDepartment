@@ -7,7 +7,7 @@
       "simpleDesc": [
         {
           "abilityID": 9427,
-          "simpleDesc": "Gain 1 Attack Power Up next turn"
+          "simpleDesc": "Gain 1 [Enhancement] next turn"
         }
       ]
     },
@@ -18,11 +18,11 @@
       "simpleDesc": [
         {
           "abilityID": 19427,
-          "simpleDesc": "Gain 1 Attack Power Up next turn"
+          "simpleDesc": "Gain 1 [Enhancement] next turn"
         },
         {
           "abilityID": 194271,
-          "simpleDesc": "Gain +6 Aggro and 4 Defense Level Up next turn"
+          "simpleDesc": "Gain +6 [Aggro] and 4 [DefenseUp] next turn"
         }
       ]
     },
@@ -33,11 +33,11 @@
       "simpleDesc": [
         {
           "abilityID": 29427,
-          "simpleDesc": "Gain 1 Attack Power Up next turn"
+          "simpleDesc": "Gain 1 [Enhancement] next turn"
         },
         {
           "abilityID": 294271,
-          "simpleDesc": "Gain +6 Aggro and 4 Defense Level Up next turn"
+          "simpleDesc": "Gain +6 [Aggro] and 4 [DefenseUp] next turn"
         }
       ]
     },
@@ -48,11 +48,11 @@
       "simpleDesc": [
         {
           "abilityID": 9428,
-          "simpleDesc": "Gain 1 Poise"
+          "simpleDesc": "Gain 1 [Breath]"
         },
         {
           "abilityID": 94281,
-          "simpleDesc": "Chance to not lose Poise Count"
+          "simpleDesc": "Chance to not lose [Breath] Count"
         },
         {
           "abilityID": 94282,
@@ -67,11 +67,11 @@
       "simpleDesc": [
         {
           "abilityID": 9431,
-          "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+          "simpleDesc": "Gain 1 [AttackUp] & 1 [TakeHpHealIncrease]"
         },
         {
           "abilityID": 94311,
-          "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+          "simpleDesc": "Gain 1 [AttackUp] & 1 [TakeHpHealIncrease]"
         }
       ]
     },
@@ -82,11 +82,11 @@
       "simpleDesc": [
         {
           "abilityID": 19431,
-          "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+          "simpleDesc": "Gain 1 [AttackUp] & 1 [TakeHpHealIncrease]"
         },
         {
           "abilityID": 194311,
-          "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+          "simpleDesc": "Gain 1 [AttackUp] & 1 [TakeHpHealIncrease]"
         },
         {
           "abilityID": 194312,
@@ -101,11 +101,11 @@
       "simpleDesc": [
         {
           "abilityID": 29431,
-          "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+          "simpleDesc": "Gain 1 [AttackUp] & 1 [TakeHpHealIncrease]"
         },
         {
           "abilityID": 294311,
-          "simpleDesc": "Gain 1 Offense Level Up & 1 HP Healing Boost"
+          "simpleDesc": "Gain 1 [AttackUp] & 1 [TakeHpHealIncrease]"
         },
         {
           "abilityID": 294312,
@@ -120,11 +120,11 @@
       "simpleDesc": [
         {
           "abilityID": 9432,
-          "simpleDesc": "Inflict 4 Sinking Potency and Count against all enemies"
+          "simpleDesc": "Inflict 4 [Sinking] Potency and Count against all enemies"
         },
         {
           "abilityID": 94321,
-          "simpleDesc": "The enemy with the least Sinking Count gains +2 Sinking Count"
+          "simpleDesc": "The enemy with the least [Sinking] Count gains +2 [Sinking] Count"
         }
       ]
     },
@@ -135,7 +135,7 @@
       "simpleDesc": [
         {
           "abilityID": 9435,
-          "simpleDesc": "Inflict 1 Bind on the enemy that recovered from Stagger"
+          "simpleDesc": "Inflict 1 [Binding] on the enemy that recovered from Stagger"
         },
         {
           "abilityID": 94351,
@@ -150,7 +150,7 @@
       "simpleDesc": [
         {
           "abilityID": 19435,
-          "simpleDesc": "Inflict 2 Bind on the enemy that recovered from Stagger"
+          "simpleDesc": "Inflict 2 [Binding] on the enemy that recovered from Stagger"
         },
         {
           "abilityID": 194351,
@@ -165,7 +165,7 @@
       "simpleDesc": [
         {
           "abilityID": 29435,
-          "simpleDesc": "Inflict 3 Bind on the enemy that recovered from Stagger"
+          "simpleDesc": "Inflict 3 [Binding] on the enemy that recovered from Stagger"
         },
         {
           "abilityID": 294351,
@@ -180,11 +180,11 @@
       "simpleDesc": [
         {
           "abilityID": 9436,
-          "simpleDesc": "Deal Gloom damage based on Sinking on the target"
+          "simpleDesc": "Deal Gloom damage based on [Sinking] on the target"
         },
         {
           "abilityID": 94361,
-          "simpleDesc": "Deal Gloom damage based on Sinking on the target"
+          "simpleDesc": "Deal Gloom damage based on [Sinking] on the target"
         }
       ]
     },
@@ -195,7 +195,7 @@
       "simpleDesc": [
         {
           "abilityID": 9437,
-          "simpleDesc": "Gain 1 Poise Potency and Count"
+          "simpleDesc": "Gain 1 [Breath] Potency and Count"
         }
       ]
     },
@@ -210,7 +210,7 @@
         },
         {
           "abilityID": 9438,
-          "simpleDesc": "A random ally gains 2 Offense Level Up next turn"
+          "simpleDesc": "A random ally gains 2 [AttackUp] next turn"
         }
       ]
     },
@@ -232,11 +232,11 @@
       "simpleDesc": [
         {
           "abilityID": 9440,
-          "simpleDesc": "Inflict 3 Bleed and +2 Bleed Count against backup enemies entering battle"
+          "simpleDesc": "Inflict 3 [Laceration] and +2 [Laceration] Count against backup enemies entering battle"
         },
         {
           "abilityID": 94401,
-          "simpleDesc": "Activate Bleed once on all enemies (reduce their Bleed Count by 1)"
+          "simpleDesc": "Activate [Laceration] once on all enemies (reduce their [Laceration] Count by 1)"
         }
       ]
     },
@@ -247,11 +247,11 @@
       "simpleDesc": [
         {
           "abilityID": 194405,
-          "simpleDesc": "Inflict 5 Bleed and +3 Bleed Count against backup enemies entering battle"
+          "simpleDesc": "Inflict 5 [Laceration] and +3 [Laceration] Count against backup enemies entering battle"
         },
         {
           "abilityID": 1944051,
-          "simpleDesc": "Activate Bleed once on all enemies (reduce their Bleed Count by 1)"
+          "simpleDesc": "Activate [Laceration] once on all enemies (reduce their [Laceration] Count by 1)"
         }
       ]
     }

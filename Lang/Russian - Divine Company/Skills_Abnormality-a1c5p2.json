@@ -25,7 +25,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
                 }
               ]
             }
@@ -58,7 +58,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             }
@@ -92,7 +92,7 @@
         {
           "level": 1,
           "name": "Domineer",
-          "desc": "[StartBattle] Apply 1 Attack Power Up to all allies\n[StartBattle] Inflict 2 Attack Power Down to 2 enemies with the least SP",
+          "desc": "[StartBattle] Apply 1 [Enhancement] to all allies\n[StartBattle] Inflict 2 [Reduction] to 2 enemies with the least SP",
           "coinlist": [
             {
               "coindescs": [
@@ -111,7 +111,7 @@
         {
           "level": 1,
           "name": "Make this Memorable",
-          "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind next turn.",
+          "desc": "[StartBattle] Gain 2 [AaCePbBi]. Gain 5 [Binding] next turn.",
           "coinlist": [
             {
               "coindescs": [
@@ -138,7 +138,7 @@
                   "desc": "[OnSucceedAttack] Heal 10 SP on self"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] and 2 [Reduction] next turn"
                 }
               ]
             },
@@ -178,7 +178,7 @@
         {
           "level": 1,
           "name": "Swear Vengeance",
-          "desc": "[StartBattle] Gain 2 Test of the Big Brother. Gain 5 Bind and 5 Damage Up next turn.",
+          "desc": "[StartBattle] Gain 2 [AaCePbBi]. Gain 5 [Binding] and 5 [AttackDmgUp] next turn.",
           "coinlist": [
             {
               "coindescs": [
@@ -205,7 +205,7 @@
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 30"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
                 }
               ]
             }
