@@ -198,7 +198,7 @@
     },
     {
       "id": "CantBreak",
-      "name": "[Нерушимая монета]"
+      "name": "[Unbreakable Coin]"
     },
     {
       "id": "DuelGuard",
@@ -255,6 +255,10 @@
     {
       "id": "ReUseOnSucceedAttack",
       "name": "[Reuse - On Hit]"
+    },
+    {
+      "id": "CriticalOnSucceedAttackHead",
+      "name": "[On Crit - Heads Hit]"
     }
   ]
 }

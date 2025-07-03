@@ -347,6 +347,18 @@
     {
       "id": "serverstate_error_thirdparty_api",
       "content": "External server connection error. Please try again at a later time."
+    },
+    {
+      "id": "invalid_login_no_guest_uid",
+      "content": "The Guest account does not exist,\nor has been deleted."
+    },
+    {
+      "id": "invalid_login_is_not_guest",
+      "content": "This Guest account is already linked to a platform.\nPlease use the [Change Account] button to log into your linked platform."
+    },
+    {
+      "id": "try_new_guest",
+      "content": "Make a new Guest account?"
     }
   ]
 }

@@ -836,7 +836,7 @@
     {
       "id": "Resonate",
       "name": "Resonant",
-      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal 3% fixed damage per Count and further raise stagger threshold by 3% per Count",
+      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal 3 fixed damage per Count and further raise stagger threshold by 3% per Count",
       "summary": "When triggering Tremor Burst or raising Stagger Thresholds, deal damage and raise Stagger Threshold further"
     },
     {
@@ -2102,6 +2102,20 @@
       "id": "BeastEyesAlly",
       "name": "Перегрев",
       "desc": "Эффект сбрасывается при получении эффекта «Зверский тигриный патрон».\n+2 к минимальной и максимальной Скорости.\n-(Использованные Тигриные и Зверские тигриные патроны / 2) Силы в Схватке атакующих навыков (Макс. 10).\nИспользовав Тигриные и Зверские тигриные патроны, активируются следующие эффекты:\nПри 8 и более в начале хода накладывается 1 Стойкость за каждые 10% потерянных ОЗ (Макс. 5);\nПри 14 и более при поражении в Схватке, Нерушимые Монеты атакующих навыков наносят на (75 + процент потерянных ОЗ)% больше урона (Макс. 150%);\nПри 20 и более наносит на (процент разницы в ОЗ)% больше урона не ЭГО навыками против целей с большим процентом оставшихся ОЗ, чем у этого персонажа (Макс. 50%).",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseThorn",
+      "name": "Gluttonous Thorn (貪食棘)",
+      "desc": "Max Stack: 9\n\nTurn End: gain Bleed Count equal to Lust Reson., then lose 1 Gluttonous Thorn (貪食棘). (max Bleed Count gain: 5)\n\nWhile this unit has this effect, if it gains Bleed Potency beyond 99, increase Bloodfeast equal to the excess Bleed Potency; then, gain Defense Level Down next turn equal to Bloodfeast increased (max Defense Level Down gain: 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FellBulletPersonality",
+      "name": "Fell Bullet",
+      "desc": "Max Stack: 1\n+3% damage on Critical Hit for every Torn Memory (max 18%)\nOn Hit, inflict 1 Bleed (3 per turn)\nOn Kill, gain 3 Poise and +2 Poise Count (2 times per turn)\nExpires at Turn End",
       "summary": "",
       "undefined": "-"
     }

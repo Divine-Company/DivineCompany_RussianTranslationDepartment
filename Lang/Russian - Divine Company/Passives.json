@@ -2211,6 +2211,21 @@
       "name": "Выпад свирепого тигра",
       "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3 и более, он наносит на (Разница в Скорости × <style=\"upgradeHighlight\">3</style>)% больше урона (Макс. <style=\"upgradeHighlight\">15%</style>) (Эффект срабатывает только при наличии статуса Патроны).",
       "summary": ""
+    },
+    {
+      "id": 1011301,
+      "name": "Fell Bullet",
+      "desc": "If this unit killed an allied unit with its attack, gain [FellBulletPersonality] for the next turn (including with this unit's 'E.G.O Corrosion' and attacks against allies)\nIf this unit uses its E.G.O 'Fell Bullet' and consumes [BoseProjektil]: next turn, gain [BoseProjektil] equal to the amount of it consumed by the end of the last turn."
+    },
+    {
+      "id": 1011302,
+      "name": "Volatilized Memory",
+      "desc": "Turn End: lose all [BoseProjektil] on self. Next turn, gain [BoseProjektil] equal to the amount lost."
+    },
+    {
+      "id": 1011321,
+      "name": "Designate Target",
+      "desc": "When the ally with the slowest Speed attacked an ally: After Attack, gain 1 [AttackDmgUp] next turn (2 times per turn)\n- If the attacked ally is killed by this attack, gain 1 [AttackDmgUp] for the whole Encounter instead (max 2 per Stage per Identity)\n- Can gain only up to 2 [AttackDmgUp] from the above effect."
     }
   ]
 }
