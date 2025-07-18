@@ -8,7 +8,7 @@
       "options": [
         {
           "message": "Пожертвовать человеком.",
-          "messageDesc": "Все союзники потеряют ОР. Вы получите Дар ЭГО.",
+          "messageDesc": "Все союзники потеряют ПР. Вы получите Дар ЭГО.",
           "result": [
             "Довольные, глиняные куклы потащили будущий труп куда-то в даль."
           ]
@@ -37,7 +37,7 @@
       "options": [
         {
           "message": "Offer the person.",
-          "messageDesc": "All allies lose SP. Gain an Дар ЭГО.",
+          "messageDesc": "All allies lose SP. Вы получите Дар ЭГО.",
           "result": [
             "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
           ]
@@ -79,15 +79,15 @@
       "desc": "Проходя по узкому проходу, перед нами на дорогу выполз рой тараканов.\nЖужжащие фигуры вызывают отвращение.\n\nВы идёте через них? Или…",
       "options": [
         {
-          "message": "Осторожно пройти мимо отвратительного роя",
-          "messageDesc": "Все союзники теряют ОР",
+          "message": "Осторожно пройти мимо отвратительного роя.",
+          "messageDesc": "Все союзники теряют ПР.",
           "result": [
             "«Фу-у… Один мне на ногу забрался!»\n\nВсем удалось пройти через проход, но их отвращение было очевидно.\nТакой опыт их сильно измотал."
           ]
         },
         {
           "message": "С меня хватит. Раздавить тараканов с помощью Грешников.",
-          "messageDesc": "Грегор теряет множество ОР. Вступите в битву. Победите, чтобы получить Дар ЭГО.",
+          "messageDesc": "Грегор теряет множество ПР. Вступите в битву. Победите, чтобы получить Дар ЭГО.",
           "result": [
             "«Цк…»\n\nГрегор был недоволен и отвернулся от нас.\nВскоре после этого на нас напала толпа разъярённых солдат-жуков."
           ]
@@ -98,40 +98,40 @@
       "id": 102001,
       "name": "Suspiciously Sparkly Vending Machine",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "In the middle of the factory, you find a vending machine with large buttons.\n\nThey’re colorful and fancy…\nYou feel a strong compulsion to press them.\n\nWhich one will you press?",
+      "desc": "Посреди фабрики вы находите торговый автомат с тремя большими кнопками.\n\nОни такие красочные и причудливые...\nВас одолевает сильное желание нажать на одну из них.\n\nКакую вы выберите?",
       "options": [
         {
-          "message": "Press the red button with a fist icon.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "message": "Нажать на красный кулак.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
-            "«Congrats! Congrats!»\n\nSomething rumbled down the chute.\n\nIt appears to be a toy fist."
+            "«Поздравляю! Поздравляю!»\n\nЧто-то упало в секцию выдачи товара.\n\nЭто оказался игрушечная рука."
           ]
         },
         {
-          "message": "Press the yellow button with a foot icon.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "message": "Нажать на жёлтую стопу.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
-            "«Congrats! Congrats!»\n\nSomething rumbled down the chute.\n\nIt appears to be a toy foot."
+            "«Поздравляю! Поздравляю!»\n\nЧто-то упало в секцию выдачи товара.\n\nЭто оказалась игрушечная нога."
           ]
         },
         {
-          "message": "Press the green button with a heart icon.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "message": "Нажать на зелёное сердце.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
-            "«Congrats! Congrats!»\n\nSomething rumbled down the chute.\n\nIt appears to be a toy screw."
+            "«Поздравляю! Поздравляю!»\n\nЧто-то упало в секцию выдачи товара.\n\nЭто оказались игрушечные болты."
           ]
         },
         {
-          "message": "Press all the buttons at once.",
-          "messageDesc": "Gain 3 Дар ЭГО.s. But…",
+          "message": "Нажать одновременно на все кнопки.",
+          "messageDesc": "Вы получите 3 Дара ЭГО. Но перед этим...",
           "result": [
-            "«Error! Error!»\n\nThe vending machine began to rattle.\n\n«H-Hey, what’s wrong with this thing?»\n\n«Sigh, you should’ve known better than to get gre—»\n\nBefore the Sinner could finish, the machine exploded, spewing a slew of toy parts into the air."
+            "«Ошибка! Ошибка!»\n\nТорговый автомат начал трястись.\n\n«Эй, что не так с этой штукой?»\n\n«Эх, лучше было не пытаться обман—»\n\nНе успел Грешник договорить, как автомат взорвался, оставив после себя множество игрушечных деталей."
           ]
         },
         {
-          "message": "Don’t press anything.",
+          "message": "Ничего не нажимать.",
           "result": [
-            "You should resist odd impulses like this.\nMeddling with the unknown is surely a bad idea.\n\nYou left the vending machine without touching a thing."
+            "Вам следует избегать странных импульсов.\nПытаться лезть в чуждое - плохая идея.\n\nВы оставляете торговый автомат нетронутым."
           ]
         }
       ]
@@ -140,20 +140,20 @@
       "id": 102002,
       "name": "Exhilarating Edutainment Featuring Excess Violence!",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Exiting the passage, you see a group of cyborgs gathered around a huge roulette.\n\n«Oh. Highly. Excited. Thoroughly. Amusing.»\n«Da GAME of DE—ATH!»\n\nThey approach you, chanting in strange beats.\nIt looks like they want you to play a game of roulette. What should you do?",
+      "desc": "Выходя из прохода, вы замечаете группу киборгов, столпившихся вокруг огромной рулетки.\n\n«О. Очень. Волнующе. Весьма. Увлекательно.»\n«Великая ИГРА СМЕРТИ!»\n\nОни приближаются к вам, ритмично скандируя странные слова.\nПохоже они хотят, чтобы вы сыграли в рулетку. Что вы сделаете?",
       "options": [
         {
-          "message": "Take on the challenge.",
-          "messageDesc": "Rodion gains SP. Run Wrath, Sloth, and Gloom checks. Pass to heal all allies’ SP and gain an Дар ЭГО.",
+          "message": "Принять вызов.",
+          "messageDesc": "Родион восстановит ПР. Пройдите проверку Гнева, Лени или Уныния, чтобы восстановить ПР Грешников и получить Дар ЭГО.",
           "result": [
-            "«You know this is where I shine!»\n\nRodya proudly proclaimed as she stepped forward.\nYou can see a mixture of anticipation and excitement on her face."
+            "«Ты знаешь, что в этом я лучше всех!»\n\nС гордостью произнесла Родион, выходя вперёд.\nНа её лице видна смесь предвкушения и волнения."
           ]
         },
         {
-          "message": "Forget games! Crush them in battle.",
-          "messageDesc": "Rodion loses SP. Begin a combat encounter. Win to gain an Дар ЭГО.",
+          "message": "Забудьте об играх! Сокрушить их в бою.",
+          "messageDesc": "Родион потеряет ПР. Начнётся бой. Победите, чтобы получить Дар ЭГО.",
           "result": [
-            "This is not the time for gaming of all things.\nLet’s just deal with those crazed cyborgs and move on.\n\n«…Psh.»\n\nRodya smacked her lips in dissatisfaction, but you know you can’t always afford to give every Sinner what they want."
+            "Сейчас не время для игр.\nНужно просто разобраться с этими сумасшедшими и пойти дальше.\n\n«Пфх...»\n\nРодион недовольно шмыгнула губами, но вы знаете, что вы не всегда можете позволить себе разрешать Грешникам делать то, что они хотят."
           ]
         }
       ]
@@ -186,7 +186,7 @@
       "options": [
         {
           "message": "Try the shoes on.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "The glass door opened, revealing said pair of pink shoes.\n\nWhen you put them on, you could feel strands of ribbons wrap around your legs.\nThey’re tightening around your body, but it’s not an unpleasant feeling.\n\nYou feel as though you can now go… anywhere."
           ]
@@ -287,14 +287,14 @@
       "options": [
         {
           "message": "Open the first crate.",
-          "messageDesc": "Gain an Дар ЭГО. that boosts defense.",
+          "messageDesc": "Вы получите Дар ЭГО, который повышает защиту.",
           "result": [
             "«This is…»\n\nThe crate contained a worn helm.\n\n«Oho?! ‘Tis the proper equipment of a knight, is it not?!»\n\nOne Sinner excitedly rubs the helm clean.\nNot a bad haul, all things considered.\nWe carried the helm (and our Sinner infatuated by it) and left the room."
           ]
         },
         {
           "message": "Open the second crate.",
-          "messageDesc": "50% chance to gain an Дар ЭГО. that boosts Tremor attacks.",
+          "messageDesc": "50% chance to gain an Дар ЭГО that boosts Tremor attacks.",
           "result": [
             "«This is…»\n\nThe crate contained an old mallet.\nThe cracks on its handle raised further questions about its usability.\n\n«This thing looks positively useless!»\n\nThe Sinners expressed disappointment over this seemingly regrettable choice.\nBut, you feel as if the mallet is talking to you,\ncompelling you to take it.\n\n«What, you’re gonna take that with you?»\n\nThough the Sinners saw it as junk,\nit seemed good to bring the mallet along.",
             "«…Empty?»\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n«I told you we shoulda gone with that one~»\n\n«No, in all likelihood it would have been empty too.»\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
@@ -302,7 +302,7 @@
         },
         {
           "message": "Open the third crate.",
-          "messageDesc": "50% chance to gain an Дар ЭГО. that boosts Bleed attacks.",
+          "messageDesc": "50% chance to gain an Дар ЭГО that boosts Bleed attacks.",
           "result": [
             "«This is…»\n\nThe crate contained a browned nail.\nNot a bundle of nails; just a slightly large one, covered in rust and dust.\n\n«The heck…»\n\nThe Sinners looked devastated by the fact that the key was wasted on this.\n\n«Can’t just throw away loot. If you aren’t gonna use it, then hand it over.»\n\nOne Sinner was showing interest in the item, so you gave it to them and went on your way.",
             "«…Empty?»\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n«I told you we shoulda gone with that one~»\n\n«No, in all likelihood it would have been empty too.»\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
@@ -408,7 +408,7 @@
       "options": [
         {
           "message": "Examine the book on the pedestal.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "Upon the pedestal was a tome N Corp. Inquisitors were often seen carrying.\nYou take this chance to peek at a few pages of it…\n\n«Ugh…»\n\nThe indecipherable content only gave you a headache.\nYou decide to hold onto it for now and read it later."
           ]
@@ -447,21 +447,21 @@
       "options": [
         {
           "message": "Take the glowing skull.",
-          "messageDesc": "Gain an Дар ЭГО. that provides healing at low health.",
+          "messageDesc": "Вы получите Дар ЭГО, который будет исцелять при малых ОЗ.",
           "result": [
             "You took the glowing skull.\nIt radiates gently, and you feel a strange warmth from it.\n\nThe other containers won’t open. It seems that you can take only one.\nYou took your leave with the item you chose."
           ]
         },
         {
           "message": "Take the bleeding hand.",
-          "messageDesc": "Gain an Дар ЭГО. that provides power-ups at low health.",
+          "messageDesc": "Вы получите Дар ЭГО, который усилит вас при малых ОЗ.",
           "result": [
             "The bloody fingers caught your attention.\nWhen you open the container to hold it, you notice that blood continues to drip from the section.\nYou pick it up by a perpetually flinching digit.\n\nThe other containers won’t open. It seems that you can take only one.\nYou took your leave with the item you chose."
           ]
         },
         {
           "message": "Take the wriggling tongue.",
-          "messageDesc": "Gain an Дар ЭГО. that provides benefits after winning a Clash.",
+          "messageDesc": "Вы получите Дар ЭГО, который усилит вас при победе в Схватке.",
           "result": [
             "The slithering tongue attracts your eyes.\nWhen you open the container and grab it, it flaps in your palm.\n\nYou feel as though the tongue is mocking you, so you try to pick another one, but…\n\nThe other containers won’t open. It seems that you can take only one.\nYou have to take your leave with the item you chose."
           ]
@@ -645,18 +645,18 @@
       "id": 801201,
       "name": "강화인간 선택지1",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "How do those cyborgs keep coming back?\nThe Sinners were discussing.\n\n«Perhaps those beings are not alive.\nThat way, they would not be able to die.»\n\n«No, we’re not getting philosophical here.»\n\n«Hmm~ To me, it looked like rebuilding a brick wall.»\n\n«…I think I’m hearing something from that factory in the back.»\n\nThe group turned their gaze to the factory behind the cyborgs.\nMetallic clanking could be heard from the place that was quiet until moments ago.\n\nMaybe you should take a look at that shady facility?",
+      "desc": "Почему эти киборги не умирают?\nМы с Грешниками начали рассуждать.\n\n«Возможно, они по-просту не живые. В таком случае, они просто не могут умереть.»\n\n«Нет, не время предаваться философии.»\n\n«Хм.. Как по мне, в них меняют детали, словно кирпичи в кладке.»\n\n«...Мне кажется я слышу шум из той фабрики позади них.»\n\nМы сосредоточили своё внимание на фабрику позади киборгов.\nОттуда, где ещё несколько минут назад было тихо, доносился металлический лязг...\n\nВозможно нам стоит обследовать то сомнительное заведение.",
       "options": [
         {
-          "message": "Investigate the factory.",
+          "message": "Решить проверить фабрику.",
           "result": [
-            "You decided to check out the factory.\nBut, you might want to do something about the cyborgs first, just to be safe.\n\nPerhaps you could earn enough time to get through by incapacitating the biggest one?"
+            "Вы решили проверить фабрику.\nНо сначала вам требуется как-то отвлечь киборгов, чтобы пройти.\n\nМожет быть получится выиграть достаточно времени дабы проскочить между ними, выведя из строя самого крупного?"
           ]
         },
         {
-          "message": "We can’t walk into unknown danger like that. Keep fighting them.",
+          "message": "Слишком опасно. Нужно продолжить сражаться с киборгами.",
           "result": [
-            "«Do we really have to crawl into a place like that?»\n\nOne Sinner spoke bluntly.\nThey make a good point. No need to take risks.\n\nIf they keep coming back, we’ll just keep on beating them until they don’t."
+            "«Нам обязательно нужно переться туда?»\n\nГрешник задал вопрос.\nИ в самом деле, нам не стоит излишне рисковать.\n\nДаже если они возвращаются, нам нужно просто избивать их до того момента, пока они не перестанут."
           ]
         }
       ]
@@ -665,23 +665,23 @@
       "id": 801202,
       "name": "강화인간 선택지2",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "Pinning down the largest cyborg as planned, you got to the factory in time.\n\n«Huh, this is…»\n\n«Looks like some kind of toy plant.»\n\nThe Sinners comment on the huge mechanism.\n\n«Ah! Come behold this curiosity!»\n\nThe Sinner pointed to a control panel with several buttons attached to it.\n\n<DO YOU LOVE THE CITY YOU LIVE IN?>\n\nWhat should you press?",
+      "desc": "Сломав самого большого киборга, вы смогли добраться до фабрики.\n\n«Хм, так это же...»\n\n«Похоже игрушечный завод.»\n\nГрешники обсуждают огромный механизм.\n\n«Ого! Полюбуйтесь на эту диковинку!»\n\nГрешник указал на панель управления с двумя кнопками.\n\nНа экране виднеется вопрос: «ВЫ ЛЮБИТЕ ГОРОД, В КОТОРОМ ВЫ ЖИВЁТЕ?»\n\nКакую кнопку с ответом нам следует выбрать?",
       "options": [
         {
-          "message": "Yes.",
-          "messageDesc": "Press the button to proceed.",
+          "message": "Да.",
+          "messageDesc": "Нажмите на кнопку, чтобы продолжить.",
           "result": [
             "",
-            "Abnormal input.\n\n«Huh? Now I can’t press any of these…»\n\nCommencing site burial in 3, 2…\n\n«Outta here!!»\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+            "Неккоректный ввод.\n\n«Что? Теперь ни одна из них не работает...»\n\nПроисходит захоронение объекта через три, два...\n\n«Валим отсюда!!»\n\nЧерез мгновение фабрика с грохотом взрывается.\nВы смогли остановить её, но ценой этому стали ваши Грешники, не сумевшие избежать взрыва.\n\nОсталось только выбраться из завалов."
           ]
         },
         {
-          "message": "No.",
-          "messageDesc": "Press the button to stop.",
+          "message": "Нет.",
+          "messageDesc": "Нажмите на кнопку, чтобы остановить.",
           "result": [
             "",
-            "Abnormal input.\n\n«Huh? Now I can’t press any of these…»\n\nCommencing site burial in 3, 2…\n\n«Outta here!!»\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?",
-            "Detected three inputs.\nOperating Emergency Protocol #3: Facility Shutdown.\n\n«Looks like it’s stopped.»\n\nThe machines whirred for a short while before stopping.\nWith that, the cyborgs should no longer revive.\n\nLet’s step outside the factory, shall we?"
+            "Неккоректный ввод.\n\n«Что? Теперь ни одна из них не работает...»\n\nПроисходит захоронение объекта через три, два...\n\n«Валим отсюда!!»\n\nЧерез мгновение фабрика с грохотом взрывается.\nВы смогли остановить её, но ценой этому стали ваши Грешники, не сумевшие избежать взрыва.\n\nОсталось только выбраться из завалов.",
+            "Зафиксировано три ввода.\nОсуществляется чрезвычайный протокол №3: Окончание производства.\n\n«Похоже оно остановилось.»\n\nПосле недолгого жжужания, механизмы остановились.\nТеперь киборги не смогут возродиться вновь.\n\nПожалуй нам стоит покинуть фабрику."
           ]
         }
       ]
@@ -690,23 +690,23 @@
       "id": 801203,
       "name": "강화인간 선택지2-그렇다",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "Continuing augmentation.\n\nYou\nmust\nbecome\nstrong.\n\nPlease proceed with the input.\n\n<DO YOU LOVE THE CITY YOU LIVE IN?>\n\nWhat should you press?",
+      "desc": "Непрерывное усиление.\n\nТы\nДолжен\nСтать\nСильным.\n\nПродолжите ввод.\n\n«ВЫ ЛЮБИТЕ ГОРОД, В КОТОРОМ ВЫ ЖИВЁТЕ?»\n\nКакую кнопку с ответом нам следует выбрать?",
       "options": [
         {
-          "message": "Yes.",
-          "messageDesc": "Press the button to proceed.",
+          "message": "Да.",
+          "messageDesc": "Нажмите на кнопку, чтобы продолжить.",
           "result": [
             "",
-            "Abnormal input.\n\n«Huh? Now I can’t press any of these…»\n\nCommencing site burial in 3, 2…\n\n«Outta here!!»\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+            "Неккоректный ввод.\n\n«Что? Теперь ни одна из них не работает...»\n\nПроисходит захоронение объекта через три, два...\n\n«Валим отсюда!!»\n\nЧерез мгновение фабрика с грохотом взрывается.\nВы смогли остановить её, но ценой этому стали ваши Грешники, не сумевшие избежать взрыва.\n\nОсталось только выбраться из завалов."
           ]
         },
         {
-          "message": "No.",
-          "messageDesc": "Press the button to stop.",
+          "message": "Нет.",
+          "messageDesc": "Нажмите на кнопку, чтобы остановить.",
           "result": [
             "",
-            "Abnormal input.\n\n«Huh? Now I can’t press any of these…»\n\nCommencing site burial in 3, 2…\n\n«Outta here!!»\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?",
-            "Detected three inputs.\nOperating Emergency Protocol #3: Facility Shutdown.\n\n«Looks like it’s stopped.»\n\nThe machines whirred for a short while before stopping.\nWith that, the cyborgs should no longer revive.\n\nLet’s step outside the factory, shall we?"
+            "Неккоректный ввод.\n\n«Что? Теперь ни одна из них не работает...»\n\nПроисходит захоронение объекта через три, два...\n\n«Валим отсюда!!»\n\nЧерез мгновение фабрика с грохотом взрывается.\nВы смогли остановить её, но ценой этому стали ваши Грешники, не сумевшие избежать взрыва.\n\nОсталось только выбраться из завалов.",
+            "Зафиксировано три ввода.\nОсуществляется чрезвычайный протокол №3: Окончание производства.\n\n«Похоже оно остановилось.»\n\nПосле недолгого жжужания, механизмы остановились.\nТеперь киборги не смогут возродиться вновь.\n\nПожалуй нам стоит покинуть фабрику."
           ]
         }
       ]
@@ -715,23 +715,23 @@
       "id": 801204,
       "name": "강화인간 선택지2-아니다",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "Incorrect input.\n\nYou\nmust\nbecome\nstrong.\n\nPlease input your answer again.\n\nWARNING: Pressing the button three times will cause the facility to shut down.\n\n<DO YOU LOVE THE CITY YOU LIVE IN?>\n\nWhat should you press?",
+      "desc": "Непрерывное усиление.\n\nТы\nДолжен\nСтать\nСильным.\n\nПожалуйста, повторите свой ответ.\n\nВНИМАНИЕ: Нажатие кнопки три раза приведёт к прекращению работы производства.\n\n«ВЫ ЛЮБИТЕ ГОРОД, В КОТОРОМ ВЫ ЖИВЁТЕ?»\n\nКакую кнопку с ответом нам следует выбрать?",
       "options": [
         {
-          "message": "Yes.",
-          "messageDesc": "Press the button to proceed.",
+          "message": "Да.",
+          "messageDesc": "Нажмите на кнопку, чтобы продолжить.",
           "result": [
             "",
-            "Abnormal input.\n\n«Huh? Now I can’t press any of these…»\n\nCommencing site burial in 3, 2…\n\n«Outta here!!»\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?"
+            "Неккоректный ввод.\n\n«Что? Теперь ни одна из них не работает...»\n\nПроисходит захоронение объекта через три, два...\n\n«Валим отсюда!!»\n\nЧерез мгновение фабрика с грохотом взрывается.\nВы смогли остановить её, но ценой этому стали ваши Грешники, не сумевшие избежать взрыва.\n\nОсталось только выбраться из завалов."
           ]
         },
         {
-          "message": "No.",
-          "messageDesc": "Press the button to stop.",
+          "message": "Нет.",
+          "messageDesc": "Нажмите на кнопку, чтобы остановить.",
           "result": [
             "",
-            "Abnormal input.\n\n«Huh? Now I can’t press any of these…»\n\nCommencing site burial in 3, 2…\n\n«Outta here!!»\n\nAfter a short notice, the factory exploded with a massive bang.\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\n\nLooks like you should get out of here first, don’t you think?",
-            "Detected three inputs.\nOperating Emergency Protocol #3: Facility Shutdown.\n\n«Looks like it’s stopped.»\n\nThe machines whirred for a short while before stopping.\nWith that, the cyborgs should no longer revive.\n\nLet’s step outside the factory, shall we?"
+            "Неккоректный ввод.\n\n«Что? Теперь ни одна из них не работает...»\n\nПроисходит захоронение объекта через три, два...\n\n«Валим отсюда!!»\n\nЧерез мгновение фабрика с грохотом взрывается.\nВы смогли остановить её, но ценой этому стали ваши Грешники, не сумевшие избежать взрыва.\n\nОсталось только выбраться из завалов.",
+            "Зафиксировано три ввода.\nОсуществляется чрезвычайный протокол №3: Окончание производства.\n\n«Похоже оно остановилось.»\n\nПосле недолгого жжужания, механизмы остановились.\nТеперь киборги не смогут возродиться вновь.\n\nПожалуй нам стоит покинуть фабрику."
           ]
         }
       ]
@@ -740,16 +740,16 @@
       "id": 801501,
       "name": "분홍신 선택지1",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "A voice travels between the fluttering ribbons.\n\n«What is your desire?»\n\n«Put me on.»\n\n«I’ll carry you wherever you wish to go.»\n\nThe suggestions are incredibly suspicious, but for some reason, the Sinners are struggling to decide what to do.\n\nWhat do you say?",
+      "desc": "Голос доносится сквозь трепещущие ленты.\n\n«Что вы желаете?»\n\n«Наденьте меня.»\n\n«Я перенесу вас туда, куда вы пожелаете.»\n\nЭто предложение невероятно подозрительно, но, по какой-то причине, Грешники сомневаются, что делать дальше.\n\nЧто мы ответим?",
       "options": [
         {
-          "message": "Put on the shoes.",
+          "message": "Надеть туфельки.",
           "result": [
-            "«Yeah… This is good.»\n\n«It’s all smooth.»\n\nThe Sinners expressed their fascination.\nThose ribbons had turned into shiny pairs of pink shoes.\n\nNow, everyone will be able to go wherever they want.\n\nProbably."
+            "«Да... Это верный поступок.»\n\n«Всё прошло гладко.»\n\nГрешники высказывают своё восхищение.\nЭти ленты превратились в несколько пар сияющих розовых туфелек.\n\nТеперь каждый может оказаться там, куда он пожелает.\n\nНаверное."
           ]
         },
         {
-          "message": "Refuse.",
+          "message": "Отказаться.",
           "result": [
             ""
           ]
@@ -793,21 +793,21 @@
       "options": [
         {
           "message": "Chicken’s chicken, duh.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "«That’s… true.»\n«An irrefutable point.»\nThey lowered their hands and settled down.\n«What a strange thing we were fighting over.»\n«They’re right… The one truth is that the chicken is always right.»\nAfter a passionate handshake, the two gave you their bucket of chicken.\n«A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.»"
           ]
         },
         {
           "message": "Gotta be the drumsticks, all rich and juicy.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "«You see! The drumsticks are better!»\n«You don’t know what good taste is.»\nThe person holding a chicken breast let out a baffled sigh.\n«Ey! Here’s your reward. You deserve a drumstick of your own.»\nSatisfied, the one with a drumstick handed you another from the bucket.\n«I’m counting on you to keep that leg up!»\nUnsure of what you’re being trusted with, you left the table with the drumstick."
           ]
         },
         {
           "message": "The breast, of course, unsullied and spotless.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "«There ain’t no way! You’d give up this banquet of juiciness…?»\n«It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat—it’s obviously the reasonable choice.»\nThe person holding a piece of chicken breast pleasantly remarked.\n«Here, a reward for you. Take this breast.»\nA sizable piece was brought out of the bucket.\n«Best of luck with your gains. I hope you stay healthy.»\nUnsure of what you’re supposed to gain, you left the table with the chicken breast."
           ]
@@ -821,14 +821,14 @@
       "options": [
         {
           "message": "Alert it truthfully.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "«Heed me!!!!! Sauce is leaking from thy body!!!!!!»\n«Don’t shout it that loud, you dummy…»\nNotified of its leakage, the chicken quickly ran its wings over its back—or what appeared to be its back, rather.\nSadly, the knot had loosened on its stitching.\n«Kieegh, kiiierg…»\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\nDoes it want you to stitch its back?"
           ]
         },
         {
           "message": "You saw nothing.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "«Should we not inform them?»\n«Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?»\n«What will become of it when it loses all its sauce?»\n«Maybe it’ll just become an underseasoned chicken.»\nIn time, the leakage ceased.\n«Kiehg!»\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\n«Astonishing.»\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\nThey walked out of the light, tossing the special one up and down as a celebration.\nAll that remained… was the spilled sauce."
           ]
@@ -1048,7 +1048,7 @@
         },
         {
           "message": "Don't run.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "This is where the run ends.\nThat scary thing will charge at us, and knowing that makes it doubly scary.\nBut still, I somehow had the feeling that we'll be alright.\n\"Ah...\"\nThe Abnormality passed through us and disappeared into the unknown.\nWe found a blue fluid in its trail."
           ]
@@ -1120,21 +1120,21 @@
       "options": [
         {
           "message": "Pick the drawer on the second row, fifth column.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "You took the item out of the drawer on the second row, fifth column.\nIt's a mysterious green mass.\nWhen you look at it, it kind of resembles a mask.\nSoon, the area began to blur, and the cabinet disappeared."
           ]
         },
         {
           "message": "Pick the drawer on the fifth row, eighth column.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "You took the item out of the drawer on the fifth row, eighth column.\nIt's a mysterious blue mass.\nWhen you look at it, it kind of resembles a knife.\nSoon, the area began to blur, and the cabinet disappeared."
           ]
         },
         {
           "message": "Pick the drawer on the sixth row, first column.",
-          "messageDesc": "Gain an Дар ЭГО.",
+          "messageDesc": "Вы получите Дар ЭГО.",
           "result": [
             "You took the item out of the drawer on the sixth row, first column.\nIt's a mysterious yellow mass.\nWhen you look at it, it kind of resembles a flower.\nSoon, the area began to blur, and the cabinet disappeared."
           ]

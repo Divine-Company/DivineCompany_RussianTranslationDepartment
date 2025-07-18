@@ -116,15 +116,15 @@
     },
     {
       "id": 801201,
-      "prevDesc": "You defeated the enemy, but now it’s back up. What’s going on?"
+      "prevDesc": "Вы одолели противника, но он вернулся на поле боя. Что происходит?"
     },
     {
       "id": 801202,
-      "prevDesc": "Go for the Big One!"
+      "prevDesc": "Все вместе нападаем на большого!"
     },
     {
       "id": 801501,
-      "prevDesc": "Strips of pink ribbons float this way."
+      "prevDesc": "Куски розовой ленты летят в нашу сторону."
     },
     {
       "id": 801502,
@@ -155,40 +155,40 @@
     {
       "id": 10200201,
       "title": "Exhilarating Edutainment Featuring Excess Violence!",
-      "eventDesc": "«Liking red color! Liking red color! Like it! Like it!»\n\nA group of cyborgs yelled along to a strange rhythm.\n\n«Red 4!!!»\n\nExulting the number high, they spun the roulette.\nThen they handed a roulette ball to one of the Sinners.",
+      "eventDesc": "«Любим красный цвет! Любим красный цвет! Нравится! Нравится!»\n\nГруппа киборгов ритмично выкрикивала эти странные слова.\n\n«Четыре на красное!!!»\n\nВыкрикнув число, они закрутили рулетку.\nЗатем они передали шар для рулетки одному из Грешников.",
       "prevDesc": "",
-      "behaveDesc": "It seems the ball has to enter a red pocket with a number higher than 4.\nWho should spin the ball?",
+      "behaveDesc": "Похоже что шар должен попасть в красную лузу номером выше четвёрки.\nКто будет крутить?",
       "successDesc": [
-        "«Losing! Defeat!! Urgh-ack!»\n\nThe «upgraded» croupier fell to the ground, buzzing and sparking.\nEven its final throes felt rhythmic."
+        "«Проигрыш! Поражение!! Ургх!»\n\n«Улучшенный» крупье жужжа и искрясь упал на землю.\nДаже в его последних словах был слышен ритм."
       ],
       "failureDesc": [
-        "«Get beaten! Get all thrashed, real pulped!»\n\nAs soon as the cyborg saw the ball roll into the wrong pocket, it swung its massive arm to smack the Sinner.\n\nWith the Sinner crumpled on the floor, the game had to come to a stop…"
+        "«Будете избиты! Всех изрешетим, поколотим по настоящему!»\n\nКак только киборг увидел, что шар закатился не в ту лузу, он взмахнул своей массивной рукой, чтобы ударить Грешника.\n\nПосле того как Грешник рухнул на пол, игра прекратилась..."
       ]
     },
     {
       "id": 10200202,
       "title": "Exhilarating Edutainment Featuring Excess Violence!",
-      "eventDesc": "«No time now~ To stay all~ H. U. R. T!»\n\nThe chuckling cyborgs went back to the roulette.\n\n«Like yellow color! Like yellow color! Yellow! Yellow! Yellow!»\n\n«Yellow 6!!!»",
+      "eventDesc": "«Сейчас не время... Чтобы было... БоЛьНо!»\n\nХихикающие киборги вновь вернулись к рулетке.\n\n«Нравится жёлтый цвет! Нравится жёлтый цвет! Жёлтый! Жёлтый! Жёлтый!»\n\n«Шесть на жёлтое!!!»",
       "prevDesc": "",
-      "behaveDesc": "This time, the ball has to enter a yellow pocket with a number higher than 6.\nWho should spin the ball?",
+      "behaveDesc": "В этот раз шар должен попасть в жёлтую лузу номером выше шестёрки.\nКто будет крутить?",
       "successDesc": [
-        "«All lost! Foil again!! Ya-aaa-argh!»\n\nThe «upgraded» croupier fell to the ground, buzzing and sparking."
+        "«Всё потеряно! Опять поражение!! Аааргх!»\n\n«Улучшенный» крупье жужжа и искрясь упал на землю."
       ],
       "failureDesc": [
-        "«Here comes the fist to you~! Ready? Bready-tready-steady!»\n\nThe cyborg swung its massive arm to smack the Sinner.\n\nWith the Sinner crumpled on the floor, the game had to come to a stop…"
+        "«К тебе направляется кулак! Готов? Бодрый-гордый-твёрдый!»\n\nКиборг взмахнул своей массивной рукой, чтобы ударить Грешника.\n\nПосле того как Грешник рухнул на пол, игра прекратилась..."
       ]
     },
     {
       "id": 10200203,
       "title": "Exhilarating Edutainment Featuring Excess Violence!",
-      "eventDesc": "«Can’t say no to fun! Not. One. Little tiny bit!»\n\nThe singing group of cyborgs spins the wheel.\n\n«Liking blue color! Liking blue color! Bluey! Bluey! Bluey!»\n\n«Blue 8!!!»",
+      "eventDesc": "«Нельзя сказать нет весёлью! Даже. Самому. Малому!»\n\nПоющая толпа киборгов крутит рулетку.\n\n«Нравится синий цвет! Нравится синий цвет! Синенький! Синенький! Синенький!»\n\n«Восемь на синее!!!»",
       "prevDesc": "",
-      "behaveDesc": "This time, the ball has to enter a blue pocket with a number higher than 8.\nWho should spin the ball?",
+      "behaveDesc": "В этот раз шар должен попасть в синюю лузу номером выше восьмёрки.\nКто будет крутить?",
       "successDesc": [
-        "«Everything! Gone up bust!! Dammit!»\n\nThe «upgraded» croupier fell to the ground, buzzing and sparking.\n\nAll the other cyborgs broke down with it at the same time.\nHave we won…?\n\nYou noticed something glowing in their pile of tin rubble.\nYou carefully picked it up."
+        "«Всё! Потеряно!! Проклятье!»\n\n«Улучшенный» крупье жужжа и искрясь упал на землю.\n\nВсе остальные киборги сломались вместе с ним.\nМы победили?\n\nВы заметили что-то светящееся в оставшихся от них оловянных обломках.\nВы аккуратно это подобрали."
       ],
       "failureDesc": [
-        "BAP!\n\nThe cyborg swung its massive arm to smack the Sinner.\n\n«GAME OVER! Consolation prize time!»\nThe group of cyborgs tossed something at us, then walked away."
+        "БАМ!\n\nКиборг взмахнул своей массивной рукой, чтобы ударить Грешника.\n\n«ИГРА ОКОНЧЕНА! А теперь утешительный приз!»\nКиборги бросили что-то в нас перед тем как уйти."
       ]
     },
     {
