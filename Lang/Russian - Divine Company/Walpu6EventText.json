@@ -10,7 +10,7 @@
     },
     {
       "id": "missionConditionTitle_10048",
-      "content": "Clear Encounter with The Queen of Hatred taking less than 3 hits from enemy Attack Skills"
+      "content": "Завершить бой, не позволив Королеве Ненависти получить больше двух ударов от вражеских атакующих навыков"
     },
     {
       "id": "missionConditionTitle_10049",
@@ -38,15 +38,15 @@
     },
     {
       "id": "missionConditionTitle_10055",
-      "content": "Use Minus Coin Skills a certain number of times in an Encounter"
+      "content": "Использовать навыки с Отрицательными Монетами определённое количество раз за бой"
     },
     {
       "id": "missionConditionTitle_10056",
-      "content": "Clear Encounter without any ally deaths"
+      "content": "Завершить бой без смертей"
     },
     {
       "id": "missionConditionTitle_10057",
-      "content": "Clear Encounter without any of the allies reaching -45 SP"
+      "content": "Завершить бой без падения ПР Грешников до -45"
     },
     {
       "id": "missionConditionTitle_10058",
@@ -58,7 +58,7 @@
     },
     {
       "id": "missionConditionTitle_20053",
-      "content": "Clear Encounter with The Queen of Hatred taking less than 3 hits from enemy Attack Skills"
+      "content": "Завершить бой, не позволив Королеве Ненависти получить больше двух ударов от вражеских атакующих навыков"
     },
     {
       "id": "missionConditionTitle_20054",
@@ -90,15 +90,15 @@
     },
     {
       "id": "missionConditionTitle_20061",
-      "content": "Use Minus Coin Skills a certain number of times in an Encounter"
+      "content": "Использовать навыки с Отрицательными Монетами определённое количество раз за бой"
     },
     {
       "id": "missionConditionTitle_20062",
-      "content": "Clear Encounter without any ally deaths"
+      "content": "Завершить бой без смертей"
     },
     {
       "id": "missionConditionTitle_20063",
-      "content": "Clear Encounter without any of the allies reaching -45 SP"
+      "content": "Завершить бой без падения ПР Грешников до -45"
     },
     {
       "id": "missionConditionTitle_20064",
@@ -106,11 +106,11 @@
     },
     {
       "id": "missionConditionTitle_30005",
-      "content": "Complete all Missions in both Easy and Hard difficulties"
+      "content": "Выполните все задачи в Лёгком и Сложном режимах"
     },
     {
       "id": "walpu6_hard_stage_unlock_condition",
-      "content": "Clear Easy Difficulty to Unlock"
+      "content": "Пройдите Лёгкий режим чтобы открыть"
     },
     {
       "id": "tutorial_mainui_walpu6_01_title",
@@ -166,7 +166,7 @@
     },
     {
       "id": "tutorial_mainui_walpu6_05_title_01",
-      "content": "Missions"
+      "content": "Задачи"
     },
     {
       "id": "tutorial_mainui_walpu6_05_desc_01",
@@ -190,23 +190,23 @@
     },
     {
       "id": "walpu6_reward_button_normal",
-      "content": "Easy"
+      "content": "Лёгкий"
     },
     {
       "id": "walpu6_reward_button_hard",
-      "content": "Hard"
+      "content": "Сложный"
     },
     {
       "id": "walpu6_normal_difficulty",
-      "content": "Easy"
+      "content": "Лёгкий режим"
     },
     {
       "id": "walpu6_hard_difficulty",
-      "content": "Hard"
+      "content": "Сложный режим"
     },
     {
       "id": "walpu6_hard_open_condition",
-      "content": "Clear Easy Difficulty to Unlock"
+      "content": "Пройдите Лёгкий режим чтобы открыть"
     }
   ]
 }
