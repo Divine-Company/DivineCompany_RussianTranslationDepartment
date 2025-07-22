@@ -2,53 +2,53 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino Entrance",
+      "place": "Вход в казино",
       "model": "돈키호테",
-      "content": "Ohh…? Come hither, fellows, and lend me your gazes!"
+      "content": "О-о?‥ Ко мне, товарищи, и на сие взгляните!"
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "…What is all this?"
+      "content": "…Что тут такое?"
     },
     {
       "id": 2,
       "model": "이상",
-      "content": "Cars are heaped upon each other as if to form a tower."
+      "content": "Машины возвышаются друг на друге, словно башни."
     },
     {
       "id": 3,
       "model": "뫼르소",
-      "content": "Sombre."
+      "content": "Мрачное место."
     },
     {
       "id": 4,
-      "content": "The structures that seemed towerlike at a distance were actually cars stacked upon each other."
+      "content": "То, что издали казалось башнями, на самом деле были сложенные друг на друга машины."
     },
     {
       "id": 5,
       "model": "싱클레어",
-      "content": "Why are so many piled up like this…?"
+      "content": "Зачем кому-то надо было их так складывать?‥"
     },
     {
       "id": 6,
       "model": "돈키호테",
-      "content": "Oho, some have scripts upon their wind-shields! It must have been their families’ writing!"
+      "content": "О, на оных стекольцах есть некие слова! Должно быть, письмена, оставленные их семьями!"
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "This one says… “I miss you.” The owners… are coming back soon for them, right…?"
+      "content": "На этой написано… «Скоро буду». Значит ли… что владельцы скоро за ними вернутся?‥"
     },
     {
       "id": 8,
       "model": "로쟈",
-      "content": "Not a chance."
+      "content": "Никто не придёт."
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "Even if they did return from the casino, they wouldn’t be in the right state to happily reunite with their loving families~"
+      "content": "Даже если они и вернутся из казино, эти машины не в том состоянии, чтобы радостно воссоединиться со своими любящими владельцами."
     },
     {
       "id": 10,
@@ -58,97 +58,97 @@
     {
       "id": 11,
       "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Well… To play the auxiliary role of your tour guide, this here is the hidden landmark of the street."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Что ж… На минутку стану вашим экскурсоводом и кое-что скажу: здесь находится тайное знаковое место Ломбардной улицы."
     },
     {
       "id": 12,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "The bitter end of gamblers."
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Печальный конец всех лудоманов."
     },
     {
       "id": 13,
       "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "And this served as a stepping stone for the Tingtang Gang to amass wealth and power by dealing used cars."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Оно послужило ступенькой к власти и богатству банды «Диньдон», которые продавали подержанные автомобили."
     },
     {
       "id": 14,
       "model": "그레고르",
-      "content": "So Rodya, you’ve been to places like this pretty often, right? Got anything to add? Bet you could tell us some pretty interesting trivia."
+      "content": "Родя, ты ведь частенько посещала подобные места? Не хочешь что-то добавить? Могу поспорить, что ты знаешь парочку интересных фактов."
     },
     {
       "id": 15,
       "model": "로쟈",
-      "content": "Gah~ Dunno, dunno. Don’t ‘member a thing. I decided to forget all about the past and focus on what’s in front."
+      "content": "А-а, нет, не знаю, ничего не помню. Я решила расстаться с прошлым и начать думать о будущем."
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "…And I would be able to keep to that self-promise if not for irritants like them. Heh."
+      "content": "…И я могла бы сдержать данное себе обещание, не будь в моей жизни надоедливых людей, вроде них. Пхах."
     },
     {
       "id": 17,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Oi, bohnen! Who do ya think you are to goof around our turf?"
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Эй, болваны! Вы кем себя возомнили, что так нагло забрели на нашу территорию?"
     },
     {
       "id": 18,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Or what, ya here to sell ya car?"
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Или вы тоже решили заложить свою тачку?"
     },
     {
       "id": 19,
       "model": "돈키호테",
-      "content": "Nay! We mount an omnibus!"
+      "content": "Не-а! Мы ездим на автобусе!"
     },
     {
       "id": 20,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "We don’t deal in organs, though? Hmm, well, I guess a pair of eyes with pupils as specially-colored as yours might sell…"
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Значит, органы? Мы ими не торгуем, хотя… пару таких блистающих зрачков, может, и удастся кому-то втюхать…"
     },
     {
       "id": 21,
       "model": "돈키호테",
-      "content": "So we have come to the right place! We are here for your leader!"
+      "content": "Сие и правда есть обитель злотворцов! Мы прибыли дабы сразиться с вашим предводителем!"
     },
     {
       "id": 22,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ya pretty bold in facing a gang. Who do ya work for?"
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Так нагло нарываться на целую банду. Вы чьи шестерки?"
     },
     {
       "id": 23,
       "model": "돈키호테",
-      "content": "We serve under Limb—!"
+      "content": "Мы служим Комп!.."
     },
     {
       "id": 24,
       "model": "돈키호테",
-      "content": "Kehm…"
+      "content": "Kхм-кхм…"
     },
     {
       "id": 25,
-      "content": "An awkward silence passed."
+      "content": "Возникла неловкая тишина."
     },
     {
       "id": 26,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "I asked you a question! Don’t stop midway!"
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Говори до конца! Чё вдруг замолчала?!"
     }
   ]
 }

@@ -2,34 +2,34 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Pawn Avenue",
-      "content": "As Saude predicted, all the pawnbrokers were busy closing their street entrances to avoid trouble."
+      "place": "Ломбардная улица",
+      "content": "Сод была права, все ломбарды резко начали закрывать двери, чтобы избежать возможных проблем."
     },
     {
       "id": 1,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ey you pricks!! Stop right where you’re standin’!"
+      "teller": "Напыщенный Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Чёртовы трусы!!! Вам от нас не убежать!"
     },
     {
       "id": 2,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Ya think you can get away with messing with our family, tiny fave?"
+      "teller": "Напыщенный Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Чё, думали, вырубите члена нашей семьи и вам ничё не будет, а?"
     },
     {
       "id": 3,
       "model": "이스마엘",
-      "content": "What’s with brutish Syndicates and their pretend families? Is that the only thing they can think of to bond with each other?"
+      "content": "Почему все эти крикуны из Синдикатов так любят называть себя семьёй? Неужели это единственное, что они смогли придумать для сплочения?"
     },
     {
       "id": 4,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Look at the bump you made on our precious young’un’s head!"
+      "teller": "Напыщенный Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Гляньте, какую шишку вы поставили нашему пацану!"
     },
     {
       "id": 5,
@@ -39,104 +39,105 @@
     {
       "id": 6,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Good gracious… This was not part of the plan…"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Боже мой… Это не входило в наш план…"
     },
     {
       "id": 7,
-      "content": "Effie clutches his forehead as if it were aching."
+      "content": "Эппи схватился за лоб, словно у него началась мигрень."
     },
     {
       "id": 8,
-      "content": "I thought about goading him to keep some headache pills at hand if this was enough to cause him pain, but I refrained."
+      "content": "Мне хотелось посоветовать ему всегда носить с собой таблетки от головной боли, раз ему становится не по себе от подобных мелочей, но ко мне вовремя пришло осознание, что было бы разумнее этого не делать."
     },
     {
       "id": 9,
-      "content": "My lack of a head would’ve made the message far less impactful, anyway."
+      "content": "Да и вряд ли такой совет будет хорошо воспринят, если его скажет человек без головы..."
     },
     {
       "id": 10,
       "model": "오티스",
-      "content": "You two, you thought we were worthless scum until now, didn’t you?"
+      "content": "Эй, вы двое, вы ведь думали о нас, как о сборище всякого мусора?"
     },
     {
       "id": 11,
       "model": "오티스",
-      "content": "I know you’ve been seeing our group as sewage full of waste!"
+      "content": "Я знаю, что вы смотрели на нашу группу, как на сброд отбросов!"
     },
     {
       "id": 12,
       "model": "그레고르",
-      "content": "I don’t think anyone spoke of us that harshly, Outis…"
+      "content": "Утис, я не думаю, что о нас так грубо отзывались…"
     },
     {
       "id": 13,
       "model": "오티스",
-      "content": "Have you not wondered why we have been charged with the momentous mission of claiming Golden Boughs despite that?"
+      "content": "Но вам не приходило в голову, почему несмотря на всё это, именно нас выбрали для исполнения столь исключительно важного задания по сбору Золотых ветвей?"
     },
     {
       "id": 14,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Wh, why is… that?"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "И… почему же?"
     },
     {
       "id": 15,
-      "content": "Even Effie seemed to be taken aback by Outis’s imposing attitude."
+      "content": "Даже Эппи не смог устоять перед властным тоном Утис."
     },
     {
       "id": 16,
       "model": "오티스",
-      "content": "Although I won’t disagree that the others are rubbishes drenched in foul water…"
+      "content": "Я не стану спорить, что остальные и правда не лучше жалкого отребья…"
     },
     {
       "id": 17,
       "model": "그레고르",
-      "content": "No, seriously, you’re the only one who says that…"
+      "content": "Серьёзно, ты единственная, кто так говорит…"
     },
     {
       "id": 18,
       "model": "싱클레어",
-      "content": "O-Oh, that’s what Ms. Outis had been thinking all this time…"
+      "content": "Значит, вот как Утис думала о нас всё это время…"
     },
     {
       "id": 19,
       "model": "오티스",
-      "content": "I have remained undefeated, and our manager is capable of resuscitating us, making us practically incapable of death."
+      "content": "Однако я ни разу не терпела поражений, а директор обладает способностью воскрешать, лишая нас такой уязвимости как смерть."
     },
     {
       "id": 20,
       "model": "오티스",
-      "content": "In fact, just the two of us should be sufficient. Though that weasel Vergilius seems to disagree…"
+      "content": "Буду честна, нас двоих более чем достаточно, но, к сожалению, этот прохвост Вергилий думает иначе…"
     },
     {
       "id": 21,
       "model": "오티스",
-      "content": "The point is, these detrites won’t be scrapped even after countless battles. They will come back as the exact same piles of trash they were before death."
+      "content": "Дело в том, что эти живые щиты могут биться практически бесконечно, независимо от количества сражений. В случае смерти они раз за разом будут воскрешаться такими же бесполезными тушами, какими были до неё."
     },
     {
       "id": 22,
       "model": "그레고르",
-      "content": "…Sigh."
+      "content": "…А-ах."
     },
     {
       "id": 23,
       "model": "이스마엘",
-      "content": "That was a very inspiring way of reaffirming that we’re living, breathing garbage to you."
+      "content": "Вы весьма выразительно дали нам понять, что считаете нас не более чем грязью под своими ногами."
     },
     {
       "id": 24,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "…Morons."
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "…Какие же идиоты."
     },
     {
       "id": 25,
       "model": "오티스",
-      "content": "Enemies are approaching. Are you prepared, Manager?"
+      "content": "Враги на подходе. Директор, вы готовы?"
     }
   ]
 }
+

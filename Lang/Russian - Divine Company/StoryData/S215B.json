@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 3F",
+      "place": "Казино, 3 эт.",
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "You’d better keep your noggin safe and sound, ‘cause for kick the can we might need somethin’ around."
+      "teller": "Трепливый бандит",
+      "title": "Банда «Те Цю»",
+      "content": "Вам стоит беречь свои черепушки, а то нам может понадобиться замена для мяча."
     },
     {
       "id": 1,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "I almost forgot… These are the ones known for their coarse language…"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Чуть не забыл… Это банда славится своей грубостью…"
     },
     {
       "id": 2,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Rumor has it they took down dozens of rival Syndicate members with just the psychological damage inflicted via their tongues…"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Ходят слухи, что они разделались с десятками своих конкурентов, морально тех раздавив одними лишь оскорблениями…"
     },
     {
       "id": 3,
       "model": "히스클리프",
-      "content": "Oi! You watch your mouths while I’m—"
+      "content": "Эй! Следи за языком, пока я…"
     },
     {
       "id": 4,
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Who’re you gazing nitwits? Keep us out of sight, won’tcha? Them big bulgin’ doggy eyeballs are unnerving…"
+      "teller": "Трепливый бандит",
+      "title": "Банда «Те Цю»",
+      "content": "На кого уставились, недоумки? Вам смотреть больше не на чё? Так выпучили глаза, что аж не по себе…"
     },
     {
       "id": 5,
       "model": "위협적인철공회조직원",
-      "teller": "Threatening Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Easy, bud. I took a shoutin’ crack at one o’ them’s eggs earlier, and my voice echoed like the whole noggin was cave-empty."
+      "teller": "Грозный бандит",
+      "title": "Банда «Те Цю»",
+      "content": "Полегче, братан. Я гаркнул на одного, так там была такая пустая башка, что я услышал собственное эхо."
     },
     {
       "id": 6,
       "model": "몸푸는철공회조직원",
-      "teller": "Flexing Crewman",
-      "title": "Tieqiu Crew",
-      "content": "Well brush me sideways, they don’t even got a string o’ egg noodle for brains? What’s the round thing on their shoulders, then? A bag o’ gas?"
+      "teller": "Трепливый бандит",
+      "title": "Банда «Те Цю»",
+      "content": "Ёкарный бабай, у них совсем что ли мозгов нет? Чё это тогда они носят на плечах? Воздушный шарик?"
     },
     {
       "id": 7,
@@ -56,27 +56,28 @@
     {
       "id": 8,
       "model": "그레고르",
-      "content": "Hm, think they all take lessons in assholery from the same class?"
+      "content": "Хм, думаете, они все такие придурковатые?"
     },
     {
       "id": 9,
       "model": "로쟈",
-      "content": "…Pft."
+      "content": "…Пх."
     },
     {
       "id": 10,
       "model": "로쟈",
-      "content": "I—I mean, it was kinda funny. N-not sure what you’re looking at me for~"
+      "content": "Э-это и правда было немного смешно. Чего вы так на меня смотрите?"
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "…Dead."
+      "content": "…Убью."
     },
     {
       "id": 12,
       "model": "히스클리프",
-      "content": "…You’re all bloody dead!!"
+      "content": "…Я вас всех на хрен перебью!!"
     }
   ]
 }
+

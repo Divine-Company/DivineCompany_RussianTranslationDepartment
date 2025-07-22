@@ -2,62 +2,63 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 2F",
+      "place": "Казино, 2 эт.",
       "model": "파우스트",
-      "content": "The atmosphere here seems rather different. It appears that another Syndicate has taken hold of this floor."
+      "content": "Обстановка здесь заметно отличается. Судя по всему, этот этаж находится под контролем иного Синдиката."
     },
     {
       "id": 1,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Hey, oigan! What’s with all the doom and gloom you’re wearing on that face of yours?"
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Эй, ребят! Вы чего пришли сюда такие мрачные?"
     },
     {
       "id": 2,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Don’t you know the rules here? Sour looks are a no-no, so put a hat over your long face!"
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Здешних правил не знаете? Грустить тут нельзя, так что шляпами прикройте свои лица!"
     },
     {
       "id": 3,
       "model": "료슈",
-      "content": "Why do you say that while looking at me? I. Will. SYNC on you."
+      "content": "И чего ты так уставился на меня? Я тебя УРОК."
     },
     {
       "id": 4,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "What’s that mean?!"
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Что это значит?!"
     },
     {
       "id": 5,
       "model": "료슈",
-      "content": "Snap your neck completely, that’s what."
+      "content": "Убью, разрубив одним касанием, вот что."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<Easy, Ryōshū… You shouldn’t be so prone to starting fights—>"
+      "content": "<Спокойно, Рёсю… Не нужно напрашиваться на бой со всеми под…>"
     },
     {
       "id": 7,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Ey, never mind that. This one has an even more problematic face, no? Which hand is supposed to be your eyes?"
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "А-а, ну и дела. Среди вас у кого-то вообще часы вместо головы. Какая стрелка у тебя вместо глаз?"
     },
     {
       "id": 8,
       "model": "단테",
-      "content": "<…Ryōshū, are you ready?>"
+      "content": "<…Рёсю, ты готова?>"
     },
     {
       "id": 9,
       "model": "료슈",
-      "content": "You bet, Dante."
+      "content": "Уже давно, Данте."
     }
   ]
 }
+

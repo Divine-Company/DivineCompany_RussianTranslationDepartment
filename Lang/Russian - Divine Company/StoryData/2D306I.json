@@ -2,115 +2,115 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Within the Ice Castle",
-      "content": "THOOM!"
+      "place": "Внутри Ледяного замка",
+      "content": "ТУ-У-УМ!"
     },
     {
       "id": 1,
       "model": "단테",
-      "content": "<What the…?>"
+      "content": "<Что за?‥>"
     },
     {
       "id": 2,
-      "content": "The castle trembles intensely as frosty rubble falls around us from above."
+      "content": "Замок ужасно задрожал, и вокруг нас начали падать его ледяные обломки."
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<Wait, if this keeps up…>"
+      "content": "<Если всё продолжит рушиться…>"
     },
     {
       "id": 4,
-      "content": "A foreboding idea flashes in my head."
+      "content": "У меня появлось очень дурное предчувствие."
     },
     {
       "id": 5,
-      "content": "The ticking of my clock was like a reminder of how much time we had left."
+      "content": "Тиканье моих часов будто бы отсчитывало оставшиеся нам минуты."
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<Out… Outside, now!>"
+      "content": "<Все наружу… Живо!>"
     },
     {
       "id": 7,
-      "place": "Ice Castle Where Neighbors Lie",
-      "content": "We evacuated from it in a hurry."
+      "place": "Ледяной замок, в котором дремлют соседи",
+      "content": "Мы выбежали из замка так быстро, как только могли."
     },
     {
       "id": 8,
       "model": "이스마엘",
-      "content": "…Am I seeing this right?"
+      "content": "…Меня не обманывают мои глаза?"
     },
     {
       "id": 9,
       "model": "이스마엘",
-      "content": "The castle isn’t falling apart, it’s like…"
+      "content": "Замок не разрушается, а, кажется, наоборот…"
     },
     {
       "id": 10,
       "model": "파우스트",
-      "content": "Indeed, it’s most certainly rising to its feet."
+      "content": "Верно, он определённо встаёт на ноги."
     },
     {
       "id": 11,
       "model": "그레고르",
-      "content": "Don’t look back! Just run!"
+      "content": "Продолжайте бежать! Не оглядывайтесь!"
     },
     {
       "id": 12,
       "model": "단테",
-      "content": "<Hoogh… Gahh… I, we ran quite a bit, but what now…?>"
+      "content": "<Фух… Я… кхм, мы уже довольно далеко, что там ещё?..>"
     },
     {
       "id": 13,
       "model": "뫼르소",
-      "content": "Footfalls. Not of a human. Rather slow and heavy."
+      "content": "Звуки шагов. Медленные и тяжёлые — нечеловеческие."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "…You could just say that something mammoth is after us!"
+      "content": "…Можно было просто сказать, что на нас движется нечто огромное."
     },
     {
       "id": 15,
       "model": "뫼르소",
-      "content": "That may have served better."
+      "content": "Возможно, так было бы яснее."
     },
     {
       "id": 16,
       "model": "로쟈",
-      "content": "D—Dante! Our job here’s done, so we can just book it! Cool?"
+      "content": "Д-Данте! Дело сделано, пора убираться отсюда! Слышишь?"
     },
     {
       "id": 17,
       "model": "단테",
-      "content": "<G-Gimme a second! I never considered what to do after getting down here…>"
+      "content": "<Д-дайте мне подумать! У меня не было времени спланировать, что делать в такой момент…>"
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Oh, really! Does this look like the time for dopey plans?!"
+      "content": "Серьёзно? Словно сейчас оно у нас есть!"
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "The bus… Where’s the bus?"
+      "content": "Автобус… Где автобус?"
     },
     {
       "id": 20,
       "model": "히스클리프",
-      "content": "Stop yapping useless rubbish! We’re running the hell away!"
+      "content": "Хватит нести всякую хрень! Рты на замок и бежим!"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "That might be the first logical statement I’ve heard leave your mouth, Heathcliff."
+      "content": "Хитклиф, кажется, это первый раз, когда я услышала от вас нечто разумное."
     },
     {
       "id": 22,
       "model": "히스클리프",
-      "content": "…I’m smashing your skull to pieces later."
+      "content": "…Позже ты поплатишься за свои слова."
     }
   ]
 }

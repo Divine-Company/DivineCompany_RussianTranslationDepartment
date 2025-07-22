@@ -2,20 +2,20 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
-      "content": "The bus wasn’t all that lively."
+      "place": "Мефистофель",
+      "content": "Обстановку в автобусе нельзя было назвать оживлённой."
     },
     {
       "id": 1,
-      "content": "I could hear Rodya’s occasional quips, or Heathcliff starting pointless quarrels with someone—probably Don Quixote or Sinclair."
+      "content": "Время от времени мне слышалось, как вздыхала Родя, или как Хитклиф с кем-то — скорее всего, с Синклером или с Дон Кихот — начинал бессмысленные споры."
     },
     {
       "id": 2,
-      "content": "And Ryōshū’s demanding a source of heat to light her cigarette, having run out of lighter fluid."
+      "content": "И как Рёсю требовала источник огня для своих сигарет, поскольку её зажигалка перестала работать."
     },
     {
       "id": 3,
-      "content": "Amidst the gripes and disorder, Gregor was pretty much the only Sinner I could rely on to willingly turn the mood around…"
+      "content": "Грегор, без преувеличения, был единственным Грешником, который зачастую мог сам разрядить напряжённую ситуацию…"
     },
     {
       "id": 4,
@@ -24,11 +24,11 @@
     },
     {
       "id": 5,
-      "content": "But now, he was one of the quietest."
+      "content": "Но сейчас он был тише воды, ниже травы."
     },
     {
       "id": 6,
-      "content": "He was just staring out through the window, seemingly lost in deep thought."
+      "content": "Он всё смотрел куда-то в окно, в пустоту, словно погряз в глубоких раздумьях."
     },
     {
       "id": 7,
@@ -37,86 +37,86 @@
     },
     {
       "id": 8,
-      "content": "One thing was for sure."
+      "content": "Одно известно было точно."
     },
     {
       "id": 9,
-      "content": "If anyone were to blame for trashing the mood on the bus, it’d be Vergilius."
+      "content": "Если кого-то и можно было винить за упадок морали, так это Вергилия."
     },
     {
       "id": 10,
-      "content": "The road to the Golden Bough was an awfully arduous one…"
+      "content": "Путь к Золотой ветви был невероятно трудным и мучительным…"
     },
     {
       "id": 11,
-      "content": "Putting us on the brink of death (and some past that) several times, not to mention the occasions when we almost ended up unemployed."
+      "content": "Мы множество раз оказывались на грани смерти, а некоторые и за ней, и это не говоря о том, что мы чуть не оказались безработными."
     },
     {
       "id": 12,
-      "content": "Yet Vergilius refused to see from our perspective."
+      "content": "Но Вергилий всё равно отказался посмотреть на ситуацию с нашей стороны."
     },
     {
       "id": 13,
-      "content": "Given the circumstances, it’s only natural for our Sinners to be palpably disgruntled."
+      "content": "Исходя из всего этого, вполне естественно, что Грешники впали в угнетённое состояние."
     },
     {
       "id": 14,
-      "content": "Tired of the silent treatment, Ishmael spoke up."
+      "content": "Устав мириться с молчанием, Измаил решила спросить его напрямую."
     },
     {
       "id": 15,
       "model": "이스마엘",
-      "content": "Couldn’t you tell me where our next destination is now, at least?"
+      "content": "Может, хотя бы скажете, куда мы направляемся?"
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "Oh, sorry about that."
+      "content": "Ох, прошу прощения."
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "I was wondering whether briefing the mission to you miscreants would be worth the effort."
+      "content": "Я размышлял, имеет ли вообще смысл тратить силы на объяснение деталей задания таким бестолочам."
     },
     {
       "id": 18,
       "model": "로쟈",
-      "content": "Pah, you’re hurting me with your cold shoulder. Don’t you know that kids falling behind need more love?"
+      "content": "Хах, у меня сердце разрывается от такого холодного отношения. Вы разве не знаете, что отстающим детишкам нужна особая забота?"
     },
     {
       "id": 19,
       "model": "베르길리우스",
-      "content": "And let me plead you not to embarrass me this time."
+      "content": "И прошу вас, не позорьте меня в этот раз."
     },
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "I sure don’t want to look like a teacher taking a bunch of gradeschoolers out for a picnic."
+      "content": "Не хватало мне ещё быть похожим на учителя, что вывел первоклашек в их первый поход."
     },
     {
       "id": 21,
       "model": "베르길리우스",
-      "content": "I have high hopes for you in particular, Rodion. You might just make a good guide for this tour."
+      "content": "К слову, Родион, я возлагаю на тебя большие надежды. Для этого задания из тебя может выйти отличный проводник."
     },
     {
       "id": 22,
       "model": "로쟈",
-      "content": "Huh? I know I’m a big deal, but I don’t think I can be a guide for a place I don’t know…"
+      "content": "М? Я, конечно, во всём хороша, но быть проводником в месте, о котором мне ничего неизвестно…"
     },
     {
       "id": 23,
       "model": "베르길리우스",
-      "content": "No worries. We’re heading to a location you should be more than familiar with."
+      "content": "Не переживай. Наше место назначения должно быть хорошо тебе знакомо."
     },
     {
       "id": 24,
       "model": "베르길리우스",
-      "content": "A Nest of hedonism where you can drown in money or be drained of everything you have:"
+      "content": "Мы направляемся в Гнездо гедонизма, где человек либо купается в деньгах, либо лишается всего, что имеет."
     },
     {
       "id": 25,
       "model": "베르길리우스",
-      "content": "J Corp’s."
+      "content": "В Крыло J."
     },
     {
       "id": 26,
@@ -125,27 +125,27 @@
     },
     {
       "id": 27,
-      "content": "Great, even Rodya has gone quiet now."
+      "content": "Отлично, теперь и Родя погрузилась в молчание."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Well, I suppose it wouldn’t be so bad to win big while we’re at it."
+      "content": "Что ж, было бы неплохо сорвать куш в одном из местных казино."
     },
     {
       "id": 29,
       "model": "히스클리프",
-      "content": "Oi, someone wake me up when we’re there."
+      "content": "Эй, кто-нить разбудите меня, когда доберёмся."
     },
     {
       "id": 30,
       "model": "베르길리우스",
-      "content": "…Coincidentally, the bus will be unable to take you right to the branch building this time, dear passenger."
+      "content": "Так уж получилось, дорогой пассажир, что в этот раз автобус не сможет доставить тебя прямо к филиалу."
     },
     {
       "id": 31,
       "model": "베르길리우스",
-      "content": "Charon, park it."
+      "content": "Харон, припаркуйся рядом."
     },
     {
       "id": 32,
@@ -155,92 +155,92 @@
     {
       "id": 33,
       "model": "베르길리우스",
-      "content": "…? Charon?"
+      "content": "Харон?"
     },
     {
       "id": 34,
       "model": "카론",
-      "content": "What’s “park”?"
+      "content": "Что такое «припаркуйся»?"
     },
     {
       "id": 35,
       "model": "베르길리우스",
-      "content": "It means stop."
+      "content": "Это значит остановись."
     },
     {
       "id": 36,
       "model": "카론",
-      "content": "Stops are red. Red tastes bad to Charon."
+      "content": "Останавливаются на красный. Красный не нравится Харон."
     },
     {
       "id": 37,
-      "content": "Grumbling, Charon hit the brakes without warning, sending most of the Sinners flying face-first into the seats ahead and flinging others off theirs."
+      "content": "Попривередничав, Харон без предупреждения вдавила по тормозам, из-за чего большинство Грешников «поцеловались» с находящимися перед ними сиденьями, а остальные просто слетели со своих мест."
     },
     {
       "id": 38,
-      "content": "I was, of course, powerless against the inertia."
+      "content": "Справиться с инерцией не по силам было и мне."
     },
     {
       "id": 39,
-      "content": "A cacophony of complaints and shouts erupted."
+      "content": "После такой резкой остановки в автобусе разразилась настоящая какофония из жалоб и выкриков."
     },
     {
       "id": 40,
-      "content": "Although I didn’t get to hear the Sinners’ ramblings in clear detail…"
+      "content": "Хоть мне и не удалось полностью расслышать, что именно кричали Грешники…"
     },
     {
       "id": 41,
-      "content": "I’m willing to bet a good half of them were profanities, so maybe I’m better off not knowing."
+      "content": "Но могу поспорить, что в своём большинстве их выражения были далеко нелестными, так что об этом упущении я не жалею."
     },
     {
       "id": 42,
       "model": "베르길리우스",
-      "content": "Good to see you all full of energy. Now out."
+      "content": "Рад, что у вас ещё осталось столько энергии. Теперь на выход."
     },
     {
       "id": 43,
       "model": "홍루",
-      "content": "Hmm… The destination still seemed rather far… Ah! Will you call a taxi for us?"
+      "content": "Хм-м… Наше место назначения всё ещё довольно далеко… Ох! Вы вызовете для нас такси?"
     },
     {
       "id": 44,
       "model": "베르길리우스",
-      "content": "…As Ms. Faust will explain in detail, this mission is going to be quite different from our last, Dante."
+      "content": "…Госпожа Фауст вскоре объяснит все детали, но пока могу сказать лишь то, что текущее задание немного отличается от предыдущего, Данте."
     },
     {
       "id": 45,
       "model": "베르길리우스",
-      "content": "This is because the location of the Golden Bough…"
+      "content": "Дело в том, что эта Золотая ветвь…"
     },
     {
       "id": 46,
       "model": "베르길리우스",
-      "content": "…is in the underground of a casino."
+      "content": "…находится под казино."
     },
     {
       "id": 47,
       "model": "오티스",
-      "content": "Do you mean to tell us that it’s among the brightly lit buildings standing at the center of that street?"
+      "content": "Хотите сказать, что филиал находится где-то под одним из этих ярко сверкающих зданий посреди улицы?"
     },
     {
       "id": 48,
       "model": "베르길리우스",
-      "content": "That’s right, it’s one of those."
+      "content": "Верно, под одним из них."
     },
     {
       "id": 49,
       "model": "이스마엘",
-      "content": "The Lobotomy Branch Facility we infiltrated last time was one that had been neglected for quite a while."
+      "content": "Прошлый филиал «Лоботомии» оказался заброшен, причём довольно давно."
     },
     {
       "id": 50,
       "model": "싱클레어",
-      "content": "So you mean that… that was the exception?"
+      "content": "Вы имеете в виду… что он был такой один?"
     },
     {
       "id": 51,
       "model": "베르길리우스",
-      "content": "See, it’s times like this that remind me our team doesn’t necessarily lack critical thinkers… It really does make me wonder how you managed to blunder your previous mission even more."
+      "content": "Вот видите, именно такие моменты напоминают мне, что наша команда не обделена смышлёными людьми… Мне и правда становится интересно, как вы умудрились провалить своё первое задание."
     },
     {
       "id": 52,
@@ -250,149 +250,149 @@
     {
       "id": 53,
       "model": "베르길리우스",
-      "content": "The Golden Bough is a potent energy source, holding the essence of many technological marvels."
+      "content": "Золотая ветвь является мощным источником энергии, в котором сокрыта эссенция многочисленных технологических чудес."
     },
     {
       "id": 54,
       "model": "베르길리우스",
-      "content": "Such founts of energy will attract flows of wealth and people, and in no time, a whole civilization is built on top of it."
+      "content": "Подобные энергоресурсы определённо привлекут деньги и людей, и вот вы оглянуться не успеете, как на их основе будет построена целая цивилизация."
     },
     {
       "id": 55,
       "model": "파우스트",
-      "content": "Therefore, it’s likely that future destinations will have been occupied by other factions and their structures."
+      "content": "Подводя итог, велика вероятность, что наши будущие точки назначения будут оккупированы другими фракциями и их сооружениями."
     },
     {
       "id": 56,
       "model": "파우스트",
-      "content": "…Which, in turn, indicates that we should be prepared to visit a wide variety of venues in addition to this casino."
+      "content": "…Что, в свою очередь, указывает на то, что, помимо этого казино, мы должны быть готовы к посещению большого количества других различных площадок."
     },
     {
       "id": 57,
       "model": "베르길리우스",
-      "content": "It also means that your first mission was a relatively easy one, yet you somehow snatched defeat from the wide-open maws of success."
+      "content": "Это также означает то, что ваше первое задание было относительно простым, но вы всё равно как-то умудрились потерпеть неудачу перед распростёртыми объятиями успеха."
     },
     {
       "id": 58,
       "model": "단테",
-      "content": "<…Does he usually hold grudges that long?>"
+      "content": "<…Он всегда так долго всё припоминает?>"
     },
     {
       "id": 59,
       "model": "그레고르",
-      "content": "…Ahem."
+      "content": "…Кхм."
     },
     {
       "id": 60,
       "model": "로쟈",
-      "content": "Don’t ask me~ We haven’t known him much longer than you have."
+      "content": "Кто его знает. Мы с ним знакомы не сильно больше твоего."
     },
     {
       "id": 61,
       "model": "로쟈",
-      "content": "What’d he say again? Something like, “Welcome to Limbus Company. I’m your guide, Vergilius” and all that…"
+      "content": "Что он там говорил? Что-то вроде: «Добро пожаловать в Компанию «Лимбус», я Вергилий – ваш проводник», и дальше в том же духе…"
     },
     {
       "id": 62,
       "model": "로쟈",
-      "content": "Hah! Pretty good impression, wasn’t it?"
+      "content": "Хах! Неплохо я его изобразила, да?"
     },
     {
       "id": 63,
       "model": "그레고르",
-      "content": "You got his authoritative tone down to a tee, I’ll give you that. I had to hold myself back from asking if I could resign right after joining."
+      "content": "Властный тон получился прямо в точку, тут не поспоришь. Мне пришлось сдерживать себя, чтобы не уволиться сразу же после устройства в компанию."
     },
     {
       "id": 64,
       "model": "단테",
-      "content": "<I get the feeling the rest of you thought the same.>"
+      "content": "<Складывается впечатление, что остальные думали примерно о том же.>"
     },
     {
       "id": 65,
       "model": "돈키호테",
-      "content": "Nonsense! ‘Twas a day to go down in history! Beckoned by the Red Gaze himself! Truly, there is no honor greater than a Color addressing your―"
+      "content": "Экое кощунство! Сие был день, кой удостоен быть записан в летописях! Сам Красный Взор воззвал меня собственной персоной! И, воистину, нет чести более великой, чем когда Цвет взывает к вашей…"
     },
     {
       "id": 66,
       "model": "그레고르",
-      "content": "Huh, I guess he does have a fan after all."
+      "content": "Ах, похоже, фанаты у него всё же есть."
     },
     {
       "id": 67,
       "model": "로쟈",
-      "content": "Ufuhu, true that."
+      "content": "Фу-ху-ху, и ведь правда."
     },
     {
       "id": 68,
-      "content": "With their spirits lifted, Rodya and Gregor began to chuckle."
+      "content": "Грегор и Родя слегка посмеялись, вновь подняв себе настроение."
     },
     {
       "id": 69,
       "model": "베르길리우스",
-      "content": "That’s more talking than necessary. I really do not wish for there to be impetus behind a third rule for this bus ride."
+      "content": "Вы слишком много говорите. Я очень надеюсь, что мне не придётся устанавливать третье правило во время этой поездки."
     },
     {
       "id": 70,
       "model": "로쟈",
-      "content": "C’mon, give the employees some room to badmouth their boss. You’re being totally petty."
+      "content": "Да ладно вам, дайте работникам хоть какое-то пространство посплетничать о начальнике. Не мелочитесь так сильно."
     },
     {
       "id": 71,
       "model": "베르길리우스",
-      "content": "Next time, do it out of earshot."
+      "content": "Впредь сплетничайте так, чтобы я этого не слышал."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "I’m more fragile than I look, you see."
+      "content": "Видите ли, я более раним, чем кажусь на первый взгляд."
     },
     {
       "id": 73,
       "model": "베르길리우스",
-      "content": "Right, time to get up and at it. I sure hope you come back with a Golden Bough in your hands this time."
+      "content": "Ладно, пора вставать и приступать к делу. Я очень надеюсь, что в этот раз вы вернетесь с Золотой ветвью в своих руках."
     },
     {
       "id": 74,
       "model": "히스클리프",
-      "content": "And if we bugger it twice?"
+      "content": "А если снова провалим это дельце?"
     },
     {
       "id": 75,
       "model": "베르길리우스",
-      "content": "Who knows? Charon might suddenly forget what button to press to open the door for you."
+      "content": "Кто знает? Харон вдруг может забыть, какая кнопка открывает дверь."
     },
     {
       "id": 76,
       "model": "카론",
-      "content": "Button, red. Yucky color."
+      "content": "Кнопка, красная. Гадкий цвет."
     },
     {
       "id": 77,
       "model": "히스클리프",
-      "content": "…You’re one daft bloke…"
+      "content": "…Паршивый же ты мужик…"
     },
     {
       "id": 78,
       "model": "료슈",
-      "content": "UITGAAN."
+      "content": "БИХОС."
     },
     {
       "id": 79,
       "model": "히스클리프",
-      "content": "And that means?"
+      "content": "А на понятном языке?"
     },
     {
       "id": 80,
       "model": "료슈",
-      "content": "Shorthand for “Useless idiotic travelers go and abscond, now”."
+      "content": "«Бесполезные идиоты, хватит отдыхать, слезаем». Понятнее?"
     },
     {
       "id": 81,
-      "content": "Heathcliff glared at Ryōshū, insults welling up in his throat, only to then expel a loud sigh."
+      "content": "Хитклиф гневно посмотрел на Рёсю. Было видно, как в его горле застряла ругань, но издал он один лишь громкий вздох."
     },
     {
       "id": 82,
-      "content": "He resigned uncharacteristically, as if he came to the realization that killing her wouldn’t solve anything."
+      "content": "Он в неестественной для себя манере проглотил скопившиеся эмоции, так как понял, что её смерть ничего не разрешит."
     }
   ]
 }

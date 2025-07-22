@@ -2,48 +2,48 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Backstreets of District 10",
+      "place": "Подворотни 10-го Района",
       "model": "료슈",
-      "content": "They made for pathetic foes. That was absolutely nothing."
+      "content": "Они оказались слишком слабыми. Скукота."
     },
     {
       "id": 1,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "The Tingtang Gang had tight control over this area. This is not going to be the end of―"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Банда «Диньдон» имеет полный контроль над этой территорией. Так легко мы от них не..."
     },
     {
       "id": 2,
-      "content": "Just then, more Tingtangers began showing up from the street corners."
+      "content": "Из-за углов домов почти сразу же начало выходить всё больше и больше Диньдонщиков."
     },
     {
       "id": 3,
       "model": "세보이고싶었던콩콩파조직원",
-      "teller": "Chest-puffing Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Who sent ya haricots to mess with us?!"
+      "teller": "Напыщенный Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Кто вас, уродов, сюда послал и зачем вы лезете в наши дела?!"
     },
     {
       "id": 4,
       "model": "돈키호테",
-      "content": "We are the proud soldiers of Limbu― Hmgh…"
+      "content": "Мы есть храбрые воины организации «Лимбу-у-угхм…"
     },
     {
       "id": 5,
-      "content": "Effie quickly covered Don Quixote’s mouth."
+      "content": "Эппи спешно закрыл рот Дон Кихот."
     },
     {
       "id": 6,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "Have you lost it? Do you want the entire District after us?"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Ты из ума выжила? Хочешь, чтобы за нами весь Район охотился?"
     },
     {
       "id": 7,
       "model": "오티스",
-      "content": "More are coming! Give us your command, Manager!"
+      "content": "У них подкрепление! Директор, мы ждём вашего приказа!"
     }
   ]
 }

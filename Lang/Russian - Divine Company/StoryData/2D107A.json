@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino Mine B1",
+      "place": "Шахта казино, -1 эт.",
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
-      "content": "W—Wait… Why are they coming this way?! Stop! I said stop!"
+      "teller": "Суровый охранник",
+      "title": "Казино Крыла J",
+      "content": "П-погодите… Почему они бегут на нас? Стоять! Не приближайтесь!"
     },
     {
       "id": 1,
       "model": "각잡힌카지노경호원",
-      "teller": "Rigid Security",
-      "title": "J Corp. Casino",
-      "content": "G-Get them away from me! Hurry!"
+      "teller": "Суровый охранник",
+      "title": "Казино Крыла J",
+      "content": "У-уберите их от меня! Быстрее!"
     },
     {
       "id": 2,
       "model": "노예",
-      "teller": "Captive Debtor",
-      "title": "J Corp. Casino",
-      "content": "…Forty-seven million, nine hundred…"
+      "teller": "Пленный должник",
+      "title": "Казино Крыла J",
+      "content": "…Сорок семь миллионов девятьсот…"
     },
     {
       "id": 3,
-      "content": "The debtors kept on swinging their pickaxes; forty-seven million, nine hundred thousand picks left and counting down."
+      "content": "Должники продолжали махать кирками; им оставалось взмахнуть ещё сорок семь миллионов девятьсот тысяч раз, прежде чем им разрешат покинуть это место."
     },
     {
       "id": 4,
-      "content": "We were able to find our way down using this opportunity."
+      "content": "Воспользовавшись моментом, мы нашли путь вниз."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "So we did get help from the debtors after all."
+      "content": "В конце концов, они нам всё же помогли."
     },
     {
       "id": 6,
       "model": "로쟈",
-      "content": "Just a coincidence."
+      "content": "Простая случайность."
     },
     {
       "id": 7,
-      "content": "Rodya replied with an apathetic look."
+      "content": "Ответ Роди звучал равнодушно."
     }
   ]
 }

@@ -2,126 +2,126 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino 2F",
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "GAAH!!! NOT AGAIN!!!"
+      "place": "Казино, 2 эт.",
+      "teller": "Ноющий посетитель казино",
+      "title": "Казино Крыла J",
+      "content": "А-А!!! ДА КАК?!"
     },
     {
       "id": 1,
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "I lost once again, damn! When will this end?"
+      "teller": "Ноющий посетитель казино",
+      "title": "Казино Крыла J",
+      "content": "Я снова проиграл! Когда мне уже повезёт?"
     },
     {
       "id": 2,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Oye, espera, time out! Our dear customer here needs a little care!"
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Э-э, минутку, перекур! Один наш дорогой клиент нуждается в срочной помощи!"
     },
     {
       "id": 3,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Dear Customer, I hope you haven’t forgotten our rule, have you?"
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Уважаемый посетитель, вы ведь не забыли наши правила?"
     },
     {
       "id": 4,
-      "teller": "Bawling Casinogoer",
-      "title": "J Corp. Casino",
-      "content": "B-But… That was all the money I had…"
+      "teller": "Ноющий посетитель казино",
+      "title": "Казино Крыла J",
+      "content": "Н-но… Это были мои последние деньги…"
     },
     {
       "id": 5,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "If you keep dampening the mood of the table, we might throw a pañata party out of you."
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Если вы продолжите портить настроение других игроков, то у нас не останется выбора, кроме как сделать из вас пиньяту."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "(Uh, what’s a pañata party?)"
+      "content": "(Эм, а что такое <i>пиньята</i>?)"
     },
     {
       "id": 7,
       "model": "단테",
-      "content": "<I don’t think I want to know…>"
+      "content": "<Что-то мне подсказывает, что лучше этого не знать…>"
     },
     {
       "id": 8,
-      "content": "Pressured by gentle intimidation, the weeping guest stood up from their seat."
+      "content": "После небольшой угрозы ноющий посетитель встал со своего места."
     },
     {
       "id": 9,
-      "content": "And then, being handed a pair of maracas from the staff, they…"
+      "content": "Ему вручили маракасы, и он…"
     },
     {
       "id": 10,
-      "content": "…Started dancing, sobbing all the way…"
+      "content": "…рыдая, начал танцевать…"
     },
     {
       "id": 11,
       "model": "히스클리프",
-      "content": "What’s this now…?"
+      "content": "Чем это они занимаются?‥"
     },
     {
       "id": 12,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "There’s a rule every visitor to this floor must follow—una tradición mariachi, if you will."
+      "teller": "Жизнерадостный Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "На этом этаже существуют правила, следовать которым обязан каждый."
     },
     {
       "id": 13,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Gambling is entertainment, an activity done purely for fun; thus, all the sadness and pain brought to you must be sublimated into dance."
+      "teller": "Жизнерадостный Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Азартные игры — это в первую очередь развлечение. Поэтому все негативные эмоции должны растворяться в танце."
     },
     {
       "id": 14,
       "model": "돈키호테",
-      "content": "Allow this knight to demonstrate what dancing is about!"
+      "content": "Позвольте сему рыцарю отправиться в сердечный пляс!"
     },
     {
       "id": 15,
-      "content": "Alas, they were harsher judges than they seemed."
+      "content": "К её несчастью, они были весьма суровыми судьями."
     },
     {
       "id": 16,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "This one won’t do."
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Так не пойдёт."
     },
     {
       "id": 17,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Her movement is insincere."
+      "teller": "Жизнерадостный Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Её движения полны фальши."
     },
     {
       "id": 18,
       "model": "돈키호테",
-      "content": "What on earth do you mean?!"
+      "content": "Что за вздор вы изрекаете?!"
     },
     {
       "id": 19,
       "model": "흥겨운마리아치조직원",
-      "teller": "Mariachi Alegre",
-      "title": "Los Mariachis",
-      "content": "Dance is a window to the heart."
+      "teller": "Развесёлый Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "Танец — это зеркало души."
     },
     {
       "id": 20,
       "model": "경쾌한마리아치조직원",
-      "teller": "Mariachi Vivaz",
-      "title": "Los Mariachis",
-      "content": "Without a clear and pure heart, it loses all meaning."
+      "teller": "Жизнерадостный Мариачи",
+      "title": "Банда «Мариачи»",
+      "content": "А без ясной и чистой души, в нём нет никакого смысла."
     },
     {
       "id": 21,
@@ -131,21 +131,22 @@
     {
       "id": 22,
       "model": "돈키호테",
-      "content": "…I find thine assessment rather disgracious."
+      "content": "…Ваши суждения весьма грубы."
     },
     {
       "id": 23,
       "model": "에피",
-      "teller": "Effie",
-      "title": "LCCB",
-      "content": "This is getting further out of hand… What are you doing, Saude?"
+      "teller": "Эппи",
+      "title": "РОКЛ",
+      "content": "Всё снова начинает идти наперекосяк… Сод, чем это ты занята?"
     },
     {
       "id": 24,
       "model": "소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Oh, I was writing our letter of apology in advance."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "А, я решила заранее написать извинительное письмо."
     }
   ]
 }
+

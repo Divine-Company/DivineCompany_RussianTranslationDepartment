@@ -2,65 +2,66 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Casino Entrance",
+      "place": "Вход в казино",
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Hm? What’s up?"
+      "teller": "Главарь Диньдонщиков",
+      "title": "Банда «Диньдон»",
+      "content": "Хм? Что тут творится?"
     },
     {
       "id": 1,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Boss! Some fasole who haven’t even told where they’re from rolled into town all of a sudden!"
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Старшой! На нашу территорию пролезли какие-то сосунки, которые даже не хотят говорить, на кого они работают!"
     },
     {
       "id": 2,
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Who sent ya? The way you’re dressed tells me it ain’t Los Habaneros or the Butchers…"
+      "teller": "Главарь Диньдонщиков",
+      "title": "Банда «Диньдон»",
+      "content": "Кто вас послал? Судя по вашей одежде, точно не «Крутые Перцы» или «Мясорубы»…"
     },
     {
       "id": 3,
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "I’ll give you a chance to grovel fer forgiveness. Do that and I’ll let ya leave with your limbs in tow."
+      "teller": "Главарь Диньдонщиков",
+      "title": "Банда «Диньдон»",
+      "content": "Я сегодня в хорошем настроении, так что если вдруг станете вымаливать прощение, возможно, я вас даже отпущу со всеми конечностями."
     },
     {
       "id": 4,
       "model": "이상",
-      "content": "…We should gladly part if you were to take off your clothing for us."
+      "content": "…Мы с радостью покинем это место, ежели вы ради нас проститесь со своей одеждой."
     },
     {
       "id": 5,
       "model": "그레고르",
-      "content": "That makes it sound kinda weird."
+      "content": "Пхах, с такой формулировкой недопонимание само напрашивается."
     },
     {
       "id": 6,
       "model": "콩을싫어하는콩콩파조직원",
-      "teller": "Bean-hating Tingtanger",
-      "title": "Tingtang Gang",
-      "content": "Boss… I think they might be the… odd pods people have been talking about… y’know, rumored to fadangle with people’s odors."
+      "teller": "Нелюбящий болванов Диньдонщик",
+      "title": "Банда «Диньдон»",
+      "content": "Старшой… Думаю, они те самые из слухов… у кого с головой не всё в порядке… любители понюхать чужой запашок."
     },
     {
       "id": 7,
       "model": "콩콩이파보스",
-      "teller": "Tingtang Boss",
-      "title": "Tingtang Gang",
-      "content": "Greh… Disgusting bunch… Lemme tell ya, that’s no way to live…"
+      "teller": "Главарь Диньдонщиков",
+      "title": "Банда «Диньдон»",
+      "content": "Эх… Отвратительно… Как вы вообще докатились до такого…"
     },
     {
       "id": 8,
-      "content": "Now, our assumed big boss of the gang is looking at us with genuine disgust."
+      "content": "И вот так называемый главарь начал испытывать к нам искреннее отвращение."
     },
     {
       "id": 9,
       "model": "단테",
-      "content": "<…I have not wanted to win a fight as desperately as I do now.>"
+      "content": "<…Мне ещё никогда не хотелось победить в бою так сильно, как сейчас.>"
     }
   ]
 }
+
