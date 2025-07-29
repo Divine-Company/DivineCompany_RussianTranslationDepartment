@@ -2,430 +2,430 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Daguanyuan Pavilion",
+      "place": "Павильон Дагуаньюань",
       "model": "단테",
-      "content": "<How's the taste? Said they brewed it with the tea leaves Xichun gave us. It's called Baihao Yinzhen... or something, I think?>"
+      "content": "<Ну, как на вкус? Они сказали, что заварили его на чайных листьях, которые нам дала Сичунь. Если не ошибаюсь, его название… Байхао Иньчжэнь?>"
     },
     {
       "id": 1,
       "model": "홍루",
-      "content": "Mm~ It's a nice cup of tea that goes down easily. Not as good as Xiren's, though."
+      "content": "М-м, прекрасный чай, и пьётся с удовольствием, но не так хорош, как у Сижэнь."
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<... Yeah?>"
+      "content": "<...Правда?>"
     },
     {
       "id": 3,
-      "content": "Cool wind of Daguanyuan blows under this pavilion."
+      "content": "Под павильоном дует прохладный ветер."
     },
     {
       "id": 4,
-      "content": "Now that we've survived another huge incident, I was planning to hold some consultation sessions with the Sinners like I always do. But..."
+      "content": "Поскольку мы пережили ещё одно задание на грани жизни и смерти, мне, как и всегда, хотелось провести очередную серию консультаций с Грешниками. Тем не менее..."
     },
     {
       "id": 5,
-      "content": "... I wasn't sure when Mephistopheles was coming back, so I decided to conduct them outdoors."
+      "content": "... было неизвестно, когда за нами вернётся Мефистофель, так что мною было принято решение сделать это под открытым небом."
     },
     {
       "id": 6,
-      "content": "Well... a change of scenery can be nice from time to time."
+      "content": "Всё же... смена обстановки иногда может пойти на пользу."
     },
     {
       "id": 7,
       "model": "단테",
-      "content": "<As much as I'd love to be a part of that discussion... this thing didn't come with a mouth.>"
+      "content": "<Хотелось бы мне тоже что-нибудь о нём сказать, но, увы…рта у меня нет.>"
     },
     {
       "id": 8,
       "model": "홍루",
-      "content": "Ah... that must be a sore spot, Dante."
+      "content": "Ах... Данте, должно быть, для вас это болезненная тема."
     },
     {
       "id": 9,
       "model": "홍루",
-      "content": "You've expressed that feeling before, remember? Whenever we were snacking together, you'd say things like that."
+      "content": "Вы нередко говорили нечто похожее, когда мы все начинали трапезу."
     },
     {
       "id": 10,
       "model": "홍루",
-      "content": "You gave up the complimentary food from the WARP train to Rodya too, and... hm, you must've been curious of its taste back then."
+      "content": "Вы также тогда отдали Роде благодарственную еду, которую мы получили после контракта с ВАРП-поездом, но всё же… вам ведь наверняка было любопытно, какая она была на вкус."
     },
     {
       "id": 11,
       "model": "단테",
-      "content": "<W-well, you know... it's not all that bad.>"
+      "content": "<Если подумать, то... могло быть и хуже.>"
     },
     {
       "id": 12,
       "model": "홍루",
-      "content": "I think I'd feel regret and sadness. It's kind of tragic, almost..."
+      "content": "На вашем месте я бы чувствовал грусть и досаду. Это ведь называется состраданием?.."
     },
     {
       "id": 13,
-      "content": "Ever since Hong Lu severed the cycle that bound the Hierarchs of Daguanyuan, and sealed the Xianren in their temple..."
+      "content": "С тех пор как Хун Лу запечатал Сяньжэнь в их храме, прервав многовековые традиции Иерархов Дагуаньюань..."
     },
     {
       "id": 14,
-      "content": "... he's been making a lot of expressions that I hadn't seen before."
+      "content": "... он начал проявлять всё больше ранее непривычных для себя эмоций."
     },
     {
       "id": 15,
-      "content": "Moreover, lately, I've been getting the impression that he's actively been trying to express his feelings and thoughts, even for things his past self would have simply accepted as-is."
+      "content": "Более того, в последнее время он старается яснее выражать свои чувства и мысли, не обходя стороной даже те вещи, которые прежде он бы воспринял за нечто само собой разумеющееся."
     },
     {
       "id": 16,
-      "content": "Like an old dam breaking, its fresh spring water surging to freedom..."
+      "content": "Словно свежий поток родниковой воды, что пробился через разрушающуюся дамбу…"
     },
     {
       "id": 17,
       "model": "홍루",
-      "content": "I can't give you a mouth, but you can trust me to give you a very detailed explanation of flavors. So feel free to ask me any time~"
+      "content": "Я не могу вернуть вам рот, однако вы можете доверить мне детальное описание всех вкусов. Не стесняйтесь меня об этом просить."
     },
     {
       "id": 18,
       "model": "단테",
-      "content": "<Yeah, thanks.>"
+      "content": "<Хорошо, спасибо.>"
     },
     {
       "id": 19,
-      "content": "And honestly, I think that's a good thing. Especially because, more so than anything, I could sense that Hong Lu was gently enjoying these moments."
+      "content": "И, если честно, меня это радует. Особенно потому, что мне удалось заметить, как Хун Лу сам немного наслаждается такими моментами."
     },
     {
       "id": 20,
-      "content": "I think I can safely mark him down as experiencing 'very positive changes' in my consultation notes—"
+      "content": "Подводя итог, в консультационных заметках я могу со спокойной душой написать «изменился в лучшую сторону»—"
     },
     {
       "id": 21,
       "model": "홍루",
-      "content": "Though I'm not sure if any of that'll get through to you... given that you probably don't even remember the taste of food anyway~"
+      "content": "Хотя, если вы уже забыли вкус еды… то вряд ли вам помогут даже мои объяснения."
     },
     {
       "id": 22,
-      "content": "... let me change that to 'started on a path to achieving some very positive changes'."
+      "content": "... перепишу на «встал на путь изменений в лучшую сторону»."
     },
     {
       "id": 23,
       "model": "싱클레어",
-      "content": "E-excuse me! Manager!"
+      "content": "Д-директор, можно вас?!"
     },
     {
       "id": 24,
-      "content": "That's when Sinclair suddenly rushed up to us on the pavilion."
+      "content": "Синклер вдруг вбежал к нам в павильон."
     },
     {
       "id": 25,
       "model": "단테",
-      "content": "<... What's going on?>"
+      "content": "<... Что случилось?>"
     },
     {
       "id": 26,
       "model": "싱클레어",
-      "content": "I-I know you're in the middle of a consultation, but, uh... there's this huge, big as a house truck by the entrance that's..."
+      "content": "Извините, что отвлекаю во время консультации, но… там у входа огромный грузовик размером с дом…"
     },
     {
       "id": 27,
       "model": "싱클레어",
-      "content": "The point is, I think you might have to come see this!"
+      "content": "В общем, я здесь, поскольку без вас нам не обойтись!"
     },
     {
       "id": 28,
-      "place": "Daguanyuan Front Gates",
+      "place": "Парадные ворота Дагуаньюань",
       "model": "히스클리프",
-      "content": "Oi, Clockhead."
+      "content": "Эй, Часовщик."
     },
     {
       "id": 29,
       "model": "단테",
-      "content": "<Is that...?>"
+      "content": "<Это?..>"
     },
     {
       "id": 30,
-      "content": "The truck was, indeed, massive—it certainly did live up to all the fuss Sinclair kicked up. But..."
+      "content": "Грузовик и правда был внушительных размеров; теперь понятно, почему Синклер так паниковал. Но…"
     },
     {
       "id": 31,
       "model": "그레고르",
-      "content": "Hyah... ain't that something, huh?"
+      "content": "Фьюх... ну и громадина."
     },
     {
       "id": 32,
-      "content": "... it didn't seem to me that the other Sinners were all that concerned about it."
+      "content": "... другие Грешники, казалось, не были этим обеспокоены."
     },
     {
       "id": 33,
       "model": "단테",
-      "content": "<Is everything okay here...? Hope it's not another attack on Daguanyuan...>"
+      "content": "<Что тут происходит? Надеюсь, не очередная атака на Дагуаньюань?..>"
     },
     {
       "id": 34,
       "model": "히스클리프",
-      "content": "Huh? Nah, it ain't. Well... we did suspect that at first, but it's all right."
+      "content": "А? Не, не она. Как бы сказать... сначала мы тоже так подумали, но всё в порядке."
     },
     {
       "id": 35,
       "model": "이스마엘",
-      "content": "It's because no one on the bus knows how to observe. It's all about the details, get it?"
+      "content": "А всё потому что никто из вас не умеет оценивать обстановку. Нужно улавливать детали, понимаете?"
     },
     {
       "id": 36,
       "model": "이스마엘",
-      "content": "Look, it's right there. The company logo."
+      "content": "Вот, посмотрите, там видно логотип."
     },
     {
       "id": 37,
       "model": "단테",
-      "content": "<... Where?>"
+      "content": "<... Где?>"
     },
     {
       "id": 38,
       "model": "이스마엘",
-      "content": "Seriously? It's right there, in that corner over there."
+      "content": "Серьёзно? Вон же, прямо с краю."
     },
     {
       "id": 39,
-      "content": "Ishmael pointed at something on the vehicle, irritation clear in her voice. I stared really hard at whatever she was pointing at..."
+      "content": "Измаил раздражённо указала на какую-то деталь грузовика. Я пытаюсь разглядеть, что же там такое..."
     },
     {
       "id": 40,
-      "content": "... and managed to find Limbus Company's logo painted on the vehicle."
+      "content": "... и наконец-то замечаю логотип Компании «Лимбус»."
     },
     {
       "id": 41,
-      "content": "It was the size of a palm."
+      "content": "Размером с ладошку."
     },
     {
       "id": 42,
       "model": "이스마엘",
-      "content": "They were <i>this</i> close to chopping that truck into a million pieces when I pointed that out."
+      "content": "Когда я им на него указала, то они еле себя сдержали, чтобы не покромсать этот грузовик на миллионы мелких кусочков..."
     },
     {
       "id": 43,
       "model": "그레고르",
-      "content": "Gotta say, I'm impressed you even managed to make out what that is... Doesn't look like anything other than a smudge to me. I guess eyesight's really the first thing that goes with age."
+      "content": "Должен сказать, меня впечатлило, что ты вообще смогла это разглядеть… Я там кроме пятна ничего не вижу. С возрастом зрение и правда первым идёт на спад…"
     },
     {
       "id": 44,
       "model": "로쟈",
-      "content": "I meaaaan~ it's kinda their fault for making it so small and inconspicuous, ya know?"
+      "content": "Ну-у-у, знаете ли, они сами виноваты, что сделали его таким маленьким и неприметным."
     },
     {
       "id": 45,
       "model": "뉴소드",
-      "content": "That's because it's not a public-facing vehicle."
+      "content": "Всё верно, ведь этот грузовик не для публичных перевозок."
     },
     {
       "id": 46,
-      "content": "Saude walked into our circle, dusting her hands and brushing past a few disgruntled words."
+      "content": "К нам подошла Сод, отряхивая руки и игнорируя парочку дерзких выражений."
     },
     {
       "id": 47,
       "model": "뉴소드",
-      "content": "This is a research vehicle used by the LCE Department. You've used this once before, remember?"
+      "content": "Это исследовательское транспортное средство в распоряжении ЭКЛ. Вы уже бывали в одном из них, ещё не забыли?"
     },
     {
       "id": 48,
       "model": "뫼르소",
-      "content": "... Mm. Extrapolating from the material and the color of the truck's cover panel, it can be determined that it is the same transportation device used for the regular check-up."
+      "content": "... Хм, анализируя материал и цвет внешних деталей грузовика, можно сделать вывод, что данная модель использовалась во время общего осмотра."
     },
     {
       "id": 49,
       "model": "뉴소드",
-      "content": "Right on."
+      "content": "Прямо в точку."
     },
     {
       "id": 50,
       "model": "뉴소드",
-      "content": "Ever since you used it safely to arrive at LCE, we've been using it to move the LCC base around."
+      "content": "С тех пор, как вы успешно переместились в ЭКЛ, мы начали их использовать для передвижения базы ОКЛ."
     },
     {
       "id": 51,
       "model": "히스클리프",
-      "content": "... Hang on, does that mean that we were your guinea pigs?"
+      "content": "... Погоди-ка, то есть вы нас использовали как подопытных крыс?"
     },
     {
       "id": 52,
       "model": "뉴소드",
-      "content": "AND, guess what! Just today, when we opened the truck to transport a different team..."
+      "content": "ЗНАЕТЕ что ещё?! Сегодня, когда мы использовали грузовик для транспортировки другой команды…"
     },
     {
       "id": 53,
       "model": "히스클리프",
-      "content": "Oi, don't ignore me!"
+      "content": "Эй, ты слышишь, что я те говорю?!"
     },
     {
       "id": 54,
-      "content": "Instead of answering Heathcliff's question..."
+      "content": "Вместо ответа на вопрос Хитклифа..."
     },
     {
       "id": 55,
       "place": -1,
-      "content": "... Saude walked up to the truck and swung open its rear doors."
+      "content": "... Сод подошла к грузовику и открыла задние двери."
     },
     {
       "id": 56,
-      "place": "LCE Research Vehicle",
-      "content": "In it, we saw the same mess of machines we saw back then, and..."
+      "place": "Исследовательский транспорт ЭКЛ",
+      "content": "Внутри мы увидели ту же груду приборов, что и раньше, и..."
     },
     {
       "id": 57,
       "model": "단테",
-      "content": "<Hey, this light...>"
+      "content": "<Этот свет...>"
     },
     {
       "id": 58,
-      "content": "... the now-familiar green light."
+      "content": "... уже знакомый нам зеленый свет."
     },
     {
       "id": 59,
       "model": "파우스트",
-      "content": "... I see."
+      "content": "... Понятно."
     },
     {
       "id": 60,
       "model": "파우스트",
-      "content": "Saude, has there been any further modifications to this vehicle since then?"
+      "content": "Сод, был ли данный транспорт как-то модифицирован с нашего последнего визита?"
     },
     {
       "id": 61,
       "model": "뉴소드",
-      "content": "Hm... well, I'm not certain on the details, but LCE's chief resear—"
+      "content": "Хм... я не знаю всех деталей, но ведущий иссле—"
     },
     {
       "id": 62,
       "model": "파우스트",
-      "content": "Hohenheim."
+      "content": "Хоэнхайм."
     },
     {
       "id": 63,
       "model": "뉴소드",
-      "content": "Yes, him. Are you two... well acquainted?"
+      "content": "Да, он. Вы с ним… хорошо знакомы?"
     },
     {
       "id": 64,
       "model": "파우스트",
-      "content": "Not very well. But I do make an effort to remember his minor yet numerous mistakes."
+      "content": "Не совсем, однако я стараюсь запоминать его незначительные, но многочисленные недочёты."
     },
     {
       "id": 65,
-      "content": "... She sounds oddly happy."
+      "content": "... Её слова прозвучали неожиданно радостно."
     },
     {
       "id": 66,
       "model": "뉴소드",
-      "content": "Anyways, according to the research report he gave us, the vehicle's been modified to allow for universal use across other departments of Limbus Company."
+      "content": "Как бы то ни было, согласно его исследовательскому отчёту, грузовик был модифицирован таким образом, чтобы им могли пользоваться все отделы Компании «Лимбус»."
     },
     {
       "id": 67,
       "model": "뉴소드",
-      "content": "LCB's bus—Mephistopheles, right? The report said something about using the Backdoor of that bus as a reference to equip this vehicle with various functions. And..."
+      "content": "Мефистофель — Автобус АКЛ, верно? В отчёте также было сказано, что на основе некой Лазейки вашего автобуса в грузовик был внедрён ряд новых функций.  И..."
     },
     {
       "id": 68,
       "model": "파우스트",
-      "content": "That explains why this phenomenon is taking place here..."
+      "content": "Это объясняет, почему здесь наблюдается это явление…"
     },
     {
       "id": 69,
       "model": "파우스트",
-      "content": "Walpurgis Night."
+      "content": "Вальпургиева ночь."
     },
     {
       "id": 70,
       "model": "돈키호테",
-      "content": "Yet... how is this possible when we sit not astride the bus seats?"
+      "content": "Отнюдь... как сие возможно, ежели мы не в автобусовых креслах?"
     },
     {
       "id": 71,
       "model": "파우스트",
-      "content": "It is not a theoretical impossibility."
+      "content": "В теории допускается данная вероятность."
     },
     {
       "id": 72,
       "model": "파우스트",
-      "content": "Certain major parts of the technology forming its engine have been shared with Hohenheim; it is within the realm of possibility that the engine's influence may be transferred there as well."
+      "content": "Информация о некоторых основных частях двигателя Мефистофеля была передана Хоэнхайму, так что вполне допустимо предположение, что вместе с технологией было распространено и влияние двигателя."
     },
     {
       "id": 73,
       "model": "파우스트",
-      "content": "... However, the means by which it has affected this vehicle has to be studied."
+      "content": "... Стоит отметить, что степень влияния является предметом для изучения."
     },
     {
       "id": 74,
       "model": "이상",
-      "content": "It seems to comprehend our absence and the subsequent separation from the bus..."
+      "content": "Кажется, оно способно осмысливать наше отсутствие и, следовательно, наше разделение с автобусом…"
     },
     {
       "id": 75,
       "model": "이상",
-      "content": "Could it, mayhap, be reacting to the presence of a Golden Bough...?"
+      "content": "Может ли оно, авось, реагировать на присутствие Золотой ветви?.."
     },
     {
       "id": 76,
       "model": "파우스트",
-      "content": "At this moment, Mephistopheles is currently boarded by Vergilius, Charon, and various other members of LCCB including Pilot. Therefore..."
+      "content": "На данный момент в автобусе находятся Вергилий и Харон, а также иные члены ПОКЛ, включая Пилота. Таким образом…"
     },
     {
       "id": 77,
       "model": "파우스트",
-      "content": "... if they have traveled far, your conjecture may be true."
+      "content": "... если они уехали далеко от нас, твоё предположение может оказаться верным."
     },
     {
       "id": 78,
       "model": "파우스트",
-      "content": "Or... There exists a flow that ensures our encounter with the Walpurgis Night regardless of the environment surrounding us... perhaps."
+      "content": "Или... Существует поток, который обеспечивает нашу встречу с Вальпургиевой ночью независимо от внешних обстоятельств… возможно."
     },
     {
       "id": 79,
-      "content": "Faust talked to herself, staring pensively into the distance, before turning toward us again with mild resignation."
+      "content": "Фауст задумчиво смотрела вдаль и что-то проговорила про себя, но, видимо, не придя к чёткому решению, повернулась обратно к нам."
     },
     {
       "id": 80,
       "model": "파우스트",
-      "content": "Lead the way, Dante."
+      "content": "Ведите путь, Данте."
     },
     {
       "id": 81,
       "place": -1,
       "model": "파우스트",
-      "content": "If it has found us, then it must rightly be observed."
+      "content": "Раз оно нас нашло, то будет разумно его изучить."
     },
     {
       "id": 82,
-      "place": "L Corp. HQ Hallway",
+      "place": "Коридор Штаб-квартиры Крыла L",
       "model": "홍루",
-      "content": "Aha, I knew it. It's the former L Corp.'s turn!"
+      "content": "Ага, так и знал. Настал черёд бывшего Крыла L!"
     },
     {
       "id": 83,
       "model": "단테",
-      "content": "<Huh? What do you mean \"knew it\"?>"
+      "content": "<Что? Откуда ты мог знать?>"
     },
     {
       "id": 84,
       "model": "홍루",
-      "content": "Ah, Heathcliff opened up a betting pool about where our next Walpurgis Night location's going to be."
+      "content": "Ох, Хитклиф организовал ставки на то, где будет следующая Вальпургиева ночь.."
     },
     {
       "id": 85,
       "model": "단테",
-      "content": "<... A betting pool?>"
+      "content": "<... Ставки?>"
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Alright, alright! What'd I say? Pay up, ya gits."
+      "content": "Ну что, убедились? Пора платить по счетам."
     },
     {
       "id": 87,
       "model": "싱클레어",
-      "content": "Nngh... you told me it was just about time the patterns changed!"
+      "content": "Гм-м... вы ведь сказали, что в этот раз точно будет что-то другое!"
     },
     {
       "id": 88,
       "model": "로쟈",
-      "content": "No way... but it was just the right time to bet against the odds!"
+      "content": "Глазам не верю... ставка ведь должна была сыграть, что за дела?!"
     },
     {
       "id": 89,
@@ -434,191 +434,191 @@
     },
     {
       "id": 90,
-      "content": "By the looks of it, the bet seemed to have been about whether this Walpurgis Night would take us to the Library or the Lobotomy Corp. Headquarters."
+      "content": "Судя по всему, они ставили на то, где будет эта Вальпургиева ночь: в Библиотеке или Штаб-квартире Корпорации «Лоботомия»."
     },
     {
       "id": 91,
       "model": "단테",
-      "content": "<Hey... something about this place seems a bit different from the other former L Corp. hallways we saw in the past."
+      "content": "<Хм... это место чем-то отличается от коридоров бывшего Крыла L, в которых нас закидывало раньше."
     },
     {
       "id": 92,
       "model": "돈키호테",
-      "content": "Didst thou sense it as well, Manager Esquire? Hoh... 'tis familiar yet... unfamiliar, indeed."
+      "content": "Эсквайр Данте, и вы приметили сию необычайность? Хм… знакомым кажется… и незнакомым, воистину."
     },
     {
       "id": 93,
       "model": "이상",
-      "content": "A stage for a play, almost..."
+      "content": "Мы словно оказались на сцене…"
     },
     {
       "id": 94,
       "model": "이스마엘",
-      "content": "Seems it's gotten wider, too... It's still the same long and narrow hallway, but it's slightly wider."
+      "content": "Кажется, коридор стал просторнее… Он всё ещё такой же длинный и узкий, но совсем немного более широкий."
     },
     {
       "id": 95,
       "model": "파우스트",
-      "content": "While it is unknown as to how many days have passed in these Headquarters..."
+      "content": "Несмотря на то, что на данный момент неизвестно, как долго эта Штаб-квартира пребывает в таком состоянии…"
     },
     {
       "id": 96,
       "model": "돈키호테",
-      "content": "Mm? Prithee, repeat what you have said?"
+      "content": "Хм? Извольте, не могли бы вы повторить ваше изреченье?"
     },
     {
       "id": 97,
       "model": "파우스트",
-      "content": "Ah... no. This subject can be discussed later, when its veracity becomes clearer."
+      "content": "А... нет. К этой теме стоит вернуться позже, когда проявится её достоверность."
     },
     {
       "id": 98,
       "model": "파우스트",
-      "content": "Sharing the current circumstances of this place..."
+      "content": "Сейчас же можно сказать о том, что..."
     },
     {
       "id": 99,
-      "place": "L Corp. HQ Central Command Hallway",
+      "place": "Коридор Штаб-квартиры Крыла L",
       "model": "파우스트",
-      "content": "... We find ourselves at the Lobotomy Corp. Headquarters of a certain day... at its Central Command, to be exact."
+      "content": "... мы находимся в Штаб-квартире Корпорации «Лоботомия» в один из её рабочих дней… если быть точнее, в Отделе Центрального управления."
     },
     {
       "id": 100,
       "model": "파우스트",
-      "content": "The very center of the middle layer."
+      "content": "В самом центре среднего уровня."
     },
     {
       "id": 101,
       "model": "이스마엘",
-      "content": "Then the ones we've visited so far must've been in the upper layer."
+      "content": "Значит, в прошлые разы мы были на верхнем уровне?"
     },
     {
       "id": 102,
       "model": "파우스트",
-      "content": "Correct. It is said that the departments of Lobotomy Corporation Headquarters were progressively unlocked with the passage of time."
+      "content": "Верно. Известно, что Отделы Корпорации «Лоботомия» постепенно открывались с течением времени."
     },
     {
       "id": 103,
       "model": "오티스",
-      "content": "... Hm. According to the reports, when the Headquaters crumbled and fired that skyward light, it was..."
+      "content": "... Хм. Согласно докладам, когда Штаб-квартира пала и выпустила в небо луч света, она…"
     },
     {
       "id": 104,
       "model": "파우스트",
-      "content": "... Indeed. It appears that with every visit, we find ourselves at a further point in time here. As soon as the current 'day' can be pinpointed..."
+      "content": "... Тоже верно. Из наблюдений можно заключить, что наш каждый визит постепенно прогрессирует по времени. Если мы сможем установить точные временные координаты…"
     },
     {
       "id": 105,
       "model": "오티스",
-      "content": "... we might even be able to experience that day."
+      "content": "... возможно, мы даже сможем пережить <i>тот</i> самый день."
     },
     {
       "id": 106,
       "model": "파우스트",
-      "content": "Perhaps. Then—"
+      "content": "Вероятно, тогда—"
     },
     {
       "id": 107,
-      "content": "BEEP—BEEP—BEEP—"
+      "content": "БИП—БИП—БИП—"
     },
     {
       "id": 108,
       "model": "그레고르",
-      "content": "Well... that didn't take long. We're here to take care of some 'Ordeal' or something again, aren't we?"
+      "content": "Что ж... много времени это не заняло. Мы здесь снова для того, чтобы разобраться с каким-то <i>Испытанием</i>, да?"
     },
     {
       "id": 109,
       "model": "이스마엘",
-      "content": "Hey, I'm not complaining. We've kind of been loafing around and doing nothing while Jia Xichun left for that grand conference to decide the future of Daguanyuan or something."
+      "content": "Не вижу в этом ничего плохого. Мы всё равно то и дело бездельничаем, пока Цзя Сичунь находится на той большой конференции, которая определит будущее Дагуаньюань."
     },
     {
       "id": 110,
       "model": "오티스",
-      "content": "Tsk, but we have so little time... I must prepare a more intense training regimen to make up for lost time."
+      "content": "Тц, у нас так мало времени... я должна спланировать более интенсивный режим тренировок, чтобы наверстать упущенное."
     },
     {
       "id": 111,
       "model": "료슈",
-      "content": "Whichever it is... heh. It'll be F.U.N."
+      "content": "Что бы нас ни ждало... хах. Будет весело."
     },
     {
       "id": 112,
       "model": "티페리트",
       "teller": "???",
       "title": "???",
-      "content": "What's everyone waffling on about?"
+      "content": "Чего все рты разинули?"
     },
     {
       "id": 113,
       "model": "로쟈",
-      "content": "Cue the Sephirah... It's an angry one this time."
+      "content": "А вот и Сефира... Довольно злая попалась."
     },
     {
       "id": 114,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Yeah! What, did you expect some other voice speaking through the Central Command PA system other than Tiphereth's?"
+      "title": "Сефира Центрального управления",
+      "content": "А кто ещё! Думали, через систему оповещения Центрального управления может заговорить кто-то другой, кроме меня — Тиферет?"
     },
     {
       "id": 115,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Tiphereth, the employees are confused. Please explain the situation to them."
+      "title": "Сефира Центрального управления",
+      "content": "Тиферет, наши работники в замешательстве. Объясни им ситуацию."
     },
     {
       "id": 116,
       "model": "로쟈",
-      "content": "Huh...? There's two of them?"
+      "content": "А?.. Их двое?"
     },
     {
       "id": 117,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Yes, I'm also Tiphereth."
+      "title": "Сефира Центрального управления",
+      "content": "Да, меня так же зовут Тиферет."
     },
     {
       "id": 118,
       "model": "파우스트",
-      "content": "The Central Command, unlike other departments, boasts a rather significant size; it is large enough to have to be managed in two areas: A and B. It is said that this is why they have two separate Sephirot managing this department."
+      "content": "Отдел Центрального управления, в отличие от других, славится своим большим размером; он настолько велик, что под его управлением находятся сразу две зоны: А и Б. Насколько известно, именно поэтому им заведуют два разных Сефирот."
     },
     {
       "id": 119,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Yeah, and it's a lot, even between the both of us... Which is why it's up to you to be more thorough!"
+      "title": "Сефира Центрального управления",
+      "content": "Да, и нас двоих всё равно еле хватает... Поэтому вам и нужно хорошо выполнять свою работу!"
     },
     {
       "id": 120,
       "model": "히스클리프",
-      "content": "Yeah, yeah... bring out the Ordeal already. What are we destroyin' this time?"
+      "content": "Да, да... начинай уже Испытание. С чем мы дерёмся в этот раз?"
     },
     {
       "id": 121,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Like I said, what are you all waffling on about?!"
+      "title": "Сефира Центрального управления",
+      "content": "Как я и сказала, вы чего рты разинули, а?!"
     },
     {
       "id": 122,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "There's been an Abnormality containment breach...! The whole company's about to go belly-up because everyone else is off trying to suppress the mess on the other side!"
+      "title": "Сефира Центрального управления",
+      "content": "Аномалия выбралась на свободу!.. Компании придёт конец, потому что сейчас все остальные пытаются подавить тот ужас, что возник на другом конце!"
     },
     {
       "id": 123,
-      "content": "Then, the alarm that was blaring all throughout the company suddenly went quiet..."
+      "content": "Сигнал тревоги внезапно прервался, хотя ещё секунду назад его можно было услышать в любом уголке здания…"
     },
     {
       "id": 124,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "... Oh no. The Second Warning."
+      "title": "Сефира Центрального управления",
+      "content": "... О нет. Вторая Тревога."
     },
     {
       "id": 125,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Ugh... Great, look what you did, you bunch of slackers! Get to our headquarters, now! Deal with the blue entity!"
+      "title": "Сефира Центрального управления",
+      "content": "Агх... Отлично, посмотрите, что вы наделали, фиговы лентяи! Сейчас же отправляйтесь в главное помещение! Разберитесь с этой синей тварью!"
     }
   ]
 }

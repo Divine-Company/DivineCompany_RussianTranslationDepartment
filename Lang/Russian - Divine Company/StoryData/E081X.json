@@ -2,57 +2,57 @@
   "dataList": [
     {
       "id": 0,
-      "place": "L Corp. HQ Central Command",
+      "place": "Отдел Центрального управления Штаб-квартиры Крыла L",
       "model": "그레고르",
-      "content": "Ah... tsk, this one's uh... this one's kinda elaborate, huh."
+      "content": "Эх... ну и ну… задачка не из простых."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "Her floating swords are... so... hard to parry. It's got such a long reach, and it's so thin that I can hardly see where it's— aagh!"
+      "content": "Её парящие мечи... их... очень сложно парировать. У них большая зона атаки, и они такие тонкие, что их почти не— а-ай!"
     },
     {
       "id": 2,
-      "content": "As if to prove Sinclair's words, the azure Abnormality fired another volley of thrusting swords in our direction."
+      "content": "Будто подтверждая слова Синклера, лазурная Аномалия снова обрушила на нас шквал своих клинков."
     },
     {
       "id": 3,
-      "content": "Just as we braced..."
+      "content": "И стоило нам подготовиться от них защищаться, как..."
     },
     {
       "id": 4,
       "teller": "???",
       "title": "???",
-      "content": "Hiyah!"
+      "content": "Ха!"
     },
     {
       "id": 5,
-      "content": "... rays of pink light coalesced before Sinclair, materializing... before someone rushed onto the scene and parried away the flying swords."
+      "content": "... перед Синклером воссияли розовые лучи, и из них появилась какая-то фигура… что ринулась на поле боя и отбила летящие на нас мечи."
     },
     {
       "id": 6,
       "model": "티페리트",
-      "title": "Central Command Sephirah",
-      "content": "Haah... her again? Leaping right into the action the moment the Second Warning goes off..."
+      "title": "Сефира Центрального управления",
+      "content": "А-ах... опять она? Стоит забить Второй Тревоге, и она сразу тут как тут..."
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "Huh...? You're...?"
+      "content": "Эм? Кто?.."
     },
     {
       "id": 8,
       "model": "마법소녀",
       "teller": "???",
       "title": "???",
-      "content": "Sorry I'm late."
+      "content": "Извините, что так долго."
     },
     {
       "id": 9,
       "model": "마법소녀",
-      "teller": "Magical Girl?",
+      "teller": "Девочка-волшебница?",
       "title": "???",
-      "content": "Here comes~ Magical Girl!"
+      "content": "К вам пришла на помощь… Девочка-волшебница!"
     }
   ]
 }
