@@ -936,14 +936,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] on target, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this Skill's Coin effects consumed [Vibration] on target, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -1003,13 +1003,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 10 [Vibration] on target and inflict 2 [TimeSuspend]\n- If this unit is in a [TimeRentalTwoPersonality] state, this effect does not consume the target's [Vibration]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target's Speed is slower than this unit's, trigger [Switch_Vibration] into [VibrationChainPersonality]"
                 }
               ]
             }
@@ -1415,7 +1415,7 @@
         {
           "level": 4,
           "name": "Variant Sancho Hardblood Arts 8 - Split Apart",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 10)\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] Gain Atk Weight +1 for every 10 [BloodArmorPersonalityFirst] (max 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] for every Atk Weight gained",
           "coinlist": [
             {
               "coindescs": [
@@ -1629,14 +1629,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count</style>"
@@ -1703,7 +1703,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max <style=\"highlight\">3</style>, once per turn)"
@@ -1720,7 +1720,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
                 }
               ]
             },
@@ -1734,7 +1734,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 6 [Combustion] on target (max <style=\"highlight\">5</style>, once per turn)\n<style=\"highlight\">- Inflict additional [DefenseDown] equal to [DianxueDonQuixote] on target</style>"
@@ -1791,21 +1791,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 }
               ]
             },
@@ -1886,7 +1886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
@@ -1946,7 +1946,7 @@
         {
           "level": 2,
           "name": "With Love! Hyah!",
-          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [ThePowerOfLoveAndHate] on self (max 30%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
+          "desc": "<style=\"highlight\">[WhenUse] Deal +7.5% damage for every [ThePowerOfLoveAndHate] on self (max 30%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1</style>\n[WhenUse] Gain +3 [ThePowerOfLoveAndHate] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1970,19 +1970,19 @@
         {
           "level": 4,
           "name": "With Love! Hyah!",
-          "desc": "[WhenUse] Deal +<style=\"highlight\">10</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">50</style>%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Count",
+          "desc": "[WhenUse] Deal +<style=\"highlight\">12.5</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">75</style>%)\n[WhenUse] Consume 6 [ThePowerOfLoveAndHate] Count on self to gain Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [ThePowerOfLoveAndHate] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +4 [ThePowerOfLoveAndHate] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn"
@@ -1999,7 +1999,7 @@
         {
           "level": 3,
           "name": "Arcana Beats!! / Minor Arcana Slave!!!",
-          "desc": "Deal +15% damage for every [ArcanaQueenOfHate] on self (max 45%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x 15)% damage (max 75%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max 2)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
+          "desc": "Deal +15% damage for every [ArcanaQueenOfHate] on self (max 45%)\n[WhenUse] At 2+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x 20)% damage (max 80%)\n[WhenUse] At 2+ [ThePowerOfLoveAndHate], Base Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max 2)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
           "coinlist": [
             {
               "coindescs": [
@@ -2033,7 +2033,7 @@
         {
           "level": 4,
           "name": "Arcana Beats!! / Minor Arcana Slave!!!",
-          "desc": "Deal +<style=\"highlight\">30</style>% damage for every [ArcanaQueenOfHate] on self (max <style=\"highlight\">90</style>%)\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x <style=\"highlight\">20</style>)% damage <style=\"highlight\">(max 100%)</style>\n[WhenUse] At 3+ [ThePowerOfLoveAndHate], Base Power +<style=\"highlight\">2</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
+          "desc": "Deal +<style=\"highlight\">30</style>% damage for every [ArcanaQueenOfHate] on self (max <style=\"highlight\">90</style>%)\n[WhenUse] At 2+ [ThePowerOfLoveAndHate], deal +([ThePowerOfLoveAndHate] x <style=\"highlight\">25</style>)% damage <style=\"highlight\">(max 125%)</style>\n[WhenUse] At 2+ [ThePowerOfLoveAndHate], Base Power +<style=\"highlight\">2</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Coin Power (Coin Power +1 for every 5 Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Gain +6 [ThePowerOfLoveAndHate] Count\n[EndSkill] Gain 1 [ArcanaQueenOfHate]",
           "coinlist": [
             {
               "coindescs": [
@@ -2141,7 +2141,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +2 [ThePowerOfLoveAndHate] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
@@ -2206,7 +2206,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
                 }
               ]
             },
@@ -2230,14 +2230,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +3 [ThePowerOfLoveAndHate] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict [VillainMark] against the main target next turn"
@@ -2254,7 +2254,7 @@
         {
           "level": 3,
           "name": "Reversed Beats / Reversed Arcana Slave",
-          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge] to gain Clash Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every 8 Count consumed, max 2)\n[WhenUse] Deal +12% damage for every [ThePowerOfLoveAndHate] on self (max 60%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self to gain +1 Atk Weight\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), but has 2+ Atk Weight, deal +20% damage\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
+          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge] to gain Clash Power +1\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every 8 Count consumed, max 2)\n[WhenUse] Deal +15% damage for every [ThePowerOfLoveAndHate] on self (max 60%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self to gain +1 Atk Weight\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), but has 2+ Atk Weight, deal +20% damage\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -2288,32 +2288,32 @@
         {
           "level": 4,
           "name": "Reversed Beats / Reversed Arcana Slave",
-          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge]; <style=\"highlight\">Clash Power +1 for every Stack consumed (max 3)</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every <style=\"highlight\">5</style> Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Deal +<style=\"highlight\">24</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">120</style>%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self; <style=\"highlight\">gain +1 Atk Weight for every Stack consumed (max 3)\n- If this Skill consumed 3 [HystericGauge], gain +1 Atk Weight</style>\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), <style=\"highlight\">deal +(20 x (Atk Weight - 1))% damage (max 80%)</style>\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
+          "desc": "This Skill deals -50% damage against sub-targets\n\n[WhenUse] Consume all [HystericGauge]; <style=\"highlight\">Clash Power +1 for every Stack consumed (max 3)</style>\n[WhenUse] Consume [ThePowerOfLoveAndHate] Count to gain Clash Power (Clash Power +1 for every <style=\"highlight\">5</style> Count consumed, max <style=\"highlight\">4</style>)\n[WhenUse] Deal +<style=\"highlight\">30</style>% damage for every [ThePowerOfLoveAndHate] on self (max <style=\"highlight\">150</style>%)\n[BeforeAttack] Consume all [ArcanaQueenOfHate] on self; <style=\"highlight\">gain +1 Atk Weight for every Stack consumed (max 3)\n- If this Skill consumed 3 [HystericGauge], gain +1 Atk Weight</style>\n[BeforeAttack] If this Skill only has a single target(for Focused Encounters, a Part), <style=\"highlight\">deal +(20 x (Atk Weight - 1))% damage (max 80%)</style>\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -18)\n[EndBattle] If this unit isn't at -45 SP, and is at less than 0 SP, heal 10 SP. Heal more SP the further this unit's SP value is from 0 (2 SP healed for every missing SP, max 50 SP)\n[WhenUse] Lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking]"
                 }
               ]
             }

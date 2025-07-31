@@ -738,7 +738,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
                 }
               ]
             },
@@ -1122,19 +1122,19 @@
         {
           "level": 2,
           "name": "Take the Shot",
-          "desc": "[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [Breath]"
@@ -1144,7 +1144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [Breath]"
@@ -1161,27 +1161,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             }
@@ -1231,17 +1231,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend up to 3 [Bullet]"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% damage<style=\"highlight\"></style>"
+                  "desc": "Deal +([Bullet] spent x 10)% damage"
                 }
               ]
             },
@@ -1251,7 +1251,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Binding] next turn</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
                 }
               ]
             }
@@ -1265,17 +1265,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend up to 3 [Bullet]"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% damage<style=\"highlight\"></style>"
+                  "desc": "Deal +([Bullet] spent x 10)% damage"
                 },
                 {
                   "desc": "<style=\"highlight\">+([Bullet] spent x 10)% Damage on Critical Hit</style>"
@@ -1288,10 +1288,10 @@
                   "desc": "<style=\"highlight\">+20% Damage on Critical Hit</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
                 }
               ]
             }
@@ -1356,7 +1356,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 },
                 {
                   "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% damage"
@@ -1369,7 +1369,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 2 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend up to 2 [Bullet]"
                 },
                 {
                   "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% damage"
@@ -1382,7 +1382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "If target is Staggered, +30% Damage on Critical Hit"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Binding] next turn"
@@ -1484,17 +1484,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 3 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend up to 3 [Bullet]"
                 },
                 {
-                  "desc": "Deal +([Bullet] spent x 10)% damage<style=\"highlight\"></style>"
+                  "desc": "Deal +([Bullet] spent x 10)% damage"
                 },
                 {
                   "desc": "<style=\"highlight\">+([Bullet] spent x 10)% Damage on Critical Hit</style>"
@@ -1507,20 +1507,20 @@
                   "desc": "<style=\"highlight\">+20% Damage on Critical Hit</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Reduction] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+30% Damage on Critical Hit"
                 }
               ]
             }
@@ -1598,7 +1598,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [Bullet]"
                 },
                 {
                   "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% damage"
@@ -1611,7 +1611,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend up to 2 [Bullet]<style=\"highlight\"></style>"
+                  "desc": "Spend up to 2 [Bullet]"
                 },
                 {
                   "desc": "Deal +([Bullet] spent x <style=\"highlight\">15</style>)% damage"
@@ -1624,7 +1624,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "If target is Staggered, +30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "If target is Staggered, +30% Damage on Critical Hit"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Binding] next turn"
@@ -1637,13 +1637,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
                   "desc": "<style=\"highlight\">+50% Damage on Critical Hit</style>"
                 },
                 {
-                  "desc": "Deal +(target's Pierce Res. x 50)% damage<style=\"highlight\"></style>"
+                  "desc": "Deal +(target's Pierce Res. x 50)% damage"
                 }
               ]
             }
@@ -1683,14 +1683,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             }
@@ -1730,14 +1730,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             }
@@ -1778,7 +1778,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 }
               ]
             }
@@ -1799,7 +1799,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 }
               ]
             }
@@ -1853,7 +1853,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt</style>"
@@ -1863,7 +1863,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt</style>"
@@ -1873,7 +1873,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt</style>"
@@ -1883,7 +1883,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt</style>"
@@ -1900,40 +1900,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5% of damage dealt"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10% of damage dealt"
                 }
               ]
             }

@@ -258,7 +258,7 @@
                   "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -285,10 +285,10 @@
                   "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -335,7 +335,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">2</style> of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -350,13 +350,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -397,13 +397,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -424,7 +424,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -527,7 +527,7 @@
                   "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }
@@ -548,7 +548,7 @@
                   "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }

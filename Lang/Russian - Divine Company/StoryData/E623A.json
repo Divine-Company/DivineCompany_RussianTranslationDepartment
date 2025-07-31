@@ -2,244 +2,244 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Варп-поезд – экономкласс",
+      "place": "WARP Train Economy Class Cabin",
       "model": "돈키호테",
-      "content": "Э-эсквайр директор, замрите! Взгляните на сего несчастного мужа, он всё ещё в сознанье!"
+      "content": "M-Manager Esquire, halt! Behold this poor fellow, he lives still!"
     },
     {
       "id": 1,
-      "content": "Дон Кихот куда-то понеслась с широко раскрытыми глазами."
+      "content": "Don Quixote, her round eyes wide open, began sprinting somewhere."
     },
     {
       "id": 2,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Н-нет, не подходите ко мне, вы, чёртовы монстры!‥"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "N-no, stay away from me, you monsters...!"
     },
     {
       "id": 3,
       "model": "그레고르",
-      "content": "Э-эй, дружище. Мы не одни из этих… монстров. Ты в порядке?"
+      "content": "H-hey, man. We're not those... monsters. You alright?"
     },
     {
       "id": 4,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "…А?!"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "... Huh?!"
     },
     {
       "id": 5,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Твоя рука… Т-ты тоже начинаешь мутировать, да?‥ Видимо, ты превращаешься в какого-то насекомопободного мон— Гх."
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "That arm... Y-you're starting to mutate too, aren't you...? You must be turning into some bug-like monste— Agh."
     },
     {
       "id": 6,
       "model": "그레고르",
-      "content": "Что? Нет, это…"
+      "content": "What? No, this is..."
     },
     {
       "id": 7,
-      "content": "Грегор попытался что-то ответить, но не мог подобрать нужных слов; он усмехнулся и с недоумением опустил свой взгляд."
+      "content": "Gregor stumbled for words before chuckling and casting his gaze toward the floor in disbelief."
     },
     {
       "id": 8,
       "model": "그레고르",
-      "content": "Эх… ну, стоило ожидать. Полагаю, в такой нервной обстановке тяжело отличить мою руку от мутации, протеза или прочей фигни."
+      "content": "Yeah, well... no surprise there, I guess. I suppose there's no way to tell right away whether this arm's a monster, a prosthetic, or whatnot."
     },
     {
       "id": 9,
       "model": "뫼르소",
-      "content": "Вы могли ошибиться, поскольку его биопротез является устаревшей моделью, которую сейчас редко можно встретить в Городе."
+      "content": "It is possible that you are mistaken due to his bio-prosthetic being of an older, outdated make that is now rarely seen in the City."
     },
     {
       "id": 10,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Ох, протез…"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "Ah, a prosthetic..."
     },
     {
       "id": 11,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Это облегчает. Я уж было подумал, что тут снова появились те мерзкие твари. Думаю, вы заметили, что мои ноги уже ни к чёрту… У меня не оставалось выбора, кроме как спрятаться здесь…"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "That's a relief. I thought those crazy bastards were trying to break in again. As you can see, my legs are messed up... I had no choice but to hide in here..."
     },
     {
       "id": 12,
       "model": "오티스",
-      "content": "Что сотрудники Корпорации «ВАРП» забыли на этом поезде?"
+      "content": "So what are the W Corp. employees doing aboard this train?"
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<Хм, он ведь… Опираясь на информацию о Варп-поездах, которую мы получили от Личностей Крыла W, я и представить не могу, чтобы хоть кто-то из них сел на поезд добровольно…>"
+      "content": "<Huh, you're right... From what we found out about the WARP trains through the Identities, I can't imagine why any of them would ever willingly board this train...>"
     },
     {
       "id": 14,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Вы ведь Корректировщики по контракту?‥ Нам приказали помочь вам с выполнением задания."
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "You're the contract Fixers, right...? We were ordered to assist you with your contract."
     },
     {
       "id": 15,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "…Я сказал «нам», но… остался лишь я один. В том вагоне… все члены моей команды начали сходить с ума и…"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "... I said 'we', but... I'm the only one left. Every single one of my colleagues suddenly began losing their minds in that car over there, and..."
     },
     {
       "id": 16,
       "model": "돈키호테",
-      "content": "Сие не может быть… Фауст! Истинно ли, что несть ни одного способа исцелить Мешки Крови?"
+      "content": "This cannot be... Faust! Is there truly no way to cure the Bloodbags?"
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "Прошу прощения, но в данный момент доступ к этой информации также запрещён."
+      "content": "My apologies. The access to that information is prohibited at this moment as well."
     },
     {
       "id": 18,
-      "content": "Хотя её голос и выражение лица были такими же спокойными, как и всегда, в её словах чувствовалась некая печаль."
+      "content": "Though her voice and expression were both as serene as always, there was something gloomy about the way she said it."
     },
     {
       "id": 19,
       "model": "파우스트",
-      "content": "…Я слишком сильно полагалась на Фауст. В слишком многих случаях."
+      "content": "... I may have been too reliant on Faust. In too many places."
     },
     {
       "id": 20,
-      "content": "Фауст прошептала еле слышным голосом."
+      "content": "Faust muttered in a barely audible volume."
     },
     {
       "id": 21,
-      "content": "…Я тоже не знаю, как можно было бы помочь Грешникам в этой ситуации."
+      "content": "... I don't know what I can do to help the Sinners in a situation like this, either."
     },
     {
       "id": 22,
-      "content": "Фауст всегда была рядом, поэтому мне в равной мере стало слишком комфортно полагаться на её вездесущее всезнание. Ко мне начало приходить осознание, что у меня нет собственных методов, на которые можно было бы положиться при принятии решений в таких моментах…"
+      "content": "I'd also grown too used to Faust's omniscience because I could always trust it to be there for me. I was starting to realize that I don't have the means to dig myself out of a hole like this..."
     },
     {
       "id": 23,
-      "content": "…Нет, дело не только в Фауст. Мне стало слишком комфортно полагаться на Грешников в целом."
+      "content": "... No, maybe I was too reliant on the Sinners as a whole."
     },
     {
       "id": 24,
-      "content": "Если… придёт время, когда им нужно будет положиться на меня, когда по каким-либо причинам у них не останется сил сделать что-то самим, смогу ли я эффективно ими руководить? Смогу ли я привести их к верному решению?"
+      "content": "If... when the time comes for them to depend on me, when they can no longer stand on their own, can I really manage them? Lead them to the right answers?"
     },
     {
       "id": 25,
-      "content": "Подобно чёрному столбу дыма, в моей голове начали подниматься окутанные страхом сомнения."
+      "content": "Doubt, colored with fear, begins to rise like an ominous plume of smoke."
     },
     {
       "id": 26,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Один… я уже ничем не смогу помочь… Гх…"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "Well... What can I do, right? Agh..."
     },
     {
       "id": 27,
-      "content": "Агент чистки, волоча за собой раненую ногу, с трудом добрался до угла вагона и потянул за рычаг…"
+      "content": "The agent struggled to some corner of the room with his wounded leg, and pulled on a lever..."
     },
     {
       "id": 28,
       "model": "료슈",
-      "content": "А они место зря не теряли."
+      "content": "They made good use of this space."
     },
     {
       "id": 29,
-      "content": "…и стена позади того, что изначально казалось складным стулом для сотрудников, развернулась."
+      "content": "... and the wall behind what had initially appeared to be a folding chair for employees spun open."
     },
     {
       "id": 30,
       "model": "돈키호테",
-      "content": "О-о, что во имя всех Крыльев сие есть такое?! Быть может, там сокрыто орудие великой силы, орудие, кое боле всего страшатся Кроводемоны?!"
+      "content": "Ooh, what in the name of Wings is this?! Perchance, thou hast hidden here a weapon most powerful, a weapon most afeared by the Bloodfiends...?!"
     },
     {
       "id": 31,
       "model": "오티스",
-      "content": "Выглядит, как одна из капсул в первом классе, но что она здесь делает?‥"
+      "content": "That holds some resemblance to a capsule we saw on the First Class car, but why would that thing be here...?"
     },
     {
       "id": 32,
-      "content": "Агент чистки поторопился забраться в ранее спрятанную капсулу."
+      "content": "The Cleanup Agent slumped into the pod that appeared in the wall."
     },
     {
       "id": 33,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Фьюх… наконец-то."
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "Phew... finally."
     },
     {
       "id": 34,
       "model": "돈키호테",
-      "content": "Хм? Кою цель преследуют ваши дела?"
+      "content": "Hm? What is it that thou seekest to do?"
     },
     {
       "id": 35,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Крыло W подготовило небольшие капсулы гибернации для сотрудников на случай возникновения экстренной ситуации."
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "W Corp. prepared a small hibernation pod for employees in case of these emergencies."
     },
     {
       "id": 36,
       "model": "돈키호테",
-      "content": "Воистину! Значит… а?"
+      "content": "Verily! Then... huh?"
     },
     {
       "id": 37,
       "model": "W사정리요원",
-      "teller": "Агент чистки",
-      "title": "Корпорация W",
-      "content": "Удачи… справиться с заданием…"
+      "teller": "Cleanup Agent",
+      "title": "W Corp.",
+      "content": "Good luck... with the rest of the mission..."
     },
     {
       "id": 38,
-      "content": "С этими словами он окончательно залез в капсулу и закрыл её люк."
+      "content": "With that, he settled into the capsule, and shut the hatch behind him."
     },
     {
       "id": 39,
-      "content": "Когда дверь, за которой была скрыта капсула, закрылась, на её месте остался лишь складной стул и покрытая внутренностями стена."
+      "content": "When the door covering the pod closed, only the folding chair and a wall covered with viscera remained."
     },
     {
       "id": 40,
       "model": "단테",
-      "content": "<И вот его не стало…>"
+      "content": "<He's gone...>"
     },
     {
       "id": 41,
       "model": "로쟈",
-      "content": "Ну и помощь…"
+      "content": "There he goes..."
     },
     {
       "id": 42,
       "model": "파우스트",
-      "content": "Он покинул сцену происшествия."
+      "content": "He has departed the scene."
     },
     {
       "id": 43,
-      "content": "Мы с недоумением уставились на стену, в которой скрылась наша единственная помощь."
+      "content": "We blankly stared at the wall the Agent disappeared into."
     },
     {
       "id": 44,
-      "content": "С этим уже ничего не поделать. Оставалось только…"
+      "content": "Well, then. I guess we gotta..."
     },
     {
       "id": 45,
       "model": "단테",
-      "content": "<…Идём в следующий вагон.>"
+      "content": "<... Let's move on to the next car.>"
     },
     {
       "id": 46,
-      "content": "…держаться духом и двигаться дальше."
+      "content": "... keep on keeping on."
     }
   ]
 }

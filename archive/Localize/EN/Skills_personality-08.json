@@ -773,7 +773,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
                 }
               ]
             },
@@ -783,7 +783,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
                 }
               ]
             }
@@ -1030,17 +1030,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]"
                 }
               ]
             }
@@ -1054,17 +1054,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]"
                 }
               ]
             }
@@ -1104,7 +1104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)</style>"
@@ -1114,7 +1114,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 1 [SlashResultUp] next turn (once per turn)</style>"
@@ -1131,10 +1131,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)"
                 },
                 {
                   "desc": "<style=\"highlight\">- If there are 6+ Kurokumo Clan units, including this unit, inflict 2 [Vulnerable] instead</style>"
@@ -1144,7 +1144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 1 [SlashResultUp] next turn (<style=\"highlight\">2 times</style> per turn)"
@@ -1194,14 +1194,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 }
               ]
             },
@@ -1211,7 +1211,7 @@
                   "desc": "<style=\"highlight\">Deal +10% damage for every type of negative effect on target (max 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3"
                 }
               ]
             }
@@ -1518,19 +1518,19 @@
                   "desc": "Deal +(<style=\"highlight\">80</style> + [Breath] on self + [Burst] on main target)% damage on Critical Hit (max <style=\"highlight\">105</style>%)"
                 },
                 {
-                  "desc": "+5% Damage on Critical Hit for every [StartXichun] on self (max 30%)<style=\"highlight\"></style>"
+                  "desc": "+5% Damage on Critical Hit for every [StartXichun] on self (max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict +1 [Burst] Count</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count"
                 },
                 {
-                  "desc": "[CriticalEnemyTargetKill] Gain +2 [Breath] Count (3 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[CriticalEnemyTargetKill] Gain +2 [Breath] Count (3 times per turn)"
                 }
               ]
             }

@@ -308,7 +308,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Deal +0.1% damage for every [BloodDinner_Common_Accumulation] (max 10%)<style=\"highlight\"></style>"
+                  "desc": "Deal +0.1% damage for every [BloodDinner_Common_Accumulation] (max 10%)"
                 }
               ]
             },
@@ -443,10 +443,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration] for every 50 [BloodDinner_Common_Accumulation] (max 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration] for every 50 [BloodDinner_Common_Accumulation] (max 10)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 100- [BloodDinner], inflict 10 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 100- [BloodDinner], inflict 10 [Laceration]"
                 }
               ]
             },
@@ -469,15 +469,15 @@
           "level": 4,
           "name": "Yearning - Mircalla",
           "abName": "Four-hundred Roses",
-          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf target has 10+ [Laceration], Coin Power -1\nAt 200+ [BloodDinner_Accumulation] by this unit, Coin Power -1\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\nThis unit's HP does not drop below 1 while using this Skill.\nIf target has 10+ [Laceration], Coin Power -1\nAt 200+ [BloodDinner_Accumulation] by this unit, Coin Power -1\n[BeforeAttack] At less than 150 [BloodDinner], inflict 1 [Laceration] with every hit\n[BeforeAttack] Gain 20 [Laceration], and activate [Laceration] on self immediately. Lose 2 [Laceration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration] for every 50 [BloodDinner_Common_Accumulation] (max 10)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration] for every 50 [BloodDinner_Common_Accumulation] (max 10)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 100- [BloodDinner], inflict 10 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 100- [BloodDinner], inflict 10 [Laceration]"
                 }
               ]
             },
@@ -545,10 +545,10 @@
                   "desc": "<style=\"highlight\">Deal +3% damage for every [EntangledCurseTalisman] on target (max 30%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([EntangledCurseTalisman] on target / 2) [Burst] (max 3, rounded down)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([EntangledCurseTalisman] on target / 2) [Burst] (max 3, rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +([EntangledCurseTalisman] on target / 4) [Burst] Count (max 2, rounded down)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +([EntangledCurseTalisman] on target / 4) [Burst] Count (max 2, rounded down)"
                 }
               ]
             }

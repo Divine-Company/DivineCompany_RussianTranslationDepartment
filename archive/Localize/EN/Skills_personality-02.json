@@ -529,7 +529,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]"
                 }
               ]
             }
@@ -556,7 +556,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Bind next turn"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [RedApricotBlossom]"
                 }
               ]
             }
@@ -837,7 +837,7 @@
         {
           "level": 2,
           "name": "40Y-3 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1",
           "coinlist": [
             {},
             {
@@ -858,7 +858,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
                 }
               ]
             }
@@ -888,7 +888,7 @@
         {
           "level": 2,
           "name": "Charge Countercurrent",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
           "coinlist": [
             {},
             {},
@@ -1060,7 +1060,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ [Combustion], inflict additional 1 [Combustion]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
                 }
               ]
             }
@@ -1090,7 +1090,7 @@
                   "desc": "[OnSucceedAttack] At 10+ [Combustion], inflict additional <style=\"highlight\">3</style> [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Combustion]"
                 }
               ]
             }
@@ -1380,14 +1380,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)</style> "
@@ -1404,17 +1404,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
                 }
               ]
             }
@@ -1454,14 +1454,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target has [BurstAgility] or [BurstZilu], deal +30% damage<style=\"highlight\"></style>"
+                  "desc": "If target has [BurstAgility] or [BurstZilu], deal +30% damage"
                 }
               ]
             }
@@ -1475,7 +1475,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
@@ -1541,30 +1541,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +30% damage<style=\"highlight\"></style>"
+                  "desc": "At 10+ Speed, deal +30% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
                 },
                 {
                   "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflict [BurstAgility]</style>"
@@ -1607,14 +1607,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             }
@@ -1676,36 +1676,36 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstZilu]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [BurstZilu]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +30% damage<style=\"highlight\"></style>"
+                  "desc": "At 10+ Speed, deal +30% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Inflict [BurstZilu]<style=\"highlight\"></style>"
+                  "desc": "[ReUseOnSucceedAttack] Inflict [BurstZilu]"
                 },
                 {
                   "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflict [BurstAgility]</style>"
@@ -1736,12 +1736,12 @@
         {
           "level": 4,
           "name": "Swiftfeet Protection",
-          "desc": "[CanDuelGuard]\nExclusive Skill for [SupportProtect]\n[BeforeUse] At 10+ [EnhanceZilu], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] This Skill gains +1 Defense Level for every 10% HP this unit has cumulatively lost in this Encounter (max 6; based on max HP at the time of activation)\n[WhenUse] Cannot be Staggered by damage until this Skill ends\n[WhenUse] Gain 2 [Protection] (once per turn)<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\nExclusive Skill for [SupportProtect]\n[BeforeUse] At 10+ [EnhanceZilu], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation' instead\n[WhenUse] This Skill gains +1 Defense Level for every 10% HP this unit has cumulatively lost in this Encounter (max 6; based on max HP at the time of activation)\n[WhenUse] Cannot be Staggered by damage until this Skill ends\n[WhenUse] Gain 2 [Protection] (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             }

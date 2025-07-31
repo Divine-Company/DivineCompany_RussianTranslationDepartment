@@ -275,7 +275,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 15 [Laceration] between all targets<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Evenly inflict 15 [Laceration] between all targets"
                 }
               ]
             }
@@ -383,7 +383,7 @@
                   "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% damage on Critical Hit (max 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [HoldingBreath] (once per turn)"
                 }
               ]
             }
@@ -442,7 +442,7 @@
                   "desc": "<style=\"highlight\">Deal +([Breath] Potency + Count)% damage on Critical Hit (max 20%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 4 [HoldingBreath] (once per turn)"
                 }
               ]
             }
