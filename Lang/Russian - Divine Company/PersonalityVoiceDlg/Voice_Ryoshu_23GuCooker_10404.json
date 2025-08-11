@@ -119,6 +119,26 @@
       "id": "battle_defeat_10404_1",
       "desc": "Defeat Wail",
       "dlg": "Tch… It’s fine. Can always find ingredients elsewhere."
+    },
+    {
+      "id": "battle_s3_10404_1_1",
+      "desc": "I Can Cook Anything: First coin",
+      "dlg": "М"
+    },
+    {
+      "id": "battle_s3_10404_1_2",
+      "desc": "I Can Cook Anything: Second coin",
+      "dlg": "О"
+    },
+    {
+      "id": "battle_s3_10404_1_3",
+      "desc": "I Can Cook Anything: Third coin",
+      "dlg": "Т"
+    },
+    {
+      "id": "battle_s3_10404_1_4",
+      "desc": "I Can Cook Anything: Final coin",
+      "dlg": "И"
     }
   ]
 }

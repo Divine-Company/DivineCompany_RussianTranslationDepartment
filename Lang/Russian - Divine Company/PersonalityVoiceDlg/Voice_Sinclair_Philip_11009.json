@@ -119,6 +119,51 @@
       "id": "battle_defeat_11009_1",
       "desc": "Defeat Wail",
       "dlg": "Not yet... I've got to, I've got to go ask for help...!"
+    },
+    {
+      "id": "battle_special_11009_2",
+      "desc": "Manifest E.G.O.",
+      "dlg": "На этот раз... я буду биться до конца!"
+    },
+    {
+      "id": "battle_special_11009_1",
+      "desc": "Manifest E.G.O by 2+ allies death",
+      "dlg": "Если печаль стала моей неотделимой стигмой... я лучше взмою с ней ввысь!"
+    },
+    {
+      "id": "battle_endcommand_11009_2",
+      "desc": "Commencing Attack while in E.G.O state",
+      "dlg": "Мне всё ещё страшно... но я... не хочу останавливаться!"
+    },
+    {
+      "id": "battle_kill_11009_2",
+      "desc": "Enemy Killed while in E.G.O state",
+      "dlg": "Буду колебаться — не смогу двигаться вперёд."
+    },
+    {
+      "id": "battle_dead_11009_2",
+      "desc": "Death while in E.G.O state",
+      "dlg": "Возможно, мне не стоило... Идти по этому пути..."
+    },
+    {
+      "id": "battle_s3_11009_1_1",
+      "desc": "Stigimize: Before first coin",
+      "dlg": "Я нанесу на на тебя..."
+    },
+    {
+      "id": "battle_s3_11009_1_2",
+      "desc": "Stigimize: After first coin",
+      "dlg": "Эту стигму!"
+    },
+    {
+      "id": "battle_s3_11009_2_1",
+      "desc": "Blazing Strike: Before coin",
+      "dlg": "Пусть мой пыл..."
+    },
+    {
+      "id": "battle_s3_11009_2_2",
+      "desc": "Blazing Strike: After coin",
+      "dlg": "Опалит тебя."
     }
   ]
 }
