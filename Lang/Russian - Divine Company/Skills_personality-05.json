@@ -1302,7 +1302,7 @@
                   "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 3 или более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] При 3 и более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1</style>"
                 }
               ]
             }
@@ -1345,7 +1345,7 @@
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 3 или более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1"
+                  "desc": "[OnSucceedAttack] При 3 и более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
