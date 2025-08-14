@@ -396,379 +396,449 @@
       "dlg": "Shut— Shut up! We're infighting...! This is a waste of time!"
     },
     {
-        "id": "battle_react_10310_1-1",
-        "desc": "Hardblood I Gain",
-        "dlg": "Текущая кровь..."
+      "id": "battle_react_noVoice_10613_1",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사화정",
+      "dlg": "I don't recall this candidate... Hm, all kinds of sorry churls seem to vie for the seat of the Hierarch in this place they call a mirror world."
     },
     {
-        "id": "battle_react_10310_1-2",
-        "desc": "Hardblood II Gain",
-        "dlg": "Горячая кровь..."
+      "id": "battle_react_noVoice_10613_2",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
+      "dlg": "This is no place for something so insignificant as family. You, who are causeless and hollow of vision toward Hongyuan, do not belong here."
     },
     {
-        "id": "battle_react_10310_1-3",
-        "desc": "Hardblood III Gain",
-        "dlg": "Кровь... брызжущая чувствами."
+      "id": "battle_react_noVoice_10613_3",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사사정",
+      "dlg": "Benighted is this fool. One need not coerce others to lay down their lives, for the pursuit of a great cause naturally begets those who would gladly brave death itself."
     },
     {
-        "id": "battle_react_10310_2",
-        "desc": "Variant Sancho Hardblood Arts: Empower Skill 3",
-        "dlg": "В изготовлении оружия я давно превзошла моего Отца."
+      "id": "battle_react_noVoice_10613_4",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_설반",
+      "dlg": "For all that disinclination toward violence, you seem to have a passing talent for it nonetheless. Even a pathetic craven becomes... a madman when swept up by the flow."
     },
     {
-        "id": "battle_react_10310_3-4",
-        "desc": "Variant Sancho Hardblood Arts 6 - Whip: First coin",
-        "dlg": "Вариация Санчо, Техника застывшей крови № 6..."
+      "id": "battle_react_noVoice_10613_5",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
+      "dlg": "Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
     },
     {
-        "id": "battle_react_10310_3-4-1",
-        "desc": "Variant Sancho Hardblood Arts 6 - Whip: Final coin",
-        "dlg": "«Порвать на части»!"
+      "id": "battle_react_10613_6",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
+      "dlg": "Ha... ha ha! I shall always welcome another opportunity to cut down these ancient demons who have been seduced by immortality!"
     },
     {
-        "id": "battle_react_10310_4-4",
-        "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: First coin",
-        "dlg": "Вариация Санчо, Техника застывшей крови № 8..."
+      "id": "battle_react_10613_7",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
+      "dlg": "Keep twisting in that filth, Shi Miyin... It'll only enhance the taste of happiness, wrath, sorrow, and joy when I cleave into you!"
     },
     {
-        "id": "battle_react_10310_4-4-1",
-        "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: Final coin",
-        "dlg": "«Разрезать на куски»!"
+      "id": "battle_react_10613_8",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
+      "dlg": "I never thought I'd ever see you in Hongyuan again, big brother... Fuhu, so in this world, you managed to survive. You seem to be carving out your own path much like myself."
     },
     {
-        "id": "battle_react_10310_5-2",
-        "desc": "Ascendant Sancho Hardblood Arts - La Sangre: First coin",
-        "dlg": "Санчо, Возвышенная Техника застывшей крови... «La Sangre»."
+      "id": "battle_react_10613_9",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
+      "dlg": "Phew... okay, fine. Then...\nAs the Lord of Hongyuan, I hereby grant you audience."
     },
     {
-        "id": "battle_react_10310_5-2-1",
-        "desc": "Ascendant Sancho Hardblood Arts - La Sangre: Final coin",
-        "dlg": "Пора с этим кончать."
+      "id": "battle_react_10613_10",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가환",
+      "dlg": "Avenging Jia Huan shouldn't affect you this much now, should it...? When did this revolting display of belated melodrama replace your advocacy for the cold and calculating pragmatism you had discussed before me?"
     },
     {
-        "id": "battle_react_10310_6-4",
-        "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: First coin",
-        "dlg": "Техника застывшей крови № 15..."
+      "id": "battle_react_10613_701",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
+      "dlg": "Never did I let this sickening cradle imprison me, and that will not change today! Never!"
     },
     {
-        "id": "battle_react_10310_6-4-1",
-        "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: Final coin",
-        "dlg": "«Приготовления к финалу»!"
+      "id": "battle_react_10613_901",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
+      "dlg": "Fascinating. Why was I not told that such interesting dialogues could be had with him in this world?"
     },
     {
-        "id": "battle_react_10310_7",
-        "desc": "Trio's Enhanced Skills Ready",
-        "dlg": "При помощи вашего оружия... я доведу эту кровавую бойню до победного конца."
+      "id": "battle_react_10613_902",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
+      "dlg": "You assert that education of humanity and propriety is what cleanses the years of fell deeds? The first step seems to have eluded you: absolutely pulverize the fell deeds. Only then shall humanity and propriety have any significance."
     },
     {
-        "id": "battle_react_10310_8-1",
-        "desc": "Death while Barber Outis Present",
-        "dlg": "Цирюльник... ты становишься за главного в нашей Семье. "
+      "id": "battle_react_10613_903",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
+      "dlg": "Evil must be mercilessly wrested from their roots(除惡務盡 斬草除根). The path I have chosen as the Lord of Hongyuan is a path unburdened by the need to seek understanding from others. Thus, big brother—no, Jia Qiu, this dialogue has met an impasse."
     },
     {
-        "id": "battle_react_10310_8-2",
-        "desc": "Death while Priest Gregor Present",
-        "dlg": "Священник... ты становишься за главного в нашей Семье."
+      "id": "battle_react_10310_1-1",
+      "desc": "Hardblood I Gain",
+      "dlg": "Текущая кровь..."
     },
     {
-        "id": "battle_react_10310_8-3",
-        "desc": "Death while Princess Rodion Present",
-        "dlg": "Моя единственная сестра... ты становишься за главного в нашей Семье."
-     },
+      "id": "battle_react_10310_1-2",
+      "desc": "Hardblood II Gain",
+      "dlg": "Горячая кровь..."
+    },
+    {
+      "id": "battle_react_10310_1-3",
+      "desc": "Hardblood III Gain",
+      "dlg": "Кровь... брызжущая чувствами."
+    },
+    {
+      "id": "battle_react_10310_2",
+      "desc": "Variant Sancho Hardblood Arts: Empower Skill 3",
+      "dlg": "В изготовлении оружия я давно превзошла моего Отца."
+    },
+    {
+      "id": "battle_react_10310_3-4",
+      "desc": "Variant Sancho Hardblood Arts 6 - Whip: First coin",
+      "dlg": "Вариация Санчо, Техника застывшей крови № 6..."
+    },
+    {
+      "id": "battle_react_10310_3-4-1",
+      "desc": "Variant Sancho Hardblood Arts 6 - Whip: Final coin",
+      "dlg": "«Порвать на части»!"
+    },
+    {
+      "id": "battle_react_10310_4-4",
+      "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: First coin",
+      "dlg": "Вариация Санчо, Техника застывшей крови № 8..."
+    },
+    {
+      "id": "battle_react_10310_4-4-1",
+      "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: Final coin",
+      "dlg": "«Разрезать на куски»!"
+    },
+    {
+      "id": "battle_react_10310_5-2",
+      "desc": "Ascendant Sancho Hardblood Arts - La Sangre: First coin",
+      "dlg": "Санчо, Возвышенная Техника застывшей крови... «La Sangre»."
+    },
+    {
+      "id": "battle_react_10310_5-2-1",
+      "desc": "Ascendant Sancho Hardblood Arts - La Sangre: Final coin",
+      "dlg": "Пора с этим кончать."
+    },
+    {
+      "id": "battle_react_10310_6-4",
+      "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: First coin",
+      "dlg": "Техника застывшей крови № 15..."
+    },
+    {
+      "id": "battle_react_10310_6-4-1",
+      "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: Final coin",
+      "dlg": "«Приготовления к финалу»!"
+    },
+    {
+      "id": "battle_react_10310_7",
+      "desc": "Trio's Enhanced Skills Ready",
+      "dlg": "При помощи вашего оружия... я доведу эту кровавую бойню до победного конца."
+    },
+    {
+      "id": "battle_react_10310_8-1",
+      "desc": "Death while Barber Outis Present",
+      "dlg": "Цирюльник... ты становишься за главного в нашей Семье. "
+    },
+    {
+      "id": "battle_react_10310_8-2",
+      "desc": "Death while Priest Gregor Present",
+      "dlg": "Священник... ты становишься за главного в нашей Семье."
+    },
+    {
+      "id": "battle_react_10310_8-3",
+      "desc": "Death while Princess Rodion Present",
+      "dlg": "Моя единственная сестра... ты становишься за главного в нашей Семье."
+    },
     {
-        "id": "battle_react_10310_9",
-        "desc": "Staggered while Bloodfiends are deployed",
-        "dlg": "Всё внимание на пиршество перед взором."
+      "id": "battle_react_10310_9",
+      "desc": "Staggered while Bloodfiends are deployed",
+      "dlg": "Всё внимание на пиршество перед взором."
     },
     {
-        "id": "battle_s2_10310_1_3",
-        "desc": "Let All Blossom Free",
-        "dlg": "Преклонитесь."
+      "id": "battle_s2_10310_1_3",
+      "desc": "Let All Blossom Free",
+      "dlg": "Преклонитесь."
     },
     {
-        "id": "battle_s2_10310_1_3-01",
-        "desc": "Let All Blossom Free",
-        "dlg": "Преклонитесь."
+      "id": "battle_s2_10310_1_3-01",
+      "desc": "Let All Blossom Free",
+      "dlg": "Преклонитесь."
     },
     {
-        "id": "battle_s3_10310_1_3",
-        "desc": "Shall Impale",
-        "dlg": "Пусть оно тебя пронзит!"
+      "id": "battle_s3_10310_1_3",
+      "desc": "Shall Impale",
+      "dlg": "Пусть оно тебя пронзит!"
     },
     {
-        "id": "battle_s3_10310_1_3-01",
-        "desc": "Shall Impale",
-        "dlg": "Пусть оно тебя пронзит!"
+      "id": "battle_s3_10310_1_3-01",
+      "desc": "Shall Impale",
+      "dlg": "Пусть оно тебя пронзит!"
     },
     {
-        "id": "battle_s0_10309_1",
-        "desc": "I Shall Summon the Time",
-        "dlg": "Приступаю к изъятию времени."
+      "id": "battle_s0_10309_1",
+      "desc": "I Shall Summon the Time",
+      "dlg": "Приступаю к изъятию времени."
     },
     {
-        "id": "battle_s3_10309_1_3-02",
-        "desc": "I Command Thee, Halt! (Borrowed Time)",
-        "dlg": "Разгон!"
+      "id": "battle_s3_10309_1_3-02",
+      "desc": "I Command Thee, Halt! (Borrowed Time)",
+      "dlg": "Разгон!"
     },
     {
-        "id": "battle_s3_10211_0",
-        "desc": "Drawn by Flame: First coin",
-        "dlg": "Бесконтрольно..."
+      "id": "battle_s3_10211_0",
+      "desc": "Drawn by Flame: First coin",
+      "dlg": "Бесконтрольно..."
     },
     {
-        "id": "battle_s3_10211_0-1",
-        "desc": "Drawn by Flame: Final coin",
-        "dlg": "Пылай."
+      "id": "battle_s3_10211_0-1",
+      "desc": "Drawn by Flame: Final coin",
+      "dlg": "Пылай."
     },
     {
-        "id": "battle_s3_10211_1_1",
-        "desc": "Drawn by Flame: First coin",
-        "dlg": "Бесконтрольно..."
+      "id": "battle_s3_10211_1_1",
+      "desc": "Drawn by Flame: First coin",
+      "dlg": "Бесконтрольно..."
     },
     {
-        "id": "battle_s3_10211_1_2-01",
-        "desc": "Drawn by Flame: Final coin",
-        "dlg": "Пылай."
+      "id": "battle_s3_10211_1_2-01",
+      "desc": "Drawn by Flame: Final coin",
+      "dlg": "Пылай."
     },
     {
-        "id": "battle_s3_10211_1_1-02",
-        "desc": "Drawn by Flame (20-29 Burn on Self): First coin",
-        "dlg": "Бесконтрольно..."
+      "id": "battle_s3_10211_1_1-02",
+      "desc": "Drawn by Flame (20-29 Burn on Self): First coin",
+      "dlg": "Бесконтрольно..."
     },
     {
-        "id": "battle_s3_10211_1_2-02",
-        "desc": "Drawn by Flame (20-29 Burn on Self): Final coin",
-        "dlg": "Пылай!"
+      "id": "battle_s3_10211_1_2-02",
+      "desc": "Drawn by Flame (20-29 Burn on Self): Final coin",
+      "dlg": "Пылай!"
     },
     {
-        "id": "battle_s3_10211_1_3-02",
-        "desc": "A.B.S. Max Attunement [Degraded Corrosion]: First coin",
-        "dlg": "Словно мотылёк..."
+      "id": "battle_s3_10211_1_3-02",
+      "desc": "A.B.S. Max Attunement [Degraded Corrosion]: First coin",
+      "dlg": "Словно мотылёк..."
     },
     {
-        "id": "battle_s3_10211_1_4-02",
-        "desc": "A.B.S. Max Attunement [Degraded Corrosion]: Final coin",
-        "dlg": "В сверкающее пламя!"
+      "id": "battle_s3_10211_1_4-02",
+      "desc": "A.B.S. Max Attunement [Degraded Corrosion]: Final coin",
+      "dlg": "В сверкающее пламя!"
     },
     {
-        "id": "battle_s3_10207_1_4-01",
-        "desc": "Unleashed Violence: On kill with final coin",
-        "dlg": "Подавление завершено."
+      "id": "battle_s3_10207_1_4-01",
+      "desc": "Unleashed Violence: On kill with final coin",
+      "dlg": "Подавление завершено."
     },
     {
-        "id": "battle_s3_10210_1_txt",
-        "desc": "40Y-3 Charge",
-        "dlg": "Максимальная мощность."
+      "id": "battle_s3_10210_1_txt",
+      "desc": "40Y-3 Charge",
+      "dlg": "Максимальная мощность."
     },
     {
-        "id": "battle_s3_10204_1_2",
-        "desc": "Execution",
-        "dlg": "Пронжу!"
+      "id": "battle_s3_10204_1_2",
+      "desc": "Execution",
+      "dlg": "Пронжу!"
     },
     {
-        "id": "battle_s3_10208_1_1",
-        "desc": "Red Plum Blossoms Scatter: Fist coin",
-        "dlg": "Есть то, что прекрасно."
+      "id": "battle_s3_10208_1_1",
+      "desc": "Red Plum Blossoms Scatter: Fist coin",
+      "dlg": "Есть то, что прекрасно."
     },
     {
-        "id": "battle_s3_10208_1_3",
-        "desc": "Red Plum Blossoms Scatter: Final coin",
-        "dlg": "И то, что невзрачно."
+      "id": "battle_s3_10208_1_3",
+      "desc": "Red Plum Blossoms Scatter: Final coin",
+      "dlg": "И то, что невзрачно."
     },
     {
-        "id": "battle_s3_11210_1",
-        "desc": "The Unforgivable Sin (Bloodied Hand I)",
-        "dlg": "Кровь... Кровь!.."
+      "id": "battle_s3_11210_1",
+      "desc": "The Unforgivable Sin (Bloodied Hand I)",
+      "dlg": "Кровь... Кровь!.."
     },
     {
-        "id": "battle_s3_11210_1-03",
-        "desc": "The Unforgivable Sin (Bloodied Hand II)",
-        "dlg": "Кровь!.. Кровь!!!"
+      "id": "battle_s3_11210_1-03",
+      "desc": "The Unforgivable Sin (Bloodied Hand II)",
+      "dlg": "Кровь!.. Кровь!!!"
     },
     {
-        "id": "battle_s3_11210_1-02",
-        "desc": "The Unforgivable Sin (Bloodied Hand III)",
-        "dlg": "Кровь!!! КРОВЬ!!!"
+      "id": "battle_s3_11210_1-02",
+      "desc": "The Unforgivable Sin (Bloodied Hand III)",
+      "dlg": "Кровь!!! КРОВЬ!!!"
     },
     {
-        "id": "battle_s3_11205_1_1-01",
-        "desc": "Let's Grind 'Em",
-        "dlg": "Ну что ж!.. "
+      "id": "battle_s3_11205_1_1-01",
+      "desc": "Let's Grind 'Em",
+      "dlg": "Ну что ж!.. "
     },
     {
-        "id": "battle_s3_11209_1",
-        "desc": "Nightmare Hunt: First coin",
-        "dlg": "Я нащупал..."
+      "id": "battle_s3_11209_1",
+      "desc": "Nightmare Hunt: First coin",
+      "dlg": "Я нащупал..."
     },
     {
-        "id": "battle_s3_11209_2",
-        "desc": "Nightmare Hunt: Final coin",
-        "dlg": "Твою жизненно важную точку! "
+      "id": "battle_s3_11209_2",
+      "desc": "Nightmare Hunt: Final coin",
+      "dlg": "Твою жизненно важную точку! "
     },
     {
-        "id": "battle_s2_10710_1_1_txt-01",
-        "desc": "Memorial Procession",
-        "dlg": "Порву на части."
+      "id": "battle_s2_10710_1_1_txt-01",
+      "desc": "Memorial Procession",
+      "dlg": "Порву на части."
     },
     {
-        "id": "battle_s3_10710_1_1_txt",
-        "desc": "Reqiuem",
-        "dlg": "Покойся в своих сожалениях!"
+      "id": "battle_s3_10710_1_1_txt",
+      "desc": "Reqiuem",
+      "dlg": "Покойся в своих сожалениях!"
     },
     {
-        "id": "battle_s3_10710_large_2",
-        "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): First coin",
-        "dlg": "Хоть я не могу тебя запереть..."
+      "id": "battle_s3_10710_large_2",
+      "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): First coin",
+      "dlg": "Хоть я не могу тебя запереть..."
     },
     {
-        "id": "battle_s3_10710_large_3",
-        "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): Final coin",
-        "dlg": "Я высеку на тебе твои сожаления!"
+      "id": "battle_s3_10710_large_3",
+      "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): Final coin",
+      "dlg": "Я высеку на тебе твои сожаления!"
     },
     {
-        "id": "battle_add_10710_1",
-        "desc": "Mount Dullahan",
-        "dlg": "Дуллахан! Пора скакать на смерть."
+      "id": "battle_add_10710_1",
+      "desc": "Mount Dullahan",
+      "dlg": "Дуллахан! Пора скакать на смерть."
     },
     {
-        "id": "battle_s2_10710_ride_1",
-        "desc": "Memorial Procession: Dullahan",
-        "dlg": "Порви их всех, о Дуллахан!"
+      "id": "battle_s2_10710_ride_1",
+      "desc": "Memorial Procession: Dullahan",
+      "dlg": "Порви их всех, о Дуллахан!"
     },
     {
-        "id": "battle_s3_10710_ride_1",
-        "desc": "Lament, Mourn, and Despair: Final coin heads",
-        "dlg": "Исчезни... вместе с бурей."
+      "id": "battle_s3_10710_ride_1",
+      "desc": "Lament, Mourn, and Despair: Final coin heads",
+      "dlg": "Исчезни... вместе с бурей."
     },
     {
-        "id": "battle_s3_10710_ride_4",
-        "desc": "Lament, Mourn, and Despair: Final coin tails",
-        "dlg": "Исчезни вместе с бурей!"
+      "id": "battle_s3_10710_ride_4",
+      "desc": "Lament, Mourn, and Despair: Final coin tails",
+      "dlg": "Исчезни вместе с бурей!"
     },
     {
-        "id": "battle_s3_10710_down_1",
-        "desc": "Dismount Dullahan",
-        "dlg": "Снова один... Мне самому с этим разобраться?"
+      "id": "battle_s3_10710_down_1",
+      "desc": "Dismount Dullahan",
+      "dlg": "Снова один... Мне самому с этим разобраться?"
     },
     {
-        "id": "battle_add_10710_2",
-        "desc": "Wildhunt on other IDs",
-        "dlg": "Не ждать тебе упокоения."
+      "id": "battle_add_10710_2",
+      "desc": "Wildhunt on other IDs",
+      "dlg": "Не ждать тебе упокоения."
     },
     {
-        "id": "battle_add_10710_3",
-        "desc": "Wildhunt on Wuthering Heights IDs",
-        "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока не заглушишь воплем бурю!"
+      "id": "battle_add_10710_3",
+      "desc": "Wildhunt on Wuthering Heights IDs",
+      "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока не заглушишь воплем бурю!"
     },
     {
-        "id": "battle_s3_10711_1_1",
-        "desc": "Goin' for the Bullseye",
-        "dlg": "Целюсь в яблочко."
+      "id": "battle_s3_10711_1_1",
+      "desc": "Goin' for the Bullseye",
+      "dlg": "Целюсь в яблочко."
     },
     {
-        "id": "battle_special_10711_1_1",
-        "desc": "Assist Attack I",
-        "dlg": "Есть прострел... Стреляю."
+      "id": "battle_special_10711_1_1",
+      "desc": "Assist Attack I",
+      "dlg": "Есть прострел... Стреляю."
     },
     {
-        "id": "battle_special_10711_1_2",
-        "desc": "Assist Attack II",
-        "dlg": "Хун Лу, прикрываю."
+      "id": "battle_special_10711_1_2",
+      "desc": "Assist Attack II",
+      "dlg": "Хун Лу, прикрываю."
     },
     {
-        "id": "battle_special_10711_2_1",
-        "desc": "Combo: Target Marked I",
-        "dlg": "Окей, цель в прицеле."
+      "id": "battle_special_10711_2_1",
+      "desc": "Combo: Target Marked I",
+      "dlg": "Окей, цель в прицеле."
     },
     {
-        "id": "battle_special_10711_2_1-04",
-        "desc": "Combo: Full-Stop to Life I",
-        "dlg": "Окей, цель в прицеле."
+      "id": "battle_special_10711_2_1-04",
+      "desc": "Combo: Full-Stop to Life I",
+      "dlg": "Окей, цель в прицеле."
     },
     {
-        "id": "battle_special_10711_2_2",
-        "desc": "Combo: Full-Stop to Life II",
-        "dlg": "В сторону!"
+      "id": "battle_special_10711_2_2",
+      "desc": "Combo: Full-Stop to Life II",
+      "dlg": "В сторону!"
     },
     {
-        "id": "battle_special_10711_2_3",
-        "desc": "Combo: Target Marked II",
-        "dlg": "Принял. Цель подтверждена."
+      "id": "battle_special_10711_2_3",
+      "desc": "Combo: Target Marked II",
+      "dlg": "Принял. Цель подтверждена."
     },
     {
-        "id": "battle_special_10711_3_1-01",
-        "desc": "Evade Melee Support I",
-        "dlg": "Прикрой!"
+      "id": "battle_special_10711_3_1-01",
+      "desc": "Evade Melee Support I",
+      "dlg": "Прикрой!"
     },
     {
-        "id": "battle_special_10711_3_2",
-        "desc": "Evade Melee Support II",
-        "dlg": "Твой выход, Хун Лу!"
+      "id": "battle_special_10711_3_2",
+      "desc": "Evade Melee Support II",
+      "dlg": "Твой выход, Хун Лу!"
     },
     {
-        "id": "battle_special_10711_4_1",
-        "desc": "Retreat",
-        "dlg": "Цк. Я первый отстрелялся..."
+      "id": "battle_special_10711_4_1",
+      "desc": "Retreat",
+      "dlg": "Цк. Я первый отстрелялся..."
     },
     {
-        "id": "battle_special_10711_5_1",
-        "desc": "Returning to Battle I",
-        "dlg": "Так... Перезарядка завершена."
+      "id": "battle_special_10711_5_1",
+      "desc": "Returning to Battle I",
+      "dlg": "Так... Перезарядка завершена."
     },
     {
-        "id": "battle_special_10711_5_2",
-        "desc": "Returning to Battle II",
-        "dlg": "Смена позиции завершена."
+      "id": "battle_special_10711_5_2",
+      "desc": "Returning to Battle II",
+      "dlg": "Смена позиции завершена."
     },
     {
-        "id": "battle_s3_10611_1-01",
-        "desc": "Full-Stop to Life: First coin",
-        "dlg": "Я ставлю точку..."
+      "id": "battle_s3_10611_1-01",
+      "desc": "Full-Stop to Life: First coin",
+      "dlg": "Я ставлю точку..."
     },
     {
-        "id": "battle_s3_10611_1-02-1",
-        "desc": "Full-Stop to Life: Final coin",
-        "dlg": "В твоей жизни!"
+      "id": "battle_s3_10611_1-02-1",
+      "desc": "Full-Stop to Life: Final coin",
+      "dlg": "В твоей жизни!"
     },
     {
-        "id": "battle_s3_10611_1-01-1",
-        "desc": "Full-Stop to Life: Middle coin kill",
-        "dlg": "В твоей жизни."
+      "id": "battle_s3_10611_1-01-1",
+      "desc": "Full-Stop to Life: Middle coin kill",
+      "dlg": "В твоей жизни."
     },
     {
-        "id": "battle_special_10611_1_1",
-        "desc": "Target Spotted I",
-        "dlg": "Хитклиф, давай!"
+      "id": "battle_special_10611_1_1",
+      "desc": "Target Spotted I",
+      "dlg": "Хитклиф, давай!"
     },
     {
-        "id": "battle_special_10611_1_2",
-        "desc": "Target Spotted II",
-        "dlg": "Прострел свободен."
+      "id": "battle_special_10611_1_2",
+      "desc": "Target Spotted II",
+      "dlg": "Прострел свободен."
     },
     {
-        "id": "battle_special_10611_1_3",
-        "desc": "Target Spotted III",
-        "dlg": "Теперь ты сможешь сделать выстрел, да?"
+      "id": "battle_special_10611_1_3",
+      "desc": "Target Spotted III",
+      "dlg": "Теперь ты сможешь сделать выстрел, да?"
     },
     {
-        "id": "battle_special_10611_2_1-01",
-        "desc": "Combo: Full-Stop to Life",
-        "dlg": "Добивай."
+      "id": "battle_special_10611_2_1-01",
+      "desc": "Combo: Full-Stop to Life",
+      "dlg": "Добивай."
     },
     {
-        "id": "battle_special_10611_2_2",
-        "desc": "Combo: Target Marked",
-        "dlg": "Цель на тебе."
+      "id": "battle_special_10611_2_2",
+      "desc": "Combo: Target Marked",
+      "dlg": "Цель на тебе."
     },
     {
-        "id": "battle_special_10611_3",
-        "desc": "Melee Support",
-        "dlg": "Ага, сейчас всё будет! "
+      "id": "battle_special_10611_3",
+      "desc": "Melee Support",
+      "dlg": "Ага, сейчас всё будет! "
     },
     {
-        "id": "battle_special_10611_3-01",
-        "desc": "Melee Support Fast",
-        "dlg": "Да, сейчас всё будет!"
+      "id": "battle_special_10611_3-01",
+      "desc": "Melee Support Fast",
+      "dlg": "Да, сейчас всё будет!"
     },
     {
       "id": "battle_s2_10603_1_3",
@@ -776,14 +846,14 @@
       "dlg": "Так весело!"
     },
     {
-        "id": "battle_s3_10609_1_3_4",
-        "desc": "You're the Culprit!",
-        "dlg": "Эта штучка и так может!"
+      "id": "battle_s3_10609_1_3_4",
+      "desc": "You're the Culprit!",
+      "dlg": "Эта штучка и так может!"
     },
     {
-        "id": "battle_s3_10806_1_5",
-        "desc": "Inner Gate Elbow Strike",
-        "dlg": "Теперь я в пепле."
+      "id": "battle_s3_10806_1_5",
+      "desc": "Inner Gate Elbow Strike",
+      "dlg": "Теперь я в пепле."
     },
     {
       "id": "battle_s2_10804_1",
@@ -796,44 +866,44 @@
       "dlg": " Цель нейтрализована."
     },
     {
-        "id": "battle_s3_10807_1_2",
-        "desc": "Risky Judgement",
-        "dlg": "Я тебя сокрушу!"
+      "id": "battle_s3_10807_1_2",
+      "desc": "Risky Judgement",
+      "dlg": "Я тебя сокрушу!"
     },
     {
-        "id": "battle_s3_10504_1_2",
-        "desc": "Annihilate Heretics",
-        "dlg": "Молчать."
+      "id": "battle_s3_10504_1_2",
+      "desc": "Annihilate Heretics",
+      "dlg": "Молчать."
     },
     {
-        "id": "battle_s3_10508_1_1-01",
-        "desc": "Yield My Flesh",
-        "dlg": "Отдам свою плоть!"
+      "id": "battle_s3_10508_1_1-01",
+      "desc": "Yield My Flesh",
+      "dlg": "Отдам свою плоть!"
     },
     {
-        "id": "battle_s3_10508_1_1-02",
-        "desc": "To Claim Their Bones: First coin",
-        "dlg": "Отдам свою плоть..."
+      "id": "battle_s3_10508_1_1-02",
+      "desc": "To Claim Their Bones: First coin",
+      "dlg": "Отдам свою плоть..."
     },
     {
-        "id": "battle_s3_10508_1_4",
-        "desc": "To Claim Their Bones: Final coin",
-        "dlg": "Чтобы отнять их кости!.."
+      "id": "battle_s3_10508_1_4",
+      "desc": "To Claim Their Bones: Final coin",
+      "dlg": "Чтобы отнять их кости!.."
     },
     {
-        "id": "battle_s3_11111_1_1-01",
-        "desc": "I'll Make You a New Dress!",
-        "dlg": "Только дождитесь."
+      "id": "battle_s3_11111_1_1-01",
+      "desc": "I'll Make You a New Dress!",
+      "dlg": "Только дождитесь."
     },
     {
-        "id": "battle_s3_11108_1_2-1",
-        "desc": "As Mistress Commands: First coin",
-        "dlg": "Я вымету... "
+      "id": "battle_s3_11108_1_2-1",
+      "desc": "As Mistress Commands: First coin",
+      "dlg": "Я вымету... "
     },
     {
-        "id": "battle_s3_11108_1_2-01",
-        "desc": "As Mistress Commands: Final coin",
-        "dlg": "Всю грязь."
+      "id": "battle_s3_11108_1_2-01",
+      "desc": "As Mistress Commands: Final coin",
+      "dlg": "Всю грязь."
     },
     {
       "id": "battle_s2_11103_1",
@@ -841,29 +911,29 @@
       "dlg": "Вперёд!"
     },
     {
-        "id": "battle_s3_11107_1_2",
-        "desc": "Magic Bullet Fire",
-        "dlg": "Выстрел."
+      "id": "battle_s3_11107_1_2",
+      "desc": "Magic Bullet Fire",
+      "dlg": "Выстрел."
     },
     {
-        "id": "battle_s3_11107_1_2-01",
-        "desc": "Magic Bullet Fire (4+ Bullets)",
-        "dlg": "Выстрел!"
+      "id": "battle_s3_11107_1_2-01",
+      "desc": "Magic Bullet Fire (4+ Bullets)",
+      "dlg": "Выстрел!"
     },
     {
-        "id": "battle_s2_11107_1_1-01", 
-        "desc": "Detonate Magic Bullet",
-        "dlg": "Ещё одна пуля заряжена."
+      "id": "battle_s2_11107_1_1-01",
+      "desc": "Detonate Magic Bullet",
+      "dlg": "Ещё одна пуля заряжена."
     },
     {
-        "id": "battle_s3_11110_1_4",
-        "desc": "Rip Dimension",
-        "dlg": "Разрываю пространство!"
+      "id": "battle_s3_11110_1_4",
+      "desc": "Rip Dimension",
+      "dlg": "Разрываю пространство!"
     },
     {
-        "id": "battle_s3_11104_1",
-        "desc": "Exploit the Gap",
-        "dlg": "В точности с прогнозом."
+      "id": "battle_s3_11104_1",
+      "desc": "Exploit the Gap",
+      "dlg": "В точности с прогнозом."
     },
     {
       "id": "battle_s3_10911_1_6",
@@ -871,9 +941,9 @@
       "dlg": "Перейдём к финалу."
     },
     {
-        "id": "battle_s3_10903_1_2",
-        "desc": "Suppress",
-        "dlg": "Прорываюсь!"
+      "id": "battle_s3_10903_1_2",
+      "desc": "Suppress",
+      "dlg": "Прорываюсь!"
     },
     {
       "id": "battle_s3_10905_1_2",
@@ -881,9 +951,9 @@
       "dlg": "Получи-ка!.."
     },
     {
-        "id": "battle_s3_10908_1_2",
-        "desc": "Pinpoint Blitz",
-        "dlg": "Даже не поймёшь, что тебя уже пронзили?"
+      "id": "battle_s3_10908_1_2",
+      "desc": "Pinpoint Blitz",
+      "dlg": "Даже не поймёшь, что тебя уже пронзили?"
     },
     {
       "id": "battle_s3_10404_1_1",
@@ -916,14 +986,14 @@
       "dlg": "Порублю на части."
     },
     {
-        "id": "battle_s3_10410_1_txt",
-        "desc": "Skullbuster",
-        "dlg": "Ешь сколько влезет!"
+      "id": "battle_s3_10410_1_txt",
+      "desc": "Skullbuster",
+      "dlg": "Ешь сколько влезет!"
     },
     {
-        "id": "battle_s3_10410_1_txt-01",
-        "desc": "Serious Skullbuster",
-        "dlg": "Время пришло! Череполицый, паукоголовая!"
+      "id": "battle_s3_10410_1_txt-01",
+      "desc": "Serious Skullbuster",
+      "dlg": "Время пришло! Череполицый, паукоголовая!"
     },
     {
       "id": "battle_s2_11004_1_1",
@@ -991,29 +1061,29 @@
       "dlg": "Опалит тебя."
     },
     {
-        "id": "battle_s3_10110_1_txt",
-        "desc": "Goodbye Now, A Sorrow In You",
-        "dlg": "Покойся с миром."
+      "id": "battle_s3_10110_1_txt",
+      "desc": "Goodbye Now, A Sorrow In You",
+      "dlg": "Покойся с миром."
     },
     {
-        "id": "battle_s3_10112_1_1-03",
-        "desc": "Flow of The Sword: First coin",
-        "dlg": "Под конец..."
+      "id": "battle_s3_10112_1_1-03",
+      "desc": "Flow of The Sword: First coin",
+      "dlg": "Под конец..."
     },
     {
-        "id": "battle_s3_10112_1_3-02",
-        "desc": "Flow of The Sword: Final coin",
-        "dlg": "Всё сгорит дотла!.."
+      "id": "battle_s3_10112_1_3-02",
+      "desc": "Flow of The Sword: Final coin",
+      "dlg": "Всё сгорит дотла!.."
     },
     {
-        "id": "battle_s3_10109_1_4-7",
-        "desc": "Hematic Coloring",
-        "dlg": "Проходной результат."
+      "id": "battle_s3_10109_1_4-7",
+      "desc": "Hematic Coloring",
+      "dlg": "Проходной результат."
     },
     {
-        "id": "battle_s3_10106_1_3",
-        "desc": "Dimensional Rift: Kill on final coin",
-        "dlg": "В мгновение ока."
+      "id": "battle_s3_10106_1_3",
+      "desc": "Dimensional Rift: Kill on final coin",
+      "dlg": "В мгновение ока."
     }
   ]
 }

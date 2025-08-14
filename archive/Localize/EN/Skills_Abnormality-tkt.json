@@ -65,7 +65,7 @@
         {
           "level": 1,
           "name": "Extraction",
-          "desc": "When in [TimeAcceleration] state, Coin Power +1\n[DefeatDuel] At 75%- HP, consume 50 [LimitedTime] and gain Clash Power +2 (once per turn)",
+          "desc": "When in [TimeAcceleration] state, Coin Power +1\n[WhenUse] At 75%- HP, consume 50 [LimitedTime] and gain Clash Power +2 (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -228,7 +228,7 @@
         {
           "level": 1,
           "name": "Extraction",
-          "desc": "When in [TimeAcceleration] state, Coin Power +1\n[DefeatDuel] At 75%- HP, consume 50 [OwnTime] and gain Clash Power +2 (once per turn)",
+          "desc": "When in [TimeAcceleration] state, Coin Power +1\n[WhenUse] At 75%- HP, consume 50 [OwnTime] and gain Clash Power +2 (once per turn)",
           "coinlist": [
             {
               "coindescs": [
