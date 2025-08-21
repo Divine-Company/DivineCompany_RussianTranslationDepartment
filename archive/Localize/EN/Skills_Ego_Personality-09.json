@@ -428,10 +428,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -507,17 +507,17 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -535,7 +535,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -603,10 +603,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 8 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this hits the main target, inflict (1 + (Wrath Reson. / 3)) [BirdCage] next turn on main target (max 3; rounded down)"
+                  "desc": "[OnSucceedAttack] If this hits the main target, inflict (1 + (Wrath Reson. / 3)) [BirdCage] next turn on main target (max 3; rounded down)<style=\"highlight\"></style>"
                 }
               ]
             },

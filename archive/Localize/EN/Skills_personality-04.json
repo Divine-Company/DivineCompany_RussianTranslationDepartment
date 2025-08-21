@@ -539,7 +539,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1219,14 +1219,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gain 3 [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Laceration]</style>"
@@ -1250,10 +1250,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1297,17 +1297,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1328,17 +1328,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1398,10 +1398,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 7 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gain 7 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 7 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gain 7 [PenanceFirst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
@@ -1421,7 +1421,7 @@
                   "desc": "[OnSucceedAttack] Heal self and 1 ally with the lowest HP percentage by ([PenanceFirst]/<style=\"highlight\">2</style>)% of each unit's max HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] - 10) SP (min 0)"
+                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] - 10) SP (min 0)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1518,7 +1518,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to ([RedEyeFirst] consumed - 15) on target (max 5)"
+                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to ([RedEyeFirst] consumed - 15) on target (max 5)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1535,7 +1535,7 @@
                   "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] consumed - <style=\"highlight\">5</style>) SP\n- Heal 1 additional ally for every 2 highest Reson. (max 2 more allies)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] and 2 [Reduction] next turn (once per turn)"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] and 2 [Reduction] next turn (once per turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1575,14 +1575,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)</style>"
@@ -1599,17 +1599,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1649,7 +1649,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count</style>"
@@ -1673,10 +1673,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] At 10+ Speed, inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1742,30 +1742,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]"
+                  "desc": "[OnSucceedAttack] Inflict [BurstAgility]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "At 10+ Speed, deal +30% damage"
+                  "desc": "At 10+ Speed, deal +30% damage<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)"
+                  "desc": "[OnSucceedAttack] At 10+ Speed, Reuse Coin once (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflict [BurstAgility]</style>"
@@ -1801,7 +1801,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             }

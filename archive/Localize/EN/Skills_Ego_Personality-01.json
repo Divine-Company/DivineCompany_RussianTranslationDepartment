@@ -153,18 +153,18 @@
           "level": 3,
           "name": "Fell Bullet",
           "abName": "Der Fluchschütze",
-          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "Prioritizes targets with the least HP (prioritizes allies)\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 7)\n[EndSkill] Lose every [BoseProjektil]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the main target."
+                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "If the main target is an ally, deal <style=\"highlight\">+10%</style> damage for every [BoseProjektil] (max <style=\"highlight\">70%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies"
+                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 Affinity</style>"
@@ -177,13 +177,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
+                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">+5%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">35%</style>)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -198,13 +198,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the main target."
+                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "If the main target is an ally, deal <style=\"highlight\">+15%</style> damage for every [BoseProjektil] (max <style=\"highlight\">105%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies"
+                  "desc": "[AllyKill] Apply 3 [Breath] to self and 2 random allies<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed ally's Skill 1 and 2 Affinities</style>"
@@ -217,7 +217,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
+                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">+9%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">63%</style>)"
@@ -289,13 +289,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the main target."
+                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "If the main target is an ally, deal <style=\"highlight\">+12%</style> damage for every [BoseProjektil] (max <style=\"highlight\">84%</style>)"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)"
+                  "desc": "If the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[AllyKill] Apply 3 [Breath] to self and <style=\"highlight\">3</style> random allies"
@@ -314,7 +314,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
+                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">+3%</style> Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">21%</style>)"
@@ -335,13 +335,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the main target."
+                  "desc": "This Coin deals damage only against the main target.<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +15% damage for every [BoseProjektil] (max 105%)"
+                  "desc": "If the main target is an ally, deal +15% damage for every [BoseProjektil] (max 105%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "If the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)"
+                  "desc": "If the main target is an ally, deal +2% damage for every [Breath] on self (max 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">+30% Damage on Critical Hit</style>"
@@ -353,7 +353,7 @@
                   "desc": "[AllyKill] The next Coin deals <style=\"highlight\">+7%</style> damage for every [BoseProjektil] (max <style=\"highlight\">49%</style>)"
                 },
                 {
-                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities"
+                  "desc": "[AllyKill] +1 E.G.O resource for the killed ally's Skill 1, 2, and 3 Affinities<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[AllyKillFail] Gain <style=\"highlight\">3</style> [Breath]"
@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage"
+                  "desc": "This Coin deals damage only against the sub-targets\n- If the first Coin failed to kill the ally, 1 random sub-target takes damage<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">+4% Damage on Critical Hit for every [BoseProjektil] (max 28%)</style>"
