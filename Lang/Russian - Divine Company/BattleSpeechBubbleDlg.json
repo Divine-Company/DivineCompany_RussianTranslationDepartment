@@ -1084,6 +1084,86 @@
       "id": "battle_s3_10106_1_3",
       "desc": "Dimensional Rift: Kill on final coin",
       "dlg": "В мгновение ока."
+    },
+    {
+        "id": "battle_s3_10512_1_2-02",
+        "desc": "Tanglecleaver [快刀亂麻]: Final coin",
+        "dlg": "Ускорение всеми патронами."
+    },
+    {
+        "id": "battle_s3_10512_1_2-03",
+        "desc": "Tanglecleaver [快刀亂麻]: Final coin",
+        "dlg": "Полный залп!"
+    },
+    {
+        "id": "battle_s4_10512_2",
+        "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: First coin",
+        "dlg": "А теперь я применю всю свою мощь."
+    },
+    {
+        "id": "battle_s3_10512_1_2-01",
+        "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: Final coin",
+        "dlg": "Ускорение всеми патронами!"
+    },
+    {
+        "id": "battle_s4_10512_1",
+        "desc": "Chachihu [揷翅虎] Passive",
+        "dlg": "Похоже ты достоин стоимости моих патронов."
+    },
+    {
+        "id": "battle_s3_10812_1_001",
+        "desc": "Crimson Spring: Before coin",
+        "dlg": "Мимолётная жизнь..."
+    },
+    {
+        "id": "battle_s3_10812_1_003",
+        "desc": "Crimson Spring: After coin",
+        "dlg": "... гасится так же легко, как и пламя."
+    },
+    {
+          "id": "battle_s2_10913_1_1",
+          "desc": "With the Power of Justice (Consumed Deep Tears)",
+          "dlg": "В целях защиты..."
+    },
+    {
+          "id": "battle_s2_10913_1_1-01",
+          "desc": "With the Tear-sharpened Sword (Consumed Deep Tears)",
+          "dlg": "В целях защиты..."
+    },
+    {
+          "id": "battle_s3_10913_1_1",
+          "desc": "Arcana Pierce and Arcana: Tear and Pierce: First coin",
+          "dlg": "Пока..."
+    },
+    {
+          "id": "battle_s3_10913_1_3",
+          "desc": "Arcana Pierce and Arcana: Tear and Pierce: Final coin",
+          "dlg": "Не останется пустота."
+    },
+    {
+      "id": "battle_s3_10907_1_1",
+      "desc": "Excruciating Study",
+      "dlg": "Так понятнее?"
+    },
+    {
+      "id": "battle_s3_10510_1",
+      "desc": "Scorch Knowledge: First coin",
+      "dlg": "Когда сталкиваешься со знанием..."
+    },
+    {
+      "id": "battle_s3_10510_1-01",
+      "desc": "Scorch Knowledge: Final coin",
+      "dlg": "Будь сдержаннее!"
+    },
+    {
+      "id": "battle_s3_10608_1_1-01",
+      "desc": "Cyclical Knowledge: First coin",
+      "dlg": "Сейчас же!"
+    },
+    {
+      "id": "battle_s3_10608_1_3",
+      "desc": "Cyclical Knowledge: Final coin",
+      "dlg": "Я отворю его для вас!.."
     }
   ]
 }

@@ -119,6 +119,31 @@
         "id": "battle_defeat_10512_1",
         "desc": "Defeat Wail",
         "dlg": "Let me be straightforward. Is there any means by which I may survive this encounter? Or, if a monetary compensation would suffice, then provide a number.\n... If not, then... hah. It seems that I must lose my head."
+      },
+      {
+        "id": "battle_s3_10512_1_2-02",
+        "desc": "Tanglecleaver [快刀亂麻]: Final coin",
+        "dlg": "Ускорение всеми патронами."
+      },
+      {
+        "id": "battle_s3_10512_1_2-03",
+        "desc": "Tanglecleaver [快刀亂麻]: Final coin",
+        "dlg": "Полный залп!"
+      },
+      {
+        "id": "battle_s4_10512_2",
+        "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: First coin",
+        "dlg": "А теперь я применю всю свою мощь."
+      },
+      {
+        "id": "battle_s3_10512_1_2-01",
+        "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: Final coin",
+        "dlg": "Ускорение всеми патронами!"
+      },
+      {
+        "id": "battle_s4_10512_1",
+        "desc": "Chachihu [揷翅虎] Passive",
+        "dlg": "Похоже ты достоин стоимости моих патронов."
       }
     ]
 }

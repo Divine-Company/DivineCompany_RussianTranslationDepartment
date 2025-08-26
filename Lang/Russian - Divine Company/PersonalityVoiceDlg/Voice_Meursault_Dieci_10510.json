@@ -119,6 +119,16 @@
       "id": "battle_defeat_10510_1",
       "desc": "Defeat Wail",
       "dlg": "We will gain new knowledge as a consequence of this defeat. Hone it to forge our next victory."
+    },
+    {
+      "id": "battle_s3_10510_1",
+      "desc": "Scorch Knowledge: First coin",
+      "dlg": "Когда сталкиваешься со знанием..."
+    },
+    {
+      "id": "battle_s3_10510_1-01",
+      "desc": "Scorch Knowledge: Final coin",
+      "dlg": "Будь сдержаннее!"
     }
   ]
 }

@@ -119,6 +119,16 @@
         "id": "battle_defeat_10812_1",
         "desc": "Defeat Wail",
         "dlg": "... My clan... destroyed...? They didn't... even stand a chance... Haah, it's... ngh, it's nothing. This is all my fault. I... should've been better prepared."
+      },
+      {
+        "id": "battle_s3_10812_1_001",
+        "desc": "Crimson Spring: Before coin",
+        "dlg": "Мимолётная жизнь..."
+      },
+      {
+        "id": "battle_s3_10812_1_003",
+        "desc": "Crimson Spring: After coin",
+        "dlg": "... гасится так же легко, как и пламя."
       }
     ]
 }
