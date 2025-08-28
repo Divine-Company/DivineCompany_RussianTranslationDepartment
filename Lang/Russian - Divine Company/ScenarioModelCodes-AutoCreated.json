@@ -2093,7 +2093,7 @@
     {
       "id": "어린가환",
       "name": "Jia Huan",
-      "nickName": "Jia Family"
+      "nickName": "Семья Цзя"
     },
     {
       "id": "임대옥",
@@ -2162,7 +2162,7 @@
     },
     {
       "id": "어린가시춘",
-      "name": "Jia Xichun",
+      "name": "Цзя Сичунь",
       "nickName": "Семья Цзя"
     },
     {
@@ -2257,7 +2257,7 @@
     },
     {
       "id": "반시춘",
-      "name": "Jia Xichun",
+      "name": "Цзя Сичунь",
       "nickName": "Семья Цзя"
     },
     {
@@ -2272,8 +2272,8 @@
     },
     {
       "id": "과거가치우",
-      "name": "Jia Qiu",
-      "nickName": "Jia Family"
+      "name": "Цзя Цю",
+      "nickName": "Семья Цзя"
     },
     {
       "id": "공우진",
@@ -2368,17 +2368,17 @@
     {
       "id": "어린가환다침",
       "name": "Jia Huan",
-      "nickName": "Jia Family"
+      "nickName": "Семья Цзя"
     },
     {
       "id": "어린가환다침2",
       "name": "Jia Huan",
-      "nickName": "Jia Family"
+      "nickName": "Семья Цзя"
     },
     {
       "id": "어린가환죽음",
       "name": "Jia Huan",
-      "nickName": "Jia Family"
+      "nickName": "Семья Цзя"
     },
     {
       "id": "H사직원",
@@ -2417,23 +2417,23 @@
     },
     {
       "id": "다친가시춘",
-      "name": "Jia Xichun",
+      "name": "Цзя Сичунь",
       "nickName": "???"
     },
     {
       "id": "어린홍루과거홍루",
-      "name": "Hong Lu",
-      "nickName": "Sinner #6"
+      "name": "Хун Лу",
+      "nickName": "Грешник #6"
     },
     {
       "id": "어린홍루홍루",
-      "name": "Hong Lu",
-      "nickName": "Sinner #6"
+      "name": "Хун Лу",
+      "nickName": "Грешник #6"
     },
     {
       "id": "다친홍루",
-      "name": "Hong Lu",
-      "nickName": "Sinner #6"
+      "name": "Хун Лу",
+      "nickName": "Грешник #6"
     },
     {
       "id": "사씨사병1",
@@ -2562,7 +2562,7 @@
     },
     {
       "id": "더어린홍루",
-      "name": "Jia Baoyu",
+      "name": "Цзя Баоюй",
       "nickName": "Gem of the Jia Family"
     },
     {
@@ -2577,7 +2577,7 @@
     },
     {
       "id": "다친가시춘2",
-      "name": "Jia Xichun",
+      "name": "Цзя Сичунь",
       "nickName": "???"
     },
     {
@@ -2609,6 +2609,136 @@
       "id": "티페리트",
       "name": "Tiphereth",
       "nickName": ""
+    },
+    {
+      "id": "퀴즈시춘",
+      "name": "Цзя Сичунь",
+      "nickName": "The Hierarch of Hongyuan"
+    },
+    {
+      "id": "퀴즈싱클",
+      "name": "Синклер",
+      "nickName": "Грешник #11"
+    },
+    {
+      "id": "뿅망히스",
+      "name": "Хитклиф",
+      "nickName": "Грешник #7"
+    },
+    {
+      "id": "폭주웨이",
+      "name": "Вэй",
+      "nickName": "???"
+    },
+    {
+      "id": "왕청산2",
+      "name": "Wang Qingshan",
+      "nickName": "Wang Family"
+    },
+    {
+      "id": "자로사복",
+      "name": "Zilu",
+      "nickName": "The Pinky"
+    },
+    {
+      "id": "불량시춘",
+      "name": "Цзя Сичунь",
+      "nickName": "The Hierarch of Hongyuan"
+    },
+    {
+      "id": "이상그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "파우스트그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "돈키호테그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "료슈그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "뫼르소그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "홍루그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "히스클리프그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "이스마엘그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "로쟈그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "싱클레어그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "오티스그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "그레고르그림자",
+      "name": "Anonymous",
+      "nickName": ""
+    },
+    {
+      "id": "흑수사",
+      "name": "Heishou Pack - Si Branch",
+      "nickName": "???"
+    },
+    {
+      "id": "료슈3",
+      "name": "Рёсю",
+      "nickName": "Грешник #4"
+    },
+    {
+      "id": "왕씨아이",
+      "name": "Wang Family Child",
+      "nickName": "Wang Family"
+    },
+    {
+      "id": "쩔쩔이사",
+      "name": "",
+      "nickName": ""
+    },
+    {
+      "id": "굽신이사",
+      "name": "",
+      "nickName": ""
+    },
+    {
+      "id": "웨이다침2",
+      "name": "Вэй",
+      "nickName": "???"
+    },
+    {
+      "id": "가주시춘",
+      "name": "Цзя Сичунь",
+      "nickName": "The Hierarch of Hongyuan"
     }
   ]
 }
