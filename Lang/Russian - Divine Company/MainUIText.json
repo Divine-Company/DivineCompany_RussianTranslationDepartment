@@ -458,7 +458,7 @@
     },
     {
       "id": "mainui_remain_days",
-      "content": "До окончания: {0} д."
+      "content": "Через {0} д."
     },
     {
       "id": "mainui_mail_remains_count",
@@ -466,7 +466,7 @@
     },
     {
       "id": "mainui_mail_warning",
-      "content": "※ Вмещает до 100 писем; истекшие письма будут <color=#990000>удалены</color>."
+      "content": "※ Вмещает до 100 писем; истёкшие письма будут <color=#990000>удалены</color>."
     },
     {
       "id": "mainui_mail_warning2",
@@ -1074,7 +1074,7 @@
     },
     {
       "id": "remain_days_label",
-      "content": "До"
+      "content": "Истекает"
     },
     {
       "id": "extract_again",
