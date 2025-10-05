@@ -2,307 +2,307 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Calw - Town Square",
-      "content": "Prosthetic bodies pile up like a landfill in a corner of the town."
+      "place": "Кальв - Деревенская площадь",
+      "content": "На краю деревни лежала целая гора из людей с протезами."
     },
     {
       "id": 1,
-      "content": "I could see that some of them were still conscious, letting out pained moans."
+      "content": "Некоторые из них всё ещё были в сознании; от них доносились мучительные стоны."
     },
     {
       "id": 2,
-      "content": "The Inquisitors paid no heed; they strenuously jammed nails through each of their victims’ chests, over and over, executing their “pure” intent."
+      "content": "Инквизиторов это не волновало. Они методично вбивали гвозди в грудь каждой своей жертвы, снова и снова, приводя в исполнение обряд «очищения»."
     },
     {
       "id": 3,
       "model": "N사심문관1",
-      "teller": "An Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "I’ve surely pierced their heart, yet still a pulse remains in their body."
+      "teller": "Инквизитор",
+      "title": "Нагель и Молот",
+      "content": "Я точно пронзил его сердце, но почему-то оно не перестало биться."
     },
     {
       "id": 4,
       "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "It must be patched with steel. Even the core of their humanity has been tainted by heresy."
+      "teller": "Инквизитор",
+      "title": "Нагель и Молот",
+      "content": "Скорее всего, оно было укреплено сталью. В этих еретиках не осталось ничего человеческого."
     },
     {
       "id": 5,
       "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "How filthy. A disgrace to flesh and bone."
+      "teller": "Инквизитор",
+      "title": "Нагель и Молот",
+      "content": "Отвратительно. Они осквернили и плоть, и кровь."
     },
     {
       "id": 6,
-      "content": "The Inquisitor began carefully pouring a bottle of liquid over the prosthetic person in what looked like a solemn ritual."
+      "content": "Инквизитор осторожно поливал бездыханное тело некой жидкостью из бутылки, словно исполняя некий ритуал."
     },
     {
       "id": 7,
-      "content": "Judging from the pungent smell, it was most certainly oil."
+      "content": "Судя по кислому запаху, это определённо было масло."
     },
     {
       "id": 8,
       "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Imbibe the oil of humanity, ye heretical soma."
+      "teller": "Инквизитор",
+      "title": "Нагель и Молот",
+      "content": "Впитай же масло человечества, о еретическое создание."
     },
     {
       "id": 9,
       "model": "N사심문관2",
-      "teller": "Fellow Inquisitor",
-      "title": "Nagel und Hammer",
-      "content": "Those who cannot return to the earth, find solace in scattering to smoke."
+      "teller": "Инквизитор",
+      "title": "Нагель и Молот",
+      "content": "Те, что не способны отдаться земле, могут найти покой лишь в рассеивающемся дыме."
     },
     {
       "id": 10,
-      "content": "A lit match was then thrown on the pile, letting rise a huge flame."
+      "content": "Затем они зажгли спичку и бросили её в пропитанное маслом тело, предавая своих жертв огню."
     },
     {
       "id": 11,
-      "content": "With the sounds of sparks flying about, the air is soon filled with an acrid smell."
+      "content": "И вскоре за возникшем пламенем в воздухе разразился едкий запах."
     },
     {
       "id": 12,
-      "content": "It’s not quite like the smell of burning flesh."
+      "content": "Он не совсем похож на трупный."
     },
     {
       "id": 13,
-      "content": "The spreading fire finally brings the crackling glimmer in those prosthetic bodies to permanent darkness."
+      "content": "И вот, бушующий огонь полностью поглощает искрящиеся тела с протезами, лишая их последних проблесков жизни."
     },
     {
       "id": 14,
       "model": "이스마엘",
-      "content": "If this hellscape is their idea of purification, I’d rather stay unclean."
+      "content": "Если таково их очищение, то я лучше навсегда останусь грешной."
     },
     {
       "id": 15,
       "model": "뫼르소",
-      "content": "Nagel und Hammer has always been devoted to scrutinizing the idea of humanity."
+      "content": "С самого начала своего существования Корпорация «Нагель и Молот» занималась скрупулёзным изучением понятия человечности."
     },
     {
       "id": 16,
       "model": "뫼르소",
-      "content": "Some criticized prosthetic use, as they believed that pain is a necessary component of the human experience. However, it never escalated to the extent of direct action that we are witnessing now."
+      "content": "Некоторые её члены осуждают использование протезов, поскольку верят, что боль — это неотъемлемая часть человеческой жизни. Однако ожесточённые меры, которые мы с вами наблюдаем, являются для неё беспрецедентным случаем."
     },
     {
       "id": 17,
       "model": "그레고르",
-      "content": "I’ve been meaning to ask… How do you know so much about N Corp?"
+      "content": "Я всё хотел спросить… Откуда ты столько о ней знаешь?"
     },
     {
       "id": 18,
       "model": "뫼르소",
-      "content": "…I was once employed by N Corp."
+      "content": "…Я работал в Корпорации N."
     },
     {
       "id": 19,
       "model": "그레고르",
-      "content": "Wha…? You used to work with those people?"
+      "content": "А?.. Так они, получается, твои бывшие коллеги?"
     },
     {
       "id": 20,
       "model": "뫼르소",
-      "content": "I have never worked with those specific individuals, but in terms of affiliation, you can say that I did."
+      "content": "Я никогда не работал с этими конкретными людьми, но если речь о принадлежности к одной организации, то да."
     },
     {
       "id": 21,
-      "content": "Come to think of it, this might be the first time I’ve heard Meursault actively talk about himself."
+      "content": "Если подумать, то это первый раз, когда Мерсо что-то рассказывает о себе."
     },
     {
       "id": 22,
-      "content": "He would rarely recount anything related to him. Perhaps he felt it wasn’t necessary to speak at all."
+      "content": "Он крайне редко делился информацией. Вероятно, он просто вообще не видел повода что-то говорить."
     },
     {
       "id": 23,
       "model": "그레고르",
-      "content": "Why didn’t you tell us that earlier? You carry one of those freaky weapons then?"
+      "content": "Что же ты раньше молчал? И ты тоже носишь с собой их странное оружие?"
     },
     {
       "id": 24,
       "model": "뫼르소",
-      "content": "Am I obligated to elaborate?"
+      "content": "Я обязан отвечать?"
     },
     {
       "id": 25,
       "model": "히스클리프",
-      "content": "The hell… Why don’t you explain what makes you different from those nutters, then?"
+      "content": "Ничего се… Тебе как минимум не помешает пояснить, чем ты лучше этих больных ублюдков."
     },
     {
       "id": 26,
       "model": "히스클리프",
-      "content": "Listen, mate… As much as I like to call our daft manager clockface, I don’t think they deserve by any means to be on the stake or chopping block."
+      "content": "Мужик, слушай… Мне хоть и нравится звать нашего бестолкового директора ходячими часами, но смерти уж точно не желаю."
     },
     {
       "id": 27,
       "model": "히스클리프",
-      "content": "Those buggers talk big about purifying and all that, but all I see are a bunch of loonies who just needed an excuse to kill, eh?"
+      "content": "Те придурки твердят об очищении и прочей херне, но для меня они не более чем кучка поехавших крышей фанатиков, которым лишь бы повод кого-то убить."
     },
     {
       "id": 28,
       "model": "히스클리프",
-      "content": "Speak up, then. Are you like those screwloose bucketheads?"
+      "content": "Так что скажешь? У тебя как и у них чердак протекает?"
     },
     {
       "id": 29,
       "model": "뫼르소",
-      "content": "There was a time when I thought about such things."
+      "content": "В прошлом я задумывался о подобных вещах."
     },
     {
       "id": 30,
       "model": "뫼르소",
-      "content": "Though I did not come to a conclusion."
+      "content": "Однако к выводу так и не пришёл."
     },
     {
       "id": 31,
       "model": "히스클리프",
-      "content": "I want that damn conclusion now! Are you gonna up and butcher all the townsfolk if your manager just says so?"
+      "content": "Я хочу услышать этот чёртов вывод сейчас! Если директор отдаст тебе приказ вырезать целую деревню, ты так и поступишь?"
     },
     {
       "id": 32,
       "model": "뫼르소",
-      "content": "Must I give an answer? That does not aid us in handling our work."
+      "content": "Обязан ли я дать ответ? Это никак не поможет выполнению работы."
     },
     {
       "id": 33,
       "model": "뫼르소",
-      "content": "An employee must follow their employer’s orders. The terms Vergilius presented state as much."
+      "content": "Сотрудник должен следовать указаниям своего начальства. Эти условия были ясно изложены Вергилием."
     },
     {
       "id": 34,
       "model": "뫼르소",
-      "content": "If the manager orders me to do such a thing, I will do it. I may provide my input if I am told that it is necessary, but I do not have a habit of rambling my thoughts unprompted."
+      "content": "Если таков будет приказ директора — я его выполню. Я высказываю свою точку зрения лишь если от меня это требуется, в противном случае я предпочитаю держать свои мысли при себе."
     },
     {
       "id": 35,
       "model": "히스클리프",
-      "content": "…Pardon? Are you ‘round the twist? Do you got a chunk of metal for your brains like the folks here?"
+      "content": "…Чё? У тя фляга свистит? Тоже вместо мозгов банка куча хлама, как у жестянок вокруг?"
     },
     {
       "id": 36,
       "model": "뫼르소",
-      "content": "I am 16% proteins, 60% water, 7% minerals, and so forth; I am clearly different in terms of composition."
+      "content": "Во мне 16% белков, 60% воды, 7% минеральных веществ и так далее. Состав моего тела очевидно отличается."
     },
     {
       "id": 37,
       "model": "뫼르소",
-      "content": "Moreover, unnecessary heavy metals do not comprise any portion of my body."
+      "content": "Более того, в составе моего организма полностью отсутствуют бесполезные тяжёлые металлы."
     },
     {
       "id": 38,
       "model": "뫼르소",
-      "content": "That is another difference."
+      "content": "Это ещё одно отличие."
     },
     {
       "id": 39,
-      "content": "Heathcliff’s face contorted with frustration."
+      "content": "Хитклиф скривил лицо от раздражения."
     },
     {
       "id": 40,
-      "content": "Meursault was already an enigma, and he only felt ever more distant after this conversation."
+      "content": "Мерсо и без того был загадочным, но после этого разговора он будто бы стал ещё более непостижимым."
     },
     {
       "id": 41,
       "model": "홍루",
-      "content": "Now that you mention it, there’s something I’ve been wondering."
+      "content": "Ваш разговор пробудил во мне старые размышления."
     },
     {
       "id": 42,
       "model": "홍루",
-      "content": "I’ve been thinking on whether Manager Dante should be seen as a “human”."
+      "content": "Я всё думаю, можно ли считать директора Данте «человеком»?"
     },
     {
       "id": 43,
       "model": "오티스",
-      "content": "What do you mean?"
+      "content": "Что ты имеешь в виду?"
     },
     {
       "id": 44,
       "model": "홍루",
-      "content": "What if… when dear Dante is speaking… it’s actually the clock and not the person we know as “Dante” behind those words?"
+      "content": "Что, если… когда директор говорит… то на самом деле мы слышим часы, а не человека по имени «Данте»?"
     },
     {
       "id": 45,
       "model": "히스클리프",
-      "content": "Eh? You trying to tell me we were being led by an actual clock?"
+      "content": "А? Хочешь сказать, что нам реально часы отдают приказы?"
     },
     {
       "id": 46,
       "model": "이스마엘",
-      "content": "Good grief… You’re reaching uncharted depths of idiocy with your theories. I can’t even be bothered to refute them."
+      "content": "Ну и дела… Ваши теории достигли немыслимых глубин идиотизма. Я даже не вижу смысла это опровергать."
     },
     {
       "id": 47,
       "model": "홍루",
-      "content": "Don’t misunderstand, I do like our Dante with their clock-headedness."
+      "content": "Не поймите неправильно, мне нравится Данте с часами вместо головы."
     },
     {
       "id": 48,
       "model": "로쟈",
-      "content": "Honestly, same. Why don’t you just give up finding your old head and stick with that one?"
+      "content": "Тут согласна. Зачем тебе вообще старая голова, если с этой всё в порядке?"
     },
     {
       "id": 49,
       "model": "로쟈",
-      "content": "I know it’s prob not gonna be the case, but what if Dante’s real head turned out to be super evil or something?"
+      "content": "Вряд ли, конечно, так будет, но только представьте себе, а что если оригинальная голова Данте полна злодейский мыслей или ещё чего хуже?"
     },
     {
       "id": 50,
       "model": "그레고르",
-      "content": "Well, there’s only one of us who’d know about our manager bud’s past…"
+      "content": "Ну, только один из нас знает о прошлом товарища директора…"
     },
     {
       "id": 51,
-      "content": "Gregor’s eyes naturally fell on Faust."
+      "content": "Грегор перевёл взгляд на Фауст."
     },
     {
       "id": 52,
       "model": "파우스트",
-      "content": "…That’s confidential information. Its access is restricted to the highest security level."
+      "content": "…Это конфиденциальная информация. Ей присвоен наивысший уровень секретности."
     },
     {
       "id": 53,
       "model": "단테",
-      "content": "<…And I get the feeling I won’t be able to read it for myself.>"
+      "content": "<…И что-то мне подсказывает, что допуска к ней не будет даже у меня.>"
     },
     {
       "id": 54,
-      "content": "It’s only natural."
+      "content": "Тут нечему удивляться."
     },
     {
       "id": 55,
-      "content": "I have no idea who or what I originally was, so I had nothing at my disposal to refute Hong Lu’s lighthearted accusation."
+      "content": "Я совершенно ничего не знаю о прошлой версии себя, поэтому и парировать на легкомысленное обвинение Хун Лу мне было особо нечем."
     },
     {
       "id": 56,
-      "content": "Maybe he’s right, and I really am just a clock."
+      "content": "Может, он не ошибся. Вдруг я правда всего лишь часы."
     },
     {
       "id": 57,
-      "content": "Even if I ask Faust, there’s no telling if she’ll give me a real answer, and I wouldn’t be able to discern the truth in such a thing either."
+      "content": "Даже если я попытаюсь спросить Фауст, нет никакой гарантии, что она скажет мне всё как есть. И даже если скажет, то как я смогу проверить, что она не соврала?"
     },
     {
       "id": 58,
-      "content": "There’s even a slim chance that the real ‘Dante’ is hidden away somewhere, and that I’m some advanced imitation trained to believe I have free will."
+      "content": "Также есть небольшая вероятность, что оригинальная версия «Данте» в данный момент где-то скрывается, а я всего лишь продвинутая копия с ложной иллюзией свободы воли.  "
     },
     {
       "id": 59,
-      "content": "In any case, sitting here and ruminating won’t get me anywhere."
+      "content": "В любом случае, сейчас меня эти размышления ни к чему не приведут."
     },
     {
       "id": 60,
       "model": "단테",
-      "content": "<Who knows, maybe I’ll mount this thing on the wall when I find my real head.>"
+      "content": "<Кто знает, может, я повешу эти часы на стену, когда верну свою настоящую голову.>"
     },
     {
       "id": 61,
-      "content": "Ishmael sent me a chastising glare for even suggesting something like that, but she had no choice other than to shrug."
+      "content": "Измаил бросила на меня осуждающий взгляд за то, что мне вообще пришло в голову такое сказать, но ей ничего не оставалось, кроме как пожать плечами."
     },
     {
       "id": 62,
-      "content": "Well, it is true."
+      "content": "А что ещё мне остаётся?"
     }
   ]
 }

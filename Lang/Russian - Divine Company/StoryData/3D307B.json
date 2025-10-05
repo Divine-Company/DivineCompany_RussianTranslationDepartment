@@ -2,107 +2,107 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Middle of an Alleyway",
+      "place": "Посреди переулка",
       "model": "싱클레어",
-      "content": "When I came to my senses, I found myself in an alleyway at midday, heated by the sun."
+      "content": "Я очнулся в переулке под тёплыми лучами дневного солнца."
     },
     {
       "id": 1,
       "model": "싱클레어",
-      "content": "I stayed there on the ground, dazed and confused."
+      "content": "Растерянный и опустошённый, я какое-то время просто лежал на земле."
     },
     {
       "id": 2,
       "model": "싱클레어",
-      "content": "I could see a haze rise from the surface."
+      "content": "Я видел, как по обочинам дороги поднималось марево."
     },
     {
       "id": 3,
       "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Sinclair. A crack has been made in your world."
+      "teller": "Демиан",
+      "title": "Загадочный новый ученик",
+      "content": "Синклер, твой мир получил трещину.."
     },
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "I felt like I was starting to understand what the strange feeling I often got from Demian was."
+      "content": "Мне показалось, что я наконец-то начал понимать то таинственное чувство, которое я испытывал рядом с Демианом."
     },
     {
       "id": 5,
       "model": "싱클레어",
-      "content": "I always found it weird how I never heard his footsteps."
+      "content": "Я всегда считал странным, что никогда не слышал звука его шагов."
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "Why does everything arrive in desolate silence as if it belongs to no world at all?"
+      "content": "Почему всё приходит в полной тишине, словно не относясь ни к одному из миров?"
     },
     {
       "id": 7,
       "model": "싱클레어",
-      "content": "The loss of my family, the world of evil, all this despair…"
+      "content": "Потеря семьи, мир зла, всё это отчаяние…"
     },
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "And you, too."
+      "content": "И ты, почему-то."
     },
     {
       "id": 9,
       "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "Are you scared, Sinclair?"
+      "teller": "Демиан",
+      "title": "Загадочный новый ученик",
+      "content": "Ты напуган, Синклер?"
     },
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "He spoke to me."
+      "content": "Он обратился ко мне."
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "He had the eyes of a person who saw through everything, and the attitude of someone who predicted this series of events."
+      "content": "Его взгляд был проницательным, будто бы он всё видел насквозь, а его поведение было уверенным, словно он заранее знал о том, чему только предстоит произойти."
     },
     {
       "id": 12,
       "model": "싱클레어",
-      "content": "He didn’t even wait for me to reply, like he knew what I was going to say."
+      "content": "Он даже не ждал моего ответа, словно уже знал, что я скажу."
     },
     {
       "id": 13,
       "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "One day, you’ll break it altogether and soar."
+      "teller": "Демиан",
+      "title": "Загадочный новый ученик",
+      "content": "Однажды ты взлетишь, полностью его разрушив."
     },
     {
       "id": 14,
       "model": "학생데미안",
-      "teller": "Demian",
-      "title": "Mysterious Transfer Student",
-      "content": "And I… wish to see you completely bare."
+      "teller": "Демиан",
+      "title": "Загадочный новый ученик",
+      "content": "И я… хочу увидеть настоящего тебя."
     },
     {
       "id": 15,
       "model": "싱클레어",
-      "content": "He responded as if he already knew the answer I was hesitating on."
+      "content": "Он проговорил, словно отвечая на мои слова, которые я никак не мог произнести вслух."
     },
     {
       "id": 16,
       "model": "싱클레어",
-      "content": "Although his words seemed to radiate warmth…"
+      "content": "Хоть в его словах и чувствовалась забота…"
     },
     {
       "id": 17,
       "model": "싱클레어",
-      "content": "I felt a certain chill, like biting into the cold insides of a half-cooked turkey…"
+      "content": "Я также почувствовал некий холод, словно вонзил зубы в ледяные внутренности недожаренной индейки…"
     },
     {
       "id": 18,
       "model": "싱클레어",
-      "content": "I couldn’t help but fall unconscious again."
+      "content": "Я снова потерял сознание."
     }
   ]
 }

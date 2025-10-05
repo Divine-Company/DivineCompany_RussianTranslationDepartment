@@ -2,89 +2,89 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 11 - LC Branch Interior",
+      "place": "11-й Район - внутри филиала",
       "teller": "???",
       "title": "???",
-      "content": "Well I’ll be… You’ve all… gotten better at fighting, haven’t you…?"
+      "content": "Молодцы… Вы все… стали куда сильнее с нашей прошлой встречи…"
     },
     {
       "id": 1,
-      "content": "A faint voice calls to us from the corner."
+      "content": "Кто-то из-за угла обратился к нам дрожащим голосом."
     },
     {
       "id": 2,
       "model": "그레고르",
-      "content": "Saude…?"
+      "content": "Сод?.."
     },
     {
       "id": 3,
-      "content": "Saude was resting against the wall, exhausted."
+      "content": "Это была Сод, сидевшая у стены в полном изнеможении."
     },
     {
       "id": 4,
-      "content": "She was covered in bites and gnawings left by the Peccatula."
+      "content": "Всё её тело было покрыто ранами и укусами, оставленными Пеккатулами."
     },
     {
       "id": 5,
       "model": "이스마엘",
-      "content": "Are you alright? Can you get up easily?"
+      "content": "Вы в порядке? Вы можете идти?"
     },
     {
       "id": 6,
-      "content": "Saude could barely talk, let alone stand on her feet; she slowly began to speak, each word filled with pain."
+      "content": "Сод с трудом могла говорить, не то что ходить. И всё же через боль и стиснутые зубы она начала выдавливать из себя слова."
     },
     {
       "id": 7,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Effie… How is he…?"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Эппи… как он?.."
     },
     {
       "id": 8,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Alive, yeah? You… must’ve met outside…"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Он… жив, да? Вы… его видели?.."
     },
     {
       "id": 9,
-      "content": "Everyone is hesitant to answer Saude’s desperate question."
+      "content": "Никто не решался ответить на её отчаянный вопрос."
     },
     {
       "id": 10,
-      "content": "How could any of us inform her of the morbid state Effie was in and how we had to put him out of his misery?"
+      "content": "Никому из нас хватало духу рассказать, в каком ужасном состоянии мы его повстречали и как нам пришлось избавить его от мучений."
     },
     {
       "id": 11,
       "model": "홍루",
-      "content": "…Yes, he’s doing fine now."
+      "content": "…Да, теперь он в порядке."
     },
     {
       "id": 12,
-      "content": "Hong Lu answered quietly."
+      "content": "Хун Лу дал спокойный ответ."
     },
     {
       "id": 13,
-      "content": "No Sinner came forward to elaborate."
+      "content": "Другие Грешники не решались раскрыть детали."
     },
     {
       "id": 14,
       "model": "오티스",
-      "content": "That’s enough chatter."
+      "content": "Отставить разговоры."
     },
     {
       "id": 15,
       "model": "오티스",
-      "content": "It seems more of those oddities are crawling our way."
+      "content": "К нам ползут ещё несколько этих чудищ."
     },
     {
       "id": 16,
-      "content": "A swarm of Peccatula approached us."
+      "content": "На нас надвигался целый рой Пеккатул."
     },
     {
       "id": 17,
-      "content": "It was as though our guilt about lying to her had gained physical form."
+      "content": "Они казались нашим наказанием за жестокий обман Сод."
     }
   ]
 }

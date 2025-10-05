@@ -2,153 +2,153 @@
   "dataList": [
     {
       "id": 0,
-      "place": "District 11 - LC Branch Interior",
-      "content": "I heard that familiar yet ominous sound of a nail being dragged across the floor from not too far away."
+      "place": "11-й Район - внутри филиала",
+      "content": "Неподалёку мне послышался знакомый звук волочащегося по полу гвоздя."
     },
     {
       "id": 1,
       "model": "오티스",
-      "content": "…Manager. If I may be forward, I would suggest soon including steps in your combat protocol to confirm that our foes are dead."
+      "content": "…Директор, я настоятельно рекомендую впредь включить в ваш боевой протокол этап подтверждения смерти противника."
     },
     {
       "id": 2,
-      "content": "The thought of his return makes what hair I have stand on end."
+      "content": "Мысль о том, что он всё ещё может быть жив, вызывает у меня мурашки."
     },
     {
       "id": 3,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Ye Heretics… must be exterminated."
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Еретики… будут уничтожены."
     },
     {
       "id": 4,
       "model": "단테",
-      "content": "<How long have you been…>"
+      "content": "<Как он нас догнал?..>"
     },
     {
       "id": 5,
-      "content": "Guido approaches at a slower gait than before, but his gaze is firmly fixed on me."
+      "content": "Гвидо шагает медленнее, чем раньше, но со всё тем же пронзающим меня взглядом."
     },
     {
       "id": 6,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "And… the rest… shall be purified."
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Остальные… будут… очищены."
     },
     {
       "id": 7,
-      "content": "I needed to rewind the clock."
+      "content": "Мне нужно повернуть стрелки часов."
     },
     {
       "id": 8,
-      "content": "Most of the Sinners were either dead or gravely injured."
+      "content": "Большинство Грешников были либо мертвы, либо смертельно ранены."
     },
     {
       "id": 9,
-      "content": "There was no way an effectively non-combatant manager and someone barely holding on to her life could take him."
+      "content": "От меня в бою не было проку, а Сод из последних сил цеплялась за жизнь; мы были ему неровня."
     },
     {
       "id": 10,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Please stop…"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Стойте…"
     },
     {
       "id": 11,
-      "content": "Just then, Saude pulled out a gun."
+      "content": "Внезапно Сод нацелила на меня пистолет."
     },
     {
       "id": 12,
-      "content": "She pointed the barrel at me."
+      "content": "Прямо на мою голову."
     },
     {
       "id": 13,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "I need you… to keep still…"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Прошу вас… не шевелитесь…"
     },
     {
       "id": 14,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "The moment you try to turn that clock, my gun… will blow off your head…"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Как только вы попытаетесь повернуть стрелки часов, я спущу курок… и прострелю вам голову…"
     },
     {
       "id": 15,
       "model": "단테",
-      "content": "<Saude…?>"
+      "content": "<Сод, ты?..>"
     },
     {
       "id": 16,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Don’t look at me… like that… I can’t hear you. But, I can tell you this."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Вы пытаетесь говорить… но… я вас не понимаю. Зато вы должны понять меня."
     },
     {
       "id": 17,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "They promised… to let Effie go… if I helped to get rid of you…"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Они пообещали… отпустить Эппи… если я помогу вас убить…"
     },
     {
       "id": 18,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "I let too much time pass."
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Я ждал достаточно."
     },
     {
       "id": 19,
-      "content": "Guido comes to me and grabs me by the neck."
+      "content": "Гвидо подходит ко мне и хватает за шею."
     },
     {
       "id": 20,
       "model": "단테",
-      "content": "<Kahk, ghhng…>"
+      "content": "<Кха-а, гх-х…>"
     },
     {
       "id": 21,
-      "content": "Then, he grips my head tightly with his other hand as if to crush it."
+      "content": "Он начал сдавливать мне голову с такой силой, словно пытаясь её размозжить."
     },
     {
       "id": 22,
       "model": "단테",
-      "content": "<Nngh…>"
+      "content": "<Гн-н…>"
     },
     {
       "id": 23,
-      "content": "Creaks, cracks, and rattles ring inside my head."
+      "content": "Я чувствую, как моя голова трещит и раскалывается."
     },
     {
       "id": 24,
-      "content": "His fingers being inches away from shattering my head terrifies me."
+      "content": "Мне страшно, что всего через пару моментов он сможет исполнить затеянное."
     },
     {
       "id": 25,
-      "content": "Is this it? Is this how I die?"
+      "content": "Это конец? Такой будет моя смерть?"
     },
     {
       "id": 26,
-      "content": "Could this… have turned out differently if I was a better manager?"
+      "content": "Могло ли всё… сложиться по-другому, окажись я более ответственным директором?"
     },
     {
       "id": 27,
-      "content": "I remember Heathcliff menacingly asking if there was a way to open up my head so he could see what’s inside."
+      "content": "Я помню, как Хитклиф угрожающе спрашивал, как можно вскрыть мою голову, чтобы посмотреть, что внутри."
     },
     {
       "id": 28,
-      "content": "Tough luck, Heathcliff."
+      "content": "Не повезло ему."
     },
     {
       "id": 29,
-      "content": "You’ll be missing out on a good show…"
+      "content": "Сейчас вот-вот его любопытство могло бы утолиться…"
     },
     {
       "id": -1,
@@ -157,115 +157,115 @@
     },
     {
       "id": 30,
-      "content": "I heard a sound."
+      "content": "Резкий звук."
     },
     {
       "id": 31,
-      "content": "It was the sound of something breaking."
+      "content": "Словно что-то разбилось."
     },
     {
       "id": 32,
-      "content": "Fortunately for me…"
+      "content": "К счастью…"
     },
     {
       "id": 33,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "Ngh…"
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Агх…"
     },
     {
       "id": 34,
-      "content": "It didn’t come from my head."
+      "content": "...это не была моя голова."
     },
     {
       "id": 35,
       "model": "싱클레어",
-      "content": "Huff, hoogh… Hahk."
+      "content": "Хф-ф, а-а… Хф-ф."
     },
     {
       "id": 36,
-      "content": "Guido staggers."
+      "content": "Гвидо пошатнулся."
     },
     {
       "id": 37,
-      "content": "A nail was lodged in his back, and Sinclair was gasping for air behind him."
+      "content": "Из его спины торчал гвоздь, а рядом стоял выдохшийся Синклер."
     },
     {
       "id": 38,
-      "content": "He was nearly unconscious, lying still until moments ago—it’s a miracle that he managed to get up and do this."
+      "content": "Всего мгновение назад он без сил лежал на полу, а теперь — стоял, хоть и едва держась на ногах."
     },
     {
       "id": 39,
-      "content": "I could escape Guido’s grasp thanks to him…"
+      "content": "Благодаря ему мне удалось вырваться из хватки Гвидо…"
     },
     {
       "id": 40,
-      "content": "But Guido stood firm despite Sinclair’s desperate attack; he collected his breath and slowly turned around."
+      "content": "Но этого было недостаточно, чтобы сбить Гвидо с ног; он сделал глубокий вдох и медленно обернулся."
     },
     {
       "id": 41,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "…I see."
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "…Ясно."
     },
     {
       "id": 42,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You, too, are a filthy heretic…"
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "И ты оказался мерзким еретиком…"
     },
     {
       "id": 43,
       "model": "싱클레어",
-      "content": "You’re… all insane… out of your minds…"
+      "content": "Вы… все… сумасшедшие…"
     },
     {
       "id": 44,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "The One Who Grips had once said…"
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Та, Что Держит однажды сказала…"
     },
     {
       "id": 45,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "That you could have become the One as well."
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Что у тебя есть потенциал стать ей подобным."
     },
     {
       "id": 46,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "What a shame…"
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Увы…"
     },
     {
       "id": 47,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You grip with the wrong direction."
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Твой хват направлен не в ту сторону."
     },
     {
       "id": 48,
       "model": "단테",
-      "content": "<Sinclair… run away… I can’t… help you…>"
+      "content": "<Синклер… беги отсюда… Я не смогу… тебе помочь…>"
     },
     {
       "id": 49,
       "model": "싱클레어",
-      "content": "No… I’m not running anymore."
+      "content": "Нет… Я больше не буду убегать."
     },
     {
       "id": 50,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…I like that answer, Sinclair."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "…Мне нравится твой ответ, Синклер."
     },
     {
       "id": -1,
@@ -273,160 +273,160 @@
     },
     {
       "id": 51,
-      "content": "Gunfire filled my ears."
+      "content": "Раздался звук выстрела."
     },
     {
       "id": 52,
-      "content": "But the bullet struck Guido’s head."
+      "content": "Но пуля пронзила голову Гвидо."
     },
     {
       "id": 53,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
       "content": "……"
     },
     {
       "id": 54,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "You, who bring ruination upon yourselves…"
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Вы, навлёкшие на себя погибель…"
     },
     {
       "id": 55,
       "model": "피묻은귀도",
-      "teller": "Guido",
-      "title": "Nagel und Hammer",
-      "content": "The Hammer shall continue to pursue you…"
+      "teller": "Гвидо",
+      "title": "Нагель и Молот",
+      "content": "Молот доберётся до вас, где бы вы ни были…"
     },
     {
       "id": 56,
-      "content": "With those words…"
+      "content": "После этих слов…"
     },
     {
       "id": 57,
-      "content": "Guido fell to the floor, motionless."
+      "content": "Гвидо рухнул на землю, уже неподвижный."
     },
     {
       "id": 58,
-      "content": "And in that hush…"
+      "content": "И в последовавшей тишине…"
     },
     {
       "id": 59,
-      "content": "I heard her handgun drop to the floor."
+      "content": "Мне послышался звук упавшего пистолета."
     },
     {
       "id": 60,
       "model": "단테",
-      "content": "<…Saude.>"
+      "content": "<…Сод.>"
     },
     {
       "id": 61,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Effie, he’s… he’s dead, isn’t he?"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Эппи, он… мёртв, да?"
     },
     {
       "id": 62,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "You’re all terrible liars. At least try to make it somewhat believable."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Вы совсем не умеете врать. Если скрываете дурные вести, то впредь не делайте столь мрачных лиц."
     },
     {
       "id": 63,
       "model": "그레고르",
-      "content": "…C’mon Saude, let’s get out of here. You’ll be okay… Just gotta stop the bleeding, and… get you patched up."
+      "content": "…Сод, мы вас вытащим отсюда. Остановим кровь и… всё будет хорошо."
     },
     {
       "id": 64,
       "model": "이스마엘",
-      "content": "Right. I’ll get a tourniquet…"
+      "content": "Верно. Я достану жгут…"
     },
     {
       "id": 65,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Don’t be stupid. I can hardly lift a finger."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Хватит ложных надежд. Я и пальцем пошевелить не могу."
     },
     {
       "id": 66,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Besides, those Inquisitors will keep on coming, won’t they? You guys need to keep moving down."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "К тому же, скоро сюда придут ещё Инквизиторы. Не теряйте время и продолжайте задание."
     },
     {
       "id": 67,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "I’ll hold them off here. You should go."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Я их здесь задержу. Идите."
     },
     {
       "id": 68,
       "model": "싱클레어",
-      "content": "You can’t—You can’t do that…"
+      "content": "Вам нельзя—Вы не можете здесь…"
     },
     {
       "id": 69,
       "model": "이스마엘",
-      "content": "You said yourself that you can hardly lift a finger. I can’t let you watch our backs when you’re in such a mess… Please?"
+      "content": "Вы же сами сказали, что и пальцем не можете пошевелить. Как мы можем оставить вас здесь одну умирать... Прошу, одумайтесь."
     },
     {
       "id": 70,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "You know… in moments like this… you’re supposed to just nod at me and be on your way."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Знаете… в такие моменты… вы должны просто понимающе кивнуть и продолжить путь."
     },
     {
       "id": 71,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Why do you care so much about the one who volunteered to stay behind?"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Я без пяти минут мертва, неужели я стою всех этих переживаний?"
     },
     {
       "id": 72,
       "model": "싱클레어",
-      "content": "You can’t… You can’t just…"
+      "content": "Так нельзя… нельзя…"
     },
     {
       "id": 73,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Aw… You’re making this pretty awkward, you know that? Here I thought I could have a cool farewell."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "А-ах… Вы всё слишком сильно усложняете. А ведь наше прощание могло получиться таким красивым."
     },
     {
       "id": 74,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "Faust, please take these absolute dorks out of here."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Фауст, прошу, уведите этих недотёп."
     },
     {
       "id": 75,
       "model": "파우스트",
-      "content": "I’ll make sure to give Vergilius your regards."
+      "content": "Я непременно сообщу Вергилию о вашем храбром поступке."
     },
     {
       "id": 76,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "No need."
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "Не стоит."
     },
     {
       "id": 77,
       "model": "제복소드",
-      "teller": "Saude",
-      "title": "LCCB",
-      "content": "…Just tell him to come visit and say hello someday. You know what I mean?"
+      "teller": "Сод",
+      "title": "РОКЛ",
+      "content": "…Просто попросите, чтобы он как-нибудь меня навестил. Надеюсь, вы понимаете, о чём я."
     },
     {
       "id": 78,
@@ -436,15 +436,15 @@
     {
       "id": 79,
       "model": "파우스트",
-      "content": "Of course."
+      "content": "Да."
     },
     {
       "id": 80,
-      "content": "We headed for the next area, leaving Saude to die."
+      "content": "Мы пошли дальше, оставив Сод умирать."
     },
     {
       "id": 81,
-      "content": "We all stayed silent for a long while."
+      "content": "В течение долго времени никто из нас не решался нарушить тишину."
     }
   ]
 }

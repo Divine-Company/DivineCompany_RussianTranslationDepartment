@@ -2,106 +2,106 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Aboard Mephistopheles",
+      "place": "Мефистофель",
       "model": "카론",
-      "content": "Cock-a-hoop Charon’s cock-a-hoop parking."
+      "content": "Чудная парковка от чудной Харон."
     },
     {
       "id": 1,
       "model": "베르길리우스",
-      "content": "Alright, off the bus. Time to get inspected."
+      "content": "А теперь на выход. Идём в КПП."
     },
     {
       "id": 2,
       "model": "베르길리우스",
-      "content": "Ah, and let me add this just in case you’re feeling inclined to your usual antics."
+      "content": "А, и на случай, если вам снова взбредёт в голову подурачиться, скажу следующее."
     },
     {
       "id": 3,
       "model": "베르길리우스",
-      "content": "Don’t go around making a scene expecting things to go your way…"
+      "content": "Не ожидайте, что всё будет по-вашему, если вдруг устроите сцену…"
     },
     {
       "id": 4,
       "model": "베르길리우스",
-      "content": "Because that will not be how it works in this particular place."
+      "content": "Ибо здесь вам этого не позволят."
     },
     {
       "id": 5,
-      "content": "I thought his words were pretty intimidating, but despite the worries…"
+      "content": "Его предупреждение вызывало опаску, но несмотря на беспокойство…"
     },
     {
       "id": 6,
-      "place": "K Corp. Checkpoint",
+      "place": "КПП Крыла K",
       "model": "더미2",
-      "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "We welcome all visitors to K Corp’s Nest openheartedly."
+      "teller": "Объявление",
+      "title": "КПП Крыла K",
+      "content": "Мы приветствуем всех посетителей Гнезда Крыла K."
     },
     {
       "id": 7,
       "model": "더미2",
-      "teller": "Announcement",
-      "title": "K Corp. Checkpoint",
-      "content": "Please form an orderly line as you enter, and stand where the instructions indicate."
+      "teller": "Объявление",
+      "title": "КПП Крыла K",
+      "content": "Пожалуйста, при входе выстройтесь в одну линию, соблюдая очередь, и пройдите в нужное место, следуя указателям."
     },
     {
       "id": 8,
-      "content": "The menacing and interrogative atmosphere could subdue the temper of any first-time visitors—and the Sinners were no exception."
+      "content": "Такая суровая и гнетущая обстановка способна утихомирить любого оказавшегося здесь впервые человека, и Грешники стали живым тому доказательством."
     },
     {
       "id": 9,
-      "content": "I could occasionally hear Sinclair sniffling, followed by Rodya and Gregor calming him."
+      "content": "Время от времени до меня доносились тихие всхлипывания Синклера напару с успокаивающими его голосами Грегора и Роди."
     },
     {
       "id": 10,
-      "content": "Any of my questions why were met with heads shaken sideways."
+      "content": "На всякий мой вопрос, что с ним не так, Грешники лишь качали головами, поскольку сами не знали, почему Синклер так себя ведёт."
     },
     {
       "id": 11,
       "model": "베르길리우스",
-      "content": "Look here, how nice it is to see you all stay in line and behave. Like a brood of chicks on an outing."
+      "content": "Ну и ну, вы так послушно идёте, что на вас даже приятно смотреть. Прямо как новорождённые цыплята на прогулке."
     },
     {
       "id": 12,
       "model": "이스마엘",
-      "content": "Wait, why’re you out here…"
+      "content": "А? Что вы тут делаете?.."
     },
     {
       "id": 13,
       "model": "단테",
-      "content": "<What made you follow us outside the bus this time…?>"
+      "content": "<Почему в этот раз ты решил последовать за нами?>"
     },
     {
       "id": 14,
-      "content": "Noticing my flustered reaction at the unexpected company, Vergilius opened his mouth."
+      "content": "Вергилий начал говорить, заметив мою удивлённую реакцию на его внезапное появление."
     },
     {
       "id": 15,
       "model": "베르길리우스",
-      "content": "Because this is a Nest, Dante."
+      "content": "Мы идём в Гнездо, Данте."
     },
     {
       "id": 16,
       "model": "베르길리우스",
-      "content": "If one of you were to get into unexpected trouble here…"
+      "content": "Если кто-то из вас вдруг нарушит общественный порядок…"
     },
     {
       "id": 17,
       "model": "베르길리우스",
-      "content": "Well, Dante, the responsibility will be a bit too heavy for you to bear alone."
+      "content": "Скажу так, Данте, в одиночку тебе будет слишком тяжело совладать со всей свалившейся на тебя ответственностью."
     },
     {
       "id": 18,
-      "content": "When Vergilius put it like that…"
+      "content": "Другими словами, Вергилий говорит, что…"
     },
     {
       "id": 19,
-      "content": "It sounded as if he were saying “You’re not reliable enough to be sent without supervision.”"
+      "content": "...мне не хватает компетентности, чтобы в одиночку управиться с Грешниками."
     },
     {
       "id": 20,
-      "content": "…But I knew it’d be wise to keep this to myself."
+      "content": "Однако будет разумнее ему не возражать."
     }
   ]
 }

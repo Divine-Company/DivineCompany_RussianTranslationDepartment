@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Basement Area",
-      "content": "We entered the charred mansion, and Sinclair led us to the basement."
+      "place": "Подвал",
+      "content": "Мы вошли в горящий дом и Синклер провёл нас до подвала."
     },
     {
       "id": 1,
-      "content": "When he opened the door…"
+      "content": "Стоило ему открыть дверь…"
     },
     {
       "id": 2,
-      "place": "Underground Passage",
-      "content": "A long underpass leading to an unknown destination was revealed to us."
+      "place": "Подземный проход",
+      "content": "Как нашим глазам предстал загадочный длинный проход"
     },
     {
       "id": 3,
       "model": "단테",
-      "content": "<To think there’d be a tunnel down here…>"
+      "content": "<Подумать только, что тут целый туннель…>"
     },
     {
       "id": 4,
       "model": "싱클레어",
-      "content": "So… if my guess is right, then this passage should lead to the branch facility."
+      "content": "Если… моя догадка верна, этот проход должен привести нас прямо к филиалу."
     },
     {
       "id": 5,
       "model": "히스클리프",
-      "content": "Why’re you keeping this shifty shaft in your basement?"
+      "content": "На кой чёрт вам такая шахта под домом?"
     },
     {
       "id": 6,
       "model": "싱클레어",
-      "content": "It wasn’t here before."
+      "content": "Раньше её не было."
     },
     {
       "id": 7,
       "model": "히스클리프",
-      "content": "What? Then how’d you know we oughta go to the basement?"
+      "content": "Чего? Тогда откуда тебе знать, куда она ведёт?"
     },
     {
       "id": 8,
       "model": "싱클레어",
-      "content": "It’s like how magnetic fields draw a compass needle northward… I was brought here by intuition."
+      "content": "Сейчас я ощущаю себя, как стрелка компаса, указывающая на север… Я чувствую это нутром."
     },
     {
       "id": 9,
@@ -52,40 +52,40 @@
     {
       "id": 10,
       "model": "싱클레어",
-      "content": "…Isn’t that what it is?"
+      "content": "…Разве я не прав?"
     },
     {
       "id": 11,
       "model": "싱클레어",
-      "content": "You’re bringing us along to use as sensors for the Boughs."
+      "content": "Вы ведь используете нас в качестве датчиков для поиска Золотых ветвей."
     },
     {
       "id": 12,
-      "content": "Sinclair quietly looked at Faust."
+      "content": "Синклер молча посмотрел на Фауст."
     },
     {
       "id": 13,
-      "content": "Instead of answering him, she strode past him and stood before the door."
+      "content": "Вместо того, чтобы ему ответить, она спешно прошла вперёд и встала у двери."
     },
     {
       "id": 14,
       "model": "파우스트",
-      "content": "Judging from the material, this tunnel seems to have been made relatively recently."
+      "content": "Судя по материалу, этот туннель был построен относительно недавно."
     },
     {
       "id": 15,
       "model": "파우스트",
-      "content": "It was likely dug by N Corp’s expeditionary forces when they had occupied the town."
+      "content": "Скорее всего, его вырыла экспедиционная группа Корпорации N во время оккупации деревни."
     },
     {
       "id": 16,
       "model": "파우스트",
-      "content": "It won’t be a short trip. Given that this passage was excavated for their use, we will assuredly run into foes on the way."
+      "content": "Путь будет долгим. Поскольку этот туннель был создан для их личного использования, далее по пути нам не избежать встречи с врагом."
     },
     {
       "id": 17,
       "model": "파우스트",
-      "content": "…We should move once we are ready."
+      "content": "…Перед началом движения нам следует подготовиться."
     },
     {
       "id": 18,
@@ -95,12 +95,12 @@
     {
       "id": 19,
       "model": "파우스트",
-      "content": "Don’t give me that look, Dante."
+      "content": "Не смотрите на меня так, Данте."
     },
     {
       "id": 20,
       "model": "파우스트",
-      "content": "…I am simply not in the position to comment on it."
+      "content": "…я не в том положении, чтобы об этом говорить."
     }
   ]
 }
