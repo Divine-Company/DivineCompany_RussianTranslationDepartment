@@ -583,7 +583,7 @@
     {
       "id": "battle_s3_10211_0",
       "desc": "Drawn by Flame: First coin",
-      "dlg": "Бесконтрольно..."
+      "dlg": "Неукротимо..."
     },
     {
       "id": "battle_s3_10211_0-1",
@@ -593,7 +593,7 @@
     {
       "id": "battle_s3_10211_1_1",
       "desc": "Drawn by Flame: First coin",
-      "dlg": "Бесконтрольно..."
+      "dlg": "Неукротимо..."
     },
     {
       "id": "battle_s3_10211_1_2-01",
@@ -603,7 +603,7 @@
     {
       "id": "battle_s3_10211_1_1-02",
       "desc": "Drawn by Flame (20-29 Burn on Self): First coin",
-      "dlg": "Бесконтрольно..."
+      "dlg": "Неукротимо..."
     },
     {
       "id": "battle_s3_10211_1_2-02",
@@ -633,7 +633,7 @@
     {
       "id": "battle_s3_10204_1_2",
       "desc": "Execution",
-      "dlg": "Пронжу!"
+      "dlg": "Насквозь!"
     },
     {
       "id": "battle_s3_10208_1_1",
@@ -678,7 +678,7 @@
     {
       "id": "battle_s2_10710_1_1_txt-01",
       "desc": "Memorial Procession",
-      "dlg": "Порву на части."
+      "dlg": "Разорву на куски."
     },
     {
       "id": "battle_s3_10710_1_1_txt",
@@ -728,7 +728,7 @@
     {
       "id": "battle_add_10710_3",
       "desc": "Wildhunt on Wuthering Heights IDs",
-      "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока не заглушишь воплем бурю!"
+      "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока твой вопль не заглушит бурю!"
     },
     {
       "id": "battle_s3_10711_1_1",
@@ -738,7 +738,7 @@
     {
       "id": "battle_special_10711_1_1",
       "desc": "Assist Attack I",
-      "dlg": "Есть прострел... Стреляю."
+      "dlg": "Цель на мушке... Стреляю."
     },
     {
       "id": "battle_special_10711_1_2",
@@ -783,7 +783,7 @@
     {
       "id": "battle_special_10711_5_1",
       "desc": "Returning to Battle I",
-      "dlg": "Так... Перезарядка завершена."
+      "dlg": "Перезарядился... Готов к бою."
     },
     {
       "id": "battle_special_10711_5_2",
@@ -808,7 +808,7 @@
     {
       "id": "battle_special_10611_1_1",
       "desc": "Target Spotted I",
-      "dlg": "Хитклиф, давай!"
+      "dlg": "Хитклиф, стреляй!"
     },
     {
       "id": "battle_special_10611_1_2",
@@ -818,7 +818,7 @@
     {
       "id": "battle_special_10611_1_3",
       "desc": "Target Spotted III",
-      "dlg": "Теперь ты сможешь сделать выстрел, да?"
+      "dlg": "Вижу цель, сможешь в неё попасть?"
     },
     {
       "id": "battle_special_10611_2_1-01",
@@ -908,17 +908,17 @@
     {
       "id": "battle_s2_11103_1",
       "desc": "Order",
-      "dlg": "Вперёд!"
+      "dlg": "В атаку!"
     },
     {
       "id": "battle_s3_11107_1_2",
       "desc": "Magic Bullet Fire",
-      "dlg": "Выстрел."
+      "dlg": "Огонь."
     },
     {
       "id": "battle_s3_11107_1_2-01",
       "desc": "Magic Bullet Fire (4+ Bullets)",
-      "dlg": "Выстрел!"
+      "dlg": "Огонь!"
     },
     {
       "id": "battle_s2_11107_1_1-01",
@@ -953,7 +953,7 @@
     {
       "id": "battle_s3_10908_1_2",
       "desc": "Pinpoint Blitz",
-      "dlg": "Даже не поймёшь, что тебя уже пронзили?"
+      "dlg": "Даже не понимаешь, что тебя уже пронзили."
     },
     {
       "id": "battle_s3_10404_1_1",
@@ -1028,7 +1028,7 @@
     {
       "id": "battle_endcommand_11009_2",
       "desc": "Commencing Attack while in E.G.O state",
-      "dlg": "Мне всё ещё страшно... но я... не хочу останавливаться!"
+      "dlg": "Мне всё ещё страшно... но я... не остановлюсь!"
     },
     {
       "id": "battle_kill_11009_2",
@@ -1043,7 +1043,7 @@
     {
       "id": "battle_s3_11009_1_1",
       "desc": "Stigimize: Before first coin",
-      "dlg": "Я нанесу на на тебя..."
+      "dlg": "Я нанесу на тебя..."
     },
     {
       "id": "battle_s3_11009_1_2",
@@ -1068,12 +1068,12 @@
     {
       "id": "battle_s3_10112_1_1-03",
       "desc": "Flow of The Sword: First coin",
-      "dlg": "Под конец..."
+      "dlg": "В конечном счёте..."
     },
     {
       "id": "battle_s3_10112_1_3-02",
       "desc": "Flow of The Sword: Final coin",
-      "dlg": "Всё сгорит дотла!.."
+      "dlg": "Все сгорят дотла!.."
     },
     {
       "id": "battle_s3_10109_1_4-7",
@@ -1138,7 +1138,7 @@
     {
           "id": "battle_s3_10913_1_3",
           "desc": "Arcana Pierce and Arcana: Tear and Pierce: Final coin",
-          "dlg": "Не останется пустота."
+          "dlg": "Ничего не останется."
     },
     {
       "id": "battle_s3_10907_1_1",
