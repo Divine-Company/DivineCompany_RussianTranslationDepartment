@@ -2012,7 +2012,7 @@
     {
       "id": 1121101,
       "name": "I'm the only survivor...",
-      "desc": "Deal +0.2% damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if their sum of [Combustion] and [Combustion] Count is 30+, deal +0.3% damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts"
+      "desc": "Deal +0.2% damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if they have 30+ ([Combustion] + [Combustion] Count), deal +0.3% damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts"
     },
     {
       "id": 1121121,
@@ -2380,13 +2380,76 @@
     {
       "id": 1041203,
       "name": "Let me show everyone something very interesting",
-      "desc": "Combat Start: N Corp. E.G.O::<noparse>Fell Bullet</noparse> Yi Sang's 'Target Readjustment Fire' Skill gains the following effects:\n- Before using the Skill, if N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū has [ContemptPersonality] and can use her base Skills, use 'I Shall Fire / Anytime' against Ryōshū (once per turn; 'I Shall Fire / Anytime' reflects Yi Sang's Uptie Tier)\n- Before using the Skill, if the Skill's main target isn't N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū, and if she can use her base Skills, Ryōshū uses her Skill 1 as an Unopposed Attack against the main target (once per turn; [CantIdentify]; Skill 1 deals -50% damage; the Skill does not kill the main target)"
+      "desc": "Combat Start: N Corp. E.G.O::<noparse>Fell Bullet</noparse> Yi Sang's 'Target Readjustment Fire' Skill gains the following effects:\n- Before using the Skill, if N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū has [ContemptPersonality] and can use her base Skills, use \"I Shall Fire / Anytime\" against Ryōshū (once per turn; 'I Shall Fire / Anytime' reflects Yi Sang's Uptie Tier)\n- Before using the Skill, if the Skill's main target isn't N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū, and if she can use her base Skills, Ryōshū uses her Skill 1 as an Unopposed Attack against the main target (once per turn; [CantIdentify]; Skill 1 deals -50% damage; the Skill does not kill the main target)"
     },
     {
       "id": 1041221,
       "name": "It flows and cries",
       "desc": "If the ally with the earliest Deployment order hits an enemy with its attack, inflict 1 [Laceration] (once per enemy per turn)\n- If target has [Laceration], inflict +1 [Laceration] Count as well\n\nIf the ally with the earliest Deployment order is hit by an enemy, inflict 1 [Vibration] against the attacker (3 times per turn)\n- If the attacker has [Vibration], inflict +1 [Vibration] Count as well",
       "summary": "On Hit, inflict [Laceration]; inflict Count as well if the target already has the effect\nWhen Hit, inflict [Vibration]; inflict Count as well if the target already has the effect"
+    },
+    {
+      "id": 1021301,
+      "name": "Shi-no-Yumi",
+      "desc": "At 4 [ArrowShiFau] Stack: when this unit gains [Breath] Potency from Base Attack Skill effects, gain +1 [Breath] Count (2 times per Encounter; per-Encounter cap resets when [ArrowShiFau] drops to 3)\nIf this unit used \"Bow's Glimmer\" Skill at 2+ [AimForTheGoal], gain 1 [SlashDamageUp] next turn"
+    },
+    {
+      "id": 1021311,
+      "name": "Shi-no-Yumi",
+      "desc": "At 4 [ArrowShiFau] Stack: when this unit gains [Breath] Potency from Base Attack Skill effects, gain +1 [Breath] Count (<style=\"highlight\">3</style> times per Encounter; per-Encounter cap resets when [ArrowShiFau] drops to 3)\nIf this unit used \"Bow's Glimmer\" Skill at 2+ [AimForTheGoal], gain <style=\"highlight\">2</style> [SlashDamageUp] next turn"
+    },
+    {
+      "id": 1021302,
+      "name": "Snipe - Archery",
+      "desc": "If this unit is in [SnipingArrowMode] state, convert the leftmost Base Attack Skill equipped on the Dashboard to \"Bow's Glimmer\", then use it at Combat Start\n- If, at max [AimForTheGoal] Stack, this unit's Skill 3 is on neither the Dashboard nor the upcoming list of Skills when this effect activates, the Defense Skill equipped on the leftmost Skill Slot counts as a Skill 3, and will be used to activate \"Bow's Glimmer\"\n\nGain the following effects based on which Base Attack Skill was converted (Sin Affinity carries over from the converted Skill)\n- Skill 1: Base Power +1, deal +11% damage\n- Skill 2: Base Power +1, Coin Power +1, deal +22% damage\n- Skill 3: Base Power +4, Coin Power +4, deal +44% damage\n\n※ If an E.G.O Skill was equipped at Combat Start, remove [SnipingArrowMode] and this unit does not use \"Bow's Glimmer\""
+    },
+    {
+      "id": 1021321,
+      "name": "Aiming for the Bullseye",
+      "desc": "Turn End: apply 1 [PenetrateDamageUp] next turn to the ally who inflicted the most [Laceration] Potency to enemies with its Skills and Passives (includes those from E.G.O Skills; if multiple Identities share the highest [Laceration] inflicted record for the turn, select the Identity earliest in the Deployment order. Does not activate if no one inflicted [Laceration] Potency that turn)"
+    },
+    {
+      "id": 1071301,
+      "name": "Defence-Oriented Charge",
+      "desc": "- Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n- Turn Start: Gain [DefenseUp] equal to [Charge] Potency on self (max 6)"
+    },
+    {
+      "id": 1071311,
+      "name": "Congestion Cleaning Armour",
+      "desc": "- Combat Start: If this unit has less than 50% HP, gain Shield equal to ([Charge] Potency x 5) (max 25)\n- Immediately before getting hit, gain Shield equal to ([Charge] Potency on self) (max 5, 3 times per turn)\n- If this unit gains [Charge] Count past the Max [Charge] Count Cap by using a Skill, the Skill deals +3% damage for every [Charge] Count that exceeds the Max [Charge] Count Cap (max 15%)"
+    },
+    {
+      "id": 1071321,
+      "name": "One day I'll wear me Armour for Cancelled Trains",
+      "desc": "- Combat Start: If the unit with the earliest Deployment Order gains [Charge] Count past the Max [Charge] Count Cap by using a Skill, the unit gains 1 [ChargeForceField] next turn for every [Charge] Count that exceeds the Max [Charge] Count Cap (max 3, including E.G.O Skills)"
+    },
+    {
+      "id": 1051301,
+      "name": "'Bloodied, Masked, and as Blood Commands'",
+      "desc": "Combat Start: if this unit has [BloodArmorMeursault], gain the following effects based on Stack:\n- At 3+ Stack: gain 1 [AttackUp] and 1 [DefenseUp]\n- At 4+ Stack: gain 1 [Agility] next turn\n\nOn Hit against enemies with [Laceration]: if this unit has less than 30% HP, heal 30% HP (once per Encounter; rounded down)",
+      "summary": "If conditions are met, heal 30% HP"
+    },
+    {
+      "id": 1051311,
+      "name": "'Bloodied, Masked, and as Blood Commands'",
+      "desc": "Combat Start: if this unit has [BloodArmorMeursault], gain the following effects based on Stack:\n- At 3+ Stack: gain <style=\"highlight\">2</style> [AttackUp] and <style=\"highlight\">2</style> [DefenseUp]\n- At 4+ Stack: gain <style=\"highlight\">2</style> [Agility] next turn\n\n<style=\"highlight\">Combat Start: if this unit has [FocusOnActing], inflict 1 [ParadeConcentration] On Hit against enemies (2 times per turn; including E.G.O Skills)</style>\n\nOn Hit against enemies with [Laceration]: if this unit has less than 30% HP, heal 30% HP (once per Encounter; rounded down)",
+      "summary": "If conditions are met: inflict 1 [ParadeConcentration]\nIf conditions are met: heal 30% HP"
+    },
+    {
+      "id": 1051302,
+      "name": "Bloodfeast",
+      "desc": "If this unit is on field, or is one of the units that can appear on this Stage, increase [BloodDinner] value by the amount of [Laceration] damage collectively received by every unit. \nWhen this unit enters the field, the sleeping blood drenching the battlefield will rise above the surface."
+    },
+    {
+      "id": 1051303,
+      "name": "Responsibility of a Former Prince",
+      "desc": "Turn Start: the following effects activate for La Manchaland Identities with max [BloodArmorMeursault] Stack\n· Gain 1 [FocusOnActing]\n· When Staggered due to damage, recover from Stagger; then, consume all [BloodArmorMeursault] on self (once per Stage per Identity; unless it's a forced Stagger)\n\nIf The Princess of La Manchaland Rodion is on the field, she and The Prince of La Manchaland Meursault both deal +15% damage with their Skill 3 (including Empowered Skills)",
+      "summary": "Meursault & Rodion deal +15% damage with their Skill 3"
+    },
+    {
+      "id": 1051321,
+      "name": "Flood the Chalice",
+      "desc": "For the turn, multiply the amount of [BloodDinner] generated by 1.5 (2 times per Encounter; rounded down)"
     }
   ]
 }

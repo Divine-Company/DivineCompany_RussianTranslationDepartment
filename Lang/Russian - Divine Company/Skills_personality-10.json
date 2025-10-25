@@ -1473,7 +1473,7 @@
         {
           "level": 2,
           "name": "Adherence to Propriety.",
-          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 2)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1494,7 +1494,7 @@
         {
           "level": 4,
           "name": "Adherence to Propriety.",
-          "desc": "[WhenUse] Coin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 2)\n<style=\"highlight\">[WhenUse] If target has 'Unique Tremor' as [Vibration], Clash Power +1</style>",
+          "desc": "[WhenUse] Coin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 2)\n<style=\"highlight\">[WhenUse] If target has 'Unique Tremor' as [Vibration], Clash Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1520,7 +1520,7 @@
         {
           "level": 1,
           "name": "Respect the Thumb.",
-          "desc": "[WhenUse] If target has 6+ (sum of [Combustion] and [Vibration]), Coin Power +1",
+          "desc": "[WhenUse] If target has 6+ ([Combustion] + [Vibration]), Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1544,7 +1544,7 @@
         {
           "level": 2,
           "name": "Respect the Thumb.",
-          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 2)</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1571,7 +1571,7 @@
         {
           "level": 4,
           "name": "Respect the Thumb.",
-          "desc": "[WhenUse] Coin Power +1 for every 6 (sum of [Combustion] and [Vibration] on target) (max 2)\n<style=\"highlight\">[WhenUse] Deal +10% damage for every 4 (sum of [Combustion] and [Vibration] on target) (max 30%)\n[WhenUse] If target has 10+ 'Unique Tremor', Base Power +2</style>",
+          "desc": "[WhenUse] Coin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 2)\n<style=\"highlight\">[WhenUse] Deal +10% damage for every 4 ([Combustion] + [Vibration]) on target (max 30%)\n[WhenUse] If target has 10+ 'Unique Tremor', Base Power +2</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1603,7 +1603,7 @@
         {
           "level": 3,
           "name": "Thruster Compression",
-          "desc": "[WhenUse] Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on target) (max 2)\n[WhenUse] At 3+ [FireBulletPropellant], Base Power +1",
+          "desc": "[WhenUse] Coin Power +1 for every 8 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] At 3+ [FireBulletPropellant], Base Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1667,7 +1667,7 @@
         {
           "level": 4,
           "name": "Thruster Compression",
-          "desc": "[WhenUse] Coin Power +1 for every 8 (sum of [Combustion] and [Vibration] on target) (max 2)\n[WhenUse] At 3+ [FireBulletPropellant], <style=\"highlight\">Base Power +3, deal +30% damage, and convert the Coins to [SuperCoin]s</style>",
+          "desc": "[WhenUse] Coin Power +1 for every 8 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] At 3+ [FireBulletPropellant], <style=\"highlight\">Base Power +3, deal +30% damage, and convert the Coins to [SuperCoin]s</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1800,14 +1800,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 }
               ]
             }
@@ -1816,7 +1816,7 @@
         {
           "level": 4,
           "name": "Oh, Let the Smell of Burning Blood...",
-          "desc": "[WhenUse] If target has 6+ ([Combustion] + [Burst]), Coin Power +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] If target has 6+ ([Combustion] + [Burst]), Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1828,7 +1828,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [Combustion]</style>"
@@ -1838,7 +1838,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict +1 [Burst] Count</style>"
@@ -1874,7 +1874,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If this unit has [ChickenStance], or if this unit has less than 50% HP, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] If this unit has [ChickenStance], or if this unit has less than 50% HP, Reuse this Coin (once per Skill)"
                 }
               ]
             }
@@ -1888,21 +1888,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If this unit has [ChickenStance], or if this unit has less than 50% HP, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] If this unit has [ChickenStance], or if this unit has less than 50% HP, Reuse this Coin (once per Skill)"
                 }
               ]
             }
@@ -1911,12 +1911,12 @@
         {
           "level": 4,
           "name": "... Fuel My Rampage.",
-          "desc": "[WhenUse] If target has 6+ ([Combustion] + [Burst]), Coin Power +1<style=\"highlight\"></style>",
+          "desc": "[WhenUse] If target has 6+ ([Combustion] + [Burst]), Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict +1 [Burst] Count</style>"
@@ -1926,7 +1926,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict +1 [Burst] Count</style>"
@@ -1936,7 +1936,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If this unit has [ChickenStance], or if this unit has less than 50% HP, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] If this unit has [ChickenStance], or if this unit has less than 50% HP, Reuse this Coin (once per Skill)"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Deal (10% of this Coin's final damage) bonus Wrath damage</style>"
@@ -2009,20 +2009,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Deal (10% of this Coin's final damage) bonus Gluttony damage</style>"
@@ -2032,10 +2032,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Deal (20% of this Coin's final damage) bonus Gluttony damage against all targets</style>"
@@ -2078,14 +2078,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             }
