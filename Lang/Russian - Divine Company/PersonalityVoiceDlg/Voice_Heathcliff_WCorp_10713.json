@@ -119,6 +119,21 @@
         "id": "battle_defeat_10713_1",
         "desc": "Defeat Wail",
         "dlg": "Darn it, this isn't the sort of issue that Cleanup Agents can deal with... Ngh! R Corp. or Fixer Association—just reach out to whoever you can! At this rate, everyone here's goin' to be..."
+      },
+      {
+        "id": "battle_special_10713_1",
+        "desc": "Overcharged",
+        "dlg": "Давай, нападай! Если ты так уверен в себе."
+      },
+      {
+        "id": "battle_s3_10713_1_1",
+        "desc": "Rip Space - CCA Overdrive: First coin",
+        "dlg": "Полностью заряжен!"
+      },
+      {
+        "id": "battle_s3_10713_1_5",
+        "desc": "Rip Space - CCA Overdrive: Final coin",
+        "dlg": "Я разрублю тебя надвое!"
       }
     ]
 }

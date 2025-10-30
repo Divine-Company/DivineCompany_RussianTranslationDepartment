@@ -119,6 +119,36 @@
         "id": "battle_defeat_10513_1",
         "desc": "Defeat Wail",
         "dlg": "... Was that not enough blood...?! Nngh... Return to the shadows... we need only begin anew.\nIt's... all the same, anyway."
+      },
+      {
+        "id": "battle_special_10513_4",
+        "desc": "Bloodfeast consumed",
+        "dlg": "Горячая кровь... наполняет меня."
+      },
+      {
+        "id": "battle_s3_10513_1_4",
+        "desc": "Let us wear the coagulated mantle of blood",
+        "dlg": "Ах... Кульминация Парада. Это...  финал Увертюры."
+      },
+      {
+        "id": "battle_special_10513_3",
+        "desc": "Ouvertüre in Dashboard",
+        "dlg": "Я слышу звук фейерверков... Время пришло?"
+      },
+      {
+        "id": "battle_special_10513_2",
+        "desc": "Ouvertüre",
+        "dlg": "Увертюра..!"
+      },
+      {
+        "id": "battle_special_10513_1",
+        "desc": "La Mancha Parade inflicted",
+        "dlg": "Я дарую тебе покровительство Короля."
+      },
+      {
+        "id": "battle_special_10513_5",
+        "desc": "Using S3-2 at the same time as Princess Rodion's S3-2",
+        "dlg": "О, Мама! Как же я мечтал вновь ступать вперёд вместе с тобой!"
       }
     ]
 }
