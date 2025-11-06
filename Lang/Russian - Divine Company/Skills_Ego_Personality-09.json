@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -25,18 +25,18 @@
           "level": 3,
           "name": "Effervescent Corrosion",
           "abName": "Ambling Pearl",
-          "desc": "[BeforeAttack] If main target has 50%+ HP, Atk Weight +1",
+          "desc": "[BeforeAttack] If main target has 50%+ HP, Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +5 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -46,18 +46,18 @@
           "level": 4,
           "name": "Effervescent Corrosion",
           "abName": "Ambling Pearl",
-          "desc": "[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1",
+          "desc": "[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +7 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +7 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -72,15 +72,15 @@
           "level": 1,
           "name": "Effervescent Corrosion",
           "abName": "Ambling Pearl",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nTargets randomly<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -90,18 +90,18 @@
           "level": 3,
           "name": "Effervescent Corrosion",
           "abName": "Ambling Pearl",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -111,18 +111,18 @@
           "level": 4,
           "name": "Effervescent Corrosion",
           "abName": "Ambling Pearl",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -142,10 +142,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [AmberTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [AmberTakeDamageUp] next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 15% of this unit's Max HP"
+                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 15% of this unit's Max HP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -160,13 +160,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [AmberTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [AmberTakeDamageUp] next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 25% of this unit's Max HP"
+                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 25% of this unit's Max HP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillHead] If target is Staggered or defeated, apply 10% of this unit's Max HP as Shield to allies that this unit healed"
+                  "desc": "[EndSkillHead] If target is Staggered or defeated, apply 10% of this unit's Max HP as Shield to allies that this unit healed<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -181,13 +181,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AmberTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 [AmberTakeDamageUp] next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 30% of this unit's Max HP"
+                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 30% of this unit's Max HP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillHead] If target is Staggered or defeated, apply 15% of this unit's Max HP as Shield to allies that this unit healed"
+                  "desc": "[EndSkillHead] If target is Staggered or defeated, apply 15% of this unit's Max HP as Shield to allies that this unit healed<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -202,15 +202,15 @@
           "level": 1,
           "name": "Pursuance",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nTargets randomly<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 SP damage"
+                  "desc": "[OnSucceedAttack] Deal 15 SP damage<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -220,18 +220,18 @@
           "level": 3,
           "name": "Pursuance",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 20 SP damage"
+                  "desc": "[OnSucceedAttack] Deal 20 SP damage<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target is Staggered or defeated, heal 5 SP on self"
+                  "desc": "[OnSucceedAttackTail] If target is Staggered or defeated, heal 5 SP on self<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -241,18 +241,18 @@
           "level": 4,
           "name": "Pursuance",
           "abName": "Heavenly Executor’s Scribe",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 20 SP damage"
+                  "desc": "[OnSucceedAttack] Deal 20 SP damage<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is Staggered or defeated, heal 7 SP on self"
+                  "desc": "[OnSucceedAttack] If target is Staggered or defeated, heal 7 SP on self<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -267,16 +267,16 @@
           "level": 1,
           "name": "Sanguine Desire",
           "abName": "The Red Shoes",
-          "desc": "Coin Power +1 for every 2 [Laceration] on target (max 6)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.",
+          "desc": "Coin Power +1 for every 2 [Laceration] on target (max 6)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Lust Affinity damage equal to [Laceration] Potency on target.\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x 1.2).\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)",
+                  "desc": "[OnSucceedAttack] Inflict Lust Affinity damage equal to [Laceration] Potency on target.\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x 1.2).\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
                 },
                 {
-                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.",
+                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.<style=\"highlight\"></style>",
                   "summary": "[EnemyKill] Inflict the excess damage between all enemies."
                 }
               ]
@@ -296,7 +296,7 @@
                   "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
                 },
                 {
-                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.",
+                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.<style=\"highlight\"></style>",
                   "summary": "[EnemyKill] Inflict the excess damage between all enemies."
                 }
               ]
@@ -316,7 +316,7 @@
                   "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
                 },
                 {
-                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.",
+                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.<style=\"highlight\"></style>",
                   "summary": "[EnemyKill] Inflict the excess damage between all enemies."
                 }
               ]
@@ -332,12 +332,12 @@
           "level": 1,
           "name": "Sanguine Desire",
           "abName": "The Red Shoes",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : 4)",
+                  "desc": "[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : 4)<style=\"highlight\"></style>",
                   "summary": "[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]"
                 }
               ]
@@ -348,7 +348,7 @@
           "level": 3,
           "name": "Sanguine Desire",
           "abName": "The Red Shoes",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
                   "summary": "[OnSucceedAttack] Inflict (3 + (Lust Reson.)) [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -367,7 +367,7 @@
           "level": 4,
           "name": "Sanguine Desire",
           "abName": "The Red Shoes",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -391,22 +391,22 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] Heal self and 2 other allies with the least HP percentage for 12.5% of this unit's max HP",
+          "desc": "[EndSkill] Heal self and 2 other allies with the least HP percentage for 12.5% of this unit's max HP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -428,10 +428,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -471,25 +471,25 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Heal 3 other allies with the least HP percentage for 15% of this unit's max HP",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Heal 3 other allies with the least HP percentage for 15% of this unit's max HP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -507,17 +507,17 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -535,7 +535,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -560,15 +560,15 @@
           "level": 1,
           "name": "Indicant's Trial",
           "abName": "Burning Duchess",
-          "desc": "[EndSkill] Heal (1 + highest Reson.) allies with the least HP percentages for 15% of their max HP (max 3 allies)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "[EndSkill] Heal (1 + highest Reson.) allies with the least HP percentages for 15% of their max HP (max 3 allies)\n[EndSkill] For 3 turns, lose 10 SP at Turn End<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this hits the main target, inflict (1 + (Wrath Reson. / 3)) [BirdCage] next turn on main target (max 2; rounded down)"
+                  "desc": "[OnSucceedAttack] If this hits the main target, inflict (1 + (Wrath Reson. / 3)) [BirdCage] next turn on main target (max 2; rounded down)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -603,10 +603,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 8 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 8 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this hits the main target, inflict (1 + (Wrath Reson. / 3)) [BirdCage] next turn on main target (max 3; rounded down)"
+                  "desc": "[OnSucceedAttack] If this hits the main target, inflict (1 + (Wrath Reson. / 3)) [BirdCage] next turn on main target (max 3; rounded down)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -622,31 +622,31 @@
           "level": 1,
           "name": "Indicant's Trial",
           "abName": "Burning Duchess",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. / 2) Atk Weight (max 3; rounded down)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. / 2) Atk Weight (max 3; rounded down)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 6 [Combustion]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 6 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If this hits the main target, inflict (1 + Wrath Reson.) [BirdCage] on main target (max 3)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If this hits the main target, inflict (1 + Wrath Reson.) [BirdCage] on main target (max 3)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +1% damage on main target for every [Combustion] Potency on main target (max 50%)"
+                  "desc": "Deal +1% damage on main target for every [Combustion] Potency on main target (max 50%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EnemyKill] Apply 1 [CrimsonResultUp] and 1 [CrimsonDamageUp] to (1 + highest Reson.) allies with the least HP percentages (max 4 allies; once per Skill)"
+                  "desc": "[EnemyKill] Apply 1 [CrimsonResultUp] and 1 [CrimsonDamageUp] to (1 + highest Reson.) allies with the least HP percentages (max 4 allies; once per Skill)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -656,12 +656,12 @@
           "level": 3,
           "name": "Indicant's Trial",
           "abName": "Burning Duchess",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. / 2) Atk Weight (max 3; rounded down)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. / 2) Atk Weight (max 3; rounded down)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict <style=\"highlight\">8</style> [Combustion]"
@@ -674,10 +674,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "Deal +1% damage on main target for every [Combustion] Potency on main target (max 50%)"
+                  "desc": "Deal +1% damage on main target for every [Combustion] Potency on main target (max 50%)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[EnemyKill] Apply 1 [CrimsonResultUp] and 1 [CrimsonDamageUp] to (1 + highest Reson.) allies with the least HP percentages (max <style=\"highlight\">5</style> allies; once per Skill)"
@@ -690,12 +690,12 @@
           "level": 4,
           "name": "Indicant's Trial",
           "abName": "Burning Duchess",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. / 2) Atk Weight (max 3; rounded down)",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. / 2) Atk Weight (max 3; rounded down)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict <style=\"highlight\">10</style> [Combustion]"
@@ -711,7 +711,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "Deal +<style=\"highlight\">2</style>% damage on the main target for every [Combustion] Potency on the main target (max <style=\"highlight\">100</style>%)"

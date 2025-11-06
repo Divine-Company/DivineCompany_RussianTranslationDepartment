@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
+                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -25,15 +25,15 @@
           "level": 3,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
+                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -43,15 +43,15 @@
           "level": 4,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
+                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -66,15 +66,15 @@
           "level": 1,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify] \nTarget the unit with the most HP",
+          "desc": "[CantIdentify] \nTarget the unit with the most HP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttackTail] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal self by 30% of damage dealt<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -84,18 +84,18 @@
           "level": 3,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttackTail] Inflict +3 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [DefenseDown]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -105,18 +105,18 @@
           "level": 4,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -149,15 +149,15 @@
           "level": 3,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -167,18 +167,18 @@
           "level": 4,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1",
+          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 [Reduction] and 1 [Disarming] next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 [Reduction] and 1 [Disarming] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -193,15 +193,15 @@
           "level": 1,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nTargets randomly<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -211,18 +211,18 @@
           "level": 3,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 [ScarletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 1 [ScarletTakeDamageUp] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -232,18 +232,18 @@
           "level": 4,
           "name": "9:2",
           "abName": "Skin Prophet",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]"
+                  "desc": "[OnSucceedAttack] If target has no [Combustion], inflict 6 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 [ScarletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttackTail] If target has 10+ [Combustion], inflict 2 [ScarletTakeDamageUp] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -258,21 +258,21 @@
           "level": 1,
           "name": "Cavernous Wailing",
           "abName": "Blubbering Toad",
-          "desc": "[BeforeAttack] At 4+ highest Reson., Atk Weight +1",
+          "desc": "[BeforeAttack] At 4+ highest Reson., Atk Weight +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Apply 10% of this unit's max HP as Shield to self and 1 other ally with the least current HP, and apply 2 [ShieldManagerCryingToad] as well"
+                  "desc": "[EndSkill] Apply 10% of this unit's max HP as Shield to self and 1 other ally with the least current HP, and apply 2 [ShieldManagerCryingToad] as well<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Reson., apply it to 1 more ally"
+                  "desc": "- At 4+ highest Reson., apply it to 1 more ally<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -290,10 +290,10 @@
                   "desc": "[EndSkill] Apply <style=\"highlight\">14%</style> of this unit's max HP as Shield to self and <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n<style=\"highlight\">(max # of other allies that gain [ShieldManagerCryingToad]: 3)</style>"
                 },
                 {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -303,7 +303,7 @@
           "level": 4,
           "name": "Cavernous Wailing",
           "abName": "Blubbering Toad",
-          "desc": "[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -311,10 +311,10 @@
                   "desc": "[EndSkill] Apply <style=\"highlight\">20%</style> of this unit's max HP as Shield to self and (1 + (highest Reson. - 2)) allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n(max # of other allies that gain [ShieldManagerCryingToad]: 3)"
                 },
                 {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -329,21 +329,21 @@
           "level": 1,
           "name": "Cavernous Wailing",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Gain (15 + 2.5(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max 25%)"
+                  "desc": "[EndSkill] Gain (15 + 2.5(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max 25%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -358,16 +358,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[EndSkill] Gain (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">30%</style>)"
                 },
                 {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -377,7 +377,7 @@
           "level": 4,
           "name": "Cavernous Wailing",
           "abName": "Blubbering Toad",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -388,10 +388,10 @@
                   "desc": "[EndSkill] Gain (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
+                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">- At 4+ Gloom Reson., gain additional Shield equal to 10% of this unit's max HP</style>"
@@ -409,22 +409,22 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -439,14 +439,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every 3 negative effect on target that aren't [Curse] or [NailPersonality] (max 2)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]"
@@ -467,7 +467,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -477,13 +477,13 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Curse]\n- Inflict 1 additional [Curse] for every <style=\"highlight\">2</style> negative effect on target that aren't [Curse] or [NailPersonality] (max 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ [Curse], inflict 1 [ParryingResultDown] (once per turn)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Binding] next turn (once per turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -498,22 +498,22 @@
           "level": 1,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [NailPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -523,7 +523,7 @@
           "level": 3,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -535,7 +535,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [NailPersonality]"
@@ -551,28 +551,28 @@
           "level": 4,
           "name": "Hex Nail",
           "abName": "Hurting Teddy Bear",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] If target has [Curse], immediately activate it twice and reduce it by 2<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttackTail] Inflict 3 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ Envy Reson. including this Skill, inflict 1 [ParryingResultDown] (once per turn)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 [Binding] next turn (once per turn)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflict 2 [DefenseDown] next turn (once per turn)</style>"
@@ -590,25 +590,25 @@
           "level": 1,
           "name": "Tears of the Tarnished Blood",
           "abName": "Yinglong",
-          "desc": "[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain [YesdragonSelf] equal to Gluttony Reson. (max 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain [YesdragonSelf] equal to Gluttony Reson. (max 5)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\n- Does not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP\n[EndSkill] For 3 turns, lose 10 SP at Turn End<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -623,7 +623,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -633,10 +633,10 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -651,7 +651,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -661,13 +661,13 @@
                   "desc": "<style=\"highlight\"> Deal +1% damage for every 2% missing HP on self (max 40%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -682,25 +682,25 @@
           "level": 1,
           "name": "Tears of the Tarnished Blood",
           "abName": "Yinglong",
-          "desc": "[CantIdentify]\nTargets randomly\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain (Gluttony Reson. + 4) [YesdragonSelf] (max 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP",
+          "desc": "[CantIdentify]\nTargets randomly\n[StartBattle] Gain [YesdragonNodie]\n[BeforeAttack] Gain (Gluttony Reson. + 4) [YesdragonSelf] (max 10)\n[BeforeAttack] Take ([YesdragonSelf] on self x 2) HP damage\nDoes not get Staggered if this lowers this unit's HP below a Stagger Threshold; instead, remove the Stagger Threshold higher than this unit's current HP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -715,7 +715,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
@@ -725,10 +725,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -743,10 +743,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -756,10 +756,10 @@
                   "desc": "<style=\"highlight\"> Deal +1% damage for every 2% missing HP on self (max 40%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] If this unit has 30% or less HP, or is at 20 [YesdragonSelf] Stack, Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)"
+                  "desc": "[ReUseOnSucceedAttack] Consume all HP on self to deal +20% damage with this Coin (once per Turn)<style=\"highlight\"></style>"
                 }
               ]
             }

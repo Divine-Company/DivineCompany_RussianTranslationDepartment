@@ -7,15 +7,15 @@
           "level": 1,
           "name": "Blind Obsession",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[EndSkill] Heal 15 SP for 4 allies with the least SP",
+          "desc": "[EndSkill] Heal 15 SP for 4 allies with the least SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +3 [Charge] Count"
+                  "desc": "[OnSucceedAttackHead] Gain +3 [Charge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Give +1 [Breath] Count to 1 random ally"
+                  "desc": "[OnSucceedAttack] Give +1 [Breath] Count to 1 random ally<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -25,18 +25,18 @@
           "level": 3,
           "name": "Blind Obsession",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[EndSkill] Heal 20 SP for 4 allies with the least SP",
+          "desc": "[EndSkill] Heal 20 SP for 4 allies with the least SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +4 [Charge] Count"
+                  "desc": "[OnSucceedAttackHead] Gain +4 [Charge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Give +1 [Breath] Count to 1 random ally"
+                  "desc": "[OnSucceedAttack] Give +1 [Breath] Count to 1 random ally<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillHead] Apply 1 [PenetrateResultUp] and 1 [AttackDmgUp] to 4 allies with the highest SP"
+                  "desc": "[EndSkillHead] Apply 1 [PenetrateResultUp] and 1 [AttackDmgUp] to 4 allies with the highest SP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -46,18 +46,18 @@
           "level": 4,
           "name": "Blind Obsession",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[EndSkill] Heal 25 SP for 4 allies with the least SP",
+          "desc": "[EndSkill] Heal 25 SP for 4 allies with the least SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +6 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gain +6 [Charge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Give +2 [Breath] Count to 1 random ally"
+                  "desc": "[OnSucceedAttack] Give +2 [Breath] Count to 1 random ally<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Apply 2 [PenetrateResultUp] and 2 [AttackDmgUp] to 4 allies with the highest SP"
+                  "desc": "[EndSkill] Apply 2 [PenetrateResultUp] and 2 [AttackDmgUp] to 4 allies with the highest SP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -72,15 +72,15 @@
           "level": 1,
           "name": "Blind Obsession",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nTargets randomly<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] this turn and next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -90,21 +90,21 @@
           "level": 3,
           "name": "Blind Obsession",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nTargets randomly<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Heal 3% of Max HP on self"
+                  "desc": "[OnSucceedAttackTail] Heal 3% of Max HP on self<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [IndigoTakeDamageUp] this turn and next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkillTail] Apply 2 [AttackDmgUp] this turn and next turn to 4 allies with the least SP"
+                  "desc": "[EndSkillTail] Apply 2 [AttackDmgUp] this turn and next turn to 4 allies with the least SP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -114,21 +114,21 @@
           "level": 4,
           "name": "Blind Obsession",
           "abName": "Dream-Devouring Siltcurrent",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nTargets randomly<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 3% of Max HP on self"
+                  "desc": "[OnSucceedAttack] Heal 3% of Max HP on self<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath] and +1 [Breath] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [IndigoTakeDamageUp] this turn and next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [IndigoTakeDamageUp] this turn and next turn<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[EndSkill] Apply 2 [AttackDmgUp] this turn and next turn to 4 allies with the least SP"
+                  "desc": "[EndSkill] Apply 2 [AttackDmgUp] this turn and next turn to 4 allies with the least SP<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -148,26 +148,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 15% of Max HP on self"
+                  "desc": "[OnSucceedAttack] Heal 15% of Max HP on self<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lose 1~2 SP"
+                  "desc": "[OnSucceedAttackHead] Lose 1~2 SP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 4~8% of damage dealt"
+                  "desc": "[OnSucceedAttack] Heal self by 4~8% of damage dealt<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1~3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1~3 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -177,7 +177,7 @@
           "level": 3,
           "name": "Wingbeat",
           "abName": "Fairy Festival",
-          "desc": "If this Skill's healing exceeds this unit's max HP, redirect the excess healing to 1 ally with the least HP percentage instead",
+          "desc": "If this Skill's healing exceeds this unit's max HP, redirect the excess healing to 1 ally with the least HP percentage instead<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -189,19 +189,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lose 1~2 SP"
+                  "desc": "[OnSucceedAttackHead] Lose 1~2 SP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal self by <style=\"highlight\">6~10</style>% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1~3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 1~3 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -211,7 +211,7 @@
           "level": 4,
           "name": "Wingbeat",
           "abName": "Fairy Festival",
-          "desc": "If this Skill's healing exceeds this unit's max HP, redirect the excess healing to 1 ally with the least HP percentage instead",
+          "desc": "If this Skill's healing exceeds this unit's max HP, redirect the excess healing to 1 ally with the least HP percentage instead<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -223,16 +223,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lose 1~2 SP"
+                  "desc": "[OnSucceedAttackHead] Lose 1~2 SP<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)"
+                  "desc": "[OnSucceedAttackHead] Reuse this Coin (5 times per Skill)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal self by <style=\"highlight\">8~12</style>% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ShamrockTakeDamageUp]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 1~<style=\"highlight\">4</style> [Laceration]"
@@ -250,15 +250,15 @@
           "level": 1,
           "name": "Wingbeat",
           "abName": "Fairy Festival",
-          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] Deal 5% HP damage to at most 5 random other allies\n- Heal HP on self equal to the damage dealt to allies.\n- If this unit dealt damage to an ally, gain 2 [Enhancement] this turn, and gain 2 [Agility] next turn.\n(Once per turn. The 'dealt damage' includes damage dealt to Shield HP. This effect can kill allies.)",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] Deal 5% HP damage to at most 5 random other allies\n- Heal HP on self equal to the damage dealt to allies.\n- If this unit dealt damage to an ally, gain 2 [Enhancement] this turn, and gain 2 [Agility] next turn.\n(Once per turn. The 'dealt damage' includes damage dealt to Shield HP. This effect can kill allies.)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Heal self by 10% of damage dealt"
+                  "desc": "[OnSucceedAttackTail] Heal self by 10% of damage dealt<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1~4 [Laceration]"
+                  "desc": "[OnSucceedAttackTail] Inflict 1~4 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -297,7 +297,7 @@
                   "desc": "[OnSucceedAttackTail] Inflict <style=\"highlight\">3~6</style> [Laceration]"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1[Enhancement] next turn (max 3)"
+                  "desc": "[EnemyKill] Gain 1[Enhancement] next turn (max 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -312,18 +312,18 @@
           "level": 1,
           "name": "Bygone Days",
           "abName": "Portrait of a Certain Day",
-          "desc": "[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[EndSkill] Heal 2 allies with the lowest HP percentages by (5 + ([Sinking] on the main target + [Sinking] Count on the main target)/3)% HP (max 15%)",
+          "desc": "[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[EndSkill] Heal 2 allies with the lowest HP percentages by (5 + ([Sinking] on the main target + [Sinking] Count on the main target)/3)% HP (max 15%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -338,16 +338,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Curse]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ Gloom Reson., inflict 1 [AzureTakeDamageUp]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -368,10 +368,10 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Curse]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ Gloom Reson., inflict 1 [AzureTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] At 4+ Gloom Reson., inflict 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -386,21 +386,21 @@
           "level": 1,
           "name": "Bygone Days",
           "abName": "Portrait of a Certain Day",
-          "desc": "[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] Lose HP by 10% of Max HP (does not get Staggered due to this effect)\n[EndSkill] Heal 3 other allies with the lowest HP percentages by (5 + (([Sinking] on the main target + [Sinking] Count on the main target))/3)% HP (max 10%)\n- At 4+ highest Reson., heal 1 additional ally",
+          "desc": "[CantIdentify]\nPrioritizes targets with the most [Sinking]\n[BeforeAttack] Lose HP by 10% of Max HP (does not get Staggered due to this effect)\n[EndSkill] Heal 3 other allies with the lowest HP percentages by (5 + (([Sinking] on the main target + [Sinking] Count on the main target))/3)% HP (max 10%)\n- At 4+ highest Reson., heal 1 additional ally<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 3+ Gloom Reson., inflict 1 [AzureTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] At 3+ Gloom Reson., inflict 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -415,19 +415,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 3+ Gloom Reson., inflict 1 [AzureTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] At 3+ Gloom Reson., inflict 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -445,16 +445,16 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Sinking] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Curse]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] <style=\"highlight\">For every 3</style> Gloom Reson., inflict 1 [AzureTakeDamageUp] <style=\"highlight\">(max 2)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 [EchoOfMansion] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -469,19 +469,19 @@
           "level": 1,
           "name": "Christmas Nightmare",
           "abName": "Cozy Bed",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP",
+          "desc": "[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -496,20 +496,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -519,15 +519,15 @@
           "level": 4,
           "name": "Christmas Nightmare",
           "abName": "Cozy Bed",
-          "desc": "If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP",
+          "desc": "If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[EndSkill] If there are any targets in Staggered, Low Morale, or Panic states, heal 10 SP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking]"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion] <style=\"highlight\">twice</style>; then, reduce the target's [Vibration] Count by 2"
@@ -537,7 +537,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -552,26 +552,26 @@
           "level": 1,
           "name": "Christmas Nightmare",
           "abName": "Cozy Bed",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[BeforeAttack] Heal 10 HP",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 5) [Vibration] Count (max 10)\n[BeforeAttack] Heal 10 HP<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -586,27 +586,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking] and +2 [Sinking] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -621,30 +621,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +5 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, inflict 5 [Sinking] and +2 [Sinking] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target isn't in Staggered, Low Morale, or Panic states, trigger [VibrationExplosion]; then, reduce the target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -659,22 +659,22 @@
           "level": 1,
           "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
           "abName": "Centipede Apostle",
-          "desc": "[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 5)",
+          "desc": "[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 5)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -689,17 +689,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -739,22 +739,22 @@
           "level": 1,
           "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
           "abName": "Centipede Apostle",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 8)",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 8)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -769,17 +769,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)"
+                  "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max 4)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -789,19 +789,19 @@
           "level": 4,
           "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
           "abName": "Centipede Apostle",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 10)",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Inflict [CentipedePoison] equal to the sum of the types of negative effects on self and the main target (max 10)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] At 4+ Gluttony or Gloom Reson., inflict [CentipedePoison] by Reson. (max <style=\"highlight\">5</style>)"
@@ -819,44 +819,44 @@
           "level": 1,
           "name": "Tidal Elegy",
           "abName": "Skadi",
-          "desc": "When attacking just a single target(in Focused Encounters, a Core and its connected Parts count as a single target), Coin Power +2 and deal +100% damage\n[WhenUse] If the main target has 4+ [Sinking], Clash Power +1\n[BeforeAttack] If the main target has higher than 1 Gloom Resist., deal +2% damage for every 0.1 excess Resist. (max 10%)\n[BeforeAttack] At 2+ Gloom Reson., deal +5% damage for every Gloom Reson. (max 20%)\n[EndSkill] If 1 or more targets are killed, deal ([Sinking] Potency on each target / 2) Gloom damage against 2 random enemies (max 15; prioritizes targeted enemies with the most [Sinking] Potency)",
+          "desc": "When attacking just a single target(in Focused Encounters, a Core and its connected Parts count as a single target), Coin Power +2 and deal +100% damage\n[WhenUse] If the main target has 4+ [Sinking], Clash Power +1\n[BeforeAttack] If the main target has higher than 1 Gloom Resist., deal +2% damage for every 0.1 excess Resist. (max 10%)\n[BeforeAttack] At 2+ Gloom Reson., deal +5% damage for every Gloom Reson. (max 20%)\n[EndSkill] If 1 or more targets are killed, deal ([Sinking] Potency on each target / 2) Gloom damage against 2 random enemies (max 15; prioritizes targeted enemies with the most [Sinking] Potency)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If there are Staggered, Part broken, or killed units among the targets, inflict 2 [Sinking] against a random non-targeted enemy (once per turn; in Focused Encounters, each Part count as 1 target)"
+                  "desc": "[OnSucceedAttack] If there are Staggered, Part broken, or killed units among the targets, inflict 2 [Sinking] against a random non-targeted enemy (once per turn; in Focused Encounters, each Part count as 1 target)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- If there is just a single target, apply it to 3 targets instead"
+                  "desc": "- If there is just a single target, apply it to 3 targets instead<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -871,7 +871,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
@@ -884,7 +884,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
@@ -894,7 +894,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] If there are Staggered, Part broken, or killed units among the targets, inflict 2 [Sinking] against a random non-targeted enemy (once per turn; for Focused Encounters, each Part count as 1 target)<style=\"highlight\"></style>"
@@ -918,7 +918,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
@@ -931,7 +931,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Inflict <style=\"highlight\">2</style> [Binding] next turn"
@@ -941,7 +941,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] If there are Staggered, Part broken, or killed units among the targets, inflict 2 [Sinking] against a random non-targeted enemy (once per turn; in Focused Encounters, each Part count as 1 target)<style=\"highlight\"></style>"
@@ -965,36 +965,36 @@
           "level": 1,
           "name": "Tidal Elegy",
           "abName": "Skadi",
-          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] If main target has 5+ [Sinking], Clash Power +1\n[BeforeAttack] Gain the following effects for every 3 highest Reson.\n- Gain +1 Atk Weight (max 2)\n- Deal +15% damage (max 30%)\n[EndSkill] Apply 1 [HitDamageUp] next turn to (highest Reson.) random allies (including this unit; max 4 allies; once per turn)",
+          "desc": "[CantIdentify]\nTargets randomly\n[WhenUse] If main target has 5+ [Sinking], Clash Power +1\n[BeforeAttack] Gain the following effects for every 3 highest Reson.\n- Gain +1 Atk Weight (max 2)\n- Deal +15% damage (max 30%)\n[EndSkill] Apply 1 [HitDamageUp] next turn to (highest Reson.) random allies (including this unit; max 4 allies; once per turn)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1009,28 +1009,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If there are Staggered, Part broken, or killed units among the targets, inflict 1 [AzureTakeDamageUp] next turn against a random non-targeted enemy (once per turn; for Focused Encounters, each Part counts as 1 target)</style>"
@@ -1051,7 +1051,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1065,7 +1065,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
