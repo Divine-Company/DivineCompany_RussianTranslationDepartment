@@ -382,33 +382,33 @@
     {
       "id": 1052,
       "name": "Hot ‘n Juicy Drumstick",
-      "desc": "When inflicting [Combustion] with skill effects against enemies, inflict +5 [Combustion] Count.",
+      "desc": "When inflicting [Combustion] with Skills against enemies, inflict +5 [Combustion] Count.",
       "simpleDesc": [
         {
           "abilityID": 1052,
-          "simpleDesc": ""
+          "simpleDesc": "When inflicting [Combustion] with skill effects, inflict +5 [Combustion] Count."
         }
       ]
     },
     {
       "id": 1053,
       "name": "Dry-to-the-Bone Breast",
-      "desc": "When inflicting [Burst] with skill effects against enemies, inflict +5 [Burst] Count.",
+      "desc": "When inflicting [Burst] with Skills against enemies, inflict +5 [Burst] Count.",
       "simpleDesc": [
         {
           "abilityID": 1053,
-          "simpleDesc": ""
+          "simpleDesc": "When inflicting [Burst] with skill effects, inflict +3 [Burst] Count."
         }
       ]
     },
     {
       "id": 1054,
       "name": "Tango Marinade",
-      "desc": "Allies gain Clash Power by half their Speed against opponents with lower Speed.",
+      "desc": "Allies gain Clash Power by half their Speed against opponents with lower Speed. (max 3)",
       "simpleDesc": [
         {
           "abilityID": 1054,
-          "simpleDesc": ""
+          "simpleDesc": "Gain +(Speed/2) Clash Power."
         }
       ]
     },
@@ -419,7 +419,7 @@
       "simpleDesc": [
         {
           "abilityID": 1055,
-          "simpleDesc": ""
+          "simpleDesc": "Inflict (damage dealt/3) [Laceration] Potency"
         }
       ]
     },
@@ -430,7 +430,7 @@
       "simpleDesc": [
         {
           "abilityID": 1056,
-          "simpleDesc": ""
+          "simpleDesc": "Deal (damage dealt/2) bonus fixed damage"
         }
       ]
     },
