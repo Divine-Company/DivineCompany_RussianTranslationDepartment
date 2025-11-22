@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "walpu7_reward_event_desc",
-      "content": "The actual amount of Enkephalin spent during the event period will be recorded.\nSpending Enkephalin to assemble Enkephalin Modules does not count toward your spent Enkephalin count.\nHowever, each Enkephalin Module spent counts as <color=#22ffe4>20 Enkephalin</color> spent."
+      "content": "Во время события использование Энкефалина будет записываться.\nКаждый потраченный Энкефалиновый модуль будет засчитываться за <color=#22ffe4>20 единиц Энкефалина</color>, однако само преобразование Энкефалина в Модули учитываться\nне будет."
     },
     {
       "id": "walpu7_consumed_enkephalin",
-      "content": "Enkephalin Spent"
+      "content": "Энкефалина использовано"
     }
   ]
 }

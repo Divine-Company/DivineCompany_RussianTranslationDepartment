@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "formation_ego_resource_detail",
-      "content": "Details"
+      "content": "Детали"
     },
     {
       "id": "formation_deck_code_auto_filled",
@@ -70,35 +70,35 @@
     },
     {
       "id": "formation_side_button_all_personality",
-      "content": "All Identities"
+      "content": "Все Личности"
     },
     {
       "id": "formation_side_button_all_ego",
-      "content": "All E.G.O"
+      "content": "Все ЭГО"
     },
     {
       "id": "formation_side_button_friend_support",
-      "content": "Support"
+      "content": "Помощь"
     },
     {
       "id": "character_list_title_all_personality",
-      "content": "Identities"
+      "content": "Личности"
     },
     {
       "id": "character_list_title_all_personality_with_character_name",
-      "content": "Identities: {0}"
+      "content": "Личности: {0}"
     },
     {
       "id": "character_list_title_all_ego",
-      "content": "E.G.O"
+      "content": "ЭГО"
     },
     {
       "id": "character_list_title_all_ego_with_character_name",
-      "content": "E.G.O: {0}"
+      "content": "ЭГО: {0}"
     },
     {
       "id": "character_list_title_friend_support",
-      "content": "Support Identities: {0}"
+      "content": "Личности друзей: {0}"
     },
     {
       "id": "character_list_collect_rate",
@@ -110,7 +110,7 @@
     },
     {
       "id": "character_list_sort_label",
-      "content": "Sort By"
+      "content": "Сортировать по"
     },
     {
       "id": "character_list_friend_support_not_existed",
@@ -122,15 +122,15 @@
     },
     {
       "id": "view_personality_status_button_label",
-      "content": "Identities"
+      "content": "Личности"
     },
     {
       "id": "formation_ui_announcer",
-      "content": "Announcers"
+      "content": "Комментаторы"
     },
     {
       "id": "formation_ui_announcer_detail",
-      "content": "Announcer Details"
+      "content": "Информация о комментаторе"
     },
     {
       "id": "formation_deck_code_invalid_code",
@@ -146,11 +146,11 @@
     },
     {
       "id": "formation_current_personality",
-      "content": "Selected Identity"
+      "content": "Выбранная Личность"
     },
     {
       "id": "ego_sort_label_rarity",
-      "content": "Rarity"
+      "content": "Редкость"
     },
     {
       "id": "ego_filter_label_attack_type",
@@ -178,7 +178,7 @@
     },
     {
       "id": "filter_condition_speed",
-      "content": "Speed"
+      "content": "Скорость"
     },
     {
       "id": "filter_condition_defense",

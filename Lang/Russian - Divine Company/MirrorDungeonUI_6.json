@@ -74,15 +74,15 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_left_cost",
-      "content": "Remaining Starlight"
+      "content": "Оставшийся звёздный свет"
     },
     {
       "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_on",
-      "content": "Coverts any remaining Starlight\nafter purchasing Grace of Stars to Cost.\n\n※ \"Owned Starlight\" will\nnot be converted into Cost."
+      "content": "Ковертирует весь оставшийся звёздный свет в жетоны.\n\n※ Звёздный свет «В наличии» конвертирован не будет."
     },
     {
       "id": "mirror_start_buff_purchase_modal_desc_md6_toggle_off",
-      "content": "Any unspent Starlight will be\nadded to your Dungeon clear rewards."
+      "content": "Весь оставшийся звёздный свет будет добавлен к вашим наградам за прохождение."
     },
     {
       "id": "mirror_theme_list_pack_tag_not_selectable",
@@ -110,7 +110,7 @@
     },
     {
       "id": "mirror_dungeon_available_starlight",
-      "content": "Available"
+      "content": "Доступно"
     },
     {
       "id": "mirrordungeon_starlight_personality_button_label",
@@ -150,7 +150,7 @@
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_title_md6",
-      "content": "Grace of the Immortal Star"
+      "content": "Благословения Бессмертной Звезды"
     },
     {
       "id": "mirror_dungeon_start_buff_card_enhancement",
@@ -158,7 +158,7 @@
     },
     {
       "id": "mirror_user_starlight_buff",
-      "content": "Grace of Stars"
+      "content": "Благословения Звёзд"
     },
     {
       "id": "mirror_unobservable_egogift_reason",
@@ -170,7 +170,7 @@
     },
     {
       "id": "mirror_start_buff_purchase_modal_check_box",
-      "content": "Convert Starlight to Cost"
+      "content": "Конвертировать звёздный свет в жетоны"
     },
     {
       "id": "mirrordungeon_additional_reserved_starlight_from_startBuff",
@@ -511,6 +511,14 @@
     {
       "id": "mirror_finished_panel_floor_format",
       "content": "{0}F"
+    },
+    {
+      "id": "mirror_dungeon_auto_participate_order_adjustment_notice",
+      "content": "Deployment Order has been restored via ally revival."
+    },
+    {
+      "id": "mirror_dungeon_option_participation_modification",
+      "content": "Auto-Restore MD Deployment Order"
     }
   ]
 }
