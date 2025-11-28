@@ -82,7 +82,7 @@
                 },
                 {
                     "abilityID": 20321,
-                    "simpleDesc": "Inflict additional 4 [Laceration] Potency and +4 [Laceration] Count"
+                    "simpleDesc": "Inflict additional 4 Bleed Potency and +4 Bleed Count"
                 }
             ]
         },
@@ -97,7 +97,7 @@
                 },
                 {
                     "abilityID": 20331,
-                    "simpleDesc": "Deal additional Pride damage equal to [Breath] Potency on self"
+                    "simpleDesc": "Deal additional Pride damage equal to Poise Potency on self"
                 }
             ]
         },
