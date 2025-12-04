@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
                 }
               ]
             }
@@ -27,10 +27,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly select one of the following effects: 1 [Breath] Count, 1 [Charge] Count, 1 [Agility], 1 [AttackUp], or 1 [DefenseUp]. Then, apply the selected effect to 2 random allies next turn<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Randomly select one of the following effects: 1 [Breath] Count, 1 [Charge] Count, 1 [Agility], 1 [AttackUp], or 1 [DefenseUp]. Then, apply the selected effect to 2 random allies next turn"
                 }
               ]
             }
@@ -45,10 +45,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly select one of the following effects: 2 [Breath] Count, 2 [Charge] Count, 2 [Agility], 2 [AttackUp], or 2 [DefenseUp]. Then, apply the selected effect to 2 random allies next turn<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Randomly select one of the following effects: 2 [Breath] Count, 2 [Charge] Count, 2 [Agility], 2 [AttackUp], or 2 [DefenseUp]. Then, apply the selected effect to 2 random allies next turn"
                 }
               ]
             }
@@ -63,12 +63,12 @@
           "level": 1,
           "name": "Holiday",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 }
               ]
             }
@@ -78,12 +78,12 @@
           "level": 3,
           "name": "Holiday",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 }
               ]
             }
@@ -93,12 +93,12 @@
           "level": 4,
           "name": "Holiday",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets the unit with the Most SP\nIf the main target's SP is higher than 15, Atk Weight +1\n[BeforeAttack] Target loses 10 SP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets the unit with the Most SP\nIf the main target's SP is higher than 15, Atk Weight +1\n[BeforeAttack] Target loses 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Then, inflict 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
                 }
               ]
             }
@@ -113,18 +113,18 @@
           "level": 1,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]<style=\"highlight\"></style>",
+          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -134,21 +134,21 @@
           "level": 3,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]<style=\"highlight\"></style>",
+          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -158,21 +158,21 @@
           "level": 4,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheBoundKing], and 2 [Enhancement]<style=\"highlight\"></style>",
+          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheBoundKing], and 2 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -187,21 +187,21 @@
           "level": 1,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding] and 3 [Enhancement] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max 2)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding] and 3 [Enhancement] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -216,16 +216,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -240,16 +240,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -264,22 +264,22 @@
           "level": 1,
           "name": "Fell Bullet",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[EndSkill] Lose every [BoseProjektil]<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[EndSkill] Lose every [BoseProjektil]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "+5% Damage on Critical Hit for every [BoseProjektil] (max 35%)<style=\"highlight\"></style>"
+                  "desc": "+5% Damage on Critical Hit for every [BoseProjektil] (max 35%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)<style=\"highlight\"></style>"
+                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
                 }
               ]
             }
@@ -298,13 +298,13 @@
                   "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">70</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)<style=\"highlight\"></style>"
+                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
                 }
               ]
             }
@@ -323,13 +323,13 @@
                   "desc": "+<style=\"highlight\">15</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">105</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (3 times per Encounter)<style=\"highlight\"></style>"
+                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (3 times per Encounter)"
                 }
               ]
             }
@@ -344,12 +344,12 @@
           "level": 1,
           "name": "Fell Bullet",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[BeforeAttack] Deal +3% damage for every 5 [Breath] on self (max 15%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Deal +2% damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[BeforeAttack] Deal +3% damage for every 5 [Breath] on self (max 15%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Sinking]"
                 }
               ]
             }
@@ -364,7 +364,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]"
                 }
               ]
             }
@@ -379,7 +379,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]"
                 }
               ]
             }
@@ -394,25 +394,25 @@
           "level": 1,
           "name": "Asymmetrical Inertia",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[BeforeAttack] Gain (highest Reson.) [Vibration] Count (max 6, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Gain (highest Reson.) [Vibration] Count (max 6, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict +2 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson., inflict 1 [AmberTakeDamageUp] next turn as well<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 1 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson., inflict 1 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -427,13 +427,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict +2 [Vibration] Count"
                 }
               ]
             },
@@ -455,13 +455,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +3 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict +3 [Vibration] Count"
                 }
               ]
             },
@@ -483,28 +483,28 @@
           "level": 1,
           "name": "Asymmetrical Inertia",
           "abName": "Clockwork-Time-Roly-Poly",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (2 + highest Reson.) [Vibration] Count (max 8, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (2 + highest Reson.) [Vibration] Count (max 8, 20 per turn)\n- If the said Reson. was a Sloth Reson., trigger [Switch_Vibration] on [Vibration] on self into [VibrationSpring]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict +2 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson, inflict 2 [AmberTakeDamageUp] next turn as well<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a 4+ Sloth A-Reson, inflict 2 [AmberTakeDamageUp] next turn as well"
                 }
               ]
             }
@@ -519,20 +519,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 5 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +3 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict +3 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">Sloth A-Reson</style>, inflict 2 [AmberTakeDamageUp] next turn as well"
@@ -550,20 +550,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 6 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 6 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict +4 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict +4 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When triggering [VibrationExplosion], inflict 2 [AmberTakeDamageUp] this turn\n- If the highest Reson. was a <style=\"highlight\">3+ Sloth Reson.</style>, inflict 2 [AmberTakeDamageUp] next turn as well"

@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -27,19 +27,19 @@
         {
           "level": 2,
           "name": "We Remember",
-          "desc": "[DefeatDuel] Gain 1 [VioletDamageUp] next turn<style=\"highlight\"></style>",
+          "desc": "[DefeatDuel] Gain 1 [VioletDamageUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -48,19 +48,19 @@
         {
           "level": 4,
           "name": "We Remember",
-          "desc": "[DefeatDuel] Gain 1 [VioletDamageUp] next turn<style=\"highlight\"></style>",
+          "desc": "[DefeatDuel] Gain 1 [VioletDamageUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -74,19 +74,19 @@
         {
           "level": 1,
           "name": "Chains of Loyalty",
-          "desc": "[StartBattle] Apply 1 [VioletResultUp] to 2 allies adjacent to this unit on the Dashboard.<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Apply 1 [VioletResultUp] to 2 allies adjacent to this unit on the Dashboard.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -95,19 +95,19 @@
         {
           "level": 2,
           "name": "Chains of Loyalty",
-          "desc": "[StartBattle] Apply 1 [VioletResultUp] to 2 allies adjacent to this unit on the Dashboard.<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Apply 1 [VioletResultUp] to 2 allies adjacent to this unit on the Dashboard.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -116,19 +116,19 @@
         {
           "level": 4,
           "name": "Chains of Loyalty",
-          "desc": "[StartBattle] Apply 1 [VioletResultUp] to 2 allies adjacent to this unit on the Dashboard\nApply 1 [VioletDamageUp] as well when selecting Envy affinity Skills from the affected Skill Slots<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Apply 1 [VioletResultUp] to 2 allies adjacent to this unit on the Dashboard\nApply 1 [VioletDamageUp] as well when selecting Envy affinity Skills from the affected Skill Slots",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -142,12 +142,12 @@
         {
           "level": 3,
           "name": "Recording",
-          "desc": "At 4+ Envy Reson., Coin Power +1<style=\"highlight\"></style>",
+          "desc": "At 4+ Envy Reson., Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 1 [PlusCoinValueDown] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 1 [PlusCoinValueDown] next turn"
                 }
               ]
             },
@@ -161,7 +161,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 1 [VioletTakeDamageUp] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 1 [VioletTakeDamageUp] next turn"
                 }
               ]
             }
@@ -170,12 +170,12 @@
         {
           "level": 4,
           "name": "Recording",
-          "desc": "At 4+ Envy Reson., Coin Power +1\nAt 6+ Envy A-Reson., Coin Power +1<style=\"highlight\"></style>",
+          "desc": "At 4+ Envy Reson., Coin Power +1\nAt 6+ Envy A-Reson., Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 1 [PlusCoinValueDown] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 1 [PlusCoinValueDown] next turn"
                 }
               ]
             },
@@ -189,7 +189,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 2 [VioletTakeDamageUp] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [RetaliationBook], inflict 2 [VioletTakeDamageUp] next turn"
                 }
               ]
             }
@@ -208,14 +208,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -224,19 +224,19 @@
         {
           "level": 4,
           "name": "Multifold Retribution",
-          "desc": "At 4+ Envy Reson., Coin Power +1<style=\"highlight\"></style>",
+          "desc": "At 4+ Envy Reson., Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -250,19 +250,19 @@
         {
           "level": 1,
           "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
                 }
               ]
             }
@@ -276,14 +276,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             }
@@ -292,19 +292,19 @@
         {
           "level": 3,
           "name": "Draw of the Sword",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             }
@@ -318,14 +318,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
                 }
               ]
             }
@@ -339,12 +339,12 @@
         {
           "level": 1,
           "name": "Acupuncture",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 [SlashResultUp] next turn<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 [SlashResultUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Gain 3 [Breath]"
                 }
               ]
             },
@@ -352,7 +352,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+30% Damage on Critical Hit"
                 }
               ]
             }
@@ -366,7 +366,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
                 }
               ]
             },
@@ -374,7 +374,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+40% Damage on Critical Hit"
                 }
               ]
             }
@@ -383,12 +383,12 @@
         {
           "level": 3,
           "name": "Acupuncture",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 [SlashResultUp] next turn<style=\"highlight\"></style>",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 [SlashResultUp] next turn",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
                 }
               ]
             },
@@ -396,7 +396,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+40% Damage on Critical Hit"
                 }
               ]
             }
@@ -410,7 +410,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
                 }
               ]
             },
@@ -418,7 +418,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+60% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+60% Damage on Critical Hit"
                 }
               ]
             }
@@ -432,7 +432,7 @@
         {
           "level": 3,
           "name": "Yield My Flesh",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] Deal +2% damage on Critical Hit for every [Breath] Potency on self (Max 50%)\n+15% Damage on Critical Hit\nDeal +0.5% damage per 1% missing HP on self (Max 25%)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] Deal +2% damage on Critical Hit for every [Breath] Potency on self (Max 50%)\n+15% Damage on Critical Hit\nDeal +0.5% damage per 1% missing HP on self (Max 25%)",
           "coinlist": [
             {}
           ]
@@ -440,7 +440,7 @@
         {
           "level": 4,
           "name": "Yield My Flesh",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] Deal +3% damage on Critical Hit for every [Breath] Potency on self (Max 75%)\n+30% Damage on Critical Hit\nDeal +0.5% damage per 1% missing HP on self (Max 25%)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] Deal +3% damage on Critical Hit for every [Breath] Potency on self (Max 75%)\n+30% Damage on Critical Hit\nDeal +0.5% damage per 1% missing HP on self (Max 25%)",
           "coinlist": [
             {}
           ]
@@ -453,12 +453,12 @@
         {
           "level": 1,
           "name": "Overthrow",
-          "desc": "[WhenUse] Gain 1 [SlashResultUp] next turn (1 time max)<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain 1 [SlashResultUp] next turn (1 time max)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             }
@@ -472,7 +472,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             }
@@ -486,7 +486,7 @@
         {
           "level": 1,
           "name": "To Claim Their Bones",
-          "desc": "[BeforeAttack] At 10+ [Breath], Atk Weight +1\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WhenUse] Deal +2% damage on Critical Hit for every [Breath] Potency on self (Max 50%)\n+20% Damage on Critical Hit\nDeal +0.5% damage per 1% missing HP on self (Max 25%)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] At 10+ [Breath], Atk Weight +1\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WhenUse] Deal +2% damage on Critical Hit for every [Breath] Potency on self (Max 50%)\n+20% Damage on Critical Hit\nDeal +0.5% damage per 1% missing HP on self (Max 25%)",
           "coinlist": [
             {},
             {},
@@ -494,10 +494,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis] next turn"
                 }
               ]
             }
@@ -514,10 +514,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis] next turn"
                 }
               ]
             }
@@ -536,7 +536,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -545,12 +545,12 @@
         {
           "level": 2,
           "name": "Bat Strike",
-          "desc": "If target has 5+ [Burst], Coin Power +1<style=\"highlight\"></style>",
+          "desc": "If target has 5+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -564,7 +564,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 }
               ]
             }
@@ -584,10 +584,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown]"
                 }
               ]
             }
@@ -596,16 +596,16 @@
         {
           "level": 2,
           "name": "Smackdown",
-          "desc": "[WinDuel] Inflict +2 [Burst] Count<style=\"highlight\"></style>",
+          "desc": "[WinDuel] Inflict +2 [Burst] Count",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown]"
                 }
               ]
             }
@@ -620,10 +620,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 4+ [Burst], inflict 2 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 4+ [Burst], inflict 2 [AttackDown]"
                 }
               ]
             }
@@ -637,7 +637,7 @@
         {
           "level": 3,
           "name": "Relentless",
-          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] If target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -645,10 +645,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown] next turn"
                 }
               ]
             }
@@ -665,10 +665,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict 2 [AttackDown] next turn"
                 }
               ]
             }
@@ -687,7 +687,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             }
@@ -701,7 +701,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             }
@@ -715,13 +715,13 @@
         {
           "level": 1,
           "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots<style=\"highlight\"></style>",
+          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -736,7 +736,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -751,7 +751,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -765,13 +765,13 @@
         {
           "level": 1,
           "name": "Moment of Erudition",
-          "desc": "[StartBattle] Gain [KnowledgeTraining] equal to [KnowledgeExplored] on self\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots<style=\"highlight\"></style>",
+          "desc": "[StartBattle] Gain [KnowledgeTraining] equal to [KnowledgeExplored] on self\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]"
                 }
               ]
             }
@@ -786,7 +786,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]"
                 }
               ]
             }
@@ -815,14 +815,14 @@
         {
           "level": 3,
           "name": "Scorch Knowledge",
-          "desc": "Deal +3% damage for every [KnowledgeExplored] on self (max 18%)\n[WhenUse] If target has 6+ [Sinking], Coin Power +1\n[BeforeAttack] Consume all [KnowledgeTraining] on self and gain half of that value as additional [KnowledgeExplored] (rounded down)\n[EndSkill] At 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)<style=\"highlight\"></style>",
+          "desc": "Deal +3% damage for every [KnowledgeExplored] on self (max 18%)\n[WhenUse] If target has 6+ [Sinking], Coin Power +1\n[BeforeAttack] Consume all [KnowledgeTraining] on self and gain half of that value as additional [KnowledgeExplored] (rounded down)\n[EndSkill] At 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)"
                 }
               ]
             }
@@ -838,7 +838,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)"
                 }
               ]
             }
@@ -852,7 +852,7 @@
         {
           "level": 1,
           "name": "Fixated Study",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots<style=\"highlight\"></style>",
+          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -885,12 +885,12 @@
         {
           "level": 1,
           "name": "Allez",
-          "desc": "[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 }
               ]
             },
@@ -900,19 +900,19 @@
         {
           "level": 2,
           "name": "Allez",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             }
@@ -921,22 +921,22 @@
         {
           "level": 4,
           "name": "Allez",
-          "desc": "If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "If this unit's Speed is faster than the target's, gain Coin Power based on Speed difference (Coin Power +1 for every 3 Speed difference; max 2)\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency with its effects, but does not consume [Burst] Count On Hit\n[WhenUse] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's, inflict [Burst] equal to their Speed difference (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this unit's Speed is faster than the target's, inflict [Burst] equal to their Speed difference (max 3)"
                 }
               ]
             }
@@ -950,26 +950,26 @@
         {
           "level": 1,
           "name": "Fente",
-          "desc": "[WinDuel] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 }
               ]
             }
@@ -978,29 +978,29 @@
         {
           "level": 2,
           "name": "Fente",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count"
                 }
               ]
             }
@@ -1009,19 +1009,19 @@
         {
           "level": 4,
           "name": "Fente",
-          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count<style=\"highlight\"></style>",
+          "desc": "If this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Potency or Count with its effects, but does not consume [Burst] Count On Hit\n[WinDuel] Gain +2 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain +2 [Breath] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
                 }
               ]
             },
@@ -1031,10 +1031,10 @@
                   "desc": "<style=\"highlight\">If this unit does not inflict [Burst], +5% Damage on Critical Hit for every [Burst] Potency and Count it would have inflicted</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count"
                 }
               ]
             }
@@ -1048,29 +1048,29 @@
         {
           "level": 3,
           "name": "Salut",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]<style=\"highlight\"></style>",
+          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] If target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not consume [Burst] Count On Hit\n[WinDuel] Gain 5 [Breath]\n- If target has [ConcentratedAttackMeursault], gain 5 additional [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% damage<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] The final Coin deals +10% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% damage<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] The final Coin deals +10% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +10% damage for every [ConcentratedAttackMeursault] on the Slot<style=\"highlight\"></style>"
+                  "desc": "Deal +10% damage for every [ConcentratedAttackMeursault] on the Slot"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+30% Damage on Critical Hit"
                 }
               ]
             }
@@ -1084,14 +1084,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% damage<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] The final Coin deals +10% damage"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[WinDuelAttack] The final Coin deals +10% damage<style=\"highlight\"></style>"
+                  "desc": "[WinDuelAttack] The final Coin deals +10% damage"
                 }
               ]
             },
@@ -1101,7 +1101,7 @@
                   "desc": "Deal <style=\"highlight\">+20%</style> damage for every [ConcentratedAttackMeursault] on the Slot"
                 },
                 {
-                  "desc": "+30% Damage on Critical Hit<style=\"highlight\"></style>"
+                  "desc": "+30% Damage on Critical Hit"
                 },
                 {
                   "desc": "<style=\"highlight\">- Deal +2% Damage on Critical Hit for every [Burst] on target (max 30%)</style>"
@@ -1135,7 +1135,7 @@
         {
           "level": 4,
           "name": "Défensive",
-          "desc": "[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Coin Power +2<style=\"highlight\"></style>",
+          "desc": "[WhenUse] If this unit's Speed is faster than the target's by 3 or more, Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1160,13 +1160,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             }
@@ -1187,13 +1187,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             }
@@ -1207,14 +1207,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Vibration:`Тремора`]"
@@ -1240,26 +1240,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Vibration:`Тремора`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Combustion:`Горения`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчик [Combustion:`Горения`]"
                 }
               ]
             }
@@ -1280,26 +1280,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] При 3 и более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1</style>"
@@ -1316,14 +1316,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Vibration:`Тремора`]"
@@ -1336,7 +1336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> Счётчика [Vibration:`Тремора`]"
@@ -1345,7 +1345,7 @@
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">2</style> Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] При 3 и более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] При 3 и более Счётчика [Vibration:`Тремора`] на цели, вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -1359,47 +1359,47 @@
         {
           "level": 3,
           "name": "Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)",
-          "desc": "При 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], вместо этого навыка использует «Чаоцзюэ-Мэнху-Шацзилуаньчжань (Истинное обезглавливание неистового тигра)»\n+1 к Силе Монет при 8 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели<style=\"highlight\"></style>",
+          "desc": "При 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], вместо этого навыка использует «Чаоцзюэ-Мэнху-Шацзилуаньчжань (Истинное обезглавливание неистового тигра)»\n+1 к Силе Монет при 8 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Vibration:`Тремора`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Vibration:`Тремора`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Combustion:`Горения`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "При использовании [BulletPropellantAlly:`Тигриного патрона`] этой Монетой наносит на 20% больше урона<style=\"highlight\"></style>"
+                  "desc": "При использовании [BulletPropellantAlly:`Тигриного патрона`] этой Монетой наносит на 20% больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -1413,7 +1413,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> [Vibration:`Тремора`]"
@@ -1426,7 +1426,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> Счётчика [Vibration:`Тремора`]"
@@ -1439,13 +1439,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "При использовании [BulletPropellantAlly:`Тигриного патрона`] этой Монетой наносит на <style=\"highlight\">50%</style> больше урона"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1\n<style=\"highlight\">Используя [BulletPropellantAlly], повторно активирует эффект выше ещё два раза</style>"
@@ -1462,13 +1462,13 @@
         {
           "level": 1,
           "name": "Закипаю от ярости",
-          "desc": "[DuelCounter]\n+1 к Итоговой Силе при 4 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели\n+1 к Силе в Схватке при нулевом Значении [BulletPropellantAlly:`Тигриных`] и [BulletPropellantSpecialAlly:`Зверских тигриных`] патронов<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n+1 к Итоговой Силе при 4 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели\n+1 к Силе в Схватке при нулевом Значении [BulletPropellantAlly:`Тигриных`] и [BulletPropellantSpecialAlly:`Зверских тигриных`] патронов",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] (до двух раз за ход)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] (до двух раз за ход)"
                 }
               ]
             }
@@ -1489,7 +1489,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] (до двух раз за ход)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] (до двух раз за ход)"
                 }
               ]
             }
@@ -1503,52 +1503,52 @@
         {
           "level": 3,
           "name": "Чаоцзюэ-Мэнху-Шацзилуаньчжань (Истинное обезглавливание неистового тигра)",
-          "desc": "+1 к Силе Монет при 8 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели<style=\"highlight\"></style>",
+          "desc": "+1 к Силе Монет при 8 и более ([Combustion:`Горения`] и [Vibration:`Тремора`]) на основной цели",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Vibration:`Тремора`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantSpecialAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantSpecialAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Combustion:`Горения`]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantSpecialAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1\nИспользуя [BulletPropellantSpecialAlly], повторно активирует эффект выше ещё раз<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1\nИспользуя [BulletPropellantSpecialAlly], повторно активирует эффект выше ещё раз"
                 }
               ]
             }
@@ -1576,7 +1576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantSpecialAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> [Combustion:`Горения`]"
@@ -1586,7 +1586,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantSpecialAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> Счётчика [Combustion:`Горения`]"
@@ -1596,10 +1596,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Использует 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Использует 1 [BulletPropellantSpecialAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion], понижая Счётчик [Vibration:`Тремора`] цели на 1\nИспользуя [BulletPropellantSpecialAlly], повторно активирует эффект выше ещё <style=\"highlight\">два</style> раза"
@@ -1616,12 +1616,12 @@
         {
           "level": 1,
           "name": "March Conductor",
-          "desc": "[WhenUse] On self and 1 ally with the lowest max HP: consume up to 10 [BloodDinner] and apply 1 [BloodArmorMeursault] for every 5 [BloodDinner] this unit consumed (once per turn; excludes allies with max Stack)\n- Prioritizes <La Manchaland> and <Bloodfiend>(Higher Kindred) allies\n- If the affected ally is from <La Manchaland>, this unit applies 1 additional [BloodArmorMeursault]\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] On self and 1 ally with the lowest max HP: consume up to 10 [BloodDinner] and apply 1 [BloodArmorMeursault] for every 5 [BloodDinner] this unit consumed (once per turn; excludes allies with max Stack)\n- Prioritizes <La Manchaland> and <Bloodfiend>(Higher Kindred) allies\n- If the affected ally is from <La Manchaland>, this unit applies 1 additional [BloodArmorMeursault]\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
@@ -1629,7 +1629,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -1643,7 +1643,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
@@ -1657,7 +1657,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -1671,14 +1671,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
@@ -1699,22 +1699,22 @@
         {
           "level": 1,
           "name": "Responsibility to Rebuild",
-          "desc": "[WhenUse] On self and 1 ally with the highest max HP: consume up to 10 [BloodDinner] and apply 1 [BloodArmorMeursault] for every 5 [BloodDinner] this unit consumed (once per turn; excludes allies with max Stack)\n- Prioritizes <La Manchaland> and <Bloodfiend>(Higher Kindred) allies\n- If the affected ally is from <La Manchaland>, this unit applies 1 additional [BloodArmorMeursault]\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]<style=\"highlight\"></style>",
+          "desc": "[WhenUse] On self and 1 ally with the highest max HP: consume up to 10 [BloodDinner] and apply 1 [BloodArmorMeursault] for every 5 [BloodDinner] this unit consumed (once per turn; excludes allies with max Stack)\n- Prioritizes <La Manchaland> and <Bloodfiend>(Higher Kindred) allies\n- If the affected ally is from <La Manchaland>, this unit applies 1 additional [BloodArmorMeursault]\n- If this unit failed to consume [BloodDinner], gain 10 [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             }
@@ -1728,7 +1728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
@@ -1762,10 +1762,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [ScarletTakeDamageUp] next turn (2 times per turn)</style>"
@@ -1782,45 +1782,45 @@
         {
           "level": 3,
           "name": "Let us wear the coagulated mantle of blood.",
-          "desc": "On Hit with this Skill: heal 40% of the HP damage dealt (max 50 per Skill)\n[BeforeUse] At 5 [BloodArmorMeursault], activate \"Ouvertüre\" instead\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[WhenUse] Apply 1 [BloodArmorMeursault] to self and (highest Reson.) allies (2 times per turn; up to 4 allies; prioritizes <La Manchaland> first, and <Bloodfiend>(Higher Kindreds) second; excludes allies with max Stack)\n[EndSkill] If the target is defeated, increase [BloodDinner] by additional 20 (once per turn)<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 40% of the HP damage dealt (max 50 per Skill)\n[BeforeUse] At 5 [BloodArmorMeursault], activate \"Ouvertüre\" instead\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[WhenUse] Apply 1 [BloodArmorMeursault] to self and (highest Reson.) allies (2 times per turn; up to 4 allies; prioritizes <La Manchaland> first, and <Bloodfiend>(Higher Kindreds) second; excludes allies with max Stack)\n[EndSkill] If the target is defeated, increase [BloodDinner] by additional 20 (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ParadeConcentration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ParadeConcentration] next turn<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ParadeConcentration] next turn"
                 }
               ]
             }
@@ -1834,43 +1834,43 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 2 [Laceration]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ParadeConcentration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ParadeConcentration] next turn<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ParadeConcentration] next turn"
                 }
               ]
             }
@@ -1884,12 +1884,12 @@
         {
           "level": 1,
           "name": "Coagulation",
-          "desc": "[DuelCounter]\n[WinDuel] Gain 1 [BloodArmorMeursault] (2 times per turn)<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[WinDuel] Gain 1 [BloodArmorMeursault] (2 times per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
@@ -1910,7 +1910,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
@@ -1931,48 +1931,48 @@
         {
           "level": 3,
           "name": "Ouvertüre",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 85 per Skill)\n[WhenUse] Clash Power +2 for every 3 [Laceration] on the main target (max 8)\n[WhenUse] Deal +5% damage for every 2 [Laceration] Count on the main target (max 20%)\n[WhenUse] Apply 2 [BloodArmorMeursault] to (highest Reson.) other allies (max 4 allies; prioritizes <La Manchaland> first, and <Bloodfiend>(Higher Kindreds) second; excludes allies with max Stack)\n[EndSkill] Consume all [BloodArmorMeursault] on self\n[EndSkill] If this Skill defeated a target, additionally increase Bloodfeast by 10 for every target defeated by this Skill (once per turn)<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 85 per Skill)\n[WhenUse] Clash Power +2 for every 3 [Laceration] on the main target (max 8)\n[WhenUse] Deal +5% damage for every 2 [Laceration] Count on the main target (max 20%)\n[WhenUse] Apply 2 [BloodArmorMeursault] to (highest Reson.) other allies (max 4 allies; prioritizes <La Manchaland> first, and <Bloodfiend>(Higher Kindreds) second; excludes allies with max Stack)\n[EndSkill] Consume all [BloodArmorMeursault] on self\n[EndSkill] If this Skill defeated a target, additionally increase Bloodfeast by 10 for every target defeated by this Skill (once per turn)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [ParadeConcentration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 1 [BloodArmorMeursault] next turn for every target this Skill's damage Staggered, Part Broke, or defeated (max 3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 1 [BloodArmorMeursault] next turn for every target this Skill's damage Staggered, Part Broke, or defeated (max 3)"
                 }
               ]
             }
@@ -1986,46 +1986,46 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [ParadeConcentration]"
                 },
                 {
                   "desc": "<style=\"highlight\">- At 2+ [FocusOnActing], also inflict 2 [ParadeConcentration] to 1 of the targets (once per turn)</style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 1 [BloodArmorMeursault] next turn for every target this Skill's damage Staggered, Part Broke, or defeated (max 3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 1 [BloodArmorMeursault] next turn for every target this Skill's damage Staggered, Part Broke, or defeated (max 3)"
                 }
               ]
             }

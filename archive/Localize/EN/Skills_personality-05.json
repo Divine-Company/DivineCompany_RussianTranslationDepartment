@@ -732,7 +732,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -747,7 +747,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 }
               ]
             }
@@ -782,7 +782,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]"
                 }
               ]
             }
@@ -834,7 +834,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)"
                 }
               ]
             }
@@ -1027,10 +1027,10 @@
                   "desc": "<style=\"highlight\">If this unit does not inflict [Burst], +5% Damage on Critical Hit for every [Burst] Potency and Count it would have inflicted</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 7+ Speed, inflict +2 [Burst] Count"
                 }
               ]
             }
@@ -1183,13 +1183,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             }
@@ -1203,14 +1203,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
@@ -1276,26 +1276,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
@@ -1312,14 +1312,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
@@ -1332,7 +1332,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
@@ -1341,7 +1341,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -1409,7 +1409,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Vibration]"
@@ -1422,7 +1422,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Vibration] Count"
@@ -1435,13 +1435,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantAlly]"
                 },
                 {
                   "desc": "If this unit spent [BulletPropellantAlly] due to this Coin's effect, deal <style=\"highlight\">+50%</style> damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantAlly], activate the above effect <style=\"highlight\">2</style> more times"
@@ -1485,7 +1485,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count (2 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count (2 times per turn)"
                 }
               ]
             }
@@ -1572,7 +1572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantSpecialAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Combustion]"
@@ -1582,7 +1582,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantSpecialAlly]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Combustion] Count"
@@ -1592,10 +1592,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellantSpecialAlly]<style=\"highlight\"></style>"
+                  "desc": "Spend 1 [BulletPropellantSpecialAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- When spending [BulletPropellantSpecialAlly], activate the above effect <style=\"highlight\">2</style> more times"
@@ -1639,7 +1639,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
@@ -1653,7 +1653,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             }
@@ -1667,14 +1667,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
                 }
               ]
             },
@@ -1758,10 +1758,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [ScarletTakeDamageUp] next turn (2 times per turn)</style>"
@@ -1863,10 +1863,10 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 2 [Laceration]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ParadeConcentration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [ParadeConcentration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ParadeConcentration] next turn<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ParadeConcentration] next turn"
                 }
               ]
             }
@@ -2021,7 +2021,7 @@
                   "desc": "<style=\"highlight\">- At 2+ [FocusOnActing], also inflict 2 [ParadeConcentration] to 1 of the targets (once per turn)</style>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 1 [BloodArmorMeursault] next turn for every target this Skill's damage Staggered, Part Broke, or defeated (max 3)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 1 [BloodArmorMeursault] next turn for every target this Skill's damage Staggered, Part Broke, or defeated (max 3)"
                 }
               ]
             }

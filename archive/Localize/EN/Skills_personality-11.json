@@ -1315,7 +1315,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count"
                 }
               ]
             },
@@ -1325,7 +1325,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has [LineCuttingPersonality], inflict +1 [Laceration] Count"
                 }
               ]
             }
@@ -1407,7 +1407,7 @@
         {
           "level": 4,
           "name": "Scission",
-          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1<style=\"highlight\"></style>",
+          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -1675,7 +1675,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 1 [Agility] next turn (2 times per turn)</style>"
@@ -1837,14 +1837,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -1858,14 +1858,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -1912,14 +1912,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 10+ [Vibration], consume 4 [Vibration] on target to apply +2 [Vibration] Count to both the target and self</style>"
@@ -1932,7 +1932,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If the target isn't in [Switch_Vibration] or [FusionVibration] states, consume 3 [Vibration] Count on self to trigger [Switch_Vibration] into [VibrationChainPersonality]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion] once; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion] once; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -1946,17 +1946,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 4 [Vibration] on target to apply +2 [Vibration] Count to both the target and self<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 10+ [Vibration], consume 4 [Vibration] on target to apply +2 [Vibration] Count to both the target and self"
                 }
               ]
             },
@@ -1966,10 +1966,10 @@
                   "desc": "<style=\"highlight\"> If target is in either [Switch_Vibration] or [FusionVibration] states, this Coin deals +60% damage</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target isn't in [Switch_Vibration] or [FusionVibration] states, consume 3 [Vibration] Count on self to trigger [Switch_Vibration] into [VibrationChainPersonality]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If the target isn't in [Switch_Vibration] or [FusionVibration] states, consume 3 [Vibration] Count on self to trigger [Switch_Vibration] into [VibrationChainPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion] once; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion] once; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -2028,33 +2028,33 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration] on target<style=\"highlight\"></style>\n- Gain +([Vibration] consumed x 2) [Vibration] Count<style=\"highlight\"></style>\n- Inflict ([Vibration] consumed - 1) [Binding] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Consume up to 3 [Vibration] on target\n- Gain +([Vibration] consumed x 2) [Vibration] Count\n- Inflict ([Vibration] consumed - 1) [Binding] next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target has 3+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnStartCoin] Consume all [Vibration] Count on self<style=\"highlight\"></style>\n- Coin Power +1 for every <style=\"highlight\">4</style> [Vibration] Count consumed (max 5)\n- Deal +<style=\"highlight\">2</style>% damage for every 1 [Vibration] Count consumed (max 100%)"
+                  "desc": "[OnStartCoin] Consume all [Vibration] Count on self\n- Coin Power +1 for every <style=\"highlight\">4</style> [Vibration] Count consumed (max 5)\n- Deal +<style=\"highlight\">2</style>% damage for every 1 [Vibration] Count consumed (max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [TimeRentalTwoPersonality], trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this unit has [TimeRentalTwoPersonality], trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [TimeRentalTwoPersonality], inflict 2 [TimeSuspend]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If this unit has [TimeRentalTwoPersonality], inflict 2 [TimeSuspend]"
                 }
               ]
             }
@@ -2082,12 +2082,12 @@
         {
           "level": 4,
           "name": "Borrowed Time - Microcavity",
-          "desc": "[CanDuelGuard]\n[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WinDuel] Apply +2 [Vibration] Count to both the target and self\n[DefeatDuel] Gain +4 [Vibration] Count<style=\"highlight\"></style>",
+          "desc": "[CanDuelGuard]\n[StartBattle] If this unit is not in a [TimeRentalTwoPersonality] state, gain 4 [TimeRentalTwoPersonality] at Turn End (once per turn)\n[WinDuel] Apply +2 [Vibration] Count to both the target and self\n[DefeatDuel] Gain +4 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             }

@@ -12,13 +12,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 2 allies with the least SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 2 allies with the least SP"
                 },
                 {
-                  "desc": "[EndSkill] Heal 20 SP for 2 allies with the least SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Heal 20 SP for 2 allies with the least SP"
                 }
               ]
             }
@@ -33,13 +33,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 3 allies with the least SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 3 allies with the least SP"
                 },
                 {
-                  "desc": "[EndSkill] Heal 20 SP for 3 allies with the least SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Heal 20 SP for 3 allies with the least SP"
                 }
               ]
             }
@@ -54,13 +54,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 4 allies with the least SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 4 allies with the least SP"
                 },
                 {
-                  "desc": "[EndSkill] Heal 20 SP for 4 allies with the least SP<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Heal 20 SP for 4 allies with the least SP"
                 }
               ]
             }
@@ -75,18 +75,18 @@
           "level": 1,
           "name": "Holiday",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Target loses 10 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 1 Fragility to the Affinity with the highest Resonance count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict 1 Fragility to the Affinity with the highest Resonance count"
                 }
               ]
             }
@@ -96,21 +96,21 @@
           "level": 3,
           "name": "Holiday",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Target loses 10 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflict 2 Fragility for the Affinity with the highest Resonance count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Inflict 2 Fragility for the Affinity with the highest Resonance count"
                 },
                 {
-                  "desc": "[EndSkillTail] Gain 1 'Damage Up' to the Affinity with the highest Resonance count<style=\"highlight\"></style>"
+                  "desc": "[EndSkillTail] Gain 1 'Damage Up' to the Affinity with the highest Resonance count"
                 }
               ]
             }
@@ -120,21 +120,21 @@
           "level": 4,
           "name": "Holiday",
           "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Target loses 10 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Fragility for the Affinity with the highest Resonance count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 Fragility for the Affinity with the highest Resonance count"
                 },
                 {
-                  "desc": "[EndSkillTail] Gain 1 'Damage Up' to the Affinity with the highest Resonance count<style=\"highlight\"></style>"
+                  "desc": "[EndSkillTail] Gain 1 'Damage Up' to the Affinity with the highest Resonance count"
                 }
               ]
             }
@@ -149,18 +149,18 @@
           "level": 1,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\n[EndSkill] For 3 turns, lose 10 SP at Turn End<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -170,18 +170,18 @@
           "level": 3,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%\n[EndSkill] For 3 turns, lose 9 SP at Turn End<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%\n[EndSkill] For 3 turns, lose 9 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -191,18 +191,18 @@
           "level": 4,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 100%\n[EndSkill] For 3 turns, lose 8 SP at Turn End<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 100%\n[EndSkill] For 3 turns, lose 8 SP at Turn End",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -217,21 +217,21 @@
           "level": 1,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -241,24 +241,24 @@
           "level": 3,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -268,27 +268,27 @@
           "level": 4,
           "name": "Binds",
           "abName": "The King in Binds",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -303,18 +303,18 @@
           "level": 1,
           "name": "Dimension Shredder",
           "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than 10 [Charge] Count, consume 15% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% damage for every [Charge] Count consumed (max 10%)<style=\"highlight\"></style>",
+          "desc": "[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than 10 [Charge] Count, consume 15% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% damage for every [Charge] Count consumed (max 10%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 1)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 1)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 1 of each per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 1 of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -335,7 +335,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">2</style> of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -350,13 +350,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -371,18 +371,18 @@
           "level": 1,
           "name": "Dimension Shredder",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than maximum [Charge] Count, consume (missing [Charge] Count x 1.5)% HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% damage for every [Charge] Count consumed (max 20%)<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than maximum [Charge] Count, consume (missing [Charge] Count x 1.5)% HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% damage for every [Charge] Count consumed (max 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -397,13 +397,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -424,7 +424,7 @@
                   "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
                 }
               ]
             }
@@ -439,15 +439,15 @@
           "level": 1,
           "name": "Magic Bullet",
           "abName": "Der Freischütz",
-          "desc": "Deal +1% damage for every 3 [Combustion] on target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 2 [DarkFlame] against all enemies with [Combustion]<style=\"highlight\"></style>",
+          "desc": "Deal +1% damage for every 3 [Combustion] on target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 2 [DarkFlame] against all enemies with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }
@@ -462,10 +462,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }
@@ -480,10 +480,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }
@@ -498,15 +498,15 @@
           "level": 1,
           "name": "Magic Bullet",
           "abName": "Der Freischütz",
-          "desc": "[CantIdentify]\nTargets randomly\nDeal +1% damage for every 3 [Combustion] on target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 3 [DarkFlame] against all enemies with [Combustion]<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\nDeal +1% damage for every 3 [Combustion] on target (max 10%)\n[BeforeAttack] At 0 [FreischutzShotCount], gain 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Gain [FreischutzShotCount] equal to the highest Reson. (min. 1, max 4)\n[EndSkill] If the main target is defeated, inflict 3 [DarkFlame] against all enemies with [Combustion]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }
@@ -521,13 +521,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / 3) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }
@@ -542,13 +542,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to [FreischutzShotCount]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (rounded down)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict [DarkFlame] equal to [FreischutzShotCount] (once per turn for each unit)"
                 }
               ]
             }

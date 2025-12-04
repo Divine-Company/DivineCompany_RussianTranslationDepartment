@@ -282,13 +282,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 2~6 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Lose 2~6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)"
                 }
               ]
             }
@@ -317,13 +317,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1~2 random [SinkingWhite]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Lose 2~6 SP<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Lose 2~6 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] At 0+ SP, Reuse this Coin (5 times max per Skill)"
                 }
               ]
             }
@@ -361,10 +361,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [SinkingWhite](The Living)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [SinkingWhite](The Living)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [SinkingWhite](The Departed)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [SinkingWhite](The Departed)"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +3 [Sinking] Count</style>"
@@ -377,18 +377,18 @@
           "level": 4,
           "name": "Solemn Lament",
           "abName": "Funeral of the Dead Butterflies",
-          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% damage for every 2 [Sinking] on target (max 45%)\n[EnemyKill] Heal 5 SP<style=\"highlight\"></style>",
+          "desc": "[CantIdentify]\nTargets randomly\nIf target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% damage for every 2 [Sinking] on target (max 45%)\n[EnemyKill] Heal 5 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [SinkingWhite](The Living)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [SinkingWhite](The Living)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [SinkingWhite](The Departed)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [SinkingWhite](The Departed)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If target has 50%- HP, inflict Gloom Damage equal to \"All\" [SinkingWhite] values on target\n- \"All\" = the sum of both The Living and The Departed on target</style>"
@@ -452,10 +452,10 @@
                   "desc": "[OnSucceedAttack] Heal (2 + highest Reson.)% of the missing HP on self (max 30% per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn"
                 }
               ]
             }
@@ -465,7 +465,7 @@
           "level": 4,
           "name": "Christmas Nightmare",
           "abName": "Cozy Bed",
-          "desc": "If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[EndSkill] At max HP, heal <style=\"highlight\">15</style> SP at Turn End and gain 1 [Enhancement] next turn<style=\"highlight\"></style>",
+          "desc": "If target has less than 0 SP, deal +1% damage for every SP value below 0 (max 45%)\n[EndSkill] At max HP, heal <style=\"highlight\">15</style> SP at Turn End and gain 1 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -483,7 +483,7 @@
                   "desc": "[OnSucceedAttack] Heal (<style=\"highlight\">3</style> + highest Reson.)% of the missing HP on self (max 30% per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] <style=\"highlight\">and Fragility[TabExplain] against the Affinity of the highest Reson.</style> next turn"
@@ -547,10 +547,10 @@
                   "desc": "[OnSucceedAttack] Heal (2 + highest Reson.)% of the missing HP (max 30% per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] next turn"
                 }
               ]
             }
@@ -578,7 +578,7 @@
                   "desc": "[OnSucceedAttack] Heal (<style=\"highlight\">3</style> + highest Reson.)% of the missing HP on self (max 30% per Skill)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target is in Staggered, Low Morale, or Panic states, inflict 1 [Reduction] <style=\"highlight\">and 2 Fragility[TabExplain] against the Affinity of the highest Reson.</style> next turn"
@@ -684,22 +684,22 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Reuse this Coin (([MlynarWaiting] Stack consumed / 10) - 1) times (3 times max)<style=\"highlight\"></style>"
+                  "desc": "Reuse this Coin (([MlynarWaiting] Stack consumed / 10) - 1) times (3 times max)"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnStartCoin] If this Coin isn't Cracked, and if it targets 3+ enemies, the final Coin to be used deals +10% damage (for Focused Encounters, each Part counts as 1 target)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If this is the final Coin, and if target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If this is the final Coin, and if target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If this Coin was used 4 times, deal Sloth damage equal to [Vibration] on target (max 5)<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If this Coin was used 4 times, deal Sloth damage equal to [Vibration] on target (max 5)"
                 }
               ]
             }
@@ -717,19 +717,19 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Reuse this Coin (([MlynarWaiting] Stack consumed / 10) - 1) times (3 times max)<style=\"highlight\"></style>"
+                  "desc": "Reuse this Coin (([MlynarWaiting] Stack consumed / 10) - 1) times (3 times max)"
                 },
                 {
                   "desc": "[OnStartCoin] If this Coin isn't Cracked, and if it targets 3+ enemies, the final Coin to be used deals +<style=\"highlight\">20</style>% damage (for Focused Encounters, each Part counts as 1 target)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If this is the final Coin, and if target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If this is the final Coin, and if target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this Coin was used 4 times, deal Sloth damage equal to [Vibration] on target (max <style=\"highlight\">10</style>)"
@@ -821,10 +821,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
@@ -842,34 +842,34 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                  "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If target has 15+ [Vibration] Potency, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"

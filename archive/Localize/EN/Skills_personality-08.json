@@ -773,7 +773,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
                 }
               ]
             },
@@ -783,7 +783,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn"
                 }
               ]
             }
@@ -1030,17 +1030,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]"
                 }
               ]
             }
@@ -1054,17 +1054,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDown]"
                 }
               ]
             }
@@ -1104,7 +1104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)</style>"
@@ -1114,7 +1114,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 1 [SlashResultUp] next turn (once per turn)</style>"
@@ -1131,10 +1131,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [SlashTakeDamageUp] (once per turn)"
                 },
                 {
                   "desc": "<style=\"highlight\">- If there are 6+ Kurokumo Clan units, including this unit, inflict 2 [Vulnerable] instead</style>"
@@ -1144,7 +1144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain 1 [SlashResultUp] next turn (<style=\"highlight\">2 times</style> per turn)"
@@ -1194,14 +1194,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
                 }
               ]
             },
@@ -1211,7 +1211,7 @@
                   "desc": "<style=\"highlight\">Deal +10% damage for every type of negative effect on target (max 100%)</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target 3 times; then, reduce their [Laceration] Count by 3"
                 }
               ]
             }
@@ -1518,19 +1518,19 @@
                   "desc": "Deal +(<style=\"highlight\">80</style> + [Breath] on self + [Burst] on the main target)% damage on Critical Hit (max <style=\"highlight\">105</style>%)"
                 },
                 {
-                  "desc": "+5% Damage on Critical Hit for every [StartXichun] on self (max 30%)<style=\"highlight\"></style>"
+                  "desc": "+5% Damage on Critical Hit for every [StartXichun] on self (max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Burst]"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict +1 [Burst] Count</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Gain 2 [Breath] and +1 [Breath] Count"
                 },
                 {
-                  "desc": "[CriticalEnemyTargetKill] Gain +2 [Breath] Count (3 times per turn)<style=\"highlight\"></style>"
+                  "desc": "[CriticalEnemyTargetKill] Gain +2 [Breath] Count (3 times per turn)"
                 }
               ]
             }
@@ -1653,7 +1653,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict +1 [Sinking] Count</style>"
@@ -1663,7 +1663,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict +1 [Vibration] Count</style>"
@@ -1680,20 +1680,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count"
                 }
               ]
             }
@@ -1734,7 +1734,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [Sinking]</style>"
@@ -1744,7 +1744,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [Vibration]</style>"
@@ -1762,20 +1762,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
                 }
               ]
             },
@@ -1841,26 +1841,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count"
                 }
               ]
             },
@@ -1870,7 +1870,7 @@
                   "desc": "<style=\"highlight\"> If target is in either [Switch_Vibration] or [FusionVibration] states, this Coin deals +48% damage</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target isn't in an [Switch_Vibration] state, trigger [Switch_Vibration] into [VibrationCollapse]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] If target isn't in an [Switch_Vibration] state, trigger [Switch_Vibration] into [VibrationCollapse]"
                 }
               ]
             }
@@ -1910,14 +1910,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
                 }
               ]
             }
@@ -1951,18 +1951,18 @@
         {
           "level": 4,
           "name": "Kōzan [光斬]",
-          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n\n[WhenUse] At less than 3 [HanafudaCombo] Potency, cancel the Skill and gain 2 [Enhancement] next turn\n[WhenUse] At 3+ [HanafudaCombo] Potency, gain the following effects based on Potency:\n- Per 1 Potency: this Skill deals +10% damage\n- At 4+ Potency: Base Power +1\n- At 5 Potency: On Hit with the final Reuse Coin, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 1\n[EndSkillAll] Lose [HanafudaCombo] on self\n[EndSkillAll] Next turn, convert the Suit in this unit's Hand to a random Suit that corresponds to one of this unit's Base Attack Skills (once per turn)\n[EndSkillAll] Gain [HanafudaCombo] Potency next turn equal to the # of Coins that weren't used<style=\"highlight\"></style>",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n\n[WhenUse] At less than 3 [HanafudaCombo] Potency, cancel the Skill and gain 2 [Enhancement] next turn\n[WhenUse] At 3+ [HanafudaCombo] Potency, gain the following effects based on Potency:\n- Per 1 Potency: this Skill deals +10% damage\n- At 4+ Potency: Base Power +1\n- At 5 Potency: On Hit with the final Reuse Coin, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 1\n[EndSkillAll] Lose [HanafudaCombo] on self\n[EndSkillAll] Next turn, convert the Suit in this unit's Hand to a random Suit that corresponds to one of this unit's Base Attack Skills (once per turn)\n[EndSkillAll] Gain [HanafudaCombo] Potency next turn equal to the # of Coins that weren't used",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Reuse this Coin ([HanafudaCombo] Potency - 1) times (4 times max)<style=\"highlight\"></style>"
+                  "desc": "Reuse this Coin ([HanafudaCombo] Potency - 1) times (4 times max)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Sinking] Count"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflict 1 [DefenseDown]</style>"
