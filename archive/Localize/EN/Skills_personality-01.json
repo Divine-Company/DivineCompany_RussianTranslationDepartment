@@ -1759,7 +1759,7 @@
                   "desc": "Deal +2.5% damage for every [Combustion] on target (max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1790,7 +1790,7 @@
                   "desc": "Deal +<style=\"highlight\">5</style>% damage for every [Combustion] on target (max <style=\"highlight\">60</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Combustion], inflict +2 [Combustion] Count on target<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1951,7 +1951,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Inflict +1 [Laceration] Count</style>"
@@ -1971,7 +1971,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Inflict +1 [Laceration] Count"
@@ -2026,7 +2026,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttackHead] Inflict 2 [Laceration]</style>"
@@ -2036,19 +2036,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BoseProjektil]"
+                  "desc": "[OnSucceedAttack] Gain 1 [BoseProjektil]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [Laceration]</style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]"
+                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2062,29 +2062,29 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Inflict 2 [Laceration]"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack]</style> Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BoseProjektil]"
+                  "desc": "[OnSucceedAttack] Gain 1 [BoseProjektil]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]"
+                  "desc": "[CriticalOnSucceedAttack] Gain 2 [BoseProjektil]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2304,7 +2304,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +1 [Burst] Count</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2325,7 +2325,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Vibration]"
@@ -2401,7 +2401,7 @@
                   "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2411,7 +2411,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target doesn't have Deathrite, inflict 1 [ConcussionYisang]"
+                  "desc": "[OnSucceedAttack] If target doesn't have Deathrite, inflict 1 [ConcussionYisang]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If target has Deathrite, inflict 3 [Burst]</style>"
@@ -2486,7 +2486,7 @@
                   "desc": "<style=\"highlight\">- At 3+ [BreakthroughHorse], inflict additional 1 [Binding]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count<style=\"highlight\"></style>"
                 }
               ]
             },

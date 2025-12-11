@@ -160,7 +160,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 2 Gluttony Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -181,7 +181,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 Gluttony Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -293,7 +293,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -311,10 +311,10 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and <style=\"highlight\">+3</style> [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -352,13 +352,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
@@ -379,13 +379,13 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">6</style> [Vibration] and <style=\"highlight\">+6</style> [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]"
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationEcho]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -451,14 +451,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Snare]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -478,7 +478,7 @@
           "level": 4,
           "name": "Lasso",
           "abName": "Rose Hunter",
-          "desc": "If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn",
+          "desc": "If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -490,7 +490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Snare]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -500,7 +500,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 2 [TakeHpHealReduce] next turn</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)"
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count for every 2 Gluttony Reson. (max 3)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -565,17 +565,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Snare]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -600,7 +600,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Snare]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -610,20 +610,20 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 3 [TakeHpHealReduce] next turn</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +1% damage for every [Laceration] on target (max 30%)"
+                  "desc": "[OnSucceedAttack] Deal +1% damage for every [Laceration] on target (max 30%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +1% damage for every [Burst] on target (max 30%)"
+                  "desc": "[OnSucceedAttack] Deal +1% damage for every [Burst] on target (max 30%)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -653,12 +653,12 @@
           "level": 3,
           "name": "Tears of the Tarnished Blood - Inception [始]",
           "abName": "Yinglong",
-          "desc": "[CantDuel]\nIgnores the target's Defense Skill\nThis Skill does not hit an enemy\n[EndSkill] Gain [DragonLance]",
+          "desc": "[CantDuel]\nIgnores the target's Defense Skill\nThis Skill does not hit an enemy\n[EndSkill] Gain [DragonLance]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This unit takes fixed damage by this Skill's Final Power\n- This damage does not Stagger or reduce this unit's HP below 1"
+                  "desc": "This unit takes fixed damage by this Skill's Final Power\n- This damage does not Stagger or reduce this unit's HP below 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -668,12 +668,12 @@
           "level": 4,
           "name": "Tears of the Tarnished Blood - Inception [始]",
           "abName": "Yinglong",
-          "desc": "[CantDuel]\nIgnores the target's Defense Skill\nThis Skill does not hit an enemy\n[EndSkill] Gain [DragonLance]",
+          "desc": "[CantDuel]\nIgnores the target's Defense Skill\nThis Skill does not hit an enemy\n[EndSkill] Gain [DragonLance]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "This unit takes fixed damage by this Skill's Final Power\n- This damage does not Stagger or reduce this unit's HP below 1"
+                  "desc": "This unit takes fixed damage by this Skill's Final Power\n- This damage does not Stagger or reduce this unit's HP below 1<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -729,28 +729,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -765,28 +765,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -806,31 +806,31 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -840,45 +840,45 @@
           "level": 3,
           "name": "Tears of the Tarnished Blood - Inception [始]",
           "abName": "Yinglong",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] -2 Base Power for every Cracked Coin (max -8)\n[EndSkill] Gain [DragonLance]",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n[BeforeAttack] -2 Base Power for every Cracked Coin (max -8)\n[EndSkill] Gain [DragonLance]<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -893,40 +893,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1064,27 +1064,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pride damage by 10% of the damage dealt (max 10)"
+                  "desc": "[OnSucceedAttack] Deal Pride damage by 10% of the damage dealt (max 10)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pride damage by 15% of the damage dealt (max 15)"
+                  "desc": "[OnSucceedAttack] Deal Pride damage by 15% of the damage dealt (max 15)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "If this unit has [Cianjing], deal +([Breath] Potency / 2)% damage on Critical Hit (max <style=\"highlight\">30</style>%)"
@@ -1096,7 +1096,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pride damage by 25% of the damage dealt (max 25)"
+                  "desc": "[OnSucceedAttack] Deal Pride damage by 25% of the damage dealt (max 25)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1111,27 +1111,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pride damage by 10% of the damage dealt (max 10)"
+                  "desc": "[OnSucceedAttack] Deal Pride damage by 10% of the damage dealt (max 10)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pride damage by 15% of the damage dealt (max 15)"
+                  "desc": "[OnSucceedAttack] Deal Pride damage by 15% of the damage dealt (max 15)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "If this unit has [Cianjing], deal +(<style=\"highlight\">[Breath] Potency</style>)% damage on Critical Hit (max 30%)"
@@ -1143,7 +1143,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Sinking] <style=\"highlight\">and +2 [Sinking] Count</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal Pride damage by 25% of the damage dealt (max 25)"
+                  "desc": "[OnSucceedAttack] Deal Pride damage by 25% of the damage dealt (max 25)<style=\"highlight\"></style>"
                 }
               ]
             }

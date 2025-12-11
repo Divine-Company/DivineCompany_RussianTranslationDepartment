@@ -284,7 +284,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
@@ -294,7 +294,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)</style>"
@@ -307,10 +307,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count"
+                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [RoseWedge] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [RoseWedge] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -335,20 +335,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)"
+                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)"
+                  "desc": "[OnSucceedAttack] At 4+ highest Reson., activate [Laceration] on target once (target loses 1 [Laceration] Count)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -358,7 +358,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count"
+                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [RoseWedge] Count"
@@ -371,7 +371,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] When dealing excess damage past the enemy's remaining HP, deal the excess damage as fixed damage between all enemies. (min 1)</style>"
@@ -459,13 +459,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count"
+                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [RoseWedge] Count"
+                  "desc": "[OnSucceedAttack] Inflict +1 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency"
+                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -490,7 +490,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>"
@@ -500,7 +500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] on self and the target<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Activate [Laceration] on self and the target once (both lose 1 [Laceration] Count)</style>"
@@ -513,13 +513,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count"
+                  "desc": "[WinDuelAttack] Inflict +2 [RoseWedge] Count<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [RoseWedge] Count"
                 },
                 {
-                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency"
+                  "desc": "- If target did not have [RoseWedge], inflict 4 additional [RoseWedge] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -529,7 +529,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)"
+                  "desc": "[WinDuelAttack] Activate the target's [Laceration] (1 + (highest Reson./2)) times. (3 times max; target loses [Laceration] Count equal to the number of times it was activated)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[EnemyKill] When dealing excess damage past the enemy's remaining HP, deal the excess damage as fixed damage between all enemies. (min 1)</style>"
@@ -600,40 +600,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson. / 2) [Vibration] Count (max 3)"
+                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson. / 2) [Vibration] Count (max 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type"
+                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnStartCoin] This Coin deals +1% damage for every [Vibration] on the main target (max 50%)"
+                  "desc": "[OnStartCoin] This Coin deals +1% damage for every [Vibration] on the main target (max 50%)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)"
+                  "desc": "[OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -648,43 +648,43 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson. / 2) [Vibration] Count (max 3)"
+                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson. / 2) [Vibration] Count (max 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type"
+                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnStartCoin] This Coin deals +1% damage for every [Vibration] on the main target (max 50%)"
+                  "desc": "[OnStartCoin] This Coin deals +1% damage for every [Vibration] on the main target (max 50%)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)"
+                  "desc": "[OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] If this Coin's effects raised the damage dealt by +50% or more, trigger [VibrationExplosion] once.</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -734,22 +734,22 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)"
+                  "desc": "[OnStartCoin] This Coin deals +1% damage for every ([Vibration] + [Vibration] Count) on the main target (max 100%)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson.) [Vibration] Count (max 6)"
+                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson.) [Vibration] Count (max 6)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type"
+                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -767,19 +767,19 @@
                   "desc": "[OnStartCoin] This Coin deals <style=\"highlight\">+2%</style> damage for every ([Vibration] on the main target + [Vibration] Count on the main target) (max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +2 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson.) [Vibration] Count (max 6)"
+                  "desc": "[OnSucceedAttack] Inflict +(Sloth Reson.) [Vibration] Count (max 6)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type"
+                  "desc": "[OnSucceedAttack] If it's the main target, trigger [FusionVibration] into the target's current [Vibration] type<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] If this Coin's effects raised the damage dealt by +100% or more, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2<style=\"highlight\"></style>"
                 }
               ]
             }

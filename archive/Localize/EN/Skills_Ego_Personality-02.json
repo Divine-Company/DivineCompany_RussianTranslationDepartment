@@ -175,34 +175,34 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -220,7 +220,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">10</style> [Vibration] and <style=\"highlight\">+10</style> [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
@@ -230,24 +230,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -294,19 +294,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -324,19 +324,19 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Vibration] and <style=\"highlight\">+5</style> [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -585,12 +585,12 @@
           "level": 4,
           "name": "Thoracalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn",
+          "desc": "[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] as well next turn<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -656,12 +656,12 @@
           "level": 4,
           "name": "Thoracalgia",
           "abName": "Sleeping Bag of a Bygone Day",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HP on self\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn",
+          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At less than 20 [Breath] Potency, gain up to 20 [Breath] Potency and consume ([Breath] Potency gained x 2)% HP on self\n- Cannot be Staggered or defeated due to this effect\n[BeforeAttack] Apply (highest Reson.) [Breath] Potency to all allies (max 6)\n- At 3+ Pride Reson., apply +1 [Breath] Count to the affected units, and apply 1 [ReleaseBreath] and 1 [IndigoDamageUp] as well next turn<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -780,7 +780,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -788,7 +788,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +1 [Burst] Count</style>"
@@ -816,7 +816,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -830,7 +830,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Burst] Count"
@@ -840,7 +840,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[SuperCoin]"
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnStartCoin] If this Skill's damage did not Stagger or kill any target, deal +30% damage</style>"
