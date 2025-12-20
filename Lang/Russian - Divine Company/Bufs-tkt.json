@@ -2,8 +2,8 @@
   "dataList": [
     {
       "id": "FusionVibration",
-      "name": "Amplitude Entanglement",
-      "desc": "- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor.",
+      "name": "Переплетение Амплитуд",
+      "desc": "Объединяет вид Тремора на цели и Тремора, добавляемого этим эффектом в единый вид Тремора: Суперпозиции.\nЗначения и Счётчик при Переплетении остаются неизменными.\nПри срабатывании Преобразования Амплитуд на Треморе: Суперпозиции вместо этого срабатывает Переплетение Амплитуд.\nВ конце хода преобразуется в обычный Тремор.",
       "summary": ""
     },
     {
