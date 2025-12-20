@@ -166,7 +166,7 @@
     },
     {
       "id": "mirror_unobservable_egogift_reason_is_owned",
-      "content": "Owned"
+      "content": "Есть"
     },
     {
       "id": "mirror_start_buff_purchase_modal_check_box",
@@ -282,19 +282,19 @@
     },
     {
       "id": "mirror_observation_ego_gift_select_list",
-      "content": "Selected E.G.O Gift"
+      "content": "<align=center>Выбранные Дары ЭГО"
     },
     {
       "id": "mirror_observation_ego_gift_title",
-      "content": "E.G.O Gift Search"
+      "content": "Поиск Даров ЭГО"
     },
     {
       "id": "mirror_observation_ego_gift_confirm",
-      "content": "Select"
+      "content": "Выбрать"
     },
     {
       "id": "mirror_observation_have_starlight",
-      "content": "Owned"
+      "content": "Есть"
     },
     {
       "id": "mirror_dungeon_ask_give_up_ego_gift_observation",
@@ -314,11 +314,11 @@
     },
     {
       "id": "mirror_observation_ego_gift_title_toggle",
-      "content": "Activate Gift\nSearch"
+      "content": "<align=center>Поиск\nДаров"
     },
     {
       "id": "mirror_observation_lack_starlight_title",
-      "content": "Cannot Search\nGifts"
+      "content": "<align=center>Невозможно\nИскать Дары"
     },
     {
       "id": "mirror_observation_lack_starlight_desc",
