@@ -893,7 +893,7 @@
     {
       "id": "battle_s3_11111_1_1-01",
       "desc": "I'll Make You a New Dress!",
-      "dlg": "Только дождитесь."
+      "dlg": "Я уже предвкушаю..."
     },
     {
       "id": "battle_s3_11108_1_2-1",
@@ -1224,6 +1224,36 @@
       "id": "battle_s3_11211_1_3-05",
       "desc": "Firefist: On kill",
       "dlg": "Эти паразитирующие ублюдки!"
+    },
+	  {
+      "id": "battle_s3_10712_1_4",
+      "desc": "Thundercleave: Final coin",
+      "dlg": "Твоя шея отлично видна!"
+    },
+	  {
+      "id": "battle_special_10712_1",
+      "desc": "Lenticular Rend (Dark Cloud Blade)",
+      "dlg": "Ты посягнул на нашу семью?!"
+    },
+	  {
+      "id": "battle_special_10712_2",
+      "desc": "Hidden Skill Rules of The Backstreets (Dark Cloud Blade)",
+      "dlg": "Хах... эти ублюдки действительно хотят сдохнуть!"
+    },
+	  {
+      "id": "battle_s3_10811_1_1-01",
+      "desc": "Ink Over: First coin",
+      "dlg": "Четвёртая форма..."
+    },
+	  {
+      "id": "battle_s3_10811_1_3-02",
+      "desc": "Ink Over: Final coin",
+      "dlg": "«Очернение Тушью»"
+    },
+	  {
+      "id": "battle_special_10811_1",
+      "desc": "Gathering Dark Clouds Passive",
+      "dlg": "Выходите и сражайтесь. Я позабочусь о прикрытии."
     }
   ]
 }
