@@ -74,15 +74,15 @@
     },
     {
       "id": "EndSkill",
-      "name": "[After Attack]"
+      "name": "[После атаки]"
     },
     {
       "id": "StartBattle",
-      "name": "[Combat Start]"
+      "name": "[В начале Схваток]"
     },
     {
       "id": "DefeatDuel",
-      "name": "[Clash Lose]"
+      "name": "[При поражении в Схватке]"
     },
     {
       "id": "OnSucceedAttackHead",
@@ -110,15 +110,15 @@
     },
     {
       "id": "EnemyKillFail",
-      "name": "[Failed Kill]"
+      "name": "[Если противник выжил]"
     },
     {
       "id": "ReUse",
-      "name": "[On Reuse]"
+      "name": "[При повторном использовании]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[Reuse - Heads Hit]"
+      "name": "[Удар Орлом при повторном использовании]"
     },
     {
       "id": "CriticalOnSucceedAttack",
@@ -126,39 +126,39 @@
     },
     {
       "id": "StartDuel",
-      "name": "[Clash Start]"
+      "name": "[В начале Схватки]"
     },
     {
       "id": "EndBattle",
-      "name": "[Turn End]"
+      "name": "[В конце хода]"
     },
     {
       "id": "OnDefeatEvade",
-      "name": "[Failed Evade]"
+      "name": "[При неудачном уклонении]"
     },
     {
       "id": "EndSkillHead",
-      "name": "[Heads Attack End]"
+      "name": "[После удара Орлом]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[Tails Attack End]"
+      "name": "[После удара Решкой]"
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Heads Hit after Clash Win]"
+      "name": "[При ударе Орлом после победы в Схватке]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Hit after Clash Win]"
+      "name": "[При ударе после победы в Схватке]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[On Crit]"
+      "name": "[При крит. ударе]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Crit Attack End]"
+      "name": "[После крит. атаки]"
     },
     {
       "id": "CantChangeTarget",
@@ -166,7 +166,7 @@
     },
     {
       "id": "TurnStartBattle",
-      "name": "[Turn Start]"
+      "name": "[В начале хода]"
     },
     {
       "id": "EndSkillAll",
@@ -174,11 +174,11 @@
     },
     {
       "id": "WhenUse_Force",
-      "name": "<color=#26cfff>[On Use]</color>"
+      "name": "<color=#26cfff>[При использовании]</color>"
     },
     {
       "id": "StartBattle_Force",
-      "name": "<color=#93f13e>[Combat Start]</color>"
+      "name": "<color=#93f13e>[В начале Схваток]</color>"
     },
     {
       "id": "TargetKill",
@@ -190,7 +190,7 @@
     },
     {
       "id": "BeforeUse",
-      "name": "[Before Use]"
+      "name": "[Перед использованием]"
     },
     {
       "id": "DuelCounter",
@@ -210,31 +210,31 @@
     },
     {
       "id": "EndCoin",
-      "name": "[After Current Coin Attack]"
+      "name": "[После удара текущей Монетой]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[On Crit Kill Fail Against Enemy]"
+      "name": "[Если противник пережил атаку крит. ударом]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[При убийстве врага крит. ударом]"
+      "name": "[При убийстве противника крит. ударом]"
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[Hit after Clash Lose]"
+      "name": "[При ударе после поражения в Схватке]"
     },
     {
       "id": "TargetKillFail",
-      "name": "[On Target Kill Fail]"
+      "name": "[Если противник пережил атаку]"
     },
     {
       "id": "AllyKill",
-      "name": "[On Ally Kill]"
+      "name": "[При убийстве союзника]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[On Ally Kill Fail]"
+      "name": "[Если союзник пережил атаку]"
     },
     {
       "id": "TabExplain",
@@ -246,23 +246,27 @@
     },
     {
       "id": "BeforeHit",
-      "name": "[Before Getting Hit]"
+      "name": "[До получения удара]"
     },
     {
       "id": "OnDirectAttack",
-      "name": "[On Unopposed Attack]"
+      "name": "[При Односторонней атаке]"
     },
     {
       "id": "ReUseOnSucceedAttack",
-      "name": "[Reuse - On Hit]"
+      "name": "[Удар при повторном использовании]"
     },
     {
       "id": "CriticalOnSucceedAttackHead",
-      "name": "[On Crit - Heads Hit]"
+      "name": "[При крит. ударе Орлом]"
     },
     {
       "id": "OnStartCoin",
-      "name": "[Coin Start]"
+      "name": "[В начале Монеты]"
+    },
+    {
+      "id": "BeforeBehavior",
+      "name": "[Before Action]"
     }
   ]
 }
