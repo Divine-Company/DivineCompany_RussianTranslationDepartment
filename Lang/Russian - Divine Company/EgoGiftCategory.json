@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "Combustion",
-      "name": "Burn"
+      "name": "Горение"
     },
     {
       "id": "Laceration",
-      "name": "Bleed"
+      "name": "Кровотечение"
     },
     {
       "id": "Vibration",
-      "name": "Tremor"
+      "name": "Тремор"
     },
     {
       "id": "Burst",
-      "name": "Rupture"
+      "name": "Разрыв"
     },
     {
       "id": "Sinking",
-      "name": "Sinking"
+      "name": "Горе"
     },
     {
       "id": "Breath",
-      "name": "Poise"
+      "name": "Концентрация"
     },
     {
       "id": "Charge",
-      "name": "Charge"
+      "name": "Заряд"
     },
     {
       "id": "Random",
-      "name": "Random"
+      "name": "Случайные"
     },
     {
       "id": "Slash",
-      "name": "Slash"
+      "name": "Рубящие"
     },
     {
       "id": "Penetrate",
-      "name": "Pierce"
+      "name": "Колющие"
     },
     {
       "id": "Hit",
-      "name": "Blunt"
+      "name": "Дробящие"
     },
     {
       "id": "None",
-      "name": "Keywordless"
+      "name": "Особые"
     }
   ]
 }

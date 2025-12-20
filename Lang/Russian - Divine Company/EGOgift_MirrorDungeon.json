@@ -3,67 +3,67 @@
     {
       "id": 9001,
       "name": "Hellterfly’s Dream",
-      "desc": "When applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of 3 [Combustion] Potency between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of 5 [Combustion] Potency between all enemies at Combat Start.",
+      "desc": "При накладывании [Combustion:`Горения`] или 'Особого Горения' на противника, имеющего [Combustion] или 'Особое Горение', случайно накладывает 3 [Combustion:`Горения`] среди всех противников.\n\nВ начале боя при активации Абсолютного Резонанса Гнева случайно накладывает 5 [Combustion:`Горения`] среди всех противников.",
       "simpleDesc": [
         {
           "abilityID": 9001,
-          "simpleDesc": "Randomly inflict 3 [Combustion] Potency"
+          "simpleDesc": "Случайно накладывает 3 [Combustion:`Горения`]"
         },
         {
           "abilityID": 90011,
-          "simpleDesc": "Randomly inflict 5 [Combustion] Potency"
+          "simpleDesc": "Случайно накладывает 5 [Combustion:`Горения`]"
         }
       ]
     },
     {
       "id": 19001,
       "name": "Hellterfly’s Dream+",
-      "desc": "When applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of <style=\"upgradeHighlight\">4 [Combustion] Potency</style> between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of <style=\"upgradeHighlight\">6 [Combustion] Potency</style> between all enemies at Combat Start.",
+      "desc": "При накладывании [Combustion:`Горения`] или 'Особого Горения' на противника, имеющего [Combustion] или 'Особое Горение', случайно накладывает <style=\"upgradeHighlight\">4[Combustion:`Горения`]</style> среди всех противников.\n\nВ начале боя при активации Абсолютного Резонанса Гнева случайно накладывает <style=\"upgradeHighlight\">6 [Combustion:`Горения`]</style> среди всех противников.",
       "simpleDesc": [
         {
           "abilityID": 19001,
-          "simpleDesc": "Randomly inflict 4 [Combustion] Potency"
+          "simpleDesc": "Случайно накладывает 4 [Combustion:`Горения`]"
         },
         {
           "abilityID": 190011,
-          "simpleDesc": "Randomly inflict 6 [Combustion] Potency"
+          "simpleDesc": "Случайно накладывает 6 [Combustion:`Горения`]"
         }
       ]
     },
     {
       "id": 29001,
       "name": "Hellterfly’s Dream++",
-      "desc": "When applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of <style=\"upgradeHighlight\">5 [Combustion]</style> between all enemies.\n\nWhen activating <style=\"upgradeHighlight\">Wrath Resonance</style>, randomly inflict a total of <style=\"upgradeHighlight\">8 [Combustion] Potency</style> between all enemies at Combat Start.",
+      "desc": "При накладывании [Combustion:`Горения`] или 'Особого Горения' на противника, имеющего [Combustion] или 'Особое Горение', случайно накладывает <style=\"upgradeHighlight\">5[Combustion:`Горения`]</style> среди всех противников.\n\nВ начале боя при активации <style=\"upgradeHighlight\">Резонанса Гнева</style> случайно накладывает <style=\"upgradeHighlight\">8[Combustion:`Горения`]</style> среди всех противников.",
       "simpleDesc": [
         {
           "abilityID": 29001,
-          "simpleDesc": "Randomly inflict 5 [Combustion] Potency"
+          "simpleDesc": "Случайно накладывает 5 [Combustion:`Горения`]"
         },
         {
           "abilityID": 290011,
-          "simpleDesc": "Randomly inflict 8 [Combustion] Potency"
+          "simpleDesc": "Случайно накладывает 8 [Combustion:`Горения`]"
         }
       ]
     },
     {
       "id": 9002,
       "name": "Perversion",
-      "desc": "After defeating 1 or more enemy using an Attack Skill, gain +1 E.G.O resource of that Attack Skill's Affinity at the next Turn Start.\n\nIf the Attack Skill's Affinity was Wrath, gain +1 E.G.O resource of all affinities the ally has at the next Turn Start instead.",
+      "desc": "При убийстве 1 или больше противников атакующим навыком даёт в начале хода 1 ресурс ЭГО греха этого навыка.\n\nЕсли грех этого навыка является Гневом, то даёт в начале хода 1 ресурс ЭГО всех грехов союзника.",
       "simpleDesc": [
         {
           "abilityID": 9002,
-          "simpleDesc": "+1 E.G.O resource of the used Skill’s Affinity"
+          "simpleDesc": "+1 ресурса ЭГО греха использованного навыка"
         },
         {
           "abilityID": 90021,
-          "simpleDesc": "+1 E.G.O resource for all Skill Affinities of the user"
+          "simpleDesc": "+1 ресурсов ЭГО всех грехов использовавшего"
         }
       ]
     },
     {
       "id": 9003,
       "name": "Ashes to Ashes",
-      "desc": "Combat Start: if all enemies (or all Abnormality parts) have [Combustion] or 'Unique Burn', inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts).",
+      "desc": " В начале боя если на всех противниках есть [Combustion] или 'Особое Горение', накладывает 2 [Combustion:`Горения`] на всех противников (Или частей Аномалии).",
       "simpleDesc": [
         {
           "abilityID": 9003,
@@ -74,7 +74,7 @@
     {
       "id": 19003,
       "name": "Ashes to Ashes+",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts) with [Combustion] or 'Unique Burn'</style>.",
+      "desc": "В начале боя <style=\"upgradeHighlight\">накладывает 2 [Combustion:`Горения`] на всех противников (Или частей Аномалии).</style>",
       "simpleDesc": [
         {
           "abilityID": 19003,
@@ -85,7 +85,7 @@
     {
       "id": 29003,
       "name": "Ashes to Ashes++",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 3 [Combustion] Potency on all enemies (or all Abnormality parts)</style>.",
+      "desc": "В начале боя накладывает <style=\"upgradeHighlight\">3 [Combustion:`Горения`]</style> на всех противников (Или частей Аномалии).",
       "simpleDesc": [
         {
           "abilityID": 29003,
@@ -96,55 +96,55 @@
     {
       "id": 9004,
       "name": "Phlebotomy Pack",
-      "desc": "When hitting an enemy with a Skill, heal 12.5% of the character’s missing HP. (Once per character per turn.)\n\nIf the Skill’s Affinity was Wrath, heal 25% of missing HP instead.",
+      "desc": "При ударе противника навыком восстанавливает 12.5% отсутствующих ОЗ персонажа (Один раз для персонажа в ход).\n\nЕсли грех навыка является Гневом, вместо этого восстанавливает 25% отсутствующих ОЗ.",
       "simpleDesc": [
         {
           "abilityID": 9004,
-          "simpleDesc": "Heal 12.5% of missing HP"
+          "simpleDesc": "Восстанавливает 12.5% отсутствующих ОЗ"
         },
         {
           "abilityID": 90041,
-          "simpleDesc": "Heal 25% of missing HP"
+          "simpleDesc": "Восстанавливает 25% отсутствующих ОЗ"
         }
       ]
     },
     {
       "id": 9005,
       "name": "Wound Clerid",
-      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Unique Bleed', inflict 4 [Laceration] Potency.",
+      "desc": "При ударе противника навыком, накладывающим [Laceration] или 'Особое Кровотечение', накладывает 4 [Laceration:`Кровотечения`].",
       "simpleDesc": [
         {
           "abilityID": 9005,
-          "simpleDesc": "Inflict 4 [Laceration] Potency"
+          "simpleDesc": "Накладывает 4 [Laceration:`Кровотечения`]"
         }
       ]
     },
     {
       "id": 19005,
       "name": "Wound Clerid+",
-      "desc": "When <style=\"upgradeHighlight\">hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Unique Bleed', or with a Wrath Affinity Skill</style>, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency</style>.",
+      "desc": "При ударе противника навыком, <style=\"upgradeHighlight\">являющимся грехом Гнева</style>, накладывающим [Laceration] или 'Особое Кровотечение', накладывает <style=\"upgradeHighlight\">5 [Laceration:`Кровотечения`]</style>.",
       "simpleDesc": [
         {
           "abilityID": 19005,
-          "simpleDesc": "Inflict 5 [Laceration] Potency"
+          "simpleDesc": "Накладывает 5 [Laceration:`Кровотечения`]"
         }
       ]
     },
     {
       "id": 29005,
       "name": "Wound Clerid++",
-      "desc": "When hitting an enemy with a Skill that inflicts [Laceration] Potency or 'Unique Bleed', or with a Wrath Affinity Skill, <style=\"upgradeHighlight\">inflict 5 [Laceration] Potency and +1 [Laceration] Count</style>.",
+      "desc": "При ударе противника навыком Гнева или накладывающим [Laceration] или 'Особое Кровотечение', накладывает 5 [Laceration:`Кровотечения`] <style=\"upgradeHighlight\">и 1 его Счётчика</style>.",
       "simpleDesc": [
         {
           "abilityID": 29005,
-          "simpleDesc": "Inflict 5 [Laceration] Potency and +1 [Laceration] Count"
+          "simpleDesc": "Накладывает 5 [Laceration:`Кровотечения`] и 1 его Счётчика"
         }
       ]
     },
     {
       "id": 9006,
       "name": "Coffee and Cranes",
-      "desc": "Turn Start: Gain +1 E.G.O resource of a random Affinity that does not correspond to any Attack Skill Affinity used last turn.\n\nIf a Lust Affinity Attack Skill was used last turn: Gain 1 of every Affinity E.G.O resource that does not correspond to any Attack Skill Affinity used last turn instead.",
+      "desc": "В начале хода даёт 1 ресурс ЭГО случайного греха, чей навык не был использован в предыдущем ходу.\n\nЕсли был использован навык Похоти, вместо этого даёт 1 ресурс ЭГО каждого греха, чей навык не был использован в предыдущем ходу.",
       "simpleDesc": [
         {
           "abilityID": 9006,
@@ -159,7 +159,7 @@
     {
       "id": 9007,
       "name": "Eclipse of Scarlet Moths",
-      "desc": "Turn Start: When dealing damage with an Attack Skill for the first time, deal half its damage as fixed damage to a random enemy.\n\nIf the Attack Skill's Affinity was Lust, deal said damage to two random enemies instead.",
+      "desc": "При нанесении урона атакующим навыком в первый раз за ход, наносит половину этого урона чистым уроном случайному противнику.\n\nЕсли грех этого навыка является Похотью, то чистый урон будет нанесён двум противникам.",
       "simpleDesc": [
         {
           "abilityID": 9007,
@@ -174,7 +174,7 @@
     {
       "id": 9008,
       "name": "Grimy Iron Stake",
-      "desc": "When hitting an enemy using a single-Coin Skill, inflict 1 [Laceration] Potency. Inflict 2 [DefenseDown] until the end of the next turn.\nIf the target already has [Laceration] or 'Unique Bleed', inflict 3 [Laceration] Potency instead.",
+      "desc": "При ударе противника одномонетным навыком накладывает 1 [Laceration] и 2 [DefenseDown:`Уменьшения Уровня Защиты`].\n\nЕсли на противнике есть [Laceration] или 'Особое Кровотечение', вместо этого накладывает 3 [Laceration:`Кровотечения`].",
       "simpleDesc": [
         {
           "abilityID": 9008,
@@ -189,52 +189,52 @@
     {
       "id": 9009,
       "name": "Fiery Down",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 3 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
+      "desc": "При ударе противника навыком Похоти или навыком, накладывающим [Combustion] или 'Особое Горение', накладывает 3 [Combustion:`Горения`].\n\nВ начале хода при 20+ [Combustion:`Горения`] на противнике, умножает его в 2 раза.",
       "simpleDesc": [
         {
           "abilityID": 9009,
-          "simpleDesc": "Inflict 3 [Combustion] Potency"
+          "simpleDesc": "Накладывает 3 [Combustion:`Горения`]"
         },
         {
           "abilityID": 90091,
-          "simpleDesc": "[Combustion] Potency on target x2"
+          "simpleDesc": "Умножает [Combustion] на цели в 2 раза"
         }
       ]
     },
     {
       "id": 19009,
       "name": "Fiery Down+",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', <style=\"upgradeHighlight\">inflict 4 [Combustion] Potency</style>.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
+      "desc": "При ударе противника навыком Похоти или навыком, накладывающим [Combustion] или 'Особое Горение', накладывает <style=\"upgradeHighlight\">4 [Combustion:`Горения`]</style>.\n\nВ начале хода при 20+ [Combustion:`Горения`] на противнике, умножает его в 2 раза.",
       "simpleDesc": [
         {
           "abilityID": 19009,
-          "simpleDesc": "Inflict 4 [Combustion] Potency"
+          "simpleDesc": "Накладывает 4 [Combustion:`Горения`]"
         },
         {
           "abilityID": 190091,
-          "simpleDesc": "[Combustion] Potency on target x2"
+          "simpleDesc": "Умножает [Combustion] на цели в 2 раза"
         }
       ]
     },
     {
       "id": 29009,
       "name": "Fiery Down++",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 4 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, <style=\"upgradeHighlight\">(Current [Combustion] Potency on enemy) x2.5</style>",
+      "desc": "При ударе противника навыком Похоти или навыком, накладывающим [Combustion] или 'Особое Горение', накладывает 4 [Combustion:`Горения`].\n\nВ начале хода при 20+ [Combustion:`Горения`] на противнике, умножает его в <style=\"upgradeHighlight\">2.5</style> раза.",
       "simpleDesc": [
         {
           "abilityID": 29009,
-          "simpleDesc": "Inflict 4 [Combustion] Potency"
+          "simpleDesc": "Накладывает 4 [Combustion:`Горения`]"
         },
         {
           "abilityID": 290091,
-          "simpleDesc": "[Combustion] Potency on target x2.5"
+          "simpleDesc": "Умножает [Combustion] на цели в 2.5 раза"
         }
       ]
     },
     {
       "id": 9010,
       "name": "Bloody Gadget",
-      "desc": "Turn Start: apply 2 [AttackDmgUp] to a random ally.\n\nPrioritizes allies with Lust Affinity Attack Skills; apply 1 additional [AttackDmgUp] to the said ally.",
+      "desc": "В начале хода накладывает 2 [AttackDmgUp:`Увеличения урона`] на случайного Грешника.\n\nВ приоритете на Грешников с атакующими навыками греха Похоти; Дополнительно накладывает на них 1 [AttackDmgUp:`Увеличения урона`].",
       "simpleDesc": [
         {
           "abilityID": 9010,
@@ -249,7 +249,7 @@
     {
       "id": 19010,
       "name": "Bloody Gadget+",
-      "desc": "Turn Start: apply 2 [AttackDmgUp] to a random ally.\n\nPrioritizes allies with Lust Affinity Attack Skills; <style=\"upgradeHighlight\">apply 2 additional [AttackDmgUp]</style> to the said ally.",
+      "desc": "В начале хода накладывает 2 [AttackDmgUp:`Увеличения урона`] на случайного Грешника.\n\nВ приоритете на Грешников с атакующими навыками греха Похоти; Дополнительно накладывает на них <style=\"upgradeHighlight\">2 [AttackDmgUp:`Увеличения урона`]</style>.",
       "simpleDesc": [
         {
           "abilityID": 19010,
@@ -264,7 +264,7 @@
     {
       "id": 29010,
       "name": "Bloody Gadget++",
-      "desc": "Turn Start: apply 2 [AttackDmgUp] to <style=\"upgradeHighlight\">2 random allies</style>.\n\nPrioritizes allies with Lust Affinity Attack Skills; apply 2 additional [AttackDmgUp] to the said allies.",
+      "desc": "В начале хода накладывает 2 [AttackDmgUp:`Увеличения урона`] на <style=\"upgradeHighlight\">двух случайных Грешников</style>.\n\nВ приоритете на Грешников с атакующими навыками греха Похоти; Дополнительно накладывает на них 2 [AttackDmgUp:`Увеличения урона`].",
       "simpleDesc": [
         {
           "abilityID": 29010,
@@ -279,11 +279,11 @@
     {
       "id": 9011,
       "name": "Sunshower",
-      "desc": "When activating Sloth Absolute Resonance or using a Skill with 2+ Atk Weight:\n\nAll allies gain +2 Skill Power at Combat Start.",
+      "desc": "При активации Абсолютного Резонанса Лени или использовании навыка с более 2 Массы атаки в начале хода накладывает +2 к силе навыков.",
       "simpleDesc": [
         {
           "abilityID": 9011,
-          "simpleDesc": "Skill Power +2"
+          "simpleDesc": "+2 к силе навыков"
         }
       ]
     },
@@ -301,52 +301,52 @@
     {
       "id": 9013,
       "name": "Talisman Bundle",
-      "desc": "Whenever an ally deals 12+ HP damage to an enemy with a Skill, inflict 2 [Burst] Potency on target.\n\nWhen using a Slash Skill, inflict 4 [Burst] Potency instead.",
+      "desc": "При ударе противника навыком, наносящим 12 или более урона по ОЗ, накладывает 2 [Burst:`Разрыва`].\n\nПри использовании Рубящего навыка, вместо этого накладывает 4 [Burst:`Разрыва`].",
       "simpleDesc": [
         {
           "abilityID": 9013,
-          "simpleDesc": "Inflict 2 [Burst] Potency"
+          "simpleDesc": "Накладывает 2 [Burst:`Разрыва`]"
         },
         {
           "abilityID": 90131,
-          "simpleDesc": "Inflict 4 [Burst] Potency"
+          "simpleDesc": "Накладывает 4 [Burst:`Разрыва`]"
         }
       ]
     },
     {
       "id": 19013,
       "name": "Talisman Bundle+",
-      "desc": "Whenever an ally deals 12+ HP damage to an enemy with a Skill, inflict <style=\"upgradeHighlight\">3 [Burst] Potency</style> on target.\n\nWhen using a Slash Skill, inflict <style=\"upgradeHighlight\">5 [Burst] Potency</style> instead.",
+      "desc": "При ударе противника навыком, наносящим 12 или более урона по ОЗ, накладывает <style=\"upgradeHighlight\">3 [Burst:`Разрыва`]</style>.\n\nПри использовании Рубящего навыка, вместо этого накладывает <style=\"upgradeHighlight\">5 [Burst:`Разрыва`]</style>.",
       "simpleDesc": [
         {
           "abilityID": 19013,
-          "simpleDesc": "Inflict 3 [Burst] Potency"
+          "simpleDesc": "Накладывает 3 [Burst:`Разрыва`]"
         },
         {
           "abilityID": 190131,
-          "simpleDesc": "Inflict 5 [Burst] Potency"
+          "simpleDesc": "Накладывает 5 [Burst:`Разрыва`]"
         }
       ]
     },
     {
       "id": 29013,
       "name": "Talisman Bundle++",
-      "desc": "Whenever an ally deals <style=\"upgradeHighlight\">1+ HP damage to an enemy with a Skill</style>, inflict 3 [Burst] Potency on target.\n\nWhen using a Slash Skill, inflict 5 [Burst] Potency and <style=\"upgradeHighlight\">+1 [Burst] Count</style> instead.",
+      "desc": "При ударе противника навыком, наносящим <style=\"upgradeHighlight\">урон по ОЗ</style>, накладывает 3 [Burst:`Разрыва`].\n\nПри использовании Рубящего навыка, вместо этого накладывает 5 [Burst:`Разрыва`] <style=\"upgradeHighlight\">и 1 его Счётчика</style>.",
       "simpleDesc": [
         {
           "abilityID": 9013,
-          "simpleDesc": "Inflict 3 [Burst] Potency"
+          "simpleDesc": "Накладывает 3 [Burst:`Разрыва`]"
         },
         {
           "abilityID": 90131,
-          "simpleDesc": "Inflict 5 [Burst] Potency and +1 [Burst] Count"
+          "simpleDesc": "Накладывает 5 [Burst:`Разрыва`] и 1 его Счётчика"
         }
       ]
     },
     {
       "id": 9014,
       "name": "Rusty Commemorative Coin",
-      "desc": "If the first single-Coin Attack Skill that an ally uses during the combat phase doesn’t defeat any enemies, use the Skill one more time.\n\nAfter defeating an enemy by using a Sloth or single-Coin Skill, the ally gains +1 Skill Power for the next turn.",
+      "desc": "Если противник выживает при использовании одноментного атакующего навыка в первый раз за ход, то этот навык используется против случайного противника ещё один раз.\n\nПри убийстве врага одномонетным навыком или навыком Лени, Грешник получает +1 к Силе навыков на следующий ход.",
       "simpleDesc": [
         {
           "abilityID": 9014,
@@ -361,7 +361,7 @@
     {
       "id": 9015,
       "name": "Blood, Sweat, and Tears",
-      "desc": "Skills deal +10% damage to Staggered enemies.\n\nIf the Skill inflicts [Vibration] Potency, [Vibration] Count, triggers [Switch_Vibration], [VibrationExplosion], or [FusionVibration], or if the Skill's Affinity was Sloth, deal +20% damage instead.",
+      "desc": "Увеличивает урон от исходящих навыков на 10% по Оглушенным противникам.\n\nЕсли грех исходящего навыка является Ленью, или навык накладывает [Vibration] или его Счётчик, вызывает срабатываение [Switch_Vibration:`Преобразования Амплитуды`], [VibrationExplosion:`Приступа Тремора`] или [FusionVibration:`Переплетения Амплитуд`], вместо этого увеличивает урон на 20%.",
       "simpleDesc": [
         {
           "abilityID": 9015,
@@ -376,7 +376,7 @@
     {
       "id": 19015,
       "name": "Blood, Sweat, and Tears+",
-      "desc": "Skills deal <style=\"upgradeHighlight\">+12.5% damage</style> to Staggered enemies.\n\nIf the Skill inflicts [Vibration] Potency, [Vibration] Count, triggers [Switch_Vibration], [VibrationExplosion], or [FusionVibration], or if the Skill's Affinity was Sloth, deal <style=\"upgradeHighlight\">+25% damage</style> instead.",
+      "desc": "Увеличивает урон от исходящих навыков на <style=\"upgradeHighlight\">12.5%</style> по Оглушенным противникам.\n\nЕсли грех исходящего навыка является Ленью, или навык накладывает [Vibration] или его Счётчик, вызывает срабатываение [Switch_Vibration:`Преобразования Амплитуды`], [VibrationExplosion:`Приступа Тремора`] или [FusionVibration:`Переплетения Амплитуд`], вместо этого увеличивает урон на <style=\"upgradeHighlight\">25%</style>.",
       "simpleDesc": [
         {
           "abilityID": 19015,
@@ -391,7 +391,7 @@
     {
       "id": 29015,
       "name": "Blood, Sweat, and Tears++",
-      "desc": "Skills deal <style=\"upgradeHighlight\">+15% damage</style> to Staggered enemies.\n\nIf the Skill inflicts [Vibration] Potency, [Vibration] Count, triggers [Switch_Vibration], [VibrationExplosion], or [FusionVibration], or if the Skill's Affinity was Sloth, deal <style=\"upgradeHighlight\">+30% damage</style> instead.",
+      "desc": "Увеличивает урон от исходящих навыков на <style=\"upgradeHighlight\">15%</style> по Оглушенным противникам.\n\nЕсли грех исходящего навыка является Ленью, или навык накладывает [Vibration] или его Счётчик, вызывает срабатываение [Switch_Vibration:`Преобразования Амплитуды`], [VibrationExplosion:`Приступа Тремора`] или [FusionVibration:`Переплетения Амплитуд`], вместо этого увеличивает урон на <style=\"upgradeHighlight\">30%</style>.",
       "simpleDesc": [
         {
           "abilityID": 29015,
@@ -439,7 +439,7 @@
     {
       "id": 9017,
       "name": "Lithograph",
-      "desc": "Whenever an enemy is Staggered, the ally with the least HP heals 5% of their Max HP.\n\nIf said ally has Gluttony Affinity Attack Skills, heal 10% of Max HP instead.",
+      "desc": "При оглушении противника, Грешник с минимальными ОЗ восстанавливает 5% от максимальных ОЗ.\n\nЕсли у этого Грешника есть навык с грехом Чревоугодия, вместо этого он восстанавливает 10% от максимальных ОЗ.",
       "simpleDesc": [
         {
           "abilityID": 9017,
@@ -499,7 +499,7 @@
     {
       "id": 9019,
       "name": "Sticky Muck",
-      "desc": "When hitting an enemy with a Pierce Skill or a Gluttony Affinity Skill, inflict 2 [DefenseDown].",
+      "desc": "При ударе противника Колющим навыком или навыком Чревоугодия, накладывает 2 [DefenseDown:`Уменьшения Уровня Защиты`].",
       "simpleDesc": [
         {
           "abilityID": 9019,
@@ -543,7 +543,7 @@
     {
       "id": 9021,
       "name": "Blue Zippo Lighter",
-      "desc": "Turn Start: gain +1 Gloom E.G.O resource and +1 E.G.O resource of 2 other random Affinities.",
+      "desc": "В начале хода даёт по 1 ресурсу ЭГО Уныния и двух других случайных грехов.",
       "simpleDesc": [
         {
           "abilityID": 9021,
@@ -554,7 +554,7 @@
     {
       "id": 9022,
       "name": "Phantom Pain",
-      "desc": "Skills with 1 Atk Weight deal +15% damage.\n\nWhen activating Gloom Absolute Resonance, apply 2 [AttackUp] to all allies at Combat Start.",
+      "desc": "Навыки с 1 Массы атаки наносят на 15% больше урона.\n\nВ начале боя при активации Абсолютного Резонанса Уныния накладывает 2 [AttackUp:`Увеличения Уровня Атаки`] на всех Грешников.",
       "simpleDesc": [
         {
           "abilityID": 9022,
@@ -606,7 +606,7 @@
     {
       "id": 9024,
       "name": "Melted Eyeball",
-      "desc": "Inflict 5 [AttackDown] and 5 [DefenseDown] next turn against enemies affected by [VibrationExplosion]. (3 times per turn)",
+      "desc": "При срабатывании [VibrationExplosion:`Приступа Тремора`] на противнике, накладывает 5 [AttackDown:`Уменьшения Уровня Атаки`] и 5 [DefenseDown:`Уменьшения Уровня Защиты`] на следующий ход (3 раза в ход).",
       "simpleDesc": [
         {
           "abilityID": 9024,
@@ -703,23 +703,23 @@
     {
       "id": 9029,
       "name": "Little and To-be-Naughty Plushie",
-      "desc": "Deal +10% damage against enemies with [Laceration] or 'Unique Bleed' at Combat Start\n\nTake -20% damage from enemies with [Laceration] or 'Unique Bleed' at Combat Start\n\nAllies with Pride Affinity Attack Skills deal +20% damage against enemies with [Laceration] or 'Unique Bleed' instead.\n\nAllies with Pride Affinity Attack Skills take -30% damage from enemies with [Laceration] or 'Unique Bleed' instead.",
+      "desc": "Увеличивает урон от исходящих атак на 10% по противникам, имеющим [Laceration] или 'Особое Кровотечение' в начале боя.\n\nУменьшает урон от входящих атак на 20% от противников, имеющих [Laceration] или 'Особое Кровотечение' в начале боя.\n\nУвеличивает урон от исходящих атак союзника с навыком греха Гордыни на 20% по противникам, имеющим [Laceration] или 'Особое Кровотечение' в начале боя.\n\nУменьшает урон от входящих атак по союзнику с навыком греха Гордыни на 30% от противников, имеющих [Laceration] или 'Особое Кровотечение' в начале боя.",
       "simpleDesc": [
         {
           "abilityID": 9029,
-          "simpleDesc": "Deal +10% damage"
+          "simpleDesc": "Увеличивает урон от исходящих атак на 10%"
         },
         {
           "abilityID": 90291,
-          "simpleDesc": "Take -20% damage"
+          "simpleDesc": "Уменьшает урон от входящих атак на 20%"
         },
         {
           "abilityID": 90292,
-          "simpleDesc": "Deal +20% damage"
+          "simpleDesc": "Увеличивает урон от исходящих атак на 20%"
         },
         {
           "abilityID": 90293,
-          "simpleDesc": "Take -30% damage"
+          "simpleDesc": "Уменьшает урон от входящих атак на 30%"
         }
       ]
     },
@@ -737,7 +737,7 @@
     {
       "id": 9031,
       "name": "Nixie Divergence",
-      "desc": "First Turn Start of an Encounter: inflict 4 [Vibration] Potency and 4 [Vibration] Count to all enemies. (Or all Abnormality parts)\n\nWhen hitting an enemy with an Envy Affinity Skill, inflict 2 [Vibration] Potency on target.",
+      "desc": "В первом ходу начала боя накладывает 4 [Vibration:`Тремора`] и 4 его Счётчика на всех противников (Или частей Аномалии).\n\nПри ударе противника навыком Зависти, накладывает 2 [Vibration:`Тремора`].",
       "simpleDesc": [
         {
           "abilityID": 9031,
@@ -752,7 +752,7 @@
     {
       "id": 19031,
       "name": "Nixie Divergence+",
-      "desc": "<style=\"upgradeHighlight\">First Turn Start of a wave:</style> inflict 4 [Vibration] Potency and 4 [Vibration] Count to all enemies (or all Abnormality parts)\n\nWhen hitting an enemy with an Envy Affinity Skill, inflict 2 [Vibration] Potency on target.",
+      "desc": "<style=\"upgradeHighlight\">В первом ходу новой волны</style> накладывает 4 [Vibration:`Тремора`] и 4 его Счётчика на всех противников (Или частей Аномалии).\n\nПри ударе противника навыком Зависти, накладывает 2 [Vibration:`Тремора`].",
       "simpleDesc": [
         {
           "abilityID": 19031,
@@ -767,7 +767,7 @@
     {
       "id": 29031,
       "name": "Nixie Divergence++",
-      "desc": "First Turn Start of a wave: inflict <style=\"upgradeHighlight\">5 [Vibration] Potency and 5 [Vibration] Count to all enemies</style> (or all Abnormality parts)\n\nWhen hitting an enemy with an Envy Affinity Skill, inflict <style=\"upgradeHighlight\">3 [Vibration] Potency</style> on target.",
+      "desc": "В первом ходу новой волны накладывает <style=\"upgradeHighlight\">5 [Vibration:`Тремора`] и 5 его Счётчика</style> на всех противников (Или частей Аномалии).\n\nПри ударе противника навыком Зависти, накладывает <style=\"upgradeHighlight\">3 [Vibration:`Тремора`]</style>.",
       "simpleDesc": [
         {
           "abilityID": 29031,
@@ -823,7 +823,7 @@
     {
       "id": 9035,
       "name": "Voodoo Doll",
-      "desc": "Turn Start: deal 3 fixed Envy Affinity damage to all enemies.\n\nInflict 1 [ResultReduction] to enemies with 33% or less HP.",
+      "desc": "В начале хода наносит 3 урона грехом Зависти всем врагам.\n\nНакладывает 1 [ResultReduction:`Уменьшения силы навыков`] на врагов, у которых 33% или менее ОЗ.",
       "simpleDesc": [
         {
           "abilityID": 9035,
@@ -838,7 +838,7 @@
     {
       "id": 19035,
       "name": "Voodoo Doll+",
-      "desc": "Turn Start: deal <style=\"upgradeHighlight\">4 fixed Envy Affinity damage</style> to all enemies.\n\nInflict 1 [ResultReduction] to enemies with <style=\"upgradeHighlight\">50% or less HP</style>.",
+      "desc": "В начале хода наносит <style=\"upgradeHighlight\">4 урона</style> грехом Зависти всем врагам.\n\nНакладывает 1 [ResultReduction:`Уменьшения силы навыков`] на врагов, у которых <style=\"upgradeHighlight\">50% или менее ОЗ</style>.",
       "simpleDesc": [
         {
           "abilityID": 19035,
@@ -853,7 +853,7 @@
     {
       "id": 29035,
       "name": "Voodoo Doll++",
-      "desc": "Turn Start: deal <style=\"upgradeHighlight\">5 fixed Envy Affinity damage</style> to all enemies.\n\n<style=\"upgradeHighlight\">Inflict 2 [ResultReduction]</style> to enemies with 50% or less HP.",
+      "desc": "В начале хода наносит <style=\"upgradeHighlight\">5 урона</style> грехом Зависти всем врагам.\n\nНакладывает <style=\"upgradeHighlight\">2 [ResultReduction:`Уменьшения силы навыков`]</style> на врагов, у которых 50% или менее ОЗ.",
       "simpleDesc": [
         {
           "abilityID": 29035,
@@ -945,7 +945,7 @@
     {
       "id": 9041,
       "name": "Red Order",
-      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. (Max 3)\n\nAllies with Gloom or Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. (Max 4)",
+      "desc": "При накладывании [Sinking:`Горя`], Счётчика [Sinking:`Горя`] или 'Особого Горя' навыком Грешника на противников, он получает +1 к Уровню Атаки на следующий ход. (Макс. 3)\n\nПри накладывании [Sinking:`Горя`], Счётчика [Sinking:`Горя`] или 'Особого Горя' навыком Грешника на противников и имея навык с грехом Уныния или Гнева, вместо этого он получает +2 к Уровню Атаки на следующий ход. (Макс. 4)",
       "simpleDesc": [
         {
           "abilityID": 9041,
@@ -960,7 +960,7 @@
     {
       "id": 19041,
       "name": "Red Order+",
-      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. <style=\"upgradeHighlight\">(Max 4)</style>\n\nAllies with Gloom or Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. <style=\"upgradeHighlight\">(Max 5)</style>",
+      "desc": "При накладывании [Sinking:`Горя`], Счётчика [Sinking:`Горя`] или 'Особого Горя' навыком Грешника на противников, он получает +1 к Уровню Атаки на следующий ход. (<style=\"upgradeHighlight\">Макс. 4</style>)\n\nПри накладывании [Sinking:`Горя`], Счётчика [Sinking:`Горя`] или 'Особого Горя' навыком Грешника на противников и имея навык с грехом Уныния или Гнева, вместо этого он получает +2 к Уровню Атаки на следующий ход. (<style=\"upgradeHighlight\">Макс. 5</style>)",
       "simpleDesc": [
         {
           "abilityID": 19041,
@@ -975,7 +975,7 @@
     {
       "id": 29041,
       "name": "Red Order++",
-      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally <style=\"upgradeHighlight\">gains 2 'Offense Level' next turn</style>. (Max 4)\n\nAllies with Gloom or Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, <style=\"upgradeHighlight\">gain 3 'Offense Level' next turn instead. (Max 6)</style>",
+      "desc": "При накладывании [Sinking:`Горя`], Счётчика [Sinking:`Горя`] или 'Особого Горя' навыком Грешника на противников, он получает <style=\"upgradeHighlight\">+2 к Уровню Атаки</style> на следующий ход. (Макс. 4)\n\nПри накладывании [Sinking:`Горя`], Счётчика [Sinking:`Горя`] или 'Особого Горя' навыком Грешника на противников и имея навык с грехом Уныния или Гнева, вместо этого он получает <style=\"upgradeHighlight\">+3 к Уровню Атаки</style> на следующий ход. (<style=\"upgradeHighlight\">Макс. 6</style>)",
       "simpleDesc": [
         {
           "abilityID": 29041,
@@ -2787,33 +2787,33 @@
     {
       "id": 9103,
       "name": "Pain of Stifled Rage",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 1 [Agility] and 2 [AttackUp] instead. (once per Skill, 2 times per turn)",
+      "desc": "[Эффект Дара действует только на 1-го и 2-го Грешника]\n\nЕсли навык накладывает [Combustion] или 'Особое Горение' на противника с [Combustion:`Горением`] или 'Особым Горением', то накладывается 1 [Agility:`Спешки`] на следующий ход. (2 раза за навык, 2 раза в ход)\n\nЕсли у Грешника уже есть [Agility], то вместо этого накладывается 1 [Agility:`Спешки`] и 2 [AttackUp:`Увеличения Уровня Атаки`]. (Один раз за навык, 2 раза в ход)",
       "simpleDesc": [
         {
           "abilityID": 9103,
-          "simpleDesc": "When inflicting [Combustion] or 'Unique Burn' with a Skill effect, gain 1 [Agility] next turn."
+          "simpleDesc": "При накладывании [Combustion:`Горения`] или 'Особого Горения' навыком, накладывается 1 [Agility:`Спешки`] на следующий ход."
         }
       ]
     },
     {
       "id": 19103,
       "name": "Pain of Stifled Rage+",
-      "desc": "[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain <style=\"upgradeHighlight\">2 [Agility]</style> and 2 [AttackUp] instead. (once per Skill, 2 times per turn)",
+      "desc": "[Эффект Дара действует только на 1-го, 2-го <style=\"upgradeHighlight\">и 3-го</style> Грешника]\n\nЕсли навык накладывает [Combustion] или 'Особое Горение' на противника с [Combustion:`Горением`] или 'Особым Горением', то накладывается 1 [Agility:`Спешки`] на следующий ход. (2 раза за навык, 2 раза в ход)\n\nЕсли у Грешника уже есть [Agility], то вместо этого накладывается <style=\"upgradeHighlight\">2 [Agility:`Спешки`]</style> и 2 [AttackUp:`Увеличения Уровня Атаки`]. (Один раз за навык, 2 раза в ход)",
       "simpleDesc": [
         {
           "abilityID": 19103,
-          "simpleDesc": "When inflicting [Combustion] or 'Unique Burn' with a Skill effect, gain 1 [Agility] next turn."
+          "simpleDesc": "При накладывании [Combustion:`Горения`] или 'Особого Горения' навыком, накладывается 1 [Agility:`Спешки`] на следующий ход."
         }
       ]
     },
     {
       "id": 29103,
       "name": "Pain of Stifled Rage++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn. (2 times per Skill, 2 times per turn)\n\nIf the affected unit already has [Agility], gain 2 [Agility], 2 [AttackUp], and <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> instead. (once per Skill, 2 times per turn)",
+      "desc": "[Эффект Дара действует только на 1-го, 2-го и 3-го Грешника]\n\nЕсли навык накладывает [Combustion] или 'Особое Горение' на противника с [Combustion:`Горением`] или 'Особым Горением', то накладывается 1 [Agility:`Спешки`] на следующий ход. (2 раза за навык, 2 раза в ход)\n\nЕсли у Грешника уже есть [Agility], то вместо этого накладывается 2 [Agility:`Спешки`], 2 [AttackUp:`Увеличения Уровня Атаки`] и <style=\"upgradeHighlight\">2 [AttackDmgUp:`Увеличения урона`]</style>. (Один раз за навык, 2 раза в ход)",
       "simpleDesc": [
         {
           "abilityID": 29103,
-          "simpleDesc": "When inflicting [Combustion] or 'Unique Burn' with a Skill effect to an enemy that has [Combustion] or 'Unique Burn', gain 1 [Agility] next turn."
+          "simpleDesc": "При накладывании [Combustion:`Горения`] или 'Особого Горения' навыком, накладывается 1 [Agility:`Спешки`] на следующий ход."
         }
       ]
     },
