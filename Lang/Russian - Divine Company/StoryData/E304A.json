@@ -3,39 +3,39 @@
     {
       "id": 0,
       "model": "뒤틀린주인카운트2",
-      "teller": "Eunbong’s Bar & Fryers Owner",
-      "title": "Eunbong’s Bar & Fryers",
+      "teller": "Владелец Куриного Бара Ынбон",
+      "title": "Куриный Бар Ынбон",
       "content": "……"
     },
     {
       "id": 1,
       "model": "돈키호테",
-      "content": "Nay, what manner of foul trickery is this?! The number has gone down whilst the judge has yet to even touch his dish!"
+      "content": "Быть не может! Аки чьё-то плутовство? Нам засчитали пораженье, хотя судья ещё и блюда не касался!"
     },
     {
       "id": 2,
       "model": "단테",
-      "content": "<He says it’s not even worth evaluating since what you said of it scared away his appetite…>"
+      "content": "<Он говорит, что твои слова отпугнули его аппетит, поэтому в дегустации нет никакой нужды…>"
     },
     {
       "id": 3,
       "model": "그레고르요리사",
-      "content": "That’s a few more syllables than what the owner spoke, isn’t it?"
+      "content": "Ваша речь была куда длиннее, чем его кукареканье."
     },
     {
       "id": 4,
       "model": "돈키호테",
-      "content": "Right he is! May this rejection be revoked!!"
+      "content": "Истину глаголит! Пускай отринет он свои хула!"
     },
     {
       "id": 5,
       "model": "단테",
-      "content": "<H-Hold it! Let me ask you guys this first!>"
+      "content": "<П-постойте! Сначала ответьте мне на один вопрос!>"
     },
     {
       "id": 6,
       "model": "단테",
-      "content": "<Have any of you even tasted this thing?>"
+      "content": "<Вы пробовали свою готовку?>"
     },
     {
       "id": 7,
@@ -60,39 +60,39 @@
     {
       "id": 11,
       "model": "단테",
-      "content": "<You can’t just feed others things you haven’t tried yourselves, we’re trying to please someone here!>"
+      "content": "<Нельзя же давать другим еду, которую вы сами даже не хотите попробовать! Мы ведь стараемся угодить, а не убить!>"
     },
     {
       "id": 12,
       "model": "히스클리프",
-      "content": "Mggrrr… Clockface’s got a point, I have to admit. Who wants to try this?"
+      "content": "Аргх… Признаю, правильные вещи говоришь. Ну, добровольцы есть?"
     },
     {
       "id": 13,
-      "content": "The tension was thicker than when we were preparing for battle."
+      "content": "Напряжение было сильнее, чем когда мы готовились к битвам."
     },
     {
       "id": 14,
       "model": "이상",
-      "content": "…I urge you not to look at me with such eyes…"
+      "content": "… Я прошу вас не смотреть на меня такими глазами…"
     },
     {
       "id": 15,
       "model": "돈키호테",
-      "content": "Permit me! If my sacrifice helpeth to unfurl the wickedness of the world…!"
+      "content": "Извольте мне! Пускай жертва моя отворит всю подлость сего мира!.."
     },
     {
       "id": 16,
-      "content": "Don Quixote shut her eyes tight."
+      "content": "Дон Кихот крепко закрыла глаза."
     },
     {
       "id": 17,
       "model": "히스클리프",
-      "content": "Bugger all! Someone just get the damn stuff in their jaw!"
+      "content": "Чтоб вас чёрт побрал! Засуньте уже эту дрянь себе в глотку!"
     },
     {
       "id": 18,
-      "content": "Heathcliff grabbed a lump out of the serving and shoved it into the nearest person’s mouth…"
+      "content": "Хитклиф схватил тарелку с блюдом и запихнул его в рот первому попавшемуся под руку…"
     },
     {
       "id": 19,
@@ -101,219 +101,219 @@
     },
     {
       "id": 20,
-      "content": "Meursault stood completely still at the unexpected taste test."
+      "content": "От неожиданной дегустации Мерсо замер на месте как вкопанный."
     },
     {
       "id": 21,
       "model": "단테",
-      "content": "<Did that kill him on the spot?>"
+      "content": "<Это ведь не убило его?>"
     },
     {
       "id": 22,
       "model": "돈키호테",
-      "content": "I swear upon mine honor that I have done nothing to cause troubles this time. If Sir Vergilius is ever to ask who was responsible…"
+      "content": "Клянусь моею честью, в сей раз не я являюсь источником напасти. Коли сэр Вергилий о виновнике вопрос задаст…"
     },
     {
       "id": 23,
-      "content": "Meursault turned to Heathcliff, very slowly."
+      "content": "Мерсо повернулся к Хитклифу, медленно."
     },
     {
       "id": 24,
       "model": "뫼르소",
-      "content": "The…"
+      "content": "При…"
     },
     {
       "id": 25,
       "model": "히스클리프",
-      "content": "The… What?"
+      "content": "При… Что?"
     },
     {
       "id": 26,
       "model": "뫼르소",
-      "content": "The dressing is erroneous overall; failure to properly cook the chicken has resulted in a residual stench of blood and other unpleasant odors; the sauce is too thick to bring out a deep flavor; the inconsistent cuts of the meat contribute to the serving’s inability to rouse one’s appetite."
+      "content": "Приправы совершенно не подходят, неспособность должным образом приготовить курицу привела к остаточному запаху крови и другим отталкивающим ароматам, соус слишком густой, что не позволяет раскрыть истинный вкус, неравномерно нарезанное мясо отталкивает всякий аппетит."
     },
     {
       "id": 27,
       "model": "히스클리프",
-      "content": "I… Have you gone loony? That what you have to say?"
+      "content": "А… У тебя крышу снесло? Ты только это хотел сказать?"
     },
     {
       "id": 28,
       "model": "뫼르소",
-      "content": "Non."
+      "content": "Нет."
     },
     {
       "id": 29,
       "model": "뫼르소",
-      "content": "I have not finished."
+      "content": "Я не договорил."
     },
     {
       "id": 30,
       "model": "뫼르소",
-      "content": "The seasons and spices are a complete disaster, and the taste in my mouth is even worse than plaster. Lacking sugar, you tossed two and a half spoons of butter, and the end result simply belongs right in the gutter."
+      "content": "Приправы и специи можно отнести к кулинарной катастрофе, вкус во рту хуже, чем если бы мне скормили штукатурку, и, не имея сахара, вы добавили две с половиной ложки сливочного масла. Подводя итог, этому блюду место исключительно в сточной канаве."
     },
     {
       "id": 31,
       "model": "돈키호테",
-      "content": "I… I am… quite sorry…"
+      "content": "Я… со… жалею…"
     },
     {
       "id": 32,
       "model": "뫼르소",
-      "content": "Yi Sang. I must ask if you aim to throng my teeth and prong my tongue by cooking wrong—seeing as this plate’s a headstrong lens to ding-dong notions of what food is to you all along."
+      "content": "Ли Сан. Я должен узнать, стремились ли вы разрушить полость моего рта своей готовкой? Сквозь линзу, которой является это блюдо, я заметил, что пища для вас скорее инструмент, нежели питательные средства."
     },
     {
       "id": 33,
       "model": "이상",
-      "content": "…I have not one excuse."
+      "content": "… У меня нет оправданий."
     },
     {
       "id": 34,
       "model": "히스클리프",
-      "content": "One bloody moment, is he… possessed by something or?"
+      "content": "Мне мерещится или он… у него реально мозги потекли?"
     },
     {
       "id": 35,
       "model": "뫼르소",
-      "content": "Most people were unable to accept my point when I elaborated on my statements in detail."
+      "content": "Большинство людей не способны принимать мою точку зрения, когда я излагаю её в развёрнутом формате."
     },
     {
       "id": 36,
       "model": "뫼르소",
-      "content": "Because of that, I have not bothered to expand upon them until now."
+      "content": "По этой причине до этого момента я не утруждал себя в подаче излишних подробностей."
     },
     {
       "id": 37,
       "model": "뫼르소",
-      "content": "Additionally…"
+      "content": "К тому же…"
     },
     {
       "id": 38,
       "model": "홍루",
-      "content": "I know, why don’t we let Meursault take charge this time!"
+      "content": "У меня есть идея, почему бы нам не сделать блюдо по рецепту Мерсо?!"
     },
     {
       "id": 39,
-      "content": "Hong Lu swiftly made a suggestion with a shower of claps to break the frigid tension before his turn to be condemned came around."
+      "content": "Под шквалом собственных аплодисментов Хун Лу без промедлений высказал новое предложение, прежде чем очередь выслушивать критику добралась до него самого."
     },
     {
       "id": 40,
       "model": "홍루",
-      "content": "We’ll help you with everything you need!"
+      "content": "Мы тебе во всём поможем!"
     },
     {
       "id": 41,
       "model": "뫼르소",
-      "content": "…I do not prefer to have assistants around."
+      "content": "… Я предпочитаю работать один."
     },
     {
       "id": 42,
       "model": "돈키호테",
-      "content": "Fret not! We shan’t disappoint you!"
+      "content": "Не тужите! Не посрамим мы вашего доверия!!"
     },
     {
       "id": 43,
-      "content": "Don Quixote bravely exclaimed, rolling up her sleeves."
+      "content": "Дон Кихот храбро выкрикнула, закатывая рукава."
     },
     {
       "id": 44,
       "model": "뫼르소",
-      "content": "Hmm… Cooking is not my specialty, but if you so insist, I will readily attempt it."
+      "content": "Хм-м… Я не специализируюсь в готовке, но раз вы настаиваете, я непременно попробую."
     },
     {
       "id": 45,
       "model": "단테",
-      "content": "<L—Let’s have a look at Ryōshū’s team, then.>"
+      "content": "<Л-ладно, теперь посмотрим, что происходит у команды Рёсю.>"
     },
     {
       "id": 46,
-      "content": "While there was a spectacle occurring on Gregor’s team, the air had grown tense among Ryōshū’s crew."
+      "content": "Когда у команды Грегора наблюдалась некая юмористическая сценка, у команды напротив атмосфера была куда напряжённее."
     },
     {
       "id": 47,
       "model": "싱클레어",
-      "content": "B—But…"
+      "content": "Н-но…"
     },
     {
       "id": 48,
       "model": "싱클레어",
-      "content": "How in the Wings’ names am I supposed to make food that’s both salty and clean, sweet but not too sugary, and lightly cooked but somehow also crispy!"
+      "content": "Во имя Крыльев, как я должен приготовить блюдо, которое одновременное и солёное, но не горькое, и сладкое, но не приторное, и слегка сваренное, но при этом хрустящее!"
     },
     {
       "id": 49,
-      "content": "Sinclair yelled, throwing the apron he had been wearing to the floor."
+      "content": "У Синклера сдали нервы и он швырнул свой фартук на пол."
     },
     {
       "id": 50,
       "model": "싱클레어",
-      "content": "I can’t do this anymore! I guess Ishmael was right, beating Heathcliff at arm wrestling is gonna be easier than this!"
+      "content": "С меня хватит! Видимо, Измаил была права, когда говорила, что будет проще победить Хитклифа в армрестлинге, нежели всё это!"
     },
     {
       "id": 51,
       "model": "이스마엘",
-      "content": "That—That was a joke…"
+      "content": "Это… была шутка…"
     },
     {
       "id": 52,
       "model": "파우스트",
-      "content": "Statistically speaking, it is as likely as Sinclair’s height increasing by five centimeters in just one week; in other words, a nigh impossib—"
+      "content": "Статистически, вероятность этого события сопоставима с возможностью Синклера за неделю вырасти на пять сантиметров, другими словами, близка к ну—"
     },
     {
       "id": 53,
       "model": "싱클레어",
-      "content": "Shut up already! It’s all the same!!!"
+      "content": "Да замолчите вы уже! Это одно и то же!!!"
     },
     {
       "id": 54,
       "model": "오티스",
-      "content": "How weak, you cannot withstand a few criticisms and come whining like the pathetic soldier you are."
+      "content": "Слабак, ты не можешь выдержать небольшую критику и начинаешь ныть как жалкий солдат, которым ты и являешься."
     },
     {
       "id": 55,
       "model": "싱클레어",
-      "content": "If you’re so darn sure of yourself, Outis… W-Why don’t you do it yourself then?"
+      "content": "Если вы, Утис, так в себе уверены… Почему бы вам самой этим не заняться?"
     },
     {
       "id": 56,
-      "content": "As courageous as his rebuttal was, his eyes were shut tight."
+      "content": "Какими бы смелыми ни были его возражения, Синклер крепко жмурил глаза."
     },
     {
       "id": 57,
       "model": "오티스",
-      "content": "…You leave me no choice."
+      "content": "… Ты не оставляешь мне выбора."
     },
     {
       "id": 58,
       "model": "오티스요리사",
-      "content": "Out of my way, stragglers. It’s about time someone led this troop."
+      "content": "С дороги, приблудники, пришла пора мне взять командование на себя."
     },
     {
       "id": 59,
-      "content": "In a series of turbulent events I didn’t fully catch, Meursault took up Gregor’s culinary antennae and toque blanche."
+      "content": "В череде бурных событий, которые я даже не успеваю полностью осознать, Мерсо надевает поварской колпак Грегора и берет бразды шеф-повара на себя."
     },
     {
       "id": 60,
-      "content": "The kitchen grew busy as Gregor’s Sinners moved according to Meursault’s order."
+      "content": "Мерсо начал отдавать указы Грешникам и на кухне быстро закипела работа."
     },
     {
       "id": 61,
       "model": "돈키호테",
-      "content": "Behold, Meursault! I have carved this one into the adorable shape of a star…"
+      "content": "Узрите, Мерсо! Изваяла я сей ингредиент в премилую форму звезды…"
     },
     {
       "id": 62,
       "model": "뫼르소요리사",
-      "content": "Potatoes should be cut into square pieces so that they may be evenly cooked on all sides."
+      "content": "Картофель следует нарезать квадратными кусками, чтобы он мог равномерно приготовиться со всех сторон."
     },
     {
       "id": 63,
       "model": "돈키호테",
-      "content": "Nevertheless…!!"
+      "content": "И всё же!.."
     },
     {
       "id": 64,
       "model": "뫼르소요리사",
-      "content": "Square shapes. Five centimeters."
+      "content": "Квадратами. По пять сантиметров."
     },
     {
       "id": 65,
@@ -322,37 +322,37 @@
     },
     {
       "id": 66,
-      "content": "Meursault looked more charismatic than ever with the mantle of head chef upon his shoulders."
+      "content": "В роли шеф-повара Мерсо выглядел более харизматичным, чем когда-либо прежде."
     },
     {
       "id": 67,
       "model": "그레고르",
-      "content": "Eh, whatever. A chicken’s a chicken, it can only be so special."
+      "content": "Ай, чтоб её. Курица есть курица, как ни готовь, на вкус будет курица."
     },
     {
       "id": 68,
       "model": "그레고르",
-      "content": "Who knows, that lost recipe of his might’ve been all superficial stuff like “one spoon of earnestness and three scoops of effort”, ‘ne?"
+      "content": "Кто знает, вдруг это один из тех рецептов вроде «одна ложка любви и три стараний»?"
     },
     {
       "id": 69,
       "model": "홍루",
-      "content": "Oho~ So this is how you cook potatoes~"
+      "content": "О-о-о~ Так вот готовят картошку~"
     },
     {
       "id": 70,
       "model": "히스클리프",
-      "content": "What the… Ya thought they harvested baked potatoes out in the fields?"
+      "content": "Какого… А ты что думал? Что она сразу запечённой растёт?"
     },
     {
       "id": 71,
       "model": "홍루",
-      "content": "Taking me for a fool, aren’t you…!"
+      "content": "Совсем меня за дурака считаешь, да?.."
     },
     {
       "id": 72,
       "model": "홍루",
-      "content": "Obviously, ripe potatoes fall from their trees when the time is right."
+      "content": "Очевидно же, что запечённый картофель падает с деревьев, когда становится полностью готов!"
     },
     {
       "id": 73,
@@ -362,70 +362,70 @@
     {
       "id": 74,
       "model": "홍루",
-      "content": "Pft, I was just kidding, Heathcliff."
+      "content": "Пх, Хитклиф, я просто шучу."
     },
     {
       "id": 75,
       "model": "홍루",
-      "content": "Oh? What are you planning to do with that tenderizer—"
+      "content": "А? Что вы собираетесь делать с этим отбивным молотком—"
     },
     {
       "id": 76,
       "model": "이상",
-      "content": "A serene flower has blossomed on this yam. Ah, so a bud can indeed bloom even upon this barren ground."
+      "content": "На моём батате расцвёл безмятежный цветок. Ах, так бутон и впрямь способен расцвести даже на такой бесплодной поверхности."
     },
     {
       "id": 77,
       "model": "뫼르소요리사",
-      "content": "That is a sign that the potato is poisonous; it must be disposed of immediately. Don Quixote, confiscate it."
+      "content": "Это признак того, что данный картофель испорчен; от него необходимо немедленно избавиться. Дон Кихот, утилизируй его."
     },
     {
       "id": 78,
       "model": "돈키호테",
-      "content": "Righty-ho!!!"
+      "content": "Сию минуту!!!"
     },
     {
       "id": 79,
       "model": "이상",
-      "content": "Ah… Please do not do such…"
+      "content": "А-а… Прошу, не делайте этого…"
     },
     {
       "id": 80,
       "model": "이상",
-      "content": "Burnt things are significant in their own ways. In truth, the state of being “burnt” may as well be an imaginary concept defined by man when the essence of an object has remained unchanged."
+      "content": "Подгорелые вещи по-своему важны. По правде говоря, «подгорелое» состояние вполне может являться вымышленным концептом, поскольку сама суть предмета остаётся неизменной."
     },
     {
       "id": 81,
       "model": "뫼르소요리사",
-      "content": "“Burnt” refers to the condition in which a food item is discolored beyond a certain degree and produces an acrid smell after prolonged exposure to high heat."
+      "content": "«Подгорелым» называют состояние продукта, при котором еда изменяется в цвете сверх определённой степени и издаёт едкий запах после продолжительного нахождения под высокой температурой."
     },
     {
       "id": 82,
       "model": "뫼르소요리사",
-      "content": "And this one has burnt to its core. It is only right to discard it as long-term consumption of burnt food can negatively impact the body."
+      "content": "Этот же подгорел вдоль и поперёк. Он подлежит только утилизированию, поскольку длительное употребление подгоревшей пищи может негативно сказаться на организме человека."
     },
     {
       "id": 83,
       "model": "이상",
-      "content": "How regrettable…"
+      "content": "Как досадно…"
     },
     {
       "id": 84,
-      "content": "Meursault became a ruthless chef, while Yi Sang remained mostly unhelpful."
+      "content": "Мерсо показывал себя суровым шеф-поваром, когда Ли Сан по-прежнему оставался бесполезным."
     },
     {
       "id": 85,
-      "content": "Heathcliff was peeling ingredients at a surprisingly brisk pace."
+      "content": "Хитклиф на удивление бодро справлялся с нарезанием ингредиентов."
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Don’t gab at me. It’ll ruin my focus."
+      "content": "Не отвлекайте меня. А то потеряю концентрацию."
     },
     {
       "id": 87,
       "model": "히스클리프",
-      "content": "Knives are a luxury. A real pauper can peel any spud with nothing more than a metal spoon."
+      "content": "Ножи — это роскошь. Настоящему голяку хватит и одной ложки, чтобы очистить любую картофелину."
     },
     {
       "id": 88,
@@ -435,57 +435,57 @@
     {
       "id": 89,
       "model": "뫼르소요리사",
-      "content": "This gets a pass. You are rewarded extra points for the expertise displayed in your aslant strokes."
+      "content": "Приемлемо. Могу похвалить за мастерство, проявленное в разрезах наискось."
     },
     {
       "id": 90,
       "model": "히스클리프",
-      "content": "That’s class!!!!"
+      "content": "Хорош!!!"
     },
     {
       "id": 91,
       "model": "오티스요리사",
-      "content": "Watch closely. You need to employ a wide variety of ingredients. Being a picky eater is what’s stunted your growth."
+      "content": "Смотри внимательно. Тебе нужно использовать широкий ассортимент ингредиентов. Твоя привередливость в еде и приостановила твой рост."
     },
     {
       "id": 92,
       "model": "싱클레어",
-      "content": "I… I can still get taller from here…!"
+      "content": "Я… всё ещё могу стать выше!.."
     },
     {
       "id": 93,
       "model": "싱클레어",
-      "content": "…I think."
+      "content": "… Наверное."
     },
     {
       "id": 94,
       "model": "오티스요리사",
-      "content": "Also, an unbalanced diet is the reason why your hair’s turned all grey."
+      "content": "Далее, несбалансированная диета стала причиной твоих седых волос."
     },
     {
       "id": 95,
       "model": "파우스트",
-      "content": "Faust has… always had…"
+      "content": "У Фауст… всегда были…"
     },
     {
       "id": 96,
       "model": "오티스요리사",
-      "content": "Your hands in particular have become coarse and rough for the same reason."
+      "content": "По той же причине кожа на твоих руках стала грубой и шероховатой."
     },
     {
       "id": 97,
       "model": "이스마엘",
-      "content": "Excuse me? This is because of all the work I did aboard the ship!"
+      "content": "Что, простите? Это из-за работы, что мне приходилось делать на корабле!"
     },
     {
       "id": 98,
       "model": "로쟈",
-      "content": "Me next, Outis! What about me? What’s the diagnosis?"
+      "content": "Утис, давай меня! Какой у меня диагноз?!"
     },
     {
       "id": 99,
       "model": "오티스요리사",
-      "content": "Don’t yell frivolously like that! You’re being a distraction!"
+      "content": "Хватит кричать попусту! Ты меня только отвлекаешь!"
     }
   ]
 }
