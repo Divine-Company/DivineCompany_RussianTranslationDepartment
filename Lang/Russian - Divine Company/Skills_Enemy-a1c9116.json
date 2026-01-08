@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "Unmannerly Attack",
-          "desc": "[WhenUse] Gain 1 [Agility] next turn",
+          "desc": "[WhenUse] Получает 1 [Agility:`Спешку`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -30,17 +30,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Binding:`Медлительности`] на следующий ход"
                 }
               ]
             }
@@ -54,19 +54,19 @@
         {
           "level": 1,
           "name": "Messy Attack",
-          "desc": "[WhenUse] At 7+ Speed, Coin Power +1\n[WhenUse] If target has 4+ [Laceration], Coin Power +1\n[WinDuel] Deal more damage based on Clash count (+5% per Clash count, max 50%)\n[WinDuel] Inflict +3 [Laceration] Count",
+          "desc": "[WhenUse] At 7+ Speed, Coin Power +1\n[WhenUse] If target has 4+ [Laceration], Coin Power +1\n[WinDuel] Deal more damage based on Clash count (+5% per Clash count, max 50%)\n[WinDuel] Накладывает 3 Счётчика [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -79,7 +79,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Блок",
           "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)",
           "coinlist": [
             {
@@ -104,7 +104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -123,17 +123,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Paralysis] на следующий ход"
                 }
               ]
             }
@@ -152,14 +152,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -178,7 +178,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit has Shield, inflict 1 [Paralysis] on target next turn"
+                  "desc": "[OnSucceedAttack] При наличии щита накладывает 1 [Paralysis] на следующий ход"
                 }
               ]
             }
@@ -197,17 +197,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 HP"
+                  "desc": "[OnSucceedAttack] Исцеляет 2 ОЗ"
                 }
               ]
             }

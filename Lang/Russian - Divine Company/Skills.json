@@ -2889,7 +2889,7 @@
         {
           "level": 4,
           "name": "Shank",
-          "desc": "При наличии на цели 7+ [Laceration:`Кровотечения`], наносит на 20% больше урона",
+          "desc": "Наносит на 20% больше урона при наличии на цели 7+ [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -2953,7 +2953,7 @@
                   "desc": "[ReUseOnSucceedAttackHead] Наносит на 100% больше урона этой Монетой"
                 },
                 {
-                  "desc": "[ReUseOnSucceedAttackHead] При наличии на цели 10+ [Laceration:`Кровотечения`], наносит на 50% больше урона"
+                  "desc": "[ReUseOnSucceedAttackHead] Наносит на 50% больше урона при наличии на цели 10+ [Laceration:`Кровотечения`]"
                 }
               ]
             }

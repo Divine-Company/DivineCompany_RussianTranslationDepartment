@@ -2045,7 +2045,7 @@
     {
       "id": "CheerUpXichun",
       "name": "Юань (Подмога)",
-      "desc": "Макс. значение: 1.\nЕсли на цели есть больше пять негативных эффектов, +1 к Силе в Схватке и наносимый урон увеличивается на 10%.",
+      "desc": "Макс. значение: 1.\nПри наличии на цели 5+ негативных статусов, +1 к Силе в Схватке и наносимый урон увеличивается на 10%.",
       "summary": "",
       "undefined": "-"
     },
@@ -2490,6 +2490,20 @@
       "id": "LCA_Bullet",
       "name": "LCA Fracture Round",
       "desc": "- Max Capacity: 16\n- Unique Ammo\n- Spent by certain Skills\n- Some attacks cancel if lacking Ammo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NiddleEGO",
+      "name": "Needle",
+      "desc": "- Unique Bleed\n- When taking Envy damage, gain +1 Bleed Count and reduce this effect's Stack by 1\n- Turn End: Gain 1 Bleed and reduce this effect's Stack by 1",
+      "summary": "Gain Bleed Count",
+      "undefined": "-"
+    },
+    {
+      "id": "IDMicroChip",
+      "name": "Resident Reg. Microchip",
+      "desc": "- Max Stack: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
       "summary": "",
       "undefined": "-"
     }

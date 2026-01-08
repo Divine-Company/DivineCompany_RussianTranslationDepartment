@@ -2,57 +2,57 @@
   "dataList": [
     {
       "id": "MuscleContraction",
-      "name": "Automated Myofiber Activity",
-      "desc": "- Max Stack: 2\n- Deal +15% damage per Stack\n- Combat Start: At 2 Stacks, convert all Coins of this unit's Attack Skills into Unbreakable Coins.\n- After Attack: Lose this effect",
+      "name": "Механизированная деятельность миофибрилл",
+      "desc": "Макс. значение: 2.\nНаносит на 15% больше урона за Значение\nПри значении 2 в начале Схваток трансформирует все свои Монеты атакующих навыков в Нерушимые Монеты.\nПосле атаки сбрасывается.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelEdge",
-      "name": "The Duel Escalates",
-      "desc": "- Max Stack: 99\n- 'The Thumb Apprentice - Lucio' gains Skill Power and deals more damage with every Clash with this unit\n- Expires at Turn End if this unit did not Clash with 'The Thumb Apprentice - Lucio' this turn",
+      "name": "Эскалация дуэли",
+      "desc": "Макс. значение: 20.\n«The Thumb Apprentice - Lucio» получает Силу навыка и наносит больше урона за каждую схватку с этим Грешником.\nВ конце хода сбрасывается, если этот Грешник не вступал в Схватку с «The Thumb Apprentice - Lucio» в этому ходу.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HostageCharon",
-      "name": "Hostage Situation",
-      "desc": "- When Clashing with 'The Thumb Apprentice - Lucio', Clash Power -1\n- Deal -20% damage to 'The Thumb Apprentice - Lucio'",
+      "name": "Харон в заложниках",
+      "desc": "-1 к Силе в Схватке при Схватке с «The Thumb Apprentice - Lucio».\nНаносит на 20% меньше урона «The Thumb Apprentice - Lucio».",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "SeveredTendon",
-      "name": "Severed Tendon",
-      "desc": "- Max Stack: 3\n- Base Attack Skill Base Power -1 for every Stack\n- Turn End: Lose 1 Stack",
+      "name": "Перерезанное сухожилие",
+      "desc": "Макс. значение: 3.\n-1 к Базовой Силе атакующих навыков за каждое значение.\nВ конца хода уменьшается на 1.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HowDareYouApple",
-      "name": "The Audacity...!",
-      "desc": "- Max Stack: 4\n- Deal +20% damage for every Stack\n- Consumed when using certain Skills",
+      "name": "Как нахально!...",
+      "desc": "Макс. значение: 4.\nНаносит на 20% больше урона за Значение.\nИспользуется различными навыками.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RapidGrowthApple",
-      "name": "Rapid Growth",
-      "desc": "- Max Stack: 3\n- Lose 1 Defense Level for every Stack; minimum Defense Level due to this effect: 1\n- Lose this effect when all Arms are broken",
+      "name": "Стремительный рост",
+      "desc": "Макс. значение: 3.\n-1 к Уровню Защиты за Значение (Уровень Защиты от этого эффекта не может быть ниже 1).\nСтатус сбрасывается, если Руки сломаны.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HumanFleshTheRings",
-      "name": "Corpus Ingredient",
-      "desc": "- Max Stack: 2\n- Unique Charge (fixed Potency)",
+      "name": "Кусок плоти",
+      "desc": "Особый Заряд: С фиксированным Значением.\nМакс. значение: 2.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BoneBladeTheRings",
-      "name": "Artwork: Fascia",
-      "desc": "- Turn Start: Gain 4 Base Power Up\n- When inflicting Bleed with Attack Skills, inflict additional 2 Bleed Potency",
+      "name": "Произведение искусства: Фасция",
+      "desc": "В начале хода даёт 4 Увеличения Базовой Силы.\nПри накладывании Кровотечения атакующими навыками, дополнительно накладывает 2 Кровотечения.",
       "summary": "",
       "undefined": "-"
     },
@@ -65,7 +65,7 @@
     },
     {
       "id": "IronMaiden_LowMorale",
-      "name": "Iron Maiden",
+      "name": "Железная дева",
       "desc": "- Low Morale\n- Turn Start: Gain 1 Offense Level Down and 1 Defense Level Up",
       "summary": "Turn Start: Gain 1 Offense Level Down and 1 Defense Level Up",
       "undefined": "-"
@@ -86,8 +86,8 @@
     },
     {
       "id": "RyoshuSlotPlusA1C9",
-      "name": "Stench of Times Past",
-      "desc": "- Skill Slot +1\n- Deal +10% damage to The House of Spiders enemies\n- When Staggered, immediately recover from Stagger at the start of the next turn and gain 1 Attack Power Up (once per Encounter)\n- Cannot Retreat",
+      "name": "Зловоние прошлых времён",
+      "desc": "+1 слот навыка.\nНаносит на 10% больше урона противникам, имеющим «The House of Spiders».\nПри Оглушении в начале следующего хода восстанавливается от Оглушения и получает 1 Увеличение силы атаки (Один раз за Бой).\nНе может Отступить с поля боя.",
       "summary": "Deal more damage to The House of Spiders enemies",
       "undefined": "-"
     },
@@ -173,42 +173,48 @@
       "name": "Prescript",
       "desc": "- Receive 'Prescript: [Paper Slip]' under specific conditions",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
     },
     {
       "id": "IndexPrescriptFaust_0",
       "name": "Prescript: [Paper Slip] I",
       "desc": "Use a Skill marked with Mark of the Prescript or hit a target with a marked Skill.\n\n- Turn Start: At 0~2 Grace of the Prescript, gain this effect \n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
     },
     {
       "id": "IndexPrescriptFaust_1",
       "name": "Prescript: [Paper Slip] II",
       "desc": "Hit a target with a Skill marked with Mark of the Prescript.\n\n- Turn Start: At 3~5 Grace of the Prescript, gain this effect\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
     },
     {
       "id": "IndexPrescriptFaust_2",
       "name": "Prescript: [Paper Slip] III",
       "desc": "Hit a target with E.G.O Awakening Skill or 'Skill 3' marked with Mark of the Prescript.\n\n- Turn Start: At 6~8 Grace of the Prescript, gain this effect\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
     },
     {
       "id": "IndexPrescriptFaust_3",
       "name": "Prescript: [Paper Slip] IV",
       "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: At 9 Grace of the Prescript, gain this effect",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
     },
     {
       "id": "KarmaOfIndexAlly",
       "name": "Karmic Consequence",
       "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100\n",
       "summary": "",
-      "undefined": "-"
+      "undefined": "-",
+      "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
     }
   ]
 }

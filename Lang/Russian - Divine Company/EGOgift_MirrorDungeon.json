@@ -812,7 +812,7 @@
     {
       "id": 9034,
       "name": "Pinpoint Logic Circuit",
-      "desc": "При ударе противника навыком Зависти или навыком, накладывающим [Combustion] или 'Особое Горение', накладывает (Кол-во Монет навыка / 2) [Combustion:`Горения`] (с округлением вверх).",
+      "desc": "При ударе противника навыком Зависти или навыком, накладывающим [Combustion] или 'Особое Горение', накладывает (Кол-во Монет навыка / 2) [Combustion:`Горения`] (с округлением вверх).\n\n[Cannot Stack] When Move-in Reg. Heathcliff E.G.O Passive 「Circuit Wiring」 activates, this effect does not activate",
       "simpleDesc": [
         {
           "abilityID": 9034,

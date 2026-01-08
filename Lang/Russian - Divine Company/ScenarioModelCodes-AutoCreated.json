@@ -213,12 +213,12 @@
     {
       "id": "모제스",
       "name": "Мозес",
-      "nickName": "ДКЛ"
+      "nickName": "Директор ПРКЛ"
     },
     {
       "id": "에즈라",
       "name": "Эзра",
-      "nickName": "ДКЛ"
+      "nickName": "ПРКЛ"
     },
     {
       "id": "소드",
@@ -2758,17 +2758,17 @@
     {
       "id": "모제스2",
       "name": "Мозес",
-      "nickName": "ДКЛ"
+      "nickName": "Директор ПРКЛ"
     },
     {
       "id": "모제스3",
       "name": "Мозес",
-      "nickName": "ДКЛ"
+      "nickName": "Директор ПРКЛ"
     },
     {
       "id": "LCD앵두",
       "name": "Aeng-du",
-      "nickName": "ДКЛ"
+      "nickName": "ПРКЛ"
     },
     {
       "id": "과거료슈2",
@@ -2824,6 +2824,111 @@
       "id": "시체인형3",
       "name": "Corpse Manikin",
       "nickName": "The Ring"
+    },
+    {
+      "id": "모제스1",
+      "name": "Мозес",
+      "nickName": "ПРКЛ"
+    },
+    {
+      "id": "중지아비",
+      "name": "Matthias",
+      "nickName": "The Middle Nursefather"
+    },
+    {
+      "id": "약지아비",
+      "name": "Callisto",
+      "nickName": "The Ring Nursefather"
+    },
+    {
+      "id": "검지아비",
+      "name": "Rien",
+      "nickName": "The Index Nursefather"
+    },
+    {
+      "id": "검지제자",
+      "name": "Sora",
+      "nickName": "The Index Apprentice"
+    },
+    {
+      "id": "검지제자2",
+      "name": "Sora",
+      "nickName": "LCE Research Team"
+    },
+    {
+      "id": "라비",
+      "name": "Ravi",
+      "nickName": "LCE Clerical Team"
+    },
+    {
+      "id": "LCA네임드",
+      "name": "Jamila",
+      "nickName": "LCA Udjat Vanguard Team 1"
+    },
+    {
+      "id": "베스파",
+      "name": "Vespa",
+      "nickName": "ПРКЛ"
+    },
+    {
+      "id": "소지아비2",
+      "name": "Dihui Star",
+      "nickName": "The Pinky Nursefather"
+    },
+    {
+      "id": "과거료슈1",
+      "name": "Yoshihide",
+      "nickName": "The House of Spiders"
+    },
+    {
+      "id": "LCA대원벼락",
+      "name": "The Human Thunderbolt",
+      "nickName": "Distortion"
+    },
+    {
+      "id": "호엔하임2",
+      "name": "Hohenheim",
+      "nickName": "LCE Research Team Chief"
+    },
+    {
+      "id": "9장소드다침2",
+      "name": "Saude",
+      "nickName": "LCCB Manager"
+    },
+    {
+      "id": "머금은목화1",
+      "name": "Drenched Gossypium",
+      "nickName": "Abnormality"
+    },
+    {
+      "id": "머금은목화2",
+      "name": "Drenched Gossypium",
+      "nickName": "Abnormality"
+    },
+    {
+      "id": "LCD앵두팔다침",
+      "name": "Aeng-du",
+      "nickName": "ПРКЛ"
+    },
+    {
+      "id": "소지아비3",
+      "name": "Dihui Star",
+      "nickName": "The Pinky Nursefather"
+    },
+    {
+      "id": "검지제자3",
+      "name": "Sora",
+      "nickName": "The Index Apprentice"
+    },
+    {
+      "id": "모제스4",
+      "name": "Moses",
+      "nickName": "ПРКЛ"
+    },
+    {
+      "id": "중지아비2",
+      "name": "Matthias",
+      "nickName": "The Middle Nursefather"
     }
   ]
 }

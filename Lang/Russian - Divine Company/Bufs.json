@@ -2617,7 +2617,7 @@
     {
       "id": "CheerUpXichun",
       "name": "Юань (Подмога)",
-      "desc": "Макс. значение: 1.\nЕсли на цели есть больше пять негативных эффектов, +1 к Силе в Схватке и наносимый урон увеличивается на 10%.",
+      "desc": "Макс. значение: 1.\nПри наличии на цели 5+ негативных статусов, +1 к Силе в Схватке и наносимый урон увеличивается на 10%.",
       "summary": "",
       "undefined": "-"
     },
@@ -2841,8 +2841,8 @@
     },
     {
       "id": "VibrationBleeding",
-      "name": "Tremor - Hemorrhage",
-      "desc": "- On Tremor Burst, take Lust Damage equal to (sum of Tremor Potency and Bleed Potency / 2), and lose 1 Bleed Count\n- When hit by Skills that trigger Tremor Burst, raise this unit's Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Тремор: Кровоизлияние",
+      "desc": "Особый Тремор.\nПри срабатывании Приступа Тремора, наносится урон Похотью, равный (Значение Тремора + Значение Кровотечения) / 2, понижая Счётчик Кровотечения на 1.",
       "summary": "",
       "undefined": "-"
     },
@@ -3117,7 +3117,21 @@
     {
       "id": "LCA_Bullet",
       "name": "LCA Fracture Round",
-      "desc": "- Max Capacity: 16\n- Unique Ammo\n- Spent by certain Skills\n- Some attacks cancel if lacking Ammo",
+      "desc": "Особые Патроны.\nМакс. значение: 16.\nИспользуется различными навыками.\nНекоторые удары прекращаются, если Патроны закончились.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NiddleEGO",
+      "name": "Needle",
+      "desc": "- Unique Bleed\n- When taking Envy damage, gain +1 Bleed Count and reduce this effect's Stack by 1\n- Turn End: Gain 1 Bleed and reduce this effect's Stack by 1",
+      "summary": "Gain Bleed Count",
+      "undefined": "-"
+    },
+    {
+      "id": "IDMicroChip",
+      "name": "Resident Reg. Microchip",
+      "desc": "- Max Stack: 2\n- Take +10% damage from Wrath and Envy Skills\n- On Clash Lose, gain 1 Burn (3 times per turn)\n- Turn End: Lose 1 Stack",
       "summary": "",
       "undefined": "-"
     }
