@@ -6,12 +6,12 @@
         {
           "level": 1,
           "name": "Flame Strike",
-          "desc": "[WhenUse] Gain 1 [MRcAiBa]",
+          "desc": "[WhenUse] Получает 1 [MRcAiBa:`Тлеющий уголёк`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion] and +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Combustion:`Горения`] и 3 его Счётчика"
                 }
               ]
             }
@@ -25,12 +25,12 @@
         {
           "level": 1,
           "name": "Ardor Blossom Pinions",
-          "desc": "[WhenUse] Gain 2 [MRcAiBa]",
+          "desc": "[WhenUse] Получает 2 [MRcAiBa:`Тлеющих уголька`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [CrimsonResistDown] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [CrimsonResistDown:`Уменьшения защиты от Урона Гревом`] на следующий ход"
                 }
               ]
             }
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "Spark",
-          "desc": "[WhenUse] Inflict +2 [Combustion] Count\n[WinDuel] Inflict [Combustion] equal to [Combustion] on target\n[DefeatDuel] Gain the following effects:\n- Damage dealt by this Skill cannot Stagger the target\n- If this is a Wrath Skill, remove [Combustion] on the target\n- Halve the amount of [Combustion] and [Combustion] Count this Skill inflicts",
+          "desc": "[WhenUse] Накладывает 2 Счётчика [Combustion:`Горения`]\n[WinDuel] Накладывает [Combustion], равное [Combustion:`Горению`] на цели\n[DefeatDuel] Получает следующие эффекты:\n- Не может Оглушить цель этим навыком\n- Сбрасывает [Combustion] на цели при Схватке с навыком Гнева\n- Накладывает в два раза меньше [Combustion:`Горения`] и его Счётчика этим навыком",
           "coinlist": [
             {
               "coindescs": [
@@ -52,7 +52,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] If target has 3+ [MRcAiBb]...\n- Inflict 10 [Combustion]\n- Inflict +2 [Combustion] Count\n- Inflict 2 [MRcAiBc]\n- [MRcAiBb] expires completely"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] При наличии на цели 3+ [MRcAiBb:`Сверкающих уголька`]:\n- Накладывает 10 [Combustion:`Горения`] и 2 его Счётчика\n- Накладывает 2 [MRcAiBc]\n- Сбрасывает [MRcAiBb]"
                 }
               ]
             },
@@ -62,10 +62,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Combustion] and +4 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 6 [Combustion:`Горения`] и 4 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [CrimsonResistDown] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [CrimsonResistDown:`Уменьшения защиты от Урона Гревом`] на следующий ход"
                 }
               ]
             }
@@ -79,25 +79,25 @@
         {
           "level": 1,
           "name": "Dust Explosion",
-          "desc": "[WhenUse] If target has 5+ [Combustion], this Skill gains Clash Power +2",
+          "desc": "[WhenUse] +2 к Силе в Схватке при наличии на цели 5+ [Combustion:`Горения`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Against the enemy with the slowest Speed, inflict [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttackHead] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) Счётчика [Combustion:`Горения`] на противника с наименьшей Скоростью"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Against the enemy with the lowest Speed, inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttackHead] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) Счётчика [Combustion:`Горения`] на противника с наименьшей Скоростью"
                 }
               ]
             }
@@ -111,7 +111,7 @@
         {
           "level": 1,
           "name": "Ardor Blossom Star",
-          "desc": "Gain Clash Power equal to (# of Wrath Skills that the Ardor Blossom Moth will use this turn x2)\n[WhenUse] Inflict (# of Wrath Skills that the Ardor Blossom Moth will use this turn x2) [Combustion] to all enemies\n[DefeatDuel] Gain the following effects:\n- This Attack Skill deals 0 damage\n- Remove [Combustion] from all targets\n- Halve the amount of [Combustion] and [Combustion] Count this Skill inflicts",
+          "desc": "+2 к Силе в Схватке за каждый навык Гнева, который «Ardor Blossom Moth» будет использовать в этом ходу\n[WhenUse] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу x2) [Combustion] на всех противников\n[DefeatDuel] Получает следующие эффекты:\n- Наносит 0 урона этим навыком\n- Сбрасывает [Combustion] на всех целях\n- Накладывает в два раза меньше [Combustion:`Горения`] и его Счётчика этим навыком",
           "coinlist": [
             {
               "coindescs": [
@@ -119,10 +119,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Against the enemy with the slowest Speed, Inflict [Combustion] and [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) [Combustion:`Горения`] и его Счётчика на противника с наименьшей Скоростью"
                 }
               ]
             },
@@ -132,10 +132,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Combustion] equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[OnSucceedAttack] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Against the enemy with the slowest Speed, Inflict [Combustion] and [Combustion] Count equal to the number of Wrath Skills that the Ardor Blossom Moth will use this turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает (Количество навыков Гнева, которые «Ardor Blossom Moth» будет использовать в этом ходу) [Combustion:`Горения`] и его Счётчика на противника с наименьшей Скоростью"
                 }
               ]
             },
@@ -145,10 +145,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Приближает Порог Оглушения цели на 70% от нанесённого урона"
                 },
                 {
-                  "desc": "- Inflict 10 [Combustion] against targets that have been Staggered by this"
+                  "desc": "Накладывает 10 [Combustion:`Горения`] на цели, Оглушенные этим навыком"
                 }
               ]
             }
@@ -161,8 +161,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
-          "desc": "[WhenUse] Base Power +1 for every 4 [Combustion] on target (max 3)\n[WhenUse] Inflict 4 [Combustion]\n[OnSucceedEvade] Gain 1 [MRcAiBa] next turn",
+          "name": "Уклонение",
+          "desc": "[WhenUse] +1 к Базовой Силе за каждые 4 [Combustion:`Горения`] на цели (Макс. 3)\n[WhenUse] Накладывает 4 [Combustion:`Горения`]\n[OnSucceedEvade] Получает 1 [MRcAiBa:`Тлеющий уголёк`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -175,14 +175,14 @@
         {
           "level": 1,
           "name": "Stoke the Flames",
-          "desc": "[CantDuel] [CantChangeTarget]\nDamage dealt by this Attack Skill is fixed to 0",
+          "desc": "[CantDuel] [CantChangeTarget]\nНаносит 0 урона этим навыком",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [MRcAiBb] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [MRcAiBb:`Сверкающих уголька`] на следующий ход"
                 }
               ]
             }
@@ -195,13 +195,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bite",
-          "desc": "[StartBattle] Gain 2 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Base Power +2\n[DefeatDuel] Lose 1 [SelfCharge]",
+          "name": "Укус",
+          "desc": "[StartBattle] Получает 2 [SelfCharge:`Самозаряда`]\n[WhenUse] +2 к Базовой Силе при наличии 5+ [SelfCharge:`Самозаряда`]\n[DefeatDuel] Теряет 1 [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`] и 2 его Счётчика"
                 }
               ]
             }
@@ -215,19 +215,19 @@
         {
           "level": 1,
           "name": "Tail Poke",
-          "desc": "[StartBattle] Gain 2 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\n[DefeatDuel] Lose 1 [SelfCharge]",
+          "desc": "[StartBattle] Получает 2 [SelfCharge:`Самозаряда`]\n[WhenUse] +1 к Силе Монет при наличии 5+ [SelfCharge:`Самозаряда`]\n[DefeatDuel] Теряет 1 [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`] и 2 его Счётчика"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Binding:`Медлительности`] на следующий ход"
                 }
               ]
             }
@@ -241,7 +241,7 @@
         {
           "level": 1,
           "name": "Wrapping Coil",
-          "desc": "[StartBattle] Gain 3 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Base Power +2\n[DefeatDuel] Lose 1 [SelfCharge]",
+          "desc": "[StartBattle] Получает 3 [SelfCharge:`Самозаряда`]\n[WhenUse] +2 к Базовой Силе при наличии 5+ [SelfCharge:`Самозаряда`]\n[DefeatDuel] Теряет 1 [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
@@ -249,10 +249,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vulnerable:`Хрупкости`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Binding:`Медлительности`] на следующий ход"
                 }
               ]
             }
@@ -266,19 +266,19 @@
         {
           "level": 1,
           "name": "Electric Load",
-          "desc": "[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 2 [SelfCharge]",
+          "desc": "[StartBattle] Получает 1 [SelfCharge]\n[WhenUse] +1 к Силе Монет при наличии 5+ [SelfCharge:`Самозаряда`]\nНаносит на 30% больше урона при наличии на цели [Paralysis:`Паралича`]\n[DefeatDuel] Теряет 2 [SelfCharge:`Самозаряда`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 6 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -292,26 +292,26 @@
         {
           "level": 1,
           "name": "Electric Release",
-          "desc": "[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 3 [SelfCharge]",
+          "desc": "[StartBattle] Получает 1 [SelfCharge]\n[WhenUse] +1 к Силе Монет при наличии 5+ [SelfCharge:`Самозаряда`]\nНаносит на 30% больше урона при наличии на цели [Paralysis:`Паралича`]\n[DefeatDuel] Теряет 3 [SelfCharge:`Самозаряда`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -325,19 +325,19 @@
         {
           "level": 1,
           "name": "Electric Discharge",
-          "desc": "[StartBattle] Gain 1 [SelfCharge]\nIf target has [Paralysis], deal +30% damage",
+          "desc": "[StartBattle] Получает 1 [SelfCharge]\nНаносит на 30% больше урона при наличии на цели [Paralysis:`Паралича`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vulnerable:`Хрупкости`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -351,7 +351,7 @@
         {
           "level": 1,
           "name": "High-voltage Electric Discharge",
-          "desc": "At more than 7 [SelfCharge], deal +10% damage for every excess [SelfCharge] past 7 (max 120%)\n[WhenUse] Lose all [SelfCharge] on self; if this unit lost 10+ [SelfCharge], gain Clash Power +5\n[DefeatDuel] This Attack Skill deals 0 damage",
+          "desc": "Наносит на 10% больше урона за каждое Значение [SelfCharge:`Самозаряда`], превышающее 7 (Макс. 120%)\n[WhenUse] Сбрасывает [SelfCharge]\n+5 к Силе в Схватке если было сброшено 10+ [SelfCharge:`Самозаряда`]\n[DefeatDuel] Наносит 0 урона этим навыком",
           "coinlist": [
             {
               "coindescs": [
@@ -359,7 +359,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Vulnerable] on the main target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Vulnerable:`Хрупкости`] на основную цель"
                 }
               ]
             },
@@ -369,13 +369,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ElectricStorage]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [ElectricStorage]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis] on the main target"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`] на основную цель"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [ElectricStorage], deal 40% of final damage dealt as fixed damage"
+                  "desc": "[OnSucceedAttack] Наносит 40% урона чистым уроном при наличии на цели [ElectricStorage:`Конденсатора`]"
                 }
               ]
             }
@@ -389,7 +389,7 @@
         {
           "level": 1,
           "name": "Coil Up",
-          "desc": "[StartBattle] The Head Part gains Shield by its current HP\n[EndBattle] If the Head Part has Shield, gain 10 [SelfCharge] next turn",
+          "desc": "[StartBattle] Голова получает Щит, равный количеству ОЗ Головы.\n[EndBattle] Получает 10 [SelfCharge:`Самозаряда`] на следующий ход при наличии Щита у Головы",
           "coinlist": [
             {}
           ]
@@ -402,19 +402,19 @@
         {
           "level": 1,
           "name": "Wriggling Head",
-          "desc": "Prioritizes targets with the least HP\nIf target has [Paralysis], deal +50% damage\n<color=#ff6000><mark color=#ff000040><b><u>If target has used a Defense Skill, deal -100% damage</color></mark></b></u>\nBase Power +1 for every [SelfCharge]\n[WhenUse] Lose 1 [SelfCharge]\n[EndSkill] If it was an Unopposed Attack, lose 1 [SelfCharge]\n- If the target attacked by this Skill used a Defense Skill, lose 1 more [SelfCharge]",
+          "desc": "Выбирает целью противников с наименьшими ОЗ\nНаносит на 50% больше урона при наличии на цели [Paralysis:`Паралича`]\n<color=#ff6000><mark color=#ff000040><b><u>Наносит на 100% меньше урона при использовании целью защитного навыка</color></mark></b></u>\n+1 к Базовой Силе за каждый [SelfCharge]\n[WhenUse] Теряет 1 [SelfCharge]\n[EndSkill] Теряет 1 [SelfCharge] если это была Односторонняя Атака\nТеряет на 1 [SelfCharge] больше при использовании целью защитного навыка",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -428,26 +428,26 @@
         {
           "level": 1,
           "name": "Wriggling Tail",
-          "desc": "Prioritizes targets with the least HP\nIf target has [Paralysis], deal +50% damage\n<color=#ff6000><mark color=#ff000040><b><u>If target has used a Defense Skill, deal -100% damage</color></mark></b></u>\nBase Power +1 for every [SelfCharge]\n[WhenUse] Lose 1 [SelfCharge]\n[EndSkill] If it was an Unopposed Attack, lose 1 [SelfCharge]\n- If the target attacked by this Skill used a Defense Skill, lose 1 more [SelfCharge]",
+          "desc": "Выбирает целью противников с наименьшими ОЗ\nНаносит на 50% больше урона при наличии на цели [Paralysis:`Паралича`]\n<color=#ff6000><mark color=#ff000040><b><u>Наносит на 100% меньше урона при использовании целью защитного навыка</color></mark></b></u>\n+1 к Базовой Силе за каждый [SelfCharge]\n[WhenUse] Теряет 1 [SelfCharge]\n[EndSkill] Теряет 1 [SelfCharge] если это была Односторонняя Атака\nТеряет на 1 [SelfCharge] больше при использовании целью защитного навыка",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -461,19 +461,19 @@
         {
           "level": 1,
           "name": "Twinslash [二連]",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Получает 2 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             }
@@ -487,26 +487,26 @@
         {
           "level": 1,
           "name": "Tripleslash [三連]",
-          "desc": "[WhenUse] Gain +3 [Breath] Count",
+          "desc": "[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             }
@@ -520,7 +520,7 @@
         {
           "level": 1,
           "name": "Swift Glimmer [快閃]",
-          "desc": "[OnDirectAttack] Gain 5 [Breath]\n[DefeatDuel] -2 Atk Weight",
+          "desc": "[OnDirectAttack] Получает 5 [Breath:`Концентрации`]\n[DefeatDuel] -2 к Массе Атаки",
           "coinlist": [
             {
               "coindescs": [
@@ -531,13 +531,13 @@
                   "desc": "+30% Damage on Critical Hit"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [PhantomIncision]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [PhantomIncision]"
                 }
               ]
             }
@@ -562,13 +562,13 @@
                   "desc": "Reuse this Coin (4 times max)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [PhantomIncision]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [PhantomIncision]"
                 }
               ]
             }
@@ -582,7 +582,7 @@
         {
           "level": 1,
           "name": "Rend Space [空間斬]",
-          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] End this turn",
+          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered until this Skill ends\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -607,7 +607,7 @@
         {
           "level": 1,
           "name": "Phantom Step [殘像步]",
-          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Halve the [PhantomIncision] Stack on target</u></b></mark></color> (rounded down)\n[DefeatDuel] Lose 5 SP",
+          "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Halve the [PhantomIncision] Stack on target</u></b></mark></color> (rounded down)\n[DefeatDuel] Теряет 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -626,7 +626,7 @@
         {
           "level": 1,
           "name": "Silent Regard",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] Target heals 5 SP",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Получает 2 [Reduction:`Уменьшения силы атаки`]</u></b></mark></color>\n[DefeatDuel] Цель восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -686,7 +686,7 @@
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage against each target, respectively"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[CriticalOnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             }
@@ -700,19 +700,19 @@
         {
           "level": 1,
           "name": "Skull Crushing",
-          "desc": "Final Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Final Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[WhenUse] Получает 2 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
                 }
               ]
             }
@@ -726,26 +726,26 @@
         {
           "level": 1,
           "name": "Ah, Please be Quiet",
-          "desc": "Final Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert the final Coin to [SuperCoin]\n[DefeatDuel] Deal -50% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[WhenUse] Gain 2 [Breath]",
+          "desc": "Final Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert the final Coin to [SuperCoin]\n[DefeatDuel] Deal -50% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[WhenUse] Получает 2 [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Sinking] and +1 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Sinking:`Горя`] и 1 его Счётчика"
                 }
               ]
             }
@@ -759,25 +759,25 @@
         {
           "level": 1,
           "name": "I-I Have to Execute the Prescript Soon...!",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>At 2 [PressureOfPrescript], cannot change target</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>Does not trigger Defense Skills</u></b></mark></color>\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 3)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert all Coins to [SuperCoin]s\n[DefeatDuel] Deal -80% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>At 2 [PressureOfPrescript], cannot change target</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>Does not trigger Defense Skills</u></b></mark></color>\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 3)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert all Coins to [SuperCoin]s\n[DefeatDuel] Deal -80% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[WhenUse] Получает 2 [Breath:`Концентрации`] и 2 её Счётчика",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal +20% damage"
+                  "desc": "[CriticalOnSucceedAttack] Наносит на 20% больше урона"
                 }
               ]
             }
@@ -791,7 +791,7 @@
         {
           "level": 1,
           "name": "Please Don't Resist and just be Crushed to Death",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[DefeatDuel] Gain 3 [ResultReduction] and 4 [Paralysis]\n[DefeatDuel] Deal -90% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] Consume all [PressureOfPrescript]",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[DefeatDuel] Получает следующие эффекты:\n- Получает 3 [ResultReduction:`Уменьшения силы навыков`] и 4 [Paralysis:`Паралича`]\n- Наносит на 90% меньше урона\n- Не может Оглушить цель этим навыком\n- Этот навык не активирует [Sinking] на цели\n[EndSkill] Теряет [PressureOfPrescript]",
           "coinlist": [
             {
               "coindescs": [
@@ -869,7 +869,7 @@
         {
           "level": 1,
           "name": "Disembowel, Eviscerate...",
-          "desc": "Final Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert the final Coin to [SuperCoin]\n[DefeatDuel] Deal -50% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[WhenUse] Gain 2 [Breath]\n[EndSkill] Lose 3 SP",
+          "desc": "Final Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert the final Coin to [SuperCoin]\n[DefeatDuel] Deal -50% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[WhenUse] Получает 2 [Breath:`Концентрации`]\n[EndSkill] Теряет 3 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -902,7 +902,7 @@
         {
           "level": 1,
           "name": "Procuration: Engrave",
-          "desc": "Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert all Coins on this Skill to [SuperCoin]s\n[WhenUse]<color=#ff6000><mark=#ff000040><b><u>If the target has [IndexPrescriptTargetToPersonality], deal +50% damage</u></b></mark></color>\n[WhenUse] Gain 3 [Breath] and +3 [Breath] Count\n[DefeatDuel] Deal -80% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] Lose 6 SP",
+          "desc": "Coin Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>If this unit has [PressureOfPrescript], or if target has [IndexPrescriptTargetToPersonality]</u></b></mark></color>, convert all Coins on this Skill to [SuperCoin]s\n[WhenUse]<color=#ff6000><mark=#ff000040><b><u>If the target has [IndexPrescriptTargetToPersonality], deal +50% damage</u></b></mark></color>\n[WhenUse] Получает 3 [Breath:`Концентрации`] и 3 её Счётчика\n[DefeatDuel] Deal -80% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] Теряет 6 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -928,7 +928,7 @@
         {
           "level": 1,
           "name": "Procuration: Annihilate",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the target has [IndexPrescriptTargetToPersonality], deal +100% damage</u></b></mark></color>\n[DefeatDuel] Gain 3 [ResultReduction] and 4 [Paralysis]\n[DefeatDuel] Deal -90% damage; On Hit, does not Stagger the target; On Hit, does not activate [Sinking] on target\n[EndSkill] Lose 15 SP\n[EndSkill] Consume all [PressureOfPrescript]",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the target has [IndexPrescriptTargetToPersonality], deal +100% damage</u></b></mark></color>\n[DefeatDuel] Получает следующие эффекты:\n- Получает 3 [ResultReduction:`Уменьшения силы навыков`] и 4 [Paralysis:`Паралича`]\n- Наносит на 90% меньше урона\n- Не может Оглушить цель этим навыком\n- Этот навык не активирует [Sinking] на цели\n[EndSkill] Теряет 15 ПР\n[EndSkill] Теряет [PressureOfPrescript]",
           "coinlist": [
             {
               "coindescs": [
@@ -980,7 +980,7 @@
         {
           "level": 1,
           "name": "Procuration: Annihilation - Mang of Immanent Yearning [本望]",
-          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>At 0+ SP, generate 1 Mang</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Deal +20% damage, Final Power +2, Coin Power +2</u></b></mark></color>\n[EndSkill] Lose 15 SP\n[EndSkill] If this Skill generated Mang, lose 20 SP\n[EndSkill] Consume all [PressureOfPrescript] and end this turn",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>At 0+ SP, generate 1 Mang</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Deal +20% damage, Final Power +2, Coin Power +2</u></b></mark></color>\n[EndSkill] Теряет 15 ПР\n[EndSkill] If this Skill generated Mang, lose 20 SP\n[EndSkill] Consume all [PressureOfPrescript] and end this turn",
           "coinlist": [
             {
               "coindescs": [

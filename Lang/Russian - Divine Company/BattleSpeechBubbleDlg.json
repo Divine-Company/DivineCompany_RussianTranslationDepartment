@@ -1254,6 +1254,111 @@
       "id": "battle_special_10811_1",
       "desc": "Gathering Dark Clouds Passive",
       "dlg": "Выходите и сражайтесь. Я позабочусь о прикрытии."
+    },
+	  {
+        "id": "battle_s3_10115_1_6",
+        "desc": "",
+        "dlg": "<i><color=#50acff>*бип*</color></i> Ах... поднимаются волны."
+	  },
+    {
+        "id": "battle_special_10115_1",
+        "desc": "",
+        "dlg": "Первый."
+    },
+    {
+        "id": "battle_special_10115_2",
+        "desc": "",
+        "dlg": "Второй."
+    },
+    {
+        "id": "battle_special_10115_3",
+        "desc": "",
+        "dlg": "Третий."
+    },
+    {
+        "id": "battle_special_10115_4",
+        "desc": "",
+        "dlg": "Четвёртый."
+    },
+    {
+        "id": "battle_special_10115_5",
+        "desc": "",
+        "dlg": "Пятый."
+    },
+    {
+        "id": "battle_special_10115_6",
+        "desc": "",
+        "dlg": "Шестой."
+    },
+    {
+        "id": "battle_special_10115_7",
+        "desc": "",
+        "dlg": "Седьмой. Ещё двое."
+    },
+    {
+        "id": "battle_special_10115_8",
+        "desc": "",
+        "dlg": "Восьмой. Один остался."
+    },
+    {
+        "id": "battle_special_10115_9",
+        "desc": "",
+        "dlg": "Девятый. Исполнено."
+    },
+    {
+        "id": "battle_special_10115_10",
+        "desc": "",
+        "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
+    },
+    {
+        "id": "battle_special_10115_11",
+        "desc": "",
+        "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
+    },
+    {
+        "id": "battle_special_10115_12",
+        "desc": "",
+        "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
+    },
+    {
+        "id": "battle_special_10115_13",
+        "desc": "",
+        "dlg": "Возрадуйтесь в последние мгновения своей жизни. Ведь вы были избранны."
+    },
+    {
+        "id": "battle_special_10115_14-1",
+        "desc": "",
+        "dlg": "Ха-ха... Надеюсь, моя дорогая дочь тоже помнит эту рану."
+    },
+    {
+        "id": "battle_special_10115_14-2",
+        "desc": "",
+        "dlg": "Ха-ха... Интересно, помнит ли моя дорогая дочь про эту рану..."
+    },
+    {
+        "id": "battle_special_10115_15-1",
+        "desc": "",
+        "dlg": "Я должен воссоздать страдающее сердце."
+    },
+    {
+        "id": "battle_special_10115_15-2",
+        "desc": "",
+        "dlg": "Воссоздание завершено."
+    },
+    {
+        "id": "battle_special_10115_16-1",
+        "desc": "",
+        "dlg": "<i><color=#50acff>*бип*</color></i> Воля Гермеса."
+    },
+    {
+        "id": "battle_special_10115_16-2",
+        "desc": "",
+        "dlg": "Исполнено со страстью."
+    },
+    {
+        "id": "battle_special_10115_17",
+        "desc": "",
+        "dlg": "Ах... Дон Кихот. Если ты покажешь себя хорошо в этой битве... Я восхвалю тебя."
     }
   ]
 }

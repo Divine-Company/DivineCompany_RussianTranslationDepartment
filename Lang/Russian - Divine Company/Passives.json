@@ -1094,7 +1094,7 @@
     {
       "id": 1050811,
       "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead\n\nCombat Start: Apply [SwordPlayOfTheHomeland] buff to all other Blade Lineage allies"
+      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead\n\n<style=\"highlight\">Combat Start: Apply [SwordPlayOfTheHomeland] buff to all other Blade Lineage allies</style>"
     },
     {
       "id": 1050821,
@@ -2185,31 +2185,31 @@
     {
       "id": 1051202,
       "name": "Чачиху (Крылатый тигр)",
-      "desc": "Всегда активно: \n- Начинает Бой с 12 [BulletPropellantAlly:`Тигриными патронами`].\n\nПри броске Монеты, использующей [BulletPropellantAlly:`Тигриные`] и [BulletPropellantSpecialAlly:`Зверские тигриные`] патроны:\n- При отсутствии указанных патронов не отменяет атаку, но не активирует эффекты, связанные с [Combustion:`Горением`].\n\nПри использовании защитного навыка первый раз в Бою, или при использовании всех [BulletPropellantAlly:`Тигриных патронов`] или при Оглушении:\n- В конце этого хода перезаряжает 8 [BulletPropellantSpecialAlly:`Зверских тигриных патронов`] и получает 1 [IrritationAlly] (один раз за Бой);\n- При активации этого эффекта в состоянии не принудительного Оглушения, восстанавливается от него;\n- Обнуляет [BulletPropellantAlly:`Тигриные патроны`];\n- При 8 и более использованных [BulletPropellantAlly:`Тигриных`] и [BulletPropellantSpecialAlly:`Зверских тигриных`] патронов [IrritationAlly] заменяется на [HugeIrritationAlly].\n\nПри применении атакующего навыка, который использует последний [BulletPropellantSpecialAlly]:\n- Получает 2 Массы атаки перед атакой;\n- Получает 1 [BeastEyesAlly] на следующий ход.",
+      "desc": "Всегда активно: \n- Начинает Бой с 12 [BulletPropellantAlly:`Тигриными патронами`].\n\nПри броске Монеты, использующей [BulletPropellantAlly:`Тигриные`] и [BulletPropellantSpecialAlly:`Зверские тигриные`] патроны:\n- При отсутствии указанных патронов не отменяет атаку, но не активирует эффекты, связанные с [Combustion:`Горением`].\n\nПри использовании защитного навыка первый раз в Бою, или при использовании всех [BulletPropellantAlly:`Тигриных патронов`] или при Оглушении:\n- В конце этого хода перезаряжает 8 [BulletPropellantSpecialAlly:`Зверских тигриных патронов`] и получает 1 [IrritationAlly] (один раз за Бой);\n- При активации этого эффекта в состоянии не принудительного Оглушения, восстанавливается от него;\n- Обнуляет [BulletPropellantAlly:`Тигриные патроны`];\n- При 8+ использованных [BulletPropellantAlly:`Тигриных`] и [BulletPropellantSpecialAlly:`Зверских тигриных`] патронов [IrritationAlly] заменяется на [HugeIrritationAlly].\n\nПри применении атакующего навыка, который использует последний [BulletPropellantSpecialAlly]:\n- Получает +2 к Массе Атаки перед атакой;\n- Получает 1 [BeastEyesAlly] на следующий ход.",
       "summary": ""
     },
     {
       "id": 1051201,
       "name": "Тяньтуйсиндао (Тяньтуй, Звезда клинка)",
-      "desc": "При наличии у Грешника [BulletPropellantAlly:`Тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantAlly:`Тигриных патронов`], трансформирует все Монеты навыка «Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)» в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantAlly:`Тигриные патроны`], получают +1 к Силе.\n\nПри наличии у Грешника [BulletPropellantSpecialAlly:`Зверских тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], трансформирует все Монеты атакующих навыков в [SuperCoin:`Нерушимые Монеты`];\n- В ином случае, трансформирует только те Монеты атакующих навыков, которые используют «Особые Патроны», в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantSpecialAlly:`Зверские тигриные патроны`], получают +2 к Силе.",
+      "desc": "При наличии у Грешника [BulletPropellantAlly:`Тигриных патронов`]:\n- При наличии 1+ [BulletPropellantAlly:`Тигриных патронов`], преобразует все Монеты навыка «Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)» в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantAlly:`Тигриные патроны`], получают +1 к Силе.\n\nПри наличии у Грешника [BulletPropellantSpecialAlly:`Зверских тигриных патронов`]:\n- При наличии 1+ [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], преобразует все Монеты атакующих навыков в [SuperCoin:`Нерушимые Монеты`];\n- В ином случае, преобразует только те Монеты атакующих навыков, которые используют «Особые Патроны», в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantSpecialAlly:`Зверские тигриные патроны`], получают +2 к Силе.",
       "summary": ""
     },
     {
       "id": 1051211,
       "name": "Тяньтуйсиндао (Тяньтуй, Звезда клинка)",
-      "desc": "При наличии у Грешника [BulletPropellantAlly:`Тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantAlly:`Тигриных патронов`], трансформирует все Монеты навыка «Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)» в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantAlly:`Тигриные патроны`], получают +1 к Силе <style=\"upgradeHighlight\">и наносят на 10% больше урона</style>.\n\nПри наличии у Грешника [BulletPropellantSpecialAlly:`Зверских тигриных патронов`]:\n- При наличии 1 и более [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], трансформирует все Монеты атакующих навыков в [SuperCoin:`Нерушимые Монеты`];\n- В ином случае, трансформирует только те Монеты атакующих навыков, которые используют «Особые Патроны», в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantSpecialAlly:`Зверские тигриные патроны`], получают +2 к Силе, <style=\"upgradeHighlight\">наносят на 30% больше урона и накладывают на 2 больше [Combustion:`Горения`] и его Счётчика при ударе</style>.",
+      "desc": "При наличии у Грешника [BulletPropellantAlly:`Тигриных патронов`]:\n- При наличии 1+ [BulletPropellantAlly:`Тигриных патронов`], преобразует все Монеты навыка «Куайдаолуаньма (Стремительный оцепеняющий взмах клинка)» в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantAlly:`Тигриные патроны`], получают +1 к Силе <style=\"upgradeHighlight\">и наносят на 10% больше урона</style>.\n\nПри наличии у Грешника [BulletPropellantSpecialAlly:`Зверских тигриных патронов`]:\n- При наличии 1+ [BulletPropellantSpecialAlly:`Зверских тигриных патронов`], преобразует все Монеты атакующих навыков в [SuperCoin:`Нерушимые Монеты`];\n- В ином случае, преобразует только те Монеты атакующих навыков, которые используют «Особые Патроны», в [SuperCoin:`Нерушимые Монеты`];\n- Монеты, использовавшие [BulletPropellantSpecialAlly:`Зверские тигриные патроны`], получают +2 к Силе, <style=\"upgradeHighlight\">наносят на 30% больше урона и накладывают на 2 больше [Combustion:`Горения`] и его Счётчика при ударе</style>.",
       "summary": ""
     },
     {
       "id": 1051221,
       "name": "Выпад свирепого тигра",
-      "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3 и более, он наносит на (Разница в Скорости × 2)% больше урона (Макс. 10%) (Эффект срабатывает только при наличии статуса Патроны).",
+      "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3+, он наносит на (Разница в Скорости × 2)% больше урона (Макс. 10%) (Эффект срабатывает только при наличии статуса Патроны).",
       "summary": ""
     },
     {
       "id": 1051231,
       "name": "Выпад свирепого тигра",
-      "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3 и более, он наносит на (Разница в Скорости × <style=\"upgradeHighlight\">3</style>)% больше урона (Макс. <style=\"upgradeHighlight\">15%</style>) (Эффект срабатывает только при наличии статуса Патроны).",
+      "desc": "Когда Грешник с наибольшей Скоростью применяет навык, использующий Патроны, и его Скорость больше Скорости цели на 3+, он наносит на (Разница в Скорости × <style=\"upgradeHighlight\">3</style>)% больше урона (Макс. <style=\"upgradeHighlight\">15%</style>) (Эффект срабатывает только при наличии статуса Патроны).",
       "summary": ""
     },
     {
@@ -2624,7 +2624,8 @@
     {
       "id": 1021421,
       "name": "As the Prescript Orders...",
-      "desc": "Effects apply to the Identity with the earliest Deployment order\n- Prioritizes The Index Identities\n\nCombat Start: If this unit's leftmost Skill on the Dashboard and other allies target the same enemy Slot, said Skill deals +5% damage for every ally targeting the same Slot excluding this unit (max 15%, applies when this unit and allies both use Base Attack Skills to main-target enemy Slot)"
+      "desc": "Effects apply to the Identity with the earliest Deployment order\n- Prioritizes The Index Identities\n\nCombat Start: If this unit's leftmost Skill on the Dashboard and other allies target the same enemy Slot, said Skill deals +5% damage for every ally targeting the same Slot excluding this unit (max 15%, applies when this unit and allies both use Base Attack Skills to main-target enemy Slot)",
+      "summary": "Deal more damage based on number of other units that targeted the slot"
     },
     {
       "id": 1031402,
@@ -2653,6 +2654,115 @@
       "id": 1031421,
       "name": "This, too, is the Grace of the Great Magicked Beeper!",
       "desc": "Combat Start: Heal 15 SP for the ally with the lowest SP\n- This effect prioritizes Plus Coin Identities\n- If the affected unit is in The Index faction, they gain 1 [AttackDmgUp] as well\n- This effect does not apply to units under effects that prevent SP recovery such as E.G.O Corrosion[TabExplain], Panic, etc."
+    },
+    {
+      "id": 1081401,
+      "name": "The Middle Never Forgets, Y'know?",
+      "desc": "Turn End: Inflict [RetaliationBook] to the enemy that dealt the most Skill damage to an ally this turn\n\nEvery time this unit is hit by an enemy, gain 2 [ResentmentIshmael] (2 times per turn)\nWhen an other The Middle-faction ally is hit by an enemy, gain 1 [ResentmentIshmael] (once per turn per Identity)\n\nGain 1 [ReinforcedTattooIshmael] every time this unit consumes 5 [ResentmentIshmael] (2 times per turn)\n\nCombat Start: If this unit does not have [HeatingWireIshmael], and at 3+ Envy Reson., gain 2 [HeatingWireIshmael] next turn\nCombat Start: If this unit has [HeatingWireIshmael], gain (Envy Reson. / 3) [HeatingWireIshmael] at Turn End (max 2)"
+    },
+    {
+      "id": 1081411,
+      "name": "The Middle Never Forgets, Y'know?",
+      "desc": "Turn End: Inflict [RetaliationBook] to the enemy that dealt the most Skill damage to an ally this turn\n\nEvery time this unit is hit by an enemy, gain 2 [ResentmentIshmael] (2 times per turn)\nWhen an other The Middle-faction ally is hit by an enemy, gain 1 [ResentmentIshmael] (once per turn per Identity)\n<style=\"highlight\">- If the target that attacked this unit or an ally has [RetaliationBook], gain 1 more [ResentmentIshmael]\n- Combat Start: If the Dashboard has Envy A-Reson., double the amount of [ResentmentIshmael] gained this turn</style>\n\nGain 1 [ReinforcedTattooIshmael] every time this unit consumes 5 [ResentmentIshmael] (2 times per turn)\n\nCombat Start: If this unit does not have [HeatingWireIshmael], and at 3+ Envy Reson., gain 2 [HeatingWireIshmael] next turn\nCombat Start: If this unit has [HeatingWireIshmael], gain (Envy Reson. / 3) [HeatingWireIshmael] at Turn End (max 2)"
+    },
+    {
+      "id": 1081402,
+      "name": "Thermal Weapon",
+      "desc": "This unit is considered as an Identity that inflicts [Combustion] and [Laceration].\nIf this unit has [HeatingWireIshmael], Skills that inflict [Laceration] are considered as Skills that inflict both [Combustion] and [Laceration]."
+    },
+    {
+      "id": 1081421,
+      "name": "Hey, Are Ya Into Fixers, Too?",
+      "desc": "Clash Power +1 for #1 Deployed Identity's Base Attack Skills (once per turn)\nIf the Dashboard has Envy A-Reson., #1 Deployed Identity deals +10% damage with Base Skills",
+      "summary": "Clash Power +1 for Base Attack Skills\nIf the Dashboard has Envy A-Reson., deal +10% damage with Base Skills"
+    },
+    {
+      "id": 1121402,
+      "name": "Dazzling Lamp",
+      "desc": "Turn Start: Gain 1 [LanternGregBigBird]\n\nExternal effects cannot change this unit's Min. and Max. Speeds\n\nWhen chaining Skills, this unit can redirect the Attack Skills' targeting to itself regardless of Speed (Focused Encounters only)\n\nWhen gaining [Agility], gain 1 [ParryingResultUp] instead (once per turn)\n- Once the above effect activates, cannot gain [Agility] for the rest of the turn"
+    },
+    {
+      "id": 1121403,
+      "name": "E.G.O Gear Proficiency Manual",
+      "desc": "Turn Start: Gain 1 [DefenseUp] for every ally wearing E.G.O Gears (max 3)\n\nWhen an ally dies, gain 2 [PenetrateDamageUp] next turn (once per turn)"
+    },
+    {
+      "id": 1121401,
+      "name": "Eyes Bright Like Lamps",
+      "desc": "Combat Start: Gain 1 [LanternGregBigBird]\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal 3 SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally with [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
+    },
+    {
+      "id": 1121411,
+      "name": "Eyes Bright Like Lamps",
+      "desc": "Combat Start: Gain 1 [LanternGregBigBird] <style=\"highlight\">for every 2 Gloom Reson. (max 3)</style>\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal <style=\"highlight\">5</style> SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally with [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
+    },
+    {
+      "id": 1121421,
+      "name": "Were There More Lives to be Saved?",
+      "desc": "Turn End: Apply the following to the ally with the earliest Deployment order among those with negative effects\n- Gain +4 [Aggro] to the leftmost Slot next turn\n- Gain 1 [HitDamageUp] next turn"
+    },
+    {
+      "id": 1101501,
+      "name": "The Orthodox Blade [整劍]",
+      "desc": "Combat Start: Gain ((Pride Reson. / 2) + 1) [Breath] (max 4, rounded down)\n\nCombat End: At 20+ [Breath], gain +1 [Breath] Count"
+    },
+    {
+      "id": 1101502,
+      "name": "Singular Focus of the Mind",
+      "desc": "Turn End: Any excess [Breath] Potency gained past 25 will be converted to [LittleFingerID] (max 15)\n\nCombat Start: If this unit did not equip Attack Skills (including E.G.O Skills) this turn, heal 5 SP and gain 1 [SlashResultUp] next turn"
+    },
+    {
+      "id": 1101521,
+      "name": "Tranquility [靜念]",
+      "desc": "The ally with the fastest Speed heals 5 SP and gains 5 Shield when starting combat with a Defense Skill equipped"
+    },
+    {
+      "id": 1011502,
+      "name": "Prescript Delivered on a Device",
+      "desc": "Turn Start:\n- Gain [IndexPrescriptYi_0] / [IndexPrescriptYi_1] / [IndexPrescriptYi_2] / [IndexPrescriptYi_3] based on [UnlockBuff_Base] stage on self\n- Inflict [IndexPrescriptTargetToEnemy] to a random enemy (in Focused Encounters, a Part)\n- Apply [IndexPrescriptTargetMarkToEnemy] to Base Attack Skills on this unit's Dashboard (1 per Slot, max 2 Skills)\n· At [UnlockBuffAlly_2]+, the effect above prioritizes Skill 3 (prioritizes empowered Skill)\n- All of the effects above and [IndexPrescript_Base_2nd] execution checks do not trigger when this unit is Staggered, Immobilized[TabExplain], in Panic, or in E.G.O Corrosion[TabExplain]",
+      "summary": "Upon executing Prescript, heal SP and gain Grace of the Prescript\nUpon failing Prescript, gain Karmic Consequence"
+    },
+    {
+      "id": 1011503,
+      "name": "The Oracle's Proxy / Unlock",
+      "desc": "Turn End: If [IndexPrescript_Base_2nd] was executed this turn at below [UnlockBuffAlly_2], heal 4 SP and gain 1 [BlessingOfIndexPrescriptAlly] (once per turn)\n- When executing [IndexPrescript_Base_2nd], if the main target has [IndexPrescriptTargetToEnemy], heal 8 SP and gain 3 [BlessingOfIndexPrescriptAlly] instead\n\nTurn End: If this unit is at [UnlockBuffAlly_2] and [IndexPrescriptYi_2] was executed this turn, heal 4 SP (once per turn)\n- When executing [IndexPrescript_Base_2nd], if [StackYisangSpecialSkill] has reached 9 Stacks, heal 8 SP and gain 3 [BlessingOfIndexPrescriptAlly]\n\nTurn End: If [IndexPrescript_Base_2nd] was not executed this turn, gain 5 [KarmaOfIndexAlly]\n- At [UnlockBuffAlly_3], does not gain [KarmaOfIndexAlly]\n- If this unit attempted to execute [IndexPrescript_Base_2nd] at Combat Start, but could not target the enemy during the combat phase, does not gain [KarmaOfIndexAlly] at Turn End (applies at below [UnlockBuffAlly_2])\n\nTurn End: At 3/6/9 [BlessingOfIndexPrescriptAlly], gain [UnlockBuffAlly_1]/[UnlockBuffAlly_2]/[UnlockBuffAlly_3]\nTurn Start: At [UnlockBuffAlly_3], gain [Shin_IndexFingerYisang]",
+      "summary": ""
+    },
+    {
+      "id": 1011504,
+      "name": "The Index Nursefather",
+      "desc": "Upon entering the Encounter for the first time, gain [BurningWoundYisangMask]\n- Turn End: If this unit was Staggered for the first time in this Encounter while under this effect, recover from Stagger (excluding forced Stagger) and convert [BurningWoundYisangMask] to [BurningWoundYisang]\n\nApply [SatisfyingEsteemNeeds] to The Index Proxy - Effloresced E.G.O::Procuration Don Quixote when both units are on the field",
+      "summary": ""
+    },
+    {
+      "id": 1011505,
+      "name": "Oracle Device [Caduceus]",
+      "desc": "A random weapon is assigned to every Coin for Base Attack Skills. Each weapon has a unique effect.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nGain 1 [StackYisangSpecialSkill] when using Skills with [IndexPrescriptTargetMarkToEnemy]",
+      "summary": "A random weapon is assigned\nGain special effect when using 'Furioso-Replica'"
+    },
+    {
+      "id": 1011506,
+      "name": "Oracle Device [Caduceus]",
+      "desc": "A random weapon is assigned to every Coin for Base Attack Skills. Each weapon has a unique effect.\n- [YisangWeapon01Hatchet]\n- [YisangWeapon02Stiletto]\n- [YisangWeapon03Greatsword]\n- [YisangWeapon04Rapier]\n- [YisangWeapon05Sledgehammer]\n- [YisangWeapon06Ultragreatsword]\n- [YisangWeapon07Lance]\n- [YisangWeapon08Chain]\n- [YisangWeapon09Scythe]\n\nGain 1 [StackYisangSpecialSkill] when using Skills with [IndexPrescriptTargetMarkToEnemy]\n\n<style=\"highlight\">Convert [BurningWoundYisangMask] to [BurningWoundYisang] at the end of the turn this unit used 'Furioso-Replica' for the first time in this Encounter\n\nTurn Start: If this unit has [BurningWoundYisang] and has 'Furioso-Replica' on the Dashboard, gain [BlackNightmareYisang]</style>",
+      "summary": "A random weapon is assigned\nGain special effect when using 'Furioso-Replica'"
+    },
+    {
+      "id": 1011501,
+      "name": "Imitation of a Life",
+      "desc": "Deal +2% damage with Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage with Base Skills instead\n\nOn Hit with Base Attack Skill's [SuperCoin]s, gain 1 [StackYisangSpecialSkill]\n- Attack End: Gain [StackYisangSpecialSkill] equal to (# of remaining [SuperCoin]s)",
+      "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
+    },
+    {
+      "id": 1011511,
+      "name": "Imitation of a Life",
+      "desc": "Deal +2% damage with Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage with Base Skills instead\n\nOn Hit with Base Attack Skill's [SuperCoin]s, gain 1 [StackYisangSpecialSkill]\n- Attack End: Gain [StackYisangSpecialSkill] equal to (# of remaining [SuperCoin]s)\n<style=\"highlight\">- 'Furioso-Replica' Attack End: Gain [StackYisangSpecialSkill] next turn equal to (# of this Skill's remaining [SuperCoin]s / 2) (rounded down)</style>\n\n<style=\"highlight\">If [StackYisangSpecialSkill] reached 9 Stacks this turn at Turn End, and if this unit does not have a Skill 3 on the Dashboard at the start of the next turn, convert a Base Skill to Skill 3 (prioritizes the Skill on the leftmost Slot's bottom row)</style>",
+      "summary": "Deal more damage with Skills marked with Mark of the Prescript based on Grace of the Prescript on self\nOn Hit: Heal SP\nGain [StackYisangSpecialSkill] when certain conditions are met"
+    },
+    {
+      "id": 1011521,
+      "name": "Grace of God",
+      "desc": "Deal +5% damage with Slash, Pierce, and Blunt Base Attack Skills that are used for the first time by any ally each turn (once per type across all allies)\n- The Index Identities deal +10% damage instead\n- This effect's application is determined Before Attack",
+      "summary": "Deal more damage with Slash, Pierce, and Blunt Skills used for the first time this turn"
     }
   ]
 }

@@ -9,22 +9,22 @@
     },
     {
       "id": "BlessingOfIndexPrescriptEnemy",
-      "name": "Grace of the Prescript",
+      "name": "Благословение Предписания",
       "desc": "- Offense Level +1 for every 3 Stack\n- Max Stack: 9",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescript_Base_2nd",
-      "name": "Prescript",
-      "desc": "Receive Prescript: [Device] under specific conditions",
+      "name": "Предписание",
+      "desc": "При особых условиях получает Предписание: [Устройство].",
       "summary": "",
       "undefined": "-",
       "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
     },
     {
       "id": "IndexPrescriptStudent_0",
-      "name": "Prescript: [Device] I",
+      "name": "Предписание: [Устройство] I",
       "desc": "Attack and hit a Prescript's Target.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
       "summary": "",
       "undefined": "-",
@@ -32,7 +32,7 @@
     },
     {
       "id": "IndexPrescriptStudent_1",
-      "name": "Prescript: [Device] II",
+      "name": "Предписание: [Устройство] II",
       "desc": "Hit a Prescript's Target with the Skill equipped in the first Slot, or eliminate a random target.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
       "summary": "",
       "undefined": "-",
@@ -40,7 +40,7 @@
     },
     {
       "id": "IndexPrescriptStudent_2",
-      "name": "Prescript: [Device] III",
+      "name": "Предписание: [Устройство] III",
       "desc": "Stagger or eliminate a random target.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
       "summary": "",
       "undefined": "-",
@@ -48,7 +48,7 @@
     },
     {
       "id": "IndexPrescriptStudent_3",
-      "name": "Prescript: [Device] IV",
+      "name": "Предписание: [Устройство] IV",
       "desc": "Eliminate all obstacles before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
       "summary": "",
       "undefined": "-",
@@ -57,28 +57,28 @@
     {
       "id": "UnlockBuff_1",
       "name": "Unlock - I",
-      "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 15 SP",
+      "desc": "+1 к Уровню Атаки.\n+1 к Уровню Защиты.\nВ конце Схваток восстанавливает 15 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_2",
       "name": "Unlock - II",
-      "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 30 SP",
+      "desc": "+2 к Уровню Атаки.\n+2 к Уровню Защиты.\nВ конце Схваток восстанавливает 30 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_3",
       "name": "Unlock - III",
-      "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 45 SP",
+      "desc": "+3 к Уровню Атаки.\n+3 к Уровню Защиты.\nВ конце Схваток восстанавливает 45 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexStudent",
-      "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
+      "name": "Кармическое последствие",
+      "desc": "Макс. значение: 100.\nВ начале хода даёт 1 Уменьшение Уровня Защиты за каждые 10 Значения.\nВ начале хода даёт 1 Хрупкость за каждые 20 Значения.",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
@@ -299,7 +299,7 @@
     },
     {
       "id": "IndexPrescriptDon_0",
-      "name": "Prescript: [Device] I",
+      "name": "Предписание: [Устройство] I",
       "desc": "Use a Skill marked with Mark of the Prescript or hit a target with a marked Skill.\n\n- Turn Start: Gain this effect when this unit has no Unlock\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
       "summary": "",
       "undefined": "-",
@@ -307,7 +307,7 @@
     },
     {
       "id": "IndexPrescriptDon_1",
-      "name": "Prescript: [Device] II",
+      "name": "Предписание: [Устройство] II",
       "desc": "Hit a target with a Skill marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - I\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
       "summary": "",
       "undefined": "-",
@@ -315,7 +315,7 @@
     },
     {
       "id": "IndexPrescriptDon_2",
-      "name": "Prescript: [Device] III",
+      "name": "Предписание: [Устройство] III",
       "desc": "Hit a target with E.G.O Awakening Skill, or, in Effloresced E.G.O::Procuration state, 'Skill 3' marked with Mark of the Prescript.\n\n- Turn Start: Gain this effect if this unit has Unlock - II\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
       "summary": "",
       "undefined": "-",
@@ -323,7 +323,7 @@
     },
     {
       "id": "IndexPrescriptDon_3",
-      "name": "Prescript: [Device] IV",
+      "name": "Предписание: [Устройство] IV",
       "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: Gain this effect if this unit has Unlock - III",
       "summary": "",
       "undefined": "-",
@@ -332,28 +332,28 @@
     {
       "id": "UnlockBuff_Base",
       "name": "Unlock",
-      "desc": "- Gain this effect when over certain Grace of the Prescript Stack\n- Effect stage increases based on Grace of the Prescript Stack\n- Max: Stage 3",
+      "desc": "Макс. Степень: 3.\nПолучает этот эффект при определённом Значении Благословения Предписания.\nСтепень эффекта увеличивается в зависимости от Значения Благословения Предписания.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_1",
       "name": "Unlock - I",
-      "desc": "- Defense Level +1\n- Combat End: Heal 5 SP",
+      "desc": "+1 к Уровню Защиты.\nВ конце Схваток восстанавливает 5 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_2",
       "name": "Unlock - II",
-      "desc": "- Defense Level +2\n- Combat End: Heal 10 SP",
+      "desc": "+2 к Уровню Защиты.\nВ конце Схваток восстанавливает 10 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_3",
       "name": "Unlock - III",
-      "desc": "- Defense Level +3\n- Combat End: Heal 15 SP",
+      "desc": "+3 к Уровню Защиты.\nВ конце Схваток восстанавливает 15 ПР.",
       "summary": "",
       "undefined": "-"
     },

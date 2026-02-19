@@ -3,7 +3,7 @@
     {
       "id": "MuscleContraction",
       "name": "Механизированная деятельность миофибрилл",
-      "desc": "Макс. значение: 2.\nНаносит на 15% больше урона за Значение\nПри значении 2 в начале Схваток трансформирует все свои Монеты атакующих навыков в Нерушимые Монеты.\nПосле атаки сбрасывается.",
+      "desc": "Макс. значение: 2.\nНаносит на 15% больше урона за Значение\nПри значении 2 в начале Схваток преобразует все свои Монеты атакующих навыков в Нерушимые Монеты.\nПосле атаки сбрасывается.",
       "summary": "",
       "undefined": "-"
     },
@@ -58,29 +58,29 @@
     },
     {
       "id": "UnsteadyTheRings",
-      "name": "Impact-rattled Armor",
-      "desc": "- Max Stack: 3\n- When using 'Repressed Flesh', lose 10 Final Power for every Stack\n- At 3 Stacks after using 'Repressed Flesh', lose this effect and become Staggered until next turn",
+      "name": "Колеблющаяся броня",
+      "desc": "Макс. значение: 3.\nПри использовании «Repressed Flesh» теряет 10 Итоговой Силы за каждое Значение.\nПри 3 Значения после использования «Repressed Flesh» статус сбрасывается и персонаж Оглушается на следующий ход.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IronMaiden_LowMorale",
       "name": "Железная дева",
-      "desc": "- Low Morale\n- Turn Start: Gain 1 Offense Level Down and 1 Defense Level Up",
+      "desc": "Низкий рассудок:\nВ начале хода получает 1 Уменьшение Уровня Атаки и 1 Увеличение Уровня Защиты.",
       "summary": "Turn Start: Gain 1 Offense Level Down and 1 Defense Level Up",
       "undefined": "-"
     },
     {
       "id": "IronMaiden_Panic",
-      "name": "Iron Maiden",
-      "desc": "- Panic\n- Turn Start: Gain 2 Offense Level Down and 2 Defense Level Up",
+      "name": "Железная дева",
+      "desc": "Паника:\nВ начале хода получает 2 Уменьшения Уровня Атаки и 2 Увеличения Уровня Защиты.",
       "summary": "Turn Start: Gain 2 Offense Level Down and 2 Defense Level Up",
       "undefined": "-"
     },
     {
       "id": "DicipleLittleFinger",
-      "name": "Moonlit Azure Blade",
-      "desc": "- Max Stack: 50\n- Turn Start: Gain 5 Shield for every Stack\n- +1% Damage on Critical Hit for every Stack\n- Lose 1 Stack when hit",
+      "name": "Лунный лазурный клинок",
+      "desc": "Макс. значение: 50.\nВ начале хода получает 5 Щита за каждое Значение.\nНаносит на 1% больше урона при крит. ударе за каждое Значение.\nУменьшается на 1 при получении удара.",
       "summary": "",
       "undefined": "-"
     },
@@ -93,84 +93,84 @@
     },
     {
       "id": "ObservationMoses",
-      "name": "Keen Observation",
-      "desc": "- Cannot be targeted for Charmed\n- Deal +25% damage to Fairy",
+      "name": "Внимательное наблюдение",
+      "desc": "Не может быть выбран целью Очарования.\nНаносит на 25% больше урона Фее.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "CalmAnalysisMoses",
-      "name": "Untroubled Analysis",
-      "desc": "- Deal +25% damage to Faelantern",
+      "name": "Беспроблемный анализ",
+      "desc": "Наносит на 25% больше урона «Faelantern».",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersCommand",
       "name": "The Thumb Nursefather's Command",
-      "desc": "- Lose 5 Offense Levels",
+      "desc": "-5 к Уровню Атаки.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPet_LowMorale",
       "name": "Textbook",
-      "desc": "- Clash Power +1 when Clashing against targets with The Duel Escalates\n- Clash Lose: Gain 1 Fragile next turn (once per turn)",
+      "desc": "Низкий рассудок:\n+1 к Силе в Схватке при наличии на цели Эскалации дуэли.\nПри поражении в Схватке получает 1 Хрупкость на следующий ход (Один раз в ход).",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPet_Panic",
       "name": "Textbook",
-      "desc": "- Clash Power +2 when Clashing against targets with The Duel Escalates\n- Clash Lose: Gain 1 Fragile next turn (once per turn)",
+      "desc": "Паника:\n+2 к Силе в Схватке при наличии на цели Эскалации дуэли.\nПри поражении в Схватке получает 1 Хрупкость на следующий ход (Один раз в ход).",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RyoshuStartA1C9",
-      "name": "Rekindled Exhilaration",
-      "desc": "- Deal +10% damage to The House of Spiders enemies\n- When Staggered, immediately recover from Stagger at the start of the next turn and gain 1 Attack Power Up (once per Encounter)",
+      "name": "Возрожденное волнение",
+      "desc": "Наносит на 10% больше урона противникам, имеющим «The House of Spiders».\nПри Оглушении в начале следующего хода восстанавливается от Оглушения и получает 1 Увеличение силы атаки (Один раз за Бой).",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BreathLoss_LowMorale",
-      "name": "Ragged Breath",
-      "desc": "Turn Start: Lose 3 Poise Potency",
+      "name": "Рваное дыхание",
+      "desc": "Низкий рассудок:\nВ начале хода теряет 3 Концентрации.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BreathLoss_Panic",
-      "name": "Ragged Breath",
-      "desc": "Turn Start: Lose 5 Poise Potency",
+      "name": "Рваное дыхание",
+      "desc": "Паника:\nВ начале хода теряет 5 Концентрации.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescriptTargetMarkToEnemy",
-      "name": "Mark of the Prescript",
-      "desc": "- Apply Mark of the Prescript to a Base Attack Skill on this unit's Dashboard",
+      "name": "Метка Предписания",
+      "desc": "Накладывает Метку Предписания на атакующий навык этого персонажа на Панели управления.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescriptTargetToEnemy",
-      "name": "The Prescript's Target",
-      "desc": "- Take +10% damage from The Index units\n- This effect is applied to a single target every turn regardless of the number of The Index units deployed",
+      "name": "Цель Предписания",
+      "desc": "Входящий урон от атак персонажей Указательного увеличивается на 10% в этом ходу.\nЭтот эффект накладывается только на одну цель, независимо от количества персонажей Указательного на поле боя.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BlessingOfIndexPrescriptAlly",
-      "name": "Grace of the Prescript",
-      "desc": "- Offense Level +1 for every 3 Stacks\n- Max Stack: 9",
+      "name": "Благословение Предписания",
+      "desc": "Макс. значение: 9.\n+1 к Уровню Атаки за каждые 3 Значения.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IndexPrescript_Base",
-      "name": "Prescript",
+      "name": "Предписание",
       "desc": "- Receive 'Prescript: [Paper Slip]' under specific conditions",
       "summary": "",
       "undefined": "-",
@@ -210,8 +210,8 @@
     },
     {
       "id": "KarmaOfIndexAlly",
-      "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100\n",
+      "name": "Кармическое последствие",
+      "desc": "Макс. значение: 100.\nВ начале хода даёт 1 Уменьшение Уровня Защиты за каждые 10 Значения.\nВ начале хода даёт 1 Хрупкость за каждые 20 Значения.",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."

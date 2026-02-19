@@ -2,34 +2,38 @@
   "dataList": [
     {
       "id": "TipsinessRail",
-      "name": "Tipsy",
-      "desc": "Clash Power -{0} (Max 5)",
+      "name": "Опьянение",
+      "desc": "Макс. значение: 5.\n-{0} к Силе в Схватке.",
       "summary": "Lose Clash Power by the effect's Count"
     },
     {
       "id": "PassedPortal_Red",
-      "name": "Hemorrhaging Dimension",
-      "desc": "Pass through the Dimensional Rift to deal +{0}0% damage"
+      "name": "Кровоточащее измерение",
+      "desc": "Наносит на {0}0% больше урона.",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "PassedPortal_Green",
-      "name": "Poisonous Dimension",
-      "desc": "Pass through the Dimensional Rift to gain +20% max HP"
+      "name": "Ядовитое измерение",
+      "desc": "Получает 20% макс. ОЗ.",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "PassedPortal_Yellow",
-      "name": "Tremoring Dimension",
-      "desc": "Pass through the Dimensional Rift to gain {0} Speed"
+      "name": "Дрожащее измерение",
+      "desc": "+{0} к Скорости.",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "PassedPortal_Blue",
-      "name": "Electrifying Dimension",
-      "desc": "Pass through the Dimensional Rift to gain Coin Power +{0}"
+      "name": "Электризующее измерение",
+      "desc": "+{0} к Силе Монет.",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "FairyCharm",
-      "name": "Charmed",
-      "desc": "- All damage dealt to Fairy reduced to 0.\n- Expires when Fairy dies.",
+      "name": "Очарование",
+      "desc": "Наносит 0 урона Фее.\nСбрасывается при смерти Феи.",
       "summary": "Damage fixed to 0"
     },
     {
@@ -100,11 +104,13 @@
     {
       "id": "RailLine2Buff",
       "name": "Mirror Refraction",
+      "desc": "",
       "summary": ""
     },
     {
       "id": "FullBloomRose",
       "name": "Bloomed Rose",
+      "desc": "",
       "summary": ""
     },
     {

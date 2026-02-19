@@ -11,20 +11,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`] и 2 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`] и 2 его Счётчика"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
@@ -41,31 +41,31 @@
         {
           "level": 1,
           "name": "Colpo di Punta",
-          "desc": "At 6+ [Breath], Coin Power +1\n[WhenUse] Base Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "At 6+ [Breath], Coin Power +1\n[WhenUse] Base Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Получает 2 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`] и 2 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`] и 2 его Счётчика"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`] и 2 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`] и 2 его Счётчика"
                 }
               ]
             }
@@ -84,13 +84,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Combustion:`Горения`] и 3 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`] и 3 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 }
               ]
             },
@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -114,35 +114,35 @@
         {
           "level": 1,
           "name": "Sezionatura di Cervo",
-          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Base Power +4\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 5 [Breath]\n[EndSkill] If this Skill generated Mang, lose 10 SP",
+          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Base Power +4\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]\n[WinDuel] Получает 5 [Breath:`Концентрации`]\n[EndSkill] If this Skill generated Mang, lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`] и 3 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Вызывает 2 [VibrationExplosion:`Приступа Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 2"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -156,31 +156,31 @@
         {
           "level": 1,
           "name": "I'll Gladly Blast a Hole Through You",
-          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Gain +3 [Breath] Count",
+          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`] и 2 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`] и 2 его Счётчика"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`] и 2 его Счётчика"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`] и 2 его Счётчика"
                 }
               ]
             },
@@ -190,10 +190,10 @@
                   "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -207,7 +207,7 @@
         {
           "level": 1,
           "name": "Sezionatura di Elefante",
-          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Gain +3 [Breath] Count\n[DefeatDuel] Deal -50% final damage and does not hit Critically.\nDamage dealt by this Skill cannot Stagger the target",
+          "desc": "At 6+ [Breath], Coin Power +1\nCoin Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]\n[DefeatDuel] Deal -50% final damage and does not hit Critically.\nDamage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -215,13 +215,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -231,13 +231,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 4 Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 4 Счётчика [Vibration:`Тремора`] "
                 }
               ]
             },
@@ -247,10 +247,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend [AccelBullet]"
+                  "desc": "Использует [AccelBullet]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 }
               ]
             },
@@ -263,10 +263,10 @@
                   "desc": "[OnSucceedAttack] Inflict Wrath damage equal to [Combustion] on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Вызывает 2 [VibrationExplosion:`Приступа Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 2"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает 2 [VibrationExplosion:`Приступа Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 2"
                 }
               ]
             }
@@ -288,10 +288,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -301,10 +301,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -314,10 +314,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 6 Счётчика [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +6 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 6 Счётчика [Vibration:`Тремора`] "
                 }
               ]
             },
@@ -327,7 +327,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Вызывает [Switch_Vibration] в [VibrationIgnition]"
                 }
               ]
             },
@@ -337,13 +337,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "Spend all [AccelBullet]"
+                  "desc": "Использует все [AccelBullet]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Вызывает 3 [VibrationExplosion:`Приступа Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 3"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает 2 [VibrationExplosion:`Приступа Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 2"
                 }
               ]
             }
@@ -357,7 +357,7 @@
         {
           "level": 1,
           "name": "Precognition",
-          "desc": "Upon successfully evading all Coins on a Skill, use \"Sezionatura di Coniglio\" as an Unopposed Attack against the attacker\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Base Power +1 for every 2 [FutureEyeOn] Stack</u></b></mark></color>\n[WhenUse] [FullReload] (once per turn)\n[OnSucceedEvade] Gain 3 [Breath] (2 times per turn)\n[OnSucceedEvade] Heal 2 SP (5 times per turn)\n[OnDefeatEvade] Lose 5 SP",
+          "desc": "Upon successfully evading all Coins on a Skill, use \"Sezionatura di Coniglio\" as an Unopposed Attack against the attacker\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Base Power +1 for every 2 [FutureEyeOn] Stack</u></b></mark></color>\n[WhenUse] [FullReload] (once per turn)\n[OnSucceedEvade] Получает 3 [Breath:`Концентрации`] (2 раза за ход)\n[OnSucceedEvade] Восстанавливает 2 ПР (5 раз за ход)\n[OnDefeatEvade] Теряет 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -376,7 +376,7 @@
         {
           "level": 1,
           "name": "I Will Protect.",
-          "desc": "[CanDuelGuard]\n[SupportProtect] Exclusive Skill\nTake -20% damage for every [SupportProtect] Stack\n[WhenUse] Heal allies by 8 SP\n[DefeatDuel] Gain 1 [Vulnerable] next turn",
+          "desc": "[CanDuelGuard]\n[SupportProtect] Exclusive Skill\nTake -20% damage for every [SupportProtect] Stack\n[WhenUse] Heal allies by 8 SP\n[DefeatDuel] Получает 1 [Vulnerable] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -403,10 +403,10 @@
                   "desc": "[OnSucceedAttack] Deal SP damage instead of HP damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 15 SP on self"
+                  "desc": "[OnSucceedAttack] Восстанавливает 15 ПР"
                 },
                 {
-                  "desc": "[OnSucceedAttack]\n<color=#ff6000><mark=#ff000040><b><u>Stagger target and turn target into [LivingSpecimenTheRings] next turn</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Stagger target and turn target into [LivingSpecimenTheRings] next turn</u></b></mark></color>"
                 }
               ]
             }
@@ -428,10 +428,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -441,10 +441,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход"
                 }
               ]
             }
@@ -466,10 +466,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -479,10 +479,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [ResultReduction] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [ResultEnhancement] на следующий ход"
                 }
               ]
             }
@@ -496,7 +496,7 @@
         {
           "level": 1,
           "name": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
-          "desc": "During the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Gain 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [MineTheRings] expires",
+          "desc": "During the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Получает 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [MineTheRings] сбрасывается",
           "coinlist": [
             {
               "coindescs": [
@@ -504,10 +504,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 5 SP (once per Skill)"
+                  "desc": "[OnSucceedAttack] Восстанавливает 5 ПР (Один раз за навык)"
                 }
               ]
             },
@@ -517,10 +517,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход (Один раз за навык)"
                 }
               ]
             },
@@ -530,10 +530,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [AttackDmgDown] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Получает 1 [AttackDmgUp] на следующий ход (Один раз за навык)"
                 }
               ]
             },
@@ -543,7 +543,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -557,7 +557,7 @@
         {
           "level": 1,
           "name": "Oh, How We Love the Flesh and the Blood",
-          "desc": "Prioritizes The Ring Apprentice - Albina\n[DefeatDuel] Gain <color=#ff6000><mark=#ff000040><b><u>4 [AttackDmgDown]</u></b></mark></color>",
+          "desc": "Prioritizes The Ring Apprentice - Albina\n[DefeatDuel] Получает <color=#ff6000><mark=#ff000040><b><u>4 [AttackDmgDown:`Уменьшения урона`]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
@@ -568,7 +568,7 @@
                   "desc": "This Coin does not deal HP damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "- If target is an ally, apply 6 [AttackUp] instead of the effect above"
@@ -598,25 +598,25 @@
         {
           "level": 1,
           "name": "Please. Vandalism is Prohibited.",
-          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Gain 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
+          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Получает 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [ResultReduction] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [ResultEnhancement] на следующий ход"
                 }
               ]
             }
@@ -630,7 +630,7 @@
         {
           "level": 1,
           "name": "Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats",
-          "desc": "[CantDuel]\nPrioritizes enemy with the highest level\nThis Skill does not trigger Defense Skills\n[WhenUse] Coin Power +1 for every 8 [Laceration] on target (max 2)\n[EndSkill] End this turn",
+          "desc": "[CantDuel]\nPrioritizes enemy with the highest level\nThis Skill does not trigger Defense Skills\n[WhenUse] Coin Power +1 for every 8 [Laceration] on target (max 2)\n[EndSkill] Заканчивает этот ход",
           "coinlist": [
             {
               "coindescs": [
@@ -657,17 +657,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход"
                 }
               ]
             }
@@ -686,17 +686,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Binding] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [Agility:`Спешку`] на следующий ход"
                 }
               ]
             }
@@ -715,24 +715,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 6 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [ResultReduction] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [ResultEnhancement] на следующий ход"
                 }
               ]
             }
@@ -754,7 +754,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 10 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -764,7 +764,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -774,13 +774,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 SP on self"
+                  "desc": "[OnSucceedAttack] Восстанавливает 10 ПР"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [HumanFleshTheRings]"
+                  "desc": "[OnSucceedAttack] Получает 1 [HumanFleshTheRings]"
                 }
               ]
             }
@@ -794,7 +794,7 @@
         {
           "level": 1,
           "name": "Liberation of the Repressed Flesh",
-          "desc": "During the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Gain 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [BoneBladeTheRings] expires",
+          "desc": "During the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Получает 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] [BoneBladeTheRings] сбрасывается",
           "coinlist": [
             {
               "coindescs": [
@@ -802,10 +802,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 5 SP (once per Skill)"
+                  "desc": "[OnSucceedAttack] Восстанавливает 5 ПР (Один раз за навык)"
                 }
               ]
             },
@@ -815,10 +815,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход (Один раз за навык)"
                 }
               ]
             },
@@ -828,10 +828,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [AttackDmgDown] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn (once per Skill)"
+                  "desc": "[OnSucceedAttack] Получает 1 [AttackDmgUp] на следующий ход (Один раз за навык)"
                 }
               ]
             },
@@ -841,7 +841,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -855,7 +855,7 @@
         {
           "level": 1,
           "name": "The Exhibition Begins",
-          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Gain 1 [SupportProtect]</u></b></mark></color>\n[StartBattle] Gain 1 [Agility] next turn",
+          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Gain 1 [SupportProtect]</u></b></mark></color>\n[StartBattle] Получает 1 [Agility:`Спешку`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -868,25 +868,25 @@
         {
           "level": 1,
           "name": "You there. Vandalism is Prohibited.",
-          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Gain 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
+          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nCannot be Staggered before using this Skill\n[WhenUse] Получает 1 [Protection]\n[WhenUse] If target has 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [ResultReduction] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [ResultEnhancement] на следующий ход"
                 }
               ]
             }
@@ -905,7 +905,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -915,7 +915,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
@@ -966,7 +966,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -976,7 +976,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -986,7 +986,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -996,7 +996,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
@@ -1021,7 +1021,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Binding:`Медлительности`]"
                 }
               ]
             },
@@ -1041,7 +1041,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1060,7 +1060,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1128,7 +1128,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1138,7 +1138,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
@@ -1155,7 +1155,7 @@
         {
           "level": 1,
           "name": "Punting",
-          "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [VioletDamageUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Получает 1 [VioletDamageUp] на следующий ход (2 раза за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1189,7 +1189,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1199,7 +1199,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1209,7 +1209,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1219,7 +1219,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
@@ -1244,10 +1244,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Binding:`Медлительности`]"
                 }
               ]
             },
@@ -1257,7 +1257,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Deal 15 Blunt bonus damage"
@@ -1270,10 +1270,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1292,7 +1292,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1351,7 +1351,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Vulnerable:`Хрупкости`]"
                 }
               ]
             }
@@ -1444,14 +1444,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -1473,7 +1473,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1483,7 +1483,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1493,7 +1493,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1528,7 +1528,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1538,7 +1538,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1548,7 +1548,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1571,7 +1571,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -1590,14 +1590,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 10"
@@ -1614,12 +1614,12 @@
         {
           "level": 1,
           "name": "Stomping!",
-          "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Получает 1 [SkillPowerUp] на следующий ход (2 раза за ход)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1629,7 +1629,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
@@ -1646,7 +1646,7 @@
         {
           "level": 1,
           "name": "Punting!",
-          "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Gain 1 [VioletDamageUp] next turn (2 times per turn)",
+          "desc": "If target has 4+ [Laceration], Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpider], inflict 1 [Laceration] On Coin Hit\n[DefeatDuel] Получает 1 [VioletDamageUp] на следующий ход (2 раза за ход)",
           "coinlist": [
             {
               "coindescs": [
@@ -1680,7 +1680,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1690,7 +1690,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1700,7 +1700,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 5 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1710,7 +1710,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
@@ -1735,10 +1735,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Binding:`Медлительности`]"
                 }
               ]
             },
@@ -1748,7 +1748,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Combustion:`Горения`]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Deal 15 Slash bonus damage"
@@ -1761,10 +1761,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -1783,7 +1783,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1842,7 +1842,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Vulnerable:`Хрупкости`]"
                 }
               ]
             }
@@ -1856,7 +1856,7 @@
         {
           "level": 1,
           "name": "I'll Gut Ya Like a Fish",
-          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Gain 1 [SkillPowerUp] next turn (2 times per turn)\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "[BeforeUse] Теряет 10 ПР\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Получает 1 [SkillPowerUp] на следующий ход (2 раза за ход)\n[BeforeAttack] Получает (# of Coins in this Skill x 2) [Combustion:`Горения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1877,7 +1877,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion] and +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Combustion:`Горения`] и 2 его Счётчика"
                 }
               ]
             }
@@ -1891,7 +1891,7 @@
         {
           "level": 1,
           "name": "Gut Stab [Lævateinn]",
-          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At less than 50% HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "[BeforeUse] Теряет 10 ПР\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At less than 50% HP, deal +40% damage\n[BeforeAttack] Получает (# of Coins in this Skill x 2) [Combustion:`Горения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1919,7 +1919,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Combustion:`Горения`]"
                 }
               ]
             },
@@ -1929,7 +1929,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 4 Счётчика [Combustion:`Горения`]"
                 }
               ]
             },
@@ -1939,7 +1939,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Combustion:`Горения`]"
                 }
               ]
             }
@@ -1953,7 +1953,7 @@
         {
           "level": 1,
           "name": "... Complete and Total Extermination [Lævateinn]",
-          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At less than 50% HP, deal +60% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "[BeforeUse] Теряет 10 ПР\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At less than 50% HP, deal +60% damage\n[BeforeAttack] Получает (# of Coins in this Skill x 2) [Combustion:`Горения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -1961,7 +1961,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Combustion:`Горения`]"
                 }
               ]
             },
@@ -1971,7 +1971,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Combustion:`Горения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Slash bonus damage"
@@ -1984,7 +1984,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Combustion:`Горения`]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Slash bonus damage"
@@ -1997,7 +1997,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Combustion:`Горения`]"
                 }
               ]
             },
@@ -2027,19 +2027,19 @@
         {
           "level": 1,
           "name": "Rule Violation!!",
-          "desc": "When Hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[BeforeUse] Lose 10 SP\n[BeforeAttack] At 50% or less HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "When Hit, Reuse this Skill once for every [ReinforcedTattooSpider] on self (1 time max)\n[BeforeUse] Теряет 10 ПР\n[BeforeAttack] At 50% or less HP, deal +40% damage\n[BeforeAttack] Получает (# of Coins in this Skill x 2) [Combustion:`Горения`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 10 [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Combustion:`Горения`]"
                 }
               ]
             }
@@ -2107,7 +2107,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain 5 [Breath] and +3 [Breath] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Получает 5 [Breath:`Концентрации`] и 3 её Счётчика"
                 }
               ]
             }
@@ -2149,7 +2149,7 @@
         {
           "level": 1,
           "name": "The Emperor's Flogging",
-          "desc": "Deal +20% damage for every type of negative effect on target (max 100%)\nDeal +10% damage for every 2 [OffenseBug] on target\n[WhenUse] Gain +10 [Charge] Count\n[StartDuel] Lose 5 [Charge] Count\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "Deal +20% damage for every type of negative effect on target (max 100%)\nDeal +10% damage for every 2 [OffenseBug] on target\n[WhenUse] Получает 10 Счётчика [Charge:`Заряда`]\n[StartDuel] Lose 5 [Charge] Count\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
           "coinlist": [
             {
               "coindescs": [
@@ -2219,31 +2219,31 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Vibration:`Тремора`] "
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into a random [Vibration] type"
+                  "desc": "[OnSucceedAttack] Вызывает [Switch_Vibration] в случайный 'Особый Тремор'"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`], понижая Счётчик [Vibration:`Тремора`] цели на 1"
                 }
               ]
             }
@@ -2268,7 +2268,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Potency and +3 Count of a random status, chosen from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [AttackDown]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 5 [AttackDown:`Уменьшения Уровня Атаки`]"
                 }
               ]
             },
@@ -2281,7 +2281,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 Potency and +3 Count of a random status, chosen from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [DefenseDown]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 5 [DefenseDown:`Уменьшения Уровня Защиты`]"
                 }
               ]
             }
@@ -2330,7 +2330,7 @@
         {
           "level": 1,
           "name": "'Son, don't forget to go for the heart.'",
-          "desc": "[CantChangeTarget]\n[WhenUse] Gain 10 [Breath] and +4 [Breath] Count\n[WinDuel] Gain 10 [Breath]\n[DefeatDuel] Deal -80% damage and does not hit Critically\nDamage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Gain 5 [Vulnerable] next turn",
+          "desc": "[CantChangeTarget]\n[WhenUse] Получает 10 [Breath:`Концентрации`] и 4 её Счётчика\n[WinDuel] Получает 10 [Breath:`Концентрации`]\n[DefeatDuel] Deal -80% damage and does not hit Critically\nDamage dealt by this Skill cannot Stagger the target\n[DefeatDuel] Получает 5 [Vulnerable:`Хрупкости`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
@@ -2394,7 +2394,7 @@
         {
           "level": 1,
           "name": "The Emperor's Shield",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>For this turn, take -50% damage from the targeted unit's Attack Skills</u></b></mark></color>\n[WinDuel] Inflict 3 [Binding] next turn\n[DefeatDuel] Target heals 15 SP",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>For this turn, take -50% damage from the targeted unit's Attack Skills</u></b></mark></color>\n[WinDuel] Накладывает 3 [Binding:`Медлительности`] на следующий ход\n[DefeatDuel] Цель восстанавливает 15 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -2421,10 +2421,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -2434,10 +2434,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vulnerable] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [Protection] на следующий ход"
                 }
               ]
             }
@@ -2459,10 +2459,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -2472,10 +2472,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [ResultReduction] на следующий ход"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                  "desc": "[OnSucceedAttack] Получает 1 [ResultEnhancement] на следующий ход"
                 }
               ]
             }
@@ -2489,7 +2489,7 @@
         {
           "level": 1,
           "name": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
-          "desc": "[CantChangeTarget]\nDuring the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Gain 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] [MineTheRings] expires\n[EndSkill] [MineTheRings] expires",
+          "desc": "[CantChangeTarget]\nDuring the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Получает 4 [Protection:`Стойкости`]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] [MineTheRings] expires\n[EndSkill] [MineTheRings] expires",
           "coinlist": [
             {
               "coindescs": [
@@ -2536,7 +2536,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -2572,7 +2572,7 @@
         {
           "level": 1,
           "name": "Liberation of the Repressed Flesh",
-          "desc": "[CantChangeTarget]\nDuring the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Gain 4 [Protection]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] [BoneBladeTheRings] expires\n[EndSkill] [BoneBladeTheRings] expires",
+          "desc": "[CantChangeTarget]\nDuring the turn this unit has this Skill equipped, gain 1 [PlusCoinValueDown] and 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>when hit by Attack Skills</u></b></mark></color> (once per Skill; max 3 times per turn)\nCannot be Staggered before using this Skill\nOn Kill with this Skill: heal 15 SP for every target killed\n[StartBattle] Получает 4 [Protection:`Стойкости`]\n[WhenUse] Deal +3% damage for every 6 ([Laceration] on main target + [Laceration] on sub-target) (max 30%)\n[DefeatDuel] Deal -60% damage and damage dealt by this Skill cannot Stagger the target\n[DefeatDuel] [BoneBladeTheRings] expires\n[EndSkill] [BoneBladeTheRings] expires",
           "coinlist": [
             {
               "coindescs": [
@@ -2580,10 +2580,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 5 SP (once per Skill)"
+                  "desc": "[OnSucceedAttack] Восстанавливает 5 ПР (once per Skill)"
                 }
               ]
             },
@@ -4041,12 +4041,12 @@
         {
           "level": 1,
           "name": "Dismay [落望]",
-          "desc": "[DefeatDuel] Lose 5 SP\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 3 [Reduction]</u></b></mark></color>",
+          "desc": "[DefeatDuel] Теряет 5 ПР\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Получает 3 [Reduction:`Уменьшения силы атаки`]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Vulnerable]"
                 }
               ]
             }
@@ -4060,12 +4060,12 @@
         {
           "level": 1,
           "name": "I resent you so. But...",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 2 [Vulnerable]</u></b></mark></color>",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Получает 2 [Vulnerable:`Хрупкости`]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Vulnerable]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Vulnerable]"
                 }
               ]
             }

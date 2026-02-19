@@ -2653,6 +2653,299 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1011501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "\"Enwrap 330 times in Long Swaths of Frozen Blood\"",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Дробящее оружие\nНаносит на 10% больше урона Монетами, использующими Дробящее оружие\nНаносит на 15% больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n[WhenUse] Преобразует (Степень [UnlockBuff_Base] - 1) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 1 Счётчик [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "\"Enwrap 330 times in Long Swaths of Frozen Blood\"",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Дробящее оружие\nНаносит на 10% больше урона Монетами, использующими Дробящее оружие\nНаносит на 15% больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n<style=\"highlight\">+1 к Силе Монет при 6+ ([Breath:`Концентрации`] на себе + [Sinking] на цели)</style>\n[WhenUse] Преобразует (Степень [UnlockBuff_Base] - 1) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает <style=\"highlight\">2</style> Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "\"Enwrap 330 times in Long Swaths of Frozen Blood\"",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Дробящее оружие\nНаносит на <style=\"highlight\">15%</style> больше урона Монетами, использующими Дробящее оружие\n<style=\"highlight\">+1 к Силе в Схватке</style> и наносит на <style=\"highlight\">20%</style> больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n<style=\"highlight\">+1 к Силе Монет за каждые 6 ([Breath:`Концентрации`] на себе + [Sinking] на цели) (Макс. 2)</style>\n[WhenUse] Преобразует (Степень [UnlockBuff_Base] - 1) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 2 Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает <style=\"highlight\">2</style> [Sinking:`Горя`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "\"Revel with Soundless Applause, Impale in Voiceless Sorrow\"",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Колющее оружие\nНаносит на 10% больше урона Монетами, использующими Колющее оружие\n+1 к Силе в Схватке, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n[WhenUse] Преобразует (Степень [UnlockBuff_Base]) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 3 [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Счётчик [Breath:`Концентрации`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 Счётчик [Sinking:`Горя`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "\"Revel with Soundless Applause, Impale in Voiceless Sorrow\"",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Колющее оружие\nНаносит на 10% больше урона Монетами, использующими Колющее оружие\n+1 к Силе в Схватке, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n<style=\"highlight\">+1 к Силе Монет при 6+ ([Breath:`Концентрации`] на себе + [Sinking] на цели)</style>\n[WhenUse] Преобразует (Степень [UnlockBuff_Base]) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 3 [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 1 Счётчик [Breath:`Концентрации`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 Счётчик [Sinking:`Горя`]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "\"Revel with Soundless Applause, Impale in Voiceless Sorrow\"",
+          "desc": "(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Колющее оружие\nНаносит на <style=\"highlight\">15%</style> больше урона Монетами, использующими Колющее оружие\n+1 к <style=\"highlight\">Итоговой Силе</style>, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n<style=\"highlight\">+1 к Силе Монет за каждые 6 ([Breath:`Концентрации`] на себе + [Sinking] на цели) (Макс. 2)</style>\n[WhenUse] Преобразует (Степень [UnlockBuff_Base]) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 3 [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> [Sinking:`Горя`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">2</style> Счётчика [Breath:`Концентрации`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 Счётчик [Sinking:`Горя`]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "\"Raise and Laugh the Blade, Cry the Waterfall Like the Scent of Fallen Leaves\"",
+          "desc": "В начале хода при 9 [StackYisangSpecialSkill] преобразует этот навык в «Furioso-Replica» (один раз в ход):\n- Приоритизирует самый левый нижний Слот с этим навыком на Панели управления\n- [BeforeUse] При менее 9 [StackYisangSpecialSkill], использует 3 Навык\n(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Рубящее оружие\nНаносит на 12.5% больше урона Монетами, использующими Рубящее оружие\nНаносит на 10% больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n+1 к Силе Монет при 6+ ([Breath:`Концентрации`] на себе + [Sinking] на цели)\n[WhenUse] Преобразует (Степень [UnlockBuff_Base]) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на 10% больше урона за каждую степень [UnlockBuff_Base] (Макс. 30%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 1 Счётчик [Breath:`Концентрации`]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 Счётчика [Sinking:`Горя`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "\"Raise and Laugh the Blade, Cry the Waterfall Like the Scent of Fallen Leaves\"",
+          "desc": "В начале хода при 9 [StackYisangSpecialSkill] преобразует этот навык в «Furioso-Replica» (один раз в ход):\n- Приоритизирует самый левый нижний Слот с этим навыком на Панели управления\n- [BeforeUse] При менее 9 [StackYisangSpecialSkill], использует 3 Навык\n(75 - ([KarmaOfIndexAlly] / 2))% шанс получить Рубящее оружие\nНаносит на <style=\"highlight\">25%</style> больше урона Монетами, использующими Рубящее оружие\nНаносит на <style=\"highlight\">20%</style> больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\n<style=\"highlight\">+1 к Силе Монет за каждые 6 ([Breath:`Концентрации`] на себе + [Sinking] на цели) (Макс. 2)</style>\n[WhenUse] Преобразует (Степень [UnlockBuff_Base] <style=\"highlight\">+ 1</style>) Монет в [SuperCoin:`Нерушимые Монеты`], начиная с последней\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]:\n<style=\"highlight\">- Получает дополнительную [Breath:`Концентрацию`], равную степени [UnlockBuff_Base]</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Получает <style=\"highlight\">3</style> [Breath:`Концентрации`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Накладывает <style=\"highlight\">3</style> [Sinking:`Горя`]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Наносит на <style=\"highlight\">20%</style> больше урона за каждую степень [UnlockBuff_Base] (Макс. <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Получает 1 Счётчик [Breath:`Концентрации`]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает <style=\"highlight\">3</style> Счётчика [Sinking:`Горя`]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "By Unpredictable Whim",
+          "desc": "[StartBattle] Получает 2 Счётчика [Breath:`Концентрации`] (один раз в ход)\n[OnSucceedEvade] Получает 1 [Breath:`Концентрацию`] (2 раза в ход)\n[EndBattle] Активирует следующие эффекты, если степень [UnlockBuff_Base] менее 2 (один раз за бой):\n- Получает [UnlockBuffAlly_2]\n- Если Значение [BlessingOfIndexPrescriptAlly:`Благословения Предписания`] меньше 6, делает Значение равным 6\n- В начале следующего хода получает 5 [KarmaOfIndexAlly:`Кармических последствий`] за каждое Значение [BlessingOfIndexPrescriptAlly:`Благословения Предписания`], полученное предыдущим эффектом",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "By Unpredictable Whim",
+          "desc": "<style=\"highlight\">+2 к Силе Монет при [UnlockBuffAlly_3]</style>\n[StartBattle] Получает 2 Счётчика [Breath:`Концентрации`] (один раз в ход)\n[OnSucceedEvade] Получает <style=\"highlight\">2</style> [Breath:`Концентрации`] (2 раза в ход)\n[EndBattle] Активирует следующие эффекты, если степень [UnlockBuff_Base] менее 2 (один раз за бой):\n- Получает [UnlockBuffAlly_2]\n- Если Значение [BlessingOfIndexPrescriptAlly:`Благословения Предписания`] меньше 6, делает Значение равным 6\n- В начале следующего хода получает 5 [KarmaOfIndexAlly:`Кармических последствий`] за каждое Значение [BlessingOfIndexPrescriptAlly:`Благословения Предписания`], полученное предыдущим эффектом",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1011505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Furioso-Replica",
+          "desc": "[WideAreaRampage]\nТолько одна копия этого навыка может находиться на Панели управления\nНаносит на 10% больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\nСила Монет этого навыка не может быть изменена\n+5 к Итоговой Силе при получении Силы монет\n[Paralysis] не срабатывает на этот навык\n+1 к Итоговой Силе при 6+ ([Breath:`Концентрации`] на себе + [Sinking] на цели)\n[StartBattle]:\n- Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`]\n- При ударе этим навыком накладывает 1 [Sinking] или получает 1 [Breath:`Концентрацию`]\n- В этом ходу не может получать [StackYisangSpecialSkill]\n[WhenUse]:\n- +3 к Силе в Схватке\n- Получает 3 [Breath:`Концентрации`] и 3 её Счётчика\n[EndSkill]:\n- Накладывает 5 [Combustion:`Горения`], 3 [Binding:`Медлительности`], и 3 [Vulnerable:`Хрупкости`] на следующий ход на все цели, которые ударил этот Грешник\n- Сбрасывает [StackYisangSpecialSkill]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Эта Монета использует оружие «Коса»"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 Счётчика [Sinking:`Горя`]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Furioso-Replica",
+          "desc": "[WideAreaRampage]\nТолько одна копия этого навыка может находиться на Панели управления\nНаносит на 10% больше урона, если этот навык был помечен [IndexPrescriptTargetMarkToEnemy:`Меткой Предписания`]\nСила Монет этого навыка не может быть изменена\n+5 к Итоговой Силе <style=\"highlight\">и наносит на 25% больше урона</style> при получении Силы монет\n[Paralysis] не срабатывает на этот навык\n<style=\"highlight\">+1 к Итоговой Силе за каждые 6 ([Breath:`Концентрации`] на себе + [Sinking] на цели) (Макс. 2)</style>\n[StartBattle]:\n- Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`]\n- При ударе этим навыком накладывает 1 [Sinking] или получает 1 [Breath:`Концентрацию`]\n- В этом ходу не может получать [StackYisangSpecialSkill]\n[WhenUse]:\n- +3 к Силе в Схватке\n- Получает 3 [Breath:`Концентрации`] и 3 её Счётчика\n[EndSkill]:\n- Накладывает 5 [Combustion:`Горения`], 3 [Binding:`Медлительности`], и 3 [Vulnerable:`Хрупкости`] на следующий ход на все цели, которые ударил этот Грешник\n- Сбрасывает [StackYisangSpecialSkill]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Эта Монета использует оружие «Коса»<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">Наносит на 90% больше урона при крит. ударе</style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 Счётчика [Sinking:`Горя`]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

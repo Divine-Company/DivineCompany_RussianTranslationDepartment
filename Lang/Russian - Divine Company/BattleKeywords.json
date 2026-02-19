@@ -1579,8 +1579,8 @@
     },
     {
       "id": "CanDuelGuard",
-      "name": "Clashable Guard",
-      "desc": "- On Clash Win: raise the target's Stagger Threshold by this unit's final Clash Power.\n- On Clash Lose: when hit, reduce the attacker's final Skill Power by this unit's Final Power.\n- On Clash Lose: does not gain Final Power from the following sources: Resonance and the Level disparity against the Attack Skill",
+      "name": "Блок для Схватки",
+      "desc": "При победе в Схватке приближает Порог Оглушения цели на итоговую Силу в Схватке навыка этого персонажа.\nПри поражении в Схватке ослабляет итоговую Силу навыка атакующего на Итоговую Силу навыка этого персонажа.\nПри поражении в Схватке не получает Итоговую Силу от Резонанса и различия в уровнях между этим и атакующим навыком.",
       "summary": ""
     },
     {
@@ -1835,22 +1835,26 @@
     {
       "id": "BlackCloud",
       "name": "Dark Cloud",
-      "desc": "Max Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to [Unbreakable Coins], prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires"
+      "desc": "Max Stack: 1\nConverts all of this unit's Base Attack Skill Coins used this turn to Unbreakable Coins, prevents damage from Staggering this unit until Skill End, and inflict +1 more of Bleed effects\nOn Clash Lose: gain Final Power +3\nTurn End: this effect expires",
+      "summary": "Converts Attack Skill to Unbreakable Coin and gains a new effect"
     },
     {
       "id": "BlackCloudBlade",
       "name": "Dark Cloud Blade",
-      "desc": "Max Stack: 1\nGain 1 Slash Power\nInflict 1 Bleed On Hit with Slash Skills"
+      "desc": "Max Stack: 1\nGain 1 Slash Power\nInflict 1 Bleed On Hit with Slash Skills",
+      "summary": "Enhance Slash Skills"
     },
     {
       "id": "EngageToBattle",
       "name": "Battle Ready",
-      "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter"
+      "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter",
+      "summary": "Enhance Slash Skills and inflict more Bleed"
     },
     {
       "id": "CloudWall",
       "name": "Cumulus Wall",
-      "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after attack of the following: 'Rules of the Backstreets'"
+      "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after attack of the following: 'Rules of the Backstreets'",
+      "summary": "Enhance Defense Skill"
     },
     {
       "id": "ScarletResultUp",
@@ -2073,21 +2077,21 @@
     {
       "id": "BulletPropellantAlly",
       "name": "Тигриный патрон",
-      "desc": "Особые Патроны.\nМакс. значение: 12.\nПри 8 и более использованных Тигриных и Зверских тигриных патронов вместо «Ганци (Непоколебимый дух)» накладывается «Ганци - Син (Непоколебимый дух - Син)» от пассивного навыка этого персонажа.",
+      "desc": "Особые Патроны.\nМакс. значение: 12.\nПри 8+ использованных Тигриных и Зверских тигриных патронов вместо «Ганци (Непоколебимый дух)» накладывается «Ганци - Син (Непоколебимый дух - Син)» от пассивного навыка этого персонажа.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BulletPropellantSpecialAlly",
       "name": "Зверский тигриный патрон",
-      "desc": "Особые Патроны.\nМакс. значение: 8.\nПри 8 и более использованных Тигриных и Зверских тигриных патронов вместо «Ганци (Непоколебимый дух)» накладывается «Ганци - Син (Непоколебимый дух - Син)» от пассивного навыка этого персонажа.\nИспользуется так же, как и «Тигриный патрон».",
+      "desc": "Особые Патроны.\nМакс. значение: 8.\nПри 8+ использованных Тигриных и Зверских тигриных патронов вместо «Ганци (Непоколебимый дух)» накладывается «Ганци - Син (Непоколебимый дух - Син)» от пассивного навыка этого персонажа.\nИспользуется так же, как и «Тигриный патрон».",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IrritationAlly",
       "name": "Ганци (Непоколебимый дух)",
-      "desc": "Макс. значение: 1.\n+1 к минимальной и максимальной Скорости.\nЕсли Скорость персонажа с этим эффектом больше на 3+, чем Скорость его цели, наносит на (Различие в скорости x 2.5)% больше урона (Макс. 20%).\nНакладывает на 1 больше Тремора и его Счётчика с помощью навыков.\nПри 8 и более использованных Тигриных и Зверских тигриных патронов этот эффект заменяется на «Ганци - Син (Непоколебимый дух - Син)» в следующем ходу.",
+      "desc": "Макс. значение: 1.\n+1 к минимальной и максимальной Скорости.\nЕсли Скорость персонажа с этим эффектом больше на 3+, чем Скорость его цели, наносит на (Различие в скорости x 2.5)% больше урона (Макс. 20%).\nНакладывает на 1 больше Тремора и его Счётчика с помощью навыков.\nПри 8+ использованных Тигриных и Зверских тигриных патронов этот эффект заменяется на «Ганци - Син (Непоколебимый дух - Син)» в следующем ходу.",
       "summary": "",
       "undefined": "-"
     },
@@ -2101,7 +2105,7 @@
     {
       "id": "BeastEyesAlly",
       "name": "Перегрев",
-      "desc": "Эффект сбрасывается при получении эффекта «Зверский тигриный патрон».\n+2 к минимальной и максимальной Скорости.\n-(Использованные Тигриные и Зверские тигриные патроны / 2) Силы в Схватке атакующих навыков (Макс. 10).\nИспользовав Тигриные и Зверские тигриные патроны, активируются следующие эффекты:\nПри 8 и более в начале хода накладывается 1 Стойкость за каждые 10% потерянных ОЗ (Макс. 5);\nПри 14 и более при поражении в Схватке, Нерушимые Монеты атакующих навыков наносят на (75 + процент потерянных ОЗ)% больше урона (Макс. 150%);\nПри 20 и более наносит на (процент разницы в ОЗ)% больше урона не ЭГО навыками против целей с большим процентом оставшихся ОЗ, чем у этого персонажа (Макс. 50%).",
+      "desc": "Эффект сбрасывается при получении эффекта «Зверский тигриный патрон».\n+2 к минимальной и максимальной Скорости.\n-(Использованные Тигриные и Зверские тигриные патроны / 2) Силы в Схватке атакующих навыков (Макс. 10).\nИспользовав Тигриные и Зверские тигриные патроны, активируются следующие эффекты:\nПри 8+ в начале хода накладывается 1 Стойкость за каждые 10% потерянных ОЗ (Макс. 5);\nПри 14+ при поражении в Схватке, Нерушимые Монеты атакующих навыков наносят на (75 + процент потерянных ОЗ)% больше урона (Макс. 150%);\nПри 20+ наносит на (процент разницы в ОЗ)% больше урона не ЭГО навыками против целей с большим процентом оставшихся ОЗ, чем у этого персонажа (Макс. 50%).",
       "summary": "",
       "undefined": "-"
     },
@@ -2363,7 +2367,7 @@
     {
       "id": "FocusOnActing",
       "name": "Focused Performance",
-      "desc": "- Max Stack: 3\n- <La Manchaland> Identities only; includes Empowered Skills\n- Skill 1 and Skill 2 gain Final Power +1; deal +5% damage for every Stack (max 15%)\n- Skill 3 gains Final Power +2; deals +10% damage for every Stack (max 30%)\n- After attacking with Skill 3, or at Turn Start, if this unit does not have Hardblood Armor, lose 1 Stack",
+      "desc": "- Max Stack: 3\n- <La Manchaland> Identities only; includes Empowered Skills\n- Skill 1 and Skill 2 gain Final Power +1; deal +5% damage for every Stack (max 15%)\n- Skill 3 gains Final Power +2; deals +10% damage for every Stack (max 30%)\n- Lose 1 Stack when:\n  1) After attacking with Skill 3\n  2) If this unit does not have Hardblood Armor at Turn Start",
       "summary": "On Hit, deal more damage",
       "undefined": "-"
     },
@@ -2512,6 +2516,235 @@
       "name": "Excision Coin",
       "desc": "- This Coin can destroy Unbreakable Coins in a Clash.\n- This coin does not break upon Clash Lose.\n- If an Attack Skill has this Coin, attack with this Coin after getting hit.\n- Upon Clash Lose, fix the Coin Power of the unbroken Coin to 1",
       "summary": ""
+    },
+    {
+      "id": "ReinforcedTattooIshmael",
+      "name": "The Middle Styled Augmentation Tattoos",
+      "desc": "- Max Stack: 10\n- Final Power +1 for Base Skills for every 5 Stack (max 2)\n- Envy Skills and Blunt Skills deal +5% damage for every Stack (max 50%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ResentmentIshmael",
+      "name": "The Middle - Grudge",
+      "desc": "- Max Stack: 15\n- If target has Vengeance Mark, deal +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireIshmael",
+      "name": "Thermal Blades",
+      "desc": "- Max Stack: 2\n- If target hit by Base Skills has Burn, heal 3 SP (2 times per turn)\n- Inflict Burn when inflicting Bleed with certain Skill Coins\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LanternGregBigBird",
+      "name": "Lamp",
+      "desc": "- Max Stack: 8\n- Turn End: Gain 1 Bind next turn for every 2 Stack (max 4)\n- Turn End: At max Stack, if there are enemies on the field, consume all Stack to activate the following effects next turn:\n• Gain +10 Aggro to the leftmost Slot\n• Inflict 3 Dazzle to the enemy(Core) with the most current HP",
+      "summary": "Gain Bind next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "ObedienceGregBigBird",
+      "name": "Guardians of the Forest",
+      "desc": "Before Attack, activate the following effects:\n- Plus Coin Skills heal 4 SP (if already at max SP, gain 2 Offense Level Up next turn)\n- Minus Coin Skills lose 8 SP (this effect cannot reduce the unit's SP below -40)\n- Lose this effect",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird",
+      "name": "Dazzle",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units with SP: Change their Panic Type to \"Dazzle\"\n- Units without SP: Defense Level -2\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types\n\n※ Dazzle Panic-type Effects\n- Low Morale: Turn End: Gain 1 Bind and 2 Offense Level Down next turn\n- Panic: Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nUnits with SP: Change their Panic Type to \"Dazzle\"\nUnits without SP: Defense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Main",
+      "name": "Dazzle",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units with SP: Change their Panic Type to \"Dazzle\"\n- Turn End: Lose 1 Stack",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nChange Panic Type to \"Dazzle\"",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Sub",
+      "name": "Dazzle",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units without SP: Defense Level -2\n- Turn End: Lose 1 Stack",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nDefense Level -2",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_LowMorale",
+      "name": "Dazzle",
+      "desc": "- Low Morale\n- Turn End: Gain 1 Bind and 2 Offense Level Down next turn",
+      "summary": "Turn End: Gain 1 Bind and 2 Offense Level Down next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionGregBigBird_Panic",
+      "name": "Dazzle",
+      "desc": "- Panic\n- Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "summary": "Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerID",
+      "name": "Moonlit Azure Blade",
+      "desc": "- Max Stack: 20\n- Turn Start: Gain 2 Shield for every Stack\n- Deal +1% damage on Critical Hit for every Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptYi_0",
+      "name": "Предписание: [Устройство] I",
+      "desc": "\"Использовать навык с Меткой Предписания или ударить цель отмеченным навыком.\"\nВ начале хода при отсутствии Unlock получает этот эффект.\nМакс. значение Благословение Предписания от этого Предписания: 3.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptYi_1",
+      "name": "Предписание: [Устройство] II",
+      "desc": "\"Ударить цель навыком с Меткой Предписания.\"\nВ начале хода при наличии Unlock - I получает этот эффект.\nМакс. значение Благословение Предписания от этого Предписания: 6.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptYi_2",
+      "name": "Предписание: [Устройство] III",
+      "desc": "\"Получи Procuration [Hermes].\"\nПовторяет это Предписание до 9 Значения Procuration [Hermes].\nВ начале хода при наличии Unlock - II получает этот эффект.\nМакс. значение Благословение Предписания от этого Предписания: 9.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptYi_3",
+      "name": "Предписание: [Устройство] IV",
+      "desc": "\"Уничтожить всех противников до получения следующего Предписания.\"\nВ начале хода при наличии Unlock - III получает этот эффект.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "StackYisangSpecialSkill",
+      "name": "Procuration [Hermes]",
+      "desc": "Макс. значение: 9.\nПока Unlock ниже Unlock - II, макс. значение: 8.\nВ начале хода при 9 Значения, позволяет использовать особый навык.\nМожно получить (Степень Unlock + 2) Значения в ход.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Shin_IndexFingerYisang",
+      "name": "Shin (心) - Fate",
+      "desc": "- Min & Max Speed +1\n- Gain +1 more Poise Potency and Count from Base Skills\n- If this unit's SP is higher than the target's, deal +1% damage for every 3 SP difference (max 15%; units without SP are considered to be at 0 SP)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisangMask",
+      "name": "Wound-casing Mask",
+      "desc": "- Offense Level +2, Defense Level -2\n- Take -10% damage from Unopposed Attacks\n",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BurningWoundYisang",
+      "name": "Sizzling Wound",
+      "desc": "- Offense Level +3, Defense Level -3\n- Take -25% damage from Unopposed Attacks\n- Turn Start: Gain 1 Burn and 1 Bleed\n- Deal +15% damage with Base Attack Skill's Unbreakable Coins",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "BlackNightmareYisang",
+      "name": "Indulgence in Prescripts",
+      "desc": "- Min & Max Speed +5\n- Apply the following effects to 'Furioso-Replica':\n· On Hit, inflict +1 more Sinking Potency and gain +1 more Poise Potency\n· On Hit, inflict +3 Sinking Count (once per target)\n· Deal +30% damage\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon01Hatchet",
+      "name": "Топором на части рёбра разрубая...",
+      "desc": "Наносит Дробящий урон этой Монетой.\nПолучает 2 Концентрации при ударе целой Монетой.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon02Stiletto",
+      "name": "Стилетто лёгкие пронзая...",
+      "desc": "Наносит Колющий урон этой Монетой.\nНакладывает 2 Горя при ударе целой Монетой.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon03Greatsword",
+      "name": "Полуторным мечом плечо и череп рассекая...",
+      "desc": "Наносит Рубящий урон этой Монетой.\nНаносит на 5% больше урона этой Монетой.\n+1 к Уровню атаки на следующий ход при ударе целой Монетой (2 раза в ход).",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon04Rapier",
+      "name": "Рапирой в туловище десять или более уколов совершая...",
+      "desc": "Наносит Колющий урон этой Монетой.\nНаносит на 5% больше урона этой Монетой.\nНакладывает 1 Уменьшение Уровня Защиты на следующий ход при ударе целой Монетой (2 раза в ход).",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon05Sledgehammer",
+      "name": "Молотом затылок пробивая...",
+      "desc": "Наносит Дробящий урон этой Монетой.\nНаносит на 5% больше урона этой Монетой.\nПриближает Порог Оглушения цели на 3 при ударе целой Монетой.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon06Ultragreatsword",
+      "name": "Двуручным мечом тело разрывая...",
+      "desc": "Наносит Рубящий урон этой Монетой.\nНаносит на 15% больше урона этой Монетой.\nНакладывает 1 Уязвимость к Рубящему при ударе целой Монетой (2 раза в ход).",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon07Lance",
+      "name": "Копьём полуметровое отверствие выгрызая...",
+      "desc": "Наносит Колющий урон этой Монетой.\nНаносит на 15% больше урона этой Монетой.\nНакладывает 1 Уязвимость к Колющему при ударе целой Монетой (2 раза в ход).",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon08Chain",
+      "name": "Хлыстом на десять тысяч ласкутов плоть разрезая...",
+      "desc": "Наносит Дробящий урон этой Монетой.\nНаносит на 15% больше урона этой Монетой.\nНакладывает 1 Уязвимость к Дробящему при ударе целой Монетой (2 раза в ход).",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "YisangWeapon09Scythe",
+      "name": "Косой, как тот самый человек, пространство рассекая...",
+      "desc": "Наносит Рубящий урон этой Монетой.\nНаносит на 30% больше урона этой Монетой.\nКритически ударяет при ударе целой Монетой.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "SatisfyingEsteemNeeds",
+      "name": "Удовлетрённое желание признания",
+      "desc": "Наносит на 7.5% больше урона навыками с Меткой Предписания.\nНаносит на 7.5% больше урона Целям Предписания.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
     }
   ]
 }

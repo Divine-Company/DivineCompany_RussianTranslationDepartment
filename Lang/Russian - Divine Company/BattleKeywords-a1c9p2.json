@@ -57,28 +57,28 @@
     {
       "id": "UnlockBuff_1",
       "name": "Unlock - I",
-      "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 15 SP",
+      "desc": "+1 к Уровню Атаки.\n+1 к Уровню Защиты.\nВ конце Схваток восстанавливает 15 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_2",
       "name": "Unlock - II",
-      "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 30 SP",
+      "desc": "+2 к Уровню Атаки.\n+2 к Уровню Защиты.\nВ конце Схваток восстанавливает 30 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_3",
       "name": "Unlock - III",
-      "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 45 SP",
+      "desc": "+3 к Уровню Атаки.\n+3 к Уровню Защиты.\nВ конце Схваток восстанавливает 45 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexStudent",
-      "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
+      "name": "Кармическое последствие",
+      "desc": "Макс. значение: 100.\nВ начале хода даёт 1 Уменьшение Уровня Защиты за каждые 10 Значения.\nВ начале хода даёт 1 Хрупкость за каждые 20 Значения.",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
@@ -332,28 +332,28 @@
     {
       "id": "UnlockBuff_Base",
       "name": "Unlock",
-      "desc": "- Gain this effect when over certain Grace of the Prescript Stack\n- Effect stage increases based on Grace of the Prescript Stack\n- Max: Stage 3",
+      "desc": "Макс. Степень: 3.\nПолучает этот эффект при определённом Значении Благословения Предписания.\nСтепень эффекта увеличивается в зависимости от Значения Благословения Предписания.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_1",
       "name": "Unlock - I",
-      "desc": "- Defense Level +1\n- Combat End: Heal 5 SP",
+      "desc": "+1 к Уровню Защиты.\nВ конце Схваток восстанавливает 5 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_2",
       "name": "Unlock - II",
-      "desc": "- Defense Level +2\n- Combat End: Heal 10 SP",
+      "desc": "+2 к Уровню Защиты.\nВ конце Схваток восстанавливает 10 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuffAlly_3",
       "name": "Unlock - III",
-      "desc": "- Defense Level +3\n- Combat End: Heal 15 SP",
+      "desc": "+3 к Уровню Защиты.\nВ конце Схваток восстанавливает 15 ПР.",
       "summary": "",
       "undefined": "-"
     },

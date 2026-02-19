@@ -1497,7 +1497,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Laceration] и 2 его Счётчика"
                 }
               ]
             },
@@ -1507,7 +1507,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration] and +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`] и 1 его Счётчика"
                 }
               ]
             }
@@ -1530,7 +1530,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 1 его Счётчика"
                 }
               ]
             },
@@ -1540,7 +1540,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 2 его Счётчика"
                 }
               ]
             }
@@ -1563,7 +1563,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Laceration] и 1 его Счётчика"
                 }
               ]
             },
@@ -1573,7 +1573,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 1 его Счётчика"
                 }
               ]
             },
@@ -1583,7 +1583,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 3 его Счётчика"
                 }
               ]
             }
@@ -1606,7 +1606,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 1 его Счётчика"
                 }
               ]
             },
@@ -1616,7 +1616,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Laceration] и 2 его Счётчика"
                 }
               ]
             },
@@ -1626,7 +1626,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 2 его Счётчика"
                 }
               ]
             }
@@ -1649,7 +1649,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1659,7 +1659,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1669,7 +1669,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1679,7 +1679,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -1689,7 +1689,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`] и 2 его Счётчика"
                 }
               ]
             }

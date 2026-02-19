@@ -727,28 +727,28 @@
     {
       "id": "UnlockBuff_Rien1",
       "name": "Unlock - I",
-      "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 10 SP",
+      "desc": "+1 к Уровню Атаки.\n+1 к Уровню Защиты.\nВ конце Схваток восстанавливает 10 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_Rien2",
       "name": "Unlock - II",
-      "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 20 SP",
+      "desc": "+2 к Уровню Атаки.\n+2 к Уровню Защиты.\nВ конце Схваток восстанавливает 20 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnlockBuff_Rien3",
       "name": "Unlock - III",
-      "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 30 SP",
+      "desc": "+3 к Уровню Атаки.\n+3 к Уровню Защиты.\nВ конце Схваток восстанавливает 30 ПР.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "KarmaOfIndexRien",
-      "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stack\n· Gain 1 Fragile for every 20 Stack\n· Gain 1 Clash Power Down for every 40 Stack\n- Max Stack: 100",
+      "name": "Кармическое последствие",
+      "desc": "Макс. значение: 100.\nВ начале хода даёт 1 Уменьшение Уровня Защиты за каждые 10 Значения.\nВ начале хода даёт 1 Хрупкость за каждые 20 Значения.\nВ начале хода даёт 1 Уменьшение Силы в Схватке за каждые 40 Значения.",
       "summary": "",
       "undefined": "-"
     },

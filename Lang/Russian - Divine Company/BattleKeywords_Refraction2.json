@@ -2,38 +2,42 @@
   "dataList": [
     {
       "id": "TipsinessRail",
-      "name": "Tipsy",
-      "desc": "Lose Clash Power by the effect's Count (Max 5)",
+      "name": "Опьянение",
+      "desc": "Макс. значение: 5\nТеряет Силу в Схватке за каждое Значение.",
       "summary": "Lose Clash Power by the effect's Count"
     },
     {
       "id": "PassedPortal_Red",
-      "name": "Hemorrhaging Dimension",
-      "desc": "Damage Up +10%",
-      "summary": "Damage Up +10%"
+      "name": "Кровоточащее измерение",
+      "desc": "Наносит на 10% больше урона.",
+      "summary": "Damage Up +10%",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "PassedPortal_Green",
-      "name": "Poisonous Dimension",
-      "desc": "Max HP +20%",
-      "summary": "Max HP +20%"
+      "name": "Ядовитое измерение",
+      "desc": "Получает 20% макс. ОЗ.",
+      "summary": "Max HP +20%",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "PassedPortal_Yellow",
-      "name": "Tremoring Dimension",
-      "desc": "Boost Speed by 1",
-      "summary": "Boost Speed by 1"
+      "name": "Дрожащее измерение",
+      "desc": "+1 к Скорости.",
+      "summary": "Boost Speed by 1",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "PassedPortal_Blue",
-      "name": "Electrifying Dimension",
-      "desc": "Coin Power +1",
-      "summary": "Coin Power +1"
+      "name": "Электризующее измерение",
+      "desc": "+1 к Силе Монет.",
+      "summary": "Coin Power +1",
+      "flavor": "Преодолел межпространственный разлом."
     },
     {
       "id": "FairyCharm",
-      "name": "Charmed",
-      "desc": "- All damage dealt to Fairy reduced to 0.\n- Expires when Fairy dies.",
+      "name": "Очарование",
+      "desc": "Наносит 0 урона Фее.\nСбрасывается при смерти Феи.",
       "summary": "Damage fixed to 0"
     },
     {
