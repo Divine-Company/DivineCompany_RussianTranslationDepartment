@@ -57,6 +57,10 @@
       "description": "<color=#f8c200>Выбрав новый тематический набор в первый раз до {4}-го этажа включая его, во всех боях накладывается {2} {1}</color>"
     },
     {
+      "id": "GiveBuffOnRSOnThemePackUnlockCount",
+      "description": "<color=#f8c200>При наличии {4}+ исследованых тематических наборов, каждый бой будет накладываться {2} {1}</color>"
+    },
+    {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
       "description": "+{0} к количеству начальных <color=#5bffde>Даров ЭГО</color>"
     },
