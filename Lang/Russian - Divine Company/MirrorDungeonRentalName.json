@@ -2,71 +2,75 @@
   "dataList": [
     {
       "id": 1,
-      "content": "Pierce, Poise"
+      "content": "Пронзающий, Концентрация"
     },
     {
       "id": 2,
-      "content": "Tremor"
+      "content": "Тремор"
     },
     {
       "id": 3,
-      "content": "Rupture"
+      "content": "Разрыв"
     },
     {
       "id": 4,
-      "content": "Tremor, Burn, Rupture, Poise, Charge"
+      "content": "Тремор, Горение, Разрыв, Концентрация, Заряд"
     },
     {
       "id": 5,
-      "content": "Burn, Bleed, Tremor"
+      "content": "Горение, Кровотечение, Тремор"
     },
     {
       "id": 6,
-      "content": "Sinking"
+      "content": "Горе"
     },
     {
       "id": 7,
-      "content": "Bleed, Poise"
+      "content": "Кровотечение, Концентрация"
     },
     {
       "id": 8,
-      "content": "Charge, Rupture"
+      "content": "Заряд, Разрыв"
     },
     {
       "id": 9,
-      "content": "Bleed"
+      "content": "Кровотечение"
     },
     {
       "id": 10,
-      "content": "Rupture"
+      "content": "Разрыв"
     },
     {
       "id": 11,
-      "content": "Pierce, Poise"
+      "content": "Пронзающий, Концентрация"
     },
     {
       "id": 12,
-      "content": "Charge"
+      "content": "Заряд"
     },
     {
       "id": 13,
-      "content": "Sinking"
+      "content": "Горе"
     },
     {
       "id": 14,
-      "content": "Sinking, Poise"
+      "content": "Горе, Концентрация"
     },
     {
       "id": 15,
-      "content": "Bleed, Envy"
+      "content": "Кровотечение, Envy"
     },
     {
       "id": 16,
-      "content": "Sinking"
+      "content": "Горе"
     },
     {
       "id": 17,
-      "content": "Sinking"
+      "content": "Горе"
+    },
+    {
+      "id": 18,
+      "content": "Горе, Концентрация"
     }
   ]
 }

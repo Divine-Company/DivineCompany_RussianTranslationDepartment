@@ -92,6 +92,7 @@
       "id": 1013,
       "name": "Toy Screw",
       "desc": "All allies gain +10% Max HP.",
+      "abnormalityName": "Cyborg",
       "simpleDesc": [
         {
           "abilityID": 1013,
@@ -397,7 +398,7 @@
       "simpleDesc": [
         {
           "abilityID": 1053,
-          "simpleDesc": "When inflicting [Burst] with skill effects, inflict +3 [Burst] Count."
+          "simpleDesc": "When inflicting [Burst] with skill effects, inflict +5 [Burst] Count."
         }
       ]
     },
@@ -518,7 +519,7 @@
       "simpleDesc": [
         {
           "abilityID": 2009,
-          "simpleDesc": "Wrath damage taken -20%"
+          "simpleDesc": "Take less Wrath damage"
         },
         {
           "abilityID": 200901,

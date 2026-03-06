@@ -1039,7 +1039,7 @@
     {
       "id": 1060821,
       "name": "Enlightenment",
-      "desc": "After Attack: If the target is in a staggered or defeated state by an attack from 1 ally with the least SP, the ally heals 7 SP."
+      "desc": "Attack End: If the target is in a staggered or defeated state by an attack from 1 ally with the least SP, the ally heals 7 SP."
     },
     {
       "id": 1010801,
@@ -1064,7 +1064,7 @@
     {
       "id": 1080801,
       "name": "Captain of the Pequod",
-      "desc": "After Attack: if the enemy is defeated after this unit's attack,\n- gain [HeatedGasHarpoon] next turn.\n- 1 other ally with the least SP heals 7 SP.\n- If the ally is from The Pequod, heal an additional 5 SP."
+      "desc": "Attack End: If the enemy is defeated after this unit's attack,\n- gain [HeatedGasHarpoon] next turn.\n- 1 other ally with the least SP heals 7 SP.\n- If the ally is from The Pequod, heal an additional 5 SP."
     },
     {
       "id": 1080802,
@@ -1074,7 +1074,7 @@
     {
       "id": 1080811,
       "name": "Captain of the Pequod",
-      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gain 4 Poise, +2 Poise Count. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">- 2 other allies with the least SP heal 7 SP and gain 4 Poise.</style>\n- If the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Pierce Power Up next turn.</style>"
+      "desc": "- Attack End: If the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gain 4 Poise, +2 Poise Count. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">- 2 other allies with the least SP heal 7 SP and gain 4 Poise.</style>\n- If the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Pierce Power Up next turn.</style>"
     },
     {
       "id": 1080821,
@@ -1084,7 +1084,7 @@
     {
       "id": 1080831,
       "name": "Captain's Orders",
-      "desc": "After Attack: 1 ally with the highest SP gains 2 Poise and <style=\"highlight\">+2 Poise Count</style> when the target is defeated after that unit's attack (2 times per turn)"
+      "desc": "Attack End: 1 ally with the highest SP gains 2 Poise and <style=\"highlight\">+2 Poise Count</style> when the target is defeated after that unit's attack (2 times per turn)"
     },
     {
       "id": 1050801,
@@ -1326,7 +1326,7 @@
     {
       "id": 999903,
       "name": "Bloody Tears",
-      "desc": "On Skill Use: Take 3% of max HP as fixed damage (this damage cannot kill this unit).\nAfter Attack: heal 15% of max HP for every unit killed",
+      "desc": "On Skill Use: Take 3% of max HP as fixed damage (this damage cannot kill this unit).\nAttack End: heal 15% of max HP for every unit killed",
       "summary": ""
     },
     {
@@ -1644,7 +1644,7 @@
     {
       "id": 1011011,
       "name": "Fire.IShallFire.",
-      "desc": "After Attack: if this unit killed the target with its Skill, [ReloadLament]\nWhen this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
+      "desc": "Attack End: If this unit killed the target with its Skill, [ReloadLament]\nWhen this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
       "summary": "When this unit gains Ammo, gain Agility next turn. Reload On Kill."
     },
     {
@@ -1759,8 +1759,8 @@
     {
       "id": 1111121,
       "name": "Don Quixote Hardblood Arts 8: Scissors",
-      "desc": "1 ally with the fastest Speed: if the enemy is killed After Attack, heal 10 HP (2 times per turn)\n1 ally with the fastest Speed: if the enemy is killed After Attack, inflict +1 [Laceration] Count when inflicting [Laceration] Potency with Skill or Coin effects for the next turn (3 times per turn)",
-      "summary": "If the enemy is dead After Attack, heal HP"
+      "desc": "1 ally with the fastest Speed: If the enemy is killed at Attack End, heal 10 HP (2 times per turn)\n1 ally with the fastest Speed: If the enemy is killed at Attack End, inflict +1 [Laceration] Count when inflicting [Laceration] Potency with Skill or Coin effects for the next turn (3 times per turn)",
+      "summary": "Attack End: If the enemy is dead, heal HP"
     },
     {
       "id": 1121001,
@@ -1858,7 +1858,7 @@
     {
       "id": 1031004,
       "name": "Armadura de Sangre",
-      "desc": "After Attack: if the enemy is defeated, increase [BloodDinner] by 10% of the target's max HP (100 per turn; for Focused Encounters, if the Part is broken)\nGain 1 [AttackDmgUp] next turn for every 15% missing HP at Turn End (max 3)\nIf an ally is about to be defeated from [Laceration] damage, prevent them from being defeated from Bleed damage for the turn (once per Encounter for each Identity)"
+      "desc": "Attack End: If the enemy is defeated, increase [BloodDinner] by 10% of the target's max HP (100 per turn; for Focused Encounters, if the Part is broken)\nGain 1 [AttackDmgUp] next turn for every 15% missing HP at Turn End (max 3)\nIf an ally is about to be defeated from [Laceration] damage, prevent them from being defeated from Bleed damage for the turn (once per Encounter for each Identity)"
     },
     {
       "id": 1031021,
@@ -2068,12 +2068,12 @@
     {
       "id": 1101201,
       "name": "The Middle Never Forgets",
-      "desc": "When hit by an enemy, inflict 3 [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
+      "desc": "When hit by an enemy, inflict 3 [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n\nAttack End with Base Attack Skills or Counter Skills: Consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
     },
     {
       "id": 1101211,
       "name": "The Middle Never Forgets",
-      "desc": "When hit by an enemy, inflict <style=\"highlight\">5</style> [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n<style=\"highlight\">- If the said ally is from the Middle, inflict 3 additional [VendettaMark]</style>\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
+      "desc": "When hit by an enemy, inflict <style=\"highlight\">5</style> [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n<style=\"highlight\">- If the said ally is from the Middle, inflict 3 additional [VendettaMark]</style>\n\nAttack End with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
     },
     {
       "id": 1101221,
@@ -2186,7 +2186,7 @@
     {
       "id": 1051202,
       "name": "Chachihu [揷翅虎]",
-      "desc": "Always Active: begin Encounters with 12 [BulletPropellantAlly]\n\nWhen flipping a Coin that consumes [BulletPropellantAlly] or [BulletPropellantSpecialAlly]: while not having those 'Unique Ammo' does not cancel this unit's attacks, the Coin's On Hit \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIf this unit equipped Defense Skills for the first time in this Encounter, or if this unit spent all of his [BulletPropellantAlly], or if this unit is Staggered: at the end of that turn, reload 8 [BulletPropellantSpecialAlly] and gain 1 [IrritationAlly] (once per Encounter)\n- If this effect activates while this unit is Staggered, recover from Stagger (unless it's a forced Stagger)\n- Remove all [BulletPropellantAlly] if this unit has any leftover [BulletPropellantAlly]\n- At 8+ (sum of [BulletPropellantAlly] and [BulletPropellantSpecialAlly] spent), convert [IrritationAlly] to [HugeIrritationAlly]\n\nWhen this unit uses a Base Attack Skill that spends the final Round of [BulletPropellantSpecialAlly]...\n- Gain Atk Weight +2 before attacking\n- Gain 1 [BeastEyesAlly] next turn",
+      "desc": "Always Active: begin Encounters with 12 [BulletPropellantAlly]\n\nWhen flipping a Coin that consumes [BulletPropellantAlly] or [BulletPropellantSpecialAlly]: while not having those 'Unique Ammo' does not cancel this unit's attacks, the Coin's On Hit \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIf this unit equipped Defense Skills for the first time in this Encounter, or if this unit spent all of his [BulletPropellantAlly], or if this unit is Staggered: at the end of that turn, reload 8 [BulletPropellantSpecialAlly] and gain 1 [IrritationAlly] (once per Encounter)\n- If this effect activates while this unit is Staggered, recover from Stagger (excluding forced Staggers)\n- Remove all [BulletPropellantAlly] if this unit has any leftover [BulletPropellantAlly]\n- At 8+ (sum of [BulletPropellantAlly] and [BulletPropellantSpecialAlly] spent), convert [IrritationAlly] to [HugeIrritationAlly]\n\nWhen this unit uses a Base Attack Skill that spends the final Round of [BulletPropellantSpecialAlly]...\n- Gain Atk Weight +2 before attacking\n- Gain 1 [BeastEyesAlly] next turn",
       "summary": ""
     },
     {
@@ -2226,7 +2226,7 @@
     {
       "id": 1011321,
       "name": "Designate Target",
-      "desc": "When the ally with the slowest Speed attacked an ally: After Attack, gain 1 [AttackDmgUp] next turn (2 times per turn)\n- If the attacked ally is killed by this attack, gain 1 [AttackDmgUp] for the whole Encounter instead (max 2 per Stage per Identity)\n- Can gain only up to 2 [AttackDmgUp] from the above effect."
+      "desc": "When the ally with the slowest Speed attacked an ally, Attack End: Gain 1 [AttackDmgUp] next turn (2 times per turn)\n- If the attacked ally is killed by this attack, gain 1 [AttackDmgUp] for the whole Encounter instead (max 2 per Stage per Identity)\n- Can gain only up to 2 [AttackDmgUp] from the above effect."
     },
     {
       "id": 1031202,
@@ -2314,7 +2314,7 @@
     {
       "id": 1061301,
       "name": "Embrace the Tarnished Blood and Exsanguinate Others For the Cause.",
-      "desc": "Combat Start: if this unit did not equip a Defense Skill and is about to take an Unopposed Attack, apply 1 [HeishouSupportProtect] to (highest Reson. / 3) random Heishou Pack allies with the least [SupportProtect] Stacks. (max 2 allies; once per Identity; excludes Identities with Skills that gain [SupportProtect])\n\nIn this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn, and it gains 1 [CondensedBlood] (once per Encounter)\n\nThis unit's Skills deal +3% damage for every [CondensedBlood] on self\n\nWhen activating the E.G.O Skill 'Tears[TabExplain] of the Tarnished Blood[TabExplain] - The End', nullify the death effect in its After Attack effects; instead, heal 60% HP. Starting next turn, gain 1 [AttackDmgUp] at every Turn Start (once per Encounter)",
+      "desc": "Combat Start: if this unit did not equip a Defense Skill and is about to take an Unopposed Attack, apply 1 [HeishouSupportProtect] to (highest Reson. / 3) random Heishou Pack allies with the least [SupportProtect] Stacks. (max 2 allies; once per Identity; excludes Identities with Skills that gain [SupportProtect])\n\nIn this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn, and it gains 1 [CondensedBlood] (once per Encounter)\n\nThis unit's Skills deal +3% damage for every [CondensedBlood] on self\n\nWhen activating the E.G.O Skill 'Tears[TabExplain] of the Tarnished Blood[TabExplain] - The End', nullify the death effect in its Attack End effects; instead, heal 60% HP. Starting next turn, gain 1 [AttackDmgUp] at every Turn Start (once per Encounter)",
       "summary": "When taking damage that brings this unit's HP to 0, nullify death, and gain [CondensedBlood]\nWhen activating 'Tears[TabExplain] of the Tarnished Blood[TabExplain]', nullify death, heal HP, and gain [AttackDmgUp]"
     },
     {
@@ -2444,7 +2444,7 @@
     {
       "id": 1051303,
       "name": "Responsibility of a Former Prince",
-      "desc": "Turn Start: the following effects activate for La Manchaland Identities with max [BloodArmorMeursault] Stack\n· Gain 1 [FocusOnActing]\n· When Staggered due to damage, recover from Stagger; then, consume all [BloodArmorMeursault] on self (once per Stage per Identity; unless it's a forced Stagger)\n\nIf The Princess of La Manchaland Rodion is on the field, she and The Prince of La Manchaland Meursault both deal +15% damage with their Skill 3 (including Empowered Skills)",
+      "desc": "Turn Start: the following effects activate for La Manchaland Identities with max [BloodArmorMeursault] Stack\n· Gain 1 [FocusOnActing]\n· When Staggered due to damage, recover from Stagger; then, consume all [BloodArmorMeursault] on self (once per Stage per Identity; excluding forced Staggers)\n\nIf The Princess of La Manchaland Rodion is on the field, she and The Prince of La Manchaland Meursault both deal +15% damage with their Skill 3 (including Empowered Skills)",
       "summary": "Meursault & Rodion deal +15% damage with their Skill 3"
     },
     {
@@ -2764,6 +2764,51 @@
       "name": "Grace of God",
       "desc": "Deal +5% damage with Slash, Pierce, and Blunt Base Attack Skills that are used for the first time by any ally each turn (once per type across all allies)\n- The Index Identities deal +10% damage instead\n- This effect's application is determined Before Attack",
       "summary": "Deal more damage with Slash, Pierce, and Blunt Skills used for the first time this turn"
+    },
+    {
+      "id": 1051401,
+      "name": "Spore Diffusion",
+      "desc": "On Kill against targets with [MeursaultBeeSpore], inflict double the [MeursaultBeeSpore] for the next turn"
+    },
+    {
+      "id": 1051411,
+      "name": "Spore Diffusion",
+      "desc": "On Kill against targets with [MeursaultBeeSpore], gain the following effects:\n- Inflict double the [MeursaultBeeSpore] for the next turn\n<style=\"highlight\">- On Kill with a Base Attack Skill, gain (<noparse>Spore</noparse> Round the Skill spends / 2) <noparse>Spore</noparse> Round (rounded up; once per Skill)</style>"
+    },
+    {
+      "id": 1051402,
+      "name": "E.G.O Alteration / Spore Round",
+      "desc": "Always Active: Begin Encounters with 10 [MeursaultSporeBulletLong] and 6 [MeursaultSporeBulletShort]\n\nOn Hit with Coins that spend <noparse>Spore</noparse> Round:\n- If [MeursaultSporeBulletLong] was spent, inflict 2 [MeursaultBeeSpore]\n- If [MeursaultSporeBulletShort] was spent, inflict 3 [MeursaultBeeSpore]\n- This counts as \"inflicting negative effects with the Skill\"\n\nBefore Coin Use of a Coin that spends [MeursaultSporeBulletShort], if this unit does not have [MeursaultSporeBulletShort], consume 2 SP and 2 [MeursaultSporeBulletLong] to gain 1 [MeursaultSporeBulletShort]\n\nIf this unit runs out of <noparse>Spore</noparse> Round mid-Skill, cancel all subsequent Coins and [MeursaultSporeBulletReloading]\n\nWhen targets with [MeursaultBeeSpore] are killed, gain 1 [MeursaultWorkerBee]",
+      "flavor": "\"The research team's—that's us—examination has confirmed that even gears that were outcomes of stable, refined extractions may undergo slight mutations depending on the user.\nNo, I wouldn't attribute that to incompleteness. Rather, such changes may even be a process of these gears reaching their own completion, like real E.G.O.\nLet us label this phenomenon \"Alteration\" for now.\""
+    },
+    {
+      "id": 1051421,
+      "name": "Worker Bee",
+      "desc": "Ally Pierce Base Attack Skill End: The said ally heals HP equal to 10% of HP damage dealt with the attack (2 times per Encounter)\n- For this turn, if all Base Attack Skills equipped on allied Skill Slots are Pierce Skills, all allies heal 10 SP at Turn End"
+    },
+    {
+      "id": 1041401,
+      "name": "Unwithering Flower",
+      "desc": "Gain 1 [AlriuneEGOWe] if the enemy takes [Sinking] damage\nGain [AlriuneEGOWe] equal to [AlriuneEGOThey] inflicted every time enemies gain [AlriuneEGOThey]\nGain 2 [AlriuneEGOWe] every time Tremor Burst is triggered regardless of the unit",
+      "summary": "Gain [AlriuneEGOWe]"
+    },
+    {
+      "id": 1041402,
+      "name": "A Void that Cannot be Filled",
+      "desc": "Always Active: Begin Encounters with 6 [BulletGodok]\n\nAt 1+ [BulletGodok], if the enemy has less than -40 SP or is Staggered at this unit or an ally's Attack End, use 'Bang. Bang.' as an Unopposed Attack (once per turn)\n\nAttack End: At 0 [BulletGodok], use 'Stories that Never Cease' as an Unopposed Attack against the target and consume 10 SP to [FullReload]",
+      "summary": "Trigger 'Skill 1-1' and [FullReload]"
+    },
+    {
+      "id": 1041411,
+      "name": "Unwithering Flower",
+      "desc": "Gain 1 [AlriuneEGOWe] if the enemy takes [Sinking] damage\nGain [AlriuneEGOWe] equal to [AlriuneEGOThey] inflicted every time enemies gain [AlriuneEGOThey]\nGain 2 [AlriuneEGOWe] every time Tremor Burst is triggered regardless of the unit\n\nAttack Skill End: At 30+ [AlriuneEGOWe], use 'Magnificent End' against the target with the highest [AlriuneEGOThey] Stack\n\nDeal +([AlriuneEGOThey] on the target)% damage against Staggered targets\n\nIf this unit lost 10%+ HP this turn, heal 3% HP and 10 SP (once per turn)",
+      "summary": " "
+    },
+    {
+      "id": 1041421,
+      "name": "Spring's Genesis",
+      "desc": "When the ally with the fastest Speed hits an enemy with a Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking', inflict 2 [Vibration] and trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (once per turn)",
+      "summary": "Inflict [Vibration], trigger [VibrationExplosion]"
     }
   ]
 }
