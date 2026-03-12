@@ -113,10 +113,6 @@
       "content": "Complete all Missions in both Easy and Hard difficulties"
     },
     {
-      "id": "walpu8_hard_stage_unlock_condition",
-      "content": "Clear Easy Difficulty to Unlock"
-    },
-    {
       "id": "tutorial_mainui_walpu8_01_title",
       "content": "The 8th Walpurgis Night - The Dusk of Amber"
     },
@@ -138,7 +134,7 @@
     },
     {
       "id": "tutorial_mainui_walpu8_03_title_01",
-      "content": "Easy Difficulty Encounter"
+      "content": "Пройдите Лёгкий режим чтобы открыть"
     },
     {
       "id": "tutorial_mainui_walpu8_03_desc_01",
@@ -186,23 +182,23 @@
     },
     {
       "id": "walpu8_reward_button_normal",
-      "content": "Easy"
+      "content": "Лёгкий режим"
     },
     {
       "id": "walpu8_reward_button_hard",
-      "content": "Hard"
+      "content": "Сложный режим"
     },
     {
       "id": "walpu8_normal_difficulty",
-      "content": "Easy"
+      "content": "Лёгкий режим"
     },
     {
       "id": "walpu8_hard_difficulty",
-      "content": "Hard"
+      "content": "Сложный режим"
     },
     {
       "id": "walpu8_hard_open_condition",
-      "content": "Clear Easy Difficulty to Unlock"
+      "content": "Пройдите Лёгкий режим чтобы открыть"
     },
     {
       "id": "KillCount_Title_4",
@@ -210,7 +206,7 @@
     },
     {
       "id": "LobotomyStartTypo_KillCountTitle_4",
-      "content": "Suppression Status"
+      "content": "Прогресс подавления"
     },
     {
       "id": "LobotomyStartTypo_Title_Walpu8_Start",
@@ -250,7 +246,7 @@
     },
     {
       "id": "walpu8_hard_stage_unlock_condition",
-      "content": "Clear Easy Difficulty to Unlock"
+      "content": "Пройдите Лёгкий режим чтобы открыть"
     }
   ]
 }

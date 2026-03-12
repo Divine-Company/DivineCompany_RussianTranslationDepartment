@@ -2404,7 +2404,7 @@
     {
       "id": "CloudWall",
       "name": "Cumulus Wall",
-      "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or Attack End of the following: 'Rules of the Backstreets'",
+      "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after the following attack ends: 'Rules of the Backstreets'",
       "summary": "Enhance Defense Skill"
     },
     {

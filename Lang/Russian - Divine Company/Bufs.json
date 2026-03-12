@@ -2430,7 +2430,7 @@
     {
       "id": "CloudWall",
       "name": "Cumulus Wall",
-      "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or Attack End of the following: 'Rules of the Backstreets'",
+      "desc": "Max Stack: 1\nDefense Skill Final Power +1\nThis effect expires at Turn End or after the following attack ends: 'Rules of the Backstreets'",
       "summary": "Enhance Defense Skill"
     },
     {
@@ -3344,7 +3344,7 @@
     },
     {
       "id": "YisangWeapon07Lance",
-      "name": "Копьём полуметровое отверствие выгрызая...",
+      "name": "Копьём полуметровое отверствие сверля...",
       "desc": "Наносит Колющий урон этой Монетой.\nНаносит на 15% больше урона этой Монетой.\nНакладывает 1 Уязвимость к Колющему при ударе целой Монетой (2 раза в ход).",
       "summary": "",
       "undefined": "-",
@@ -3352,7 +3352,7 @@
     },
     {
       "id": "YisangWeapon08Chain",
-      "name": "Хлыстом на десять тысяч ласкутов плоть разрезая...",
+      "name": "Хлыстом на десять тысяч ласкутов плоть сдирая...",
       "desc": "Наносит Дробящий урон этой Монетой.\nНаносит на 15% больше урона этой Монетой.\nНакладывает 1 Уязвимость к Дробящему при ударе целой Монетой (2 раза в ход).",
       "summary": "",
       "undefined": "-",
@@ -3360,7 +3360,7 @@
     },
     {
       "id": "YisangWeapon09Scythe",
-      "name": "Косой, как тот самый человек, пространство рассекая...",
+      "name": "Косой, как и некий человек, пространство разрезая...",
       "desc": "Наносит Рубящий урон этой Монетой.\nНаносит на 30% больше урона этой Монетой.\nКритически ударяет при ударе целой Монетой.",
       "summary": "",
       "undefined": "-",

@@ -280,7 +280,7 @@
         {
           "level": 1,
           "name": "Disposal",
-          "desc": "[CantChangeTarget]\nCannot be Staggered before using this Skill\n<color=#ff6000><mark color=#ff000040><b><u>Base Power +1 and deal +10% damage for every [FutureEyeOn] Stack</color></mark></b></u>\n[WhenUse] If target has 50% or less HP, deal +100% damage\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Base Power +4\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] Deal -50% final damage and does not hit Critically.\nDamage dealt by this Skill cannot Stagger the target\n[EnemyKill] Inflict [TeachersPrey] against a random Sinner next turn\n[EndSkill] [FullReload] (once per turn)\n[EndSkill] If this Skill generated Mang, lose 10 SP",
+          "desc": "[CantChangeTarget]\nCannot be Staggered before using this Skill\n<color=#ff6000><mark color=#ff000040><b><u>Base Power +1 and deal +10% damage for every [FutureEyeOn] Stack</color></mark></b></u>\n[WhenUse] If target has 50% or less HP, deal +100% damage\n[WhenUse] At 0+ SP, generate 1 Mang (望)\n- Base Power +4\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]\n[WinDuel] Получает 5 [Breath:`Концентрации`]\n[DefeatDuel] Deal -50% final damage and does not hit Critically.\nDamage dealt by this Skill cannot Stagger the target\n[EnemyKill] Inflict [TeachersPrey] against a random Sinner next turn\n[EndSkill] [FullReload] (once per turn)\n[EndSkill] If this Skill generated Mang, lose 10 SP",
           "coinlist": [
             {
               "coindescs": [
