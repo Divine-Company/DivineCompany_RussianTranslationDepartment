@@ -1263,47 +1263,47 @@
     {
         "id": "battle_special_10115_1",
         "desc": "",
-        "dlg": "Первый."
+        "dlg": "Раз."
     },
     {
         "id": "battle_special_10115_2",
         "desc": "",
-        "dlg": "Второй."
+        "dlg": "Два."
     },
     {
         "id": "battle_special_10115_3",
         "desc": "",
-        "dlg": "Третий."
+        "dlg": "Три."
     },
     {
         "id": "battle_special_10115_4",
         "desc": "",
-        "dlg": "Четвёртый."
+        "dlg": "Четыре."
     },
     {
         "id": "battle_special_10115_5",
         "desc": "",
-        "dlg": "Пятый."
+        "dlg": "Пять."
     },
     {
         "id": "battle_special_10115_6",
         "desc": "",
-        "dlg": "Шестой."
+        "dlg": "Шесть."
     },
     {
         "id": "battle_special_10115_7",
         "desc": "",
-        "dlg": "Седьмой. Ещё двое."
+        "dlg": "Семь. Ещё два."
     },
     {
         "id": "battle_special_10115_8",
         "desc": "",
-        "dlg": "Восьмой. Один остался."
+        "dlg": "Восемь. Ещё один раз."
     },
     {
         "id": "battle_special_10115_9",
         "desc": "",
-        "dlg": "Девятый. Исполнено."
+        "dlg": "Девять. Исполнено."
     },
     {
         "id": "battle_special_10115_10",
@@ -1323,7 +1323,7 @@
     {
         "id": "battle_special_10115_13",
         "desc": "",
-        "dlg": "Возрадуйтесь в последние мгновения своей жизни. Ведь вы были избранны."
+        "dlg": "Возрадуйся в последние мгновения своей жизни. Ведь ты был избран."
     },
     {
         "id": "battle_special_10115_14-1",
@@ -1338,7 +1338,7 @@
     {
         "id": "battle_special_10115_15-1",
         "desc": "",
-        "dlg": "Я должен воссоздать страдающее сердце."
+        "dlg": "Я должен воссоздать собой сердце страдающего."
     },
     {
         "id": "battle_special_10115_15-2",
@@ -1359,6 +1359,116 @@
         "id": "battle_special_10115_17",
         "desc": "",
         "dlg": "Ах... Дон Кихот. Если ты покажешь себя хорошо в этой битве... Я восхвалю тебя."
-    }
+    },
+    {
+      "id": "battle_s3_10514_1_1",
+      "desc": "",
+      "dlg": "Dust Spark, Field test successful."
+    },
+    {
+      "id": "battle_special_10514_1",
+      "desc": "",
+      "dlg": "Перезаряжаюсь."
+    },
+    {
+      "id": "battle_special_10514_2",
+      "desc": "",
+      "dlg": "... Ammo depleted."
+    },
+    {
+      "id": "battle_special_10514_3",
+      "desc": "",
+      "dlg": "... The objective is to defend the colony."
+    },
+    {
+      "id": "battle_special_10514_4",
+      "desc": "",
+      "dlg": "Двойной выстрел."
+    },
+    {
+      "id": "battle_special_10514_5",
+      "desc": "",
+      "dlg": "Целиться необязательно."
+    },
+    {
+      "id": "battle_special_10514_6-1",
+      "desc": "",
+      "dlg": "Цель подтверждена."
+    },
+    {
+      "id": "battle_special_10514_6-2",
+      "desc": "",
+      "dlg": "Needle Bullets."
+    },
+    {
+      "id": "battle_special_10514_6-3",
+      "desc": "",
+      "dlg": "Trench Shot."
+    },
+    {
+      "id": "battle_special_10514_6-4",
+      "desc": "",
+      "dlg": "Buckshot ammo, Field test successful."
+    },
+    {
+      "id": "battle_special_10514_6-5",
+      "desc": "",
+      "dlg": "Incendiary ammo, Field test successful."
+    },
+    {
+      "id": "battle_special_10514_7",
+      "desc": "",
+      "dlg": "Hm, spare ammo recovered."
+    },
+    {
+      "id": "battle_s3_10414_1_2",
+      "desc": "",
+      "dlg": "Отправляйся обратно в утробу."
+    },
+    {
+      "id": "battle_special_10414_1-1",
+      "desc": "",
+      "dlg": "Шквальный огонь!"
+    },
+    {
+      "id": "battle_special_10414_1-1-01",
+      "desc": "",
+      "dlg": "Шквальный огонь."
+    },
+    {
+      "id": "battle_special_10414_1-2",
+      "desc": "",
+      "dlg": "Веерная стрельба!"
+    },
+    {
+      "id": "battle_special_10414_1-2-01",
+      "desc": "",
+      "dlg": "Веерная стрельба."
+    },
+    {
+      "id": "battle_special_10414_1-3",
+      "desc": "",
+      "dlg": "You've let your guard down."
+    },
+    {
+      "id": "battle_special_10414_1-4",
+      "desc": "",
+      "dlg": "Bang. Bang."
+    },
+    {
+      "id": "battle_special_10414_2",
+      "desc": "",
+      "dlg": "All that arises must cease (是生滅法). The longer it lasts, the less precious it becomes."
+    },
+    {
+      "id": "battle_special_10414_3",
+      "desc": "",
+      "dlg": "*свист* ...Пора стрелять."
+    },
+    {
+      "id": "battle_special_10414_4",
+      "desc": "",
+      "dlg": "Отправляйся обратно в могилу... вместе со всем, что хочет жить."
+    } 
   ]
 }
