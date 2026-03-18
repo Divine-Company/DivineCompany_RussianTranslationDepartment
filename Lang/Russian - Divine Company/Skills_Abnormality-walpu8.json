@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pounce",
-          "desc": "Prioritizes targets with the highest HP percentage\n[WhenUse] If target has 4+ [Laceration], Base Power +1",
+          "name": "Наброситься",
+          "desc": "В приоритете цели с наибольшим процентом ОЗ\n[WhenUse] +1 к Базовой Силе при наличии на цели 4+ [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -24,8 +24,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gnawing Gobble",
-          "desc": "Prioritizes targets with the highest HP percentage\n[WhenUse] If target has 4+ [Laceration], Base Power +1",
+          "name": "Грызть-поглощать",
+          "desc": "В приоритете цели с наибольшим процентом ОЗ\n[WhenUse] +1 к Базовой Силе при наличии на цели 4+ [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
@@ -37,7 +37,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -50,27 +50,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Orange-flavored Bubble Supplement",
-          "desc": "Prioritizes targets with the highest HP percentage\n[WhenUse] If target has 4+ [Laceration], Coin Power +1",
+          "name": "Пузырьковая добавка с апельсиновым вкусом",
+          "desc": "В приоритете цели с наибольшим процентом ОЗ\n[WhenUse] +1 к Силе Монет при наличии на цели 4+ [Laceration:`Кровотечения`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -83,13 +83,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Add a Note of Bubbly Flavor",
-          "desc": "[WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)",
+          "name": "Добавить нотку игристого вкуса",
+          "desc": "[WhenUse] +1 к Силе Монет за каждые 4 [Laceration:`Кровотечения`] на цели (Макс. 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Laceration], Inflict 2 [PenetrateResistDown] next turn"
+                  "desc": "[OnSucceedAttack] При наличии на цели [Laceration:`Кровотечения`] накладывает 2 [PenetrateResistDown:`Уменьшения защиты от Колющего Урона`] на следующий ход "
                 }
               ]
             },
@@ -99,7 +99,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -109,7 +109,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -122,8 +122,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Herd Migration",
-          "desc": "[OnSucceedEvade] Inflict 2 [Binding] next turn\n[EndBattle] [RunHallway] expires; then, activate [NextHallway]",
+          "name": "Стадная миграция",
+          "desc": "[OnSucceedEvade] Накладывает 2 [Binding:`Медлительности`] на следующий ход\n[EndBattle] [RunHallway] сбрасывается и используется [NextHallway]",
           "coinlist": [
             {
               "coindescs": [
@@ -141,8 +141,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chomping Gobble",
-          "desc": "Prioritizes targets with the slowest Speed\n[WhenUse] If target has 4+ [Laceration], Base Power +1\n[BeforeAttack] Base Power -1 for every Cracked Coin",
+          "name": "Грызть-глотать",
+          "desc": "В приоритете цели с наименьшей Скоростью\n[WhenUse] +1 к Базовой Силе при наличии на цели 4+ [Laceration:`Кровотечения`]\n[BeforeAttack] -1 к Базовой Силе за каждую сломанную Монету",
           "coinlist": [
             {
               "coindescs": [
@@ -150,7 +150,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`] и 3 его Счётчика"
                 }
               ]
             }
@@ -163,8 +163,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Filling a Medium-sized Orange Bubble",
-          "desc": "Prioritizes targets with the slowest Speed\n[WhenUse] If target has 4+ [Laceration], Coin Power +1\n[BeforeAttack] Base Power -1 for every Cracked Coin",
+          "name": "Наполнить оранжевый пузырь среднего размера",
+          "desc": "В приоритете цели с наименьшей Скоростью\n[WhenUse] +1 к Силе Монет при наличии на цели 4+ [Laceration:`Кровотечения`]\n[BeforeAttack] -1 к Базовой Силе за каждую сломанную Монету",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -182,10 +182,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vulnerable:`Хрупкости`] на следующий ход"
                 }
               ]
             }
@@ -198,8 +198,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "More Potent, More Plentiful",
-          "desc": "Prioritizes targets with the slowest Speed\n[WhenUse] Coin Power +1 for every 3 [Laceration] on target (max 2)\n[BeforeAttack] Base Power -1 for every Cracked Coin",
+          "name": "Ещё обильнее, ещё насыщенее",
+          "desc": "В приоритете цели с наименьшей Скоростью\n[WhenUse] +1 к Силе Монет за каждые 3 [Laceration:`Кровотечения`] на цели (Макс. 2)\n[BeforeAttack] -1 к Базовой Силе за каждую сломанную Монету",
           "coinlist": [
             {
               "coindescs": [
@@ -207,7 +207,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 4 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -217,7 +217,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -227,10 +227,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PenetrateResistDown] next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [PenetrateResistDown:`Уменьшения защиты от Колющего Урона`] на следующий ход"
                 }
               ]
             }
@@ -243,8 +243,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Feed Consumption for BongBong Procreation",
-          "desc": "Prioritizes targets with the slowest Speed\n[WhenUse] Coin Power +1 for every 3 [Laceration] on target (max 2)\n[BeforeAttack] Base Power -1 for every Cracked Coin",
+          "name": "Потребление корма для разведения БанБан",
+          "desc": "В приоритете цели с наименьшей Скоростью\n[WhenUse] +1 к Силе Монет за каждые 3 [Laceration:`Кровотечения`] на цели (Макс. 2)\n[BeforeAttack] -1 к Базовой Силе за каждую сломанную Монету",
           "coinlist": [
             {
               "coindescs": [
@@ -252,7 +252,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -262,7 +262,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -272,7 +272,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -282,7 +282,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -295,8 +295,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Herd Migration",
-          "desc": "[CanDuelGuard]\n[EndBattle] [RunHallway] expires; then, activate [NextHallway] for 'self' and 'The Perfect Food summoned by self'",
+          "name": "Стадная миграция",
+          "desc": "[CanDuelGuard]\n[EndBattle] [RunHallway] сбрасывается и используется [NextHallway] для «Себя» и «БанБан, призванных этим персонажем»",
           "coinlist": [
             {
               "coindescs": [

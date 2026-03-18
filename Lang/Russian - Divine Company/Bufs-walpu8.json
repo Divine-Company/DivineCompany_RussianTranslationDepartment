@@ -32,20 +32,20 @@
     },
     {
       "id": "RunHallway",
-      "name": "Preparing Herd Migration",
-      "desc": "- Max Stack: 3\n- Combat Start: Lose 1 Stack\n- At 0 Stack, use 'Herd Migration' at Turn Start",
+      "name": "Подготовка к стадной миграции",
+      "desc": "Макс. значение: 3\nВ начале Схваток теряет 1 Значение\nПри нулевом Значении в начале хода использует «Стадная миграция»",
       "summary": ""
     },
     {
       "id": "NextHallway",
-      "name": "Herd Relocation",
-      "desc": "- Turn End: recover from Stagger and escape from the Encounter\n(excluding forced Stagger; does not count as death)\n- In Chain Battles, give this unit's Slots to a Substituted unit and move to the rearmost place in the Backup units' Deployment order",
+      "name": "Стадный перегон",
+      "desc": "В конце хода восстанавливается от Оглушения и Отступает с поля боя (Исключая принудительное Оглушение. Не считается смертью).\nВ Цепных Битвах, передаёт слоты навыков Вступившему персонажу и встаёт в конец цепочки Резерва.",
       "summary": ""
     },
     {
       "id": "PumpkinJelly",
-      "name": "BongBong Orange",
-      "desc": "- Max Stack: 1\nTurn Start: At less than 60% HP, heal 30% HP and lose this effect",
+      "name": "Оранжевый БанБан",
+      "desc": "Макс. значение: 1\nПри наличии менее 60% ОЗ в начале хода восстанавливает 30% ОЗ и сбрасывается",
       "summary": ""
     },
     {
