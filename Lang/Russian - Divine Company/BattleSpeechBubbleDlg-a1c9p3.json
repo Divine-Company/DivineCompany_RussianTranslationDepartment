@@ -1389,6 +1389,116 @@
       "id": "9SV-BAT99-03",
       "desc": "9장 종료 이후 에고 대사",
       "dlg": "OSHARE\n(Overcome the Searing Hellfire for Araya, to Reality's Extinction)"
+    },
+    {
+      "id": "7SV-BV-010",
+      "desc": "산초, 스테이지 시작시",
+      "dlg": "... Blood..."
+    },
+    {
+      "id": "7SV-BV-011",
+      "desc": "산초, 2턴 시작 시",
+      "dlg": "... I must consume blood..."
+    },
+    {
+      "id": "7SV-BV-012",
+      "desc": "산초, 수감자 사망시",
+      "dlg": "I need... more..."
+    },
+    {
+      "id": "7SV-BV-014-1_4",
+      "desc": "산초, 4스킬",
+      "dlg": "Annihilation."
+    },
+    {
+      "id": "7SV-BV-014-1_4-01",
+      "desc": "산초, 4스킬",
+      "dlg": "Annihilation."
+    },
+    {
+      "id": "7SV-BV-014-1_5",
+      "desc": "산초, 4스킬",
+      "dlg": "It's up to me."
+    },
+    {
+      "id": "7SV-BV-014-1_5-01",
+      "desc": "산초, 4스킬",
+      "dlg": "It's up to me."
+    },
+    {
+      "id": "7SV-BV-016",
+      "desc": "산초, 6스킬",
+      "dlg": "... It shall cascade."
+    },
+    {
+      "id": "7SV-BV-017",
+      "desc": "산초, 7스킬",
+      "dlg": "Yes... For you who lie in death's embrace..."
+    },
+    {
+      "id": "7SV-BV-018-1_3",
+      "desc": "산초, 8스킬",
+      "dlg": "Be Impaled."
+    },
+    {
+      "id": "7SV-BV-018-1_3-01",
+      "desc": "산초, 8스킬",
+      "dlg": "Be Impaled."
+    },
+    {
+      "id": "7SV-BV-018-1_3-02",
+      "desc": "산초, 8스킬",
+      "dlg": "Be Impaled."
+    },
+    {
+      "id": "7SV-BV-020-1_3",
+      "desc": "산초, 10스킬",
+      "dlg": "... The thirst..."
+    },
+    {
+      "id": "7SV-BV-021_1",
+      "desc": "산초, 11스킬",
+      "dlg": "All the blood in the world...!"
+    },
+    {
+      "id": "7SV-BV-021_2",
+      "desc": "산초, 11스킬",
+      "dlg": "That the Family deserved...!"
+    },
+    {
+      "id": "7SV-BV-005",
+      "desc": "뒤틀린 호엔하임, 수감자를 파악 중이라는 느낌의 대사. 타이밍은 준비 패턴 때, 턴 시작 시 대사",
+      "dlg": "It would be for the best if I identified your behavioral patterns now."
+    },
+    {
+      "id": "7SV-BV-006",
+      "desc": "뒤틀린 호엔하임, 수감자를 파악 완료했다는 느낌의 대사. 타이밍은 강력한 스킬 패턴 때, 턴 시작 시 대사",
+      "dlg": "I have gathered enough data."
+    },
+    {
+      "id": "7SV-BV-007",
+      "desc": "뒤틀린 호엔하임, 직전 선택지 효과로 적응 패시브가 부적응으로 변경되었을 때, 턴 시작 시 대사",
+      "dlg": "... You still refuse to accept my explanation? Well, it matters not to me. It wasn't said for the sake of your understanding anyway. Or your acceptance, for that matter."
+    },
+    {
+      "id": "7SV-BV-008",
+      "desc": "뒤틀린 호엔하임, 직전 선택지 효과로 방어기제 패시브가 엉성한 방어기제로 변경되었을 때, 턴 시작 시 대사",
+      "dlg": "Well, there is nowhere to flee. The fathoms we find ourselves in—it is entirely \"me,\" after all."
+    },
+    {
+      "id": "7SV-BV-009",
+      "desc": "뒤틀린 호엔하임, 직전 선택지 효과로 확증편향 패시브가 자기 의심으로 변경되었을 때, 턴 시작 시 대사",
+      "dlg": "The dead do not speak. And it falls to the living to fill the lingering silence."
+    },
+    {
+      "id": "7SV-BV-001-1",
+      "desc": "검열된 직원들, 사망 시 랜덤",
+      "dlg": "You… left us… behind…"
+    },
+    {
+      "id": "7SV-BV-001-2",
+      "desc": "검열된 직원들, 사망 시 랜덤",
+      "dlg": "We've g...t to get ou... of here..."
     }
   ]
 }

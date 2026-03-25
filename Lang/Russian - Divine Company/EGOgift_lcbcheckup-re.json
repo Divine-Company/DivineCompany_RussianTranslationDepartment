@@ -1,0 +1,106 @@
+{
+  "dataList": [
+    {
+      "id": 9243,
+      "name": "Trial Extraction : A.B.S",
+      "desc": "Deal +10% damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'\n- If the Skill applies [Combustion] Count on self, Clash Power +1\n- Deal +1% damage for every 2% missing HP on self (max 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9243,
+          "simpleDesc": "Attack Skills deal more damage, gain Clash Power when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9244,
+      "name": "Trial Extraction : Lantern",
+      "desc": "Deal +10% damage with Attack Skills that inflict [Burst] Potency or Count\n- At 20%+ missing HP on self, Clash Power +1\n- Deal +1% damage with Attack Skills for every 1 (sum of [Aggro] on all Skill Slots on self) (max 15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9244,
+          "simpleDesc": "Attack Skills deal more damage, gain Clash Power when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9245,
+      "name": "Modified Extraction : AEDD",
+      "desc": "If this unit gained [Charge] Count or 'Unique Charge' over maximum limit this turn, gain 1 [AttackUp] next turn for every 2 surplus Stack (2 per turn per Identity)\n- Identities with Base Skills that gain or consume [Charge] Count or 'Unique Charge': max 6 per turn per Identity instead\n- If this unit has [HighVoltageExoshell], also gain 1 [Charge] Potency (once per Encounter)",
+      "simpleDesc": [
+        {
+          "abilityID": 9245,
+          "simpleDesc": "Gain [AttackUp] based on surplus [Charge] Count, gain [Charge] when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9246,
+      "name": "Someone's Dropped Employee Card",
+      "desc": "Limbus Company Identities:\n- Turn Start: Gain (# of Limbus Company Identities participating in battle / 3) [ParryingResultUp] (max 2; rounded down)\n\nLCE Identities:\n- Deal +(# of Identities in battle wearing E.G.O Gears x 10)% damage (max 30%)\n- On same-faction Ally Death: Gain 1 E.G.O resource each for all Affinities; gain 1 [PlusCoinValueUp] and 1 [MinusCoinValueUp] at Turn Start for the rest of this Encounter (2 times per Encounter per Identity)",
+      "simpleDesc": [
+        {
+          "abilityID": 9246,
+          "simpleDesc": "Gain [ParryingResultUp] based on the number of Limbus Company Identities participating in battle"
+        },
+        {
+          "abilityID": 92461,
+          "simpleDesc": "Deal more damage based on the number of Identities wearing E.G.O Gears participating in battle"
+        },
+        {
+          "abilityID": 92462,
+          "simpleDesc": "On same-faction Ally Death: Gain E.G.O resources; gain [PlusCoinValueUp] and [MinusCoinValueUp] at Turn Start for this Encounter, starting from the next turn"
+        }
+      ]
+    },
+    {
+      "id": 9248,
+      "name": "Spicebush, Glasses, and Mailed Letter",
+      "desc": "[Effects apply only to #1, #2, #3 Deployed Identities]\n\nWhen winning a Clash with an Attack Skill that inflicts [Burst] Potency or Count, inflict 5 [Burst] Potency and +3 [Burst] Count against the target (once per turn per Identity)\n\nWhen Clashing against an enemy with a slower Speed, gain Final Power +1 and deal +25% damage\n\nWhen winning a Clash against an enemy with [AttackUp] buff, gain 3 [AttackUp] for the next turn, and inflict 3 [AttackDown] on the enemy that lost the Clash (3 times per turn per Identity)\n\nEvery time Skill 1, Skill 2, or Skill 3 is used, activate the following effect (once per Skill rank):\n- The unit that used said Skill gains 1 [Agility] and 1 [SkillPowerUp] at Turn Start for this Encounter (can stack up to 3 times)",
+      "simpleDesc": [
+        {
+          "abilityID": 9248,
+          "simpleDesc": "On Clash Win: Inflict [Burst] on target"
+        },
+        {
+          "abilityID": 92481,
+          "simpleDesc": "When Clashing against an enemy with a slower Speed, gain Final Power and deal more damage"
+        },
+        {
+          "abilityID": 92482,
+          "simpleDesc": "Gain [AttackUp] on self and inflict [AttackDown] on the enemy when conditions are met"
+        },
+        {
+          "abilityID": 92483,
+          "simpleDesc": "Gain [Agility] and [SkillPowerUp] at Turn Start when conditions are met"
+        }
+      ]
+    },
+    {
+      "id": 9249,
+      "name": "A Small, Lovely Violin",
+      "desc": "[Effects apply only to #5, #6 Deployed Identities]\n\nHeal 10% of the HP damage dealt with a Skill (max 20 per Skill)\n\nOn Clash Win: Gain 1 [AttackUp] and 1 [TakeHpHealIncrease] (2 times per turn per Identity)\n\nOn Skill Use: Gain 1 [AttackUp] and 1 [TakeHpHealIncrease] (2 times per turn per Identity)\n\nDeal +10% damage with Blunt Skills\n\nDeal +(# of Clashes x 6)% damage with the Skill that won the Clash (max 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9249,
+          "simpleDesc": "Heal HP on self based on damage dealt with a Skill"
+        },
+        {
+          "abilityID": 92491,
+          "simpleDesc": "Gain [AttackUp] and [TakeHpHealIncrease] on Clash Win"
+        },
+        {
+          "abilityID": 92492,
+          "simpleDesc": "Gain [AttackUp] and [TakeHpHealIncrease] on Skill Use"
+        },
+        {
+          "abilityID": 92493,
+          "simpleDesc": "Deal more damage with Blunt Skills"
+        },
+        {
+          "abilityID": 92494,
+          "simpleDesc": "Deal more damage with Skills that won the Clash"
+        }
+      ]
+    }
+  ]
+}

@@ -544,6 +544,11 @@
       "id": 2100911,
       "name": "That... was Indeed a Rhythm",
       "desc": "Turn Start: Gain 2 [ThatIsRhythm]\n\nOn Target Kill: This unit heals 5% HP and 5 SP (once per turn)\n- If target was killed by E.G.O Skill - Harmony, double the amount this effect heals\n\nTurn End: If this unit lost SP this turn, heal (4 + sum of [Combustion] and [Laceration] on all enemies / 10) SP (max 10; rounded down)"
+    },
+    {
+      "id": 2021011,
+      "name": "Unsnuffed Embers",
+      "desc": "This effect triggers immediately after using E.G.O Skill\n\nFor every 10 [Combustion] on self, increase [Combustion] Potency inflicted on enemies with this unit's Base Attack Skill effects and Coin effects by 1 (max 2, excluding 'Unique Burn')\n\nWhen this unit uses 'A.B.S Max Attunement 【Degraded Corrosion】'  Skill, this unit does not die at the Skill's Attack End; instead, heal 40% HP and gain 2 [HitDamageUp] and 1 [CrimsonDamageUp] next turn (once per Encounter)"
     }
   ]
 }

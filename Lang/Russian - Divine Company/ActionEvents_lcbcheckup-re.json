@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": 971100,
+      "name": "Ardor Blossom Moth Containment Breach",
+      "desc": "Perhaps the containment unit's security management has grown lax.\nThe Ardor Blossom Moth drifts languidly along the corridor, trailing a cluster of bright-red embers and flames in its wake.\n\nBefore long, the facility's announcement system erupts with warnings of a containment breach. Researchers come rushing down the hallway, scrambling to respond.\n\nShould we step in and help the researchers suppress the Abnormality, or leave it to them and be on our way?",
+      "options": [
+        {
+          "message": "Step in and help with the suppression.",
+          "messageDesc": "Wrath Advantage check. Pass to gain a Burn E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave the suppression to the researchers.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "They're armed to the teeth with E.G.O gears. Suppressing the Abnormality shouldn't pose much of a threat to them.\n\nLet's pick up the pace and be on our way."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971101,
+      "name": "Faelantern Containment Breach",
+      "desc": "A fluorescent, glowing hue of teal is dancing and rippling somewhere down the hallway.\n\nAn inexplicable impulse to walk toward the light takes hold of us.\n\nYet, seeing the researchers rush toward it as though drawn by an irresistible lure, it becomes clear that this is the doing of an Abnormality.\n\nShould we force the researchers back and help suppress the Abnormality, or should we steer clear of whatever trap may lie ahead and move on?",
+      "options": [
+        {
+          "message": "Step in and help with the suppression.",
+          "messageDesc": "Gluttony Advantage check. Pass to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Avoid the trap.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "An Abnormality that lures its prey in with light... that can only mean the Faelantern.\n\nWe'd be taking a dangerous gamble ourselves if we attempted to confront it without a clear sense of where it's lurking.\n\nBest pass this place by and keep our fighting strength intact.\n\n... Let's hurry along and keep moving."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971102,
+      "name": "Shock Centipede",
+      "desc": "We can see the Shock Centipede beyond the glass of the containment unit.\n\n\"Ah, we're in the middle of studying how the Shock Centipede becomes effectively 'immortal' for a short while right before suppression.\"\n\n\"You see, our team's research paper focuses on discovering potential energy sources that allow for highly efficient charging gears.\"\n\n\"I trust you're all aware of the name of the E.G.O Gift extracted from this Abnormality?\"\n\n... What was it again?",
+      "options": [
+        {
+          "message": "Uncapped Defibrilator",
+          "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+          "result": [
+            "\"Correct! On top of safely containing temporary overcharges, there's barely any loss in the output as well! It is indeed a most remarkable phenomenon...\"\n\nThe researcher chattered away happily before pulling something out from the cabinet behind.\n\n\"We recently implemented a new mechanism for calibrating Extractions—it produced quite an unusual form of E.G.O Gift.\"\n\n\"Maybe you'd be willing to try it out? Oh, we'd also appreciate any feedback on its performance...\""
+          ]
+        },
+        {
+          "message": "Nonstandard-duty Battery",
+          "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+          "result": [
+            "\".......\"\n\n\"Thought you'd remember it. I mean, you've been making use of it quite often...\"\n\n\"You probably need more observation sessions.\"\n\nWith a drawn-out, disappointed sigh, the researcher walked away from us."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971103,
+      "name": "Post-choice Development",
+      "desc": "\"Let's see what it says... 'Entry Forbidden'...?\"\n\nWe'd just passed the wall inscribed with messy, frantic letters when another door came into view.\n\nThe door was riddled with dents, as though something massive had repeatedly slammed into it with brutal force.\n\n\"At this point... think we could just force it open?\"\n\n\"Nay, the current yet courses through it. It would be more prudent to open it by the rightful means and keep from inviting the consequences of crude handling.\"\n\nA card reader panel is attached beside the battered door.\n\nWhat should we do?",
+      "options": [
+        {
+          "message": "Open the door with the Operation Authorization Card.\n<size=75%><color=#a16a3b>Choice unlocked with the E.G.O Gift \"Operation Authorization Card\"</color></size>",
+          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "result": [
+            "The metallic screech of forcing the mangled door open grated on our ears, but eventually, the effort paid off.\n\nWhat greeted us was the sight of a room caked in blood, littered with bits and traces of a desperate struggle.\n\n\"... This seems to be an employee ID card.\"\n\nI took a closer look at the small plastic card the Sinner had picked up.\n\nThe blood had dried over the card in such thick layers that I couldn't make out the face and the name written on it.\n\n... Perhaps it'd be best to hold onto it for now."
+          ]
+        },
+        {
+          "message": "Force the door open.",
+          "messageDesc": "Wrath & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Walk away.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There are signs of someone—or <i>something</i>—forcing their way into the place that explicitly warned \"Entry Forbidden.\"\n\nThe gap is far too small for a person to crawl through, but a small dog or a bird could have easily slipped in.\n\nAnd if whatever went in through that gap is an Abnormality...\n\nThen what awaits within is likely not a sight we'd wish to see or even picture in our minds.\n\nMoving on should be the safest choice for now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10711,
+      "name": "Ardor Blossom Moth Containment Breach",
+      "desc": "Perhaps the containment unit's security management has grown lax.\nThe Ardor Blossom Moth drifts languidly along the corridor, trailing a cluster of bright-red embers and flames in its wake.\n\nBefore long, the facility's announcement system erupts with warnings of a containment breach. Researchers come rushing down the hallway, scrambling to respond.\n\nShould we step in and help the researchers suppress the Abnormality, or leave it to them and be on our way?",
+      "options": [
+        {
+          "message": "Step in and help with the suppression.",
+          "messageDesc": "Wrath Advantage check. Pass to gain a Burn E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Leave the suppression to the researchers.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "They're armed to the teeth with E.G.O gears. Suppressing the Abnormality shouldn't pose much of a threat to them.\n\nLet's pick up the pace and be on our way."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10712,
+      "name": "Faelantern Containment Breach",
+      "desc": "A fluorescent, glowing hue of teal is dancing and rippling somewhere down the hallway.\n\nAn inexplicable impulse to walk toward the light takes hold of us.\n\nYet, seeing the researchers rush toward it as though drawn by an irresistible lure, it becomes clear that this is the doing of an Abnormality.\n\nShould we force the researchers back and help suppress the Abnormality, or should we steer clear of whatever trap may lie ahead and move on?",
+      "options": [
+        {
+          "message": "Step in and help with the suppression.",
+          "messageDesc": "Gluttony Advantage check. Pass to gain a Rupture E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Avoid the trap.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "An Abnormality that lures its prey in with light... that can only mean the Faelantern.\n\nWe'd be taking a dangerous gamble ourselves if we attempted to confront it without a clear sense of where it's lurking.\n\nBest pass this place by and keep our fighting strength intact.\n\n... Let's hurry along and keep moving."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10713,
+      "name": "Shock Centipede",
+      "desc": "We can see the Shock Centipede beyond the glass of the containment unit.\n\n\"Ah, we're in the middle of studying how the Shock Centipede becomes effectively 'immortal' for a short while right before suppression.\"\n\n\"You see, our team's research paper focuses on discovering potential energy sources that allow for highly efficient charging gears.\"\n\n\"I trust you're all aware of the name of the E.G.O Gift extracted from this Abnormality?\"\n\n... What was it again?",
+      "options": [
+        {
+          "message": "Uncapped Defibrilator",
+          "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+          "result": [
+            "\"Correct! On top of safely containing temporary overcharges, there's barely any loss in the output as well! It is indeed a most remarkable phenomenon...\"\n\nThe researcher chattered away happily before pulling something out from the cabinet behind.\n\n\"We recently implemented a new mechanism for calibrating Extractions—it produced quite an unusual form of E.G.O Gift.\"\n\n\"Maybe you'd be willing to try it out? Oh, we'd also appreciate any feedback on its performance...\""
+          ]
+        },
+        {
+          "message": "Nonstandard-duty Battery",
+          "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+          "result": [
+            "\".......\"\n\n\"Thought you'd remember it. I mean, you've been making use of it quite often...\"\n\n\"You probably need more observation sessions.\"\n\nWith a drawn-out, disappointed sigh, the researcher walked away from us."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10714,
+      "name": "Post-choice Development",
+      "desc": "\"Let's see what it says... 'Entry Forbidden'...?\"\n\nWe'd just passed the wall inscribed with messy, frantic letters when another door came into view.\n\nThe door was riddled with dents, as though something massive had repeatedly slammed into it with brutal force.\n\n\"At this point... think we could just force it open?\"\n\n\"Nay, the current yet courses through it. It would be more prudent to open it by the rightful means and keep from inviting the consequences of crude handling.\"\n\nA card reader panel is attached beside the battered door.\n\nWhat should we do?",
+      "options": [
+        {
+          "message": "Open the door with the Operation Authorization Card.\n<size=75%><color=#a16a3b>Choice unlocked with the E.G.O Gift \"Operation Authorization Card\"</color></size>",
+          "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+          "result": [
+            "The metallic screech of forcing the mangled door open grated on our ears, but eventually, the effort paid off.\n\nWhat greeted us was the sight of a room caked in blood, littered with bits and traces of a desperate struggle.\n\n\"... This seems to be an employee ID card.\"\n\nI took a closer look at the small plastic card the Sinner had picked up.\n\nThe blood had dried over the card in such thick layers that I couldn't make out the face and the name written on it.\n\n... Perhaps it'd be best to hold onto it for now."
+          ]
+        },
+        {
+          "message": "Force the door open.",
+          "messageDesc": "Wrath & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Walk away.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There are signs of someone—or <i>something</i>—forcing their way into the place that explicitly warned \"Entry Forbidden.\"\n\nThe gap is far too small for a person to crawl through, but a small dog or a bird could have easily slipped in.\n\nAnd if whatever went in through that gap is an Abnormality...\n\nThen what awaits within is likely not a sight we'd wish to see or even picture in our minds.\n\nMoving on should be the safest choice for now."
+          ]
+        }
+      ]
+    }
+  ]
+}

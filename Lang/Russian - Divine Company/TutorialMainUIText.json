@@ -4455,6 +4455,86 @@
     {
       "id": "tutorial_mainui_01_selection_page_19_desc_01",
       "content": "You can also set Façade-wearing Identities as your Support Identities in the \"Company\" menu."
+    },
+    {
+      "id": "TutoEvent7512_Title",
+      "content": "LCB Regular Check-up BokGak"
+    },
+    {
+      "id": "TutoEvent7512_P1_T1",
+      "content": "Accessing the Event"
+    },
+    {
+      "id": "TutoEvent7512_P1_D1",
+      "content": "Select the Event banner from either the Window or the Drive menu to enter the [LCB Regular Check-up BokGak Event] menu."
+    },
+    {
+      "id": "TutoEvent7512_P2_T1",
+      "content": "Event Period"
+    },
+    {
+      "id": "TutoEvent7512_P2_D1",
+      "content": "The duration of the LCB Regular Check-up BokGak event is shown here.\n\n\nDuring the event, you can earn [Amassed Data] by clearing Event Stages. You can also earn [Amassed Data] by clearing the Mirror Dungeons or clearing Main Story Stages for the first time.\n\n※ However, [Amassed Data] cannot be obtained in Luxcavations and Refraction Railways."
+    },
+    {
+      "id": "TutoEvent7512_P3_T1",
+      "content": "Event Encounters"
+    },
+    {
+      "id": "TutoEvent7512_P3_D1",
+      "content": "LCB Regular Check-up BokGak consists of 12 stages, including story stages, and a single dungeon. Event Encounters also offer batches of [Amassed Data] as a first-time Clear bonus."
+    },
+    {
+      "id": "TutoEvent7512_P4_T1",
+      "content": "Event Bonus Units"
+    },
+    {
+      "id": "TutoEvent7512_P4_D1",
+      "content": "Having Identities and E.G.O from the LCB Regular Check-up BokGak event on your team increases the amount of [Amassed Data] earned from Stages and Mirror Dungeons."
+    },
+    {
+      "id": "TutoEvent7512_P5_T1",
+      "content": "Reward Exchange"
+    },
+    {
+      "id": "TutoEvent7512_P5_D1",
+      "content": "You can redeem various rewards from the [Reward Exchange] based on the number of [Amassed Data] you have."
+    },
+    {
+      "id": "TutoEvent7512_P6_D1",
+      "content": "The [Reward Exchange]'s open duration is shown here."
+    },
+    {
+      "id": "TutoEvent7512_P6_D2",
+      "content": "You can acquire the event reward Identity, Announcer, Ticket Deco, Banners, and various currencies from the [Reward Exchange] menu."
+    },
+    {
+      "id": "TutoEvent7512_P7_T1",
+      "content": "Classified Data"
+    },
+    {
+      "id": "TutoEvent7512_P7_D1",
+      "content": "Rarely, you may obtain [Classified Data] from clearing Encounters. [Classified Data] is automatically converted to 20 [Amassed Data] upon acquisition."
+    },
+    {
+      "id": "TutoEvent7512_P8_T1",
+      "content": "Hard Difficulty"
+    },
+    {
+      "id": "TutoEvent7512_P8_D1",
+      "content": "LCB Regular Check-up Hard Difficulty will be unlocked during the Event period. The Hard Difficulty is unlocked upon clearing the Main Story Stage 8-33."
+    },
+    {
+      "id": "TutoEvent7512_P8_D2",
+      "content": "Hard Difficulty rewards more Event currencies than the Normal Difficulty does."
+    },
+    {
+      "id": "TutoEvent7512_P8_D3",
+      "content": "You can earn first-time clear rewards, EX Clear rewards, and Chapter Progress rewards from clearing the Hard Difficulty Stages as well."
+    },
+    {
+      "id": "TutoEvent7512_P9_D1",
+      "content": "Even after the event fully ends, you will be able to experience the LCB Regular Check-up combat Encounters and view its story at any time at the Driverside - [Deviazione] and Theater - [Detour Tales]."
     }
   ]
 }
