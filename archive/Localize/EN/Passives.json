@@ -2809,6 +2809,36 @@
       "name": "Spring's Genesis",
       "desc": "When the ally with the fastest Speed hits an enemy with a Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking', inflict 2 [Vibration] and trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (once per turn)",
       "summary": "Inflict [Vibration], trigger [VibrationExplosion]"
+    },
+    {
+      "id": 1121502,
+      "name": "Undying Persistence",
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAny [ChargeForceField] this unit gains is converted to [HighVoltageExoshell]\n\nAt 3+ [Charge] on self, Min & Max Speed +1\n\nIn this Encounter, when this unit takes damage that brings its HP down to 0, gain [SelfChargeAlly] equal to (5 + [Charge] on self x 3) (max 20, once per Encounter)"
+    },
+    {
+      "id": 1121503,
+      "name": "Alternating Discharge Support",
+      "desc": "Turn Start: If there are 3+ allies wearing E.G.O Gear including this unit, all relevant allies gain 1 [AttackUp]\n\nIf this unit has 12 or less [Charge] Count when consuming [Charge] Count due to AEDD Gregor's E.G.O Passive effect:\nOn Heads Hit, instead of consuming 2 [Charge] Count, this unit consumes 4 Shield or HP to activate the E.G.O Passive effect\n- This effect triggers only when this unit is at 25%+ HP"
+    },
+    {
+      "id": 1121501,
+      "name": "Take the Lead. I'll Provide You Support.",
+      "desc": "Combat Start: Gain +5 [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 and apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally (min 1, rounded down)\n- This effect prioritizes the ally with the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt 3+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom and Envy - 2) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
+    },
+    {
+      "id": 1121511,
+      "name": "Take the Lead. I'll Provide You Support.",
+      "desc": "Combat Start: Gain +<style=\"highlight\">10</style> [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 and apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally <style=\"highlight\">(rounded up)</style>\n- This effect prioritizes the ally with the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt <style=\"highlight\">2</style>+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom and Envy - <style=\"highlight\">1</style>) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
+    },
+    {
+      "id": 1121521,
+      "name": "Defibrillation",
+      "desc": "Turn End: 2 allies with the earliest Deployment order each heal HP equal to (the sum of [Charge] Count and 'Unique Charge' consumed by each of their own Attack Skills this turn, respectively) (max 10)"
+    },
+    {
+      "id": 1121531,
+      "name": "Defibrillation",
+      "desc": "Turn End: <style=\"highlight\">3</style> allies with the earliest Deployment order each heal HP equal to (the sum of [Charge] Count and 'Unique Charge' consumed by each of their own Attack Skills this turn, respectively) (max 10)"
     }
   ]
 }

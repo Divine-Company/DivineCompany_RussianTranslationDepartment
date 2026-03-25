@@ -437,11 +437,13 @@
     },
     {
       "id": 89,
+      "place": -1,
       "model": "뒤틀린호엔하임",
-      "content": "… I needn’t expose every little detail of it."
+      "content": "<color=#ffffa1>… I needn’t expose every little detail of it.</color>"
     },
     {
       "id": 90,
+      "place": "Lobotomy Corp. Branch, Past?",
       "model": "뒤틀린호엔하임",
       "content": "<color=#ffffa1>It’s… all in the past now anyway, isn’t it?</color>"
     }

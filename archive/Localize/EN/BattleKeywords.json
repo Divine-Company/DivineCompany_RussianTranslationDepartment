@@ -2858,6 +2858,34 @@
       "desc": "- Take +10% damage from Gloom Skills\n- Change Panic Type to 'Solitude'\n\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "SelfChargeAlly",
+      "name": "Self-charge",
+      "desc": "- Final Power +2\n- Gain Charge Count equal to Stack lost\n- Lose Stack at:\n· Attack End of Skills that hit this unit (lose 1 Stack)\n· Attack End (lose 3 Stack)\n· Turn End (lose 5 Stack)\n- Max Stack: 20\n- This unit's HP cannot drop below 1 before this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HighVoltageExoshell",
+      "name": "High-voltage Exoskeleton",
+      "desc": "- Gain (Stack x 5) Shield\n- If this unit loses (Stack x 5) Shield, lose 1 Stack\n- Turn End: Gain Charge Count equal to Stack; both High-voltage Exoskeleton and Shield gained from its effect expire\n- Max Stack: 20",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargedSting",
+      "name": "Charged Sting",
+      "desc": "- For every Stack, take +4% damage from Skills that gain or consume Charge Count (including 'Unique Charge') (max 20%)\n· For Envy Skills, strengthen this effect and take +8% damage for every Stack instead (max 40%)\n- Max Stack: 5\n- Lose 1 Stack at Attack End or Turn End after being hit by Skills that fulfill the effect-triggering conditions above (excluding Base Attack Skills that inflict Charged Sting)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaustFlameMothEmber",
+      "name": "Embers",
+      "desc": "- Max Potency: 3\n- Max Count: 6\n- If this unit has Burn, lose 1 Embers Count when hit by a Skill that inflicts Burn Potency, Count, or 'Unique Burn' (including E.G.O Skills)\n\n- If this unit does not have Burn, reset Embers Count to 6 when hit (independent of Skills that inflict Burn)\n\n- At 0 Embers Count, activate the following effects:\n· Activate Burn on self once and lose 1 Burn Count\n· Lose 1 Embers Potency\n· If this unit has 1+ remaining Embers Potency, reset Embers Count to 6",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }

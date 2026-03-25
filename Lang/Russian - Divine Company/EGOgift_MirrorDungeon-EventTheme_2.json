@@ -525,7 +525,7 @@
     {
       "id": 9776,
       "name": "Embers",
-      "desc": "Turn Start: all enemies(for Abnormalities, all Parts) with 2~7 [Combustion] Count gain 1~2 [Combustion] Count.\n\nWhen enemies take 5 hits from ally Attack Skills(including E.G.O Skills) that inflict [Combustion] Potency, Count, or 'Unique Burn': trigger [Combustion] once, then reduce [Combustion] Count by 1 (2 times per turn per enemy; for Abnormalities, for each Part)",
+      "desc": "Turn Start: All enemies (for Abnormalities, all Parts) gain +1~2 [Combustion] Count\n\nWhen enemies take 5 hits from ally Attack Skills(including E.G.O Skills) that inflict [Combustion] Potency, Count, or 'Unique Burn': Trigger [Combustion] once, then reduce [Combustion] Count by 1 (2 times per turn per enemy; for Abnormalities, for each Part)",
       "simpleDesc": [
         {
           "abilityID": 9776,
@@ -534,10 +534,6 @@
         {
           "abilityID": 97761,
           "simpleDesc": "Activate [Combustion]"
-        },
-        {
-          "abilityID": 97762,
-          "simpleDesc": ""
         }
       ]
     },

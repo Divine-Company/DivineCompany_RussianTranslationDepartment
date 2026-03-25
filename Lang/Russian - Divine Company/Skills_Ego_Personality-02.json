@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (max 10)"
                 }
               ]
             }
@@ -30,7 +30,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (max 10)"
                 }
               ]
             }
@@ -48,7 +48,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (max 10)"
                 }
               ]
             }
@@ -71,7 +71,7 @@
                   "desc": "[OnSucceedAttackTail] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (max 10)"
                 }
               ]
             }
@@ -92,7 +92,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (max 10)"
                 }
               ]
             }
@@ -113,7 +113,7 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (Max 10)"
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 [DefenseDown] (max 10)"
                 }
               ]
             }

@@ -486,7 +486,7 @@
                   "desc": "[WinDuelAttack] Inflict +3 [Vibration] Count"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]. When [VibrationExplosion] is triggered on the target, reduce target's [Vibration] Count by 1"
                 }
               ]
             }
@@ -500,7 +500,7 @@
         {
           "level": 1,
           "name": "Conduct Analysis",
-          "desc": "[WhenUse] At 10+ [Breath] Potency, consume [Breath] Potency to gain +2 Final Power for every 3 [Breath] Potency consumed (max 4)",
+          "desc": "[WhenUse] At 10+ [Breath] Potency, consume [Breath] Potency to gain +2 Final Power for every 3 [Breath] Potency consumed (max 4). Consume 3 additional [Breath] for every Final Power gained due to this effect",
           "coinlist": [
             {
               "coindescs": [
@@ -508,13 +508,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] If target has 5+ [Vibration] Count, trigger [VibrationExplosion]. When [VibrationExplosion] is triggered on the target, reduce target's [Vibration] Count by 1"
                 },
                 {
                   "desc": "[WinDuelAttack] Inflict 5 [Vibration] Potency and +3 [Vibration] Count"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] twice; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] twice. When [VibrationExplosion] is triggered on the target, reduce target's [Vibration] Count by 1 (nullify 1 instance of [Vibration] Count reduction if this unit won the Clash)"
                 }
               ]
             }
@@ -542,7 +542,7 @@
                   "desc": "If user took HP damage last turn, does not Crit; instead, deal -80% damage"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] thrice; then, reduce target's [Vibration] Count by 3"
+                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion] thrice. When [VibrationExplosion] is triggered on the target, reduce target's [Vibration] Count by 3 (max 9 [Vibration] Count reduction)"
                 }
               ]
             }

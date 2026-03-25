@@ -88,7 +88,7 @@
     {
       "id": 9212,
       "name": "The End of all Evil",
-      "desc": "Activates when there are 3 or more The Pequod-faction Identities (counting Backup units)\n\nOn Hit with an Attack Skill against enemies with [Laceration]: 50% chance to gain 3 [Breath] or +2 [Breath] Count (3 times per turn for each character)\n\nOn Crit: 80% chance to not consume [Breath] Count (once per turn for each character; including E.G.O Skills and Counter Skills)\nOn Crit Heads Hit with a Base Skill: Inflict +1 more of the negative effect with that Coin (once per turn for each character; including Counter Skills and excluding E.G.O Skills)\n\nIf #1 Deployed Identity kills an enemy, The Pequod-faction Identities gain 1 [PenetrateResultUp], 1 [Protection], and 1 [CriticalDamageUp] each turn for the rest of this Encounter (max 3 times per Encounter)\n\nIf one of The Pequod-faction Identities attacks and hits an enemy, heal 7 SP for The Pequod-faction Identity with the earliest Deployment order (once per Skill)\nWhen an ally kills an enemy, heal 15 SP for The Pequod-faction Identity with the earliest Deployment order if said Identity lost SP",
+      "desc": "Activates when there are 3 or more The Pequod-faction Identities (counting Backup units)\n\nOn Hit with an Attack Skill against enemies with [Laceration] or 'Unique Bleed': Gain 3 [Breath] or +2 [Breath] Count (3 times per turn per Identity)\n\nOn Crit: 80% chance to gain 1 [PenetrateResultUp] next turn (2 times per turn per Identity; including E.G.O Skills and Counter Skills)\n- The Pequod-faction Identities gain 1 [PlusCoinValueUp] next turn as well (once per turn per Identity)\n\nOn Crit Heads Hit with a Base Skill: Inflict +1 more of the negative effect with that Coin (once per turn per Identity; including Counter Skills and excluding E.G.O Skills)\n\nOn enemy or ally death, The Pequod-faction Identities gain 1 [PenetrateResultUp], 1 [Protection], and 1 [CriticalDamageUp] each turn for the rest of this Encounter (3 times per Encounter)\n\nIf one of The Pequod-faction Identities attacks and hits an enemy, heal 7 SP for The Pequod-faction Identity with the earliest Deployment order (once per Skill)\n\nWhen an ally kills an enemy, heal 15 SP for The Pequod-faction Identity with the earliest Deployment order if said Identity lost SP",
       "simpleDesc": [
         {
           "abilityID": 9212,
@@ -96,11 +96,11 @@
         },
         {
           "abilityID": 92121,
-          "simpleDesc": "On Crit: Chance to not lose Poise Count. Increase the amount of negative effect inflicted"
+          "simpleDesc": "On Crit: Chance to gain [PenetrateResultUp] next turn; gain [PlusCoinValueUp] and increase the amount of negative effect inflicted when conditions are met"
         },
         {
           "abilityID": 92122,
-          "simpleDesc": "Gain Haste, Offense Level Up, Damage Up"
+          "simpleDesc": "Gain [PenetrateResultUp], [Protection], and [CriticalDamageUp]"
         },
         {
           "abilityID": 92123,

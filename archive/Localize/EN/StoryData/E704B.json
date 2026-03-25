@@ -135,203 +135,204 @@
       "content": "Hm… how… odd. Their clothes are…"
     },
     {
+      "id": 25,
       "model": "호엔하임",
       "content": "Ah, yes. Allow me to introduce you all to Marton and Alyssa, two of the few researchers directly in my command."
     },
     {
-      "id": 25,
+      "id": 26,
       "model": "싱클레어",
       "content": "Are they wearing gear extracted from Abnormalities? But how…?"
     },
     {
-      "id": 26,
+      "id": 27,
       "model": "호엔하임",
       "content": "Happy to have someone who recognizes them."
     },
     {
-      "id": 27,
+      "id": 28,
       "model": "이스마엘",
       "content": "Are they like… gears scavenged from the former L Corp.?"
     },
     {
-      "id": 28,
+      "id": 29,
       "model": "뫼르소",
       "content": "While there are partial similarities to their gears, enough differences are present to distinguish them."
     },
     {
-      "id": 29,
+      "id": 30,
       "model": "호엔하임",
       "content": "Indeed. We attempted our own brand of extractions. Successfully, I might add."
     },
     {
-      "id": 30,
+      "id": 31,
       "model": "파우스트",
       "content": "While the news of the production of E.G.O Gear in Limbus Company’s style was already received, this is the very first time they are observed in person."
     },
     {
-      "id": 31,
+      "id": 32,
       "model": "이스마엘",
       "content": "So… you must have Abnormalities contained in this facility."
     },
     {
-      "id": 32,
+      "id": 33,
       "model": "단테",
       "content": "<So that’s why I’ve been sensing Abnormalities in here, huh…>"
     },
     {
-      "id": 33,
+      "id": 34,
       "model": "단테",
       "content": "<But… I’m sensing Distortions and Peccatula too.>"
     },
     {
-      "id": 34,
+      "id": 35,
       "model": "파우스트",
       "content": "Indeed, as they are containment and research subjects for LCE Department as well."
     },
     {
-      "id": 35,
+      "id": 36,
       "model": "파우스트",
       "content": "Hmmm…"
     },
     {
-      "id": 36,
-      "content": "Faust closely observed the E.G.O gear Hohenheim was wearing like an exceptionally harsh judge in a fashion contest."
-    },
-    {
       "id": 37,
-      "model": "파우스트",
-      "content": "Hm…"
+      "content": "Faust closely observed the E.G.O gear Hohenheim was wearing like an exceptionally harsh judge in a fashion contest."
     },
     {
       "id": 38,
       "model": "파우스트",
-      "content": "Apart from a few imperfections in the finish, the level of E.G.O extraction visible here is quite acceptable."
+      "content": "Hm…"
     },
     {
       "id": 39,
-      "model": "호엔하임",
-      "content": "Input appreciated."
+      "model": "파우스트",
+      "content": "Apart from a few imperfections in the finish, the level of E.G.O extraction visible here is quite acceptable."
     },
     {
       "id": 40,
       "model": "호엔하임",
-      "content": "This is a product of thousands of repeated experiments and subsequent failures that have been meticulously conducted and studied in order to extract it with an acceptable level of stability."
+      "content": "Input appreciated."
     },
     {
       "id": 41,
       "model": "호엔하임",
-      "content": "But at the end of the day, I did it. Like I always do."
+      "content": "This is a product of thousands of repeated experiments and subsequent failures that have been meticulously conducted and studied in order to extract it with an acceptable level of stability."
     },
     {
       "id": 42,
-      "model": "이스마엘",
-      "content": "……."
+      "model": "호엔하임",
+      "content": "But at the end of the day, I did it. Like I always do."
     },
     {
       "id": 43,
       "model": "이스마엘",
-      "content": "<i>You</i> did it? Are you sure you want to take all the credit when your team is standing right behind you?"
+      "content": "……."
     },
     {
       "id": 44,
+      "model": "이스마엘",
+      "content": "<i>You</i> did it? Are you sure you want to take all the credit when your team is standing right behind you?"
+    },
+    {
+      "id": 45,
       "model": "알리사",
       "content": "We’re used to it…"
     },
     {
-      "id": 45,
+      "id": 46,
       "model": "히스클리프",
       "content": "Oh, piss off… I’m going mad surrounded by these self-absorbed twats."
     },
     {
-      "id": 46,
+      "id": 47,
       "model": "히스클리프",
       "content": "I’m just about ready to get violent on some poor bastard. Let’s get on with the check-up so we can get back to the bus, yeah?"
     },
     {
-      "id": 47,
+      "id": 48,
       "model": "호엔하임",
       "content": "I feel the very same urgency you express."
     },
     {
-      "id": 48,
+      "id": 49,
       "model": "호엔하임",
       "content": "There is much we must cover, regrettably, given that this is the first-ever regular check-up performed as a group since your employment."
     },
     {
-      "id": 49,
+      "id": 50,
       "model": "파우스트",
       "content": "Faust also does not wish to pass more time without substance. Let us begin."
     },
     {
-      "id": 50,
+      "id": 51,
       "model": "호엔하임",
       "content": "Very well. Our first task shall be to assess your abilities in response to emergency situations."
     },
     {
-      "id": 51,
+      "id": 52,
       "model": "이스마엘",
       "content": "Wait, he just pressed something—"
     },
     {
-      "id": 52,
+      "id": 53,
       "model": "단테",
       "content": "<Emergency situations...?>"
     },
     {
-      "id": 53,
+      "id": 54,
       "content": "The walls of the laboratory suddenly started separating and sliding into place; when it settled, I realized that it had locked the Sinners away in some kind of hold, isolating them from me, Vergilius, and Charon."
     },
     {
-      "id": 54,
+      "id": 55,
       "model": "이스마엘",
       "content": "What the hell, this is just an ambush!"
     },
     {
-      "id": 55,
+      "id": 56,
       "model": "호엔하임",
       "content": "Yes, it is. The purpose of this test is to measure your behaviors and response in case of a surprise attack, so ambush it is."
     },
     {
-      "id": 56,
+      "id": 57,
       "model": "단테",
       "content": "<Was this discussed beforehand, Vergilius?!>"
     },
     {
-      "id": 57,
+      "id": 58,
       "model": "베르길리우스",
       "content": "You look anxious, Dante. Well, I suppose you weren't let in on this either. I wasn't, for your information."
     },
     {
-      "id": 58,
+      "id": 59,
       "model": "베르길리우스",
       "content": "Just go with their flow, Dante. “So it goes” would be an apt response."
     },
     {
-      "id": 59,
+      "id": 60,
       "model": "베르길리우스",
       "content": "I’ll find a room somewhere where Charon and I might sit down and enjoy some nice tea. Come find me with Faust once this is over."
     },
     {
-      "id": 60,
+      "id": 61,
       "model": "단테",
       "content": "<…….>"
     },
     {
-      "id": 61,
+      "id": 62,
       "model": "카론",
       "content": "Charon wants cake, too."
     },
     {
-      "id": 62,
+      "id": 63,
       "model": "마튼",
       "content": "Oh, hey. We’ve got some leftover cake from our last office party. Come this way, please."
     },
     {
-      "id": 63,
+      "id": 64,
       "content": "An employee appeared and led Vergilius and Charon away into a nearby office room."
     },
     {
-      "id": 64,
+      "id": 65,
       "model": "단테",
       "content": "<... Okay, so this is the regular check-up, huh? Let’s get this done.>"
     }

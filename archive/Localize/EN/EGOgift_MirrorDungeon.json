@@ -1784,7 +1784,7 @@
     {
       "id": 19065,
       "name": "Artistic Sense+",
-      "desc": "<style=\"upgradeHighlight\">Deal +40% damage against enemies with less than 0 SP.</style>\n\nIf the Skill inflicts [Sinking] Potency or Count(including Unique 'Sinking'), deal +<style=\"upgradeHighlight\">10</style>% damage in addition to the above.\n\nWhen [Sinking]'s effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.",
+      "desc": "<style=\"upgradeHighlight\">Deal +40% damage against enemies with less than 0 SP.</style>\n\nIf the Skill inflicts [Sinking] Potency or Count(including Unique 'Sinking'), deal +10% damage in addition to the above.\n\nWhen [Sinking]'s effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.",
       "simpleDesc": [
         {
           "abilityID": 19065,
@@ -1799,7 +1799,7 @@
     {
       "id": 29065,
       "name": "Artistic Sense++",
-      "desc": "<style=\"upgradeHighlight\">Deal +50% damage against enemies without SP or with less than 0 SP.</style>\n\nIf the Skill inflicts [Sinking] Potency or Count(including Unique 'Sinking'), deal +<style=\"upgradeHighlight\">10</style>% damage in addition to the above.\n\nWhen [Sinking]'s effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.",
+      "desc": "<style=\"upgradeHighlight\">Deal +50% damage against enemies without SP or with less than 0 SP.</style>\n\nIf the Skill inflicts [Sinking] Potency or Count(including Unique 'Sinking'), deal +10% damage in addition to the above.\n\nWhen [Sinking]'s effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.",
       "simpleDesc": [
         {
           "abilityID": 29065,

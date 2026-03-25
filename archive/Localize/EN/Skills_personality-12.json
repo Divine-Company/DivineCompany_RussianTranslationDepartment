@@ -2420,6 +2420,372 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1121501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Release",
+          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Electric Release",
+          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1\n<style=\"highlight\">[WhenUse] At 5+ [Charge] Count, Clash Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">2</style> [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Electric Release",
+          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [Charge] on self (max 30%)</style>\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 5 [Charge] Count on self (max 2)</style>\n<style=\"highlight\">[WhenUse] At less than 10 [Charge], gain +2 [Charge] Count</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DC Inversion",
+          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +([Charge]) [Charge] Count (max 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "DC Inversion",
+          "desc": "[WhenUse] At 3+ [Charge], Coin Power +1\n<style=\"highlight\">- At 3+ [Charge], convert the final Coin into [SuperCoin]</style>\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">4</style> [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">([Charge] + 1)</style> [Charge] Count (max <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DC Inversion",
+          "desc": "<style=\"highlight\">[WhenUse] Deal +3% damage for every [Charge] on self (max 15%)</style>\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n- At 3+ [Charge], convert the final Coin into [SuperCoin]\n[WhenUse] At 10+ [Charge] Count, consume 5 [Charge] Count to gain Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">5</style> [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">([Charge] + 2)</style> [Charge] Count (max <style=\"highlight\">5</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [PhotoElectricity]\n<style=\"highlight\">- At 3+ [Charge], inflict 3 [PhotoElectricity] instead</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "High-voltage Current Discharge",
+          "desc": "[StartBattle] Gain [HighVoltageExoshell] equal to [Charge] (max 3, once per turn)\n[BeforeUse] At 3+ [Charge], activate as 'Maximum Output - Ultra High-voltage Current Discharge' (once per turn)\n[WhenUse] At 3+ [Charge], Coin Power +1\n- At 3+ [Charge], convert the final Coin into [SuperCoin]\n[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 [Charge] Count"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst] and +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [PhotoElectricity]\n- At 3+ [Charge], inflict 3 [PhotoElectricity] instead"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max 3)\n- At 5+ [Charge], inflict 3 [ChargedSting] this turn and next turn instead (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "High-voltage Current Discharge",
+          "desc": "[StartBattle] Gain [HighVoltageExoshell] equal to [Charge] (max <style=\"highlight\">5</style>, once per turn)\n[BeforeUse] At 3+ [Charge], activate as 'Maximum Output - Ultra High-voltage Current Discharge' (once per turn)\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n- At 3+ [Charge], convert the final Coin into [SuperCoin]\n[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 [Charge] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +2 [Charge] Count</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst] and +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [PhotoElectricity]\n- At 3+ [Charge], inflict 3 [PhotoElectricity] instead<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max <style=\"highlight\">5</style>)\n- At 5+ [Charge], inflict <style=\"highlight\">5</style> [ChargedSting] this turn and next turn instead (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This E.G.O Gift's Defensive Capability is Uniquely Superior",
+          "desc": "[StartBattle] Gain 1 [HighVoltageExoshell] (once per turn)\n[WhenUse] Gain +2 [Charge] Count (2 times per turn)\n[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "This E.G.O Gift's Defensive Capability is Uniquely Superior",
+          "desc": "[StartBattle] Gain <style=\"highlight\">2</style> [HighVoltageExoshell] (once per turn)\n<style=\"highlight\">[WhenUse] Gain Coin Power equal to [Charge] on self (max 5)</style>\n[WhenUse] Gain +2 [Charge] Count (2 times per turn)\n[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1121505,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Maximum Output - Ultra High-voltage Current Discharge",
+          "desc": "[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Base Power +1 and Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [PhotoElectricity]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max 3)\n- At 5+ [Charge], inflict 3 [ChargedSting] this turn and next turn instead (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Maximum Output - Ultra High-voltage Current Discharge",
+          "desc": "<style=\"highlight\">Deal +50% damage for every excess Atk Weight beyond the number of actual targets (in Focused Encounters, the Part)</style>\n<style=\"highlight\">[WhenUse] At 5+ [Charge], Coin Power +1</style>\n[WhenUse] At 10+ [Charge] Count, consume 10 [Charge] Count to gain Base Power +1 and Coin Power +2\n<style=\"highlight\">- If there are any remaining [Charge] Count, consume up to 10 [Charge] Count to deal +([Charge] Count additionally consumed due to this effect x 1.5)% damage (max 15%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [PhotoElectricity]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [ChargedSting] equal to [Charge] next turn (max <style=\"highlight\">5</style>)\n- At 5+ [Charge], inflict <style=\"highlight\">5</style> [ChargedSting] this turn and next turn instead (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

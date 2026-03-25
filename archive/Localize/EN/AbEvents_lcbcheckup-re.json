@@ -1,0 +1,82 @@
+{
+  "dataList": [
+    {
+      "id": 97110001,
+      "title": "Ardor Blossom Moth Containment Breach",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} joined the researchers and swiftly helped suppress the Ardor Blossom Moth.\n\n\"Thank you. The truth is, this E.G.O gear is still undergoing calibration. It's still a bit tricky to use for Suppression...\"\n\n\"A lot of us would've ended up seriously hurt had you not stepped in. We're grateful for your help, really.\"\n\nThe researchers passed us the E.G.O gear that was still being tested, calling it a \"small token of appreciation.\"\n\n\"Trust me, it'll come in handy. Oh, and we'd appreciate it if you could try the gear out and let us know how well it performs out there.\""
+      ],
+      "failureDesc": [
+        "In the blink of an eye, the Ardor Blossom Moth's beating wings engulfed the researchers before {0} could even react.\n\n... Then, slowly, the Abnormality turned to face us."
+      ]
+    },
+    {
+      "id": 97110101,
+      "title": "Faelantern Containment Breach",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} should be more than capable of bringing the charmed people back to their senses and safely tracking down the escaped Abnormality to suppress it.\n\n\"*sigh* This isn't even the first time this particular entity's breached containment—we have all the relevant data, and yet, here we are.\"\n\n\"A lot of us would've ended up seriously hurt had you not stepped in. We're grateful for your help, really.\"\n\nThe researchers passed us the E.G.O gear that was still being tested, calling it a \"small token of appreciation.\"\n\n\"Trust me, it'll come in handy. Oh, and we'd appreciate it if you could try the gear out and let us know how well it performs out there.\""
+      ],
+      "failureDesc": [
+        "{0} tried to snap the researchers out of it, but the charm was too strong—they wouldn't come around.\n\nPerhaps wandering the hallways without equipping proper E.G.O gear had led them to this unfortunate outcome...\n\nIn the end, all we could do was watch as the Faelantern slaughtered the researchers, who were too entranced to even think of getting away.\n\n... At least we managed to corner the Abnormality. Suppressing it would be the least we can do in their memory."
+      ]
+    },
+    {
+      "id": 97110302,
+      "title": "Post-choice Development",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "It was by no means an easy feat, but {0} eventually managed to pry the door open.\n\nWhat greeted us was the sight of a room caked in blood, littered with bits and traces of a desperate struggle.\n\n\"... This seems to be an employee ID card.\"\n\nI took a closer look at the small plastic card the Sinner had picked up.\n\nThe blood had dried over the card in such thick layers that I couldn't make out the face and the name written on it.\n\n... Perhaps it'd be best to hold onto it for now."
+      ],
+      "failureDesc": [
+        "\"I thought it would open...\"\n\n{0} kept at it for a good while, but the door simply refused to budge.\n\nAt some point, I realized we were wasting far too much time trying to force our way through the door without even knowing what might await us inside.\n\n... In the end, I gave {0} a small pat on the back for trying and decided to move on."
+      ]
+    },
+    {
+      "id": 1071101,
+      "title": "Ardor Blossom Moth Containment Breach",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} joined the researchers and swiftly helped suppress the Ardor Blossom Moth.\n\n\"Thank you. The truth is, this E.G.O gear is still undergoing calibration. It's still a bit tricky to use for Suppression...\"\n\n\"A lot of us would've ended up seriously hurt had you not stepped in. We're grateful for your help, really.\"\n\nThe researchers passed us the E.G.O gear that was still being tested, calling it a \"small token of appreciation.\"\n\n\"Trust me, it'll come in handy. Oh, and we'd appreciate it if you could try the gear out and let us know how well it performs out there.\""
+      ],
+      "failureDesc": [
+        "In the blink of an eye, the Ardor Blossom Moth's beating wings engulfed the researchers before {0} could even react.\n\n... Then, slowly, the Abnormality turned to face us."
+      ]
+    },
+    {
+      "id": 1071201,
+      "title": "Faelantern Containment Breach",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} should be more than capable of bringing the charmed people back to their senses and safely tracking down the escaped Abnormality to suppress it.\n\n\"*sigh* This isn't even the first time this particular entity's breached containment—we have all the relevant data, and yet, here we are.\"\n\n\"A lot of us would've ended up seriously hurt had you not stepped in. We're grateful for your help, really.\"\n\nThe researchers passed us the E.G.O gear that was still being tested, calling it a \"small token of appreciation.\"\n\n\"Trust me, it'll come in handy. Oh, and we'd appreciate it if you could try the gear out and let us know how well it performs out there.\""
+      ],
+      "failureDesc": [
+        "{0} tried to snap the researchers out of it, but the charm was too strong—they wouldn't come around.\n\nPerhaps wandering the hallways without equipping proper E.G.O gear had led them to this unfortunate outcome...\n\nIn the end, all we could do was watch as the Faelantern slaughtered the researchers, who were too entranced to even think of getting away.\n\n... At least we managed to corner the Abnormality. Suppressing it would be the least we can do in their memory."
+      ]
+    },
+    {
+      "id": 1071402,
+      "title": "Post-choice Development",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "It was by no means an easy feat, but {0} eventually managed to pry the door open.\n\nWhat greeted us was the sight of a room caked in blood, littered with bits and traces of a desperate struggle.\n\n\"... This seems to be an employee ID card.\"\n\nI took a closer look at the small plastic card the Sinner had picked up.\n\nThe blood had dried over the card in such thick layers that I couldn't make out the face and the name written on it.\n\n... Perhaps it'd be best to hold onto it for now."
+      ],
+      "failureDesc": [
+        "\"I thought it would open...\"\n\n{0} kept at it for a good while, but the door simply refused to budge.\n\nAt some point, I realized we were wasting far too much time trying to force our way through the door without even knowing what might await us inside.\n\n... In the end, I gave {0} a small pat on the back for trying and decided to move on."
+      ]
+    }
+  ]
+}

@@ -44,7 +44,7 @@
     {
       "id": 9428,
       "name": "Cetacean Heart",
-      "desc": "On Hit against enemies with [Laceration] with an Attack Skill, gain 1 [Breath]. (3 times per turn for each character)\nOn Crit, 50% chance to not consume [Breath] Count (once per turn for each character; including E.G.O Skills and Counter Skills)\nOn Crit Heads Hit with a Base Skill: inflict +1 more of the negative effect with that Coin. (once per turn for each character; including Counter Skills and excluding E.G.O Skills)",
+      "desc": "On Hit against enemies with [Laceration] or 'Unique Bleed' with an Attack Skill: Gain 1 [Breath] (3 times per turn per Identity)\n\nOn Crit: 50% chance to gain 1 [PenetrateResultUp] next turn (2 times per turn per Identity; including E.G.O Skills and Counter Skills)\n\nOn Crit Heads Hit with a Base Skill: Inflict +1 more of the negative effect with that Coin (once per turn per Identity; including Counter Skills and excluding E.G.O Skills)",
       "simpleDesc": [
         {
           "abilityID": 9428,
@@ -52,7 +52,7 @@
         },
         {
           "abilityID": 94281,
-          "simpleDesc": "Chance to not lose Poise Count"
+          "simpleDesc": "Chance to gain [PenetrateResultUp] next turn"
         },
         {
           "abilityID": 94282,

@@ -1,0 +1,124 @@
+{
+    "dataList": [
+      {
+        "id": "get_11215_1",
+        "desc": "Identity Acquisition",
+        "dlg": "Alright, let me welcome you to our humble research team. Take this—I lost a bet today, so I've got to buy everyone a cup of joe."
+      },
+      {
+        "id": "lobby_morning_11215_1",
+        "desc": "Morning Greeting",
+        "dlg": "Ah... Is it time for my lab rounds? I'm sorry, but do you mind filling in for me for the morning rounds? I'll do another this afternoon. I might be at a point where I must seriously consider my mortality if I were to deny my body's appeal for sleep."
+      },
+      {
+        "id": "lobby_noon_11215_1",
+        "desc": "Afternoon Greeting",
+        "dlg": "See? Our bodies are presently overwhelmed with postprandial somnolence caused by overindulgence in carbohydrates—now is the prime time for caffeination. My recommended coffee recharge times are as follows: in 1 hour, in 2 hours and 30 minutes, in 4 hours, in 6 hours, and in 6 hours and 30 minutes."
+      },
+      {
+        "id": "lobby_night_11215_1",
+        "desc": "Evening Greeting",
+        "dlg": "Still haven't clocked out? I had a hunch I would find you here. Well, as it seems to be a foregone conclusion that we'll both be spending the night here at work, why don't you come over here for a minute? Let me show you something interesting—though hardly an apt compensation for overtime, of course.\nAnother department will soon pay us a visit to undergo a regular check-up..."
+      },
+      {
+        "id": "smalltalk_11215_1",
+        "desc": "Chatter #1",
+        "dlg": "Indeed, to lead others is to suffer... though I don't mind the incongruence that may exist between my coworkers and me.\nBut being pushed against my will to take the lead before everyone else... that, I can't stand."
+      },
+      {
+        "id": "smalltalk_11215_2",
+        "desc": "Chatter #2",
+        "dlg": "Potentialities... a cruel word. It gives rise to that delusion of optimism, like a curse... or a wraith.\nWell, to be fair... Life <i>would</i> become more fascinating if we were to believe that sorcery and spirits are real, wouldn't it?"
+      },
+      {
+        "id": "smalltalk_11215_3",
+        "desc": "Chatter #3",
+        "dlg": "Hold on. This report—are you the one who filed this? Either sleep deprivation's finally gotten the better of me, or the figures you've recorded here are ridiculously off-target... And don't get me started on the slipshod design of the experiment itself which is, I might add, devoid of any logical thought.\n... Ah. Still, I can see you've put in some effort. Go get some rest, why don't you? Staying up all night won't magically produce a good report. These things require a clearer, more intellectual mind."
+      },
+      {
+        "id": "smalltalk_11215_4",
+        "desc": "Post-Uptie Chat 1",
+        "dlg": "This isn't the first Peccatula containment breach we've had to deal with, but... *puff* Class 3 Peccatula breach is... a tough challenge. Yi Sang, Faust—I'll leave the battle to the two of you for now.\nI would be remiss to waste an opportunity to compile a damage report on E.G.O engagements against multiple opponents."
+      },
+      {
+        "id": "smalltalk_11215_5",
+        "desc": "Post-Uptie Chat 2",
+        "dlg": "... So the pebbles rolled and rolled, eventually amassing into this mountainous pile—the terminus of dregs that could not even become Distortions. Their potentialities must have manifested as an unstoppable, downhill inertia, and... *exhale*"
+      },
+      {
+        "id": "neglect_11215_1",
+        "desc": "Idle",
+        "dlg": "I must've dreamed. *sigh* I still remember... everything."
+      },
+      {
+        "id": "gacksung_11215_1",
+        "desc": "Uptying",
+        "dlg": "Activating structural analyzer... Mm. It's operational. Alright, drill that shape into your heads, because if I flip a tail with the Monolith... this may very well be what I become.\nTake a good look at the vulnerabilities now, so you can take me out in one fell swoop later. Got it?"
+      },
+      {
+        "id": "formation_11215_1",
+        "desc": "Deployment",
+        "dlg": "Entrusting the exertion of physical force to a researcher, I must say, is a rather ill-considered arrangement."
+      },
+      {
+        "id": "battleentry_11215_1",
+        "desc": "Stage Entry",
+        "dlg": "If there is no one equal to the task... then it's up to me to resolve this predicament."
+      },
+      {
+        "id": "battle_select_11215_1",
+        "desc": "Viewed in Battle",
+        "dlg": "Experiment is underway. Do practice caution when controlling the variables."
+      },
+      {
+        "id": "battle_endcommand_11215_1",
+        "desc": "Commencing Attack",
+        "dlg": "Let us run a test and trial."
+      },
+      {
+        "id": "battle_enemy_break_11215_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Admirable effort. However..."
+      },
+      {
+        "id": "battle_break_11215_1",
+        "desc": "Staggered",
+        "dlg": "Ngh... Hah."
+      },
+      {
+        "id": "battle_kill_11215_1",
+        "desc": "Enemy Killed",
+        "dlg": "... Nothing too remarkable."
+      },
+      {
+        "id": "battle_dead_11215_1",
+        "desc": "Death",
+        "dlg": "Well... I don't suppose I was all that exceptional either..."
+      },
+      {
+        "id": "choice_success_p_11215_2",
+        "desc": "Check Passed",
+        "dlg": "Work Result: Good. Hm. Faster reaction speed, as expected."
+      },
+      {
+        "id": "choice_fail_n_11215_1",
+        "desc": "Check Failed",
+        "dlg": "Work Result: Bad. Well, I'll take it. Production rate has increased."
+      },
+      {
+        "id": "battle_clear_11215_1",
+        "desc": "Victory Cry",
+        "dlg": "It would seem there is a bit of questionable irregularity in the test results. That's fine. Failure is expected of ordinary minds; making the effort to overcome it is what defines the ideal researcher.\nI must admit, I find such an effort rather impressive. Amending failure is something I have never done—never had to do myself."
+      },
+      {
+        "id": "battle_clear_ex_11215_1",
+        "desc": "Extra Conditions Fulfilled",
+        "dlg": "Hm... Very well. I'll forward this report directly to the higher-ups. The figures look promising. Ah, you there, are you well-rested now? Then deliver this report for me... and take this, too. It's a report on your experiment. I made a few adjustments—run the test again.\nHmm...? Why thank me? I lent you my aid simply by virtue of my superior mind."
+      },
+      {
+        "id": "battle_defeat_11215_1",
+        "desc": "Defeat Wail",
+        "dlg": "Wrath is but a hideous emotion, nothing more. Still... emotional fluctuations may inevitably occur in such recreations of the past. *puff*"
+      }
+    ]
+}
