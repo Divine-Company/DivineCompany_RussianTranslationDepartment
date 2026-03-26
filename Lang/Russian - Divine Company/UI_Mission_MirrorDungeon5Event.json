@@ -2,47 +2,47 @@
   "dataList": [
     {
       "id": "mission_ui_condition_tags_201001001",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО"
     },
     {
       "id": "mission_ui_condition_tags_201001002",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Горение"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Горение"
     },
     {
       "id": "mission_ui_condition_tags_201001003",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Кровотечение"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Кровотечение"
     },
     {
       "id": "mission_ui_condition_tags_201001004",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Тремор"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Тремор"
     },
     {
       "id": "mission_ui_condition_tags_201001005",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Разрыв"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Разрыв"
     },
     {
       "id": "mission_ui_condition_tags_201001006",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Горе"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Горе"
     },
     {
       "id": "mission_ui_condition_tags_201001007",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Концентрацию"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Концентрацию"
     },
     {
       "id": "mission_ui_condition_tags_201001008",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Даров ЭГО на Заряд"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Даров ЭГО на Заряд"
     },
     {
       "id": "mission_ui_condition_tags_201001009",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Рубящих Даров ЭГО"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Рубящих Даров ЭГО"
     },
     {
       "id": "mission_ui_condition_tags_201001010",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Колющих Даров ЭГО"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Колющих Даров ЭГО"
     },
     {
       "id": "mission_ui_condition_tags_201001011",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Дробящих Даров ЭГО"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Дробящих Даров ЭГО"
     },
     {
       "id": "mission_ui_condition_tags_201001012",
@@ -110,75 +110,75 @@
     },
     {
       "id": "mission_ui_condition_tags_201003001",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Burn Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Горение в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003002",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Bleed Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Кровотечение в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003003",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Tremor Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Тремор в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003004",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Rupture Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Разрыв в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003005",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Sinking Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Горе в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003006",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Poise Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Концентрацию в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003007",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Charge Keyword Identities in your Loadout at the time of completion (Incompletable by Rental Teams)"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей на Заряд в вашей команде во время прохождения (Невыполнимо при использовании арендованной команды)"
     },
     {
       "id": "mission_ui_condition_tags_201003008",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more Blade Lineage Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Blade Lineage» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003009",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more Liu Assoc. Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Liu Assoc.» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003010",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Seven Assoc. Identities in your Loadout at the time of completion"
+      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0}+ Личностей с тегом «Seven Assoc.» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003011",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more W Corp. Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Корпорация W» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003012",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more N Corp. Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом ««Корпорация N» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003013",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Wuthering Heights and Edgar Family Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегами «Wuthering Heights» или «Edgar Family» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003014",
-      "content": "Clear Mirror Dungeon at Floor {1} or higher with {0} or more Dieci Assoc. Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Dieci Assoc.» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003015",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more The Pequod Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «The Pequod» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003016",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more La Manchaland Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Ламанчаленд» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003017",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more Kurokumo Clan Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Kurokumo Clan» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201003018",
-      "content": "Clear Mirror Dungeon at Floor {1} with {0} or more Technology Liberation Alliance Identities in your Loadout at the time of completion"
+      "content": "Пройдите {1} этаж Зазеркалья, используя {0}+ Личностей с тегом «Technology Liberation Alliance» в вашей команде во время прохождения"
     },
     {
       "id": "mission_ui_condition_tags_201004001",
@@ -194,7 +194,7 @@
     },
     {
       "id": "mission_ui_condition_tags_201004004",
-      "content": "Пройдите {1} этаж Зазеркалья, имея {0} Жетонов"
+      "content": "Пройдите {1}+ этаж Зазеркалья, имея {0}+ Жетонов"
     },
     {
       "id": "mission_ui_condition_tags_201004005",

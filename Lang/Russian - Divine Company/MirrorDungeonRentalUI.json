@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "mirror_rental_title",
-      "content": "Team Rental"
+      "content": "Аренда команды"
     },
     {
       "id": "mirror_rental_no_item",
@@ -10,15 +10,15 @@
     },
     {
       "id": "mirror_rental_period",
-      "content": "Rental Period"
+      "content": "Срок аренды"
     },
     {
       "id": "mirror_rental_keyword_label",
-      "content": "Keywords"
+      "content": "Ключевые слова"
     },
     {
       "id": "mirror_rental_ask_to_enter",
-      "content": "<font=\"EN/Pretendard/Pretendard-Regular SDF\">Use {0} with a Rental Team?</font>"
+      "content": "<font=\"EN/Pretendard/Pretendard-Regular SDF\">Начать {0}, используя арендованную команду?</font>"
     },
     {
       "id": "mirror_rental_warnings",
@@ -42,7 +42,7 @@
     },
     {
       "id": "mirror_rental_button_label",
-      "content": "Rental"
+      "content": "Аренда"
     },
     {
       "id": "mirror_unable_to_infinity_by_rental",
