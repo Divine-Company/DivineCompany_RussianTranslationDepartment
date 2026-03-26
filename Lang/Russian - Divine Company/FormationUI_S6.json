@@ -70,11 +70,11 @@
     },
     {
       "id": "formation_side_button_all_personality",
-      "content": "Все Личности"
+      "content": "Личности"
     },
     {
       "id": "formation_side_button_all_ego",
-      "content": "Все ЭГО"
+      "content": "ЭГО"
     },
     {
       "id": "formation_side_button_friend_support",
@@ -234,19 +234,19 @@
     },
     {
       "id": "character_list_title_all_skin",
-      "content": "Façades"
+      "content": "Облики"
     },
     {
       "id": "character_list_title_all_skin_with_character_name",
-      "content": "Façade Projection : {0}"
+      "content": "Проекция Облика: {0}"
     },
     {
       "id": "mainui_common_skin",
-      "content": "Façades"
+      "content": "Облик"
     },
     {
       "id": "formation_side_button_skin",
-      "content": "Façades"
+      "content": "Облики"
     }
   ]
 }

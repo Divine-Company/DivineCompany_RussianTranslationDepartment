@@ -2,23 +2,23 @@
   "dataList": [
     {
       "id": "title_skin",
-      "content": "Façades"
+      "content": "Облики"
     },
     {
       "id": "label_skin_equip_warning",
-      "content": "Please note that when projecting Façade onto an Identity, visual compatibility may vary."
+      "content": "При проецировании Облика на Личность визуальная совместимость может различаться."
     },
     {
       "id": "btn_title_skin_acquisition",
-      "content": "Façade Source"
+      "content": "Источник"
     },
     {
       "id": "desc_skin_acquisition_Gacksung",
-      "content": "Acquire and Uptie this Identity to Tier 4, then select \"Weave Projection\" to obtain"
+      "content": "Получите и Свяжите эту Личность до 4 ранга, затем выберите «Соткать Проекцию» чтобы получить этот Облик"
     },
     {
       "id": "btn_title_open_UnitInformationPanel",
-      "content": "Proceed to Uptying menu"
+      "content": "К меню связания"
     },
     {
       "id": "label_have_skin_craft_item_count",
@@ -26,43 +26,43 @@
     },
     {
       "id": "btn_title_deck_unequip_skin",
-      "content": "Unequip Façade\nfrom all IDs in this Team"
+      "content": "Снять Облики со всех\nЛичностей этой Команды"
     },
     {
       "id": "label_can_craft",
-      "content": "Weavable"
+      "content": "Соткание доступно"
     },
     {
       "id": "btn_title_craft_skin",
-      "content": "Weave Projection"
+      "content": "Соткание Проекции"
     },
     {
       "id": "btn_title_equip_skin",
-      "content": "Project Façade"
+      "content": "Проецировать Облик"
     },
     {
       "id": "label_equip_skin_main",
-      "content": "<Projected Façade>"
+      "content": "<Облик проецирован>"
     },
     {
       "id": "label_equip_skin_list",
-      "content": "Projected"
+      "content": "Проецирован"
     },
     {
       "id": "btn_title_can_not_equip_skin",
-      "content": "Unprojectable"
+      "content": "Не проецируется"
     },
     {
       "id": "btn_title_unequip_skin",
-      "content": "Remove Façade Projection"
+      "content": "Отменить Проекцию Облика"
     },
     {
       "id": "popup_title_craft_skin",
-      "content": "Weave Projection"
+      "content": "Соткать Проекцию"
     },
     {
       "id": "popup_title_exchange_craft_skin_item",
-      "content": "Exchange"
+      "content": "Обмен"
     },
     {
       "id": "popup_desc_exchange_craft_skin_item",
@@ -74,7 +74,7 @@
     },
     {
       "id": "btn_title_expected_skin",
-      "content": "Unprojectable"
+      "content": "Не проецируется"
     },
     {
       "id": "popup_desc_exchange_skin_cost_item",
@@ -82,7 +82,7 @@
     },
     {
       "id": "modal_desc_craft_skin_caution",
-      "content": "Please note that not all Identities can equip Façades, and even those that can may look awkward or incompatible when equipped.\n\nWill you weave a projected Façade of this Identity?"
+      "content": "Не все Личности могут носить Облики, и при использовании они могут выглядеть странно или несовместимо.\n\nПродолжить соткание Проекции Облика этой Личности?"
     },
     {
       "id": "btn_exchange_popup_cancel_btn_text_select_character",
@@ -98,7 +98,7 @@
     },
     {
       "id": "exchange_confirm_popup_title",
-      "content": "Confirm Exchange"
+      "content": "Подтверждение обмена"
     },
     {
       "id": "exchange_result_popup_title",
@@ -106,27 +106,27 @@
     },
     {
       "id": "exchange_result_popup_desc",
-      "content": "{1} {0} woven."
+      "content": "{1} {0} соткано."
     },
     {
       "id": "popup_desc_craft_skin_confirm",
-      "content": "Weave this Façade?"
+      "content": "Соткать этот Облик?"
     },
     {
       "id": "view_skin_status_button_label",
-      "content": "Façade Projection"
+      "content": "Проекция Облика"
     },
     {
       "id": "craft_purchase_confirm_popup_title",
-      "content": "Confirm Weaving"
+      "content": "Подтверждение соткания"
     },
     {
       "id": "label_invalid_personality",
-      "content": "Unacquired"
+      "content": "Нужно получить"
     },
     {
       "id": "button_title_source_item_reset",
-      "content": "Revert selected currency"
+      "content": "Отменить выбор"
     }
   ]
 }
