@@ -55,6 +55,22 @@
     {
       "id": "shotcutKeyManual_zoom_inout_battle",
       "content": "[Encounters] Zoom In & Out"
+    },
+    {
+      "id": "shotcutKeyManual_mirror_dungeon_side_move",
+      "content": "[Mirror Dungeon] Scroll camera left & right"
+    },
+    {
+      "id": "shotcutKeyManual_mirror_dungeon_move_node",
+      "content": "[Mirror Dungeon] Select next Node"
+    },
+    {
+      "id": "shotcutKeyManual_mirror_dungeon_cancel_select_node",
+      "content": "[Mirror Dungeon] Cancel Node selection"
+    },
+    {
+      "id": "shotcutKeyManual_choice_event_next_dialog",
+      "content": "[Choice Event] Load next paragraph"
     }
   ]
 }

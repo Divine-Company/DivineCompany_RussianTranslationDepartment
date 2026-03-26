@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_45_1",
+      "dlg": "- We've received reports on everything you've gone through so far. I've read the observation logs as well.\n- Everyone here's been eager to see what sort of people you might be. Individuals who prioritize action over theory are becoming a rarity these days, after all."
+    },
+    {
+      "id": "announcer_cheer_45_2",
+      "dlg": "- Too many battle tests? Well, that's because—\n- The reports suggested a high level of interest in these \"Mirror Dungeons,\" so I designed the tests around similar experiences.\n- That's like saying we like working overtime just because we do it all the time, Boss..."
+    },
+    {
+      "id": "announcer_specialcheer_45_1",
+      "dlg": "- Total damage rate has gone over the 70% mark.\n- By LCE standards, that calls for aborting the test. How shall we proceed, Boss?"
+    },
+    {
+      "id": "announcer_specialcheer_45_2",
+      "dlg": "- Hmm... There should be no issues—their manager is with them. Continue the test.\n- You heard him. The \"abort\" button is right there on the wall, though, should you find the battle too much to handle."
+    },
+    {
+      "id": "announcer_enemy_break_45_1",
+      "dlg": "- Given the manager's usual command patterns, they're likely to zero in on the immobilized target more aggressively now.\n- No—look at this section. The data says that they tend to shift their focus to another target when they have some leeway...\n- Haha... Please don't mind us and focus on the test, LCB."
+    },
+    {
+      "id": "announcer_ally_break_45_1",
+      "dlg": "- It may be best to prioritize covering the incapacitated Sinners if you've no strategy in mind.\n- What if <i>this</i> is their strategy?\n- Well, it is what it is. Perhaps this will give us a post-test opportunity to document the manager's many expressions of pain."
+    },
+    {
+      "id": "announcer_killenemy_45_1",
+      "dlg": "- Entity Suppression complete. A bit different from the usual method listed in the manual, but not a bad outcome, don't you think?\n- Let's make a note of the method and replicate it ourselves later."
+    },
+    {
+      "id": "announcer_ally_dead_45_1",
+      "dlg": "- A Sinner has been killed.\n- I do not doubt your capabilities, but do try not to grow desensitized. Although... considering the degree of pain stimuli involved, I doubt desensitization would come easily."
+    },
+    {
+      "id": "announcer_enemy_adv_45_1",
+      "dlg": "- Uh... Should we start over?\n- No, let us proceed for the moment. Some data can only be observed and acquired under adverse conditions."
+    },
+    {
+      "id": "announcer_ally_adv_45_1",
+      "dlg": "- The readings are looking solid. The test should wrap up smooth and clean per our prediction.\n- Well, in light of the events they have weathered thus far, it would be quite anomalous indeed if they were to struggle with combat trial of this rudimentary level."
+    },
+    {
+      "id": "announcer_ally_advex_45_1",
+      "dlg": "- This... is quite intriguing. The variables are decidedly unfavorable, but they seem to be approaching a solution nonetheless.\n- So what do you think? Now you can tell what sort of principle the manager follows when leading the team, right?"
+    },
+    {
+      "id": "announcer_danger_45_1",
+      "dlg": "- Boss. We should be moving on to the next item on the schedule, or we'll risk running out of time.\n- Hmm. Already? The hour seems to have advanced beyond my accounting. Manager, it appears the time allotted to us grows rather scarce. Do proceed with expedition."
+    },
+    {
+      "id": "announcer_enemy_specialskill_45_1",
+      "dlg": "- A tepid response to such a threat would constitute a fruitless effort.\n- Don't feel obligated to hold back from using E.G.O. The lab walls can take it."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_45_1",
+      "dlg": "- I hate Abnos and Distortions that do this.\n- Yet, they're of the very same type that becomes much more manageable once enough data has been collected. Personally, I find them easier to handle than entities that respond only to overwhelming brute force."
+    },
+    {
+      "id": "announcer_advatk_physical_45_1",
+      "dlg": "- Looks like that entity won't be able to hold out for much longer.\n- Naturally. After all, the manager has selected the most effective means of attack for this circumstance."
+    },
+    {
+      "id": "announcer_disadvatk_physical_45_1",
+      "dlg": "- What a creative use of that ability. Most fascinating.\n- Boss, I'm pretty sure that was a mistake...\n- I am aware. Fascination does not always equal commendation."
+    },
+    {
+      "id": "announcer_advatk_attr_45_1",
+      "dlg": "- If only new hires were as good at their jobs as they are.\n- Wishful thinking. Abnormalities and Distortions both have so many managerial rules and resistances to memorize."
+    },
+    {
+      "id": "announcer_disadvatk_attr_45_1",
+      "dlg": "- Not that big of an error. Should we let it slide?\n- Why not. Obviously, we cannot expect too much precision from ordinary minds.\n- Uh-huh... Sure."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_45_1",
+      "dlg": "- The entity's state must have shifted somewhat. As soon as you catch it changing, tell us— I mean, write it down on paper.\n- Don't forget to capture the manager's tick-tocking noises as well. We'll be analyzing their wavelengths and matching them to the situations in which they occur."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_45_1",
+      "dlg": "- Weakening the enemy is an acceptable tactic. Adequate work.\n- \"Adequate\" coming from our boss? That's a huge compliment."
+    },
+    {
+      "id": "announcer_ally_specialbuff_45_1",
+      "dlg": "- You've been empowered due to external effects, but don't let that scare you.\n- Try to think of potential avenues to exploit this opportunity."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_45_1",
+      "dlg": "- The Sinners' general ability parameters have plummeted.\n- Probably not a great idea to let this effect linger too long."
+    },
+    {
+      "id": "announcer_enemy_destroy_45_1",
+      "dlg": "- You really kicked that thing's hiney.\n- The entity's structural integrity has dropped significantly."
+    },
+    {
+      "id": "announcer_enemy_destroy_45_2",
+      "dlg": "- Did you identify that particular part as a potential source of risk? I would like to hear what went into your decision to remove it."
+    },
+    {
+      "id": "announcer_round_takebigdmg_45_1",
+      "dlg": "- Huh, didn't expect this battle to play out like this. They're suffering much more losses than anticipated.\n- There must've been a command hiccup."
+    },
+    {
+      "id": "announcer_round_takebigdmg_45_2",
+      "dlg": "- How'd that happen? Arbitrary Identity selection? Unexpected mid-battle variables?\n- Most likely a combination of many, as these failures often tend to be. I trust the manager will be more attentive in their next attempt."
+    },
+    {
+      "id": "announcer_round_givebigdmg_45_1",
+      "dlg": "- Extrapolated damage output is beyond all projections.\n- Hm. I'm not sure if we even have any comparison indices for this data. Submit any similar test records to me posthaste."
+    },
+    {
+      "id": "announcer_round_givebigdmg_45_2",
+      "dlg": "- The extrapolated numbers exceed even Alyssa's when she raised her Attunement to 93%.\n- Unlike the outliers extrapolated from the LCA and the LCD, these figures actually seem quite useful. This is good data."
+    },
+    {
+      "id": "announcer_multikillenemy_45_1",
+      "dlg": "- Nice moves. I wonder if they're borrowed from the Identity?\n- Other possibilities include the Sinner's own prowess returning, or the manager's command having a positive impact on their capabilities.\n- Let's put a pin in it for now and review it during analysis."
+    },
+    {
+      "id": "announcer_battle_win_45_1",
+      "dlg": "- So, how many wins does this make?\n- 17 victories. I see—the chance of success rises significantly with the manager at the wheel."
+    },
+    {
+      "id": "announcer_battle_defeat_45_1",
+      "dlg": "- Could it be that this was too difficult for them to handle? Maybe we can lower the difficulty a little...\n- Hm. No, no need. I'm sure this skirmish must've taught them some valuable lessons. Let's take a quick 5, then have them give it another go."
+    },
+    {
+      "id": "announcer_equip_45_1",
+      "dlg": "- The LCB Department will be arriving soon. All preparations are in order, I trust?\n- Yes, Boss. Over 100 check-up processes, including 27 different combat tests, are ready and waiting.\n- Haha... The workload would've been cut in half had we not procrastinated..."
+    }
+  ]
+}

@@ -1,44 +1,84 @@
 {
-    "dataList": [
-        {
-            "id": "DanteNoteDetail_148",
-            "title": "",
-            "desc": "- A Singularity of a Wing capable of permanently erasing or destroying technologies.\n- Its potency and scope of effect depend on the price paid, but a reasonably powerful Concept Incinerator can erase every document related to the incinerated technology, photographs, and even memories—leaving behind nothing or, if something somehow does survive, a smudge and nothing more. Does the <i>Concept</i> Incinerator delete a concept like it never even existed, or does it just \"smudge\" our perception of it?\n- Faust elaborated with an example—deleting the general concept of, say, a \"clock,\" requires literally everything even tangentially related to clocks getting chucked into the concept incinerator, but deleting only a specific model of a clock is as easy as tossing its blueprint in. In other words, a smaller scope equals easier incineration equals cheaper erasure."
-        },
-        {
-            "id": "DanteNoteDetail_149",
-            "title": "",
-            "desc": "- The Thumb, one of the five Fingers, is utterly obsessed with the concept of propriety.\nI've seen them popping people's arms out and blasting their jaws off just for questioning a superior. Though I've only met The Thumb members of the eastern branch, the Sinners tell me that they generally play by similar rules regardless of where they're based.\n- \"Rank,\" or \"Class,\" is something they're all really touchy about, which probably explains all those ridiculously detailed rules on the definitions, circumstances, types, and so on and so forth surrounding them.\n- According to those Soldato... Secando? Terzo? Anyways, according to those Thumb Soldatos we ran into in Daguanyuan, we apparently deserve to lose our jaws simply for invoking a Capo Quarto's—Lei Heng's—name without deference.\n- Hmm, I am the <i>Manager</i> of LCB... I wonder where I rank in their scale? Darn, I should've asked them when I had the chance..."
-        },
-        {
-            "id": "DanteNoteDetail_150",
-            "title": "",
-            "desc": "- The Pinky is one of the five Fingers that follows the Virtue of Humanity (仁), which I'm still a bit unsure as to what it means. The point is, they're a bit more cryptic than the other Fingers when it comes to what they pursue.\n- Instead of going around in their uniforms and advertising their true alignments like the other Fingers, they lurk anonymously in other organizations.\n- There seems to be some condition and means of summoning the Pinkies all together, but when they're not summoned, they just lead their own lives as though they aren't even a part of this Finger. I don't know, can we even call them a real organized crime Syndicate?"
-        },
-        {
-            "id": "DanteNoteDetail_151",
-            "title": "",
-            "desc": "- A bug that, when inserted into the human body, will share with its host the memories of the person who became its core.\n- Immediately after insertion via the ear, the Anamnaworm will rapidly assimilate into the host, granting them all the memories and knowledge of the source individual used to make it. Convenient, but each Anamnaworm comes with the caveat that it cannot be removed by any other means than the conditions prescribed at its creation.\n- Traditionally, all H Corp. Hierarchs were supposed to accept the \"Xianhuang Worm,\" an Anamnaworm created from the founding Hierarch, into their bodies, but we managed to make it to the Tiekan Temple in time to prevent it from assimilating into Jia Xichun.\n- In the chaotic aftermath that followed, the New League of Nine Littérateurs snatched the Xianhuang Worm away. Wei told me that, though the knowledge that once resided within the worm may be significant, the sheer time that has passed since its extraction from the previous host's body must have eroded much of it."
-        },
-        {
-            "id": "DanteNoteDetail_152",
-            "title": "",
-            "desc": "- There seem to be these mysterious figures known only as Heishou-Xianren, each managing a Pack and the corresponding Heishou Bolus. I wonder how they're distinguished from the Xianren of the Tiekan Temple?\n- The right to \"own\" the Heishou Packs is called a \"leash,\" and I think it's a kind of commodity that can be traded between people. Didn't get the chance to see for myself what those \"leashes\" look like, though.\n- There seems to be a way to \"un-leash\" a Heishou and free them from service. But from what information I could gather from the Heishou Pack Identities, such generosity rarely ever happens because the price of freeing even a single Heishou is far too costly."
-        },
-        {
-            "id": "DanteNoteDetail_153",
-            "title": "",
-            "desc": "- They're \"The Head.\" Located in... Well, I'd assume they're located in District 1.\n- If anyone breaks a Taboo of the City—whenever, wherever—The Head will swoop in to punish the perpetrator.\n- Normally, such infractions invite only the Claws, which are like enforcers from C Corp., but a Taboo violation of a sufficient scale might even end up summoning these beings called \"Arbiters.\"\n- I saw them in Hong Lu's memories of the Kong Family massacre. The moment the Kong Family \"violated\" a Taboo, the Head swooped in and destroyed all evidence that the transgression had ever occurred."
-        },
-        {
-            "id": "DanteNoteDetail_154",
-            "title": "",
-            "desc": "- E.G.O Gears extracted by the LCE or N Corp. both have traits that distinguish them from Lobotomy Corporation's E.G.O.\n- LCE E.G.O gears use \"Attunement Boost\" to surge the source Abnormality's characteristics to the forefront, and the N Corp. E.G.O gear used by Jia Huan had an extra feature that generated a shield wall of sorts to protect its user in a moment of emergency."
-        },
-        {
-            "id": "DanteNoteDetail_155",
-            "title": "",
-            "desc": "- Jia Xichun ultimately won the Family Hierarch War and became H Corp.'s Hierarch, but had a slight stumble at the beginning of her reign due to Jia Yuanchun's machinations.\n- Thankfully, as Jia Xichun managed to win the faith of the Four Families and the board of directors, the motion of no confidence Jia Yuanchun put forth failed to garner enough votes. Jia Xichun said she wishes to make Hongyuan a place where no one needs to live in fear, a place where one does not need to project fear... Perhaps H Corp. can finally leave behind its terrible past and change for the better?\n- ... Speaking of which, are we ever going to leave this place? They've already held two separate farewell banquets for us, and after a few more excursions, I might need a third hand to count the number of times we'd bid our final good-byes to those guards at the gate. We're... we're not settling down here or anything, are we?"
-        }
-    ]
+  "dataList": [
+    {
+      "id": "DanteNoteDetail_148",
+      "title": "",
+      "desc": "- A Singularity of a Wing capable of permanently erasing or destroying technologies.\n- Its potency and scope of effect depend on the price paid, but a reasonably powerful Concept Incinerator can erase every document related to the incinerated technology, photographs, and even memories—leaving behind nothing or, if something somehow does survive, a smudge and nothing more. Does the <i>Concept</i> Incinerator delete a concept like it never even existed, or does it just \"smudge\" our perception of it?\n- Faust elaborated with an example—deleting the general concept of, say, a \"clock,\" requires literally everything even tangentially related to clocks getting chucked into the concept incinerator, but deleting only a specific model of a clock is as easy as tossing its blueprint in. In other words, a smaller scope equals easier incineration equals cheaper erasure."
+    },
+    {
+      "id": "DanteNoteDetail_149",
+      "title": "",
+      "desc": "- The Thumb, one of the five Fingers, is utterly obsessed with the concept of propriety.\nI've seen them popping people's arms out and blasting their jaws off just for questioning a superior. Though I've only met The Thumb members of the eastern branch, the Sinners tell me that they generally play by similar rules regardless of where they're based.\n- \"Rank,\" or \"Class,\" is something they're all really touchy about, which probably explains all those ridiculously detailed rules on the definitions, circumstances, types, and so on and so forth surrounding them.\n- According to those Soldato... Secando? Terzo? Anyways, according to those Thumb Soldatos we ran into in Daguanyuan, we apparently deserve to lose our jaws simply for invoking a Capo Quarto's—Lei Heng's—name without deference.\n- Hmm, I am the <i>Manager</i> of LCB... I wonder where I rank in their scale? Darn, I should've asked them when I had the chance..."
+    },
+    {
+      "id": "DanteNoteDetail_150",
+      "title": "",
+      "desc": "- The Pinky is one of the five Fingers that follows the Virtue of Humanity (仁), which I'm still a bit unsure as to what it means. The point is, they're a bit more cryptic than the other Fingers when it comes to what they pursue.\n- Instead of going around in their uniforms and advertising their true alignments like the other Fingers, they lurk anonymously in other organizations.\n- There seems to be some condition and means of summoning the Pinkies all together, but when they're not summoned, they just lead their own lives as though they aren't even a part of this Finger. I don't know, can we even call them a real organized crime Syndicate?"
+    },
+    {
+      "id": "DanteNoteDetail_151",
+      "title": "",
+      "desc": "- A bug that, when inserted into the human body, will share with its host the memories of the person who became its core.\n- Immediately after insertion via the ear, the Anamnaworm will rapidly assimilate into the host, granting them all the memories and knowledge of the source individual used to make it. Convenient, but each Anamnaworm comes with the caveat that it cannot be removed by any other means than the conditions prescribed at its creation.\n- Traditionally, all H Corp. Hierarchs were supposed to accept the \"Xianhuang Worm,\" an Anamnaworm created from the founding Hierarch, into their bodies, but we managed to make it to the Tiekan Temple in time to prevent it from assimilating into Jia Xichun.\n- In the chaotic aftermath that followed, the New League of Nine Littérateurs snatched the Xianhuang Worm away. Wei told me that, though the knowledge that once resided within the worm may be significant, the sheer time that has passed since its extraction from the previous host's body must have eroded much of it."
+    },
+    {
+      "id": "DanteNoteDetail_152",
+      "title": "",
+      "desc": "- There seem to be these mysterious figures known only as Heishou-Xianren, each managing a Pack and the corresponding Heishou Bolus. I wonder how they're distinguished from the Xianren of the Tiekan Temple?\n- The right to \"own\" the Heishou Packs is called a \"leash,\" and I think it's a kind of commodity that can be traded between people. Didn't get the chance to see for myself what those \"leashes\" look like, though.\n- There seems to be a way to \"un-leash\" a Heishou and free them from service. But from what information I could gather from the Heishou Pack Identities, such generosity rarely ever happens because the price of freeing even a single Heishou is far too costly."
+    },
+    {
+      "id": "DanteNoteDetail_153",
+      "title": "",
+      "desc": "- They're \"The Head.\" Located in... Well, I'd assume they're located in District 1.\n- If anyone breaks a Taboo of the City—whenever, wherever—The Head will swoop in to punish the perpetrator.\n- Normally, such infractions invite only the Claws, which are like enforcers from C Corp., but a Taboo violation of a sufficient scale might even end up summoning these beings called \"Arbiters.\"\n- I saw them in Hong Lu's memories of the Kong Family massacre. The moment the Kong Family \"violated\" a Taboo, the Head swooped in and destroyed all evidence that the transgression had ever occurred."
+    },
+    {
+      "id": "DanteNoteDetail_154",
+      "title": "",
+      "desc": "- E.G.O Gears extracted by the LCE or N Corp. both have traits that distinguish them from Lobotomy Corporation's E.G.O.\n- LCE E.G.O gears use \"Attunement Boost\" to surge the source Abnormality's characteristics to the forefront, and the N Corp. E.G.O gear used by Jia Huan had an extra feature that generated a shield wall of sorts to protect its user in a moment of emergency."
+    },
+    {
+      "id": "DanteNoteDetail_155",
+      "title": "",
+      "desc": "- Jia Xichun ultimately won the Family Hierarch War and became H Corp.'s Hierarch, but had a slight stumble at the beginning of her reign due to Jia Yuanchun's machinations.\n- Thankfully, as Jia Xichun managed to win the faith of the Four Families and the board of directors, the motion of no confidence Jia Yuanchun put forth failed to garner enough votes. Jia Xichun said she wishes to make Hongyuan a place where no one needs to live in fear, a place where one does not need to project fear... Perhaps H Corp. can finally leave behind its terrible past and change for the better?\n- ... Speaking of which, are we ever going to leave this place? They've already held two separate farewell banquets for us, and after a few more excursions, I might need a third hand to count the number of times we'd bid our final good-byes to those guards at the gate. We're... we're not settling down here or anything, are we?"
+    },
+    {
+      "id": "DanteNoteDetail_156",
+      "title": "",
+      "desc": "- The House of Spiders is said to have been formed by the Five Fingers with a common goal. The Fingers—at least those I've come across—hardly seem like the sort that could ever see eye to eye... Learning that they could actually come together and cooperate was a bit surprising. Makes me wonder if they've ever teamed up for anything else behind the scenes.\n- The organization is made up of five \"Nursefathers,\" chosen from each Finger, and five \"Apprentices\" brought in to fill the gap after Ryōshū left.\n- They came up with grand terms for what they gathered to create—\"the strongest killer,\" \"the blade that cuts through all\"... but these were really just another way to dress up the true purpose of their organization: to nurture and train someone with an aptitude to wield the Arayashiki and turn them into something akin to a living Concept Incinerator. That someone turned out to be Ryōshū, our Sinner #4... and while most of its members didn't survive to see it, the House <i>did</i> accomplish their objective, in the end."
+    },
+    {
+      "id": "DanteNoteDetail_157",
+      "title": "",
+      "desc": "- A Finger known for its unwavering faith in the Prescripts.\n- Their members follow these so-called \"Prescripts\" without question. I wonder who sends out the messages...\n- The Index Nursefather and his Apprentice we encountered received their Prescripts on a device, but it seems the other members of The Index receive theirs on paper slips delivered by Messengers—which raises a question: can Prescripts be delivered by other methods as well? Emails... or a phone call, maybe?\n- From what I've seen and heard so far, there seem to be positions within The Index called \"Proselytes,\" \"Proxies,\" and \"Messengers\"... but information on their hierarchy and exact roles is still unknown."
+    },
+    {
+      "id": "DanteNoteDetail_158",
+      "title": "",
+      "desc": "- A Wing War that took place with the Old L Corp. as one of the main players—before the rise of Lobotomy Corporation.\n- The horrors we experienced through Gregor's Fathoms were apparently only a tiny glimpse of the unspeakable things that actually happened during the War. Both Gregor and Outis seem extremely unwilling to talk about what exactly they witnessed back then.\n- I've heard that just a record of fighting in the War can lead to exclusion from many benefits in the City—Nest residence rights, for example. And this applies not only to the losing side but to the ones who joined the victors as well... but for what reason?\n- The Old G Corp., which fell apart following the War, reportedly possessed three decisive weapons that fought on the front lines—the Maggot Prince, the Moth Princess, and the Lord of Flies. Just hearing the name makes me... well, not want to encounter anything of the sort.\n- Gregor metamorphosed into the Roach Emperor, a Wing's decisive weapon whose rumors are told only in urban legends. Even Vergilius found him a difficult opponent to face. I wonder if the other entities—\"decisive weapons\"—were that strong, too. And of course, just what kind of insane force did the winning Wings have at their disposal to emerge as victors?"
+    },
+    {
+      "id": "DanteNoteDetail_159",
+      "title": "",
+      "desc": "- According to Sinclair from the future—or, perhaps, according to one of Sinclair's future possibilities—another war seems to have broken out where he came from.\n- The Second Smoke War. If such a future ever becomes reality, what would it mean for us all?"
+    },
+    {
+      "id": "DanteNoteDetail_160",
+      "title": "",
+      "desc": "- In that mansion, Faust told me to \"simply do as you will—as one seeks the stars in the night sky.\" I still don't fully understand the whats and hows, but by resonating with the Golden Bough, I've gained access to several unusual abilities.\n- I can slow down time, support the Sinners when they use E.G.O, and suppress the strength of our enemies. And now, I can even summon the Sinners' Identities from afar. Faust insists that it's not a \"summoning magic,\" though...\n- Hohenheim says the Golden Boughs we've gathered are being grafted together into a single sapling. A single Bough alone can exercise immense power—what would happen if they're all combined? And what exactly do the higher-ups plan to do with it?"
+    },
+    {
+      "id": "DanteNoteDetail_161",
+      "title": "",
+      "desc": "- This is \"every Fixer's dream\" and the reason they live for, says Don Quixote. \"Individuals who have attained the complete perfection of liberty and freedom as Fixers\"... is what she so enthusiastically proclaimed about these people. Though, thinking back on the Fixers we've met and the Fixer Identities we've used so far... I can't help but feel that Don Quixote's statement contains a bit of her usual hyperbole.\n- Even Don Quixote doesn't seem all too sure why colors are used to name them in the first place. Some of the speculations attributed are that colors are easy to remember, and that colors represent the unique way of life each Color Fixer pursues.\n- The Red Gaze. The Indigo Elder. The Yellow Harpoon... we've fought alongside three Color Fixers already. Perhaps we'll come to encounter others in the future, but I'd <i>definitely</i> prefer not to meet them as enemies."
+    },
+    {
+      "id": "DanteNoteDetail_162",
+      "title": "",
+      "desc": "- I met Moses, LCD's On-site Investigative Reasoning Team Leader.\n- Unlike me, who can only tell whether an entity is a Distortion or not through a vague sense of frequency waves, so to speak... She seems to have the ability to somehow directly perceive and witness potential Distortions within other people. It's really a mysterious power, I'll give her that.\n- Aeng-du and Bamboo-hatted Kim have joined the LCD, too. Meaning, we'll be crossing paths with them more often than we think."
+    },
+    {
+      "id": "DanteNoteDetail_163",
+      "title": "",
+      "desc": "- Outis suggested that the \"Muga,\" which the House tried to turn Ryōshū into, might be a kind of Concept Incinerator, too... but Faust flatly rejected the idea. The principle and nature of the Muga are entirely different from how a Concept Incinerator might work, she said.\n- According to Hohenheim, a technology capable of burning away the very concept of an object or a being simply by throwing the thing you want erased into it—that alone would amount to a Singularity.\n- Yi Sang added that it is because all that is tethered to what has been placed within the Muga is severed away, and that which is severed from all becomes what exists yet has been disconnected from the world, thereby its state assuming nonexistence for the universe... I might not have understood that explanation before, but now, I think... I can at least piece together a little something.\n- Rien, the Index Nursefather, left a warning that Ryōshū will be the most important subject of discussion in the next Finger Bow-Bell. I have no idea how exactly a Finger Bow-Bell takes place, or how dangerous it might be... but one thing is for sure: it's coming, and I'll need to brace myself for the troubles it'll bring."
+    }
+  ]
 }

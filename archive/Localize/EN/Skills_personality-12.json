@@ -2481,7 +2481,7 @@
         {
           "level": 4,
           "name": "Electric Release",
-          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [Charge] on self (max 30%)</style>\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 5 [Charge] Count on self (max 2)</style>\n<style=\"highlight\">[WhenUse] At less than 10 [Charge], gain +2 [Charge] Count</style>",
+          "desc": "<style=\"highlight\">[WhenUse] Deal +6% damage for every [Charge] on self (max 30%)</style>\n[WhenUse] At 3+<style=\"highlight\">/5+</style> [Charge], Coin Power +1<style=\"highlight\">/+2</style>\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 5 [Charge] Count on self (max 2)</style>\n<style=\"highlight\">[WhenUse] At less than 10 [Charge] Count, gain +2 [Charge] Count</style>",
           "coinlist": [
             {
               "coindescs": [

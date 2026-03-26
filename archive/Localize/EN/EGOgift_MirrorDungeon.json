@@ -2437,7 +2437,7 @@
     {
       "id": 9091,
       "name": "Bell of Truth",
-      "desc": "Inflict 1 [Vulnerable] this turn to enemies affected by [Vibration] Burst. (Activates once per Attack Skill that triggers [VibrationExplosion])",
+      "desc": "Inflict 1 [Vulnerable] this turn to enemies affected by [VibrationExplosion]. (Activates once per Attack Skill that triggers [VibrationExplosion])",
       "simpleDesc": [
         {
           "abilityID": 9091,

@@ -158,7 +158,7 @@
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[После крит. атаки]"
+      "name": "[В конце крит. атаки]"
     },
     {
       "id": "CantChangeTarget",
@@ -210,7 +210,7 @@
     },
     {
       "id": "EndCoin",
-      "name": "[После удара текущей Монетой]"
+      "name": "[В конце атаки Монетой]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",

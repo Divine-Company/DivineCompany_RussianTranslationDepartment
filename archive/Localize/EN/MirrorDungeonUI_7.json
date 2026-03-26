@@ -138,7 +138,7 @@
     },
     {
       "id": "mirror_dungeon_ego_gift_acquire_status_filter",
-      "content": "Filter - Acquision"
+      "content": "Filter - Acquisition"
     },
     {
       "id": "mirror_dungeon_ego_gift_acquire_status_filter_content_0",
@@ -147,6 +147,82 @@
     {
       "id": "mirror_dungeon_ego_gift_acquire_status_filter_content_1",
       "content": "Unacquired"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_inventory_no_owned_ego_gift",
+      "content": "No E.G.O Gifts Owned"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_no_owned_ego_gift",
+      "content": "No E.G.O Gifts Owned"
+    },
+    {
+      "id": "mirror_dungeon_card_theme_appear_floor",
+      "content": "Featured Floors"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_OWNED_WITH_DETAIL_TAG",
+      "content": "Owned"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_CLEAR_THEME_REWARD",
+      "content": "Clear Rewards"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_THEME_LIMITED_EGO_GIFT",
+      "content": "Current Theme Pack-Exclusive"
+    },
+    {
+      "id": "EgoGiftListPopupTabType_EGO_GIFT_POOL_IN_CURRENT_THEME",
+      "content": "Featured"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_owned_scroll_tag_default",
+      "content": "Regular"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_owned_scroll_tag_theme_limited",
+      "content": "Theme Pack-Exclusive"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_clear_scroll_tag_theme_limited",
+      "content": "Theme Pack-Exclusive"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_clear_scroll_tag_theme_default",
+      "content": "Regular"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_theme_limited_scroll_tag_theme_limited",
+      "content": "Current Theme Pack-Exclusive"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_combine_scroll_tag_theme_limited",
+      "content": "Theme Pack-Exclusive"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_combine_scroll_tag_theme_limited_combine_ego_gift",
+      "content": "Current Theme Pack-Exclusive - Fusion"
+    },
+    {
+      "id": "ego_gift_list_default",
+      "content": "E.G.O Gifts"
+    },
+    {
+      "id": "mirror_dungeon_theme_list_popup_no_theme_on_list",
+      "content": "No Theme Packs unlocked."
+    },
+    {
+      "id": "mirror_dungeon_theme_list_popup_no_selected_theme_on_list",
+      "content": "No Theme Packs selected."
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_theme_ego_gift_pool_scroll_tag_rate_up",
+      "content": "Rate Up"
+    },
+    {
+      "id": "mirror_dungeon_ego_gift_list_popup_theme_ego_gift_pool_scroll_tag_appearable",
+      "content": "Featured"
     }
   ]
 }
