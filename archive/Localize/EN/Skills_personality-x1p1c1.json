@@ -1,0 +1,1023 @@
+{
+  "dataList": [
+    {
+      "id": 40002501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Shell Trim",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Shell Do It!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Sinking; Inflict +1 Sinking Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Is Ideal...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 Fragile next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is Nuthin' Unideal",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hm.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paus will do dis.",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "I Muss Impwove My Balance.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bigger and Bigger...",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jussis!",
+          "desc": "[WinDuel] Gain 2 Haste next turn",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jussis!!",
+          "desc": "[WinDuel] Gain 2 Attack Power Up next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Jussis!!!",
+          "desc": "At 10+ Speed, Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 Bleed count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jussis?",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heh.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 Poise next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shotening.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "If target took damage this turn, deal +30% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If target took damage this turn, deal +30% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "S.C.N.C.",
+          "desc": "[StartBattle] Gain 2 [SlashDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 Poise next turn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "F.U.",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leave this to me.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prepare le Plat-doo-joor.",
+          "desc": "[WhenUse] Gain 3 Defense Power Up next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Mizanplas.",
+          "desc": "Gain 3 [Protection] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mm.",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lets Get Dis~",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "That's Weally Cool~",
+          "desc": "If this unit did not take damage in the previous turn, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Not My Taste!",
+          "desc": "If this unit did not take damage in the previous turn, Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is Yummy?",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hehehe!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brek Your Leg Wib Leg!",
+          "desc": "[WhenUse] Gain Attack Power Up and Damage Up next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Dye!!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... Wacha Lookin' at?!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heeey!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Did I Do Good?",
+          "desc": "[WinDuel] Inflict 3 Defense Power Down",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Gimme Yer Meats!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; inflict 1 Blunt Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kick Its Butt, Plis!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hm Hm Hm~",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sho Tashty!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Sumthing to Eat!",
+          "desc": "At 0- SP, Skill Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has 6+ [Laceration], deal +20% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wan Tasty Food?",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "C'mere!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm Gonna be Bwave, too...!",
+          "desc": "[WinDuel] Deal +30% damage",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Your Marinade...! I'll Puwge—",
+          "desc": "[WinDuel] Gain 1 Attack Power Up",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bwo! Bwo!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pwocure Ingwedient!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Commewce Opewation!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit's Speed is faster than target’s, deal +20% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit's Speed is faster than target’s, deal +20% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Gaswonomical Experrance!",
+          "desc": "If target is at 50%+ HP, deal +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Teach Dem a Lesson, Executive Teach!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clo Grabber!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 4 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Havta Faight...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Pierce Fragility"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Hiyah!!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has [Burst], deal +10% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Heal HP equal to 30% damage dealt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Am Not Buggy!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

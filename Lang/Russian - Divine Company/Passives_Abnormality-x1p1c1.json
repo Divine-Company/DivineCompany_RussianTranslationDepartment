@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 136501,
+      "name": "Dignity of the B.E.",
+      "desc": "Turn End: Deal 5 SP damage to all enemies"
+    },
+    {
+      "id": 136502,
+      "name": "Bulging Chicken",
+      "desc": "When Hit: Gain 1 [LeakedOutSauce]"
+    },
+    {
+      "id": 136503,
+      "name": "Tango Marinade",
+      "desc": "If this unit's Speed is faster than the target's, Clash Power +(Speed / 3)"
+    },
+    {
+      "id": 138701,
+      "name": "I'll Just Have to Force-feed You!",
+      "desc": "Turn End: Inflict 1 [DeliciousSauce] on all enemies next turn"
+    },
+    {
+      "id": 138702,
+      "name": "Let's All Cook Together!",
+      "desc": "Turn End: Heal 10 SP for all allies and enemies participating in this battle (excluding this unit)"
+    },
+    {
+      "id": 138703,
+      "name": "It was All... for the Kids.",
+      "desc": "On Attack Hit: Deal -1% damage for every 1% missing HP on target"
+    }
+  ]
+}

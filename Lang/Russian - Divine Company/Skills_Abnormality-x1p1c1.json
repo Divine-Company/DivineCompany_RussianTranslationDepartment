@@ -1,0 +1,362 @@
+{
+  "dataList": [
+    {
+      "id": 136501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluck!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluckcoo!",
+          "desc": "[WideAreaRampage]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bawkcoo!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bawkkawkcoo!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bawkkawkcluckcoo!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Deal 3 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Deal 3 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Deal 3 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khhcluck!",
+          "desc": "[CanDuelGuard]\n[WinDuel] Deal 5 SP damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kgh!",
+          "desc": "[WhenUse] Target heals 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target heals 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khgh",
+          "desc": "[WideAreaRampage]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Screecoo!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khk",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Poultry Apocalypse",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 138706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keghgh",
+          "desc": "[CanDuelGuard]\n[WinDuel] Target heals 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

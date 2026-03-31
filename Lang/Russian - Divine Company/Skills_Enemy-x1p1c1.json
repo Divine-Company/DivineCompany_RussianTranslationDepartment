@@ -1,0 +1,174 @@
+{
+  "dataList": [
+    {
+      "id": 9103901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwogh",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwaagh",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Babawbawk!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluckcluck!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 Plus Coin Drop next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluuuck!",
+          "desc": "[WinDuel] Skill Power +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gwoghkwogh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bwoghkh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor next turn"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khgwok",
+          "desc": "[WhenUse] Heal 10 HP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

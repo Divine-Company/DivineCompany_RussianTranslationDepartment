@@ -1,0 +1,509 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Limbus Kindergarten?",
+      "model": "단테",
+      "content": "<Huh, we can get stuff other than meat from them?>"
+    },
+    {
+      "id": 1,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Of course. Bongy have a habit of collecting and storing ingredients near their home in their lower bodies."
+    },
+    {
+      "id": 2,
+      "content": "<i>What</i> lower body...? The limbs?"
+    },
+    {
+      "id": 3,
+      "content": "I looked up toward the Perky Penguins, once again diving deep into my well of memories to see if these Bongy things even had a lower body..."
+    },
+    {
+      "id": 4,
+      "model": "그레고르만우",
+      "content": "*sigh* Guys..."
+    },
+    {
+      "id": 5,
+      "content": "... and saw Gregor, poking at a Bongy's carcass stripped of flesh."
+    },
+    {
+      "id": 6,
+      "content": "At a glance, it may have appeared as nothing more than an everyday childish curiosity, but there was a solemn look on the kid's face that gave me pause."
+    },
+    {
+      "id": 7,
+      "model": "로쟈만우",
+      "content": "Hey, Greg~ Don't touch that! Yucky, yucky."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<\"Yucky\"? You're about to make food from that, you know...?>"
+    },
+    {
+      "id": 9,
+      "model": "로쟈만우",
+      "content": "Huh? Uh, uhm... Bongy looks fat and juicy, but..."
+    },
+    {
+      "id": 10,
+      "model": "로쟈만우",
+      "content": "... after you get all the meat off, it looks like... ewie, looks like a buggy! Yuck!"
+    },
+    {
+      "id": 11,
+      "model": "그레고르만우",
+      "content": "<i>Bwehhh!!!</i>"
+    },
+    {
+      "id": 12,
+      "content": "And so, Gregor began bawling."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Rodya! You're being mean! Apologize to Gregor, now!>"
+    },
+    {
+      "id": 14,
+      "content": "... Bugs and Gregor crying... I wasn't sure how these two things were related, but a voice in me urged me to demand that Rodya apologize to Gregor."
+    },
+    {
+      "id": 15,
+      "model": "로쟈만우",
+      "content": "Huhh? B-but what'd I do...?"
+    },
+    {
+      "id": 16,
+      "model": "그레고르만우",
+      "content": "*sob* Appl—apowogize!"
+    },
+    {
+      "id": 17,
+      "model": "로쟈만우",
+      "content": "Ugh. Okay, okay... sowwy. I'm sowwy, 'kay?"
+    },
+    {
+      "id": 18,
+      "model": "로쟈만우",
+      "content": "Sowwy about calling your big, meaty claws \"buggy,\" 'kay~? So quit cryin'—"
+    },
+    {
+      "id": 19,
+      "model": "그레고르만우",
+      "content": "Waaaaaah!!! It's n-not b-*hic*bug, It's n-not buggy...!"
+    },
+    {
+      "id": 20,
+      "model": "로쟈만우",
+      "content": "Sheesh... why won't he quit crying...? Y-you hungry or something? Wan tasty food?"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Do you <i>really</i> not understand why...?>"
+    },
+    {
+      "id": 22,
+      "content": "As Rodya was struggling to calm Gregor down, light, even footsteps approached me from behind."
+    },
+    {
+      "id": 23,
+      "model": "뫼르소만우",
+      "content": "Principal."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Y-yes, sir?>"
+    },
+    {
+      "id": 25,
+      "content": "Something about the way the low, level voice spoke struck me as oddly familiar, so I whipped around to see who it came from."
+    },
+    {
+      "id": 26,
+      "content": "Yeah, there's no way we're running this place with <i>two</i> teachers. This has to be the third teacher who's managing one of the other classes—"
+    },
+    {
+      "id": 27,
+      "content": "... But I saw no one."
+    },
+    {
+      "id": 28,
+      "model": "뫼르소만우",
+      "content": "Down here."
+    },
+    {
+      "id": 29,
+      "content": "The voice was low. In terms of height, that is."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<Oh. Hey, Meursault.>"
+    },
+    {
+      "id": 31,
+      "model": "뫼르소만우",
+      "content": "That is me. The meal is now prepared. I have come to fetch you, Principal."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<That's uh, ha ha. You've got a pretty baritone voice for a kid...>"
+    },
+    {
+      "id": 33,
+      "content": "This kid doesn't even talk like a toddler..."
+    },
+    {
+      "id": 34,
+      "model": "뫼르소만우",
+      "content": "Thank you for the compliment."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 36,
+      "model": "뫼르소만우",
+      "content": "I will lead the Perky Penguins to the venue. Seat yourself at the chaperone's chair in the kitchen and oversee the proceedings."
+    },
+    {
+      "id": 37,
+      "model": "뫼르소만우",
+      "content": "Sinnerling Outis, the Class Captain, is already at the venue."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<O-okay... Thanks.>"
+    },
+    {
+      "id": 39,
+      "content": "... Flabbergasted, I stared at Meursault walking toward Rodya and Gregor in that steady, even pace, then made my way into the kitchen."
+    },
+    {
+      "id": 40,
+      "place": "Kindergarten Kitchen?",
+      "model": "단테",
+      "content": "<The kitchen's a real mess, huh...>"
+    },
+    {
+      "id": 41,
+      "model": "오티스만우",
+      "content": "A mess?! Executive Teach, errything is where it outta be!"
+    },
+    {
+      "id": 42,
+      "content": "Is it...?"
+    },
+    {
+      "id": 43,
+      "content": "Hmm, something about this place feels oddly familiar, too... I guess this is how this place has always looked?"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Ahem. So... what kind of dish are you preparing, class?>"
+    },
+    {
+      "id": 45,
+      "model": "뫼르소만우",
+      "content": "We have prepared a Bongy Fwit."
+    },
+    {
+      "id": 46,
+      "content": "Oh, so he's still getting used to words that are hard to pronounce."
+    },
+    {
+      "id": 47,
+      "content": "Hang on, why'd he say that in past tense?"
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<Wait, but Rodya and Gregor <i>just</i> got here, didn't they? Weren't they a part of your team, too? I guess Gregor might be a bit too young to start cooking, but...>"
+    },
+    {
+      "id": 49,
+      "model": "뫼르소만우",
+      "content": "Allow me to explain, Principal. Sinnerling Rodya was intentionally excluded from the cooking process under suspicion of causing a repeated loss of ingredients."
+    },
+    {
+      "id": 50,
+      "model": "로쟈만우",
+      "content": "Whaa?! Whaddaya take me fow?!"
+    },
+    {
+      "id": 51,
+      "model": "로쟈만우",
+      "content": "Big Teach! Kick Merr's butt!"
+    },
+    {
+      "id": 52,
+      "model": "뫼르소만우",
+      "content": "She has just consumed another one of the Bongy drumsticks."
+    },
+    {
+      "id": 53,
+      "model": "오티스만우",
+      "content": "Teach 'er a lesson, Executive Teach!"
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<... That's it. Rodya, go sit in the corner there. It's the time-out chair for you.>"
+    },
+    {
+      "id": 55,
+      "model": "로쟈만우",
+      "content": "Whaa?! Why?! But... but if dere's food, I gotta get it into my mauth, or... they'll be all gone! And I'm gonna starve and die!"
+    },
+    {
+      "id": 56,
+      "content": "... Is that really something a child of her age should be saying? Just what kind of awful condition has she been living in?"
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<Too bad, but I can't let it slide when I <i>just</i> saw you sneaking away with a drumstick. Off to the corner, now.>"
+    },
+    {
+      "id": 58,
+      "model": "로쟈만우",
+      "content": "Hnnngh... But I gave away cwookies! I was a good girl!!!"
+    },
+    {
+      "id": 59,
+      "model": "오티스만우",
+      "content": "Is the diwect orders from the Executive Teach! To the corner now, you-you embawassed the Perky Penguins!"
+    },
+    {
+      "id": 60,
+      "content": "Outis might be going a bit overboard..."
+    },
+    {
+      "id": 61,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Ha ha. Kids'll be kids, huh? All part of the learning process."
+    },
+    {
+      "id": 62,
+      "content": "... I looked at Miss Yuri, but she only wore an innocent, kindly smile one might have when watching children play their silly games."
+    },
+    {
+      "id": 63,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Okay, then... Meursault? Will you do the honors of explaining this dish to us?"
+    },
+    {
+      "id": 64,
+      "model": "뫼르소만우",
+      "content": "Yes. As today's ordorbrr..."
+    },
+    {
+      "id": 65,
+      "content": "The explanation continued for a while with a similar level of incomprehensibility. Did he mean hors d'oeuvres...?"
+    },
+    {
+      "id": 66,
+      "content": "As I listened, I became increasingly suspicious whether these were the vocabulary and loquaciousness of a toddler, but..."
+    },
+    {
+      "id": 67,
+      "content": "Once I saw a smugly satisfied Outis return from her \"arrest,\" after having properly \"restained\" the \"perperrator,\" Rodya..."
+    },
+    {
+      "id": 68,
+      "content": "... only to produce a crayon and a massive sketch pad from who-knows-where and begin a whole lecture on how this dish came to be, well..."
+    },
+    {
+      "id": 69,
+      "content": "Eventually, I stopped thinking."
+    },
+    {
+      "id": 70,
+      "content": "This is just the kind of world I live in, I guess."
+    },
+    {
+      "id": 71,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Okay~ Thank you so much for explaining it, everyone!"
+    },
+    {
+      "id": 72,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Now, Miss Yuri will try a bite—"
+    },
+    {
+      "id": 73,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Hm? Oh, looks like there's something you haven't explained yet, Meursault."
+    },
+    {
+      "id": 74,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "What is this... thing, on top of your dish?"
+    },
+    {
+      "id": 75,
+      "content": "Miss Yuri pointed at an unfamiliar object standing upright atop the dish, almost like a birthday candle."
+    },
+    {
+      "id": 76,
+      "content": "Wait, isn't that what Gregor's been picking up earlier...?"
+    },
+    {
+      "id": 77,
+      "model": "그레고르만우",
+      "content": "Now... Heh... They won't be fowgetted."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<It's a lower limb of a Bongybug—>"
+    },
+    {
+      "id": 79,
+      "content": "<i>BAM!</i>"
+    },
+    {
+      "id": 80,
+      "content": "In the blink of an eye, Meursault's fist slammed down upon the delectable fried Bongy and turned it into shapeless mush, alongside the unfamiliar object..."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<M-Meursault!?>"
+    },
+    {
+      "id": 82,
+      "model": "오티스만우",
+      "content": "Executive Teach! I-I can explain thith! Issa, uhh—!"
+    },
+    {
+      "id": 83,
+      "model": "오티스만우",
+      "content": "Sinnerling Meursault! Expwain! Was this desucctive perfornance part of this gasronomical experrance?"
+    },
+    {
+      "id": 84,
+      "model": "오티스만우",
+      "content": "Speak! What is the name of this dish!?"
+    },
+    {
+      "id": 85,
+      "model": "뫼르소만우",
+      "content": "Le Plat-doo-joor."
+    },
+    {
+      "id": 86,
+      "model": "뫼르소만우",
+      "content": "... Mashy Fried Bongy."
+    },
+    {
+      "id": 87,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<It's the time-out chair for all of you, too! Go sit!>"
+    },
+    {
+      "id": 89,
+      "content": "The first contestants' food was completely wasted..."
+    },
+    {
+      "id": 90,
+      "place": "Limbus Kindergarten?",
+      "model": "단테",
+      "content": "<Phewie...>"
+    },
+    {
+      "id": 91,
+      "content": "I had walked out of the kitchen to get some fresh air and cool my head when someone tugged at my pants."
+    },
+    {
+      "id": 92,
+      "content": "I looked down to find..."
+    },
+    {
+      "id": 93,
+      "model": "단테",
+      "content": "<Oh hi, Yi Sang.>"
+    },
+    {
+      "id": 94,
+      "model": "이상만우",
+      "content": "Yesh, it is I, Yi Sang. Dante. Big Teesh."
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<... Right. Still getting used to calling me by my title, huh?>"
+    },
+    {
+      "id": 96,
+      "model": "이상만우",
+      "content": "Issat odd?"
+    },
+    {
+      "id": 97,
+      "model": "단테",
+      "content": "<Nah... it's okay. What's up?>"
+    },
+    {
+      "id": 98,
+      "model": "이상만우",
+      "content": "Cheery Chickies is reddy for da hans-on class. Will you help, Dante? Uh, Big Teesh?"
+    },
+    {
+      "id": 99,
+      "content": "I can see the other Sinnerlings in the distance, all wearing yellow \"Cheery Chickies\" backpacks."
+    },
+    {
+      "id": 100,
+      "model": "히스클리프만우",
+      "content": "Hee hee hee! Issa leggy billy! Hee hee hee!"
+    },
+    {
+      "id": 101,
+      "model": "이스마엘만우",
+      "content": "Big T! Big T! Heathcliff—Heathcliff's—! Eeeep! Hey, quit swinging! You're spraying chicken juice evewywhere!"
+    },
+    {
+      "id": 102,
+      "model": "싱클레어만우",
+      "content": "Bwo! Cap! Ishmael and Heathcliff are fighting again!"
+    },
+    {
+      "id": 103,
+      "model": "단테",
+      "content": "<... They <i>are</i> ready, right?>"
+    },
+    {
+      "id": 104,
+      "model": "이상만우",
+      "content": "... This ish as ideal as it gets, Big Teesh Dante."
+    },
+    {
+      "id": 105,
+      "content": "I feel like my head's about to burst into flames... I mean, more so than usual, I guess."
+    }
+  ]
+}

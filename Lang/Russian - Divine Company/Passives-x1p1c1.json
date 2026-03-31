@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 40002501,
+      "name": "Infowmashun Weway",
+      "desc": "Apply 1 Damage Up to 2 allies placed after this unit on the Dashboard."
+    },
+    {
+      "id": 40002502,
+      "name": "Infowmashun Newtwawiwashun",
+      "desc": "At the end of the turn, Heal 10 SP for 1 ally with the least SP if they lost SP."
+    },
+    {
+      "id": 40002601,
+      "name": "Anawytic Ewe",
+      "desc": "Deal +10% damage to units with negative status effects."
+    },
+    {
+      "id": 40002602,
+      "name": "Keen Obsewashun",
+      "desc": "1 ally with the highest Max HP inflicts 2 Offense Level Down with attacks at a 25% chance."
+    },
+    {
+      "id": 40002701,
+      "name": "Wicheous Retwibyushun",
+      "desc": "On Clash Win, deal +10% damage with the Skill"
+    },
+    {
+      "id": 40002702,
+      "name": "Support",
+      "desc": "1 ally with the most SP deals +10% Pierce damage."
+    },
+    {
+      "id": 40002801,
+      "name": "Indiscwiminate Awt",
+      "desc": "Deal and take +25% damage."
+    },
+    {
+      "id": 40002802,
+      "name": "Hustlwe",
+      "desc": "1 ally with the lowest Max HP deals and takes +20% damage."
+    },
+    {
+      "id": 40002901,
+      "name": "Stawchnesh",
+      "desc": "At less than 50% HP, gain 1 Protection at the start of the combat phase."
+    },
+    {
+      "id": 40002902,
+      "name": "Backap",
+      "desc": "1 ally with the highest Max HP takes -10% damage from attack skills."
+    },
+    {
+      "id": 40003001,
+      "name": "Entewtainment",
+      "desc": "Heal 6 SP next turn."
+    },
+    {
+      "id": 40003002,
+      "name": "Fwivowous Jokes",
+      "desc": "At the start of the combat phase, the ally with the least SP heals 6 SP."
+    },
+    {
+      "id": 40003101,
+      "name": "Reshenshimen",
+      "desc": "Deal +10% damage to targets with higher Max HP."
+    },
+    {
+      "id": 40003102,
+      "name": "Spite-dwiven",
+      "desc": "1 ally with the lowest Max HP deals +10% Blunt damage."
+    },
+    {
+      "id": 40003201,
+      "name": "Las-ditch Stwuggle",
+      "desc": "At less than 25% HP, gain +1 clash Power in a clash."
+    },
+    {
+      "id": 40003202,
+      "name": "Detewminashun to Suwiwe",
+      "desc": "1 ally with the least HP and less than 50% of Max HP gains +1 Clash Power in a clash."
+    },
+    {
+      "id": 40003301,
+      "name": "Spwit Ewil",
+      "desc": "On hit, inflict 1 Bleed at a 50% chance."
+    },
+    {
+      "id": 40003302,
+      "name": "Gamblwr",
+      "desc": "1 ally with the most HP deals +20% damage with Heads Coins."
+    },
+    {
+      "id": 40003401,
+      "name": "Pwuckinesh",
+      "desc": "When an ally is defeated, gain 1 Attack Power Up next turn."
+    },
+    {
+      "id": 40003402,
+      "name": "Gwudge",
+      "desc": "1 ally with the least SP gains 1 Attack Power Up the turn after an ally is defeated."
+    },
+    {
+      "id": 40003501,
+      "name": "Executewor",
+      "desc": "If target’s SP is below 0, deal +10% damage."
+    },
+    {
+      "id": 40003502,
+      "name": "Miwitawy Minset",
+      "desc": "1 ally with the most HP deals +30% damage to enemies below 0 SP."
+    },
+    {
+      "id": 40003601,
+      "name": "Fowced Suwival",
+      "desc": "Heal 5 HP at the start of the combat phase."
+    },
+    {
+      "id": 40003602,
+      "name": "Jean Cod G-0",
+      "desc": "At the start of the combat phase, the ally with the least HP heals 5 HP."
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "I must remain calm."
+    },
+    {
+      "id": 1,
+      "content": "Whatever happens, no matter what horror materializes before my eyes, I must hold steadfast."
+    },
+    {
+      "id": 2,
+      "content": "Because I am..."
+    },
+    {
+      "id": 3,
+      "teller": "???",
+      "title": "???",
+      "content": "Oookay, sooo..."
+    },
+    {
+      "id": 4,
+      "teller": "???",
+      "title": "???",
+      "content": "Sooo, that one punched thaaat one! Ok?"
+    },
+    {
+      "id": 5,
+      "content": "... at a place where events that defy human understanding occur like everyday accidents."
+    },
+    {
+      "id": 6,
+      "place": "Limbus Kindergarten?",
+      "model": "단테",
+      "content": "<Uh-huh... So kids, why don't we try doing this one by one? Do you want to go first?>"
+    },
+    {
+      "id": 7,
+      "teller": "???",
+      "title": "???",
+      "content": "W-we said we'll neva tattle! Are ya a tattler? Areyagonna tattle?"
+    },
+    {
+      "id": 8,
+      "teller": "???",
+      "title": "???",
+      "content": "Am not!"
+    },
+    {
+      "id": 9,
+      "content": "I don't really remember how my life choices landed me this particular occupation, but..."
+    },
+    {
+      "id": 10,
+      "teller": "???",
+      "title": "???",
+      "content": "Heh. It's totes F.U."
+    },
+    {
+      "id": 11,
+      "teller": "???",
+      "title": "???",
+      "content": "Uhh-ohh...! But Big Teach said no bad worrs!"
+    },
+    {
+      "id": 12,
+      "teller": "???",
+      "title": "???",
+      "content": "Ya, ya! Big Teach, kick her butt, too!"
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Riiight... I'm the principal of a kindergarten...>"
+    },
+    {
+      "id": 14,
+      "content": "Regardless of everything that's happening and has happened, the only thing I know for real is that..."
+    },
+    {
+      "id": 15,
+      "content": "... I'm in hell. Possibly. Probably. By all accounts, at least."
+    },
+    {
+      "id": 16,
+      "content": "After some time..."
+    },
+    {
+      "id": 17,
+      "content": "According to the Sinnerlings' \"recap,\" it seems that the gist of why they've been fighting is as follows:"
+    },
+    {
+      "id": 18,
+      "content": "(... <i>Sinnerlings</i>? Is that even a real word...? Well, anyhoo...)"
+    },
+    {
+      "id": 19,
+      "content": "When the teacher doubling as the kindergarten dietitian announced that she was going to hold a hands-on cooking class with the Sinnerlings, the three classrooms—Cheery Chickies, Early Elephants, and Perky Penguins—could not agree on the type of dish they wanted to cook, and started a \"war\" of sorts."
+    },
+    {
+      "id": 20,
+      "content": "While they managed to come to an agreement that recipes using \"Bongy\" as the main ingredient made for the bestest and the tastiest cuisine, the core of the conflict was that none of them could concur on just <i>what</i> kind of dish it was to be."
+    },
+    {
+      "id": 21,
+      "content": "One thing led to another, and it culminated in this ridiculous cooking contest between classrooms with the kindergarten dietitian presiding as the ultimate judge of flavor..."
+    },
+    {
+      "id": 22,
+      "content": "... Weird, this whole sequence of events feels oddly familiar."
+    },
+    {
+      "id": 23,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "*sigh* You've got your work cut out for you, Principal."
+    },
+    {
+      "id": 24,
+      "model": "카론만우",
+      "title": "Driver",
+      "content": "Kids, total messes. Charon, super disappointed."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Ah! Miss Yuri, Miss Charon.>"
+    },
+    {
+      "id": 26,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Can't be easy chaperoning 12 kids with wildly different temperaments, huh?"
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<Oh, I can't complain. It's not like I'm doing this all on my own, right? Especially with the two of you handling two classrooms each, too...>"
+    },
+    {
+      "id": 28,
+      "model": "카론만우",
+      "title": "Driver",
+      "content": "One of the two's out all day. Charon's got it easy-peasy."
+    },
+    {
+      "id": 29,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Ahahaha... I guess Miss Charon's teaching style's a bit laissez-faire."
+    },
+    {
+      "id": 30,
+      "model": "카론만우",
+      "title": "Driver",
+      "content": "And Early Elephants're quiet kids. Not hyper like other kids. Nope."
+    },
+    {
+      "id": 31,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Ha ha..."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<W-wait, I need to talk to you two about something! Listen, the kids've stirred up some more trouble today.>"
+    },
+    {
+      "id": 33,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Trouble? Hehe."
+    },
+    {
+      "id": 34,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "I initially planned this hands-on class to be a collective experience where we'd all work on the same dish, but..."
+    },
+    {
+      "id": 35,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "... I'm sure cooking various different recipes will be a very educational experience for the kids, too!"
+    },
+    {
+      "id": 36,
+      "content": "Miss Yuri... She's a bit different from how I remember her from my, admittedly, hazy memories."
+    },
+    {
+      "id": 37,
+      "content": "Ah, or was she always this passionate?"
+    },
+    {
+      "id": 38,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "With just the right dose of competitive spirit, I'm sure this'll be a nice opportunity for the kids to learn what it feels like to experience a sense of accomplishment!"
+    },
+    {
+      "id": 39,
+      "model": "오티스만우",
+      "content": "Lissen up, Early Elephants!! We Perky Penguins'll totally destwoy you and win the Executive Teach's favor!!!"
+    },
+    {
+      "id": 40,
+      "model": "료슈만우",
+      "content": "... Heh. G'luck."
+    },
+    {
+      "id": 41,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Oh, and in the process of working together to win, they'll have to put their heads together and learn the ways of co-operation."
+    },
+    {
+      "id": 42,
+      "model": "로쟈만우",
+      "content": "Heya, can ya help me move stuff for Learning by Doing today...?"
+    },
+    {
+      "id": 43,
+      "model": "오티스만우",
+      "content": "I must stwategize. Find some other Sinnerling fow help."
+    },
+    {
+      "id": 44,
+      "content": "This doesn't seem like a safe dosage of competitive spirit at all... And I'm not seeing even a speck of cooperation between them."
+    },
+    {
+      "id": 45,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Not to mention the physical workout they'll get from procuring the ingredients!"
+    },
+    {
+      "id": 46,
+      "content": "Eh? Procuring the what now?"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<Are you saying that the kids'll be... out collecting their own ingredients?>"
+    },
+    {
+      "id": 48,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Oh, yes."
+    },
+    {
+      "id": 49,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Look over there—the Perky Penguins are already ready to head out!"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Ready, huh...?>"
+    },
+    {
+      "id": 51,
+      "content": "My gaze followed Miss Yuri's and, naturally, caught a row of marching Sinnerlings each with some kind of item in their tiny hands."
+    },
+    {
+      "id": 52,
+      "content": "... Toys? Am I looking at a toy axe?"
+    },
+    {
+      "id": 53,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Technology these days, huh?"
+    },
+    {
+      "id": 54,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "These safety models are made for hands-on classes, so even kids can handle them without accidentally hurting themselves."
+    },
+    {
+      "id": 55,
+      "content": "Ohh... I get it now. That's what they'll be using to \"hunt\" the ingredients."
+    },
+    {
+      "id": 56,
+      "content": "Yeah no, I don't see anything wrong with that."
+    },
+    {
+      "id": 57,
+      "content": "As for those things approaching us from the distance... Are they supposed to be the ingredients?"
+    },
+    {
+      "id": 58,
+      "content": "They've got, uh, Bongy on their heads..."
+    },
+    {
+      "id": 59,
+      "model": "유리만우",
+      "title": "Dietitian",
+      "content": "Ah! They're Bongybugs from District 4! Those things have crunchy skin, which makes them perfect for grilling and deep-frying."
+    },
+    {
+      "id": 60,
+      "content": "Bongy... bugs...? I'm not sure if I like the specific juxtaposition of those two words. Wait, scratch that. Aren't Bongy supposed to be—"
+    },
+    {
+      "id": 61,
+      "model": "오티스만우",
+      "content": "Executive Teach! Reporring pogress!"
+    },
+    {
+      "id": 62,
+      "content": "As I stood there searching through my hazy memories in a daze, one of the tiny Sinnerlings marched up to me and stirred me from my trance."
+    },
+    {
+      "id": 63,
+      "model": "단테",
+      "content": "<O-Outis, hello.>"
+    },
+    {
+      "id": 64,
+      "content": "I dunno, something about her feels like she's just an adult who's inexplicably assumed the speech patterns of a toddler."
+    },
+    {
+      "id": 65,
+      "model": "오티스만우",
+      "content": "Yes, Executive Teach! Da four cadets of Perky Penguins, reporring ready for hands-on class!"
+    },
+    {
+      "id": 66,
+      "content": "Outis looked up expectantly at me, in her hand a \"weapon\" glowing in the full spectrum of the rainbow as it buzzed with all kinds of annoying noises."
+    },
+    {
+      "id": 67,
+      "content": "Oh, right. My job was to keep an eye on the Sinnerlings and ensure that today's hands-on class ends safely."
+    },
+    {
+      "id": 68,
+      "model": "단테",
+      "content": "<Sounds good. Then shall we?>"
+    },
+    {
+      "id": 69,
+      "model": "오티스만우",
+      "content": "March fort! We look forwad to your guidace!"
+    }
+  ]
+}

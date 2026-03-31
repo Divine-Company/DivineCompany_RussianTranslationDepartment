@@ -1,0 +1,30 @@
+{
+  "dataList": [
+    {
+      "id": "LeakedOutSauce",
+      "name": "Leaking Marinade",
+      "desc": "- Turn End: Gain 1 Haste next turn for every 2 Stack (max 10)\n- Expires at Turn End",
+      "summary": ""
+    },
+    {
+      "id": "DeliciousSauce",
+      "name": "Golden Recipe Sauce",
+      "desc": "- Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "Yummy_Lowmorale",
+      "name": "Yummers",
+      "desc": "- Low Morale\n- Turn Start: Gain 1 Fragile",
+      "summary": "Gain Fragile",
+      "undefined": "-"
+    },
+    {
+      "id": "Yummy_Panic",
+      "name": "Yummers",
+      "desc": "- Panic\n- Turn Start: Gain 2 Fragile",
+      "summary": "Gain Fragile",
+      "undefined": "-"
+    }
+  ]
+}

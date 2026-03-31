@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 9103901,
+      "name": "Bulging Chicken",
+      "desc": "When Hit: Gain 1 [LeakedOutSauce] (6 times per Encounter)"
+    },
+    {
+      "id": 9103902,
+      "name": "Hollowed Chicken",
+      "desc": "Turn Start: Gain 2 [Vulnerable] if this unit has no Marinade"
+    },
+    {
+      "id": 9104101,
+      "name": "HP Ampule",
+      "desc": "Turn Start: Heal 15 HP\nAt less than 50% HP, heal 15 additional HP"
+    }
+  ]
+}
