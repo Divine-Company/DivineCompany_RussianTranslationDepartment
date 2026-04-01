@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "LeakedOutSauce",
-      "name": "Leaking Marinade",
-      "desc": "- Turn End: Gain 1 Haste next turn for every 2 Stack (max 10)\n- Expires at Turn End",
+      "name": "Сочащийся маринад",
+      "desc": "В конце хода получет 1 Спешку за каждые 2 Значения (Макс. 10).\nСбрасывается в конце хода.",
       "summary": ""
     },
     {
       "id": "DeliciousSauce",
-      "name": "Golden Recipe Sauce",
-      "desc": "- Clash Power +2",
+      "name": "Золотой рецепт соуса",
+      "desc": "+2 к Силе в Схватке.",
       "summary": ""
     },
     {
       "id": "Yummy_Lowmorale",
-      "name": "Yummers",
-      "desc": "- Low Morale\n- Turn Start: Gain 1 Fragile",
+      "name": "Вкуснятина",
+      "desc": "Низкий рассудок:\nВ начале хода получает 1 Хрупкость.",
       "summary": "Gain Fragile",
       "undefined": "-"
     },
     {
       "id": "Yummy_Panic",
-      "name": "Yummers",
-      "desc": "- Panic\n- Turn Start: Gain 2 Fragile",
+      "name": "Вкуснятина",
+      "desc": "Паника:\nВ начале хода получает 2 Хрупкости.",
       "summary": "Gain Fragile",
       "undefined": "-"
     }

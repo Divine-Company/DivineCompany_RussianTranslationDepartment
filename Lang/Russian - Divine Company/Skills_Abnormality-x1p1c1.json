@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cluck!",
+          "name": "Кляк!",
           "desc": "",
           "coinlist": [
             {
@@ -14,10 +14,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 5 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -30,7 +30,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cluckcoo!",
+          "name": "Куракуку!",
           "desc": "[WideAreaRampage]",
           "coinlist": [
             {
@@ -39,10 +39,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 3 ПР"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -52,10 +52,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 3 ПР"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -65,10 +65,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 3 ПР"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Vibration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -81,7 +81,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkcoo!",
+          "name": "Кукураку!",
           "desc": "",
           "coinlist": [
             {
@@ -90,10 +90,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 5 [Vibration:`Тремора`]"
                 }
               ]
             },
@@ -103,10 +103,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Цель теряет 5 ПР"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 5 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -119,7 +119,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkkawkcoo!",
+          "name": "Кукукуракуку!",
           "desc": "",
           "coinlist": [
             {
@@ -128,10 +128,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 3 [Paralysis:`Паралича`]"
                 }
               ]
             }
@@ -144,7 +144,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkkawkcluckcoo!",
+          "name": "Кукукуракукуру!",
           "desc": "",
           "coinlist": [
             {
@@ -153,10 +153,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 3 ПР"
                 }
               ]
             },
@@ -166,10 +166,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 3 ПР"
                 }
               ]
             },
@@ -179,10 +179,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Paralysis]"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Накладывает 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 SP damage"
+                  "desc": "[OnSucceedAttackHead] Цель теряет 3 ПР"
                 }
               ]
             }
@@ -195,8 +195,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khhcluck!",
-          "desc": "[CanDuelGuard]\n[WinDuel] Deal 5 SP damage",
+          "name": "Кукукудах!",
+          "desc": "[CanDuelGuard]\n[WinDuel] Цель теряет 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -214,13 +214,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kgh!",
-          "desc": "[WhenUse] Target heals 5 SP",
+          "name": "Кхя!",
+          "desc": "[WhenUse] Цель восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target heals 5 SP"
+                  "desc": "[OnSucceedAttack] Цель восстанавливает 5 ПР"
                 }
               ]
             }
@@ -233,27 +233,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgh",
+          "name": "Кхя",
           "desc": "[WideAreaRampage]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -266,20 +266,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Screecoo!",
+          "name": "Скрекудах!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] "
                 }
               ]
             }
@@ -292,13 +292,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khk",
+          "name": "Кхк",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             }
@@ -311,27 +311,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Poultry Apocalypse",
+          "name": "Птичий апокалипсис",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             }
@@ -344,8 +344,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keghgh",
-          "desc": "[CanDuelGuard]\n[WinDuel] Target heals 5 SP",
+          "name": "Кхехе",
+          "desc": "[CanDuelGuard]\n[WinDuel] Цель восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [

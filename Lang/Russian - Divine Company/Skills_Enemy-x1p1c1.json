@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kwogh",
+          "name": "Кух",
           "desc": "",
           "coinlist": [
             {}
@@ -18,7 +18,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kwaagh",
+          "name": "Кхяя",
           "desc": "",
           "coinlist": [
             {}
@@ -31,14 +31,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Babawbawk!",
+          "name": "Квабах!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Binding] на следующий ход"
                 }
               ]
             }
@@ -51,13 +51,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cluckcluck!",
+          "name": "Клик-клик!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 4 [PlusCoinValueDown:`Ослабления Положительных Монет`] на следующий ход"
                 }
               ]
             }
@@ -70,8 +70,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cluuuck!",
-          "desc": "[WinDuel] Skill Power +1",
+          "name": "Клиик!",
+          "desc": "[WinDuel] +1 к Силе навыка",
           "coinlist": [
             {}
           ]
@@ -83,27 +83,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coo",
+          "name": "Кудах",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration] на следующий ход"
                 }
               ]
             }
@@ -116,13 +116,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gwoghkwogh",
+          "name": "Кудахку",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] на следующий ход"
                 }
               ]
             }
@@ -135,13 +135,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bwoghkh",
+          "name": "Кукудах",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Накладывает 3 [Vibration:`Тремора`] на следующий ход"
                 }
               ]
             },
@@ -149,7 +149,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             }
@@ -162,8 +162,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgwok",
-          "desc": "[WhenUse] Heal 10 HP",
+          "name": "Куукукудах",
+          "desc": "[WhenUse] Исцеляет 10 ОЗ",
           "coinlist": [
             {}
           ]

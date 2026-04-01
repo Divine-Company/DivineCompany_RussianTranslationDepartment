@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shell Trim",
+          "name": "Я сделую стлижку",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 }
               ]
             }
@@ -24,14 +24,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shell Do It!",
+          "name": "Я сделую это!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking; Inflict +1 Sinking Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`] и 1 его Счётчика"
                 }
               ]
             }
@@ -44,27 +44,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Is Ideal...",
+          "name": "Это идеально...",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Sinking"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target’s SP is below 0, inflict 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] При ПР цели ниже нуля накладывает 1 [Vulnerable] на следующий ход"
                 }
               ]
             }
@@ -77,7 +77,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Is Nuthin' Unideal",
+          "name": "Нет ничиво неидеального",
           "desc": "",
           "coinlist": [
             {}
@@ -90,13 +90,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hm.",
+          "name": "Хмм..",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Paralysis]"
                 }
               ]
             }
@@ -109,14 +109,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paus will do dis.",
+          "name": "Паус сделует это",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [AttackDown:`Уменьшения Уровня Атаки`] на следующий ход"
                 }
               ]
             }
@@ -129,20 +129,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "I Muss Impwove My Balance.",
+          "name": "Я долшна улушить свой баланс",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Reduction] на следующий ход"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Reduction] на следующий ход"
                 }
               ]
             }
@@ -155,7 +155,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bigger and Bigger...",
+          "name": "Больше и больше...",
           "desc": "",
           "coinlist": [
             {}
@@ -168,8 +168,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Jussis!",
-          "desc": "[WinDuel] Gain 2 Haste next turn",
+          "name": "Спладливость!",
+          "desc": "[WinDuel] Получает 2 [Agility:`Спешки`] на следующий ход",
           "coinlist": [
             {}
           ]
@@ -181,13 +181,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Jussis!!",
-          "desc": "[WinDuel] Gain 2 Attack Power Up next turn",
+          "name": "Спладливость!!",
+          "desc": "[WinDuel] Получает 2 [Enhancement:`Увеличения силы атаки`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -200,27 +200,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Jussis!!!",
-          "desc": "At 10+ Speed, Coin Power +2",
+          "name": "Спладливость!!!",
+          "desc": "+2 к Силе Монет при 10+ Скорости",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Bleed count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -233,7 +233,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Jussis?",
+          "name": "Спладливость?",
           "desc": "",
           "coinlist": [
             {}
@@ -246,13 +246,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heh.",
+          "name": "Хех",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Poise next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`] на следующий ход"
                 }
               ]
             }
@@ -265,20 +265,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shotening.",
+          "name": "Соклащение",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If target took damage this turn, deal +30% damage"
+                  "desc": "Наносит на 30% больше урона если цель получила урон в этом ходу"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target took damage this turn, deal +30% damage"
+                  "desc": "Наносит на 30% больше урона если цель получила урон в этом ходу"
                 }
               ]
             }
@@ -291,8 +291,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "S.C.N.C.",
-          "desc": "[StartBattle] Gain 2 [SlashDamageUp]",
+          "name": "П.С.Ш.К.",
+          "desc": "[StartBattle] Получает 2 [SlashDamageUp:`Увеличения Рубящего Урона`]",
           "coinlist": [
             {
               "coindescs": [
@@ -304,7 +304,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Poise next turn"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`] на следующий ход"
                 }
               ]
             },
@@ -324,7 +324,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "F.U.",
+          "name": "П.Н.",
           "desc": "",
           "coinlist": [
             {}
@@ -337,20 +337,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Leave this to me.",
+          "name": "Оставьте это мне",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Tremor"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Vibration]"
                 }
               ]
             }
@@ -363,13 +363,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prepare le Plat-doo-joor.",
-          "desc": "[WhenUse] Gain 3 Defense Power Up next turn",
+          "name": "Приготовить Лёпла Дужур",
+          "desc": "[WhenUse] Получает 3 [Endurance:`Увеличения силы защиты`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             }
@@ -382,34 +382,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Mizanplas.",
-          "desc": "Gain 3 [Protection] next turn",
+          "name": "Мизомпла (Силвиловка)",
+          "desc": "Получает 3 [Protection:`Стойкости`] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Vibration]"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Vibration:`Тремора`] "
                 }
               ]
             }
@@ -422,7 +422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mm.",
+          "name": "Мм",
           "desc": "",
           "coinlist": [
             {}
@@ -435,13 +435,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lets Get Dis~",
+          "name": "Давайте сделаем это~",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 }
               ]
             }
@@ -454,20 +454,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "That's Weally Cool~",
-          "desc": "If this unit did not take damage in the previous turn, Coin Power +1",
+          "name": "Это леально клуто~",
+          "desc": "+1 к Силе монет, если использующий навык не получил урона в прошлом ходу",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -480,8 +480,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Not My Taste!",
-          "desc": "If this unit did not take damage in the previous turn, Coin Power +2",
+          "name": "Невкусно!",
+          "desc": "+2 к Силе монет, если использующий навык не получил урона в прошлом ходу",
           "coinlist": [
             {
               "coindescs": [
@@ -493,13 +493,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Attack Power Down"
+                  "desc": "[OnSucceedAttackHead] Накладывает 2 [Reduction:`Уменьшения силы атаки`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Sinking"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -512,7 +512,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Is Yummy?",
+          "name": "Это вкусненькое?",
           "desc": "",
           "coinlist": [
             {}
@@ -525,13 +525,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hehehe!",
+          "name": "Хе-хе-хе!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -544,13 +544,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Brek Your Leg Wib Leg!",
-          "desc": "[WhenUse] Gain Attack Power Up and Damage Up next turn",
+          "name": "Сломаю твою ногу ногой!",
+          "desc": "[WhenUse] Получает [Enhancement] и [AttackDmgUp] на следующий ход",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Накладывает 2 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -563,20 +563,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Dye!!",
+          "name": "Умлииии!!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Next Coin has +2 Power"
+                  "desc": "[OnSucceedAttackHead] +2 к Силе следующей Монеты"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`]"
                 }
               ]
             }
@@ -589,7 +589,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "... Wacha Lookin' at?!",
+          "name": "... На што ты смотлишь?!",
           "desc": "",
           "coinlist": [
             {}
@@ -602,13 +602,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heeey!",
+          "name": "Привееееет!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Vibration:`Тремора`] "
                 }
               ]
             }
@@ -621,13 +621,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Did I Do Good?",
-          "desc": "[WinDuel] Inflict 3 Defense Power Down",
+          "name": "Я холошо посталался?",
+          "desc": "[WinDuel] Накладывает 3 [Disarming:`Уменьшения силы защиты`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Tremor"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Vibration:`Тремора`]"
                 }
               ]
             }
@@ -640,13 +640,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Gimme Yer Meats!",
+          "name": "Дайте мне вкусняшек!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; inflict 1 Blunt Fragility"
+                  "desc": "[OnSucceedAttack] Вызывает [VibrationExplosion:`Приступ Тремора`], накладывая 1 [HitTakeDamageUp]"
                 }
               ]
             }
@@ -659,7 +659,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kick Its Butt, Plis!",
+          "name": "Пните его в сад, плошу!",
           "desc": "",
           "coinlist": [
             {}
@@ -672,13 +672,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hm Hm Hm~",
+          "name": "ХмХмХмм~",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -691,23 +691,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sho Tashty!",
+          "name": "Таак вкусно!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -720,34 +720,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sumthing to Eat!",
-          "desc": "At 0- SP, Skill Power +1",
+          "name": "Наконеш-то еда!",
+          "desc": "+1 к Силе навыка при нуле ПР или ниже",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ [Laceration], deal +20% damage"
+                  "desc": "[OnSucceedAttack] Наносит на 20% больше урона при наличии на цели 6+ [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -760,7 +760,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wan Tasty Food?",
+          "name": "Хош вкусной еды?",
           "desc": "",
           "coinlist": [
             {}
@@ -773,13 +773,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "C'mere!",
+          "name": "Полушай!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -792,8 +792,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'm Gonna be Bwave, too...!",
-          "desc": "[WinDuel] Deal +30% damage",
+          "name": "Я тоше буду смелым...!",
+          "desc": "[WinDuel] Наносит на 30% больше урона",
           "coinlist": [
             {},
             {},
@@ -807,27 +807,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Your Marinade...! I'll Puwge—",
-          "desc": "[WinDuel] Gain 1 Attack Power Up",
+          "name": "Твой малинад...! Я ошишу—",
+          "desc": "[WinDuel] Получает 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Burst]"
                 }
               ]
             }
@@ -840,7 +840,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bwo! Bwo!",
+          "name": "Фу! Фу!",
           "desc": "",
           "coinlist": [
             {}
@@ -853,21 +853,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pwocure Ingwedient!",
+          "name": "Достать Инглидиент!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Burst:`Разрыва`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [Burst]"
                 }
               ]
             }
@@ -880,20 +880,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Commewce Opewation!",
+          "name": "Выполиняю опелацию!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "If this unit's Speed is faster than target’s, deal +20% damage"
+                  "desc": "Наносит на 20% больше урона, если Скорость персонажа больше цели"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If this unit's Speed is faster than target’s, deal +20% damage"
+                  "desc": "Наносит на 20% больше урона, если Скорость персонажа больше цели"
                 }
               ]
             }
@@ -906,13 +906,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Gaswonomical Experrance!",
-          "desc": "If target is at 50%+ HP, deal +20% damage",
+          "name": "Гастлономишеский опыт!",
+          "desc": "Наносит на 20% больше урона при наличи у цели больше 50% ОЗ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -925,7 +925,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Teach Dem a Lesson, Executive Teach!",
+          "name": "Плеподай им улок, главный директор!",
           "desc": "",
           "coinlist": [
             {}
@@ -938,13 +938,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clo Grabber!",
+          "name": "Сахват клешни!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 4 Rupture"
+                  "desc": "[OnSucceedAttackHead] Накладывает 4 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -957,19 +957,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Havta Faight...",
+          "name": "Долшен слашаться...",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Rupture Count"
+                  "desc": "[OnSucceedAttack] Накладывает 1 Счётчика [Burst:`Разрыва`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Pierce Fragility"
+                  "desc": "[OnSucceedAttackHead] Накладывает 1 [PenetrateTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
+                  "desc": "[OnSucceedAttackHead] Накладывает 2 [Burst:`Разрыва`]"
                 }
               ]
             }
@@ -982,23 +982,23 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Hiyah!!",
+          "name": "Кьяя!!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Burst], deal +10% damage"
+                  "desc": "[OnSucceedAttack] Наносит на 20% больше урона при наличии на цели [Burst:`Разрывов`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Burst], deal +10% damage"
+                  "desc": "[OnSucceedAttack] Наносит на 10% больше урона при наличии на цели [Burst:`Разрывов`]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Heal HP equal to 30% damage dealt"
+                  "desc": "[OnSucceedAttackHead] Исцеляется на 30% от нанесённого урона"
                 }
               ]
             }
@@ -1011,7 +1011,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Am Not Buggy!",
+          "name": "Я не жучок!",
           "desc": "",
           "coinlist": [
             {}

@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 1089,
-      "panicName": "Yummers",
-      "lowMoraleDescription": "Turn Start: Gain 1 [Vulnerable]",
-      "panicDescription": "Turn Start: Gain 2 [Vulnerable]"
+      "panicName": "Вкуснятина",
+      "lowMoraleDescription": "В начале хода даёт 1 [Vulnerable]",
+      "panicDescription": "В начале хода даёт 2 [Vulnerable:`Хрупкости`]"
     }
   ]
 }
