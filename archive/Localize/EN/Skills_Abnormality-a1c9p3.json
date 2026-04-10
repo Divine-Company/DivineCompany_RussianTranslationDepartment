@@ -1891,7 +1891,7 @@
         {
           "level": 1,
           "name": "Gut Stab [Lævateinn]",
-          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At less than 50% HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At 50%- HP, deal +40% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
               "coindescs": [
@@ -1953,7 +1953,7 @@
         {
           "level": 1,
           "name": "... Complete and Total Extermination [Lævateinn]",
-          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At less than 50% HP, deal +60% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
+          "desc": "[BeforeUse] Lose 10 SP\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target\n[BeforeAttack] At 50%- HP, deal +60% damage\n[BeforeAttack] Gain (# of Coins in this Skill x 2) [Combustion]",
           "coinlist": [
             {
               "coindescs": [

@@ -2446,6 +2446,594 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1061401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anatomize",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Anatomize",
+          "desc": "Deal +5% damage for every type of negative effect on target (max 20%)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anatomize",
+          "desc": "Deal +<style=\"highlight\">10</style>% damage for every type of negative effect on target (max <style=\"highlight\">30</style>%)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gather Ingredient - Blood-bathed Objet",
+          "desc": "[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 5+ types of negative effects, use \"Installation Art no. 3: Improvised Ribcage\" Skill against the target (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Gather Ingredient - Blood-bathed Objet",
+          "desc": "<style=\"highlight\">Deal +5% damage for every type of negative effect on target (max 20%)</style>\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)</style>\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 5+ types of negative effects, use \"Installation Art no. 3: Improvised Ribcage\" Skill against the target (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Gather Ingredient - Blood-bathed Objet",
+          "desc": "Deal +<style=\"highlight\">10</style>% damage for every type of negative effect on target (max <style=\"highlight\">30</style>%)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max <style=\"highlight\">4</style>)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 5+ types of negative effects, use \"Installation Art no. 3: Improvised Ribcage\" Skill against the target (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
+          "desc": "[WhenUse] Deal +30% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count and gain the following effects:\n- Final Power +2\n- Deal +1% damage for every [ChargeBodyArt] Count consumed\n- At 3+/5+ [ChargeBodyArt], gain +1/+2 Atk Weight\n- Convert all Coins on this Skill to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
+          "desc": "[WhenUse] Deal +30% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max <style=\"highlight\">3</style>)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count and gain the following effects:\n- Final Power +2\n- Deal +1% damage for every [ChargeBodyArt] Count consumed\n- At 3+/5+ [ChargeBodyArt], gain +1/+2 Atk Weight\n- Convert all Coins on this Skill to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Curating the Exhibition",
+          "desc": "[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[OnSucceedEvade] Inflict 1 [Binding] next turn against the attacker (once per turn)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Curating the Exhibition",
+          "desc": "[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[OnSucceedEvade] Inflict 1 [Binding] next turn against the attacker (once per turn)\n[OnSucceedEvade] Gain 1 [Agility] next turn (once per turn)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061405,
+      "levelList": [
+        {
+          "level": 2,
+          "name": "My, How We Love the Flesh and the Blood",
+          "desc": "[CantIdentify]\n[CantDuel]\nThis Skill has the following properties:\n- Does not trigger Defense Skills\n- External effects cannot trigger this Skill to be Reused\n- Its attack does not hit\n[WhenUse] Apply 4 [AttackUp] on target",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "My, How We Love the Flesh and the Blood",
+          "desc": "[CantIdentify]\n[CantDuel]\nThis Skill has the following properties:\n- Does not trigger Defense Skills\n- External effects cannot trigger this Skill to be Reused\n- Its attack does not hit\n[WhenUse] Apply 6 [AttackUp] on target",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061406,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats",
+          "desc": "[WhenUse] Deal +30% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\n- When attacking just 1 target, deal +100% additional damage\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count and gain the following effects:\n- Final Power +2\n- Deal +1% damage for every [ChargeBodyArt] Count consumed\n- At 3+/5+ [ChargeBodyArt], gain +1/+2 Atk Weight\n[EndSkill] For all Identities in The Ring faction, heal 10 SP and apply [MelodyBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [LivingSpecimenPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats",
+          "desc": "[WhenUse] Deal +30% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\n- When attacking just 1 target, deal +100% additional damage\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count and gain the following effects:\n- Final Power +2\n- Deal +1% damage for every [ChargeBodyArt] Count consumed\n- At 3+/5+ [ChargeBodyArt], gain +1/+2 Atk Weight\n[EndSkill] For all Identities in The Ring faction, heal 10 SP and apply [MelodyBodyArt]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [LivingSpecimenPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please. Vandalism is Prohibited.",
+          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nDeal +5% damage for every type of negative effect on target (max 20%)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Please. Vandalism is Prohibited.",
+          "desc": "[DuelCounter]\n[SupportProtect] exclusive Skill\nDeal +<style=\"highlight\">10</style>% damage for every type of negative effect on target (max <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1061408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Installation Art no. 3: Improvised Ribcage",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\n[WhenUse] Consume 4 [ChargeBodyArt] Count",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 5 SP on self"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [LivingSpecimenPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Installation Art no. 3: Improvised Ribcage",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\n[WhenUse] Consume 4 [ChargeBodyArt] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 SP damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 5 SP on self<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [LivingSpecimenPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Installation Art no. 3: Improvised Ribcage",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\n[WhenUse] Consume 4 [ChargeBodyArt] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +<style=\"highlight\">10</style>% damage for every type of negative effect on target (max <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 SP damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 5 SP on self<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [LivingSpecimenPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

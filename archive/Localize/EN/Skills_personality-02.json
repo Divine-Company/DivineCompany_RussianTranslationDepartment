@@ -2393,6 +2393,604 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1021501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Butcher - Ribs",
+          "desc": "[IronMaidenPersonality] exclusive Skill",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Butcher - Ribs",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n[WhenUse] Clash Power +1 for every type of negative effect on target (max 2)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Butcher - Ribs",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n[WhenUse] Clash Power +1 for every type of negative effect on target (max 2)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fascia Hungers",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fascia Hungers",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n<style=\"highlight\">[WhenUse] Clash Power +1 for every type of negative effect on target (max 2)</style>\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)</style>\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fascia Hungers",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n[WhenUse] Clash Power +1 for every type of negative effect on target (max 2)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max <style=\"highlight\">4</style>)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Repressed Flesh",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count to gain the following effects:\n- Final Power +2\n- Deal +3% damage for every [ChargeBodyArt] Count consumed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repressed Flesh",
+          "desc": "[IronMaidenPersonality] exclusive Skill\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count to gain the following effects:\n- Final Power +2\n- Deal +3% damage for every [ChargeBodyArt] Count consumed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exhibition Arrangements",
+          "desc": "[CanDuelGuard]\n[IronMaidenPersonality] exclusive Skill\n[WinDuel] Inflict +1 [Laceration] Count on the attacker (2 times per turn)\n[WinDuel] Deal Pierce damage equal to [Laceration] Potency on the attacker (max damage: 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Exhibition Arrangements",
+          "desc": "[CanDuelGuard]\n[IronMaidenPersonality] exclusive Skill\n[WinDuel] Inflict +2 [Laceration] Count on the attacker (2 times per turn)\n[WinDuel] Deal Pierce damage equal to <style=\"highlight\">([Laceration] Potency on the attacker x 2)</style> (max damage: <style=\"highlight\">30</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Butcher - Ribs",
+          "desc": "[SilverOpportunity] exclusive Skill",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Butcher - Ribs",
+          "desc": "[SilverOpportunity] exclusive Skill\nDeal +5% damage for every type of negative effect on target (max 20%)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Butcher - Ribs",
+          "desc": "[SilverOpportunity] exclusive Skill\nDeal +10% damage for every type of negative effect on target (max 30%)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time for Your Meal, Fascia",
+          "desc": "[SilverOpportunity] exclusive Skill\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Time for Your Meal, Fascia",
+          "desc": "[SilverOpportunity] exclusive Skill\n<style=\"highlight\">Deal +5% damage for every type of negative effect on target (max 20%)</style>\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)</style>\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Time for Your Meal, Fascia",
+          "desc": "[SilverOpportunity] exclusive Skill\nDeal +<style=\"highlight\">10</style>% damage for every type of negative effect on target (max <style=\"highlight\">30</style>%)\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max <style=\"highlight\">4</style>)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeBodyArt] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Liberation of the Repressed Flesh",
+          "desc": "[SilverOpportunity] exclusive Skill\n[WhenUse] Deal +30% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count and gain the following effects:\n- Final Power +2\n- Deal +1% damage for every [ChargeBodyArt] Count consumed\n- At 3+/5+ [ChargeBodyArt], gain +1/+2 Atk Weight\n- Convert all Coins on this Skill to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Liberation of the Repressed Flesh",
+          "desc": "[SilverOpportunity] exclusive Skill\n[WhenUse] Deal +30% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 3)\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume up to 20 [ChargeBodyArt] Count and gain the following effects:\n- Final Power +2\n- Deal +1% damage for every [ChargeBodyArt] Count consumed\n- At 3+/5+ [ChargeBodyArt], gain +1/+2 Atk Weight\n- Convert all Coins on this Skill to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AttackDmgDown] next turn (once per turn)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [SlashDamageUp] next turn (once per turn)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every type of negative effect on target (max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Exhibition Begins",
+          "desc": "[SilverOpportunity] exclusive Skill\n[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[OnSucceedEvade] Inflict 1 [Binding] next turn against the attacker (once per turn)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "The Exhibition Begins",
+          "desc": "[SilverOpportunity] exclusive Skill\n[StartBattle] Gain 1 [SupportProtect] (once per turn)\n[OnSucceedEvade] Inflict 1 [Binding] next turn against the attacker (once per turn)\n[OnSucceedEvade] Gain 1 [Agility] next turn (once per turn)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1021509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Acts of Vandalism Allowed.",
+          "desc": "[DuelCounter]\n[SilverOpportunity] exclusive Skill\n[SupportProtect] exclusive Skill\nDeal +5% damage for every type of negative effect on target (max 20%)\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "No Acts of Vandalism Allowed.",
+          "desc": "[DuelCounter]\n[SilverOpportunity] exclusive Skill\n[SupportProtect] exclusive Skill\nDeal +<style=\"highlight\">10</style>% damage for every type of negative effect on target (max <style=\"highlight\">30</style>%)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[WhenUse] At 10+ [ChargeBodyArt] Count, consume 5 [ChargeBodyArt] Count to gain the following effects:\n- Clash Power +1\n- Convert the final Coin on this Skill to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

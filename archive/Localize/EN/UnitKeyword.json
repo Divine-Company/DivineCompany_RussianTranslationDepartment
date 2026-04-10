@@ -275,6 +275,26 @@
     {
       "id": "UnitKeyword_TRUST_AGENT",
       "content": "The Oracle's Proxy"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_MAESTRO",
+      "content": "Maestro"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_DOCENT",
+      "content": "Docent"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_STUDENT",
+      "content": "Student"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_POINTILLISM",
+      "content": "Pointillist"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_PHYSICAL",
+      "content": "Corporist"
     }
   ]
 }

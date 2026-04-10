@@ -1,34 +1,3 @@
 {
-  "dataList": [
-    {
-      "id": 971089,
-      "name": "Poultry Memory",
-      "desc": "'Eunbong's Bar & Fryers!'\n'Dial 555-0386-2664! That's 555-Zero-EUN-BONG!'\n\nWe followed the weird, catchy jingle and found ourselves standing before an oddly familiar machine.\n\n\"Hey, that's a claw machine. It's got... Huh, these are...\"\n<... Why are there Bongy plushies here?>\n\"Didn't that guy say something about how the one he gave us was an invaluable, one-of-a-kind treasure? That there's nothing else like it?\"\n\"... Such promise carries very little weight in the Mirror Dungeon.\"\n\"Mm. It may be an idiosyncrasy of the experience that is yet to be identified.\"\n\"Guys, hold on. Look at that plush there—I just saw a golden twinkle through its seams! There's gotta be money in these things!\n\nThere are Bongy plushies of various design inside the claw machine.\nWhich one should we go for?",
-      "options": [
-        {
-          "message": "Get the small Bongy plushie.",
-          "messageDesc": "Choose to gain Cost",
-          "result": [
-            "A small Bongy plushie should be an easy win for us.\n\nI carefully maneuver the claw over the plushies and grab the small plushie with utmost care... and somehow, it managed to travel to the chute without dropping midway through the journey. A heavy, metallic <i>clunk</i> echoes from the port.\n\n\"That sounds heavy. I wonder if there's something expensive in there?\"\n\"Duh! Didn't ya see that golden gleam earlier? Gimme that, Dante!\"\n\"What the hell are you—\"\n\"Gonna cut its belly right open!\"\n\"Little Sir Bongy!!!!!!\"\n\nOne of the Sinners cuts open the belly of the Bongy plushie, and coins start spilling out of it.\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine."
-          ]
-        },
-        {
-          "message": "Get the medium-sized Bongy plushie.",
-          "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
-          "result": [
-            "We identified the medium-sized Bongy Plushie in a decent spot to be plucked, and decided to try our luck.\n\nI carefully maneuver the claw over the plushies and grab the medium-sized plushie with utmost care... and somehow, it managed to travel to the chute without dropping midway through the journey. A heavy, metallic <i>clunk</i> echoes from the port. <i>Twice.</i>\n\n\"Ooh... Abreast the selected Bongy is a Bongy of smaller dimensions; indeed, the idiom \"two birds with one stone\" would be most apt here. Not only did the two avians grant us subsistence, it also gave us riches.\"\n<Well, I hear something jingling in there. Coins, maybe?>\n\"Ya think? Gimme that, Dante!\"\n\"What the hell are you—\"\n\"Gonna cut their bellies right open!\"\n\"Little Sir Bongy! And Littlest Sir Bongy!!!!!\"\n\nOne of the Sinners cuts open both Bongy plushies' bellies, and coins start spilling out of them.\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine.",
-            "I carefully maneuver the claw over the plushies and grab the medium-sized plushie with utmost care... but it somehow got stuck in the chute.\nFortunately, a small plushie right next to it fell out of the chute with a thud.\n\n\"It's torn... It must have gotten stuck before it popped out from the chute.\"\n\"Hmm? Hey, gimme that, Dante!\n\"What the hell are you—\"\n\"The plushie's stuffed with coins. Lucky!\"\n\nOne of the Sinners cuts open the belly of the Bongy plushie, and coins start spilling out of it.\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine."
-          ]
-        },
-        {
-          "message": "Get the huge Bongy plushie.",
-          "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
-          "result": [
-            "Could those flimsy little pincers even lift that massive Bongy plushie?\n\nI wasn't really sure, but I carefully maneuvered the claw and went for the grab anyway.\n\nA heavy metallic thunk rang out from the prize chute as the doll dropped in.\n\n\"F-fie! Little Sir Bongy's seams have completely burst!\n\"It couldn't withstand the impact of the fall.\"\n\"Hang on, look at that! Something pouring out from the seams~ Hey, that's money!\"\n\nWe scooped up the coins stuffed inside the doll.\nWhile we were occupied with the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine.",
-            "Could those flimsy little pincers even lift that massive Bongy plushie?\n\nI wasn't really sure, but I carefully maneuvered the claw and went for the grab anyway.\n\nWe could hear a rattle from the prize chute as the doll dropped in.\n\n\"It won't come down... I think it's stuck.\"\n\"The seams must've come loose—there are coins falling out.\"\n<Let's at least pick them up.>\n\nWhile we were occupied with counting the coins, the jingle slowly quieted down, and soon, disappeared with the claw machine."
-          ]
-        }
-      ]
-    }
-  ]
+  "dataList": []
 }

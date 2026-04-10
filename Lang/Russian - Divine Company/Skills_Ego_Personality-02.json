@@ -960,7 +960,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Randomly inflict 3 [FaustFlameMothEmber] between targets (once per turn, excluding targets with maximum [FaustFlameMothEmber] Potency. In Focused Encounters, the Parts)"
+                  "desc": "[EndCoin] Randomly inflict 3 [FaustFlameMothEmber] between targets (once per turn, excluding targets that have maximum [FaustFlameMothEmber] Potency. In Focused Encounters, the Parts)"
                 }
               ]
             }
@@ -992,7 +992,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Randomly inflict 3 [FaustFlameMothEmber] between targets (once per turn, excluding targets with maximum [FaustFlameMothEmber] Potency. In Focused Encounters, the Parts)"
+                  "desc": "[EndCoin] Randomly inflict 3 [FaustFlameMothEmber] between targets (once per turn, excluding targets that have maximum [FaustFlameMothEmber] Potency. In Focused Encounters, the Parts)"
                 }
               ]
             }
@@ -1027,7 +1027,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Randomly inflict <style=\"highlight\">6</style> [FaustFlameMothEmber] between targets (once per turn, excluding targets with maximum [FaustFlameMothEmber] Potency. In Focused Encounters, the Parts)"
+                  "desc": "[EndCoin] Randomly inflict <style=\"highlight\">6</style> [FaustFlameMothEmber] between targets (once per turn, excluding targets that have maximum [FaustFlameMothEmber] Potency. In Focused Encounters, the Parts)"
                 }
               ]
             }

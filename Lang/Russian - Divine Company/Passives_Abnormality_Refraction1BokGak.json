@@ -98,7 +98,7 @@
     {
       "id": 952702,
       "name": "HP Ampule Injection",
-      "desc": "Turn Start: if this unit's HP is not at full, heal 25% HP (3 times max)"
+      "desc": "Turn Start: If this unit's HP is not at full, heal 25% HP (max 3 times; recover from Stagger if this unit is Staggered)"
     },
     {
       "id": 952801,

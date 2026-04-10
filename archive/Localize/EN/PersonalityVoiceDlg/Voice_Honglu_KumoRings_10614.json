@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10614_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Let us explore together—the pulsations of your remaining life."
+    },
+    {
+      "id": "lobby_morning_10614_1",
+      "desc": "Morning Greeting",
+      "dlg": "Those who lead an artist's life ought to cultivate the habit of rising early. Generous morning hours provide ample time for exhibition preparation and last-minute touch-ups."
+    },
+    {
+      "id": "lobby_noon_10614_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I'm sorry, Faust—we'll have to postpone our scheduled critique from today to tomorrow. A fellow Maestro has sought my counsel on gallery management, so I will be visiting theirs for a spell.\nI entrust my gallery to your hands in my absence. This shouldn't need mentioning, but please make sure not to let Rodion, that drunkard, take a single step into my gallery."
+    },
+    {
+      "id": "lobby_night_10614_1",
+      "desc": "Evening Greeting",
+      "dlg": "In the small hours of the night, and the subsequent hours in anticipation of dawn's incipience... the incessant whispers of inspiration find me like divine revelation. For us artists, that is the proverbial \"golden hour.\"\nThe aorta pulses like the rivers that flow in the City's elsewheres, while the capillaries' stems and extremities spread like a sheet of star-studded firmament. Oh... How fascinating, that such macroscopic gaze can be drawn from such minusculus!\nYet, once the enchanted hours pass... I am confronted by the realization that my creation is middling at best."
+    },
+    {
+      "id": "smalltalk_10614_1",
+      "desc": "Chatter #1",
+      "dlg": "I venture to say my corner of the Corridors is hardly ever graced by visitors. Still, with such a large audience peering through my jade eye as my witness, I must remain vigilant in keeping my exhibits well-cared for."
+    },
+    {
+      "id": "smalltalk_10614_2",
+      "desc": "Chatter #2",
+      "dlg": "\"Each pulsation of the venous blue, currents to where the bloodroot red withdrew.\"\nA line from a poem of mine, visualizing the contrast between veins and arteries.\nI don't enjoy it as much as I do sculpture of the corpus, but I do find composing poetry an enjoyable pastime. I often write a short verse when I come across a piece of art I enjoy."
+    },
+    {
+      "id": "smalltalk_10614_3",
+      "desc": "Chatter #3",
+      "dlg": "I had once tried, despite my insufficient knowledge, to \"pick my brain.\" It was a failed attempt to adjust the volume of my brain by carving and trimming it. Had I known the sheer difficulty of molding one's own brain when limited to relying only on the tactile senses of the hands... Well, I wouldn't have had to cover a part of my corpus with this headpiece."
+    },
+    {
+      "id": "smalltalk_10614_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "I have no misgivings about learning what is alien to me. I will study and layer without hesitation the Fauvists' brutality, the Cubists' cold-bloodedness, the Pointillists' compulsion, the Suprematists' pure-bloodedness, and eventually... Well, who knows? Perhaps inspiration will find me once more and conceive a new masterpiece that will leave its mark in history."
+    },
+    {
+      "id": "smalltalk_10614_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "In this gallery, we stand atop the strata of my techniques and inspirations. Every piece in this exhibition is a result of a painstaking process that involves the deconstruction of reflexive neural pathways, which is then followed by the restructuring thereof—the foundation of which lies in the contraction and elongation of myofibers.\nThat is why even the slightest tug of this string of sinew... results in such a wonderful cross-disciplinary \"collaboration.\""
+    },
+    {
+      "id": "neglect_10614_1",
+      "desc": "Idle",
+      "dlg": "What do you see... in this piece? I am curious to hear your impressions."
+    },
+    {
+      "id": "gacksung_10614_1",
+      "desc": "Uptying",
+      "dlg": "Allow me to play the curator for our guests—from kitsch to avant-garde, delving deep into each trend of art movement."
+    },
+    {
+      "id": "formation_10614_1",
+      "desc": "Deployment",
+      "dlg": "Preparations for the exhibition have covered all corners."
+    },
+    {
+      "id": "battleentry_10614_1",
+      "desc": "Stage Entry",
+      "dlg": "There's no rush. Andante, andante."
+    },
+    {
+      "id": "battle_select_10614_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Shh. Please be silent while viewing an exhibition."
+    },
+    {
+      "id": "battle_endcommand_10614_1",
+      "desc": "Commencing Attack",
+      "dlg": "Please, do share your impressions!"
+    },
+    {
+      "id": "battle_enemy_break_10614_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Have you any last words to impart to the world...?"
+    },
+    {
+      "id": "battle_break_10614_1",
+      "desc": "Staggered",
+      "dlg": "Perhaps my... eye for sublimity was lacking..."
+    },
+    {
+      "id": "battle_kill_10614_1",
+      "desc": "Enemy Killed",
+      "dlg": "Ah... What a wonderful cry of death."
+    },
+    {
+      "id": "battle_dead_10614_1",
+      "desc": "Death",
+      "dlg": "It's you... My undertaker..."
+    },
+    {
+      "id": "choice_success_p_10614_2",
+      "desc": "Check Passed",
+      "dlg": "What a beautiful hue it has. A piece worthy of its own pedestal."
+    },
+    {
+      "id": "choice_fail_n_10614_1",
+      "desc": "Check Failed",
+      "dlg": "Rejected. Presenting this failure at an exhibition would be nothing short of an embarrassment."
+    },
+    {
+      "id": "battle_clear_10614_1",
+      "desc": "Victory Cry",
+      "dlg": "It is indeed a shame that certain imperfections marred this exhibition, but... I am relieved that at least one of the audience has found it to be acceptable.\nPerhaps I need pursue a fresher approach—which makes the recent influx of \"raw\" materials quite opportune."
+    },
+    {
+      "id": "battle_clear_ex_10614_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Each loop of the triple-coiled ring on a Maestro's fourth finger represents an art piece that established the Maestro's claim to the title. Though it may be true that my more recent output has not been as resonant with the wider audience as my past oeuvre used to be... \n... they hardly pale before my rings in my eyes. Fuhu."
+    },
+    {
+      "id": "battle_defeat_10614_1",
+      "desc": "Defeat Wail",
+      "dlg": "... I have but one final request. How did my gallery appear... reflected in your eyes?\nDo you know... what was wanting...? Why could I not recreate... the magnum opus from so long ago...?"
+    }
+  ]
+}

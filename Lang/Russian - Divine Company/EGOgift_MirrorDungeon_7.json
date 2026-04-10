@@ -238,7 +238,7 @@
     {
       "id": 19219,
       "name": "Omni-tool+",
-      "desc": "When Skills of the same Attack Type hit an enemy 9 times, the enemy gains +0.1 Resistance against that Attack Type (3 times per Encounter per enemy/Abnormality Parts; this effect cannot raise Resistance value over 2.0)",
+      "desc": "When Skills of the same Attack Type hit an enemy <style=\"upgradeHighlight\">9 times</style>, the enemy gains +0.1 Resistance against that Attack Type (3 times per Encounter per enemy/Abnormality Parts; this effect cannot raise Resistance value over 2.0)",
       "simpleDesc": [
         {
           "abilityID": 19219,
@@ -249,7 +249,7 @@
     {
       "id": 29219,
       "name": "Omni-tool++",
-      "desc": "When Skills of the same Attack Type hit an enemy 6 times, the enemy gains +0.1 Resistance against that Attack Type (3 times per Encounter per enemy/Abnormality Parts; this effect cannot raise Resistance value over 2.0)",
+      "desc": "When Skills of the same Attack Type hit an enemy <style=\"upgradeHighlight\">6 times</style>, the enemy gains +0.1 Resistance against that Attack Type (3 times per Encounter per enemy/Abnormality Parts; this effect cannot raise Resistance value over 2.0)",
       "simpleDesc": [
         {
           "abilityID": 29219,
@@ -316,7 +316,7 @@
     {
       "id": 19225,
       "name": "The Spider's Thread+",
-      "desc": "Allies who use Defense Skill deal +15% damage with Skill 3 next turn (once per turn)",
+      "desc": "Allies who use Defense Skill deal <style=\"upgradeHighlight\">+15%</style> damage with Skill 3 next turn (once per turn)",
       "simpleDesc": [
         {
           "abilityID": 19225,
@@ -327,7 +327,7 @@
     {
       "id": 29225,
       "name": "The Spider's Thread++",
-      "desc": "Allies who use Defense Skill deal +20% damage with Skill 3 next turn (once per turn)",
+      "desc": "Allies who use Defense Skill deal <style=\"upgradeHighlight\">+20%</style> damage with Skill 3 next turn (once per turn)",
       "simpleDesc": [
         {
           "abilityID": 29225,
@@ -414,6 +414,68 @@
           "abilityID": 9232,
           "simpleDesc": "Recover from Stagger; remove negative effect"
         }
+      ]
+    },
+    {
+      "id": 9242,
+      "name": "Плюшевый Бонги",
+      "desc": "Увеличивает количество Жетонов в полтора раза при прохождении этажа/\n\n- Увеличивает исходящий урон на 0.5% за каждый имеющийся Дар ЭГО (Сейчас: На {0}%; Макс. 100%).\n- В начале хода даёт 1 [Enhancement] за каждые 20 имеющихся Даров ЭГО (Сейчас: {1}; Макс. 10).",
+      "simpleDesc": [
+        {
+          "abilityID": 9242,
+          "simpleDesc": "Наносит больше урона"
+        },
+        {
+          "abilityID": 92421,
+          "simpleDesc": "Даёт [Enhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9256,
+      "name": "Imperfect Eye of Precognition",
+      "desc": "Allies' Plus Coin Skills: Gain Coin Power +(8 / # of Coins) (gains at least 1 Coin Power, includes E.G.O Skills; rounded down)\n\nAllies' Minus Coin Skills: Gain Final Power +(8 / # of Coins) (gains at least 1 Final Power, includes E.G.O Skills; rounded down)\n\n[Effects apply only to #1 Deployed Identity]\n- In a Clash, gain 1 [LookingFutureMirror] with every Clash. Inflict 2 [Vibration] and [Combustion] on target (10 times per Skill)\n- On Clash Win, trigger [Switch_Vibration] into [VibrationIgnition] and trigger [VibrationExplosion] on the main target. Target loses 1 [Vibration] Count\n- On Hit with a Skill, if target is Staggered, deal +30% damage\n- On Crit, trigger [VibrationExplosion]. Target loses 1 [Vibration] Count (2 times per Skill)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9257,
+      "name": "The Abandoned Oracle",
+      "desc": "Allies' Plus Coin Skills: Gain Coin Power +(8 / # of Coins) (gains at least 1 Coin Power, includes E.G.O Skills; rounded down)\n\nAllies' Minus Coin Skills: Gain Final Power +(8 / # of Coins) (gains at least 1 Final Power, includes E.G.O Skills; rounded down)\n\nIn a Clash, gain Clash Power +1 for every 30 ([Sinking] on target + [Breath] on self) (max 5)\n\nDeal +25% damage with [SuperCoin]s\nTake -25% damage from [SuperCoin]s\n\n[The Index-faction Exclusive Effect]\n- Upon entering the Encounter for the first time, gain 6 [BlessingOfIndexPrescriptAlly]\n· If the unit is an Identity that can gain [UnlockBuff_Base], gain [UnlockBuffAlly_2] as well\n- Deal +50% damage against [IndexPrescriptTargetToEnemy]",
+      "simpleDesc": [
+        {
+          "abilityID": 98270,
+          "simpleDesc": "Allies gain a significant amount of Coin Power or Final Power"
+        },
+        {
+          "abilityID": 9257,
+          "simpleDesc": "Gain Clash Power based on the sum of Sinking on target and Poise on self"
+        },
+        {
+          "abilityID": 92571,
+          "simpleDesc": "Deal +25% damage with Unbreakable Coins"
+        },
+        {
+          "abilityID": 92572,
+          "simpleDesc": "Deal +50% damage against The Prescript's Target"
+        }
+      ]
+    },
+    {
+      "id": 9258,
+      "name": "The Book of Vengeance: Annex",
+      "desc": "Allies' Plus Coin Skills: Gain Coin Power +(8 / # of Coins) (gains at least 1 Coin Power, includes E.G.O Skills; rounded down)\n\nAllies' Minus Coin Skills: Gain Final Power +(8 / # of Coins) (gains at least 1 Final Power, includes E.G.O Skills; rounded down)\n\nEncounter Start: All allies gain 50 Shield for every The Middle-faction allied unit on the field (excluding Backup units; Shield gained via this effect does not expire at Turn End)\n\nAttack End with The Middle-faction allied units' Envy or Blunt Base Skills: Heal 10% of Skill damage dealt\n- If this effect is triggered by a Counter Skill, heal 20% of Skill damage dealt instead\n- Excess HP healed is converted into Shield (Shield gained via this effect does not expire at Turn End)\n\nCombat Start: The Middle-faction allied units gain Offense Level for the turn based on the number of Defense Skills equipped (max 12 Offense Level)\n- If 6+ Defense Skills are equipped, deal +30% damage with Envy Base Skills\n- Deal an additional +10% damage for every Defense Skill equipped beyond 6 (max 60%)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9259,
+      "name": "A Maestro's Ring-Turned-Artwork",
+      "desc": "Allies' Plus Coin Skills: Gain Coin Power +(8 / # of Coins) (gains at least 1 Coin Power, includes E.G.O Skills; rounded down)\n\nAllies' Minus Coin Skills: Gain Final Power +(8 / # of Coins) (gains at least 1 Final Power, includes E.G.O Skills; rounded down)\n\nWhen The Ring-faction Identities use Base Attack Skills, apply the following effects based on the number of negative effect types on the target:\n- 2+: Clash Power +2\n- 4+: Deal +15% damage\n- 6+: Inflict +1 more Potency and Count of negative effects via Coin effects\n- 7+: Base Power +2\n- 8+: Deal +35% damage",
+      "simpleDesc": [
+        {}
       ]
     }
   ]

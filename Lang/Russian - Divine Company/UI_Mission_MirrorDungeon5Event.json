@@ -222,47 +222,63 @@
     },
     {
       "id": "mission_ui_condition_tags_201005005",
-      "content": "Raise 1 enemy's Burn Potency to 99\n(in Focused Encounters, a Part)"
+      "content": "Deal {0}+ Skill damage against an enemy with a single Skill use (Shield HP dmg & dmg dealt On Hit such as Sinking Deluge or Time Moratorium counts; excludes dmg from Keywords and other sources)"
     },
     {
       "id": "mission_ui_condition_tags_201005006",
-      "content": "Raise 1 enemy's Bleed Potency to 99\n(in Focused Encounters, a Part)"
+      "content": "Raise 1 enemy's Burn Potency to 99\n(excluding 'Unique Burn'; in Focused Encounters, a Part)"
     },
     {
       "id": "mission_ui_condition_tags_201005007",
-      "content": "Raise 1 enemy's Tremor Potency to 99\n(in Focused Encounters, a Part)"
+      "content": "Raise 1 enemy's Bleed Potency to 99\n(excluding 'Unique Bleed'; in Focused Encounters, a Part)"
     },
     {
       "id": "mission_ui_condition_tags_201005008",
-      "content": "Raise 1 enemy's Rupture Potency to 99\n(in Focused Encounters, a Part)"
+      "content": "Raise 1 enemy's Tremor Potency to 99\n(excluding 'Unique Tremor'; in Focused Encounters, a Part)"
     },
     {
       "id": "mission_ui_condition_tags_201005009",
-      "content": "Raise 1 enemy's Sinking Potency to 99\n(in Focused Encounters, a Part)"
+      "content": "Raise 1 enemy's Rupture Potency to 99\n(excluding 'Unique Rupture'; in Focused Encounters, a Part)"
     },
     {
       "id": "mission_ui_condition_tags_201005010",
-      "content": "Raise 1 ally's Poise Potency to 99"
+      "content": "Raise 1 enemy's Sinking Potency to 99\n(excluding 'Unique Sinking'; in Focused Encounters, a Part)"
     },
     {
       "id": "mission_ui_condition_tags_201005011",
-      "content": "Raise 1 ally's Charge Potency to 10"
+      "content": "Raise 1 ally's Poise Potency to 99"
     },
     {
       "id": "mission_ui_condition_tags_201005012",
-      "content": "Kill {0}+ enemies with a single Attack Skill use in an Encounter (Enemies must be alive when the attack starts; can use E.G.O Skills)"
+      "content": "Raise 1 ally's Charge Potency to 10 (including 'Unique Charge', excluding 'Unique Charge' with fixed Potency)"
     },
     {
       "id": "mission_ui_condition_tags_201005013",
-      "content": "In a single Encounter, defeat an enemy with 3000+ max HP before the first turn ends"
+      "content": "Win a boss Encounter after 1 ally takes damage equivalent to 80%+ of its max HP. The said ally must survive the Encounter (applies to the last Encounter of each Floor)"
     },
     {
       "id": "mission_ui_condition_tags_201005014",
-      "content": "In a single turn, make 1 enemy gain 10+ types of negative effects\n(in Focused Encounters, a Part)"
+      "content": "Defeat all enemies in the Turn where 10 or more enemies are on the battlefield (in Focused Encounters, a Core and its connected Parts count as a single target)"
     },
     {
       "id": "mission_ui_condition_tags_201005015",
-      "content": "At Floor 6 or higher in the Mirror Dungeon, win an Encounter after every ally except for one is dead (including Backup/Support Identities)"
+      "content": "Use a single Attack Skill to either Stagger or Part Break 2 or more Parts, simultaneously"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005016",
+      "content": "Win an Encounter after inflicting 10 types of negative effects on a single target"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005017",
+      "content": "In a single run, clear 5 Stages after activating the effects of the E.G.O Gift 'Entangled Fate' in each of them"
+    },
+    {
+      "id": "mission_ui_condition_tags_201005018",
+      "content": "Defeat the \"Abnormal Seismic Zone\" Theme Pack boss while carrying 5 or more liquor-related E.G.O Gifts: \"Hardwood Liquor Cup,\" \"Green Spirit,\" \"Blood, Sweat, and Tears,\" \"Wobbling Keg,\" \"Reverberation,\" \"Chalice of Trickle-down,\" \"Downpour,\" \"Devil's Share,\" \"Angel's Cut,\" \"Trash Crab Brain Wine,\" \"Shaoxing Wine\""
+    },
+    {
+      "id": "mission_ui_condition_tags_201005019",
+      "content": "With 2 or more The Ring Identities in your Loadout, win an Encounter after having one of them gain 'Exquisite Aesthetics' with 'Exquisite Artwork' E.G.O Gift"
     }
   ]
 }

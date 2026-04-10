@@ -2839,6 +2839,65 @@
       "id": 1121531,
       "name": "Defibrillation",
       "desc": "Turn End: <style=\"highlight\">3</style> allies with the earliest Deployment order each heal HP equal to (the sum of [Charge] Count and 'Unique Charge' consumed by each of their own Attack Skills this turn, respectively) (max 10)"
+    },
+    {
+      "id": 1061404,
+      "name": "Magnum Opus: Tibia",
+      "desc": "Upon entering the Encounter for the first time, gain +(# of The Ring allies on the field x 2) [ChargeBodyArt] Count (max 10)\n\nSkill End: If the Skill dealt HP or Shield damage, gain +5 [ChargeBodyArt] Count\n- If target is killed, gain +3 additional [ChargeBodyArt] Count\n\nGain 1 [ChargeBodyArt] every time this unit consumes 10 cumulative [ChargeBodyArt] Count in this Encounter\n- If the above effect brings this unit's [ChargeBodyArt] Potency to 2 or higher, gain [TibiaPersonality]\n\nBase Attack Skills and Clashable Counter Skill count as Skills that gain [Charge] Count",
+      "summary": "Gain [ChargeBodyArt]"
+    },
+    {
+      "id": 1061405,
+      "name": "Transcend the Corpus",
+      "desc": "Upon entering the Encounter for the first time, gain 21 [GoldenOpportunity]\n\nWhen The Ring-faction allied Identities use a Skill, lose 1 [GoldenOpportunity] (once per turn per Identity)\n\nTurn End: If this unit does not have [GoldenOpportunity], replace one of its Base Skills with \"Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats\" at next Turn Start (once per Encounter; Prioritizes the Skill on the leftmost Slot's bottom row on the Dashboard)\n- If the replaced Skill becomes inaccessible due to being replaced by a different Skill, activate the above effect again\n\nTurn End: If this unit was Staggered for the first time in this Encounter, recover from Stagger (excluding forced Stagger)",
+      "summary": "Recover from Stagger"
+    },
+    {
+      "id": 1061401,
+      "name": "A Maestro's Critique",
+      "desc": "Before The House of Spiders: The Ring Apprentice Faust uses its Skill 3(except E.G.O Skills), The House of Spiders: The Ring Nursefather Hong Lu uses \"My, How We Love the Flesh and the Blood\" on Faust (once per turn)\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (3 times per turn)",
+      "summary": "Heal SP on self"
+    },
+    {
+      "id": 1061411,
+      "name": "A Maestro's Critique",
+      "desc": "Before The House of Spiders: The Ring Apprentice Faust uses its Skill 3(except E.G.O Skills), The House of Spiders: The Ring Nursefather Hong Lu uses \"My, How We Love the Flesh and the Blood\" on Faust (once per turn)\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (3 times per turn)\n- If this unit's SP is at max, gain 1 [SlashDamageUp] next turn when this unit heals SP with this effect (once per turn)",
+      "summary": "Heal SP on self\nGain [SlashDamageUp] next turn if conditions are met"
+    },
+    {
+      "id": 1061421,
+      "name": "Please, Do Stop Running and Be Seated",
+      "desc": "Turn End: Inflict 2 [AttackDown] and +1 [Laceration] Count next turn on 1 enemy with the fastest Speed (in Focused Encounters, the Part)"
+    },
+    {
+      "id": 1021504,
+      "name": "Fascia, My Precious Artwork",
+      "desc": "Upon entering the Encounter for the first time, gain +(# of The Ring allies on the field x 2) [ChargeBodyArt] Count (max 10)\n\nSkill End: If the Skill dealt HP or Shield damage, gain +5 [ChargeBodyArt] Count\n- If target is killed, gain +3 additional [ChargeBodyArt] Count\n\nGain 1 [ChargeBodyArt] every time this unit consumes 10 cumulative [ChargeBodyArt] Count in this Encounter\n- If the above effect brings this unit's [ChargeBodyArt] Potency to 2 or higher, gain [FasciaPersonality]\n\nBase Attack Skills and Clashable Counter Skill count as Skills that gain [Charge] Count",
+      "summary": "Gain [ChargeBodyArt]"
+    },
+    {
+      "id": 1021503,
+      "name": "Armor of Protection and Repression",
+      "desc": "Upon entering the Encounter for the first time, gain [IronMaidenPersonality]\n\nTurn End: If this unit has [FasciaPersonality], this unit loses [IronMaidenPersonality] and gains [SilverOpportunity] (once per Encounter)\n- When Staggered, recover from Stagger (excluding forced Staggers)",
+      "summary": "Remove [IronMaidenPersonality]"
+    },
+    {
+      "id": 1021501,
+      "name": "Inspired by Critique",
+      "desc": "Double the amount of Speed, Clash Power, damage buff gained from [MelodyBodyArt]\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (2 times per turn)",
+      "summary": "Heal SP on self"
+    },
+    {
+      "id": 1021511,
+      "name": "Inspired by Critique",
+      "desc": "Double the amount of Speed, Clash Power, damage buff gained from [MelodyBodyArt]\n\nOn Hit, if the Attack Skill inflicted a negative effect, heal 4 SP at Attack End (2 times per turn)\n- If this unit's SP is at max, gain 1 [SlashDamageUp] next turn when this unit heals SP with this effect (once per turn)",
+      "summary": "Heal SP on self\nGain [SlashDamageUp] next turn if conditions are met"
+    },
+    {
+      "id": 1021521,
+      "name": "Iron Maiden - Spikes",
+      "desc": "When hit, allies that equipped Defense Skill on their Slots this turn inflict 4 [Laceration] on the attacker (2 times per turn)\n- If the attacker already has [Laceration], inflict +2 [Laceration] Count instead",
+      "summary": "When hit, inflict [Laceration] on the attacker"
     }
   ]
 }

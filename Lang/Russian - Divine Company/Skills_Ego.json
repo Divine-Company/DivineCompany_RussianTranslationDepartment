@@ -463,7 +463,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Curse"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Curse]"
                 }
               ]
             }
@@ -484,13 +484,13 @@
                   "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 Curse"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 [Curse]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflict 3 [NailPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Curse, +50% Damage"
+                  "desc": "[OnSucceedAttack] If target has [Curse], deal +50% damage"
                 }
               ]
             }
@@ -534,7 +534,7 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [VioletTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Curse"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Curse]"
                 }
               ]
             }
@@ -555,13 +555,13 @@
                   "desc": "[OnSucceedAttack] Inflict 3 [VioletTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Curse"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Curse]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 [NailPersonality]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Curse, +50% Damage"
+                  "desc": "[OnSucceedAttack] If target has [Curse], deal +50% damage"
                 }
               ]
             }
@@ -824,7 +824,7 @@
           "level": 1,
           "name": "4th Match Flame",
           "abName": "Scorched Girl",
-          "desc": "Skill Power +2 against units with [Combustion]\n[EnemyKill] Gain 1 [Enhancement] next turn",
+          "desc": "Skill Power +2 against units that have [Combustion]\n[EnemyKill] Gain 1 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -839,7 +839,7 @@
           "level": 3,
           "name": "4th Match Flame",
           "abName": "Scorched Girl",
-          "desc": "Skill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 [Enhancement] next turn",
+          "desc": "Skill Power +2 against units that have [Combustion]\n[EnemyKill] Gain 2 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -854,7 +854,7 @@
           "level": 4,
           "name": "4th Match Flame",
           "abName": "Scorched Girl",
-          "desc": "Skill Power +2 against units with [Combustion]\nDeal +5% damage per 1 [Combustion] on target (Max 100%)\n[EnemyKill] Gain +2 [Enhancement] next turn",
+          "desc": "Skill Power +2 against units that have [Combustion]\nDeal +5% damage per 1 [Combustion] on target (Max 100%)\n[EnemyKill] Gain +2 [Enhancement] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -874,7 +874,7 @@
           "level": 1,
           "name": "4th Match Flame",
           "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +2 against units with [Combustion]\n[EnemyKill] Gain 2 [Enhancement] next turn\n[EnemyKillFail] Gain 10 [Combustion] next turn",
+          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +2 against units that have [Combustion]\n[EnemyKill] Gain 2 [Enhancement] next turn\n[EnemyKillFail] Gain 10 [Combustion] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -889,7 +889,7 @@
           "level": 3,
           "name": "4th Match Flame",
           "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +4 against units with [Combustion]\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn",
+          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +4 against units that have [Combustion]\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -904,7 +904,7 @@
           "level": 4,
           "name": "4th Match Flame",
           "abName": "Scorched Girl",
-          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +4 against units with [Combustion]\nDeal +5% damage per 1 [Combustion] on target (Max 100%)\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn",
+          "desc": "[CantIdentify]\nTargets randomly\nSkill Power +4 against units that have [Combustion]\nDeal +5% damage per 1 [Combustion] on target (Max 100%)\n[EnemyKill] Gain 3 [Enhancement] next turn\n[EnemyKillFail] Gain 3 [Enhancement] and 10 [Combustion] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -1188,7 +1188,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] Next turn: -2 [MentalSystemResultDecrease_Typo] to all allies; -2 to amount of SP lost from E.G.O use"
+                  "desc": "[EndSkill] Next turn: 2 [MentalSystemResultDecrease_Typo] to all allies; -2 to amount of SP lost from E.G.O use"
                 }
               ]
             }
@@ -1642,7 +1642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 7 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Inflict 7 Offense Level Down"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 [Paralysis]"
@@ -1805,7 +1805,7 @@
           "level": 1,
           "name": "What is Cast",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, deal +10% damage",
+          "desc": "If target has 50%+ HP, deal +10% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1820,7 +1820,7 @@
           "level": 3,
           "name": "What is Cast",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, deal +30% damage",
+          "desc": "If target has 50%+ HP, deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1835,7 +1835,7 @@
           "level": 4,
           "name": "What is Cast",
           "abName": "Rodion",
-          "desc": "If target’s HP is above 50%, deal +30% damage",
+          "desc": "If target has 50%+ HP, deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -1843,10 +1843,10 @@
                   "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [MentalSystemResultIncrease_Typo] next turn"
+                  "desc": "[OnSucceedAttack] Gain 2 [MentalSystemResultIncrease_Typo] next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain -2 [MentalSystemResultDecrease_Typo] next turn"
+                  "desc": "[OnSucceedAttack] Gain 2 [MentalSystemResultDecrease_Typo] next turn"
                 }
               ]
             }
@@ -2234,7 +2234,7 @@
           "level": 1,
           "name": "To Páthos Máthos",
           "abName": "Outis",
-          "desc": "If target’s HP is below 50%, +10% Damage",
+          "desc": "If target has less than 50% HP, deal +10% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2249,7 +2249,7 @@
           "level": 3,
           "name": "To Páthos Máthos",
           "abName": "Outis",
-          "desc": "If target’s HP is below 50%, +30% Damage",
+          "desc": "If target has less than 50% HP, deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2264,7 +2264,7 @@
           "level": 4,
           "name": "To Páthos Máthos",
           "abName": "Outis",
-          "desc": "If target’s HP is below 50%, +30% Damage",
+          "desc": "If target has less than 50% HP, deal +30% damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2672,7 +2672,7 @@
           "level": 1,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify] \nTarget the unit with most health",
+          "desc": "[CantIdentify] \nTargets the unit with the most HP",
           "coinlist": [
             {
               "coindescs": [
@@ -2690,7 +2690,7 @@
           "level": 3,
           "name": "Lantern",
           "abName": "Faelantern",
-          "desc": "[CantIdentify] \nTarget the unit with most health",
+          "desc": "[CantIdentify] \nTargets the unit with the most HP",
           "coinlist": [
             {
               "coindescs": [
@@ -3149,7 +3149,7 @@
           "level": 4,
           "name": "Dimension Shredder",
           "abName": "Wayward Passenger",
-          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 75%)",
+          "desc": "Targets the rearmost unit (In regular encounters)\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3157,7 +3157,7 @@
                   "desc": "[OnSucceedAttack] If [Charge] Count was spent, inflict <style=\"highlight\">5</style> [DimensionRift]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x 10)% of the damage dealt, and reduce [Burst] Count by 5 (Max 100)"
+                  "desc": "[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x 10)% of the damage dealt, and reduce [Burst] Count by 5 (Max 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3211,7 +3211,7 @@
           "level": 4,
           "name": "Dimension Shredder",
           "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 75%)",
+          "desc": "[CantIdentify]\nTargets a random unit\n\n[BeforeAttack] Spend [Charge] Count to deal more damage (Max 75%)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -3219,10 +3219,10 @@
                   "desc": "[OnSucceedAttack] If [Charge] Count was spent, inflict <style=\"highlight\">5</style> [DimensionRift]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflict 6 [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x 10)% of the damage dealt, and reduce [Burst] Count by 5 (Max 100)"
+                  "desc": "[OnSucceedAttack] Deal bonus Pride damage by (Target’s [Burst] x 10)% of the damage dealt, and reduce [Burst] Count by 5 (Max 100)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3307,7 +3307,7 @@
           "level": 1,
           "name": "Capote",
           "abName": "Brazen Bull",
-          "desc": "[EndSkill] Gain 1 [Agility], 1 [CrimsonResultUp], and 1 [HitResultUp] next turn",
+          "desc": "[EndSkill] Gain 1 [Agility], 1 Wrath Power Up, and 1 Blunt Power Up next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -4179,7 +4179,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[BeforeAttack] At 15+ SP, Atk Weight +1",
+          "desc": "[BeforeAttack] At 15+ SP, gain +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -4197,7 +4197,7 @@
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[BeforeAttack] At 15+ SP, Atk Weight +2",
+          "desc": "[BeforeAttack] At 15+ SP, gain +2 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -4241,7 +4241,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At -15 or lower SP, Atk Weight +1",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At -15 or lower SP, gain +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -4265,7 +4265,7 @@
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "My Form Empties",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At -15 or lower SP, Atk Weight +2",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At -15 or lower SP, gain +2 Atk Weight",
           "coinlist": [
             {
               "coindescs": [

@@ -125,7 +125,7 @@
           "level": 1,
           "name": "Electric Screaming",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)",
+          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally that has the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -140,7 +140,7 @@
           "level": 3,
           "name": "Electric Screaming",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies",
+          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally that has the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies",
           "coinlist": [
             {
               "coindescs": [
@@ -155,7 +155,7 @@
           "level": 4,
           "name": "Electric Screaming",
           "abName": "Dreaming Electric Sheep",
-          "desc": "[BeforeAttack] Gain +12 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style=\"highlight\">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>",
+          "desc": "[BeforeAttack] Gain +12 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally that has the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style=\"highlight\">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>",
           "coinlist": [
             {
               "coindescs": [

@@ -3653,7 +3653,7 @@
     {
       "id": 9135,
       "name": "Imitative Generator",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Unique Charge') at Turn Start.\n\nPlus Coin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Unique Charge'.\n- Minus Coin Skills: Instead of gaining Plus Coin Power, gain Base Power +(4 / # of Coins) (min 1; rounded down)\n\nIf the said Skill has less than 5 Base Power, deal +25% damage; if it has 5+ Base Power, gain an additional Plus Coin Power +1.\n- Minus Coin Skills: Instead of gaining Plus Coin Power, gain Base Power +(4 / # of Coins) (min 1; rounded down)",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Unique Charge'(fixed Potency)) at Turn Start.\n\nPlus Coin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Unique Charge'(fixed Potency).\n- Minus Coin Skills: Instead of gaining Plus Coin Power, gain Base Power +(4 / # of Coins) (min 1; rounded down)\n\nIf the said Skill has less than 5 Base Power, deal +25% damage; if it has 5+ Base Power, gain an additional Plus Coin Power +1.\n- Minus Coin Skills: Instead of gaining Plus Coin Power, gain Base Power +(4 / # of Coins) (min 1; rounded down)\n\n※ For 'Unique Charge' that has both Potency and Count, its Count will be used for above calculations",
       "simpleDesc": [
         {
           "abilityID": 9135,
@@ -3668,7 +3668,7 @@
     {
       "id": 9136,
       "name": "Fragment of Friction",
-      "desc": "Activates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Unique Charge'.\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% damage\n\nEnvy E.G.O Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Unique Charge') x 5)% damage. (200% max)",
+      "desc": "Activates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Unique Charge'(fixed Potency).\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed and deal +50% damage\n\nEnvy E.G.O Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Unique Charge'(fixed Potency)) x 5)% damage. (200% max)\n\n※ For 'Unique Charge' that has both Potency and Count, its Count will be used for above calculations",
       "simpleDesc": [
         {
           "abilityID": 9136,

@@ -427,6 +427,34 @@
     {
       "id": "Heishou10313",
       "desc": "Heishou Pack - Wei Branch Don Quixote: when inflicting Rupture with Skills, inflict 1 Sinking (3 times per turn)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDie",
+      "desc": "On Ally Death: Gain {1} {0} and +{2} {0} Count next turn ({3} times per turn)",
+      "variation": "On Ally Death: Gain {1} {0} next turn ({2} times per turn)",
+      "variation2": "On Ally Death: Gain +{1} {0} Count next turn ({2} times per turn)"
+    },
+    {
+      "id": "MD7LimitGiveBuffAllyDieAlt",
+      "desc": "On Ally Death: Gain {1} {0} and +{2} {0} Count next turn ({3} times per turn)",
+      "variation": "On Ally Death: Gain {1} {0} next turn ({2} times per turn)",
+      "variation2": "On Ally Death: Gain +{1} {0} Count next turn ({2} times per turn)"
+    },
+    {
+      "id": "RecoverSelfMpOnRoundStart",
+      "desc": "Turn Start: Heal {0} SP"
+    },
+    {
+      "id": "MD7LimitGiveShield",
+      "desc": "Gain {0} Shield"
+    },
+    {
+      "id": "MD7LimitSinBuffGiveBooster",
+      "desc": "Skills and Coins inflict x{0} more Burn, Bleed, Tremor, Rupture, and Sinking"
+    },
+    {
+      "id": "GiveRandomNegativeSinbuffOnRoundStart",
+      "desc": "Turn Start: Gain {0} Potency randomly among Burn, Bleed, Tremor, Rupture, and Sinking"
     }
   ]
 }
