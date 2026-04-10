@@ -4685,11 +4685,11 @@
     {
       "id": 19194,
       "name": "Short Cane Sword+",
-      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, <style=\"upgradeHighlight\">and inflict Weakness Analyzed as well</style>\n\n<style=\"upgradeHighlight\">Odd-numbered Turn Start</style>: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2)",
+      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 [DefenseDown] next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, <style=\"upgradeHighlight\">and inflict [WeaknessAnalysis] as well</style>\n\n<style=\"upgradeHighlight\">Odd-numbered Turn Start</style>: Seven Association Identities gain (# of other Seven Association Identities / 2) [ParryingResultUp] (rounded down; max 2)",
       "simpleDesc": [
         {
           "abilityID": 19193,
-          "simpleDesc": "Inflict Defense Level Down. Seven Association Identities gain Clash Power and inflict Weakness Analyzed as well"
+          "simpleDesc": "Inflict [DefenseDown]. Seven Association Identities gain Clash Power and inflict [WeaknessAnalysis] as well"
         },
         {
           "abilityID": 191931,
@@ -4700,7 +4700,7 @@
     {
       "id": 29194,
       "name": "Short Cane Sword++",
-      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 [DefenseDown] next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict [WeaknessAnalysis] and 1<style=\"upgradeHighlight\"> Clash Power Down</style> as well\n\n<style=\"upgradeHighlight\">Turn Start</style>: Seven Association Identities gain (# of other Seven Association Identities / 2) [ParryingResultUp]. (rounded down; max 2) <style=\"upgradeHighlight\">On Clash Win, deal +20% damage with the Skill.</style>",
+      "desc": "When winning a Clash with a Slash Base Attack Skill, inflict 2 [DefenseDown] next turn against the target. (once per turn per Identity; effect cannot stack against the same enemy)\n- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict [WeaknessAnalysis] and 1<style=\"upgradeHighlight\"> [ParryingResultDown]</style> as well\n\n<style=\"upgradeHighlight\">Turn Start</style>: Seven Association Identities gain (# of other Seven Association Identities / 2) [ParryingResultUp]. (rounded down; max 2) <style=\"upgradeHighlight\">On Clash Win, deal +20% damage with the Skill.</style>",
       "simpleDesc": [
         {
           "abilityID": 29193,
