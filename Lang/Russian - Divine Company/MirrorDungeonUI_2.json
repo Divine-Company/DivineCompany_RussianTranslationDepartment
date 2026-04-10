@@ -66,7 +66,7 @@
     },
     {
       "id": "dungeon_shop_heal_desc_one_hp_perc_mp_int",
-      "content": "The selected Sinner heals {0}% HP and {1} SP"
+      "content": "Выбранный Грешник восстановит {0}% ОЗ и {1} ПР"
     },
     {
       "id": "dungeon_shop_heal_title_all",
@@ -74,7 +74,7 @@
     },
     {
       "id": "dungeon_shop_heal_desc_all_hp_perc_mp_int",
-      "content": "All Sinners heal {0}% HP and {1} SP"
+      "content": "Все Грешники восстановят {0}% ОЗ и {1} ПР"
     },
     {
       "id": "dungeon_shop_purchase_title",
@@ -90,15 +90,15 @@
     },
     {
       "id": "dungeon_shop_heal_character",
-      "content": "Heal Sinner"
+      "content": "Исцелить команду"
     },
     {
       "id": "dungeon_shop_change_formation",
-      "content": "Team"
+      "content": "Изменить команду"
     },
     {
       "id": "dungeon_shop_upgrade_personality",
-      "content": "Replace {0}'s Skill"
+      "content": "Заменить навык: {0}"
     },
     {
       "id": "dungeon_shop_upgrade_personality_0_title",
@@ -118,7 +118,7 @@
     },
     {
       "id": "dungeon_shop_out",
-      "content": "Leave"
+      "content": "Уйти"
     },
     {
       "id": "mirrordungeon_2_hard_open_at",
@@ -138,7 +138,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_using_chance_desc",
-      "content": "Spend your 「Weekly Bonuses」 to claim the bonus rewards?"
+      "content": "Использовать «Еженедельный бонус», чтобы забрать бонусные награды?"
     },
     {
       "id": "mirrordungeon_acquire_rewards_not_using_chance_desc",
@@ -350,7 +350,7 @@
     },
     {
       "id": "mirrordungeon_shop_heal_one_who_right",
-      "content": "Choose the Sinner that looks tired."
+      "content": "Выберите Грешника, который чувствует себя неважно."
     },
     {
       "id": "mirrordungeon_shop_upgrade_start_left",
@@ -358,7 +358,7 @@
     },
     {
       "id": "dungeon_encounter_guide_mirror_shop",
-      "content": "Shop"
+      "content": "Магазин"
     },
     {
       "id": "dungeon_encounter_guide_mirror_select_event",
@@ -402,7 +402,7 @@
     },
     {
       "id": "mirrordungeon_resting_heal_one_who_right",
-      "content": "Choose the Sinner that looks tired."
+      "content": "Выберите Грешника, который чувствует себя неважно."
     },
     {
       "id": "mirror_dungeon_change_formation_release_character",
@@ -410,7 +410,7 @@
     },
     {
       "id": "mirrordungeon_exit_shop",
-      "content": "Leave the shop?"
+      "content": "Покинуть магазин?"
     },
     {
       "id": "mirrordungeon_exit_resting",

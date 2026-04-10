@@ -178,11 +178,11 @@
     },
     {
       "id": "mainui_grade",
-      "content": "Этап {0}"
+      "content": "{0} Этап"
     },
     {
       "id": "mainui_floor",
-      "content": "Этаж {0}"
+      "content": "{0} Этаж"
     },
     {
       "id": "mainui_main_enkephalin_Box",
@@ -1894,7 +1894,7 @@
     },
     {
       "id": "ego_gift_combine_explain_title",
-      "content": "Fusion Recipes"
+      "content": "Рецепты слияний"
     },
     {
       "id": "ego_gift_combine_explain_label_keyword",

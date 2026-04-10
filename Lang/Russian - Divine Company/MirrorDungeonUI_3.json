@@ -2,19 +2,19 @@
   "dataList": [
     {
       "id": "dungeon_shop_ego_gift_upgrade",
-      "content": "Enhance Gifts"
+      "content": "Улучшить Дары"
     },
     {
       "id": "dungeon_shop_ego_gift_composite",
-      "content": "Fuse Gifts"
+      "content": "Слиять Дары"
     },
     {
       "id": "dungeon_shop_ego_gift_sell",
-      "content": "Sell Gifts"
+      "content": "Продать Дары"
     },
     {
       "id": "dungeon_shop_refresh",
-      "content": "Refresh"
+      "content": "Обновить"
     },
     {
       "id": "mirror_dungeon_selected_ego_gift",
@@ -22,23 +22,23 @@
     },
     {
       "id": "ego_gift_upgrade_ui_title",
-      "content": "Enhance E.G.O Gift"
+      "content": "Улучшение Даров ЭГО"
     },
     {
       "id": "ego_gift_upgrade_confirm_format",
-      "content": "Spend <color=#F8C200>{0}</color> Cost to Enhance the E.G.O Gift?"
+      "content": "Улучшить Дар ЭГО за <color=#F8C200>{0}</color> Жетонов?"
     },
     {
       "id": "ego_gift_upgrade_not_enough_cost_format",
-      "content": "You need <color=#990000>{0}</color> more Cost to Enhance this E.G.O Gift."
+      "content": "Необходимо ещё <color=#990000>{0}</color> Жетонов чтобы улучшить этот Дар ЭГО."
     },
     {
       "id": "ego_gift_combine_ui_title",
-      "content": "Fuse E.G.O Gift"
+      "content": "Слияние Даров ЭГО"
     },
     {
       "id": "combine",
-      "content": "Fuse"
+      "content": "Слиять"
     },
     {
       "id": "selected_gift",
@@ -90,19 +90,19 @@
     },
     {
       "id": "ego_gift_sell_ui_title",
-      "content": "Sell E.G.O Gift"
+      "content": "Продажа Даров ЭГО"
     },
     {
       "id": "sell",
-      "content": "Sell"
+      "content": "Продать"
     },
     {
       "id": "guided_sell_ego_gift",
-      "content": "Select the E.G.O Gift you would like to sell."
+      "content": "Выберите Дар ЭГО, который собираетесь продать."
     },
     {
       "id": "ego_gift_sell_confirm_format",
-      "content": "Sell [{0}] for {1} Cost?"
+      "content": "Продать «{0}» за {1} Жетонов?"
     },
     {
       "id": "mirror_dungeon_3_start_buff_name",

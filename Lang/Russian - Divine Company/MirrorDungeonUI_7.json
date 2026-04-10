@@ -18,7 +18,7 @@
     },
     {
       "id": "mirrordungeon_ego_gift_sort_by_acquired_order",
-      "content": "Недавние"
+      "content": "Недавнее"
     },
     {
       "id": "mirrordungeon_shop_change_skill_popup_skill_pool_desc",
@@ -58,7 +58,7 @@
     },
     {
       "id": "dungeon_shop_detect_personality_skill",
-      "content": "ID Skill Search"
+      "content": "Заменить навык: Любой"
     },
     {
       "id": "ui_blocker_mirror_dungeon_detect_personality_skill",
@@ -66,11 +66,11 @@
     },
     {
       "id": "mirror_dungeon_shop_back_to_heal_again_button",
-      "content": "Heal again."
+      "content": "Исцелиться снова."
     },
     {
       "id": "mirror_dungeon_shop_back_to_heal_again_button_desc",
-      "content": "Return to healing type selection"
+      "content": "Возвращает к выбору варианта исцеления"
     },
     {
       "id": "purchase_personality_skill_by_starlight_desc",
@@ -78,7 +78,7 @@
     },
     {
       "id": "mirror_starlight_result_tooltip_item_detect_personality_skill",
-      "content": "ID Skill Search"
+      "content": "Замена навыка: Любой"
     },
     {
       "id": "mirror_dungeon_shop_cannot_detect_personality_skill_desc",
@@ -86,27 +86,27 @@
     },
     {
       "id": "mirror_dungeon_combine_panel_combinable_egoGift_tag",
-      "content": "Fusion Available"
+      "content": "Доступные для слияния"
     },
     {
       "id": "mirror_dungeon_combine_panel_owned_egoGift_tag",
-      "content": "E.G.O Gifts Owned"
+      "content": "Имеющиеся Дары ЭГО"
     },
     {
       "id": "mirror_dungeon_side_notice_desc_already_upgraded_ego_gift",
-      "content": "Cannot Enhance to the same Tier."
+      "content": "Невозможно улучшить до одинакового с этим Даром ЭГО Ранга."
     },
     {
       "id": "mirror_dungeon_side_notice_desc_cannot_upgrade_ego_gift_by_low_cost",
-      "content": "You need more Cost to Enhance this E.G.O Gift."
+      "content": "Чтобы улучшить этот Дар ЭГО требуется больше Жетонов."
     },
     {
       "id": "mirror_dungeon_side_notice_desc_not_exist_level",
-      "content": "Cannot be Enhanced to the selected Tier."
+      "content": "Невозможно улучшить до выбранного Ранга."
     },
     {
       "id": "mirror_dungeon_ego_gift_upgrade_level",
-      "content": "Enhancement Tier"
+      "content": "Ранг улучшения"
     },
     {
       "id": "mirror_dungeon_cannot_combine",
@@ -206,7 +206,7 @@
     },
     {
       "id": "ego_gift_list_default",
-      "content": "E.G.O Gifts"
+      "content": "Дары ЭГО"
     },
     {
       "id": "mirror_dungeon_theme_list_popup_no_theme_on_list",

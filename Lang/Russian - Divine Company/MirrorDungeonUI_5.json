@@ -98,7 +98,7 @@
     },
     {
       "id": "dungeon_shop_heal_desc_one_revive",
-      "content": "Revive Selected Sinner"
+      "content": "Выбранный Грешник воскресится"
     },
     {
       "id": "dungeon_shop_heal_desc_all_revive",
@@ -110,19 +110,19 @@
     },
     {
       "id": "dungeon_shop_heal_enter",
-      "content": "We can heal or revive a Sinner here.\nWhat should we do?"
+      "content": "Здесь мы можем исцелить или воскресить Грешника.\nЧто мы будем делать?"
     },
     {
       "id": "dungeon_shop_heal_select_one",
-      "content": "HP and SP healed for {0}."
+      "content": "{0} восстанавливает свои ОЗ и ПР."
     },
     {
       "id": "dungeon_shop_heal_all",
-      "content": "All Sinners' HP and SP have been healed."
+      "content": "Все Грешники восстанавливают свои ОЗ и ПР."
     },
     {
       "id": "dungeon_shop_heal_revive_select_one",
-      "content": "{0}, revived, returns to battle."
+      "content": "{0} воскрешается и возвращается к битве."
     },
     {
       "id": "mirrordungeon_revive_log",
@@ -170,19 +170,19 @@
     },
     {
       "id": "dungeon_shop_heal_title_all_season5",
-      "content": "Moderately heal every Sinner."
+      "content": "Средне исцелить всех Грешников."
     },
     {
       "id": "dungeon_shop_heal_title_one_season5",
-      "content": "Greatly heal a single Sinner."
+      "content": "Сильно исцелить одного Грешника."
     },
     {
       "id": "dungeon_shop_revive_title_one_season5",
-      "content": "Revive a single Sinner."
+      "content": "Воскресить одного Грешника."
     },
     {
       "id": "dungeon_shop_revive_one_select_ask",
-      "content": "Select the Sinner to revive."
+      "content": "Выберите Грешника для воскрешения."
     },
     {
       "id": "mirror_dungeon_block_to_click_hard_theme_list",
@@ -194,11 +194,11 @@
     },
     {
       "id": "mirrordungeon_shop_heal_title",
-      "content": "Heal Sinners"
+      "content": "Исцеление команды"
     },
     {
       "id": "mirrordungeon_shop_title",
-      "content": "Shop"
+      "content": "Магазин"
     },
     {
       "id": "mirror_dungeon_progress_text_5",
@@ -378,11 +378,11 @@
     },
     {
       "id": "mirrordungeon_upgrade_shop_title",
-      "content": "<color=#990000>Super Shop</color>"
+      "content": "<color=#990000>Супер магазин</color>"
     },
     {
       "id": "mirrordungeon_upgrade_shop_rate_in_next_floor",
-      "content": "Super Shop\nOn Next Floor?"
+      "content": "Супер магазин\nна след. этаже?"
     },
     {
       "id": "mirror_start_buff_unlock_condition_lack_of_current_point",
