@@ -260,7 +260,7 @@
     {
       "id": 9222,
       "name": "Pure-white Canvas",
-      "desc": "On Hit with Plus Coin Attack Skills against an enemy with 15+ [Laceration], heal 3 SP (once per turn for each Identity)\n- If said Identity or target has 3+ types of negative effects, heal 6 SP instead",
+      "desc": "On Hit with Plus Coin Attack Skills against an enemy that has 15+ [Laceration], heal 3 SP (once per turn for each Identity)\n- If said Identity or target has 3+ types of negative effects, heal 6 SP instead",
       "simpleDesc": [
         {
           "abilityID": 9222,
@@ -286,7 +286,7 @@
     {
       "id": 9224,
       "name": "Exquisite Artwork",
-      "desc": "The Ring-faction Identities gain [Inspire]\n\nIf The Ring-faction Identity with [Inspire] hits an enemy, inflict [ObjectOfExploration] on said enemy\n- If the enemy already has [ObjectOfExploration], replace [ObjectOfExploration] with [PaintingMaterial]\n\nIf The Ring-faction Identity with [Inspire] kills an enemy that has [PaintingMaterial], said Identity loses [Inspire] and gains [GreatAesthetics]",
+      "desc": "The Ring-faction Identities gain [Inspire]\n\nIf The Ring-faction Identity with [Inspire] hits an enemy, inflict [ObjectOfExploration] on said enemy\n- If the enemy already has [ObjectOfExploration], replace [ObjectOfExploration] with [PaintingMaterial]\n\nIf The Ring-faction Identity with [Inspire] kills an enemy that has [PaintingMaterial], said Identity loses [Inspire] and gains [GreatAesthetics]\n\nOn Hit with Plus Coin Attack Skills against an enemy that has 15+ [Laceration], heal 3 SP (once per turn for each Identity)\n- If said Identity or target has 3+ types of negative effects, heal 6 SP instead",
       "simpleDesc": [
         {
           "abilityID": 9224,

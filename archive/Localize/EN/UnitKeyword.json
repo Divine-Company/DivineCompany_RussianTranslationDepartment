@@ -289,12 +289,32 @@
       "content": "Student"
     },
     {
+      "id": "UnitKeyword_RING_FINGER_FAUVISM",
+      "content": "School of Fauvism"
+    },
+    {
       "id": "UnitKeyword_RING_FINGER_POINTILLISM",
-      "content": "Pointillist"
+      "content": "School of Pointillism"
     },
     {
       "id": "UnitKeyword_RING_FINGER_PHYSICAL",
-      "content": "Corporist"
+      "content": "School of Corporism"
+    },
+    {
+      "id": "UnitKeyword_FINGER_CANCELED",
+      "content": "<s>The Fingers</s>"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER_CANCELED",
+      "content": "<s>The Middle</s>"
+    },
+    {
+      "id": "UnitKeyword_SPIDER_HOUSE_CANCELED",
+      "content": "<s>The House of Spiders</s>"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED",
+      "content": "LCE?"
     }
   ]
 }

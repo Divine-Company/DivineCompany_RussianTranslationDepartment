@@ -1,0 +1,1280 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Corridor of the Ring Nursefather",
+      "content": "Only a few days had passed since our last visit, but the place looked markedly different from what we remembered."
+    },
+    {
+      "id": 1,
+      "content": "The sight of the hollow, frigid atmosphere and the endless stretch of Corridors hadn't changed,"
+    },
+    {
+      "id": 2,
+      "content": "but Callisto's so-called \"artworks\" were now covered in white sheets, and unfamiliar devices were affixed all around the Backdoors."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "Prithee, who might those people thither be?"
+    },
+    {
+      "id": 4,
+      "model": "앨런마스크",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "model": "료슈",
+      "content": "Looks like some shady bastards moved in already."
+    },
+    {
+      "id": 6,
+      "content": "Our guarded reaction prompted Hohenheim to step forward and gesture to one of the oddly-dressed figures."
+    },
+    {
+      "id": 7,
+      "model": "호엔하임",
+      "content": "It seems introductions are in order for both sides."
+    },
+    {
+      "id": 8,
+      "model": "호엔하임",
+      "content": "... This is Team Leader Alan from Wayfarer Company, who will be working with us on the investigation into the House's Backdoors."
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Wayfarer Company?>"
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "A corporate entity partnered with Limbus Company, responsible for providing portal technology. It has, on prior occasion, been referred to as the \"new\" or \"aspirant\" W Corp.—though the name is an unofficial one."
+    },
+    {
+      "id": 11,
+      "model": "앨런마스크",
+      "title": "Wayfarer Company",
+      "content": "Our employees also have taken to calling you the \"new L Corp.\" Something we have in common, given that we're both chasing after the same horizon."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Ah...! I remember. That company vying to take W Corp.'s place, right?>"
+    },
+    {
+      "id": 13,
+      "content": "\"The same horizon.\" He's probably talking about getting recognized as a Wing."
+    },
+    {
+      "id": 14,
+      "content": "After all, the old L Corp. has already fallen, while W Corp., from what I've heard... is free-falling at this point."
+    },
+    {
+      "id": 15,
+      "model": "호엔하임",
+      "content": "And these are the Manager and the Sinners of the LCB Department, our field operations unit. Frequently deployed to deal with on-site matters firsthand."
+    },
+    {
+      "id": 16,
+      "model": "호엔하임",
+      "content": "They have more personnel, but the rest are tied up with other duties elsewhere. Only a handful will be joining this investigation effort."
+    },
+    {
+      "id": 17,
+      "model": "앨런마스크",
+      "title": "Wayfarer Company",
+      "content": "I understand. Field operations units are almost always understaffed, anyway. The support you've provided is more than sufficient."
+    },
+    {
+      "id": 18,
+      "content": "Alan gave an understanding nod. The man slipped off his bulky helmet before extending his hand in greeting."
+    },
+    {
+      "id": 19,
+      "model": "앨런",
+      "content": "Pleased to make your acquaintance. The name's Alan, Leader of Doorbreach Team 4."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<L-likewise...>"
+    },
+    {
+      "id": 21,
+      "content": "Before Faust could even relay my reciprocal greeting, words spilled out of Alan's mouth in a strangely uneven rhythm—as if my ticking didn't bother him at all. Like he was sticking to a script he had rehearsed."
+    },
+    {
+      "id": 22,
+      "model": "앨런",
+      "content": "I've heard great things about you, Manager Dante of Limbus Company, and the Bus Team's performance."
+    },
+    {
+      "id": 23,
+      "model": "앨런",
+      "content": "You capitalized on the suppression of Distortions at T Corp. as leverage to push your products... and the profits were nothing short of staggering, I heard..."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Oh yeah, we're supposed to be Distortion-resolving specialists to the public... But what's that \"product\" part about?>"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "... The Manager says it was merely a matter of luck. They also look forward to working with you on this task."
+    },
+    {
+      "id": 26,
+      "model": "앨런",
+      "content": "Oh, are you the interpreter? In that case, I'll be sure to consult the manager only when both of you are available."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "... Sure."
+    },
+    {
+      "id": 28,
+      "content": "Faust didn't seem particularly pleased with the role Alan had pinned on her, but she nodded anyway."
+    },
+    {
+      "id": 29,
+      "content": "She quietly came to my side and answered my earlier question while Alan carried on with Hohenheim."
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "He is referring to the Monolith sales project. The credit was attributed to the LCB, at the express request of Mister Hubert, T Corp.'s Executive Director."
+    },
+    {
+      "id": 31,
+      "model": "단테",
+      "content": "<Oh... So that's how the rumor spread, huh.>"
+    },
+    {
+      "id": 32,
+      "model": "앨런",
+      "content": "We've reviewed the agreements. Now, I understand you'll be assisting in verifying what lies beyond the Backdoors."
+    },
+    {
+      "id": 33,
+      "model": "앨런",
+      "content": "I'd appreciate it if you could share any prior knowledge you have about where these Backdoors connect—as detailed as you can make them, if you don't mind."
+    },
+    {
+      "id": 34,
+      "content": "Hohenheim fixed Kira with a pointed look."
+    },
+    {
+      "id": 35,
+      "content": "Though Kira responded by defiantly cocking her head in a show of irritation, she still gave up a sliver of the information she had."
+    },
+    {
+      "id": 36,
+      "model": "뉴키라",
+      "content": "Honestly, I've got pretty much nothing if it's about robo-unc and his room."
+    },
+    {
+      "id": 37,
+      "model": "뉴키라",
+      "content": "I mean, I've seen Albina hit up that door and the other one over there when she was popping out to farm stuff, but..."
+    },
+    {
+      "id": 38,
+      "model": "앨런",
+      "content": "\"Farm\"...?"
+    },
+    {
+      "id": 39,
+      "model": "뉴키라",
+      "content": "Oh, it's, uh... gathering material."
+    },
+    {
+      "id": 40,
+      "model": "앨런",
+      "content": "I see. What kind of material?"
+    },
+    {
+      "id": 41,
+      "model": "뉴키라",
+      "content": "Human guts and all that. She'd come back hauling piles of 'em."
+    },
+    {
+      "id": 42,
+      "model": "뉴키라",
+      "content": "So they're prolly connected to some Backstreets area."
+    },
+    {
+      "id": 43,
+      "model": "앨런",
+      "content": "The Backstreets... Hmm. Any more details?"
+    },
+    {
+      "id": 44,
+      "model": "뉴키라",
+      "content": "Can you stop prying? You're lowkey pissin' me off."
+    },
+    {
+      "id": 45,
+      "model": "앨런",
+      "content": "......."
+    },
+    {
+      "id": 46,
+      "model": "뉴키라",
+      "content": "What? That's literally all I've got, for real."
+    },
+    {
+      "id": 47,
+      "content": "For a moment, Alan leveled Kira with a stiff expression..."
+    },
+    {
+      "id": 48,
+      "content": "... and even before I could register what had happened, Kira's head jerked to the side from a sudden punch by Alan."
+    },
+    {
+      "id": 49,
+      "model": "뉴키라",
+      "content": "Ungh!"
+    },
+    {
+      "id": 50,
+      "content": "I thought Kira was nimble enough to dodge a surprise attack easily, but this one seemed to have caught her completely off guard. She stood there blinking, eyes round in rude surprise."
+    },
+    {
+      "id": 51,
+      "content": "Actually, it wasn't that he caught her off guard; it was the motion of the punch itself that somehow felt off. The fist being raised, the arm being extended, the blow making contact... the chain of actions was there, but it just didn't look... normal."
+    },
+    {
+      "id": 52,
+      "model": "뉴키라",
+      "content": "D-did you just hit me...?"
+    },
+    {
+      "id": 53,
+      "model": "뉴키라",
+      "content": "What the hell's wrong with—"
+    },
+    {
+      "id": 54,
+      "content": "As Kira reeled from the unexpected strike,"
+    },
+    {
+      "id": 55,
+      "content": "Don Quixote spoke up in a cold, sharp tone."
+    },
+    {
+      "id": 56,
+      "model": "돈키호테",
+      "content": "... Thou. What manner of discourtesy is this?"
+    },
+    {
+      "id": 57,
+      "model": "앨런",
+      "content": "... Ah."
+    },
+    {
+      "id": 58,
+      "model": "앨런",
+      "content": "With all that whining, I thought the brat could use a lesson to remind her of her place."
+    },
+    {
+      "id": 59,
+      "model": "앨런",
+      "content": "I had no intention of damaging your company asset, of course. I simply assumed the level of warning would not be inappropriate in this case."
+    },
+    {
+      "id": 60,
+      "model": "호엔하임",
+      "content": "......."
+    },
+    {
+      "id": 61,
+      "model": "호엔하임",
+      "content": "Team Leader Alan."
+    },
+    {
+      "id": 62,
+      "model": "호엔하임",
+      "content": "That sort of conduct may not be an issue in your organization, but it is here."
+    },
+    {
+      "id": 63,
+      "model": "호엔하임",
+      "content": "Should it happen again..."
+    },
+    {
+      "id": 64,
+      "model": "호엔하임",
+      "content": "Do understand that we may choose to terminate today's joint engagement without delay."
+    },
+    {
+      "id": 65,
+      "model": "앨런",
+      "content": "My apologies. I will keep that in mind going forward."
+    },
+    {
+      "id": 66,
+      "content": "Alan stood down without arguing back, but Kira looked far from satisfied with how Hohenheim handled the situation."
+    },
+    {
+      "id": 67,
+      "model": "뉴키라",
+      "content": "He gets to sock me in the face and walk off scot free?"
+    },
+    {
+      "id": 68,
+      "model": "뉴키라",
+      "content": "So frickin' annoying..."
+    },
+    {
+      "id": 69,
+      "content": "Fortunately enough, her grumbling didn't escalate into her lashing out at Alan."
+    },
+    {
+      "id": 70,
+      "model": "단테",
+      "content": "<That punch just now, though... What was that?>"
+    },
+    {
+      "id": 71,
+      "model": "파우스트",
+      "content": "... It exhibited a behavior that defied the standard laws of physics."
+    },
+    {
+      "id": 72,
+      "model": "파우스트",
+      "content": "Presumably a form of technology utilized by Wayfarer Company."
+    },
+    {
+      "id": 73,
+      "model": "호엔하임",
+      "content": "... Let us resume the task at hand."
+    },
+    {
+      "id": 74,
+      "model": "호엔하임",
+      "content": "Sinner Ryōshū. Give Manager Alan whatever information you have."
+    },
+    {
+      "id": 75,
+      "model": "료슈2",
+      "content": "*puff*"
+    },
+    {
+      "id": 76,
+      "model": "료슈",
+      "content": "That door... should lead to one of the Ring-protected turfs."
+    },
+    {
+      "id": 77,
+      "model": "료슈",
+      "content": "The other two on the left... I remember they were marked with an X painted with blood..."
+    },
+    {
+      "id": 78,
+      "model": "료슈",
+      "content": "... but I H.N.I. where they actually lead. It's all blurry. Tsk."
+    },
+    {
+      "id": 79,
+      "model": "호엔하임",
+      "content": "It seems that's all the information we can provide. Will that suffice?"
+    },
+    {
+      "id": 80,
+      "model": "앨런",
+      "content": "We now know that the doors likely connect to a perceivable area. That's already a big improvement in terms of intel for Wayfarer Company's Backdoor mapping progress."
+    },
+    {
+      "id": 81,
+      "model": "앨런",
+      "content": "Which means there's less chance of us encountering a space beyond human perception past those doors."
+    },
+    {
+      "id": 82,
+      "model": "앨런",
+      "content": "All right, then... I'll proceed with connection verification. Which door shall we test first?"
+    },
+    {
+      "id": 83,
+      "model": "호엔하임",
+      "content": "......."
+    },
+    {
+      "id": 84,
+      "model": "호엔하임",
+      "content": "We'll start with the one Sinner Ryōshū mentioned."
+    },
+    {
+      "id": 85,
+      "model": "뉴키라",
+      "content": "Hah! Ya don't trust me at all, huh?"
+    },
+    {
+      "id": 86,
+      "model": "뉴키라",
+      "content": "Then why even bring me along?"
+    },
+    {
+      "id": 87,
+      "content": "Ignoring Kira's jab, Alan began setting up various devices on the door, and soon, an elegant white door opened before us."
+    },
+    {
+      "id": 88,
+      "model": "호엔하임",
+      "content": "Shall we?"
+    },
+    {
+      "id": 89,
+      "model": "돈키호테",
+      "content": "Art thou joining us as well, Young Hohenheim?"
+    },
+    {
+      "id": 90,
+      "model": "호엔하임",
+      "content": "Just this once. There are procedures for handing over field operations."
+    },
+    {
+      "id": 91,
+      "model": "단테",
+      "content": "<Okay. Let's see what's in there.>"
+    },
+    {
+      "id": 92,
+      "place": "???",
+      "model": "단테",
+      "content": "......."
+    },
+    {
+      "id": 93,
+      "model": "단테",
+      "content": "<What the... Is this some kind of wildlife exhibit...?>"
+    },
+    {
+      "id": 94,
+      "content": "The moment we stepped in, the lights hit us all at once, drawing squints and frowns from the Sinners. Thanks to my lack of physical eyes, I could make out a room filled with statues or, perhaps, taxidermied animals."
+    },
+    {
+      "id": 95,
+      "content": "It felt like a gallery of sorts... but it was so quiet that the air itself seemed to carry a strange, somber weight."
+    },
+    {
+      "id": 96,
+      "content": "After a moment, someone shattered the silence—but it wasn't Don Quixote, our usual suspect."
+    },
+    {
+      "id": 97,
+      "model": "뉴키라",
+      "content": "Holy shit... The scale is just insane! Th-that's the Whale from \"Eight Association: Great Lake\" special issue!"
+    },
+    {
+      "id": 98,
+      "content": "Kira, who'd seemed beaten-down all along, exclaimed with a bit more energy in her voice."
+    },
+    {
+      "id": 99,
+      "model": "뉴키라",
+      "content": "Man, seeing it in real life sure hits different... And the Indigo Elder solo one-shots these monsters with that harpoon of his, huh?"
+    },
+    {
+      "id": 100,
+      "model": "단테",
+      "content": "<... It's a Great Lake Whale. Doesn't look like the one we've encountered, though.>"
+    },
+    {
+      "id": 101,
+      "model": "파우스트",
+      "content": "Organisms of various sources can be identified here—Singularity-modified, Outskirts-born..."
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Th-they look almost alive... They're not, right?>"
+    },
+    {
+      "id": 103,
+      "model": "파우스트",
+      "content": "No, they're—"
+    },
+    {
+      "id": 104,
+      "model": "뉴키라",
+      "content": "Not. Duh. Though robo-unc did say that the Ring has these zoos where they put monsters on display alive..."
+    },
+    {
+      "id": 105,
+      "model": "뉴키라",
+      "content": "Man, this would've been way more fun if we could see the moving ones. Everything here's dead... meh. Still looks crazy sick, though. The vibe really hits."
+    },
+    {
+      "id": 106,
+      "content": "Even though she was trying to play it cool, Kira kept sneaking glances at the massive horned display off to the side, clearly surprised in a way she couldn't hide."
+    },
+    {
+      "content": "That said, I felt a distinct shortage of hyperactivity, given the presence of a certain someone in our party..."
+    },
+    {
+      "id": 108,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 109,
+      "model": "단테",
+      "content": "<Don Quixote?>"
+    },
+    {
+      "id": 110,
+      "model": "돈키호테",
+      "content": "The eye of a Second Kindred... of House Tepes. What is it doing here...?"
+    },
+    {
+      "id": 111,
+      "content": "At the mention of the word \"Kindred,\" I couldn't help but follow Don Quixote's gaze."
+    },
+    {
+      "id": 112,
+      "content": "Opposite the Whale was another kind of exhibit—it contained items leaning on the more gruesome side of things, starting with a crimson eyeball that caught Don Quixote's attention, and body parts like hands and bones that looked as though they had been stripped from the human body."
+    },
+    {
+      "id": 113,
+      "model": "료슈",
+      "content": "It's a Gallery..."
+    },
+    {
+      "id": 114,
+      "place": "Fauvist Gallery, Somewhere",
+      "model": "료슈",
+      "content": "... of the School of Fauvism. Probably a Main Studio, at that... which comes with a Maestro's atelier and an auction house."
+    },
+    {
+      "id": 115,
+      "model": "호엔하임",
+      "content": "... Alan."
+    },
+    {
+      "id": 116,
+      "model": "호엔하임",
+      "content": "We will be making our exit shortly. Prepare to initiate lockdown sequence."
+    },
+    {
+      "id": 117,
+      "content": "Before Hohenheim could even finish his urgent transmission..."
+    },
+    {
+      "id": 118,
+      "content": "... numerous footsteps closed in from somewhere nearby."
+    },
+    {
+      "id": 119,
+      "content": "Turning toward the sound of shoes clacking on the floor, we found strange figures wearing animal masks, staring directly at us."
+    },
+    {
+      "id": 120,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 121,
+      "model": "뉴키라",
+      "content": "That presence... it's kinda like papa's..."
+    },
+    {
+      "id": 122,
+      "model": "뉴키라",
+      "content": "Ain't no way... That's <i>not</i> a raid boss we can clear at our level! We gotta get out of here!"
+    },
+    {
+      "id": 123,
+      "model": "호엔하임",
+      "content": "... It's not that simple. Retreating is not a viable solution here."
+    },
+    {
+      "id": 124,
+      "model": "호엔하임",
+      "content": "This door is connected to the House of Spiders. Escaping without installing a security system will invite pursuit."
+    },
+    {
+      "id": 125,
+      "model": "호엔하임",
+      "content": "We must stall them until Alan is ready to initiate the lockdown sequence."
+    },
+    {
+      "id": 126,
+      "content": "As tension thickened, one of the strangers, who wore a peculiar bone mask, stepped forward."
+    },
+    {
+      "id": 127,
+      "content": "The voice that spoke to us carried equal part curiosity and delight."
+    },
+    {
+      "id": 128,
+      "model": "에밀브누아",
+      "teller": "???",
+      "title": "???",
+      "content": "You came through that door..."
+    },
+    {
+      "id": 129,
+      "model": "에밀브누아",
+      "teller": "???",
+      "title": "???",
+      "content": "Then the House's fall... wasn't just a baseless rumor."
+    },
+    {
+      "id": 130,
+      "model": "에밀브누아",
+      "teller": "???",
+      "title": "???",
+      "content": "A stray little spiderling, fallen from her parents' web. How many years has it been?"
+    },
+    {
+      "id": 131,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 132,
+      "model": "료슈",
+      "content": "You... Who are you?"
+    },
+    {
+      "id": 133,
+      "model": "에밀브누아",
+      "teller": "???",
+      "title": "???",
+      "content": "Ah, right... It makes sense that you would fail to recognize me. I used to wear a different mask back when I used to visit as your tutor, didn't I? A wolf, if memory serves right."
+    },
+    {
+      "id": 134,
+      "model": "에밀브누아",
+      "teller": "???",
+      "title": "???",
+      "content": "Yes, that must've been when I was quite captivated by the sensation of tearing into the raw, still-thrashing flesh of living prey... and the predator's ferocious yet cavernously resonant howling."
+    },
+    {
+      "id": 135,
+      "model": "료슈2",
+      "content": "... Rings a bell."
+    },
+    {
+      "id": 136,
+      "model": "료슈2",
+      "content": "You're that Maestro whose whole lesson was a 3-hour sermon praising the intensity of primary colors and the strength of living creatures. Benoît, was it?"
+    },
+    {
+      "id": 137,
+      "model": "에밀브누아",
+      "teller": "Benoît",
+      "content": "That's right—Émile Benoît. And they say you can't hatch a phoenix from a chicken's egg... Doesn't always apply, I see."
+    },
+    {
+      "id": 138,
+      "model": "에밀브누아",
+      "teller": "Benoît",
+      "content": "Looks like that mind of yours is still sly as a raven... unlike your Nursefather's."
+    },
+    {
+      "id": 139,
+      "model": "료슈",
+      "content": "Tch. Don't presume."
+    },
+    {
+      "id": 140,
+      "model": "료슈",
+      "content": "I only remember you because the tactility of hides and guts... made for a passable A.W."
+    },
+    {
+      "id": 141,
+      "content": "At first glance, it looked like Ryōshū was casually taking a trip down memory lane with the Maestro..."
+    },
+    {
+      "id": 142,
+      "content": "But I had a feeling she was, in fact, dragging this out on purpose to buy us time."
+    },
+    {
+      "id": 143,
+      "model": "단테",
+      "content": "<That lockdown sequence thing, how much longer 'til it's ready?>"
+    },
+    {
+      "id": 144,
+      "model": "돈키호테",
+      "content": "Young Hohenheim, the lockdown sequence..."
+    },
+    {
+      "id": 145,
+      "content": "Don Quixote, who had been shooting the Ring members an incensed glare sparked by the discovery of a Kindred's eye, swiftly relayed my words to Hohenheim without even a hint of her earlier shenanigans."
+    },
+    {
+      "id": 146,
+      "model": "호엔하임",
+      "content": "... I'm afraid the progress and speed of the lockdown sequence lies in Alan's hands, not mine. It is, by its nature, a time-consuming work—we cannot expect haste."
+    },
+    {
+      "id": 147,
+      "model": "호엔하임",
+      "content": "Perhaps... that does make this a suitable juncture to trial Plan A."
+    },
+    {
+      "id": 148,
+      "model": "단테",
+      "content": "<Plan A...?>"
+    },
+    {
+      "id": 149,
+      "model": "파우스트",
+      "content": "... Any suggestions that involve Don Quixote removing her shoes will not be dignified with a serious discussion."
+    },
+    {
+      "id": 150,
+      "model": "파우스트",
+      "content": "Instead..."
+    },
+    {
+      "id": 151,
+      "content": "Maybe what Hohenheim had in mind had nothing to do with Don Quixote's shoes, because he opened his mouth as though he was about to retort to Faust's categorical rejection."
+    },
+    {
+      "id": 152,
+      "content": "But the moment he followed Faust's eyes and saw what she was looking at, he quietly shut his mouth and said nothing further."
+    },
+    {
+      "id": 153,
+      "model": "호엔하임",
+      "content": "Faith in potentiality is not something I dislike."
+    },
+    {
+      "id": 154,
+      "model": "호엔하임",
+      "content": "As for this, however... This seems more like grasping at straws."
+    },
+    {
+      "id": 155,
+      "content": "At the end of their gaze was Ryōshū's blade—Arayashiki."
+    },
+    {
+      "id": 156,
+      "model": "료슈",
+      "content": "Hmph. I was going to try using it anyway."
+    },
+    {
+      "id": 157,
+      "model": "료슈2",
+      "content": "I've long wanted to see if a Maestro's death is any different."
+    },
+    {
+      "id": 158,
+      "model": "단테",
+      "content": "<Telling him that we were just leaving... won't work, will it?>"
+    },
+    {
+      "id": 159,
+      "model": "파우스트",
+      "content": "No, it won't. Every individual present here would be quite the fascinating specimen to the artists of the Ring."
+    },
+    {
+      "id": 160,
+      "model": "파우스트",
+      "content": "We are practically a windfall of inspiration and material that has so conveniently been delivered to them. Is it improbable that they will allow us to return unharmed."
+    },
+    {
+      "id": 161,
+      "content": "Faust is right. She and Hohenheim are geniuses, and Ryōshū is the wielder of Arayashiki."
+    },
+    {
+      "id": 162,
+      "content": "Don Quixote is a Kindred of a higher generation, and I happen to house a Golden Bough in my head."
+    },
+    {
+      "id": 163,
+      "content": "I have no idea how much information the Ring has on us..."
+    },
+    {
+      "id": 164,
+      "content": "But even if they knew nothing, they wouldn't let us go easily."
+    },
+    {
+      "id": 165,
+      "model": "단테",
+      "content": "<... Are you sure about this, Ryōshū?>"
+    },
+    {
+      "id": 166,
+      "model": "료슈",
+      "content": "Doesn't matter if I'm S.A.T. or not, Clock."
+    },
+    {
+      "id": 167,
+      "model": "료슈2",
+      "content": "... Think of that woman as Lei Heng, and do as you did in H.C.'s mansion."
+    },
+    {
+      "id": 168,
+      "model": "료슈2",
+      "content": "I'll take care of the rest."
+    },
+    {
+      "id": 169,
+      "model": "단테",
+      "content": "<... Right. That's probably our best shot.>"
+    },
+    {
+      "id": 170,
+      "content": "What Ryōshū meant was quite clear."
+    },
+    {
+      "id": 171,
+      "content": "Resonate with the Golden Bough, secure an advantage to fight on equal footing, then catch them off guard by slowing down the flow of time."
+    },
+    {
+      "id": 172,
+      "content": "A cut from the Arayashiki, even if it doesn't give us a real fighting chance, might at least stall the Maestro long enough to give us the time to get away."
+    },
+    {
+      "id": 173,
+      "model": "에밀브누아",
+      "teller": "Benoît",
+      "content": "This floor of the exhibit only houses submissions from Students and Docents..."
+    },
+    {
+      "id": 174,
+      "model": "에밀브누아",
+      "teller": "Benoît",
+      "content": "But if you look closely enough, there are some passable ones that show the promise of excellence."
+    },
+    {
+      "id": 175,
+      "model": "에밀브누아",
+      "teller": "Benoît",
+      "content": "And above all, this is the gallery of the School of Fauvism..."
+    },
+    {
+      "id": 176,
+      "model": "에밀브누아",
+      "content": "... and mine. The gallery of Émile Benoît."
+    },
+    {
+      "id": 177,
+      "model": "에밀브누아",
+      "content": "... Which is why I would've preferred to take you without an unnecessary fight, if possible. A shame."
+    },
+    {
+      "id": 178,
+      "model": "에밀브누아",
+      "content": "Still, we're talking about a unique Relic here, a masterless one at that. Acquiring the Arayashiki makes it worth the cost."
+    },
+    {
+      "id": 179,
+      "model": "료슈2",
+      "content": "*puff* If you want a taste..."
+    },
+    {
+      "id": 180,
+      "model": "료슈2",
+      "content": "......."
+    },
+    {
+      "id": 181,
+      "model": "료슈9장",
+      "content": "...?"
+    },
+    {
+      "id": 182,
+      "content": "Confusion flickered across Ryōshū's face as she tried to unsheathe her blade."
+    },
+    {
+      "id": 183,
+      "model": "단테",
+      "content": "<What's the matter?>"
+    },
+    {
+      "id": 184,
+      "model": "료슈9장",
+      "content": "How...?"
+    },
+    {
+      "id": 185,
+      "model": "료슈9장",
+      "content": "The lock the House of Spiders used to bind the Arayashiki no longer exists. So why..."
+    },
+    {
+      "id": 186,
+      "model": "료슈9장",
+      "content": "... why can't I draw the blade?"
+    },
+    {
+      "id": 187,
+      "model": "에밀브누아",
+      "content": "... Now that's unexpected."
+    },
+    {
+      "id": 188,
+      "model": "에밀브누아",
+      "content": "So the rumors of you mastering that Relic... were they false?"
+    },
+    {
+      "id": 189,
+      "model": "료슈9장",
+      "content": "...!"
+    },
+    {
+      "id": 190,
+      "content": "The Maestro only gave a loose swing of her arm, but it was enough to make Ryōshū recoil—a shadow of surprise crossed her face."
+    },
+    {
+      "id": 191,
+      "content": "The wound looked like nothing more than a light gash, yet the Maestro's contemplative gaze shifted between the blood on Ryōshū's arm and her own as though the attack had been an experiment to prove a hypothesis."
+    },
+    {
+      "id": 192,
+      "content": "... It wasn't hard to guess what she was thinking."
+    },
+    {
+      "id": 193,
+      "model": "료슈",
+      "content": "... Tch. Noticed, did you?"
+    },
+    {
+      "id": 194,
+      "model": "에밀브누아",
+      "content": "I had my doubts from the moment I saw you today."
+    },
+    {
+      "id": 195,
+      "model": "에밀브누아",
+      "content": "Was the House of Spiders a success... or a failure?"
+    },
+    {
+      "id": 196,
+      "model": "에밀브누아",
+      "content": "Tell me, Yoshihide. What do you think a serpent's defining strength is?"
+    },
+    {
+      "id": 197,
+      "model": "료슈",
+      "content": "What are you on about now?"
+    },
+    {
+      "id": 198,
+      "model": "에밀브누아",
+      "content": "Ask any Student, and they'll give the same, predictable answers: the deadly venom, the sleek scales... Why, it's lamentably disappointing."
+    },
+    {
+      "id": 199,
+      "content": "The Maestro advanced toward us with an assured certainty..."
+    },
+    {
+      "id": 200,
+      "content": "... then seized a beige thread dangling from the ceiling—no, calling it a mere thread would be wrong. It was something that <i>resembled</i> a thread, yet felt much more disturbing."
+    },
+    {
+      "id": 201,
+      "model": "에밀브누아",
+      "content": "I, for one, have a particular liking for the jaw and the spine."
+    },
+    {
+      "id": 202,
+      "model": "에밀브누아",
+      "content": "The flexibility of the spine, linked like a chain; and the jaw, bound not by bone but by ligaments that allow the animal to swallow its prey whole... Perhaps I should've said that I admire their structural refinement."
+    },
+    {
+      "id": 203,
+      "content": "The thrice-coiled ring on her ring finger gave off a cold glint, and the walls and the ceiling suddenly began to echo with the sickening squelch and crack of flesh and bones assembling."
+    },
+    {
+      "id": 204,
+      "model": "단테",
+      "content": "<W-what the hell is that?!>"
+    },
+    {
+      "id": 205,
+      "model": "에밀브누아",
+      "content": "Which brings me to ask... What better way to claim this delivery of promising material with a single bite than a work of art fashioned from a snake?"
+    },
+    {
+      "id": 206,
+      "content": "The Maestro plunged her arm into the long, serpentine body of a monster."
+    },
+    {
+      "id": 207,
+      "content": "Her sheer presence radiated a pressure as oppressive as that of the Nursefathers, only more primal and untempered."
+    },
+    {
+      "id": 208,
+      "model": "에밀브누아",
+      "content": "Consider it a privilege."
+    },
+    {
+      "id": 209,
+      "model": "에밀브누아",
+      "content": "This is the first time this piece has ever been exhibited to an outsider."
+    },
+    {
+      "id": 210,
+      "model": "파우스트",
+      "content": "Hohenheim. Is the lockdown sequence still not ready?"
+    },
+    {
+      "id": 211,
+      "model": "호엔하임",
+      "content": "1 minute to go! Step aside!"
+    },
+    {
+      "id": 212,
+      "content": "The attack from the E.G.O Gear Hohenheim hastily brandished didn't even last a moment—the weapon was knocked from his hand."
+    },
+    {
+      "id": 213,
+      "content": "As I scrambled to equip the Sinners with their Identities, something abruptly stopped the beastlike appendage midway through its hurtling motion."
+    },
+    {
+      "id": 214,
+      "content": "And the one who intercepted the blow..."
+    },
+    {
+      "id": 215,
+      "model": "뉴키라",
+      "content": "Hah... Shit."
+    },
+    {
+      "id": 216,
+      "content": "... was Kira, struggling to push back against the serpertine arm with her still-sealed blades."
+    },
+    {
+      "id": 217,
+      "model": "단테",
+      "content": "<K-Kira?!>"
+    },
+    {
+      "id": 218,
+      "content": "Did she suddenly have a change of heart I wasn't aware of...?"
+    },
+    {
+      "id": 219,
+      "model": "뉴키라",
+      "content": "Shit shit shit... This wasn't the plan at all..."
+    },
+    {
+      "id": 220,
+      "content": "... Obviously not. She couldn't have changed her mind that quickly,"
+    },
+    {
+      "id": 221,
+      "content": "because the look on her face couldn't be anything other than that of utter regret."
+    },
+    {
+      "id": 222,
+      "model": "에밀브누아",
+      "content": "The Middle, hmm? ... For someone who doesn't seem to be a proper member, you've inked quite the quantity of tattoos onto yourself..."
+    },
+    {
+      "id": 223,
+      "model": "에밀브누아",
+      "content": "Aha, you must be the new kit Matthias took in."
+    },
+    {
+      "id": 224,
+      "model": "에밀브누아",
+      "content": "Why do you stand in my way?"
+    },
+    {
+      "id": 225,
+      "model": "뉴키라2",
+      "content": "Fucked if I know... I'm already regretting it, alright?"
+    },
+    {
+      "id": 226,
+      "model": "뉴키라2",
+      "content": "Damn it... They're defo gonna ditch me here... Why did I even..."
+    },
+    {
+      "id": 227,
+      "model": "료슈",
+      "content": "Heh. Must be instinct taking over. Couldn't fully shake off the opponent's killing intent, so the body chose to clash head-on."
+    },
+    {
+      "id": 228,
+      "model": "호엔하임",
+      "content": "So the behavioral facet of the psyche can be controlled with suitable training. Unexpected data, but useful to be sure."
+    },
+    {
+      "id": 229,
+      "model": "뉴키라2",
+      "content": "Nnghh...! Shut it, Mister! Quit yapping and let me use my blades!"
+    },
+    {
+      "id": 230,
+      "model": "호엔하임",
+      "content": "Authorized and ready. Lifting locks... Now!"
+    },
+    {
+      "id": 231,
+      "content": "Kira's thermal weapons emerged from their sheaths with a metallic clang. She used the recoil of the motion to skid back and assume a defensive stance."
+    },
+    {
+      "id": 232,
+      "content": "Naturally, that broke Benoît's arm from the deadlock as well. The Maestro lashed out again with that monstrous limb, but..."
+    },
+    {
+      "id": 233,
+      "model": "뉴키라2",
+      "content": "Huh...?"
+    },
+    {
+      "id": 234,
+      "model": "돈키호테",
+      "content": "'Tis a foul injustice to strike against an unprepared opponent in a duel!"
+    },
+    {
+      "id": 235,
+      "model": "돈키호테",
+      "content": "Behold, for I shall allow thee a glimpse of the badass form that only the most renowned of Fixers have displayed through the ages...!"
+    },
+    {
+      "id": 236,
+      "content": "Seeing an opening, Don Quixote slammed into the arm with her full might, knocking it off its trajectory..."
+    },
+    {
+      "id": 237,
+      "content": "Predictably, however, the sheer force of the Maestro's attack instantly reduced her to a red sludge of flesh and bone, sending her remains crashing into the door."
+    },
+    {
+      "id": 238,
+      "model": "앨런",
+      "content": "<i>Ready to initiate lockdown sequence. I will seal the door immediately upon your exit.</i>"
+    },
+    {
+      "id": 239,
+      "model": "호엔하임",
+      "content": "Everyone to the door! Faust, retrieve the... organic remnants of Sinner #3!"
+    },
+    {
+      "id": 240,
+      "content": "As Faust made her exit with what was once Don Quixote, the Students of the Ring surrounded Kira, barring her way out. A hollow chuckle slipped out of her lips."
+    },
+    {
+      "id": 241,
+      "model": "뉴키라2",
+      "content": "Haha... called it for real. This is exactly why I didn't wanna get involved..."
+    },
+    {
+      "id": 242,
+      "content": "Taking Kira back with us would mean having a sizable force of the Ring trail right behind her through the door."
+    },
+    {
+      "id": 243,
+      "content": "Kira, too, seemed to have realized the risk that no one in their right mind would want to take. She lowered her head in defeat, as though she knew full well the fate that awaited her."
+    },
+    {
+      "id": 244,
+      "model": "뉴키라2",
+      "content": "I'm such a dumbass... What was I thinking, divin' in like that?"
+    },
+    {
+      "id": 245,
+      "model": "호엔하임",
+      "content": "You! Don't just stand there! Get over here now!"
+    },
+    {
+      "id": 246,
+      "model": "뉴키라2",
+      "content": "Huh? B-but... these guys're gonna come floodin' in if I..."
+    },
+    {
+      "id": 247,
+      "model": "료슈",
+      "content": "You T.T.M. Want to get cleaved in half again?"
+    },
+    {
+      "id": 248,
+      "model": "뉴키라2",
+      "content": "... You pin this on me later, you're gonna pay."
+    },
+    {
+      "id": 249,
+      "content": "Blocking the Maestro's arm by a hair as it came down on her again, Kira hurled herself toward the door with every bit of strength she could muster."
+    },
+    {
+      "id": 250,
+      "content": "More than a few Students rushed in through the doorway, chasing after the Sinners who had gone in ahead, but..."
+    },
+    {
+      "id": 251,
+      "place": "Corridor of the Ring Nursefather",
+      "model": "앨런",
+      "content": "Lockdown sequence complete. All Backdoor links have been cut."
+    },
+    {
+      "id": 252,
+      "content": "... fortunately, Alan managed to sever the connection between the two Backdoors before the Maestro could cross over."
+    },
+    {
+      "id": 253,
+      "model": "료슈",
+      "content": "*puff* ... Bowl cut. Think you can still use your arms?"
+    },
+    {
+      "id": 254,
+      "model": "뉴키라2",
+      "content": "... Am fine."
+    },
+    {
+      "id": 255,
+      "model": "료슈2",
+      "content": "So she says."
+    },
+    {
+      "id": 256,
+      "content": "Kira would be a strong enough addition to fight for us, but the Ring members that have managed to cross formed a rather sizable force."
+    },
+    {
+      "id": 257,
+      "content": "Fighting them off with just the Sinners I have at my side would not be the best course of action."
+    },
+    {
+      "id": 258,
+      "content": "In that case..."
+    },
+    {
+      "id": 259,
+      "model": "단테",
+      "content": "<Guys. I assume you're all available right now?>"
+    },
+    {
+      "id": 260,
+      "content": "As soon as I call out to the Sinners, their voices come through Hohenheim's radio one after another."
+    },
+    {
+      "id": 261,
+      "model": "이스마엘",
+      "teller": "Ishmael",
+      "title": "Radio",
+      "content": "Huh? Uh... I guess so?"
+    },
+    {
+      "id": 262,
+      "model": "오티스",
+      "teller": "Outis",
+      "title": "Radio",
+      "content": "Ready for your order, Executive Manager! I, Outis, am prepared to answer your call whenever and wherever—"
+    },
+    {
+      "id": 263,
+      "model": "로쟈",
+      "teller": "Rodya",
+      "title": "Radio",
+      "content": "Eh?! H-hang on, I just need to finish this bite...!"
+    },
+    {
+      "id": 264,
+      "model": "단테",
+      "content": "<Everyone to me.>"
+    }
+  ]
+}

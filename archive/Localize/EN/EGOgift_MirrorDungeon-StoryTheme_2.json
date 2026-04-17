@@ -116,7 +116,7 @@
     {
       "id": 9432,
       "name": "Manor-shaped Music Box",
-      "desc": "[Effects apply only to the #1 Deployed Identity]\n\nTurn End: when Staggered, recover from Stagger; then, at the next Turn Start, inflict 4 [Sinking] Potency and 4 [Sinking] Count to all enemies (once per Encounter; in Focused Encounters, on all Parts)\n\nWhen defeating an enemy with [Sinking], 1 enemy with the least [Sinking] Count gains +2 [Sinking] Count (in Focused Encounters, the Part)",
+      "desc": "Turn End: when Staggered, recover from Stagger; then, at the next Turn Start, inflict 4 [Sinking] Potency and 4 [Sinking] Count to all enemies (once per Encounter; in Focused Encounters, on all Parts)\n\nOn Kill, 1 enemy that has the least [Sinking] Count gains +2 [Sinking] Count (3 times per turn; in Focused Encounters, the Part)",
       "simpleDesc": [
         {
           "abilityID": 9432,

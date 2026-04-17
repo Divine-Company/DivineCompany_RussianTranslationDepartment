@@ -1,0 +1,730 @@
+{
+  "dataList": [
+    {
+      "id": 9104301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wildstroke",
+          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dessin Rapide",
+          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Fauvisme - Paint and Unfurl",
+          "desc": "Deal +10% damage for every 3 Mauled Color on target (max 30%)\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BearClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gusset",
+          "desc": "[DuelCounter]\n[WhenUse] If target has [BearClawWound], Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wildstroke",
+          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dessin Rapide",
+          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Fauvisme - Paint and Unfurl",
+          "desc": "Deal +10% damage for every 3 Mauled Color on target (max 30%)\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BearClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gusset",
+          "desc": "[DuelCounter]\n[WhenUse] If target has [BearClawWound], Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artwork Preparation",
+          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brisk Expression",
+          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Finishing Touch",
+          "desc": "[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partial Rework",
+          "desc": "[DuelCounter]\n[WhenUse] If target has [EagleClawWound], Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artwork Preparation",
+          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brisk Expression",
+          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Finishing Touch",
+          "desc": "[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partial Rework",
+          "desc": "[DuelCounter]\n[WhenUse] If target has [EagleClawWound], Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Target Sighted",
+          "desc": "If target has [IndexPrescriptTargetToPersonality], Clash Power +1 and deal +10% damage\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[WhenUse] At 6+ [BlessingOfIndexPrescriptEnemy], or if target has [IndexPrescriptTargetToPersonality], convert the final Coin of this Skill into [SuperCoin]\n[WhenUse] Gain 2 [Breath] and +2 [Breath] Count\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Where the Prescript Points",
+          "desc": "If target has [IndexPrescriptTargetToPersonality], Clash Power +1 and deal +20% damage\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 3)\n[WhenUse] At 6+ [BlessingOfIndexPrescriptEnemy], or if target has [IndexPrescriptTargetToPersonality], convert the final Coin of this Skill into [SuperCoin]\n[WhenUse] Gain 3 [Breath] and +3 [Breath] Count\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undertake Prescript",
+          "desc": "If target has [IndexPrescriptTargetToPersonality], Clash Power +2 and deal +25% damage\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 3)\n[WhenUse] At 3+ [BlessingOfIndexPrescriptEnemy], Coin Power +1\n[WhenUse] At 6+ [BlessingOfIndexPrescriptEnemy], or if target has [IndexPrescriptTargetToPersonality], convert all Coins of this Skill into [SuperCoin]\n[WhenUse] Gain 4 [Breath] and +3 [Breath] Count\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every [BlessingOfIndexPrescriptEnemy] on self (max 45%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking] and +2 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Target Sighted",
+          "desc": "If target has [IndexPrescriptTargetToPersonality], Clash Power +1 and deal +10% damage\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 2)\n[WhenUse] At 6+ [BlessingOfIndexPrescriptEnemy], or if target has [IndexPrescriptTargetToPersonality], convert the final Coin of this Skill into [SuperCoin]\n[WhenUse] Gain 1 [Breath] and +3 [Breath] Count\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking] and +2 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Where the Prescript Points",
+          "desc": "If target has [IndexPrescriptTargetToPersonality], Clash Power +1 and deal +20% damage\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 3)\n[WhenUse] At 6+ [BlessingOfIndexPrescriptEnemy], or if target has [IndexPrescriptTargetToPersonality], convert the final Coin of this Skill into [SuperCoin]\n[WhenUse] Gain 4 [Breath] and +2 [Breath] Count\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking] and +2 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undertake Prescript",
+          "desc": "If target has [IndexPrescriptTargetToPersonality], Clash Power +2 and deal +25% damage\nFinal Power +1 for every 6 ([Breath] on self + [Sinking] on target) (max 3)\n[WhenUse] At 3+ [BlessingOfIndexPrescriptEnemy], Coin Power +1\n[WhenUse] At 6+ [BlessingOfIndexPrescriptEnemy], or if target has [IndexPrescriptTargetToPersonality], convert all Coins of this Skill into [SuperCoin]\n[WhenUse] Gain 3 [Breath] and +4 [Breath] Count\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +5% damage for every [BlessingOfIndexPrescriptEnemy] on self (max 45%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] and +3 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

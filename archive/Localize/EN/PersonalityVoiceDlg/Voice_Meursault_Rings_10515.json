@@ -1,0 +1,124 @@
+{
+    "dataList": [
+      {
+        "id": "get_10515_1",
+        "desc": "Identity Acquisition",
+        "dlg": "Prioritize the rawness of the medium over functionality, apply the bonding pigment in a way that accentuates the cadaveric spasms—Understood, Docent. The impressions highlighted in your feedback will all be addressed."
+      },
+      {
+        "id": "lobby_morning_10515_1",
+        "desc": "Morning Greeting",
+        "dlg": "I was observing the... phlebotomization process. Material collected overnight necessitates this preliminary step before it can be conditioned in a more natural method.\nAccording to the lessons, the transitory span between dawn and sunrise is the most apt time to conduct this work, for the light takes on a razor-fine blue tone. That is why I make frequent use of it."
+      },
+      {
+        "id": "lobby_noon_10515_1",
+        "desc": "Afternoon Greeting",
+        "dlg": "Observing our work process over a meal is generally not recommended to individuals unacquainted with our studio environment. To preserve the ingredients' raw purity, we refrain from processing them with antiseptics or deodorization chemicals, which means—ah. The restroom is outside."
+      },
+      {
+        "id": "lobby_night_10515_1",
+        "desc": "Evening Greeting",
+        "dlg": "Pardon me. I was engaged in a late-night session refining my work and did not expect to see you here at this hour. This is the assignment to be completed today—I am applying some final revisions so that the outcome may be more... consistent with the evaluation criteria.\nMm. The evaluation \"this looks fine\" is appreciated. However, such a subjective assessment cannot serve as a standard for my work to continue."
+      },
+      {
+        "id": "smalltalk_10515_1",
+        "desc": "Chatter #1",
+        "dlg": "Subjectivity is not a matter of concern. The critical failing of my assignment was that it violated the traditional tenets of Fauvism.\nAny parts reinforced by materials taken from other animals will be removed and replaced with overlaid tendons from the primary ingredient."
+      },
+      {
+        "id": "smalltalk_10515_2",
+        "desc": "Chatter #2",
+        "dlg": "\"Good demonstration of art theory and practice, but lacks punch.\" 21 of 37 critiques of my work contained this evaluation. I haven't yet received a failing grade, but it is difficult to score above B- in all assignments.\nThis piece, too, was produced in perfect compliance with the required technique and review criteria—it is difficult to discern the reasoning behind this evaluation."
+      },
+      {
+        "id": "smalltalk_10515_3",
+        "desc": "Chatter #3",
+        "dlg": "Fauvism is often described as a time-honored movement. This suggests that its foundations have remained stable for many years—this continuity likely underlies its acclaim.\nTherefore, the natural conclusion is that the movement practiced by the one who had attempted to overlay one over the other without regard for their defining principles must be deemed substandard at best."
+      },
+      {
+        "id": "smalltalk_10515_4",
+        "desc": "Post-Uptie Chat 1",
+        "dlg": "When selecting the medium, it is paramount that its habitat is sufficiently observed prior to procurement. Subjects of interest may include the following: how its hide and fur move in accordance with ambulation, how its eyes and maw gleam and drool when stalking the prey...\nAnd how its body relaxes in surrender when faced with an inescapable predator."
+      },
+      {
+        "id": "smalltalk_10515_5",
+        "desc": "Post-Uptie Chat 2",
+        "dlg": "\"There is no such thing as a bad dog.\" This is the impression I have gained over the course of working with, processing, and wearing countless iterations of the medium.\nIt is said that a canine's forepaw is the most beautiful, and its fangs the most fierce—my work invites you to observe the broad, bold strokes in the former... and the impression of a determined, decisive leap in the latter.\nI present... \"Man's Best Dog.\""
+      },
+      {
+        "id": "neglect_10515_1",
+        "desc": "Idle",
+        "dlg": "Any absent parts of the medium must be patched. Needles for myofiber expansion-and-adhesion must also be refilled with their paint."
+      },
+      {
+        "id": "gacksung_10515_1",
+        "desc": "Uptying",
+        "dlg": "Hm. Loose claws: addressed. The excitement of the subject about to grip the prey in its claws: ... clearly communicated. This particular iteration is now worthy of submission for evaluation.\n... In that case, now would be the opportune time to collect new material for my next piece."
+      },
+      {
+        "id": "formation_10515_1",
+        "desc": "Deployment",
+        "dlg": "I take it that we have a date for the trial exhibition."
+      },
+      {
+        "id": "battleentry_10515_1",
+        "desc": "Stage Entry",
+        "dlg": "Requesting your most rigorous evaluation."
+      },
+      {
+        "id": "battle_select_10515_1",
+        "desc": "Viewed in Battle",
+        "dlg": "Tugging a hound's leash before its prey is—!"
+      },
+      {
+        "id": "battle_endcommand_10515_1",
+        "desc": "Commencing Attack",
+        "dlg": "C'est sauvage!"
+      },
+      {
+        "id": "battle_enemy_break_10515_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Once the canine material has been mastered,"
+      },
+      {
+        "id": "battle_break_10515_1",
+        "desc": "Staggered",
+        "dlg": "Ngh, but the assignment—"
+      },
+      {
+        "id": "battle_kill_10515_1",
+        "desc": "Enemy Killed",
+        "dlg": "I would like to work <i>with</i> you for my next project."
+      },
+      {
+        "id": "battle_dead_10515_1",
+        "desc": "Death",
+        "dlg": "The fetor of death... was myself as the artwork... all along."
+      },
+      {
+        "id": "choice_success_p_10515_2",
+        "desc": "Check Passed",
+        "dlg": "Perhaps the tail is to be wagged at such an occasion."
+      },
+      {
+        "id": "choice_fail_n_10515_1",
+        "desc": "Check Failed",
+        "dlg": "Apologies. This does not align with my subject matter."
+      },
+      {
+        "id": "battle_clear_10515_1",
+        "desc": "Victory Cry",
+        "dlg": "A passing grade, but not a good one. All of the feedback has already been applied, but the issue persists: I cannot think of additional ideas to improve this assignment."
+      },
+      {
+        "id": "battle_clear_ex_10515_1",
+        "desc": "Extra Conditions Fulfilled",
+        "dlg": "B+... That is indeed a step forward, however small it may be. I must conduct an analysis of this performance to identify the causes of this elevated scoring.\n... Hm, I did briefly lose my reason and enter the proverbial \"zone\" mid-battle. It is a shame that I cannot fully recall the memories of that experience."
+      },
+      {
+        "id": "battle_defeat_10515_1",
+        "desc": "Defeat Wail",
+        "dlg": "C+... Ah, Docent. If I may... Could you provide additional elaboration on your evaluation of my— <color=#923838>*sigh* Darling, lemme ask ya one thing—just <i>what</i> part of an art that so obediently conforms to the mold do ya think demonstrates the concept of <i>le Fauve</i>?</color> If you would so graciously indicate the precise aspects your evaluation addresses, then I will better them by a quantifiable measure of— <color=#923838>Ugh, forget it. If ya really, really don't get it, why don'tcha try rolling in the mud with zoo animals?</color>"
+      }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": "BearClawWound",
+      "name": "Mauled Color [Rouge]",
+      "desc": "- Max Stack: 9\n- When hit, gain 1 Bleed Potency for every 3 Stack (once per turn)\n- Turn End: Gain 1 Defense Level Down next turn for every 4 Stack (max 2)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Some say that the Ring's paint is made from the same base material as Augmentation Tattoos—they are both nigh-indelible pigments that take considerable effort to erase, let alone bleach.'"
+    },
+    {
+      "id": "EagleClawWound",
+      "name": "Mauled Color [Bleu]",
+      "desc": "- Max Stack: 9\n- When hit, gain 1 Sinking Potency for every 3 Stack (once per turn)\n- Turn End: At 5+ Stack, lose 5 SP\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'If the Middle uses their tattoos for self-augmentation, does that make the Ring's tattoos more brands that, when forcibly applied, weaken their enemies?'"
+    },
+    {
+      "id": "BoldBrushstrokes",
+      "name": "Touche Hardie",
+      "desc": "- While this unit has this effect, double the amount of HP and SP damage this unit takes from Bleed and Sinking\n- Turn End: Lose 1 Stack\n- Max Stack: 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Wolven claws, lynx claws... and even those of turtles, so minuscule yet intricately arranged... What a bold expression.\""
+    },
+    {
+      "id": "IntenseColors",
+      "name": "Palette Vibrante",
+      "desc": "- Take +(Stack x 5)% damage from The Ring-faction units\n· If the attacker is in The Ring School of Fauvism faction, take +(Stack x 10)% damage instead\n- Combat Start: Gain (Stack +1) Bleed, Sinking, Bleed Count, and Sinking Count\n- Combat End: This effect expires. Halve Mauled Color [Rouge] and Mauled Color [Bleu] Stacks on this unit (rounded down)\n- Max Stack: 4",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "FaubismWolfMask",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- Min & Max Speed +1\n- Inflict +1 more Bleed and Sinking Potency with Skills\n- Before hitting, if target does not have Sinking, inflict +2 Sinking Count (once per Sinner per turn)\n- Before Getting Hit, if target does not have Bleed, inflict +2 Bleed Count (once per Sinner per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"One might ask: What even distinguishes les Fauves from factions such as Heishous, R Corp. Packs, and more that incorporate beasts into their identities?\"\n\n\"A reasonable query, of that there is no doubt; to that I say we are distinguished by the transcendence of beastliness into artistic costumery, while the Heishous have mindlessly jammed it into their anatomies, disregarding their aesthetic qualities.\""
+    },
+    {
+      "id": "FaubismWolfMaskBlooded",
+      "name": "Le Fauvisme - Masque de Loup Ensanglanté",
+      "desc": "- Deal +20% damage; convert all Coins into Unbreakable Coins\n- Min & Max Speed +1\n- Inflict +1 more of the following negative effects with Skills\n· Bleed Potency and Count\n· Sinking Potency and Count\n- Before hitting, if target does not have Sinking, inflict +2 Sinking Count (3 times per Sinner per turn)\n- Before Getting Hit, if target does not have Bleed, inflict +2 Bleed Count (3 times per Sinner per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "One does not simply awaken the power of one's inner ferity by donning a beastly mask.\nThe interior of each headgear worn by these artists is lined with a mat of needles dipped in the Fauvist paint, which is injected into the body upon equipment. \n\nThus is the paint of the Ring—and these artists, regardless of their School, are all bound to use it."
+    },
+    {
+      "id": "PanicChangeLock",
+      "name": "Fixed Panic",
+      "desc": "This unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Fauvism_Lowmorale",
+      "name": "Faltering Inspiration",
+      "desc": "- If target has Mauled Color, deal +10% damage\n- Gain 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Fauvism_Panic",
+      "name": "Faltering Inspiration",
+      "desc": "- If target has Mauled Color, deal +20% damage\n- Gain 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Lowmorale",
+      "name": "Coloriage Impulsif",
+      "desc": "- Low Morale\n- Deal +2.5% damage for every type of negative effect on target (max 15%)\n- Gain 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Panic",
+      "name": "Coloriage Impulsif",
+      "desc": "- Panic\n- Deal +5% damage for every type of negative effect on target (max 30%)\n- Gain 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptEnemy_0",
+      "name": "Prescript: [Paper Slip] I",
+      "desc": "Attack and hit a Sinner.\n\n- Turn Start: At 0~2 Grace of the Prescript, gain this effect\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptEnemy_1",
+      "name": "Prescript: [Paper Slip] II",
+      "desc": "Attack and hit a Prescript's Target.\n\n- Turn Start: At 3~5 Grace of the Prescript, gain this effect\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptEnemy_2",
+      "name": "Prescript: [Paper Slip] III",
+      "desc": "Stagger or eliminate a random Sinner, either by you or your ally.\n\n- Turn Start: At 6~8 Grace of the Prescript, gain this effect\n- Maximum stackable Grace of the Prescript with this Prescript is limited to 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "IndexPrescriptEnemy_3",
+      "name": "Prescript: [Paper Slip] IV",
+      "desc": "Eliminate all enemies before the next Prescript arrives.\n\n- Turn Start: At 9 Grace of the Prescript, gain this effect",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Prescripts are delivered by many means, their medium determined with finality akin to divine prophecy. Those who receive them hold no power over how they arrive."
+    },
+    {
+      "id": "KarmaOfIndexEnemy",
+      "name": "Karmic Consequence",
+      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
+    },
+    {
+      "id": "ResentmentSpiderDaughterTwo",
+      "name": "<s>The Middle</s> - Grudge",
+      "desc": "- Max Stack: 10\n- Reduced when using certain Skills\n- For every Stack, Offense Level +1, Defense Level -2, and Counter Skills deal +5% damage\n- At max Stack, take +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ReinforcedTattooSpiderDaughterTwo",
+      "name": "<s>The Middle Styled</s> Augmentation Tattoos",
+      "desc": "- Max Stack: 3\n- Deal +10% Blunt and Envy damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireOnSpiderTwo",
+      "name": "Thermal Blades ON",
+      "desc": "On Hit with Thermal Blade Skill Coins: Additionally inflict Burn Potency and Count equal to Bleed Potency and Count inflicted",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

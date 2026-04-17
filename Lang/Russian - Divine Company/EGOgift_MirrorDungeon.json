@@ -290,11 +290,11 @@
     {
       "id": 9012,
       "name": "Today’s Expression",
-      "desc": "При убийстве противника Дробящим навыком или навыком Лени, даёт Грешнику +2 к Силе Дробящих навыков до конца следующего хода.",
+      "desc": "При убийстве противника в конце атаки Дробящим навыком или навыком Лени: На 2 хода, начиная со следующего, даёт +2 к Силе Дробящих навыков Грешнику, который использовал навык.",
       "simpleDesc": [
         {
           "abilityID": 9012,
-          "simpleDesc": "Blunt Skill Power +2"
+          "simpleDesc": "+2 к Силе Дробящих навыков"
         }
       ]
     },
@@ -510,7 +510,7 @@
     {
       "id": 9020,
       "name": "White Gossypium",
-      "desc": "В начале хода при наличии Оглушённых противников восстанавливает их от Оглушения, накладывая (8 + Степень Оглушения x 4) [Laceration:`Кровотечения`] и (4 + Степень Оглушения x 2) [AttackDown:`Уменьшения Уровня Атаки`] (Один раз для противника за Бой. Не активируется, если противник не может восстановиться от Оглушения).",
+      "desc": "В начале хода: При наличии Оглушённых противников восстанавливает их от Оглушения, накладывая (8 + Степень Оглушения x 4) [Laceration:`Кровотечения`] и (4 + Степень Оглушения x 2) [AttackDown:`Уменьшения Уровня Атаки`] на этот и следующий ход. (Один раз для противника за Бой. Не активируется, если противник не может восстановиться от Оглушения).",
       "simpleDesc": [
         {
           "abilityID": 9020,
@@ -521,7 +521,7 @@
     {
       "id": 19020,
       "name": "White Gossypium+",
-      "desc": "В начале хода при наличии Оглушённых противников восстанавливает их от Оглушения, накладывая (<style=\"upgradeHighlight\">10 + Степень Оглушения x 5</style>) [Laceration:`Кровотечения`] <style=\"upgradeHighlight\">и [AttackDown:`Уменьшения Уровня Атаки`]</style> (Один раз для противника за Бой. Не активируется, если противник не может восстановиться от Оглушения).",
+      "desc": "В начале хода при наличии Оглушённых противников восстанавливает их от Оглушения, накладывая (<style=\"upgradeHighlight\">10 + Степень Оглушения x 5</style>) [Laceration:`Кровотечения`] <style=\"upgradeHighlight\">и [AttackDown:`Уменьшения Уровня Атаки`]</style> на этот и следующий ход. (Один раз для противника за Бой. Не активируется, если противник не может восстановиться от Оглушения).",
       "simpleDesc": [
         {
           "abilityID": 19020,
@@ -532,7 +532,7 @@
     {
       "id": 29020,
       "name": "White Gossypium++",
-      "desc": "В начале хода при наличии Оглушённых противников восстанавливает их от Оглушения, накладывая (<style=\"upgradeHighlight\">12 + Степень Оглушения x 6</style>) [Laceration:`Кровотечения`], [AttackDown:`Уменьшения Уровня Атаки`] <style=\"upgradeHighlight\">и [DefenseDown:`Уменьшения Уровня Защиты`]</style>(Один раз для противника за Бой. Не активируется, если противник не может восстановиться от Оглушения).",
+      "desc": "В начале хода при наличии Оглушённых противников восстанавливает их от Оглушения, накладывая (<style=\"upgradeHighlight\">12 + Степень Оглушения x 6</style>) [Laceration:`Кровотечения`], [AttackDown:`Уменьшения Уровня Атаки`] <style=\"upgradeHighlight\">и [DefenseDown:`Уменьшения Уровня Защиты`]</style> на этот и следующий ход. (Один раз для противника за Бой. Не активируется, если противник не может восстановиться от Оглушения).",
       "simpleDesc": [
         {
           "abilityID": 29020,
@@ -726,11 +726,11 @@
     {
       "id": 9030,
       "name": "Gathering Skulls",
-      "desc": "При убийстве противника Колющим навыком или навыком Гордыни, даёт Грешнику +2 к Силе Колющих навыков на два следующих хода.",
+      "desc": "При убийстве противника в конце атаки Колющим навыком или навыком Гордыни: На 2 хода, начиная со следующего, даёт +2 к Силе Колющих навыков Грешнику, который использовал навык.",
       "simpleDesc": [
         {
           "abilityID": 9030,
-          "simpleDesc": "Pierce Skill Power +2"
+          "simpleDesc": "+2 к Силе Колющих навыков"
         }
       ]
     },
@@ -782,15 +782,15 @@
     {
       "id": 9032,
       "name": "Dreaming Electric Sheep",
-      "desc": "При убийстве противника Рубящим навыком или навыком Зависти, даёт Грешнику +2 к Силе Рубящих навыков на два следующих хода.\n\nВ начале Схваток при активации Абсолютного Резонанса Зависти накладывает 2 [AttackUp:`Увеличения Уровня Атаки`] и 2 [DefenseUp:`Увеличения Уровня Защиты`] на всех Грешников.",
+      "desc": "При убийстве противника в конце атаки Рубящим навыком или навыком Зависти: На 2 хода, начиная со следующего, даёт +2 к Силе Рубящих навыков Грешнику, который использовал навык.\n\nВ начале Схваток при активации Абсолютного Резонанса Зависти накладывает 2 [AttackUp:`Увеличения Уровня Атаки`] и 2 [DefenseUp:`Увеличения Уровня Защиты`] на всех Грешников.",
       "simpleDesc": [
         {
           "abilityID": 9032,
-          "simpleDesc": "Slash Skill Power +2"
+          "simpleDesc": "+2 к Силе Рубящих навыков"
         },
         {
           "abilityID": 90321,
-          "simpleDesc": "Gain 2 [AttackUp] and 2 [DefenseUp]"
+          "simpleDesc": "Даёт 2 [AttackUp:`Увеличения Уровня Атаки`] и 2 [DefenseUp:`Увеличения Уровня Защиты`]"
         }
       ]
     },
@@ -3608,7 +3608,7 @@
     {
       "id": 9134,
       "name": "Patrolling Flashlight",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply 2 [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: The affected Identity gains 2 [ChargeForceField]\n\nIf the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% damage while that unit has [ChargeForceField]",
       "simpleDesc": [
         {
           "abilityID": 9134,
@@ -3623,7 +3623,7 @@
     {
       "id": 19134,
       "name": "Patrolling Flashlight+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+15</style>% damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">3</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nTurn Start: The affected Identity gains <style=\"upgradeHighlight\">3</style> [ChargeForceField]\n\nIf the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +<style=\"upgradeHighlight\">15</style>% damage while that unit has [ChargeForceField]",
       "simpleDesc": [
         {
           "abilityID": 19134,
@@ -3638,7 +3638,7 @@
     {
       "id": 29134,
       "name": "Patrolling Flashlight++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+25</style>% damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">4</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: The affected Identity gains <style=\"upgradeHighlight\">4</style> [ChargeForceField]\n\nIf the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +<style=\"upgradeHighlight\">25</style>% damage while that unit has [ChargeForceField]",
       "simpleDesc": [
         {
           "abilityID": 29134,

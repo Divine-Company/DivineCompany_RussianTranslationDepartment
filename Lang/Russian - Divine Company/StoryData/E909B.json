@@ -1,0 +1,473 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "An Office Building, Somewhere",
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "This place..."
+    },
+    {
+      "id": 2,
+      "model": "뉴키라",
+      "content": "Eh? It's just a boring ol' office. I was kinda ready to be shook, thinking we were about to walk into a warzone or something."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<You recognize this place?>"
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Hah, 'course I do."
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "My last job before Limbus Company."
+    },
+    {
+      "id": 6,
+      "model": "그레고르",
+      "content": "... And my desk was... over there."
+    },
+    {
+      "id": 7,
+      "model": "그레고르",
+      "content": "Here's a tip, fellas. When you're working in an office like this, always get a corner desk facing the wall if you can help it. Lets you hide from the bossman."
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "content": "Out of sight, out of mind, you know? You can do whatever you want that way. Work, chill, or even freak out in terror at the slightest sound of metal clinking... Nobody will catch you—nobody will think you're a bother to other people."
+    },
+    {
+      "id": 9,
+      "content": "... Gregor grins—a bitter, mocking smile directed at himself."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "The only downside of this desk arrangement being... people walking up behind me to get my attention."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Higher-ups just had to holler \"Hey, Vet Hire!\" and I'd scuttle right up to them, but others can't do that."
+    },
+    {
+      "id": 12,
+      "model": "그레고르",
+      "content": "So whenever people walked up to me from behind, I'd get afraid that I might... cause an accident."
+    },
+    {
+      "id": 13,
+      "model": "모제스4",
+      "content": "\"Vet Hire\"... must be about the Post-war Veteran Special Employment."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Right, but I couldn't possibly complain. Wouldn't have gotten that job without it, you know? Not everyone was lucky enough to be considered for that."
+    },
+    {
+      "id": 15,
+      "model": "그레고르",
+      "content": "I was better off than most—"
+    },
+    {
+      "id": 16,
+      "model": "그레고르네부장",
+      "teller": "???",
+      "title": "???",
+      "content": "Gregor?"
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "Hm?! Head Manager—Ted?!"
+    },
+    {
+      "id": 18,
+      "content": "Gregor whipped around, his hand instinctively leaping to his other arm. There was an unfamiliar man in a clean suit standing behind us."
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "model": "그레고르네부장",
+      "content": "It really is you, Gregor!"
+    },
+    {
+      "id": 21,
+      "model": "그레고르네부장",
+      "content": "And—I see some new faces with you..."
+    },
+    {
+      "id": 22,
+      "model": "그레고르네부장",
+      "content": "Oh, wait. Oh! You folks must be the account that the guys on the other team asked us to leave the meeting room open for."
+    },
+    {
+      "id": 23,
+      "model": "그레고르네부장",
+      "content": "Landed a new job, huh? I see you've got a new employee card right there."
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "W-well, um... So... How have you been doing?"
+    },
+    {
+      "id": 25,
+      "model": "그레고르네부장",
+      "content": "Me? Same old, same old—well enough. It's not like I've got anywhere else to go, right?"
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "Aha, ha ha..."
+    },
+    {
+      "id": 27,
+      "model": "그레고르네부장",
+      "content": "I'm not surprised you found new work so soon. You were always a dependable guy."
+    },
+    {
+      "id": 28,
+      "model": "그레고르네부장",
+      "content": "Is the pay good? How's life, man? Oh yeah, you were gonna sell that uh, commemorative coin? Some kinda medal, right? Hope you got paid good money for that."
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 30,
+      "model": "그레고르네부장",
+      "content": "Look at me. Asking \"how's life\" to a fellow Citizen. Can't imagine anybody would have anything good to say to that, huh?"
+    },
+    {
+      "id": 31,
+      "model": "그레고르네부장",
+      "content": "Tsk. Moving on... Hope no one's hounding you with \"Vet Hire\" shit over there."
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "No, not at all. There's none of that here..."
+    },
+    {
+      "id": 33,
+      "model": "그레고르네부장",
+      "content": "Hey, that's good to hear, man~ Glad you don't have to deal with that dang jackass of an Exec VP messing with you like he was a war veteran himself."
+    },
+    {
+      "id": 34,
+      "model": "그레고르네부장",
+      "content": "Y'know how many years I had to hear that geezer bragging about how he profiteered from the war, pulling himself up by his bootstraps, about how in every peril is an opportunity waiting to be found, blah blah blah—I'm preaching to the choir, aren't I?"
+    },
+    {
+      "id": 35,
+      "model": "그레고르",
+      "content": "Hah, ha ha."
+    },
+    {
+      "id": 36,
+      "model": "그레고르",
+      "content": "... That guy, huh. Is he still taking his \"sauna breaks\" during work hours?"
+    },
+    {
+      "id": 37,
+      "model": "그레고르네부장",
+      "content": "Haha, what do ya think? His seat misses his ass every day."
+    },
+    {
+      "id": 38,
+      "model": "그레고르",
+      "content": "Hahaha..."
+    },
+    {
+      "id": 39,
+      "model": "그레고르네부장",
+      "content": "Oh, and get this. Remember how he used to call you special employment fellas \"Nepo Force\"? A few days ago, his name showed up in the HR report. Guess what it said."
+    },
+    {
+      "id": 40,
+      "model": "그레고르네부장",
+      "content": "Turns out he was lining his pockets with kickbacks when we were choosing the Fixer Office for a partnership project. Heh, there's about to be a vacancy in the office real soon."
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "Really? Isn't he... you know, an actual nepo? Thought he's the president's family."
+    },
+    {
+      "id": 42,
+      "model": "그레고르네부장",
+      "content": "Yeah, man. It's <i>that</i> bad. It's what anyone ever talks about by the water cooler."
+    },
+    {
+      "id": 43,
+      "model": "그레고르네부장",
+      "content": "If there's anything I learned here, it's that people obsessed with \"back in my days\" are all kinda like him."
+    },
+    {
+      "id": 44,
+      "model": "그레고르네부장",
+      "content": "They hate how their glory days are behind 'em. Kinda like, a distraction from how pathetic they are now."
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "...!"
+    },
+    {
+      "id": 46,
+      "model": "그레고르네부장",
+      "content": "And hey, a Backstreets kid like myself don't have \"glory days\" to look back on and yearn for, right?"
+    },
+    {
+      "id": 47,
+      "model": "그레고르네부장",
+      "content": "I look back, and it's all doom and gloom. Y'know, if you've ever hit rock bottom, you also know the only way left to go is up."
+    },
+    {
+      "id": 48,
+      "model": "그레고르",
+      "content": "You've said something like that before, yeah."
+    },
+    {
+      "id": 49,
+      "model": "그레고르네부장",
+      "content": "Bwahahaha, yeah? Guess it's my own brand of bullshit philosophy!"
+    },
+    {
+      "id": 50,
+      "model": "그레고르네부장",
+      "content": "Oh boy, look at me, runnin' my mouth in front of our customers. Sorry about that, folks."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<O-oh, don't worry about it.>"
+    },
+    {
+      "id": 52,
+      "model": "그레고르네부장",
+      "content": "Eh? That's a pretty unique prosthesis you've got there..."
+    },
+    {
+      "id": 53,
+      "model": "모제스4",
+      "content": "... No worries. But it seemed that you were on your way to submit those proposals?"
+    },
+    {
+      "id": 54,
+      "model": "그레고르네부장",
+      "content": "Gee golly, I'm late...! Thank you for snapping me out of it. I'm gonna get one heck of a scolding..."
+    },
+    {
+      "id": 55,
+      "model": "그레고르네부장",
+      "content": "Anyway, Gregor! Hit me up sometime, eh? Let's go out and catch up over a drink or something."
+    },
+    {
+      "id": 56,
+      "model": "그레고르",
+      "content": "... Sure, if I get the chance."
+    },
+    {
+      "id": 57,
+      "content": "The man who seemed like Gregor's former coworker hurried away, but he didn't forget to wave us a good-natured goodbye."
+    },
+    {
+      "id": 58,
+      "model": "홍루",
+      "content": "Fuhu, I can see a little bit of him in the way you talk, Gregor~"
+    },
+    {
+      "id": 59,
+      "model": "그레고르",
+      "content": "C'mon, I don't sound as old as he does, do I?"
+    },
+    {
+      "id": 60,
+      "model": "모제스4",
+      "content": "*puff*"
+    },
+    {
+      "id": 61,
+      "content": "Moses, who had been quietly observing as Gregor and his former coworker chatted, exhaled a light stream of smoke and slowly began to speak."
+    },
+    {
+      "id": 62,
+      "model": "모제스4",
+      "content": "Many of us who returned from the War seem to suffer from a certain misconception."
+    },
+    {
+      "id": 63,
+      "model": "모제스4",
+      "content": "When we are told to remember, it does not mean we are bidden to live through the nightmare of the past over and over again."
+    },
+    {
+      "id": 64,
+      "model": "모제스4",
+      "content": "We are not being cursed to relive the pain and suffer in it."
+    },
+    {
+      "id": 65,
+      "model": "모제스4",
+      "content": "Both Ezra and I, we're... we are both still trying to be free of the misconception we inflicted on ourselves."
+    },
+    {
+      "id": 66,
+      "model": "그레고르",
+      "content": "... It's not like I remember because I want to."
+    },
+    {
+      "id": 67,
+      "model": "모제스4",
+      "content": "Well, if you can't bring yourself to forget them..."
+    },
+    {
+      "id": 68,
+      "model": "모제스4",
+      "content": "... might as well include in your memory the fact that the War has indeed ended."
+    },
+    {
+      "id": 69,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 70,
+      "model": "그레고르",
+      "content": "... Fine."
+    },
+    {
+      "id": 71,
+      "model": "그레고르",
+      "content": "You're not wrong there."
+    },
+    {
+      "id": 72,
+      "content": "Gregor stared at his right arm for a while, quietly contemplating."
+    },
+    {
+      "id": 73,
+      "model": "그레고르",
+      "content": "... Manager Bud."
+    },
+    {
+      "id": 74,
+      "model": "그레고르",
+      "content": "Can't say I can give you any reassurance, but... just going on with my life seems to be the best answer for now."
+    },
+    {
+      "id": 75,
+      "model": "그레고르",
+      "content": "I want to ask if you're okay with that, though. I'll manage, but it's you who's going to have to deal with the aftermath."
+    },
+    {
+      "id": 76,
+      "content": "Gregor would always say the same to those suffering from the cruelty inherent in living."
+    },
+    {
+      "id": 77,
+      "content": "Still, live on. Just live on."
+    },
+    {
+      "id": 78,
+      "content": "Yet even as his lips spoke those words, his eyes would take on a desperate and unfocused look, shaded beneath despair."
+    },
+    {
+      "id": 79,
+      "content": "Today, though... Today, the gloomy gray seemed to give way to just a hint of the blue sky beyond."
+    },
+    {
+      "id": 80,
+      "content": "This may be no more than a single ray of the sun peering through the dark clouds that have long suffocated the sky. It would probably take much more than this for the shadows to be fully lifted, but..."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Don't you worry. I'll be fine.>"
+    },
+    {
+      "id": 82,
+      "content": "... it's a big step forward for him to have addressed even a little bit of that persistent anxiety from his past."
+    },
+    {
+      "id": 83,
+      "place": "Crumbling Corridor of the Thumb Nursefather",
+      "content": "When we emerged from the door, we saw Outis facing away from us, her weapon drawn."
+    },
+    {
+      "id": 84,
+      "content": "Wait, I don't think she even followed us through the door..."
+    },
+    {
+      "id": 85,
+      "model": "단테",
+      "content": "<Huh? Were you here the entire time?>"
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "content": "... Yes. I was told by that Alan figure that someone has to stay behind and watch the door during these operations."
+    },
+    {
+      "id": 87,
+      "model": "오티스",
+      "content": "So I stayed, and..."
+    },
+    {
+      "id": 88,
+      "model": "야수파2",
+      "content": "......."
+    },
+    {
+      "id": 89,
+      "model": "뉴키라",
+      "content": "Aw man...! It's those asshats again!"
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "... Weird. The Corridor's not a place for those newbies to be roaming around on their own."
+    },
+    {
+      "id": 91,
+      "model": "오티스",
+      "content": "... as you can see, a few uninvited guests have decided to visit us through a different door."
+    },
+    {
+      "id": 92,
+      "content": "I looked past Outis just in time to see more Fauvists pouring into the Corridor through a different Backdoor."
+    },
+    {
+      "id": 93,
+      "content": "They must be trying to find a way to get to the Ring Nursefather's Corridor..."
+    },
+    {
+      "id": 94,
+      "model": "단테",
+      "content": "<Well, we can't just let them through, can we?>"
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<Kill them all.>"
+    }
+  ]
+}

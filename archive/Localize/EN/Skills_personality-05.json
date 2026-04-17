@@ -2384,6 +2384,295 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1051501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rough Portrayal",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Rough Portrayal",
+          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rough Portrayal",
+          "desc": "<style=\"highlight\">Deal +5% damage for every type of negative effect on target (max 15%)</style>\n[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +1 [Sinking] Count</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Visceral Strokes",
+          "desc": "[WhenUse] If target does not have [BearClawWoundAlly], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Visceral Strokes",
+          "desc": "[WhenUse] If target does not have [BearClawWoundAlly], Clash Power +1\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Visceral Strokes",
+          "desc": "<style=\"highlight\">Deal +5% damage for every type of negative effect on target (max 20%)</style>\n[WhenUse] If target does not have [BearClawWoundAlly], Clash Power +1\n[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Fauvisme - Reveal Submission",
+          "desc": "Deal +10% damage for every type of negative effect on target (max 60%)\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Fauvisme - Reveal Submission",
+          "desc": "Deal +10% damage for every type of negative effect on target (max 60%)\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 ([Laceration] + [Sinking]) on target (max 4)</style>\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s\n<style=\"highlight\">- On Hit with the additional Coin: Randomly inflict (Mauled Color on target / 3) [Laceration] or [Sinking] Potency (max 3 each; rounded down)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [BearClawWoundAlly]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1051504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coloring Preparations",
+          "desc": "[DuelCounter]\nIf this unit has [FaubismMaskMeursault], Base Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Coloring Preparations",
+          "desc": "[DuelCounter]\nIf this unit has [FaubismMaskMeursault], Base Power +2\n<style=\"highlight\">[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

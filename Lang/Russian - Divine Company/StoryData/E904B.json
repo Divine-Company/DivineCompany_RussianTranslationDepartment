@@ -1,0 +1,860 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "The House of Spiders Forward Base",
+      "content": "Hohenheim brought us to what looked like a research lab, lined with cables, rows of screens, and diagrams full of complex symbols and shapes."
+    },
+    {
+      "id": 1,
+      "model": "단테",
+      "content": "<I didn't know there was a place like this in the House of Spiders...>"
+    },
+    {
+      "id": 2,
+      "model": "파우스트",
+      "content": "This is a forward base constructed by Limbus Company following Operation Spider Pyre. It did not exist prior to the House's fall."
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "It is intended for additional Backdoor investigation and research into irregular phenomena observed during the operation."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Irregular phenomena?>"
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "... An example:"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Research subjects such as \"A Spatial Analysis of the Correlation between the Emergence of Sinner #11's Sign and the Manifestation of Possible Future.\""
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Oh...>"
+    },
+    {
+      "id": 8,
+      "content": "Looking around, I spotted Sinclair and a group of researchers surrounding him—the same people who had dragged him off earlier."
+    },
+    {
+      "id": 9,
+      "content": "They were accompanied by... a gaggle of Sinners who had tagged along to either watch the show or kill some time while they took a breather after work."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Hohenheim. How long will the examination take?"
+    },
+    {
+      "id": 11,
+      "model": "호엔하임",
+      "content": "Hmm. With Sinclair's biometric assessment concluded, the analyzer device should be available for the Relic now."
+    },
+    {
+      "id": 12,
+      "model": "호엔하임",
+      "content": "Which means that it should be finished in... an hour from now, at the latest."
+    },
+    {
+      "id": 13,
+      "content": "The scabbard rattled again at the mention of \"an hour.\""
+    },
+    {
+      "id": 14,
+      "content": "... I don't know why, or how... but the way it swayed... almost felt like a child trembling."
+    },
+    {
+      "id": 15,
+      "model": "호엔하임",
+      "content": "It's moving again."
+    },
+    {
+      "id": 16,
+      "model": "호엔하임",
+      "content": "Come along, Ryōshū. I expect you will want to witness the procedure."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "Fine."
+    },
+    {
+      "id": 18,
+      "content": "Ryōshū and Hohenheim headed off to the side—the examination was probably going to start immediately."
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Time to get to Sinclair, then... Wait.>"
+    },
+    {
+      "id": 20,
+      "content": "I was making my way toward Sinclair, who was getting bombarded with questions, when an unexpected figure behind a pillar caught my eye."
+    },
+    {
+      "id": 21,
+      "content": "It was Vespa Crabro, with a big piece of paper covered in crooked handwriting taped on his back."
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<\"Snack... thief\"?>"
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "Ah. Manager."
+    },
+    {
+      "id": 24,
+      "model": "카론",
+      "content": "... Charon's snacks. Mister String Bean ate up all of them."
+    },
+    {
+      "id": 25,
+      "model": "베스파",
+      "content": "... Sorry, but I think there's been some misunderstanding..."
+    },
+    {
+      "id": 26,
+      "model": "카론",
+      "content": "Verg. Kick his ass."
+    },
+    {
+      "id": 27,
+      "model": "베르길리우스",
+      "content": "*sigh*"
+    },
+    {
+      "id": 28,
+      "model": "베르길리우스",
+      "content": "... Not only is this matter not worth pointing fingers over, but Charon also shares some of the responsibility for leaving them out on the table unattended."
+    },
+    {
+      "id": 29,
+      "model": "베르길리우스",
+      "content": "Still, I would prefer you exercise more care next time... Or you'll put me in a tough spot."
+    },
+    {
+      "id": 30,
+      "model": "베스파",
+      "content": "... Understood."
+    },
+    {
+      "id": 31,
+      "model": "베르길리우스",
+      "content": "... Charon."
+    },
+    {
+      "id": 32,
+      "model": "카론",
+      "content": "Charon, Super Sulky Mode engaged. Not talking for half a day."
+    },
+    {
+      "id": 33,
+      "model": "베르길리우스",
+      "content": "Deploying \"Super Pass Bitter Candy.\""
+    },
+    {
+      "id": 34,
+      "model": "카론",
+      "content": "... Beep, beep. Mode disabled."
+    },
+    {
+      "id": 35,
+      "model": "베스파",
+      "content": "Mm... I'm not sure if this is an appropriate request, but may I remove the paper from my back now...? It's a little... inconvenient for me."
+    },
+    {
+      "id": 36,
+      "model": "카론",
+      "content": "Charon forgives this time. Next time, no mercy."
+    },
+    {
+      "id": 37,
+      "model": "베르길리우스",
+      "content": "... Best make sure she doesn't listen to that radio channel again."
+    },
+    {
+      "id": 38,
+      "content": "Vergilius looked on with an inscrutable expression as Charon peeled the \"Snack Thief\" sign off Vespa's back."
+    },
+    {
+      "id": 39,
+      "model": "베르길리우스",
+      "content": "Make sure to remember this... so I don't have to think I'm burning through what little candy chance I have left on such trivial nonsense."
+    },
+    {
+      "id": 40,
+      "model": "베스파",
+      "content": "... Thank you."
+    },
+    {
+      "id": 41,
+      "content": "Vespa gave a polite thanks, but he was already picking something off another plate and stuffing it into his mouth."
+    },
+    {
+      "id": 42,
+      "model": "로쟈",
+      "content": "W-wait a minute... I was saving that for later!"
+    },
+    {
+      "id": 43,
+      "model": "베스파",
+      "content": "... I assumed you were being picky."
+    },
+    {
+      "id": 44,
+      "model": "로쟈",
+      "content": "Well, now you know! Yet I still see you gobbling up my share!"
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Ugh...! He took <i>my</i> snack, too, Verg! Kick his ass!"
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "... Rodion. Rodion Romanovich."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "I am aware that half of the total snack budget allocated to each Sinner is being funneled into your snacking expenses... And now you're raiding the LCE's supplies as well?"
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Chill~ That's totes been agreed upon, mmkay~?"
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Besides, that's that, and this is this!"
+    },
+    {
+      "id": 50,
+      "model": "베르길리우스",
+      "content": "*sigh*"
+    },
+    {
+      "id": 51,
+      "content": "The lines on Vergilius's brow looked deeper than usual today..."
+    },
+    {
+      "id": 52,
+      "content": "Hoping to help him out of this endless cycle of snack-related headaches and to satisfy my own nagging curiosity, I drew near our guide and broke his brooding silence with my tick-tocks."
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<... Did we learn anything about Sinclair's Sign?>"
+    },
+    {
+      "id": 54,
+      "model": "파우스트",
+      "content": "Dante is inquiring about the outcome of the research on the Sign."
+    },
+    {
+      "id": 55,
+      "model": "베르길리우스",
+      "content": "I've heard from the researchers... but nothing of particular significance came out of it."
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Observation of the Sign has so far been limited to two individuals: the Manager and Sinclair. Due to the limited accessibility to the phenomenon, the only verifiable information has so far been its existence."
+    },
+    {
+      "id": 57,
+      "model": "파우스트",
+      "content": "Researching that which cannot be observed is bound to be difficult."
+    },
+    {
+      "id": 58,
+      "content": "... Faust has a point. Aside from Sinclair, none of the Sinners can actually see the Sign."
+    },
+    {
+      "id": 59,
+      "content": "And the same would go for the researchers. Even Sonya said only a select few people could perceive it."
+    },
+    {
+      "id": 60,
+      "model": "파우스트",
+      "content": "If there were more individuals bearing Signs, there would be a wider pool for a comparative analysis of statistical samples to narrow down the scope..."
+    },
+    {
+      "id": 61,
+      "model": "파우스트",
+      "content": "However, records indicate no suitable references exist. At present, the research effort is limited to reducing variables such as whether or not the irregular phenomena are tied to the location where the battle took place."
+    },
+    {
+      "id": 62,
+      "model": "단테",
+      "content": "<By \"individuals bearing Signs\"... Do you mean people like Demian and Sansón?>"
+    },
+    {
+      "id": 63,
+      "model": "로쟈",
+      "content": "Wait, then could those guys do what Sinclair did? Pull in some superpowered future self and just wreck everything?"
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "content": "Even Sonya...?"
+    },
+    {
+      "id": 65,
+      "content": "I should step in and put an end to this subject before Rodya gets the blues."
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<I don't think so. From what Ishmael and Faust reported back then...>"
+    },
+    {
+      "id": 67,
+      "model": "이스마엘",
+      "content": "Right. Sinclair from the future said each Sign carries a different power, I think."
+    },
+    {
+      "id": 68,
+      "model": "이스마엘",
+      "content": "Maybe, you know... those layers of light rings Demian used to finish off Kromer, or Sansón dragging us into his \"story\"... those could be it."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "... Aye, that doth seem plausible."
+    },
+    {
+      "id": 70,
+      "model": "단테",
+      "content": "<So none of that is information we can confirm yet.>"
+    },
+    {
+      "id": 71,
+      "model": "파우스트",
+      "content": "Correct. As you have stated, any discussion of this subject would not venture beyond the realm of wild speculation. Nothing has been proven yet—ergo, fear would be an unnecessary response at present."
+    },
+    {
+      "id": 73,
+      "model": "이상",
+      "content": "Hmm..."
+    },
+    {
+      "id": 74,
+      "model": "이상",
+      "content": "This is, at best, grounded in supposition, but it would seem that the researchers are coaxing forth a hypothesis from the vestiges left in the wake of Sinclair's future self."
+    },
+    {
+      "id": 75,
+      "model": "히스클리프",
+      "content": "Oh, that... That bit about the Sign maybe being some Singularity or whatever, yeah?"
+    },
+    {
+      "id": 76,
+      "model": "뫼르소",
+      "content": "The precise position of the hypothesis was that the fundamental principles of the Sign's working may be equivalent to those of Singularities or Relics."
+    },
+    {
+      "id": 77,
+      "model": "뫼르소",
+      "content": "But as no actionable evidence was obtained from Sinclair, there is presently no means by which this hypothesis may be validated."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<I see... Then nothing came out of them dragging Sinclair off for that research.>"
+    },
+    {
+      "id": 79,
+      "model": "싱클레어",
+      "content": "Oh, you also thought I was being \"dragged off,\" but still let it happen anyway...?"
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<Ah...! No, I mean...>"
+    },
+    {
+      "id": 81,
+      "model": "싱클레어",
+      "content": "Haha... I'm kidding. Just thought I'd try going along with the mood."
+    },
+    {
+      "id": 82,
+      "content": "The old Sinclair wouldn't have even thought to joke around like that... He's really changed lately—for the better, I think?"
+    },
+    {
+      "id": 83,
+      "model": "단테",
+      "content": "<So... Did anything happen that we should worry about?>"
+    },
+    {
+      "id": 84,
+      "model": "이스마엘",
+      "content": "I stuck close to him just in case. Nothing serious came up."
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "Just took some blood, a small skin sample... Oh, and they were also checking if the Sign reacts to electrical stimulation."
+    },
+    {
+      "id": 86,
+      "model": "싱클레어",
+      "content": "Yeah. And, um... ah! I had to fill out some questionnaires too."
+    },
+    {
+      "id": 87,
+      "model": "싱클레어",
+      "content": "Things like \"Please describe what you remember from the battle exactly as it happened\" or \"List the sensations you felt when you regained consciousness.\""
+    },
+    {
+      "id": 88,
+      "model": "이상",
+      "content": "And... your memories of that moment have yet to return?"
+    },
+    {
+      "id": 89,
+      "model": "싱클레어",
+      "content": "No... I don't know if they'll ever come back, actually. Faust said they only exist with my future self, so..."
+    },
+    {
+      "id": 90,
+      "model": "싱클레어",
+      "content": "Wait, but for my future self to even have those memories... shouldn't I carry them in the first place? Um... which comes first?"
+    },
+    {
+      "id": 91,
+      "model": "이상",
+      "content": "A paradox, it would seem. Hm... in such a case..."
+    },
+    {
+      "id": 92,
+      "model": "파우스트",
+      "content": "That Sinclair is merely one branch among many possible futures."
+    },
+    {
+      "id": 93,
+      "model": "이상",
+      "content": "If the future unfurls into boundless branches by means of ceaseless bifurcation... then the body of information that constitutes a certain future would scatter into grains more fleeting than dust, too diminished to ever reverse their course and trace their path back to the self that now exists... Is that the theory suggested?"
+    },
+    {
+      "id": 94,
+      "model": "파우스트",
+      "content": "Not a certainty, but a plausible interpretation."
+    },
+    {
+      "id": 95,
+      "model": "히스클리프",
+      "content": "Here you go again, more of that nonsense only you lot understand..."
+    },
+    {
+      "id": 96,
+      "model": "히스클리프",
+      "content": "Oi. Memory or not, that future guy still came outta him, didn't he?"
+    },
+    {
+      "id": 97,
+      "model": "히스클리프",
+      "content": "Then some part of him's got to be left in there somewhere, yeah? Like muscle memory or whatever, perhaps he can still pull off some of those tricks from back then..."
+    },
+    {
+      "id": 98,
+      "model": "싱클레어",
+      "content": "Tricks from back then...?"
+    },
+    {
+      "id": 99,
+      "model": "히스클리프",
+      "content": "Heard you kicked off proper out there. Even pulled out that trick you picked up from that... plastered old geezer, right?"
+    },
+    {
+      "id": 100,
+      "model": "이스마엘",
+      "content": "Not just that. He was using that \"Mang (望)\" technique quite effortlessly, too."
+    },
+    {
+      "id": 101,
+      "model": "히스클리프",
+      "content": "Wha?! That glowin' ring thing?!"
+    },
+    {
+      "id": 102,
+      "model": "이스마엘",
+      "content": "Yup, the glowing ring thing. He had two of them coiled around his weapon."
+    },
+    {
+      "id": 103,
+      "model": "싱클레어",
+      "content": "I used the glowing ring thing?!"
+    },
+    {
+      "id": 104,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "model": "싱클레어",
+      "content": "... Th-this is the first time I'm hearing anything about it..."
+    },
+    {
+      "id": 105,
+      "model": "로쟈",
+      "content": "... All right, so what exactly <i>is</i> that glowing ring thing? Anyone?"
+    },
+    {
+      "id": 106,
+      "model": "싱클레어",
+      "content": "Uh... Maybe some technique that enhances physical capability?"
+    },
+    {
+      "id": 107,
+      "model": "로쟈",
+      "content": "I mean, I guess that flashy aura that makes ya real tough's one part of it. But there's gotta be more, right...?"
+    },
+    {
+      "id": 109,
+      "model": "히스클리프",
+      "content": "Dunno... could be a secret Finger thing they pass down to their members. Technique, gear... somethin' like that."
+    },
+    {
+      "id": 110,
+      "model": "히스클리프",
+      "content": "Look at it—that black coney leader, that Lei Heng prick... and the Nursefathers we fought. Whole lot of 'em's Finger, ain't they?"
+    },
+    {
+      "id": 111,
+      "model": "이상",
+      "content": "Hm... the notion seems to unravel... for even among the LCD, there were those who came to wield it."
+    },
+    {
+      "id": 112,
+      "model": "이스마엘",
+      "content": "And Vergilius too."
+    },
+    {
+      "model": "히스클리프",
+      "content": "Hm... so what, only the proper hard bastards can use it? Some posh top-end trick, is it?"
+    },
+    {
+      "id": 113,
+      "content": "Without anyone in particular prompting it, the Sinners slowly turned their gaze toward Vergilius and Vespa."
+    },
+    {
+      "id": 114,
+      "model": "베스파",
+      "content": "Hm..."
+    },
+    {
+      "id": 115,
+      "model": "베스파",
+      "content": "I only learned to wield it from my team leader, too. I have a sensory understanding of Shin (心), but I can claim nothing too profound."
+    },
+    {
+      "model": "베스파",
+      "content": "However, what I can spare are some rumors, though they are all without proper sources."
+    },
+    {
+      "id": 116,
+      "model": "싱클레어",
+      "content": "Rumors...?"
+    },
+    {
+      "id": 117,
+      "model": "베스파",
+      "content": "They circulated among elite Fixers and Association leadership."
+    },
+    {
+      "id": 118,
+      "model": "베스파",
+      "content": "That there exists a power called Shin—capable of enhancing the body without having to pay expensive upkeep costs."
+    },
+    {
+      "id": 119,
+      "model": "돈키호테",
+      "content": "A rumor among Fixers, sayest thou?"
+    },
+    {
+      "id": 120,
+      "model": "베스파",
+      "content": "Yes. Even the technique to manifest it—how-to tips, really—spread through hearsay."
+    },
+    {
+      "id": 121,
+      "model": "뉴키라",
+      "content": "Oh yeah, that tracks. That Super Rookie Column in the latest mag bonus vid? Bro was really poppin' off with it—straight up aurafarmed with a shiny Mang wrapped around the weapon!"
+    },
+    {
+      "id": 122,
+      "model": "돈키호테",
+      "content": "Hm? It must be that mine eyes are yet to be privy to seeing such a marvel in a video..."
+    },
+    {
+      "id": 123,
+      "model": "뉴키라",
+      "content": "Wait, you serious? It's in the latest issue. Literally on the videotape in the back. Maybe you missed it?"
+    },
+    {
+      "id": 124,
+      "model": "돈키호테",
+      "content": "Video... \"tape\"? Uh..."
+    },
+    {
+      "id": 125,
+      "model": "돈키호테",
+      "content": "Alas, uh... For many a week have I been stranded from Mephi, reaving me of a chance to read not only the prior chronicle, but the latest one as well..."
+    },
+    {
+      "id": 126,
+      "model": "돈키호테",
+      "content": "Khh... Woe is me...! When I return, I shall feast through the night upon those noble exploits of adventuring Fixers...!"
+    },
+    {
+      "id": 127,
+      "content": "As Don Quixote dramatically spiraled into a state of utter dejection, Outis cut into the conversation, her gaze narrowing with suspicion."
+    },
+    {
+      "id": 128,
+      "model": "오티스",
+      "content": "... From what I recall, the mantle of Shin grants its users a high degree of physical enhancement."
+    },
+    {
+      "id": 129,
+      "model": "오티스",
+      "content": "There is no such thing as reinforcement without supplies. No power of that magnitude comes without an equivalent cost to wield it."
+    },
+    {
+      "id": 130,
+      "model": "베르길리우스",
+      "content": "That power..."
+    },
+    {
+      "id": 131,
+      "model": "베르길리우스",
+      "content": "... relies on emotion and will for manifestation. Its output is not consistent like prosthesis and augmentation."
+    },
+    {
+      "id": 132,
+      "model": "베르길리우스",
+      "content": "And depending on how it is used, the \"consequence\" it demands can reach levels comparable to the E.G.O you use."
+    },
+    {
+      "id": 133,
+      "model": "이상",
+      "content": "... You mean to say that it exacts a toll upon the mind."
+    },
+    {
+      "id": 134,
+      "model": "베스파",
+      "content": "I can walk you through the fundamentals if you'd like."
+    },
+    {
+      "id": 135,
+      "model": "오티스",
+      "content": "... From what I observed, it appeared to be a technique reserved for those of considerable strength. At our current level... is it not unreasonable to assume we could make use of it?"
+    },
+    {
+      "id": 136,
+      "model": "베스파",
+      "content": "Regarding that... our Team Leader has been conducting intensive research,"
+    },
+    {
+      "id": 137,
+      "model": "베스파",
+      "content": "and according to her, physical strength itself has little bearing on one's ability to learn and wield Shin."
+    },
+    {
+      "id": 138,
+      "model": "베르길리우스",
+      "content": "......."
+    },
+    {
+      "id": 139,
+      "model": "베르길리우스",
+      "content": "As the Yellow Harpoon says,"
+    },
+    {
+      "id": 140,
+      "model": "베르길리우스",
+      "content": "it is, in essence, a power that can be learned by almost anyone, provided they know the proper method of training."
+    },
+    {
+      "id": 141,
+      "model": "베스파",
+      "content": "......."
+    },
+    {
+      "id": 142,
+      "content": "Vespa's brows visibly twitched the moment \"Yellow Harpoon\" left Vergilius's lips."
+    },
+    {
+      "id": 143,
+      "content": "Yeah, doesn't seem like he's a big fan of his own title. \"The Yellow Harpoon\"... Hmm."
+    },
+    {
+      "id": 144,
+      "content": "Well, it fits, I think... He's got those yellow stripes on his clothes, and he uses a harpoon, too. Can he argue with that?"
+    },
+    {
+      "id": 145,
+      "model": "베르길리우스",
+      "content": "If I were to exaggerate, even Sinner Yi Sang's pre-contract self could manage to learn it."
+    },
+    {
+      "id": 146,
+      "model": "이상",
+      "content": "... W-why must this self of mine be chosen as the point of comparison?"
+    },
+    {
+      "id": 147,
+      "model": "히스클리프",
+      "content": "Well... 'cause you're the... wimpiest one here."
+    },
+    {
+      "id": 148,
+      "model": "싱클레어",
+      "content": "Don't let it get to you..."
+    },
+    {
+      "id": 149,
+      "model": "이상",
+      "content": "Ahhh..."
+    },
+    {
+      "id": 150,
+      "model": "베르길리우스",
+      "content": "Even so, it would be a mistake to assume it's a power anyone can grasp with ease."
+    },
+    {
+      "id": 151,
+      "model": "베르길리우스",
+      "content": "As long as you are bound by contract as \"Sinners\"... your ability to wield it will be severely limited,"
+    },
+    {
+      "id": 152,
+      "model": "베르길리우스",
+      "content": "unless you rely on particular Identities or come upon an extraordinary circumstance."
+    },
+    {
+      "id": 153,
+      "model": "히스클리프",
+      "content": "Tch… Shame that. Would've been useful."
+    },
+    {
+      "id": 154,
+      "model": "뉴키라",
+      "content": "... Hey, then what about me? Can I learn it too?"
+    },
+    {
+      "id": 155,
+      "content": "Kira, who had been fidgeting with her fingers, raised an arm and asked as though she couldn't hold the question back any longer."
+    },
+    {
+      "id": 156,
+      "content": "Come to think of it... the Middle Nursefather didn't use any Shin or Mang."
+    },
+    {
+      "id": 157,
+      "model": "뉴키라",
+      "content": "Papa never taught me how to use it... He always said I could get stronger without a stupid crutch like that."
+    },
+    {
+      "id": 158,
+      "model": "베스파",
+      "content": "Hah! It wasn't that he didn't teach you. He <i>couldn't</i>."
+    },
+    {
+      "id": 159,
+      "model": "베스파",
+      "content": "He was a man who probably had never once reflected upon his own sins. A piece of trash like him would be incapable of even comprehending such a power in the first place."
+    },
+    {
+      "id": 160,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 161,
+      "content": "Vespa's responses always come back dripping with venomous hatred whenever the conversation turns to the topic of the Fingers."
+    },
+    {
+      "id": 162,
+      "content": "Kira must've noticed too, or perhaps she simply couldn't find the right words to push back."
+    },
+    {
+      "id": 163,
+      "content": "Either way, she held her tongue, her expression settling into a blend of frustration and something that looked a little too close to sadness."
+    },
+    {
+      "id": 164,
+      "model": "베르길리우스",
+      "content": "If you want to reduce it to a yes-or-no... then yes. You will be able to learn it with the odds in your favor."
+    },
+    {
+      "id": 165,
+      "model": "베르길리우스",
+      "content": "That is, assuming that the company decides to tolerate your... continued existence."
+    },
+    {
+      "id": 166,
+      "model": "뉴키라",
+      "content": "... I already said I get it."
+    },
+    {
+      "id": 167,
+      "model": "베르길리우스",
+      "content": "As it stands, you're nothing more than a pending case of disposal. Closer to a threat than you are to an ally, strictly speaking."
+    },
+    {
+      "id": 168,
+      "model": "베르길리우스",
+      "content": "Don't get comfortable because the Manager and the Sinners treat you with lenience. Step out of line, and you will be the one who pays the price."
+    },
+    {
+      "id": 169,
+      "content": "There was nothing in what Vergilius said that I could argue with."
+    },
+    {
+      "id": 170,
+      "content": "Kira had been a member of the House of Spiders. She murdered scores of LCE researchers..."
+    },
+    {
+      "id": 171,
+      "content": "... and left us with plenty of memories we'd rather not revisit."
+    },
+    {
+      "id": 172,
+      "content": "For now, we're just... working together. Not contesting that decision doesn't mean we have no hard feelings toward her."
+    },
+    {
+      "id": 173,
+      "content": "Leaving Kira alone with her thoughts, the Sinners slipped back into their own business—snacks, idle chatter, and conversations about whatever had happened around LCE."
+    },
+    {
+      "id": 174,
+      "model": "호엔하임",
+      "content": "The examination is concluded."
+    },
+    {
+      "id": 175,
+      "model": "호엔하임",
+      "content": "I suppose it won't be an issue to let you hear the results together."
+    },
+    {
+      "id": 176,
+      "content": "And before we knew it, Hohenheim and Ryōshū returned."
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Corridor of the Index Nursefather",
+      "content": "Once we dealt with the Fauvists who invaded the Thumb Nursefather's destroyed Corridor, we left for the Index's..."
+    },
+    {
+      "id": 1,
+      "content": "... and ran into a few familiar faces, waiting for us at our destination."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Huh...? Don't you guys have today off?>"
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Yeah, but... I thought I might as well come along."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "It's... you know... You keep summoning us while we're in the middle of something, so I decided that it might actually be more convenient for us to be with you in person."
+    },
+    {
+      "id": 5,
+      "model": "이상",
+      "content": "Your summoning occurred at the most... unideal moment."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Now, I know you weren't doing it on purpose, but all three times you summoned me, I was leaning over snacks topped with buncha whipped cream."
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Today I learned that blacking out and waking up to a me-shaped indent in a cake I was about to chow down doesn't make for a very relaxing break, ha ha."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<S-sorry about that...>"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<I should'ved checked in with you guys before summoning, but... I'm still getting used to it.>"
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "Okay, now you're being <i>too</i> sorry. No hard feelings here, you know."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "I'm tagging along 'cause I need some exercise, that's all."
+    },
+    {
+      "id": 12,
+      "model": "앨런",
+      "content": "I appreciate the additional employee assignments. Now, if you could share any information you know about yet another Corridor?"
+    },
+    {
+      "id": 13,
+      "model": "뉴키라",
+      "content": "I hung out here all the time, so I know this place a lil."
+    },
+    {
+      "id": 14,
+      "model": "뉴키라",
+      "content": "There was this super clingy, annoying little..."
+    },
+    {
+      "id": 15,
+      "model": "뉴키라",
+      "content": "Uh... No, that wasn't the masked dude. There was this other... um..."
+    },
+    {
+      "id": 16,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 17,
+      "model": "앨런",
+      "content": "Is there something you don't remember?"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Oh, right... Kira probably doesn't remember Sora.>"
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "content": "Sora...? I don't think that name rings any bells for us either."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "Is that someone who used to live here?"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Yeah. Well, Sora was the Index Apprentice, so she probably lived here.>"
+    },
+    {
+      "id": 22,
+      "model": "돈키호테",
+      "content": "Forsooth, the Index Apprentice... Hooh... Pray tell, wherefore is it that the Middle, the Thumb, and the Ring each have Apprentices, yet the Index and the Pinky lack them?"
+    },
+    {
+      "id": 23,
+      "model": "이상",
+      "content": "Hm... It would indeed be quite odd if a mere three of the five Fingers kept an Apprentice each."
+    },
+    {
+      "id": 24,
+      "model": "이상",
+      "content": "Retrace I might my recollections, yet I find it like following a trail of odorless air—invisible and unreal."
+    },
+    {
+      "id": 25,
+      "model": "뉴키라",
+      "content": "... No, no. There <i>was</i> someone. But I can't—"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "The representations of the Pinky and the Index's Apprentices are... missing. No—to be more precise, a merciless blade has shredded and reduced them to intangible formlessness."
+    },
+    {
+      "id": 27,
+      "model": "료슈",
+      "content": "*puff* How refreshing to hear that same impression from someone else rather than myself for once."
+    },
+    {
+      "id": 28,
+      "content": "As it seemed that I was the only one who remembered the two Apprentices, I retraced back to our first meeting and briefly shared what I knew about Sora."
+    },
+    {
+      "id": 29,
+      "model": "뉴키라",
+      "content": "Huh... She doesn't sound like a very forgettable character..."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<Well, the Arayashiki cut her into ribbons.>"
+    },
+    {
+      "id": 31,
+      "model": "오티스",
+      "content": "That would explain why it feels as though I'm recalling a sequence of events... with a critical part missing in between."
+    },
+    {
+      "id": 32,
+      "model": "뉴키라",
+      "content": "I can almost imagine her... giggling to herself like a creepy loner, and... she probably wears glasses too, right? Like one of those gloomy introverts from anime."
+    },
+    {
+      "id": 33,
+      "model": "료슈2",
+      "content": "... I see. So that's why it feels like I'm tearing through each strand of a weave."
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<Ryōshū?>"
+    },
+    {
+      "id": 35,
+      "model": "료슈2",
+      "content": "Let's say the world's made of strings or threads, Clock."
+    },
+    {
+      "id": 36,
+      "model": "료슈2",
+      "content": "With every slash, this blade would be cutting through the flow of strands that twine to compose one's existence."
+    },
+    {
+      "id": 37,
+      "model": "료슈",
+      "content": "When an object is severed forever beyond repair, you'd think neither trace nor shape would be left of it..."
+    },
+    {
+      "id": 38,
+      "model": "료슈",
+      "content": "But now that you've pieced some of it together, it's almost..."
+    },
+    {
+      "id": 39,
+      "content": "Instead of elaborating further, Ryōshū fell silent again, save for the sound of the tip of her cigarette turning to ash—like she was recalling another incomplete memory."
+    },
+    {
+      "id": 40,
+      "content": "... I guess she's trying to avoid overspeculating on what she doesn't know for sure."
+    },
+    {
+      "id": 41,
+      "model": "뉴키라",
+      "content": "... Damn, that totally breaks the meta. I had a vague idea of how it works, but this is the first time I'm hearing the deets."
+    },
+    {
+      "id": 42,
+      "model": "뉴키라",
+      "content": "Papa had to go through <i>four</i> ramp-up stages and remove seals to like, even make full use of his sword... Honestly, yours needs a trade-off. Your sword totally powercreeps papa's!"
+    },
+    {
+      "id": 43,
+      "model": "료슈2",
+      "content": "*puff* T.O.? There's plenty already."
+    },
+    {
+      "id": 44,
+      "model": "뉴키라",
+      "content": "Ohhh, so true. Guess slicing your memories away is one helluva trade-off, sorry."
+    },
+    {
+      "id": 45,
+      "model": "앨런",
+      "content": "Okay, so... I'm guessing you don't have anything to contribute for this Corridor—"
+    },
+    {
+      "id": 46,
+      "model": "뉴키라",
+      "content": "Ah, I've got one."
+    },
+    {
+      "id": 47,
+      "model": "뉴키라",
+      "content": "I dunno where it leads, but... the Index guy used it all the time."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Hopefully it doesn't drop us into an army of Indexes."
+    },
+    {
+      "id": 49,
+      "model": "료슈",
+      "content": "T.P.U. They rarely gather in big groups."
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "She said \"That's Pretty Unlikely.\""
+    },
+    {
+      "id": 51,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "content": "O-ow! What was that for, Ryōshū?! Wait, did you just hit me with that sword handle?!"
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "...? I didn't do anything."
+    },
+    {
+      "id": 54,
+      "content": "But I saw it."
+    },
+    {
+      "id": 55,
+      "content": "I saw Ryōshū's scabbard—Araya—suddenly jerking to the side, prodding Sinclair like it was annoyed by something."
+    },
+    {
+      "id": 56,
+      "model": "료슈",
+      "content": "I won't S.T.S. I'll S.Y.L.C. until you can barely walk."
+    },
+    {
+      "id": 57,
+      "model": "싱클레어",
+      "content": "I-I swear, this isn't a \"slander\" or whatever! Look, you poked me so hard it left a mark on my arm, here!"
+    },
+    {
+      "id": 58,
+      "content": "Well... I don't want to read too much into it, but... the scabbard was rattling like it was irritated by something."
+    },
+    {
+      "id": 59,
+      "content": "<i><color=#5c53e7>Stop interpreting for her. This is why she won't stop making up these nonsense acronyms...</i></color>"
+    },
+    {
+      "id": 60,
+      "content": "<i><color=#5c53e7>He's making it worse. I gotta stop him from translating for her, somehow...</i></color>"
+    },
+    {
+      "id": 61,
+      "model": "단테",
+      "content": "<... Araya?>"
+    },
+    {
+      "id": 62,
+      "content": "Wait, that voice just now... it sounded a lot like Araya's..."
+    },
+    {
+      "id": 63,
+      "model": "싱클레어",
+      "content": "D-Dante, you saw that too, right?"
+    },
+    {
+      "id": 64,
+      "model": "단테",
+      "content": "<Uh...>"
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<Ryōshū didn't do anything.>"
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "content": "Wait, really...? It really wasn't her...?"
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<Nope...>"
+    },
+    {
+      "id": 68,
+      "model": "료슈",
+      "content": "Heh... then it's decided."
+    },
+    {
+      "id": 69,
+      "content": "To be fair to Sinclair, no one else but I saw in full detail how the scabbard came to be."
+    },
+    {
+      "id": 70,
+      "content": "Which means that he couldn't imagine in his wildest dreams that the scabbard poked him of its own volition."
+    },
+    {
+      "id": 71,
+      "content": "It doesn't seem like any of the Sinners heard that voice, either..."
+    },
+    {
+      "id": 72,
+      "model": "뉴키라",
+      "content": "Damn, you guys bully him a lot, huh?"
+    },
+    {
+      "id": 73,
+      "model": "히스클리프",
+      "content": "Well... The lad's been long overdue for a little smack upside his noggin."
+    },
+    {
+      "id": 74,
+      "model": "단테",
+      "content": "<We should head inside. Let's not keep Alan waiting.>"
+    },
+    {
+      "id": 75,
+      "content": "Kira directed us toward an almost disturbingly normal wooden door, so featureless that I could've mistaken it for any of the dozens of doors we'd walked past in other Nests."
+    },
+    {
+      "id": 76,
+      "content": "We were greeted by a whiff of stale, musty air the moment we walked through the door..."
+    },
+    {
+      "id": 77,
+      "place": "A Dungeon, Somewhere",
+      "model": "단테",
+      "content": "<I think this leads to a basement...>"
+    },
+    {
+      "id": 78,
+      "content": "... and emerged to what appeared to be an almost dungeon-like basement area."
+    },
+    {
+      "id": 79,
+      "place": "Rien's Dungeon",
+      "model": "뉴키라",
+      "content": "Whenever the masked unc's beeper rang, he'd walk through this door."
+    },
+    {
+      "id": 80,
+      "model": "뉴키라",
+      "content": "So... who are they?"
+    },
+    {
+      "id": 81,
+      "model": "료슈",
+      "content": "The Index..."
+    },
+    {
+      "id": 82,
+      "model": "수행자1",
+      "content": "……."
+    },
+    {
+      "id": 83,
+      "model": "료슈",
+      "content": "Signs of life... There were people living down here, up until just a few hours ago."
+    },
+    {
+      "id": 84,
+      "model": "료슈",
+      "content": "Why are you here, Paper Slips?"
+    },
+    {
+      "id": 85,
+      "model": "수행자1",
+      "content": "We were only executing the Prescript."
+    },
+    {
+      "id": 86,
+      "model": "료슈",
+      "content": "I've had it with these Prescripts. Though at least yours don't make annoying beeps."
+    },
+    {
+      "id": 87,
+      "content": "The basement was stocked up with shelf-stable and non-perishable food..."
+    },
+    {
+      "id": 88,
+      "content": "... and the cells were all completely empty save for what looked like a makeshift bathroom in each of them."
+    },
+    {
+      "id": 89,
+      "model": "파우스트",
+      "content": "... It is likely that this dungeon was used to imprison individuals of varying features that may be required to complete a Prescript."
+    },
+    {
+      "id": 90,
+      "model": "뉴키라",
+      "content": "Seriously?"
+    },
+    {
+      "id": 91,
+      "model": "파우스트",
+      "content": "This room seems to have been used for something worse than simple incarceration. Among Faust's conjectures is that the captives were... \"conditioned\" in body and mind in various ways to match the Prescript's liking."
+    },
+    {
+      "id": 92,
+      "model": "이스마엘",
+      "content": "Ugh... Sounds like that guy was just as crazy as the rest of 'em."
+    },
+    {
+      "id": 93,
+      "model": "뉴키라",
+      "content": "Wait, wait. That staircase right there leads up."
+    },
+    {
+      "id": 94,
+      "model": "뉴키라",
+      "content": "Let's check out what's—"
+    },
+    {
+      "id": 95,
+      "model": "수행자1",
+      "content": "......."
+    },
+    {
+      "id": 96,
+      "model": "뉴키라",
+      "content": "... Friggin' annoying, man. The heck are you doing?"
+    },
+    {
+      "id": 97,
+      "model": "수행자1",
+      "content": "You cannot enter through this door."
+    },
+    {
+      "id": 98,
+      "model": "뉴키라",
+      "content": "Oh, I see. Another griefer bodyblocking in the doorway."
+    },
+    {
+      "id": 99,
+      "model": "료슈",
+      "content": "... Move. I need to see something."
+    },
+    {
+      "id": 100,
+      "model": "수행자1",
+      "content": "The Will of the Prescript forbids you."
+    },
+    {
+      "id": 101,
+      "model": "수행자1",
+      "content": "You cannot enter through this door."
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<What do we do?>"
+    },
+    {
+      "id": 103,
+      "model": "그레고르",
+      "content": "Um... Is it worth forcing our way in there? They seem pretty adamant about not letting us in."
+    },
+    {
+      "id": 104,
+      "model": "오티스",
+      "content": "... I'd prefer if we stayed as far as possible from anything that has to do with the gods—I mean, Prescripts, but... nothing in this basement gives me any indication as to where the door connects to."
+    },
+    {
+      "id": 105,
+      "model": "이스마엘",
+      "content": "Outis is right. We're gonna have to get upstairs somehow if we wanna get an idea of where this door leads."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "If Rien's been using this basement, then..."
+    },
+    {
+      "id": 107,
+      "model": "료슈9장",
+      "content": "... I'd like to see what's upstairs."
+    },
+    {
+      "id": 108,
+      "content": "Honestly, learning that this door connects to some basement is more than enough intel to cross it off the list."
+    },
+    {
+      "id": 109,
+      "content": "Still, if this has anything to do with Ryōshū's memories..."
+    },
+    {
+      "id": 110,
+      "model": "단테",
+      "content": "<Alright, then. Let's push through.>"
+    },
+    {
+      "id": 111,
+      "model": "오티스",
+      "content": "Executing your command, Executive Manager!"
+    },
+    {
+      "id": 112,
+      "model": "수행자1",
+      "content": "The Will of the Prescript is absolute."
+    },
+    {
+      "id": 113,
+      "model": "단테",
+      "content": "<... Is it, though?>"
+    }
+  ]
+}

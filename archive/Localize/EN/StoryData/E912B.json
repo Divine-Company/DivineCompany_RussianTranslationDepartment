@@ -1,0 +1,862 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Corridor of the Pinky Nursefather",
+      "content": "After leaving Rien's quarters, we explored the Index's Corridor for a while..."
+    },
+    {
+      "id": 1,
+      "content": "... but didn't find anything that could help piece Ryōshū's memories back together."
+    },
+    {
+      "id": 2,
+      "model": "앨런",
+      "content": "Great work. Now that leaves just the Pinky Nursefather's Corridor..."
+    },
+    {
+      "id": 3,
+      "model": "앨런",
+      "content": "... But that room didn't have any Backdoors for us to explore. There were countless more in the adjacent Corridor, but our guideline makes it a bit difficult to delve into each and every one of them right away."
+    },
+    {
+      "id": 4,
+      "model": "앨런",
+      "content": "Which means that our work here is done. Thank you for your assistance, Dante."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Ah, okay... Glad we could help.>"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Dante replies they're happy to have been of assistance."
+    },
+    {
+      "id": 7,
+      "model": "앨런",
+      "content": "Well, then. It's been a pleasure."
+    },
+    {
+      "id": 8,
+      "content": "After a brief round of handshakes, Alan returned to the forward base."
+    },
+    {
+      "id": 9,
+      "content": "We probably should've done the same, but..."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Wanna take a look around here anyway?>"
+    },
+    {
+      "id": 11,
+      "model": "료슈2",
+      "content": "... Sure."
+    },
+    {
+      "id": 12,
+      "content": "... as we had more business here than simply checking the doors, we decided to stay a little longer and investigate the Pinky's Corridor."
+    },
+    {
+      "id": 13,
+      "content": "The Pinky Nursefather's room had a... peculiar structure."
+    },
+    {
+      "id": 14,
+      "content": "Each door we opened led to a room identical in shape to the previous one."
+    },
+    {
+      "id": 15,
+      "content": "And even though I was certain we'd traversed through quite a few rooms, we somehow found ourselves back at the starting point."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "There are some small design differences between each room that help to tell them apart, but... it's difficult to tell which is which unless we look really hard at every detail."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Where are we now?>"
+    },
+    {
+      "id": 18,
+      "model": "뉴키라",
+      "content": "The kitchen?"
+    },
+    {
+      "id": 19,
+      "model": "료슈",
+      "content": "...? How do you know that?"
+    },
+    {
+      "id": 20,
+      "model": "뉴키라",
+      "content": "I've been here before. Someone ghosted me after promising to watch Fixer clips together, so I thought I'd come visit."
+    },
+    {
+      "id": 21,
+      "model": "뉴키라",
+      "content": "It's someone y'all have met too, I think, uh..."
+    },
+    {
+      "id": 22,
+      "model": "뉴키라",
+      "content": "It was... uhm..."
+    },
+    {
+      "id": 23,
+      "model": "료슈",
+      "content": "Must be another one who was severed by the Arayashiki."
+    },
+    {
+      "id": 24,
+      "model": "뉴키라",
+      "content": "Damn... You might be right."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<His name was Ren. The Pinky Apprentice.>"
+    },
+    {
+      "id": 26,
+      "content": "I tick-tocked, but no one here really seemed to have anything to say to that. I suppose that only makes sense—after all, his existence registered to no one here but me."
+    },
+    {
+      "id": 27,
+      "model": "그레고르",
+      "content": "So, when you said back at K Corp. that you'd cooked before... you were talking about this, huh?"
+    },
+    {
+      "id": 28,
+      "model": "료슈2",
+      "content": "*puff* Yep."
+    },
+    {
+      "id": 29,
+      "model": "료슈2",
+      "content": "I used to perform intense culinary artistry here."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<... Um, your scabbard's shaking.>"
+    },
+    {
+      "id": 31,
+      "model": "료슈2",
+      "content": "The reviews were glowing. One of them was Y.U.M., meaning \"Yeah, Unbelievably Mouthwatering!\""
+    },
+    {
+      "id": 32,
+      "content": "The scabbard—Araya—was defiantly shaking from side to side in a valiant effort to deny Ryōshū's claim."
+    },
+    {
+      "id": 33,
+      "content": "Must've been pretty damn bad, huh..."
+    },
+    {
+      "id": 34,
+      "model": "그레고르",
+      "content": "Tsk... I'm having a hard time believing her, if you ask me."
+    },
+    {
+      "id": 35,
+      "model": "싱클레어",
+      "content": "What did you usually make?"
+    },
+    {
+      "id": 36,
+      "model": "료슈2",
+      "content": "... Boxed lunch."
+    },
+    {
+      "id": 37,
+      "model": "료슈",
+      "content": "Boxed lunch that... kids might bring to grade school. With sausages cut like octopuses and tamagoyaki."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "A bit simple to be \"intense culinary artistry,\" don't you think?"
+    },
+    {
+      "id": 39,
+      "model": "료슈",
+      "content": "I.F."
+    },
+    {
+      "id": 40,
+      "model": "료슈",
+      "content": "Didn't you know? There's nothing like a school lunchbox rivalry."
+    },
+    {
+      "id": 41,
+      "place": "Ryōshū's Room, Past",
+      "model": "아라야공백",
+      "content": "So I want octopus sausages, tamagoyaki, and..."
+    },
+    {
+      "id": 42,
+      "model": "과거료슈3",
+      "content": "... Why are we making sausages out of an octopus?"
+    },
+    {
+      "id": 43,
+      "model": "아라야공백",
+      "content": "No no, I mean sausages cut like octopuses!"
+    },
+    {
+      "id": 44,
+      "model": "과거료슈3",
+      "content": "And why are we... cutting sauges into octopus shapes?"
+    },
+    {
+      "id": 45,
+      "model": "아라야공백",
+      "content": "Cuz it's adorbs, that's why!"
+    },
+    {
+      "id": 46,
+      "place": -1,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 47,
+      "model": "과거료슈3",
+      "content": "... Something like this?"
+    },
+    {
+      "id": 48,
+      "model": "료슈딸2",
+      "content": "Wha... what's that...?"
+    },
+    {
+      "id": 49,
+      "model": "과거료슈3",
+      "content": "Sausage carved into an octopus shape. Didn't miss a single suction cup."
+    },
+    {
+      "id": 50,
+      "model": "료슈딸2",
+      "content": "C'mon... I didn't mean like, a real-life octopus! It's gotta be adorbs, 'kay?"
+    },
+    {
+      "id": 51,
+      "model": "과거료슈3",
+      "content": "... Isn't it all the S.D. once it goes down the gullet...? Why's this so important?"
+    },
+    {
+      "id": 52,
+      "model": "료슈딸2",
+      "content": "But... Mommy, there's nothing like a school lunchbox rivalry."
+    },
+    {
+      "id": 53,
+      "model": "과거료슈3",
+      "content": "... I.D.U."
+    },
+    {
+      "id": 54,
+      "model": "료슈딸2",
+      "content": "... Huh? You're doing your weird acronyms again, aren't you?"
+    },
+    {
+      "id": 55,
+      "model": "과거료슈3",
+      "content": "It means \"I Don't Understand.\""
+    },
+    {
+      "id": 56,
+      "model": "료슈딸2",
+      "content": "*sigh* That's when you say \"IDK,\" Mom! SMH!"
+    },
+    {
+      "id": 57,
+      "content": "These must be some of the happiest memories Ryōshū and Araya shared."
+    },
+    {
+      "id": 58,
+      "content": "The Sinners, me, and Araya, even as a scabbard, could imagine or recall them in full..."
+    },
+    {
+      "id": 59,
+      "content": "... but for Ryōshū, the most important part of those memories remained sliced away."
+    },
+    {
+      "id": 60,
+      "content": "Still, if we can continue to piece more and more of her memories together by going over these places..."
+    },
+    {
+      "id": 61,
+      "place": "Corridor of the Pinky Nursefather",
+      "model": "단테",
+      "content": "<Do you wanna check out what's upstairs, too?>"
+    },
+    {
+      "id": 62,
+      "content": "As soon as I asked, however, the Sinners' footsteps came to a simultaneous stop."
+    },
+    {
+      "id": 63,
+      "model": "뉴키라",
+      "content": "... Wait."
+    },
+    {
+      "id": 64,
+      "model": "히스클리프",
+      "content": "Hang on, Clockhead. Don't open the door just yet."
+    },
+    {
+      "id": 65,
+      "content": "I looked back and found Kira and Heathcliff poised to fight, hands on their weapons..."
+    },
+    {
+      "id": 66,
+      "model": "뫼르소",
+      "content": "This way, Manager."
+    },
+    {
+      "id": 67,
+      "content": "... and Meursault, who realized what that indicated, yanked me to the back of the line."
+    },
+    {
+      "id": 68,
+      "content": "And in mere moments..."
+    },
+    {
+      "id": 69,
+      "model": "료슈",
+      "content": "So, there was someone guiding those whelps. Figures they'd send more than fodder to the House of Spiders."
+    },
+    {
+      "id": 70,
+      "model": "료슈",
+      "content": "*puff* Stinks of wet dog."
+    },
+    {
+      "id": 71,
+      "content": "... the claws of a massive paw slashed through where we had just been standing."
+    },
+    {
+      "id": 72,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Wolf mask...?>"
+    },
+    {
+      "id": 74,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "It really is as Maestro Émile Benoît said—this place is already occupied."
+    },
+    {
+      "id": 75,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "If you would be so kind as to help me with directions..."
+    },
+    {
+      "id": 76,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "... Is this where Master Callisto's art is located?"
+    },
+    {
+      "id": 77,
+      "content": "The question came from a woman who appeared from one of the doors that led to a different Corridor. She was wearing a wolf mask, and unlike the Fauvists we had encountered thus far, she seemed to make it a point to speak and act with decorum."
+    },
+    {
+      "id": 78,
+      "content": "But the subtle hint of violence in her voice quickly betrayed this air of faux-civility."
+    },
+    {
+      "id": 79,
+      "model": "뉴키라",
+      "content": "Sure you're at the right address, lady?"
+    },
+    {
+      "id": 80,
+      "model": "뉴키라",
+      "content": "Robo-unc's, uh, stuff... ain't in this part of the House. Find a different Corridor."
+    },
+    {
+      "id": 81,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "Hm... Yes, I am aware."
+    },
+    {
+      "id": 82,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "But I'm not here looking for his creations, which are easily mistaken for mass-produced garbage."
+    },
+    {
+      "id": 83,
+      "content": "I could feel her intense gaze even though her face was obscured by the mask..."
+    },
+    {
+      "id": 84,
+      "content": "... and there was no doubt that her eyes were bearing down on Ryōshū."
+    },
+    {
+      "id": 85,
+      "content": "Suddenly, I was reminded of what Rien said moments before he fled through the Corridor."
+    },
+    {
+      "id": 86,
+      "model": "단테",
+      "content": "<... We let them observe us too freely.>"
+    },
+    {
+      "id": 87,
+      "model": "싱클레어",
+      "content": "What? What does that—"
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<The Fauvists got to confirm a lot of important intel—including the fact that the House of Spiders has fallen, and that Ryōshū currently has possession of the Arayashiki.>"
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<... They want Ryōshū for themselves, whether she's \"completed\" or not—Ryōshū as she is now.>"
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "*puff* Isn't that..."
+    },
+    {
+      "id": 91,
+      "model": "료슈2",
+      "content": "... intriguing. For once."
+    },
+    {
+      "id": 92,
+      "model": "털루포",
+      "content": "My name is Rufo."
+    },
+    {
+      "id": 93,
+      "model": "루포",
+      "content": "Yoshihide, the blade coveted by the Five Fingers, Master Callisto's final and posthumous masterpiece..."
+    },
+    {
+      "id": 94,
+      "model": "루포",
+      "content": "As a Docent of Fauvism, please allow me the honor of escorting you to our gallery."
+    },
+    {
+      "id": 95,
+      "model": "료슈",
+      "content": "*puff* ... Do I want to?"
+    },
+    {
+      "id": 96,
+      "model": "료슈",
+      "content": "Don't see the point in hanging out with people in those unaesthetic A.M."
+    },
+    {
+      "id": 97,
+      "content": "As expected, Ryōshū declined Rufo's request with a curt reply,"
+    },
+    {
+      "id": 98,
+      "content": "and Araya, too, rattled angrily in the Docent's general direction."
+    },
+    {
+      "id": 99,
+      "model": "루포",
+      "content": "Then... I'm afraid my only remaining option is to rely on our usual method of ushering."
+    },
+    {
+      "id": 100,
+      "model": "단테",
+      "content": "<... How are our odds?>"
+    },
+    {
+      "id": 101,
+      "model": "뉴키라",
+      "content": "I dunno, she's prolly tougher than me at my maxed-out stats."
+    },
+    {
+      "id": 102,
+      "model": "이스마엘",
+      "content": "Really?"
+    },
+    {
+      "id": 103,
+      "model": "파우스트",
+      "content": "... The shape of her ring suggests that she is a Docent of the School of Fauvism. Her position is comparable to that of a Capo of the Thumb or a Big Sibling of the Middle."
+    },
+    {
+      "id": 104,
+      "model": "돈키호테",
+      "content": "Verily, that maketh her a foe who may surpass even Ricardo's might, or... with a stroke of ill fortune, even Lei Heng..."
+    },
+    {
+      "id": 105,
+      "model": "료슈",
+      "content": "Doubt she's anywhere near as strong as Lei Heng."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "... our chances are H.O.H.O.M."
+    },
+    {
+      "id": 107,
+      "model": "뉴키라",
+      "content": "Half, Or Half Or More? I like those odds."
+    },
+    {
+      "id": 108,
+      "model": "료슈",
+      "content": "Half <i>Of</i> Half Or More."
+    },
+    {
+      "id": 109,
+      "model": "뉴키라",
+      "content": "Dude, really?"
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "*puff*"
+    },
+    {
+      "id": 111,
+      "model": "료슈2",
+      "content": "\"Outmoded,\" \"has-been.\""
+    },
+    {
+      "id": 112,
+      "model": "료슈2",
+      "content": "Why seek out the art of a \"has-been\" after all this time?"
+    },
+    {
+      "id": 113,
+      "model": "루포",
+      "content": "It was a decision met with much confusion from the outset."
+    },
+    {
+      "id": 114,
+      "model": "루포",
+      "content": "To entrust such a momentous project in the hands of one such as Callisto... Why, everyone agrees that it is no less foolish than casting a pearl before swine."
+    },
+    {
+      "id": 115,
+      "model": "루포",
+      "content": "And they were quite on-point with that assessment. His oeuvre, recovered from the House, were more tools than art—the sort that the likes of Workshop Meisters might assemble."
+    },
+    {
+      "id": 116,
+      "model": "루포",
+      "content": "No self-respecting Maestro would create such mundanities and call them \"art.\""
+    },
+    {
+      "id": 117,
+      "model": "루포",
+      "content": "Now, I must ask for your forgiveness for presuming that you would be no different from the rest of his work..."
+    },
+    {
+      "id": 118,
+      "model": "루포",
+      "content": "But what I observed above this room completely changed my perspective."
+    },
+    {
+      "id": 119,
+      "model": "루포",
+      "content": "The scorched Corridor, the ferity with which you've scarred the walls and the floor, as though a frenzied beast had torn through them..."
+    },
+    {
+      "id": 120,
+      "model": "루포",
+      "content": "There is but one tool that could possibly have left such marks behind."
+    },
+    {
+      "id": 121,
+      "model": "료슈",
+      "content": "At least you've got a passable eye for art."
+    },
+    {
+      "id": 122,
+      "model": "루포",
+      "content": "Yoshihide, I ask you: Have you ever considered pursuing art of a further elevated beauty?"
+    },
+    {
+      "id": 123,
+      "model": "루포",
+      "content": "It will be an experience that departs from the dilapidated remnant that dubs itself \"Corporism\"—a movement so constrained by its obsession over the human corpus that, once it had depleted all meaning it had to offer, it began piling on empty definitions onto itself."
+    },
+    {
+      "id": 124,
+      "model": "루포",
+      "content": "Fauvism is a movement that has broken from the traditional mold. Unfettered like a beast that roams free, we dare ourselves to ask questions that challenge the mind: What is \"man\"? What are \"things\"? What does it mean to trace the origin? How do we define that which we call \"<ruby=wild beast>le Fauve</ruby>\"? These are the subject matters that have led us Fauves into the field of fertile creativity."
+    },
+    {
+      "id": 125,
+      "model": "루포",
+      "content": "Should you, a wielder of that Relic, enter the fold of our movement... it will layer your work with such an unrelenting spectrum of colors that it will be destined to leave an unforgettable impression in the annals of history."
+    },
+    {
+      "id": 126,
+      "model": "루포",
+      "content": "In other words, what we can offer you will be of much greater worth than what you may have learned from a teacher like Callisto."
+    },
+    {
+      "id": 127,
+      "model": "료슈",
+      "content": "*puff* Never considered him my teacher. Not a real one, anyway."
+    },
+    {
+      "id": 128,
+      "model": "료슈2",
+      "content": "Finding beauty among the carnage of blood and flesh is a lesson I learned on my own."
+    },
+    {
+      "id": 129,
+      "model": "료슈2",
+      "content": "And yes, I know enough about your movement."
+    },
+    {
+      "id": 130,
+      "model": "료슈",
+      "content": "Maybe I considered some of the works created by your School acceptable, at least among the Ring's art... or not. I can't remember."
+    },
+    {
+      "id": 131,
+      "model": "루포",
+      "content": "Then, will you...?"
+    },
+    {
+      "id": 132,
+      "model": "료슈",
+      "content": "But I don't know."
+    },
+    {
+      "id": 133,
+      "model": "료슈2",
+      "content": "I don't know what makes your art more \"elevated\" than the one I pursue."
+    },
+    {
+      "id": 134,
+      "model": "루포",
+      "content": "The one you... pursue?"
+    },
+    {
+      "id": 135,
+      "model": "료슈",
+      "content": "Didn't the sight you claimed to have seen clue you in?"
+    },
+    {
+      "id": 136,
+      "model": "루포",
+      "content": "Oh, it did. I do understand."
+    },
+    {
+      "id": 137,
+      "model": "루포",
+      "content": "Your art may appear to be no more than unchecked chaos at a glance, but upon closer observation, it reveals a fierce, dominant force that threads the entire scene together with its keenness as the connecting suture."
+    },
+    {
+      "id": 138,
+      "model": "루포",
+      "content": "Your bladework, too, shows such multilayeredness. Mere keenness often entails mundanity, yet you have transcended such a limit by scorching the tail-end of each slash—truly, a unique aesthetic sense."
+    },
+    {
+      "id": 139,
+      "model": "루포",
+      "content": "I believe I've sufficiently understood the full extent of the artistic merit imbued in that scene—"
+    },
+    {
+      "id": 140,
+      "model": "료슈",
+      "content": "*puff*"
+    },
+    {
+      "id": 141,
+      "model": "료슈2",
+      "content": "No, you didn't."
+    },
+    {
+      "id": 142,
+      "model": "료슈2",
+      "content": "Lesser painters like you are such mediocrities that they fail to recognize the beauty that lies in the grotesque."
+    },
+    {
+      "id": 143,
+      "model": "료슈2",
+      "content": "They do little beyond painting the hell reflected in their eyes and call that shallowness hell's beauty."
+    },
+    {
+      "id": 144,
+      "model": "료슈2",
+      "content": "The sorrow condensed into a cry held in an instant, wrath unbound from the yoke of reason, the fading gleam of despair in the hewn..."
+    },
+    {
+      "id": 145,
+      "model": "료슈2",
+      "content": "You give no thought to what each of those emotions signifies, instead obsessing over the cursory qualities of what is beheld. Let me teach you otherwise."
+    },
+    {
+      "id": 146,
+      "model": "료슈",
+      "content": "Pay attention, because I won't afford you another long-winded lesson."
+    },
+    {
+      "id": 147,
+      "content": "Ryōshū readied her scabbard."
+    },
+    {
+      "id": 148,
+      "model": "료슈9장",
+      "content": "Pointillists, Fauvists, Suprematists, Blaue-Reiters, Cubists..."
+    },
+    {
+      "id": 149,
+      "model": "료슈9장",
+      "content": "I've visited my share of the Ring's galleries, heard their commentaries."
+    },
+    {
+      "id": 150,
+      "model": "료슈9장",
+      "content": "But none of them were to my liking."
+    },
+    {
+      "id": 151,
+      "model": "료슈9장",
+      "content": "Your art is an overcomplicated pile of definitions buried under symbols, caked in patchworks of empty shells."
+    },
+    {
+      "id": 152,
+      "model": "료슈9장",
+      "content": "You and your art both talk too damn much."
+    },
+    {
+      "id": 153,
+      "model": "료슈9장",
+      "content": "Just like Callisto's. Kept trying to take from other movements, forcing meaning where there was none."
+    },
+    {
+      "id": 154,
+      "model": "료슈9장",
+      "content": "Excess is easy. Anyone can do it."
+    },
+    {
+      "id": 155,
+      "model": "료슈9장",
+      "content": "What's beyond most... is making it succinct—the art of abbreviation."
+    },
+    {
+      "id": 156,
+      "model": "루포",
+      "content": "Alas, if all is one by one abbreviated away, nothing remains in its absence..."
+    },
+    {
+      "id": 157,
+      "model": "루포",
+      "content": "... making the void left behind completely bereft of meaning."
+    },
+    {
+      "id": 158,
+      "model": "료슈9장",
+      "content": "No. The void is what remains."
+    },
+    {
+      "id": 159,
+      "model": "료슈9장",
+      "content": "And it holds things that can't be found anywhere else."
+    },
+    {
+      "id": 160,
+      "model": "루포",
+      "content": "What is this, a... Minimalist manifesto?"
+    },
+    {
+      "id": 161,
+      "model": "료슈9장",
+      "content": "No, my aesthetics go beyond the pursuit of simplicity."
+    },
+    {
+      "id": 162,
+      "model": "료슈9장",
+      "content": "I pursue the natural germination of artistic immaculacy—a state of perfection wherein further abbreviation is an impossibility."
+    },
+    {
+      "id": 163,
+      "model": "료슈9장",
+      "content": "S.A.N.G.R.I.A."
+    },
+    {
+      "id": 164,
+      "model": "루포",
+      "content": "......."
+    },
+    {
+      "id": 165,
+      "model": "루포",
+      "content": "A bit abstract, isn't it? Too removed, too plain, with a distinct lack of any meaningful, striking qualities."
+    },
+    {
+      "id": 166,
+      "model": "루포",
+      "content": "What exactly is it, that elevates your art above that of Fauvism?"
+    },
+    {
+      "id": 167,
+      "model": "료슈",
+      "content": "*puff* Painters."
+    },
+    {
+      "id": 168,
+      "model": "료슈2",
+      "content": "We're the stubborn sort that mere words can't convince."
+    },
+    {
+      "id": 169,
+      "model": "루포",
+      "content": "Indeed, there is no discipline more subjective than that of art."
+    },
+    {
+      "id": 170,
+      "model": "루포",
+      "content": "Discourse concerning its nature may extend for days on end, but it will not change the fact that unseen arts are meaningless, pretentious illusions at the end of the day."
+    },
+    {
+      "id": 171,
+      "model": "료슈9장",
+      "content": "Then I suppose I'll have to carve it right into your eyes."
+    },
+    {
+      "id": 172,
+      "model": "루포",
+      "content": "Please do, though I'm afraid it may be overshadowed by the sheer vibrancy of my aesthetics."
+    },
+    {
+      "id": 173,
+      "model": "루포",
+      "content": "I, a Docent of Le Fauvisme, shall personally welcome you to my critique session."
+    }
+  ]
+}

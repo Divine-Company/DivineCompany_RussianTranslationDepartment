@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 971104,
+      "name": "LCE Recovers The Ring's Artwork",
+      "desc": "Researchers of the LCE are running about busily, each carrying various items recovered from the House of Spiders in their hands.\n\nRecognizing something from the pile, we stood around gawking at the item—until one of the researchers finally decided to talk to us.\n\n\"Oh, those are samples taken from the Corridor that looked like the Ring's gallery. We're done with the component analysis, so feel free to take them.\"\n\nWhat should we do?",
+      "options": [
+        {
+          "message": "Grab something made of bones and musculature.",
+          "messageDesc": "Lust & Envy Advantage check. Pass to gain a Charge E.G.O Gift."
+        },
+        {
+          "message": "Grab something made of flesh and animal hide.",
+          "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Sinking E.G.O Gift."
+        },
+        {
+          "message": "Turn back.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "Why would anyone even think of taking these piles of meat and fur?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971105,
+      "name": "Gallery of the Ring's School of Fauvism",
+      "desc": "A gentle, calming music playing from an unknown source tickles our ears.\n\nFollowing the sound, we came upon an area containing multiple pieces of artwork.\n\nWe began taking a cautious look around, realizing that we'd probably just walked into one of the Ring's galleries... and came across a pedestal for an artwork—except it had no art on top of it.\n\nIt was small enough to lift with one hand, so it wouldn't be too much trouble to take it with us.\n\nShould we?",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Lust Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There doesn't seem to be any immediate use for it. No need to slow ourselves down with this paperweight.\n\nWe decided to leave the pedestal behind."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971106,
+      "name": "Quiet Corridor of the Middle",
+      "desc": "We explore the hall filled with endless stretches of display cases. The ceiling is so high that we can't even see where it ends.\n\nAt first, I tried counting how many toy boxes we'd walked past, but soon lost count...\n\n\"What's this?\"\n\n... and came upon an articulated hand model, standing proud in its lonesome glory.\n\nThe fingers are curled into a fist, as if to grasp something between them—a knuckle duster.\n\nMaybe we can put that to use if we can manage to pry it from the fist?",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Envy Advantage check. Pass to gain a Blunt E.G.O Gift."
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "Not sure what we can use that for, though...\n\nSomething about the way it sat outside the toy boxes all on its own struck me as quite suspicious as well. We decided to leave it there."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971107,
+      "name": "Gallery of the Ring's School of Fauvism",
+      "desc": "A gentle, calming music playing from an unknown source tickles our ears.\n\nFollowing the sound, we came upon an area containing multiple pieces of artwork.\n\nWe began taking a cautious look around, realizing that we'd probably just walked into one of the Ring's galleries... and came across a pedestal for an artwork—except it had no art on top of it.\n\nIt was small enough to lift with one hand, so it wouldn't be too much trouble to take it with us.\n\nShould we?",
+      "options": [
+        {
+          "message": "Take it.",
+          "messageDesc": "Lust Advantage check. Pass to gain a Keywordless E.G.O Gift."
+        },
+        {
+          "message": "Leave it.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "There doesn't seem to be any immediate use for it. No need to slow ourselves down with this paperweight.\n\nWe decided to leave the pedestal behind."
+          ]
+        }
+      ]
+    }
+  ]
+}

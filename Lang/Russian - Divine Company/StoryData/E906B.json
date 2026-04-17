@@ -1,0 +1,811 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Corridor of the Ring Nursefather",
+      "model": "앨런",
+      "content": "Ah, you've arrived. I was waiting for you."
+    },
+    {
+      "id": 1,
+      "model": "앨런",
+      "content": "We sifted through and isolated the doors with the highest probability of leading into the Ring's gallery."
+    },
+    {
+      "id": 2,
+      "model": "앨런",
+      "content": "The next step would be to enter the alternate door you mentioned, but..."
+    },
+    {
+      "id": 3,
+      "model": "뉴키라",
+      "content": "Hold up a sec."
+    },
+    {
+      "id": 4,
+      "model": "뉴키라",
+      "content": "... I was actually gatekeeping more stuff."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Huh...?>"
+    },
+    {
+      "id": 6,
+      "model": "앨런",
+      "content": "\"Gatekeeping\"...? Are you saying you have more to tell about gates—doors?"
+    },
+    {
+      "id": 7,
+      "model": "뉴키라",
+      "content": "Yup."
+    },
+    {
+      "id": 8,
+      "model": "뉴키라",
+      "content": "That door over there? Pretty sure it connects to N Corp.'s Nest. I saw Albina going in, all hyped about some canned... whatever it was."
+    },
+    {
+      "id": 9,
+      "model": "뉴키라",
+      "content": "And that wooden door with bandages wrapped around the handle... Papa'd go in there to cross out Vengeances. From what the Book said, it's probably a turf \"protected\" by a Thumb subsidiary or something."
+    },
+    {
+      "id": 10,
+      "content": "Unlike earlier, when she offered only vague snippets, even about just a single door..."
+    },
+    {
+      "id": 11,
+      "content": "... Kira was now feeding Alan a stream of intel that seemed solid even to someone as clueless about the Backdoor as me."
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Hm... She's far more cooperative than anticipated. Even after that Alan character roughed her up, from what I hear."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Yeah... You'd think she'd clam up out of spite... I wonder if she changed her mind about cooperating with us.>"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Nevertheless, we mustn't let our guard down, Executive Manager. There's no telling when she'll turn on us..."
+    },
+    {
+      "id": 15,
+      "model": "뉴키라",
+      "content": "Frickin'... I can literally hear everything you're saying, y'know?"
+    },
+    {
+      "id": 16,
+      "model": "앨런",
+      "content": "All right, then. Based on the intel... please proceed by investigating the safest doors first."
+    },
+    {
+      "id": 17,
+      "model": "앨런",
+      "content": "As for the high-risk ones... I'll continue checking and let you know which ones you need to enter."
+    },
+    {
+      "id": 18,
+      "content": "Alan tinkered with the devices around him and flashed a couple of doors with blue light."
+    },
+    {
+      "id": 19,
+      "content": "Guess that means we start with those."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<Where do you guys wanna go first?>"
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "They all look about the same. Just start with the closest one."
+    },
+    {
+      "id": 22,
+      "content": "Well, Alan did say these are the safest ones... so it shouldn't matter which one."
+    },
+    {
+      "id": 23,
+      "content": "Just as I reached for the nearest door as Heathcliff told me to, Ryōshū suddenly veered off, stopping in front of another one that stood a few steps apart."
+    },
+    {
+      "id": 24,
+      "model": "료슈",
+      "content": "This door... it feels familiar."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<...! You recognize that door?>"
+    },
+    {
+      "id": 26,
+      "model": "료슈",
+      "content": "I think I passed through it a few times when I was little..."
+    },
+    {
+      "id": 27,
+      "content": "Hardly had Ryōshū stopped speaking when a fragmented memory, painted over in parts, slipped into my mind."
+    },
+    {
+      "id": 28,
+      "place": "???",
+      "model": "과거료슈2",
+      "content": "Sorry... it hurt a lot, didn't it?"
+    },
+    {
+      "id": 29,
+      "model": "과거료슈2",
+      "content": "I... I should've finished my homework faster."
+    },
+    {
+      "id": 30,
+      "model": "과거료슈2",
+      "content": "Oh, I know! Let's go for a walk!"
+    },
+    {
+      "id": 31,
+      "place": "Corridor of the Ring Nursefather",
+      "model": "료슈",
+      "content": "*puff* But I don't recall much about it."
+    },
+    {
+      "id": 32,
+      "content": "That memory just now... Could it be tied to Araya?"
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Let's start with that door.>"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Okay... This one, yeah?"
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "Here we go."
+    },
+    {
+      "id": 36,
+      "place": -1,
+      "content": "Impatient as ever, Heathcliff shoved the door open and strode in first. The rest of us followed, including Kira and the other Sinners."
+    },
+    {
+      "id": 37,
+      "place": "A Park, Somewhere",
+      "model": "단테",
+      "content": "<And this place is...?>"
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Judging by its state, it seems to be a welfare facility located within a Nest. Most likely a park."
+    },
+    {
+      "id": 39,
+      "model": "히스클리프",
+      "content": "Every sod walkin' here's dragging some animal along—means they've got money to burn. Proper rich lot, this place."
+    },
+    {
+      "id": 40,
+      "content": "The \"walk\" the past Ryōshū mentioned in her memory... and the sight of people fussing over their pets."
+    },
+    {
+      "id": 41,
+      "content": "The pieces clicked together, and I voiced the other memory I saw back at the House of Spiders."
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<Did you ever come here... with a puppy named Saru?>"
+    },
+    {
+      "id": 43,
+      "model": "료슈9장",
+      "content": "... Yeah. I remember that."
+    },
+    {
+      "id": 44,
+      "model": "료슈",
+      "content": "Not a puppy, though."
+    },
+    {
+      "id": 45,
+      "model": "료슈",
+      "content": "Saru was... a bit bigger by then."
+    },
+    {
+      "id": 46,
+      "place": "Corridor of the Ring Nursefather, Past",
+      "model": "과거료슈2",
+      "content": "Sorry... it hurt a lot, didn't it?"
+    },
+    {
+      "id": 47,
+      "model": "과거료슈2",
+      "content": "I... I should've finished my homework faster."
+    },
+    {
+      "id": 48,
+      "model": "사루",
+      "teller": "Saru",
+      "title": "The House of Spiders",
+      "content": "*whine*"
+    },
+    {
+      "id": 49,
+      "model": "과거료슈2",
+      "content": "Why isn't she getting any better...? I gave her lots to eat..."
+    },
+    {
+      "id": 50,
+      "model": "과거료슈2",
+      "content": "Oh, I know! Wanna go for walkies? You love walkies, don't you, Saru?"
+    },
+    {
+      "id": 51,
+      "model": "사루",
+      "teller": "Saru",
+      "title": "The House of Spiders",
+      "content": "*bark*"
+    },
+    {
+      "id": 52,
+      "model": "과거료슈2",
+      "content": "There's this Workshop dad always visits—the door there's connected to a park."
+    },
+    {
+      "id": 53,
+      "model": "과거료슈2",
+      "content": "We can go right now!"
+    },
+    {
+      "id": 54,
+      "model": "사루",
+      "teller": "Saru",
+      "title": "The House of Spiders",
+      "content": "*pant* *pant*"
+    },
+    {
+      "id": 55,
+      "place": "A Park, Somewhere",
+      "content": "Ryōshū's childhood memory burned bright in my vision before passing."
+    },
+    {
+      "id": 56,
+      "model": "히스클리프",
+      "content": "... That was her as a kid?!"
+    },
+    {
+      "id": 57,
+      "model": "돈키호테",
+      "content": "Verily... such gentleness doth seem most unlike thee, Young Ryōshū."
+    },
+    {
+      "id": 58,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 59,
+      "model": "료슈2",
+      "content": "Hey, Clock. Who said you could show them my memories willy-nilly?"
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<No, I... Come on. You know it's not something I can control...>"
+    },
+    {
+      "id": 61,
+      "model": "료슈",
+      "content": "Tsk... G.G."
+    },
+    {
+      "id": 62,
+      "content": "Back in the House of Spiders, I was the only one who could see the vision of Ryōshū's past."
+    },
+    {
+      "id": 63,
+      "content": "This time, though, her memories seemed to manifest for everyone around, just like what we experienced in H Corp. with Hong Lu."
+    },
+    {
+      "id": 64,
+      "content": "Which probably means..."
+    },
+    {
+      "id": 65,
+      "model": "뉴키라",
+      "content": "Why are y'all staring at me? That's so random, what the hell."
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "... Did you not see that just now?"
+    },
+    {
+      "id": 67,
+      "model": "뉴키라",
+      "content": "See what? You guys zoning out together?"
+    },
+    {
+      "id": 68,
+      "model": "단테",
+      "content": "<Guess it doesn't apply to Kira.>"
+    },
+    {
+      "id": 69,
+      "content": "Then again, unlike how it was between Lin Daiyu and Hong Lu, Kira doesn't have any direct connection to Ryōshū. I guess it makes sense."
+    },
+    {
+      "id": 70,
+      "model": "돈키호테",
+      "content": "Was that adorable hound thy companion of old, Young Ryōshū?"
+    },
+    {
+      "id": 71,
+      "model": "료슈",
+      "content": "Indeed. My one and only best friend."
+    },
+    {
+      "id": 72,
+      "model": "료슈",
+      "content": "And because of that, Saru..."
+    },
+    {
+      "id": 73,
+      "model": "료슈2",
+      "content": "*puff* would be locked away in the Vault every time I had to depart on an assignment. With a Spiral driven through her."
+    },
+    {
+      "id": 74,
+      "model": "료슈9장",
+      "content": "... The first-ever leash. Looking back, it might've been a kinder fate had she died sooner."
+    },
+    {
+      "id": 75,
+      "model": "돈키호테",
+      "content": "To inflict such cruelty upon a voiceless animal... How can such wickedness be borne...?"
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<What happened to Saru... in the end?>"
+    },
+    {
+      "id": 77,
+      "model": "료슈",
+      "content": "*puff* ... She died before her time."
+    },
+    {
+      "id": 78,
+      "model": "료슈",
+      "content": "I don't recall why, but there was this day when Saru wouldn't stop whimpering in pain. And I... shut myself in my room, crying."
+    },
+    {
+      "id": 79,
+      "model": "히스클리프",
+      "content": "<i>You</i> were? Not someone else...?"
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "Who else? O.C. it was me."
+    },
+    {
+      "id": 81,
+      "content": "Even after witnessing the fragment of memory, Heathcliff looked utterly unconvinced."
+    },
+    {
+      "id": 82,
+      "model": "료슈",
+      "content": "And while I was grieving... Callisto offered a solution. Said he would give me a gift the next day."
+    },
+    {
+      "id": 83,
+      "model": "료슈2",
+      "content": "And what I received was..."
+    },
+    {
+      "id": 84,
+      "model": "료슈",
+      "content": "Something he called the Beastbone Blade. A tanto that would whine and yelp in Saru's voice with every swing."
+    },
+    {
+      "id": 85,
+      "model": "뉴키라",
+      "content": "Ew—no way."
+    },
+    {
+      "id": 86,
+      "model": "뉴키라",
+      "content": "... I always knew there was something creepy with robo-unc... So that's how he killed your dog, huh?"
+    },
+    {
+      "id": 87,
+      "model": "료슈",
+      "content": "No. He didn't kill Saru. That tanto was alive."
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<Did you just say <i>alive</i>?>"
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "content": "Bloody hell...  A right nutter, that psycho..."
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "Her eyes were embedded in it like adornments, and they'd stare at me in accusation. The tiny heart beat as though it was quaking with fear."
+    },
+    {
+      "id": 91,
+      "model": "료슈",
+      "content": "It was a horrible sight. And I felt \"pity.\""
+    },
+    {
+      "id": 92,
+      "model": "료슈2",
+      "content": "*puff* So I shortened what remained of her time... with my own hands."
+    },
+    {
+      "id": 93,
+      "model": "히스클리프",
+      "content": "Got me thinkin' after hearing all that... Why do you still mess with that \"art\" thing, then? Let's be honest—after seeing somethin' like that, you'd wanna steer well clear, yeah?"
+    },
+    {
+      "id": 94,
+      "model": "뉴키라",
+      "content": "Right? Those things he called \"artworks\" were all so cursed. Straight-up nightmare fuel."
+    },
+    {
+      "id": 95,
+      "model": "뉴키라",
+      "content": "Like, I haven't really checked out other Ring artworks outside Albina and her Nursefather's... so maybe I'm just a noob when it comes to all that, but yeah, their stuff never gave me any art vibes, for real."
+    },
+    {
+      "id": 96,
+      "model": "료슈",
+      "content": "I thought the same."
+    },
+    {
+      "id": 97,
+      "model": "료슈",
+      "content": "Well, I was terrified at first. Yet as I learned more, there were some facets that suited my taste."
+    },
+    {
+      "id": 98,
+      "model": "돈키호테",
+      "content": "Thou findest appeal.. in those grotesque creations...?"
+    },
+    {
+      "id": 99,
+      "model": "료슈",
+      "content": "From what you've told me about Callisto, it looks like he failed to stick to his own advice..."
+    },
+    {
+      "id": 100,
+      "model": "료슈",
+      "content": "But there's something he always used to say."
+    },
+    {
+      "id": 101,
+      "model": "료슈",
+      "content": "\"Art is wholly subjective, and thus one must never expect the understanding of others.\""
+    },
+    {
+      "id": 102,
+      "model": "료슈",
+      "content": "*puff* The uncanny, the horrible... There's a beauty that lies in the grotesqueness of it all."
+    },
+    {
+      "id": 103,
+      "model": "히스클리프",
+      "content": "... Can't say I quite get it, but if you say so..."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "Nah, but bloody hell. How do you end up gettin' used to that kinda thing?"
+    },
+    {
+      "id": 105,
+      "model": "료슈",
+      "content": "Why do you need to understand? You're not an artist."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "I got used to it, but that bastard Callisto's installation artworks caused night terrors and nightmares for—"
+    },
+    {
+      "id": 107,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 108,
+      "content": "*rattle*"
+    },
+    {
+      "id": 109,
+      "content": "The scabbard moved, and Ryōshū came to a pause."
+    },
+    {
+      "id": 110,
+      "content": "It trembled, but there was at once a strange liveliness to it—as though it quivered between fear and anticipation."
+    },
+    {
+      "id": 111,
+      "model": "료슈",
+      "content": "Night terrors... crying from nightmares... in the House of Spiders...?"
+    },
+    {
+      "id": 112,
+      "model": "뉴키라",
+      "content": "There was actually someone who got scared of Ring stuff back in your day?"
+    },
+    {
+      "id": 113,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 114,
+      "model": "료슈",
+      "content": "I need to check something. We've seen enough here—let's go back."
+    },
+    {
+      "id": 115,
+      "model": "단테",
+      "content": "<Yeah, let's. Nothing else worth checking around here anyway.>"
+    },
+    {
+      "id": 116,
+      "content": "With the inspection complete, we quickly followed Ryōshū back."
+    },
+    {
+      "id": 117,
+      "place": "Corridor of the Ring Nursefather",
+      "content": "She stood in front of the \"artworks\" covered in sheets of cloth, lost in thought."
+    },
+    {
+      "id": 118,
+      "model": "료슈",
+      "content": "Right here. There used to be a huge artwork displayed here."
+    },
+    {
+      "id": 119,
+      "model": "료슈",
+      "content": "... I don't know what kind of impulse struck him, but the bastard went about fussing, saying he needed practice so he wouldn't lose his touch."
+    },
+    {
+      "id": 120,
+      "place": "Corridor of the Ring Nursefather, Past",
+      "model": "아라야공백",
+      "content": "*sniffle* Mommy..."
+    },
+    {
+      "id": 121,
+      "model": "과거료슈3",
+      "content": "... What's wrong?"
+    },
+    {
+      "id": 122,
+      "model": "아라야공백",
+      "content": "O-over there..."
+    },
+    {
+      "id": 123,
+      "model": "과거료슈3",
+      "content": "... Thought I told you to keep the exhibition in your room."
+    },
+    {
+      "id": 124,
+      "model": "약지아비",
+      "content": "Ah, you've returned, Yoshihide."
+    },
+    {
+      "id": 125,
+      "model": "약지아비",
+      "content": "I decided to attempt installation art of a somewhat larger scale this time, but I ran out of space in my gallery."
+    },
+    {
+      "id": 126,
+      "model": "료슈딸2",
+      "content": "M-Mommy... people were screaming..."
+    },
+    {
+      "id": 127,
+      "model": "약지아비",
+      "content": "Dearest Yoshihide, Araya has reached an age where she may be introduced into the world of aesthetics. Surely this wouldn't be a problem?"
+    },
+    {
+      "id": 128,
+      "model": "과거료슈3",
+      "content": "It would."
+    },
+    {
+      "id": 129,
+      "model": "과거료슈3",
+      "content": "... You liking it and me acquiring the taste doesn't mean Araya will."
+    },
+    {
+      "id": 130,
+      "model": "료슈딸2",
+      "content": "Waaaah! *sniffle*"
+    },
+    {
+      "id": 131,
+      "model": "과거료슈3",
+      "content": "... Let's get you back to our room."
+    },
+    {
+      "id": 132,
+      "place": "Corridor of the Ring Nursefather",
+      "model": "료슈",
+      "content": "... I was hugging something in my arms. It was crying."
+    },
+    {
+      "id": 133,
+      "place": -1,
+      "model": "료슈",
+      "content": "Saru...? No. Too big to be Saru."
+    },
+    {
+      "id": 134,
+      "content": "The lacerated memories can never be made whole no matter how many fragments are glued together."
+    },
+    {
+      "id": 135,
+      "content": "We could tell Ryōshū everything we knew about Araya, but it'd never truly reach her."
+    },
+    {
+      "id": 136,
+      "model": "료슈9장",
+      "content": "... I see. This hollow void... this must be \"Araya.\""
+    },
+    {
+      "id": 137,
+      "place": "Corridor of the Ring Nursefather",
+      "content": "The sensation and emotion for what's been emptied begin to entangle with Ryōshū's memories..."
+    },
+    {
+      "id": 138,
+      "content": "... and that makes it possible for us to reminisce about Araya together."
+    },
+    {
+      "id": 139,
+      "content": "The soft rattle Araya gave seemed to show how pleased she was with this small step."
+    },
+    {
+      "id": 140,
+      "model": "단테",
+      "content": "<All right. Time to check out the next door.>"
+    },
+    {
+      "id": 141,
+      "content": "We entered several more Backdoors that Alan pointed out,"
+    },
+    {
+      "id": 142,
+      "content": "but unfortunately, none of the places we ended up at stirred Ryōshū's memories any further."
+    },
+    {
+      "id": 143,
+      "model": "뉴키라",
+      "content": "Pretty much nothing here. I think we're don—hmm?"
+    },
+    {
+      "id": 144,
+      "model": "뉴키라",
+      "content": "Wh-what the... How'd they get in here?"
+    },
+    {
+      "id": 145,
+      "content": "Startled, Kira pointed ahead, where figures wearing animal masks were hauling what looked like massive lumps of flesh hidden behind a tent of sorts."
+    },
+    {
+      "id": 146,
+      "model": "단테",
+      "content": "<Those Ring assailants from before...?>"
+    },
+    {
+      "id": 147,
+      "model": "돈키호테",
+      "content": "Didst thou not say thou hast sealed that door earlier? How then do these villains come to stand before us once more?!"
+    },
+    {
+      "id": 148,
+      "model": "앨런마스크",
+      "content": "They probably infiltrated via an entirely separate route. Another Backdoor."
+    },
+    {
+      "id": 149,
+      "model": "앨런마스크",
+      "content": "As you can see... their objective appears to be the retrieval of the Ring Nursefather's artworks."
+    },
+    {
+      "id": 150,
+      "model": "야수파1",
+      "content": "Get on with it!"
+    },
+    {
+      "id": 151,
+      "model": "야수파2",
+      "content": "We need to move as many pieces as we can before we pull out!"
+    },
+    {
+      "id": 152,
+      "model": "뉴키라",
+      "content": "Wait, but I thought robo-unc was washed? He's got so many fanboys and fangirls here!"
+    },
+    {
+      "id": 153,
+      "model": "료슈",
+      "content": "... Hah. Does his artwork possess value in and of itself,"
+    },
+    {
+      "id": 154,
+      "model": "료슈",
+      "content": "or is it just a case of posthumous premium of \"death effect?\" Think about it."
+    },
+    {
+      "id": 155,
+      "model": "앨런마스크",
+      "content": "Some of the pieces have already been taken."
+    },
+    {
+      "id": 156,
+      "model": "앨런마스크",
+      "content": "Of course, they are of little value to both our companies..."
+    },
+    {
+      "id": 157,
+      "model": "료슈",
+      "content": "Watching them sweating and struggling to drag those mediocre pieces with them... Pretty funny."
+    },
+    {
+      "id": 158,
+      "model": "료슈",
+      "content": "But imagining how those pieces will be labeled with some pathetic notion of \"heritage\" connected to my name on their description plaques...? Pretty unsavory."
+    },
+    {
+      "id": 159,
+      "model": "오티스",
+      "content": "They may be occupied with transporting those objects for now, but they will likely soon find cause to harm the Wayfarer and LCE personnel stationed here, Executive Manager."
+    },
+    {
+      "id": 160,
+      "model": "오티스",
+      "content": "It would be prudent to eliminate them without delay, considering the Ring's reputation."
+    },
+    {
+      "id": 161,
+      "model": "단테",
+      "content": "<Outis is right. Better to wipe them out before they try anything stupid.>"
+    },
+    {
+      "id": 162,
+      "model": "단테",
+      "content": "<... Guys, looks like we've got another job to do. Lend me a hand.>"
+    },
+    {
+      "id": 163,
+      "content": "The radio didn't buzz with the Sinner's replies this time... but it should be fine."
+    }
+  ]
+}

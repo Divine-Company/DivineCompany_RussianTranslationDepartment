@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "9SV-EVENT1-BOSS-01",
+      "desc": "142203을 사용하여 (합 진행 이후) 코인 토스할 때 재생 (다음 턴에 과감한 터치를 수감자에게 부여)",
+      "dlg": "Impasto."
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-02",
+      "desc": "심사 스킬 (142204) 사용하는 턴 시작 시 (1페이즈 패턴의 3번째 순번)",
+      "dlg": "Allow me a taste of that which you call \"aesthetics.\""
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-03",
+      "desc": "142204를 사용하였을 때, 수감자에게 ‘강렬한 색채’가 있을 경우, 해당 수감자가 흐트러지지 않았고 수비 스킬을 장착하지 않았다면 142204 스킬 종료 시 타이밍에 재생",
+      "dlg": "Overextended."
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-04",
+      "desc": "142204를 사용하였을 때, 수감자에게 ‘강렬한 색채’가 있고, 해당 수감자가 흐트러졌거나 수비 스킬 장착한 경우 142204 스킬 종료 시 타이밍에 재생",
+      "dlg": "... Shortened it, did you?"
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-05",
+      "desc": "142204를 사용하였을 때, 수감자에게 ‘강렬한 색채’가 있고, 해당 수감자가 흐트러졌거나 수비 스킬 장착한 경우 142204 스킬 종료 시 타이밍에 재생",
+      "dlg": "Not bad, I would say."
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-06",
+      "desc": "142204를 사용하였을 때, 수감자에게 ‘강렬한 색채’가 없는 경우 142204 스킬 종료 시 타이밍에 재생",
+      "dlg": "Hmm?"
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-06-01",
+      "desc": "142204를 사용하였을 때, 수감자에게 ‘강렬한 색채’가 없는 경우 142204 스킬 종료 시 타이밍에 재생",
+      "dlg": "Hah..."
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-06-02",
+      "desc": "142204를 사용하였을 때, 수감자에게 ‘강렬한 색채’가 없는 경우 142204 스킬 종료 시 타이밍에 재생",
+      "dlg": "A bit underwhelming."
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-07",
+      "desc": "142305를 사용하는 턴 시작 시 (2페이즈 패턴의 3번째 순번)",
+      "dlg": "With a palette of colors out of this world."
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-08",
+      "desc": "142305를 사용하여 (합 진행 이후) 코인 토스할 때 재생 (광역기, 가중치 7, 매우 아픔)",
+      "dlg": "Underdone art... can only be reworked by taking a bite out of it!"
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-CS01",
+      "desc": "1페이즈에서 2페이즈로 넘어갈 때의 연출",
+      "dlg": "You are worthy...\nof the privilege to behold my prized needlework!"
+    },
+    {
+      "id": "9SV-EVENT1-BOSS-09_BLACKBEAST",
+      "desc": "스테이지 시작 시, 상대에 흑수 인격이 있는 경우",
+      "dlg": "A splendid technology indeed, to transplant the power of a beast into the human body... But does it offer even a single merit beyond the motif it draws from?"
+    },
+    {
+      "id": "9SV-051-03",
+      "desc": "조력자 키라 3스킬",
+      "dlg": "Whew... Violet... Breaking Slam!"
+    },
+    {
+      "id": "9SV-051-04",
+      "desc": "조력자 키라 원한 버프 획득 시",
+      "dlg": "Bro, seriously...?!"
+    },
+    {
+      "id": "9SV-051-05",
+      "desc": "조력자 키라 열선 ON 버프 획득 시",
+      "dlg": "So... ya don't mind if I chop 'em and melt 'em, right?"
+    },
+    {
+      "id": "9SV-051-06",
+      "desc": "조력자 키라 강화 문신 버프 획득 시",
+      "dlg": "I'm halfsies now, but I still got it...!"
+    }
+  ]
+}

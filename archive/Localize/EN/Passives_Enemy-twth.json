@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": 9104301,
+      "name": "Intense Primary Color - Rouge",
+      "desc": "Before hitting, if target does not have [Laceration], inflict +3 [Laceration] Count (once per turn per enemy)"
+    },
+    {
+      "id": 9104302,
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "On Hit with a Skill, inflict 1 [BearClawWound]\n\nGain 1 [Enhancement] next turn for every 4 [BearClawWound] inflicted (2 times per turn)",
+      "flavor": "\"The first step is always but a single animal.\"\n\n\"And with every quest for art and ferity, another beast is layered atop the previous specimen.'\""
+    },
+    {
+      "id": 9104303,
+      "name": "Welling Inspiration",
+      "desc": "When this unit or an ally is hit, gain 1 [AttackUp] next turn (once per Skill, 3 times per turn)"
+    },
+    {
+      "id": 9104304,
+      "name": "Final Brushstroke",
+      "desc": "When this unit is killed, inflict 3 [BearClawWound] on 2 random enemies"
+    },
+    {
+      "id": 9104501,
+      "name": "Intense Primary Color - Bleu",
+      "desc": "Before hitting, if target does not have [Sinking], inflict +3 [Sinking] Count (once per turn per enemy)"
+    },
+    {
+      "id": 9104502,
+      "name": "Le Fauvisme - Masque de Chèvre-Hibou",
+      "desc": "On Hit with a Skill, inflict 1 [EagleClawWound]\n- If this unit has [Agility], inflict 1 additional [EagleClawWound]\n\nGain 1 [Agility] next turn for every 4 [EagleClawWound] inflicted (2 times per turn)",
+      "flavor": "\"There are beasts that fall in and out of vogue within the School of Fauvism, yes—but a true artist must take fierce pride in that single animal as the underdrawing which best represents their unique self.\"\n\n\"Despite this wisdom, however, there are some who flit from beast to beast, as though the self is nothing more than a costume to be worn and discarded... Hm\""
+    },
+    {
+      "id": 9104503,
+      "name": "Alacritous Expression",
+      "desc": "If this unit's Speed is faster than the target's, Clash Power +1"
+    },
+    {
+      "id": 9104504,
+      "name": "Final Brushstroke",
+      "desc": "When this unit is killed, inflict 3 [EagleClawWound] on 2 random enemies"
+    },
+    {
+      "id": 9103401,
+      "name": "Prescript Delivered on Paper Slips",
+      "desc": "Turn Start:\n- Gain [IndexPrescriptEnemy_0]/[IndexPrescriptEnemy_1]/[IndexPrescriptEnemy_2]/[IndexPrescriptEnemy_3] based on [BlessingOfIndexPrescriptEnemy] Stack on self\n- Inflict [IndexPrescriptTargetToPersonality] to a random Sinner (in Focused Encounters, attacks prioritize the Sinner that has [IndexPrescriptTargetToPersonality])",
+      "flavor": "\"Some of you may already be aware that the Prescripts are delivered through various means. Of these, the Paper Slip is the most commonplace—and the most preferred by many.\""
+    },
+    {
+      "id": 9103402,
+      "name": "Will of the Prescript",
+      "desc": "Turn End: If [IndexPrescript_Base] was executed this turn, heal 5 SP and gain 2 [BlessingOfIndexPrescriptEnemy] (once per turn)\n- If this unit has [IndexPrescriptEnemy_2], or if target has [IndexPrescriptTargetToPersonality] when this unit is executing [IndexPrescript_Base], heal 10 SP and gain 3 [BlessingOfIndexPrescriptEnemy] instead\n\nTurn End: If [IndexPrescript_Base] was not executed this turn, gain 10 [KarmaOfIndexEnemy]\n- At less than 6 [BlessingOfIndexPrescriptEnemy], gain 1 [BlessingOfIndexPrescriptEnemy]\n- At 9 [BlessingOfIndexPrescriptEnemy], does not gain [KarmaOfIndexEnemy]",
+      "flavor": "\"Then the question we must ask is: How many forms might the Prescripts take? Do they all flow from a single origin, or are there distinct entities behind each?\"\n\n\"Unraveling these mysteries is the purpose of the Society for the Research of the Index. Now, would you like to join us and explore the answers together?\""
+    },
+    {
+      "id": 9103403,
+      "name": "Proselyte's Blade",
+      "desc": "Deal +2.5% damage against [IndexPrescriptTargetToPersonality] for every [BlessingOfIndexPrescriptEnemy] on self (max 20%)\n- At 9 [BlessingOfIndexPrescriptEnemy], deal +30% damage against all targets instead\n\nOn Hit against [IndexPrescriptTargetToPersonality], gain 1 [Breath] and inflict 1 [Sinking] (once per turn)\n- Increases the number of times this effect can trigger per turn by 1 for every 3 [BlessingOfIndexPrescriptEnemy] (max 2)",
+      "flavor": "A modest blade, unassuming and unworthy of note.\nYet in following the Prescript—the fulfilling of its directives, the aid of Messengers that emerge from unseen places, the teachings of the Proxies—is it slowly perfected into a weapon imbued with a singular uniqueness."
+    }
+  ]
+}

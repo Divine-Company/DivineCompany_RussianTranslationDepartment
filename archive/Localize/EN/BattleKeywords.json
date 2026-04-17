@@ -2949,6 +2949,69 @@
       "desc": "Apply the following effects to this unit's Base Attack Skills and Clashable Counter Skill based on Corpus Ingredient Potency:\n- 1+ : Base Power +1\n- 2+ : If the enemy has Bleed or 'Unique Bleed', deal +10% damage\n- 3+ : Inflict +1 more Bleed Potency and Count\n- 4+ : Base Power +1",
       "summary": "Gain various effects based on Corpus Ingredient Potency",
       "undefined": "-"
+    },
+    {
+      "id": "FaubismMaskMeursault",
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "- Deal +5% damage for every 3 Mauled Color on target (max 15%)\n- Inflict +1 more Bleed and Sinking Potency with Base Skills\n- Before hitting with a Base Skill, if target does not have Bleed, inflict +2 Bleed Count on target (once per turn)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitingMeursault",
+      "name": "Imperfections Addressed",
+      "desc": "- Deal +10% damage\n- On Reuse of a Coin in The Ring Fauvist Docent Rodion's \"Critique\" Skill, heal 3 SP (once per turn)\n- Turn Start: If The Ring Fauvist Docent Rodion does not have Réflexion, this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaubismWolfMaskRodion",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- Min & Max Speed +1\n- Inflict +1 more Bleed and Sinking Potency with Base Skills\n- On Hit, if target has 3+ Mauled Color [Bleu], inflict +1 Sinking Count (once per turn)\n- On Hit, if target has 3+ Mauled Color [Rouge], inflict +1 Bleed Count (once per turn)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BoldBrushstrokesRodion",
+      "name": "Touche Hardie",
+      "desc": "- Max Stack: 2\n- Take +10% HP and SP damage from Bleed and Sinking effects for every Stack (max 20%, rounded down)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IntenseColorsRodion",
+      "name": "Palette Vibrante",
+      "desc": "- Max Stack: 4\n- Take +(Stack x 2.5)% damage from The Ring-faction Identities\n· If the attacker is in both The Ring faction and School of Fauvism faction, take +(Stack x 5)% damage instead\n- Combat Start: Randomly gain 1 Bleed, 1 Sinking, 1 Bleed Count, or 1 Sinking Count (Stack) times\n- Combat End: This effect expires. Halve Mauled Color [Rouge] and Mauled Color [Bleu] Stacks on this unit (rounded down)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThankyouDocentRodion",
+      "name": "L'Hommage",
+      "desc": "- Max Stack: 3\n- Turn Start: Randomly gain 1 Offense Level Up or 1 Defense Level Up for every Stack (max 3 times)\n- Turn End: This effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TestWaitDocentRodion",
+      "name": "Réflexion",
+      "desc": "- Max Stack: 2\n- Cannot use \"Critique\" during the turn this unit has this effect\n- Turn Start: Heal 5 SP\n- Turn End: Lose 1 Stack\n- When this effect expires, gain L'Hommage next turn equal to the number of The Ring Student Identities on the field",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BearClawWoundAlly",
+      "name": "Mauled Color [Rouge]",
+      "desc": "- Max Stack: 9\n- When hit, gain 1 Bleed Potency for every 3 Stack (once per turn)\n- Turn End: Gain 1 Defense Level Down next turn for every 4 Stack (max 2)\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EagleClawWoundAlly",
+      "name": "Mauled Color [Bleu]",
+      "desc": "- Max Stack: 9\n- When hit, gain 1 Sinking Potency for every 3 Stack (once per turn)\n- Turn End: At 5+ Stack, lose 5 SP\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }

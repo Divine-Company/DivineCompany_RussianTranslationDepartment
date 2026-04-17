@@ -1,0 +1,124 @@
+{
+  "dataList": [
+      {
+          "id": "get_10915_1",
+          "desc": "Identity Acquisition",
+          "dlg": "I distinctly remember you people calling my work \"unrefined,\" \"savage\"... So why are ya having trouble looking away now? Look at you—it's like you're in love."
+      },
+      {
+          "id": "lobby_morning_10915_1",
+          "desc": "Morning Greeting",
+          "dlg": "Ugh~ My body says a hard \"no\" to starting the day with books~ But hey, what can I do about it? Newbies these days are coming in with real sharp elbows. Slack off and skip studying, and before ya know it, these Students'll be eating you for breakfast."
+      },
+      {
+          "id": "lobby_noon_10915_1",
+          "desc": "Afternoon Greeting",
+          "dlg": "That ceratotaurus from before—the one we de-horned and de-hooved for that project—it's still there, right? Can you get me a few tongues from what's left?\nHeard something interesting when I visited District 23's gallery last time. Apparently, ceratotaurus tongues are great for sandwich fillings. Thought I'd try making one for myself!"
+      },
+      {
+          "id": "lobby_night_10915_1",
+          "desc": "Evening Greeting",
+          "dlg": "Ever heard a wolf howl in the middle of the night? That low, heavy hum, brushing against every nerve fiber like fog creeping under your skin... *chuckle* The moment I heard it, I knew. That was it—I knew exactly the perfect beast I wanted to reshape and paint over."
+      },
+      {
+          "id": "smalltalk_10915_1",
+          "desc": "Chatter #1",
+          "dlg": "Ta-da! Whaddaya think? \"Artwork: Dead Lake\". With the Great Lake's patchwork texture as my inspiration, I took the hides of different Whales from the lake and stitched them together. Call it my signature piece!\nHehe... It might even be good enough for a VIP auction, who knows? Or maybe even a pedestal of its own at the Biennale..."
+      },
+      {
+          "id": "smalltalk_10915_2",
+          "desc": "Chatter #2",
+          "dlg": "The moment I saw that monster of a bear, I realized this arm had to be mine. Check it out: the springy tension in the muscle fibers, the coarse, stiff fur, and these unbreakable claws!\nI thought it'd be a bold, creative attempt to stitch and mesh this part with another creature that had a slightly different twist. The result? Jackpot, of course!"
+      },
+      {
+          "id": "smalltalk_10915_3",
+          "desc": "Chatter #3",
+          "dlg": "Hmm... yeah, no. Turn this in as is, and the best I can give you is a D+.\nArt's supposed to be ferocious, vicious—enough to seize attention with just a single glimpse. Still too basic to do that? Then at least try something that drags the spectators in by the collar—give them an impression of a lifetime. That's what Fauvism's all about, you know this! If you'd rather create some half-hearted nonsense like this, go join another school."
+      },
+      {
+          "id": "smalltalk_10915_4",
+          "desc": "Post-Uptie Chat 1",
+          "dlg": "I've got no use for sham spectators who panic and rinse their brains clean because they can't stomach the tableau. If you've already breathed in the sight, then let it dig a scar in your sensibilities for life. That raw, visceral affect—that's the only fauve touch laypeople like you can add to art, isn't it?"
+      },
+      {
+          "id": "smalltalk_10915_5",
+          "desc": "Post-Uptie Chat 2",
+          "dlg": "I never gave much of a hoot about art 'cuz I thought it was a pauper's passion. Then one day... yup, I caught a whiff. There it was, drowned out under all that musky stink of beasts... the amazing perfume of cash."
+      },
+      {
+          "id": "neglect_10915_1",
+          "desc": "Idle",
+          "dlg": "Hello? So it was you staring? Almost thought you were one of those blue-helmet pests sneaking around the Corridor uninvited."
+      },
+      {
+          "id": "gacksung_10915_1",
+          "desc": "Uptying",
+          "dlg": "Hear that? That's the feral melody of bones, all taken from different creatures, finally locking together. There—just a few tendons tugged, and it all clicks right into place, clean and snug...\nHey, wait up. Are ya not even gonna pretend to hear me out before making a break for it? Well, if you don't wanna... Guess I'll just have to carve it into your bones instead. That tends to leave an unforgettable <i>impression</i>."
+      },
+      {
+          "id": "formation_10915_1",
+          "desc": "Deployment",
+          "dlg": "Back for another look? Knew you'd pine for my work."
+      },
+      {
+          "id": "battleentry_10915_1",
+          "desc": "Stage Entry",
+          "dlg": "Let's tear open some flesh and get more red into the mix."
+      },
+      {
+          "id": "battle_select_10915_1",
+          "desc": "Viewed in Battle",
+          "dlg": "Careful. You're undressing the artwork with your eyes."
+      },
+      {
+          "id": "battle_endcommand_10915_1",
+          "desc": "Commencing Attack",
+          "dlg": "With a palette of colors out of this world."
+      },
+      {
+          "id": "battle_enemy_break_10915_1",
+          "desc": "Enemy Stagger",
+          "dlg": "What's wrong? Did my claws get under your skin?"
+      },
+      {
+          "id": "battle_break_10915_1",
+          "desc": "Staggered",
+          "dlg": "Hmm. This material's got more bite than it looks."
+      },
+      {
+          "id": "battle_kill_10915_1",
+          "desc": "Enemy Killed",
+          "dlg": "Adieu."
+      },
+      {
+          "id": "battle_dead_10915_1",
+          "desc": "Death",
+          "dlg": "Hah... Wasn't planning... on marking up my stuff... with a posthumous premium this soon."
+      },
+      {
+          "id": "choice_success_p_10915_2",
+          "desc": "Check Passed",
+          "dlg": "*chuckle* See that? Just a little touch from me and the tableau pops out with an extra kick~"
+      },
+      {
+          "id": "choice_fail_n_10915_1",
+          "desc": "Check Failed",
+          "dlg": "Needs a rougher touch for this part... Eeep! It broke!"
+      },
+      {
+          "id": "battle_clear_10915_1",
+          "desc": "Victory Cry",
+          "dlg": "Oh, wow! That's a way bigger haul than I expected. This technique... yeah, it looks useful—I'll keep that. I'll take this one too, it's got some potential as a weapon. Heh, that makes the cut. Time to head back! Just ditch the rest of these mediocre pieces."
+      },
+      {
+          "id": "battle_clear_ex_10915_1",
+          "desc": "Extra Conditions Fulfilled",
+          "dlg": "Rough, jagged arc... and scars like threads ripped loose from a seam. Hang on, does that mean the House of Spiders actually did it?\nOkay, this isn't the time to be loitering here... The Maestro needs to hear this. Somewhere in this Corridor... there's a magnum opus that every Finger'll be drooling to get their hands on."
+      },
+      {
+          "id": "battle_defeat_10915_1",
+          "desc": "Defeat Wail",
+          "dlg": "Merde! This doesn't make any sense! I know Corporism's washed-up, but how could a Maestro's gallery be filled with mass-produced trash...?\nGoing back empty-handed's kinda lame, though... Ah! I should probably pick up some usable tools at least. Mediocre ones too, if we can attach some kinda story to tug at the heartstrings."
+      }
+  ]
+}

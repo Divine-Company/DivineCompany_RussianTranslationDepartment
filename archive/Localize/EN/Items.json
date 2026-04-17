@@ -581,6 +581,18 @@
       "name": "Threadskein",
       "desc": "Used to weave Façades of Identities to be projected.",
       "flavor": ""
+    },
+    {
+      "id": 20043,
+      "name": "Severed Thread",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Something has severed this thread, snapping it into strands.\nTruly, there is no such thing as an existence in complete homogeneity with another, for slicing a single thread reveals that it is in fact a twine of multiple fibers. When a thread is severed, it leaves not two separate threads, but a multitude of frayed strands—from this, we may learn that time indeed does not cure all wounds. The passage of time only unravels the frayed strands further, leaving weeping wounds that never heal.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20044,
+      "name": "Severed and Scorched Skein",
+      "desc": "Spawns rarely. Converted to 20 Severed Thread immediately upon acquisition.\n\n<color=#a16a3b>To truly sever a thread, it must be burned, not cut. Keenness is a means insufficient to achieving the total annihilation that burns and melts away even the lingering remnants of an erstwhile connection down to the frayed ends of separated threads. It must be that only with resolute determination and heart can one sever such a connection.\n\nShould these skeins of severed and scorched strings be twined anew, perhaps the resulting new thread can be used to connect hearts once again? I certainly hope so, though there is no way for us to know at this moment.</color>",
+      "flavor": ""
     }
   ]
 }

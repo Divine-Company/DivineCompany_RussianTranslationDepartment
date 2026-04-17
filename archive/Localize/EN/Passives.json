@@ -2898,6 +2898,41 @@
       "name": "Iron Maiden - Spikes",
       "desc": "When hit, allies that equipped Defense Skill on their Slots this turn inflict 4 [Laceration] on the attacker (2 times per turn)\n- If the attacker already has [Laceration], inflict +2 [Laceration] Count instead",
       "summary": "When hit, inflict [Laceration] on the attacker"
+    },
+    {
+      "id": 1051501,
+      "name": "Welling Inspiration",
+      "desc": "If this unit has [FaubismMaskMeursault], inflict +1 more [BearClawWoundAlly]\n\nEvery time this unit inflicts 4 [BearClawWoundAlly], heal 5 SP (2 times per turn)\n- If this unit's SP is at max, gain 1 [HitDamageUp] next turn when this unit heals SP with this effect (once per turn)"
+    },
+    {
+      "id": 1051502,
+      "name": "The Ring Fauvist Student",
+      "desc": "On Hit with a Base Skill: Inflict 1 [BearClawWoundAlly]\n- This counts as \"inflicting negative effects with the Skill\"\n\nTurn End: If this unit has inflicted 10+ [BearClawWoundAlly] during this Encounter, gain [FaubismMaskMeursault]\n\nAt Coin Start of The Ring Fauvist Docent Rodion's \"Critique\" Skill, The Ring Fauvist Student Meursault gains [TestWaitingMeursault]"
+    },
+    {
+      "id": 1051521,
+      "name": "Impastoed Scar",
+      "desc": "1 ally with the fastest Speed: On Hit, inflict 1 [DefenseDown] for every 2 types of negative effect on target (once per turn; max 3)"
+    },
+    {
+      "id": 1091501,
+      "name": "Needs a Rougher Touch for this Part...!",
+      "desc": "Inflict +1 more [BearClawWoundAlly], [EagleClawWoundAlly], and [BoldBrushstrokesRodion]"
+    },
+    {
+      "id": 1091502,
+      "name": "Mentorship",
+      "desc": "Turn Start: Gain [ThankyouDocentRodion] equal to the number of The Ring Student Identities on the field (once per Encounter)\n\nTurn Start: Randomly apply (# of The Ring Student Identities on the field) [AttackUp] or [DefenseUp] to any 2 of The Ring Student Identities (max 2, once per Encounter. Prioritizes The Ring Fauvist Students)"
+    },
+    {
+      "id": 1091503,
+      "name": "Le Fauvisme - Couleurs Sauvages",
+      "desc": "Combat End: Inflict 1 [IntenseColorsRodion] next turn to enemies that have [BearClawWoundAlly], [EagleClawWoundAlly], and [BoldBrushstrokesRodion] simultaneously\n- If target has 3+/6+/9+ [BearClawWoundAlly] and [EagleClawWoundAlly] each, inflict 2/3/4 [IntenseColorsRodion] instead (amount inflicted is based on the effect that has the least Stack)\n\nTurn End: Gain 1 [FaubismWolfMaskRodion] if any 1 of the following conditions is met\n- Inflicted [IntenseColorsRodion] 3 times (counts as once per turn regardless of the number of times inflicted during combat)\n- Used \"Critique\" 2 times\n- Used \"Burst Forth the Pulsing Crimson under Your Skin\""
+    },
+    {
+      "id": 1091521,
+      "name": "Nice and Slow, Don't Let It Break...",
+      "desc": "Apply the following effects to the Identity with the earliest Deployment order:\n- If Lust Reson. is of an odd number, inflict +1 more [Laceration] Potency\n- If Lust Reson. is of an even number, inflict +1 more [Sinking] Potency\n- If the said Identity is in The Ring faction, it gains 1 [AttackUp] or 1 [DefenseUp] at Combat Start"
     }
   ]
 }

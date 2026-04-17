@@ -290,7 +290,7 @@
     {
       "id": 9012,
       "name": "Today’s Expression",
-      "desc": "After defeating an enemy by using a Sloth Affinity or Blunt Skill, raise the unit's Blunt Skill Power by 2 until the end of the next turn.",
+      "desc": "If an enemy is killed by Attack End of a Blunt Skill or a Sloth Skill: For 2 turns, starting next turn, raise the Blunt Skill Power by 2 for the unit who used the Skill",
       "simpleDesc": [
         {
           "abilityID": 9012,
@@ -510,7 +510,7 @@
     {
       "id": 9020,
       "name": "White Gossypium",
-      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict (8 + Stagger LV x 4) [Laceration] Potency and (8 + Stagger LV x4)/2 [AttackDown] on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
+      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict (8 + Stagger LV x 4) [Laceration] Potency and (8 + Stagger LV x4)/2 [AttackDown] on them this turn and next turn. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
       "simpleDesc": [
         {
           "abilityID": 9020,
@@ -521,7 +521,7 @@
     {
       "id": 19020,
       "name": "White Gossypium+",
-      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict <style=\"upgradeHighlight\">(10 + Stagger LV x 5) [Laceration] Potency</style> and <style=\"upgradeHighlight\">(10 + Stagger LV x 5)</style> [AttackDown]. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
+      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict <style=\"upgradeHighlight\">(10 + Stagger LV x 5) [Laceration] Potency</style> and <style=\"upgradeHighlight\">(10 + Stagger LV x 5)</style> [AttackDown] on them this turn and next turn. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
       "simpleDesc": [
         {
           "abilityID": 19020,
@@ -532,7 +532,7 @@
     {
       "id": 29020,
       "name": "White Gossypium++",
-      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict <style=\"upgradeHighlight\">(12 + Stagger LV x 6) [Laceration] Potency</style> and <style=\"upgradeHighlight\">(12 + Stagger LV x 6)</style> [AttackDown] and <style=\"upgradeHighlight\">[DefenseDown]</style> on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
+      "desc": "Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict <style=\"upgradeHighlight\">(12 + Stagger LV x 6) [Laceration] Potency</style> and <style=\"upgradeHighlight\">(12 + Stagger LV x 6)</style> [AttackDown] and <style=\"upgradeHighlight\">[DefenseDown]</style> on them this turn and next turn. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)",
       "simpleDesc": [
         {
           "abilityID": 29020,
@@ -726,7 +726,7 @@
     {
       "id": 9030,
       "name": "Gathering Skulls",
-      "desc": "After defeating an enemy by using a Pride Affinity or Pierce damage Skill, raise the unit's Pierce Power by 2 for the next 2 turns.",
+      "desc": "If an enemy is killed by Attack End of a Pierce Skill or a Pride Skill: For 2 turns, starting next turn, raise the Pierce Skill Power by 2 for the unit who used the Skill",
       "simpleDesc": [
         {
           "abilityID": 9030,
@@ -782,7 +782,7 @@
     {
       "id": 9032,
       "name": "Dreaming Electric Sheep",
-      "desc": "After defeating an enemy by using an Envy Affinity or Slash damage Skill, raise the unit's Slash Skill Power by 2 for the next 2 turns.\n\nWhen activating Envy Absolute Resonance, all allies gain 2 [AttackUp] and 2 [DefenseUp] at Combat Start.",
+      "desc": "If an enemy is killed by Attack End of a Slash Skill or an Envy Skill: For 2 turns, starting next turn, raise the Slash Skill Power by 2 for the unit who used the Skill\n\nWhen activating Envy A-Reson., all allies gain 2 [AttackUp] and 2 [DefenseUp] at Combat Start",
       "simpleDesc": [
         {
           "abilityID": 9032,
@@ -3608,7 +3608,7 @@
     {
       "id": 9134,
       "name": "Patrolling Flashlight",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply 2 [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: The affected Identity gains 2 [ChargeForceField]\n\nIf the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% damage while that unit has [ChargeForceField]",
       "simpleDesc": [
         {
           "abilityID": 9134,
@@ -3623,7 +3623,7 @@
     {
       "id": 19134,
       "name": "Patrolling Flashlight+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+15</style>% damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">3</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, <style=\"upgradeHighlight\">and #3</style> Deployed Identities]\n\nTurn Start: The affected Identity gains <style=\"upgradeHighlight\">3</style> [ChargeForceField]\n\nIf the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +<style=\"upgradeHighlight\">15</style>% damage while that unit has [ChargeForceField]",
       "simpleDesc": [
         {
           "abilityID": 19134,
@@ -3638,7 +3638,7 @@
     {
       "id": 29134,
       "name": "Patrolling Flashlight++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+25</style>% damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">4</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: The affected Identity gains <style=\"upgradeHighlight\">4</style> [ChargeForceField]\n\nIf the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +<style=\"upgradeHighlight\">25</style>% damage while that unit has [ChargeForceField]",
       "simpleDesc": [
         {
           "abilityID": 29134,

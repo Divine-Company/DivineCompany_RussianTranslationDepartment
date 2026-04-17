@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "id": 97110401,
+      "title": "LCE Recovers The Ring's Artwork - Corporist Piece",
+      "eventDesc": "",
+      "behaveDesc": "Who will go and take it?",
+      "successDesc": [
+        "{0} reaches into the pile and pulls out something fashioned of bones and musculature.\n\n<This is...>\n\nA broken artwork, by the looks of it—likely the work of Corporists.\n\nPerhaps setting the artwork on a pedestal will return to it the value it once held."
+      ],
+      "failureDesc": [
+        "{0} reaches into the pile and grabs something fashioned of bones and musculature.\n\n<Ah... W-watch out!>\n\n{0} quickly pulls their hand away and retreats a safe distance.\n\n... It was close—for a moment, the samples stacked on top threatened to collapse and bury the Sinners under them.\n\nIt hardly seems worth risking harm just to take something we're not even sure will prove useful."
+      ]
+    },
+    {
+      "id": 97110402,
+      "title": "LCE Recovers The Ring's Artwork - Fauvist Piece",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will go and take it?",
+      "successDesc": [
+        "{0} reaches into the pile and pulls out something fashioned of hide and fangs.\n\n<This is...>\n\nA broken artwork, by the looks of it—likely the work of Fauvists.\n\nPerhaps setting the artwork on a pedestal will return to it the value it once held."
+      ],
+      "failureDesc": [
+        "{0} reaches into the pile and grabs something fashioned of hide and fangs.\n\n<Ah... W-watch out!>\n\n{0} quickly pulls their hand away and retreats a safe distance.\n\n... It was close—for a moment, the samples stacked on top threatened to collapse and bury the Sinners under them.\n\nIt hardly seems worth risking harm just to take something we're not even sure will prove useful."
+      ]
+    },
+    {
+      "id": 97110501,
+      "title": "Gallery of the Ring's School of Fauvism",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} takes the pedestal.\n\nThe gallery remains serene, its stillness broken only by the gentle, calming music."
+      ],
+      "failureDesc": [
+        "\"The gallery isn't open yet. What business do you have here?!\"\n\nA ringing shout breaks through the gentle music, flooding the hall with its echo.\n\n... It seems we have no choice but to fight."
+      ]
+    },
+    {
+      "id": 97110601,
+      "title": "Quiet Corridor of the Middle",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} reaches out to take the knuckle.\n\nAfter painstakingly uncurling each finger, {0} finally manages to pull free the knuckle etched with the symbol of the Middle."
+      ],
+      "failureDesc": [
+        "{0} reaches out to take the knuckle.\n\nBut as {0} tries to uncurl each finger, the display cases start to quake and rattle.\n\n\"Huh...? Watch out...!\"\n\nThe other Sinners' warning cuts off as the shelves give way and crash down over {0}.\n\n... Looks like the knuckle was rigged to bring down the shelves if the fingers are not uncurled in the right order.\n\nThe knuckle is now lost beneath the debris, buried too deep to retrieve."
+      ]
+    },
+    {
+      "id": 97110701,
+      "title": "Gallery of the Ring's School of Fauvism",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} takes the pedestal.\n\nThe gallery remains serene, its stillness broken only by the gentle, calming music."
+      ],
+      "failureDesc": [
+        "\"You there! What business do you have in our gallery?!\"\n\nA ringing shout breaks through the gentle music, flooding the hall with its echo.\n\n... It seems we have no choice but to fight."
+      ]
+    }
+  ]
+}

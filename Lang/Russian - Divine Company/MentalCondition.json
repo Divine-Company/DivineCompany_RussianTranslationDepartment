@@ -109,6 +109,11 @@
       "id": "OnOneSideAttackEnd",
       "add": "Increase by {0} after Unopposed Attack",
       "min": "Decrease by {0} after Unopposed Attack"
+    },
+    {
+      "id": "OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality",
+      "add": "Turn End: Gain {0} SP if The Prescript's Target was hit by an attack",
+      "min": "Turn End: Lose {0} SP if The Prescript's Target was hit by an attack"
     }
   ]
 }

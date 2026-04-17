@@ -1424,7 +1424,7 @@
         {
           "level": 1,
           "name": "Casting Shade",
-          "desc": "[WhenUse] Spawn a Giant Clover next turn\n[WhenUse] Deal +5% damage per Bleed Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
+          "desc": "[WhenUse] Spawn a Giant Clover next turn\n[DefeatDuel] The Giant Clover spawns with 70% HP",
           "coinlist": [
             {
               "coindescs": [

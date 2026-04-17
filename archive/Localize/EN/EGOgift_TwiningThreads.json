@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 9260,
+      "name": "Artwork: Pulsation",
+      "desc": "If an ally consumed 10+ [Charge] Count in a single turn with its Base Skills, the said ally deals +20% damage with Base Skills next turn (excluding 'Unique Charge' with fixed Potency)\n- If the [Charge] consumed was 'Unique Charge', inflict +1 more [Laceration] and [Laceration] Count next turn",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9261,
+      "name": "Artwork: Ferity",
+      "desc": "Deal +20% damage with Blunt Skills against enemies that either have 35+ [Sinking] Potency or are at 15 or lower SP ([Sinking] Potency is calculated per-Part)\n- If the said Blunt Skill is either a Gloom Skill or a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', and hit the target, gain 1 [Enhancement] next turn (once per turn per Identity)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9262,
+      "name": "Universal Skeleton",
+      "desc": "The Ring-faction Identities: At Attack End, inflict 1 Stack of a random Attack Type Resist Down on target (2 times per turn)\n\nThe Ring-faction Identities deal +10% damage",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9263,
+      "name": "Artwork: Evolving Pulsation",
+      "desc": "Turn Start: Activates when there are 2 or more The Ring-faction Identities (only counts Identities on the field)\n\nThe Ring School of Corporism-faction Identities inflict 1 [SlashResistDown] On Hit with Base Skills (once per Skill; 2 times per turn)\n\nThe Ring Identities deal +20% damage\n\nTurn Start: At 99+ total sum of [Laceration] Potency on all enemies, The Ring School of Corporism-faction Identities gain 1 [RingFingerPhysical]",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9264,
+      "name": "Artwork: Taxidermied Ferity",
+      "desc": "Turn Start: Activates when there are 2 or more The Ring-faction Identities (only counts Identities on the field)\n\nThe Ring School of Fauvism-faction Identities inflict 1 [HitResistDown] On Hit with Base Skills (once per Skill; 2 times per turn)\n\nThe Ring Identities deal +20% damage\n\nTurn Start: At 99+ total sum of [Laceration] Potency on all enemies, The Ring School of Fauvism-faction Identities gain 1 [RingFingerFauvism]",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9265,
+      "name": "The Middle Styled Knuckle-dusters",
+      "desc": "If the target has 1.5 or lower Blunt Resistance, Blunt Resistance +0.3",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9266,
+      "name": "Unoccupied Birdcage",
+      "desc": "At Attack End of a Skill that has 2+ Atk Weight, gain +(# of hits on an enemy / 2) E.G.O resource of that Skill's Affinity (rounded down; max 5 per Skill)\n\nOn Crit with a Skill that has 2+ Atk Weight, gain +(# of Coins that hit Critically) E.G.O resource of the least-owned Affinity at Attack End (max 3)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9267,
+      "name": "Searing Brass",
+      "desc": "Max [Combustion] Potency +11\n\nTriple the first [Combustion] Potency to be inflicted in the Encounter (once per Encounter)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 19267,
+      "name": "Searing Brass+",
+      "desc": "Max [Combustion] Potency +<style=\"upgradeHighlight\">21</style>\n\nTriple the first [Combustion] Potency to be inflicted in the Encounter (once per Encounter)",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 29267,
+      "name": "Searing Brass++",
+      "desc": "Max [Combustion] Potency +21\n\nTriple the first [Combustion] Potency to be inflicted in the Encounter (once per Encounter)\n\n<style=\"upgradeHighlight\">When activating [Combustion], (Wrath Reson. x 10)% chance to deal ([Combustion] Potency x Count / 11) Wrath damage and reduce the target's [Combustion] Count by 1 (max activation chance: 50%; once per turn)</style>",
+      "simpleDesc": [
+        {}
+      ]
+    },
+    {
+      "id": 9268,
+      "name": "Universal Instinct",
+      "desc": "Turn End: Randomly apply 1 Stack of a random Affinity's <noparse>Damage Up</noparse> next turn to (# of enemies with [Laceration]) The Ring-faction Identities (once per Identity per turn; in Focused Encounters, Parts)\n\nThe Ring-faction Identities deal +10% damage",
+      "simpleDesc": [
+        {}
+      ]
+    }
+  ]
+}

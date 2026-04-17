@@ -1,0 +1,726 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Corridor of the Ring Nursefather",
+      "model": "앨런",
+      "content": "Ah, welcome back."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "... Question."
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "What exactly was the point of verifying every Backdoor within the House of Spiders?"
+    },
+    {
+      "id": 3,
+      "model": "앨런",
+      "content": "Oh, Hohenheim didn't fill you in?"
+    },
+    {
+      "id": 4,
+      "model": "앨런",
+      "content": "Any information regarding these doors holds an enormous value for us. Not to mention the higher-ups requesting us to reorganize the House of Spiders into a base of operations as soon as possible, even if we had to rush our work a little."
+    },
+    {
+      "id": 5,
+      "model": "앨런",
+      "content": "Only speculating here, but I'm quite convinced that they're preparing for a conflict of sorts. These little pockets of absolute safety are extremely valuable during these \"operations,\" as you already know—"
+    },
+    {
+      "id": 6,
+      "model": "그레고르",
+      "content": "... Wait, stop right there. What? What conflict? What operation? Are you saying that your bosses are preparing for a war or something?"
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "I just feel like there isn't enough alarm in his voice, considering the... considering what he's saying. Preparing for what...?"
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "Not even trying to hide it anymore, huh."
+    },
+    {
+      "id": 9,
+      "model": "앨런",
+      "content": "Hm? Did I say something wrong?"
+    },
+    {
+      "id": 10,
+      "model": "이상",
+      "content": "... Must you ask to know?"
+    },
+    {
+      "id": 11,
+      "model": "앨런",
+      "content": "Aha... I thought everyone already knew. I mean, it's an open secret, at this point."
+    },
+    {
+      "id": 12,
+      "model": "앨런",
+      "content": "L Corp. has already fallen. W Corp. is teetering on the brink of collapse."
+    },
+    {
+      "id": 13,
+      "model": "앨런",
+      "content": "You call us the \"aspirant W Corp.\" We call Limbus Company the \"aspirant L Corp.\" Meaning, we have a shared goal."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 15,
+      "model": "앨런",
+      "content": "But unlike the dead-and-gone L Corp., the current W Corp.'s still kicking, despite its rapid decline in recent years."
+    },
+    {
+      "id": 16,
+      "model": "앨런",
+      "content": "And as we all know, companies in the City aren't worth much unless they've got the military force to back them, right?"
+    },
+    {
+      "id": 17,
+      "model": "앨런",
+      "content": "It's only natural that a business conflict would lead to a physical one as well."
+    },
+    {
+      "id": 18,
+      "model": "앨런",
+      "content": "This is just a mere team leader speaking, though. Who knows what the higher-ups in our companies are thinking?"
+    },
+    {
+      "id": 19,
+      "model": "앨런마스크",
+      "content": "Either way, much fruitful collaboration was had today. This'll reflect pretty well in our performance metrics, and we didn't even suffer that many losses."
+    },
+    {
+      "id": 20,
+      "model": "앨런마스크",
+      "content": "I can safely say that you should expect a positive review from us regarding this collaboration."
+    },
+    {
+      "id": 21,
+      "content": "After saying our farewells to Alan, we returned to the forward base..."
+    },
+    {
+      "id": 22,
+      "place": "The House of Spiders Forward Base",
+      "content": "... and shared with Hohenheim everything that's happened so far."
+    },
+    {
+      "id": 23,
+      "content": "Hohenheim and Faust both did not seem willing to discuss the subject of the looming \"conflict\"..."
+    },
+    {
+      "id": 24,
+      "content": "So we instead decided to have Ryōshū's memory and sword re-examined."
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "... Oi, Hohenheim. Results out yet?"
+    },
+    {
+      "id": 26,
+      "model": "호엔하임",
+      "content": "Not yet, Assistant. I clearly remember telling you 3 minutes ago that it would take about 20 more minutes. Have you forgotten already?"
+    },
+    {
+      "id": 27,
+      "model": "료슈",
+      "content": "He talks too much."
+    },
+    {
+      "id": 28,
+      "content": "Ryōshū sounded irritated as she scolded Heathcliff, but I could sense a definite undercurrent of anxiety from the way she kept puffing her cigarettes to a stub at increasingly shorter intervals."
+    },
+    {
+      "id": 29,
+      "model": "호엔하임",
+      "content": "*cough* This room might be more smoke than oxygen at this point... Mind slowing down a tad? You're practically fumigating the room with cigarette smoke."
+    },
+    {
+      "id": 30,
+      "model": "료슈2",
+      "content": "Then speed up, Glasses. Gonna bounce as soon as I hear the results."
+    },
+    {
+      "id": 31,
+      "model": "호엔하임",
+      "content": "... Both of you need to learn to respect that things take time. Yes, \"time\" is indeed relative, but the fact that I have managed to complete an in-depth analysis of an item of such mystery in a single day is an incredibly fast turnaround and therefore deserves your appreciation."
+    },
+    {
+      "id": 32,
+      "model": "호엔하임",
+      "content": "I have been attempting to rein in the more self-indulgent part of myself as of late, but I believe this achievement deserves to be elaborated upon; it is an evident truth that such a result could not have been replicable had it not been for my genius brain. Go out to the hallways and grab any passing researcher and tell them about my incredible turnaround time, and you will hear them say, \"Whoa, done already?\" And to that, I will answer—"
+    },
+    {
+      "id": 33,
+      "model": "료슈2",
+      "content": "S.T.F.U."
+    },
+    {
+      "id": 34,
+      "content": "Evidently tired of the two Sinners alternating turns hounding him for results, Hohenheim seemed to speed up the analysis... and managed to hit the finish line much earlier than 20 minutes."
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "Whoa, done already?!"
+    },
+    {
+      "id": 36,
+      "model": "호엔하임",
+      "content": "Yes, there are times when test results are extracted earlier than the predicted timeframe. Many of those instances are easily attributable to my genius at work."
+    },
+    {
+      "id": 37,
+      "model": "료슈2",
+      "content": "... Then why aren't you saying anything? Gimme the T.R., now."
+    },
+    {
+      "id": 38,
+      "model": "호엔하임",
+      "content": "You did tell me to \"shut the fuck up,\" so I am attempting to observe the exact merits of doing precisely that."
+    },
+    {
+      "id": 39,
+      "model": "료슈2",
+      "content": "……."
+    },
+    {
+      "id": 40,
+      "model": "뉴키라",
+      "content": "Ha! Ya think Yoshihide would <i>ever</i> use known acronyms straight?"
+    },
+    {
+      "id": 41,
+      "model": "뉴키라",
+      "content": "What if it's something like, uhm. \"Sheesh, That's a Full-day. Unwind after work, though\"?"
+    },
+    {
+      "id": 42,
+      "model": "호엔하임",
+      "content": "... And your verdict on her interpretation?"
+    },
+    {
+      "id": 43,
+      "model": "료슈",
+      "content": "*puff* ... That is <i>exactly</i> what I meant. She's better than M.T.L. in some ways."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<... How she lies as she breathes.>"
+    },
+    {
+      "id": 45,
+      "content": "At that moment, I might've caught a glimpse of the scabbard rattling slightly atop the examination device."
+    },
+    {
+      "id": 46,
+      "content": "Almost as though it were giggling."
+    },
+    {
+      "id": 47,
+      "model": "호엔하임",
+      "content": "Very well, then I'll get right into it. First, the memory of the time she was complimented for her cooking has been erased."
+    },
+    {
+      "id": 48,
+      "model": "뉴키라",
+      "content": "Huh? That's it?!"
+    },
+    {
+      "id": 49,
+      "model": "호엔하임",
+      "content": "Hardly."
+    },
+    {
+      "id": 50,
+      "model": "호엔하임",
+      "content": "Second... a name has been erased from her memory."
+    },
+    {
+      "id": 51,
+      "model": "호엔하임",
+      "content": "Do you recall the name of the man who works with Manager Saude?"
+    },
+    {
+      "id": 52,
+      "model": "료슈",
+      "content": "... Effie?"
+    },
+    {
+      "id": 53,
+      "model": "호엔하임",
+      "content": "I would have asked in the past tense, had it been him whom I was referring to."
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Glad Miss Saude wasn't here for that..."
+    },
+    {
+      "id": 55,
+      "model": "료슈2",
+      "content": "... That kid. Right, I don't remember his name."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<She forgot... Pilot's name?>"
+    },
+    {
+      "id": 57,
+      "model": "호엔하임",
+      "content": "That she did. Among other miscellaneously deleted memories are 172 hours of Don Quixote's tales of adventures and the types of food she fed to a seagull."
+    },
+    {
+      "id": 58,
+      "model": "돈키호테",
+      "content": "F-fie upon it! Dost thou say that the memories most precious to young Ryōshū and me... have been thrown into utter destruction...?"
+    },
+    {
+      "id": 59,
+      "model": "로쟈",
+      "content": "Look, Donqui, I'm not tryna be mean here, but..."
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "... that seems pretty acceptable, doesn't it...? For the price of unsheathing a sword like that..."
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "If we're going by sheer volume, I wouldn't quite say its mileage is \"acceptable.\" It erased several days' worth of memories just for a single swing, didn't it?"
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "I mean, yeah. But they kinda sound like inconsequential memories, don't they? Greg and Heath forget stuff all the time, how's this any different?"
+    },
+    {
+      "id": 63,
+      "model": "호엔하임",
+      "content": "The seemingly \"inconsequential\" nature of these particular memories weren't achieved by sheer luck."
+    },
+    {
+      "id": 64,
+      "model": "호엔하임",
+      "content": "... In fact, it seems to have been impacted by the scabbard of the Arayashiki—or, to be more precise, the power of Araya's E.G.O."
+    },
+    {
+      "id": 65,
+      "model": "료슈2",
+      "content": "... That so."
+    },
+    {
+      "id": 66,
+      "content": "Ryōshū looked down at the scabbard with an uncertain, hollow look in her eyes."
+    },
+    {
+      "id": 67,
+      "content": "All that remains of Araya in Ryōshū's recollection is a blank space where the fragments of her existence used to be, severed and removed again..."
+    },
+    {
+      "id": 68,
+      "model": "호엔하임",
+      "content": "While it takes a rather significant amount of time, the scabbard seems to be... yes, capable of selecting which of Sinner Ryōshū's memories are to be erased as a cost of using Arayashiki."
+    },
+    {
+      "id": 69,
+      "model": "료슈9장",
+      "content": "Sounds like... I should be grateful, then."
+    },
+    {
+      "id": 70,
+      "content": "... but Ryōshū regards the scabbard with a conflicted look,"
+    },
+    {
+      "id": 71,
+      "content": "as though to approximate the outlines of the void she left behind."
+    },
+    {
+      "id": 72,
+      "model": "뉴키라",
+      "content": "Ooh, so it's got like, a cooldown timer? She can use it whenevs as long as she gives it time to select the trivial memories?"
+    },
+    {
+      "id": 73,
+      "model": "호엔하임",
+      "content": "I wouldn't be so quick to dismiss them as \"trivial.\" The memory of the time when you were complimented for your cooking—it was quite a precious memory, wasn't it?"
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "... You've performed an inverse calculation of the Relic's cost."
+    },
+    {
+      "id": 75,
+      "model": "호엔하임",
+      "content": "Yes. According to our measurements, the sword seems to factor in the \"weight\" of each memory when calculating the cost of wielding it."
+    },
+    {
+      "id": 76,
+      "model": "호엔하임",
+      "content": "It's become rather clear that it takes more than \"light\" memories to properly wield it."
+    },
+    {
+      "id": 77,
+      "model": "호엔하임",
+      "content": "So, have her memories been restored?"
+    },
+    {
+      "id": 78,
+      "model": "파우스트",
+      "content": "As presumed, attempts to recall the erased being's existence have resulted in... failure."
+    },
+    {
+      "id": 79,
+      "model": "호엔하임",
+      "content": "That is... quite discouraging."
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<... But not all is lost.>"
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Simply by knowing that something used to be in that negative space...>"
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<... many things can still be reminisced upon.>"
+    },
+    {
+      "id": 83,
+      "model": "단테",
+      "content": "<Like Ryōshū said. Forgotten but not lost.>"
+    },
+    {
+      "id": 84,
+      "model": "히스클리프",
+      "content": "……."
+    },
+    {
+      "id": 85,
+      "model": "료슈9장",
+      "content": "... Clock."
+    },
+    {
+      "id": 86,
+      "model": "료슈9장",
+      "content": "You've just stepped foot into the world of S.A.N.G.R.I.A."
+    },
+    {
+      "id": 87,
+      "content": "She flashes the briefest of smiles, then scatters it away with a plume of cigarette smoke."
+    },
+    {
+      "id": 88,
+      "model": "료슈2",
+      "content": "... Collecting the G.B. will restore it."
+    },
+    {
+      "id": 89,
+      "model": "료슈",
+      "content": "What used to be here, in the pockets of void in my heart. My one and only..."
+    },
+    {
+      "id": 90,
+      "content": "Ryōshū's gaze traced the invisible, the unperceivable."
+    },
+    {
+      "id": 91,
+      "place": -1,
+      "content": "A few more days passed us by."
+    },
+    {
+      "id": 92,
+      "content": "We didn't spend those days idling—we visited Saude and Pilot in recovery, did a few odd jobs here and there like helping suppress a Distortion containment breach caused by a new LCE hire..."
+    },
+    {
+      "id": 93,
+      "content": "But with all the loose threads tied up, we managed to finally, after so long..."
+    },
+    {
+      "id": 94,
+      "place": "Aboard Mephistopheles",
+      "model": "단테",
+      "content": "<Kinda feels like... we're home again.>"
+    },
+    {
+      "id": 95,
+      "content": "... return to the bus."
+    },
+    {
+      "id": 96,
+      "model": "로쟈",
+      "content": "Hah~! Bus sweet bus! The chair could use a little more cushioning, but there isn't anything like it out there! Hnh!"
+    },
+    {
+      "id": 97,
+      "model": "뉴키라",
+      "content": "Damn, this is your ride? Hella badass..."
+    },
+    {
+      "id": 98,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 99,
+      "model": "카론",
+      "content": "Heh."
+    },
+    {
+      "id": 100,
+      "content": "Between the two individuals, who were looking rather pleased at Kira's astonishment, Hohenheim squeezed through to warn us about some things to watch out for."
+    },
+    {
+      "id": 101,
+      "model": "호엔하임",
+      "content": "I asked Team Leader Alan to set the coordinates somewhere as close as possible to the Nest. Keep driving through the door, and it will bring you right to an empty spot on a highway."
+    },
+    {
+      "id": 102,
+      "model": "호엔하임",
+      "content": "Don't hesitate or hit the brakes, because if by any chance there is a car driving behind you, it will crash into the bus."
+    },
+    {
+      "id": 103,
+      "model": "카론",
+      "content": "Nods."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "So what're you two doin' here on the bus? Decided to join the better team, did ya?"
+    },
+    {
+      "id": 105,
+      "model": "호엔하임",
+      "content": "I must admit to a certain degree of interest in hearing of your exploits, but to accompany you through them is an entirely different matter, isn't it? I'm only here to adjust your coordinates."
+    },
+    {
+      "id": 106,
+      "model": "호엔하임",
+      "content": "... Speaking of which, just how did you manage to escape your confinement?"
+    },
+    {
+      "id": 107,
+      "model": "뉴키라",
+      "content": "I told 'em I had some stuff to help ya with, and they let me out after making me scribble over some docs."
+    },
+    {
+      "id": 108,
+      "model": "뉴키라",
+      "content": "Solitary confinement's hella boring, so I thought I might get some air. Might as well say goodbye too while I'm out and about, right?"
+    },
+    {
+      "id": 109,
+      "model": "호엔하임",
+      "content": "... I see. You exploited the fact that the new hires don't have any grudges against you."
+    },
+    {
+      "id": 110,
+      "model": "호엔하임",
+      "content": "I thought I'd told them to impress upon the new hires that prisoners are to be treated as exceptions to the—ah, right. The person in charge of that training is currently checked into the long-term recovery ward. More problems stemming from the shortage of manpower—I'd best include this in the report."
+    },
+    {
+      "id": 111,
+      "model": "단테",
+      "content": "<Sounds like they're both here to see us go.>"
+    },
+    {
+      "id": 112,
+      "model": "호엔하임",
+      "content": "Well, then... time for a valediction, I suppose."
+    },
+    {
+      "id": 113,
+      "model": "호엔하임",
+      "content": "Hm. Perhaps I've grown far too used to seeing your faces—saying goodbye doesn't come out as easily as I expected it to."
+    },
+    {
+      "id": 114,
+      "model": "이상",
+      "content": "Another day of reunion must await in the future."
+    },
+    {
+      "id": 115,
+      "model": "파우스트",
+      "content": "I would appreciate it if such a reunion had a low probability of occurring."
+    },
+    {
+      "id": 116,
+      "model": "호엔하임",
+      "content": "While I am not very partial to mathematical statistics like the probability theory, I hope your prediction is dead right."
+    },
+    {
+      "id": 117,
+      "model": "호엔하임",
+      "content": "Well, then."
+    },
+    {
+      "id": 118,
+      "model": "뉴키라",
+      "content": "... Hey, Yoshihide."
+    },
+    {
+      "id": 119,
+      "model": "료슈",
+      "content": "What?"
+    },
+    {
+      "id": 120,
+      "model": "뉴키라",
+      "content": "We're... I wouldn't say we're \"family\" exactly, but..."
+    },
+    {
+      "id": 121,
+      "model": "뉴키라",
+      "content": "... Listen, there's a lot of stuff I wanna say to you, and a lot of stuff I wanna hear from you. Okay? So..."
+    },
+    {
+      "id": 122,
+      "model": "뉴키라",
+      "content": "S.Y.L."
+    },
+    {
+      "id": 123,
+      "model": "뉴키라",
+      "content": "Did I do that right?"
+    },
+    {
+      "id": 124,
+      "model": "료슈2",
+      "content": "*puff*"
+    },
+    {
+      "id": 125,
+      "model": "료슈",
+      "content": "Acronymize it into \"L.\""
+    },
+    {
+      "id": 126,
+      "model": "료슈",
+      "content": "And call me Ryōshū, not Yoshihide."
+    },
+    {
+      "id": 127,
+      "model": "료슈",
+      "content": "Prefer the echoes of that name."
+    },
+    {
+      "id": 128,
+      "content": "After a round of goodbyes, the two disembarked from the bus, and..."
+    },
+    {
+      "id": 129,
+      "content": "... no sooner had the machinery clicked into place than the bus’s wheels finally began to turn,"
+    },
+    {
+      "id": 130,
+      "content": "bringing us closer and closer toward a blindingly radiant portal massive enough to engulf the bus whole."
+    },
+    {
+      "id": 131,
+      "content": "Well, off to our next destination, I guess..."
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<... Oh, right. Where are we headed next?>"
+    },
+    {
+      "id": 133,
+      "model": "파우스트",
+      "content": "Dante inquires about the next destination, Vergilius."
+    },
+    {
+      "id": 134,
+      "model": "히스클리프",
+      "content": "Hah! Now that's more like it. Been too bloody long since I heard that question."
+    },
+    {
+      "id": 135,
+      "model": "이스마엘",
+      "content": "Yeah, don't get too excited. When has an answer to that question ever led us to anywhere that's not downright bizarre?"
+    },
+    {
+      "id": 136,
+      "content": "Vergilius gave me a faint, knowing smile as though to confirm Ishmael's pessimistic remark, then delivered a comment that sounded too light-hearted for its gravity."
+    },
+    {
+      "id": 137,
+      "model": "베르길리우스",
+      "content": "Hm. \"Downright bizarre,\" is it? ... Well, let me just say that it's high time we faced such a sight."
+    },
+    {
+      "id": 138,
+      "model": "베르길리우스",
+      "content": "Our next destination is District 14."
+    },
+    {
+      "id": 139,
+      "model": "베르길리우스",
+      "content": "In other words, Manager Dante, we are now en route to N Corp."
+    },
+    {
+      "id": 140,
+      "teller": "Sinners",
+      "title": "LCB",
+      "content": "......."
+    },
+    {
+      "id": 141,
+      "model": "싱클레어",
+      "content": "So we <i>are</i> going there, after all. N Corp."
+    },
+    {
+      "id": 142,
+      "model": "그레고르",
+      "content": "... Plenty of faces there I'd rather not see."
+    },
+    {
+      "id": 143,
+      "content": "As the rest of the Sinners voiced their various gripes and discontent with N Corp.,"
+    },
+    {
+      "id": 144,
+      "content": "Meursault, who probably had the most amount of history with the Wing, simply flipped open his newspaper like usual and began reading it with the same, unchanging expression."
+    },
+    {
+      "id": 145,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 146,
+      "content": "As though for him, none of this changed anything."
+    },
+    {
+      "id": 147,
+      "model": "카론",
+      "content": "Now departing. Vroom-vroom."
+    },
+    {
+      "id": 148,
+      "content": "With that, the bus resumed its journey to a yet another tale."
+    }
+  ]
+}

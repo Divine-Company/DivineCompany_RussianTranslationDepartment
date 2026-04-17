@@ -455,6 +455,10 @@
     {
       "id": "GiveRandomNegativeSinbuffOnRoundStart",
       "desc": "Turn Start: Gain {0} Potency randomly among Burn, Bleed, Tremor, Rupture, and Sinking"
+    },
+    {
+      "id": "MD7LimitMpAdjuster",
+      "desc": "Turn Start: Heal {0} SP\n- If all Skills are Minus Coin Skills, lose {1} SP instead"
     }
   ]
 }

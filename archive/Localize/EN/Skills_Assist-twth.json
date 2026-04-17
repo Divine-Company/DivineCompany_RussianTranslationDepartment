@@ -1,0 +1,253 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time for Some Warm-up!",
+          "desc": "If target has 3+ ([Combustion] + [Laceration]), Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal 3 Blunt bonus damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal 3 Blunt bonus damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 3 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Binding] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Totally Badass Ass-kicking",
+          "desc": "If target has 3+ ([Combustion] + [Laceration]), Final Power +2\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Laceration] On Coin Hit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At 3+ [ResentmentSpiderDaughterTwo], Reuse this Coin 3 times"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Disemboweling!",
+          "desc": "Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit\n[EndSkill] At 3+ [ResentmentSpiderDaughterTwo], gain 1 [VioletDamageUp] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crossing Dervish!",
+          "desc": "Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 2 [Binding] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violet~ Breaking Slam!",
+          "desc": "Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nIf target has 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict +1 [Laceration] Count On Coin Hit\n[WhenUse] At 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], deal +60% damage\n[WhenUse] At 2+ [ResentmentSpiderDaughterTwo], 50% chance to inflict 1 [Paralysis] On Coin Hit\n[EndSkill] Consume all [ResentmentSpiderDaughterTwo] on self",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Get You Back for This...!",
+          "desc": "Thermal Blade Skill. \nWhen in [HeatingWireOnSpiderTwo] state, this Skill activates its Thermal Blade effects\nWhen hit, Reuse this Skill once for every [ReinforcedTattooSpiderDaughterTwo] on self (max 2 times)\n[WhenUse] If this unit has [ReinforcedTattooSpiderDaughterTwo], inflict 1 [Laceration] On Coin Hit\n[WhenUse] At 40%- HP or 2+ [ReinforcedTattooSpiderDaughterTwo], deal +40% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

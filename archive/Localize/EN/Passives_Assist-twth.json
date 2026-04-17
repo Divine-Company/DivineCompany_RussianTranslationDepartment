@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "name": "Thermal Weapon",
+      "desc": "Begins Encounter with [HeatingWireOffSpider]\n\nTurn Start: At 2+ [ReinforcedTattooSpiderDaughterTwo], gain [HeatingWireOnSpiderTwo] and also inflict [Combustion] with Skills that inflict [Laceration]"
+    },
+    {
+      "id": 40003702,
+      "name": "<s>The Middle</s>",
+      "desc": "If this unit hit with more than 2 Skills, gain 1 [ReinforcedTattooSpiderDaughterTwo] for every excess Skill that hit"
+    },
+    {
+      "id": 40003703,
+      "name": "Resentment",
+      "desc": "When hit by a Skill, gain 2 [ResentmentSpiderDaughterTwo] (once per Skill)\n\nWhen an ally is hit, gain 1 [ResentmentSpiderDaughterTwo] (once per Skill)\n\nAt max [ResentmentSpiderDaughterTwo] Stack, use a powerful attack\n\nTurn End: At less than 80% / 60% / 40% HP, max out this unit's [ResentmentSpiderDaughterTwo] Stack"
+    }
+  ]
+}

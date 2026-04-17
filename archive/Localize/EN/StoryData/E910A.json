@@ -1,0 +1,88 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Rien's Dungeon, Past",
+      "model": "소지아비",
+      "teller": "Araya",
+      "title": "The House of Spiders",
+      "content": "What's... up there?"
+    },
+    {
+      "id": 1,
+      "model": "검지아비",
+      "content": "... You may speak to me casually, Araya. But..."
+    },
+    {
+      "id": 2,
+      "model": "검지아비",
+      "content": "... in the presence of other Apprentices, perhaps you should find it preferable to mimic the tone of the Dihui Star."
+    },
+    {
+      "id": 3,
+      "model": "소지아비",
+      "teller": "Araya",
+      "title": "The House of Spiders",
+      "content": "... C'mon. It's not like I wanted to be Dihui Star. Just lemme do whatever I want while I'm here."
+    },
+    {
+      "id": 4,
+      "model": "검지아비",
+      "content": "Certainly. You have a point."
+    },
+    {
+      "id": 5,
+      "model": "소지아비",
+      "teller": "Araya",
+      "title": "The House of Spiders",
+      "content": "So what's there... up the stairs?"
+    },
+    {
+      "id": 6,
+      "model": "검지아비",
+      "content": "Hm. I'm not sure myself."
+    },
+    {
+      "id": 7,
+      "model": "검지아비",
+      "content": "I've never been upstairs."
+    },
+    {
+      "id": 8,
+      "model": "소지아비",
+      "teller": "Araya",
+      "title": "The House of Spiders",
+      "content": "Aren't you even a lil curious?"
+    },
+    {
+      "id": 9,
+      "model": "검지아비",
+      "content": "... Why bother peeling back the heavens to see what is beyond?"
+    },
+    {
+      "id": 10,
+      "model": "검지아비",
+      "content": "Those wanting of yearning needn't raise their heads skyward."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Am I seeing... Araya's memories?>"
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "Clock, what did you see?"
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<I'm not sure. But...>"
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<... now we've got another reason to check what's upstairs.>"
+    }
+  ]
+}

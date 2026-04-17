@@ -2051,9 +2051,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Deal 7 SP damage"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Heal 10% HP"
                 }
               ]
             }
@@ -2147,9 +2144,6 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Deal 5 SP damage"
-                },
-                {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Heal 10% HP"
                 }
               ]
             }

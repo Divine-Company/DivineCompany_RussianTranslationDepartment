@@ -110,7 +110,7 @@
     {
       "id": "MD7Limit111",
       "name": "Psychological Elation",
-      "desc": "Turn Start: All enemies heal 20 SP"
+      "desc": "Turn Start: Heal 20 SP for all enemies\n- (Minus Coin Skills-only enemies lose 15 SP instead)"
     },
     {
       "id": "MD7Limit121",
@@ -126,6 +126,16 @@
       "id": "MD7Limit141",
       "name": "Status Infliction",
       "desc": "Turn Start: Inflict 5 Potency of a random status, chosen from Burn, Bleed, Tremor, Rupture, and Sinking, on all allies(Identities)"
+    },
+    {
+      "id": "RingFingerPhysical",
+      "name": "Beauty of the Physique",
+      "desc": "- Against enemies that have 20+ Bleed, Base Skills gain Coin Power +1 and deal +20% damage (calculated as the sum of Bleed on all targets for Skills that have 2+ Atk Weight)\n- Base Skills that consume 'Unique Charge' gain Coin Power +1 (excluding E.G.O Skills)\n- Turn End: This effect expires"
+    },
+    {
+      "id": "RingFingerFauvism",
+      "name": "Charm of the Beastly",
+      "desc": "- Against enemies that have 20+ Bleed, Base Skills gain Coin Power +1 and deal +20% damage (calculated as the sum of Bleed on all targets for Skills that have 2+ Atk Weight)\n- On Attack Start, if target has 15- SP or 20+ Sinking Potency, gain 1 Blunt Power Up next turn (once per turn)\n- Turn End: This effect expires"
     }
   ]
 }

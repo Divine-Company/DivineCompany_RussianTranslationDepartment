@@ -369,14 +369,14 @@
     {
       "id": "Cubism_LowMorale",
       "name": "Outmoded Art",
-      "desc": "- Low Morale\n- Turn Start: Lose 5 HP and gain 1 Offense Level Up",
+      "desc": "- Low Morale\n- Turn Start: Gain 1 Offense Level Up",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Cubism_Panic",
       "name": "Outmoded Art",
-      "desc": "- Panic\n- Turn Start: Lose 5 HP and gain 1 Offense Level Up",
+      "desc": "- Panic\n- Turn Start: Gain 2 Offense Level Up",
       "summary": "",
       "undefined": "-"
     },
