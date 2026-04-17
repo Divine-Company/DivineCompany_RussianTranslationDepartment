@@ -2,7 +2,7 @@
   "dataList": [
     {
       "id": "night_clean_up_stage_button_default",
-      "content": "Stages"
+      "content": "Этапы"
     },
     {
       "id": "night_clean_up_stage_button_locked",
@@ -38,7 +38,7 @@
     },
     {
       "id": "nightcleanup_reward_popup_desc",
-      "content": "Earn <color=#e50000>[Sweeper Fuel Cylinder]</color> via the following methods:\nEvent Stage clears, Mirror Dungeon clears,\nand Main Story Stage first-time clears.\n\nIn the <color=#e50000>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#e50000>[Sweeper Fuel Cylinder]</color> you have collected."
+      "content": "Earn <color=#e50000>[Sweeper Fuel Cylinder]</color> via the following methods:\nEvent Stage clears, Mirror Dungeon clears,\nand Main Story Stage first-time clears.\n\nIn the <color=#e50000>[Обмен наград]</color> window, you can purchase various rewards\nby spending <color=#e50000>[Sweeper Fuel Cylinder]</color> you have collected."
     },
     {
       "id": "nightCleanUp_reward_popup_num_of_owned_items",
@@ -46,7 +46,7 @@
     },
     {
       "id": "night_clean_up_rewardShopButton",
-      "content": "Reward Exchange"
+      "content": "Обмен наград"
     }
   ]
 }

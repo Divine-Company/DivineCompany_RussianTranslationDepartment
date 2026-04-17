@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "twining_threads_stage_button_default",
-      "content": "Stages"
+      "content": "Этапы"
     },
     {
       "id": "twining_threads_stage_button_locked",
-      "content": "Clear Canto IX to Unlock"
+      "content": "Пройдите 9-ю Песнь чтобы открыть"
     },
     {
       "id": "twining_threads_storybutton_default",
-      "content": "To Theater"
+      "content": "История"
     },
     {
       "id": "twining_threads_storybutton_start",
@@ -18,7 +18,7 @@
     },
     {
       "id": "twining_threads_stage_button_end_event",
-      "content": "Event Closed"
+      "content": "Событие закончилось"
     },
     {
       "id": "twining_threads_bonus_popup_title",
@@ -38,7 +38,7 @@
     },
     {
       "id": "twining_threads_reward_popup_desc",
-      "content": "Earn <color=#eeeeee>[Severed Thread]</color> via the following methods:\nFirst-time Event Stage & Main Story Stage clears and Mirror Dungeon clears.\n\nIn the <color=#eeeeee>[Reward Exchange]</color> window, you can purchase various rewards\nby spending <color=#eeeeee>[Severed Thread]</color> you have collected."
+      "content": "Earn <color=#eeeeee>[Severed Thread]</color> via the following methods:\nFirst-time Event Stage & Main Story Stage clears and Mirror Dungeon clears.\n\nIn the <color=#eeeeee>[Обмен наград]</color> window, you can purchase various rewards\nby spending <color=#eeeeee>[Severed Thread]</color> you have collected."
     },
     {
       "id": "twining_threads_reward_popup_num_of_owned_items",
@@ -46,7 +46,7 @@
     },
     {
       "id": "twining_threads_rewardShopButton",
-      "content": "Reward Exchange"
+      "content": "Обмен наград"
     }
   ]
 }
