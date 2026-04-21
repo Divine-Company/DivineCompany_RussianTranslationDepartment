@@ -1,1475 +1,1475 @@
 {
   "dataList": [
-    {
-      "id": "battle_speechbubble_cromer_1",
-      "desc": "말풍선 특수 대사_크로머",
-      "dlg": "Aah... Could it... You're...\nMy Sinclair...?"
-    },
-    {
-      "id": "battle_speechbubble_10808_1",
-      "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
-      "dlg": "All my fault, you say...? What fault?\nI daresay it's all thanks to me."
-    },
-    {
-      "id": "battle_speechbubble_10408_1",
-      "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
-      "dlg": "S.A.D.\nYou're a failure of a Chief Butler."
-    },
-    {
-      "id": "battle_react_10710_1",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Quite the pathetic reception!"
-    },
-    {
-      "id": "battle_react_10710_2",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "... I'll gouge out your\ncontemptuous eyes."
-    },
-    {
-      "id": "battle_react_10710_3",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Do you still fail to understand?\nThat you... are nothing but prey!"
-    },
-    {
-      "id": "battle_react_10710_4",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "A soaking wet mutt, are you now?\nOh, does this not remind you of\nthe day I took your place?! HAHAHAHA!"
-    },
-    {
-      "id": "battle_react_10710_5",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Hmph, how dare you glorified\ndishwashers bare your knives at me?"
-    },
-    {
-      "id": "battle_react_10710_6",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "Catherine...?! It's me, Heathcliff...!\nPlease, embrace me once again!!!"
-    },
-    {
-      "id": "battle_react_10710_7",
-      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
-      "dlg": "It matters not what kind of Heathcliff you are!\nI shall embrace every Catherine mine!!!"
-    },
-    {
-      "id": "battle_react_10310_10",
-      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "... You gave up your dream for the Family? \nYou, who preached about your\ndream with every breath...?"
-    },
-    {
-      "id": "battle_react_10310_11",
-      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "No... she is not like my sister."
-    },
-    {
-      "id": "battle_react_10310_12",
-      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as well, I suppose..."
-    },
-    {
-      "id": "battle_react_10310_13",
-      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
-      "dlg": "Those wounds... the Priest of this world\nmust be just as haunted by guilt."
-    },
-    {
-      "id": "battle_1137_FirstKill",
-      "desc": "말풍선 특수 대사_가치우_첫킬",
-      "dlg": "I expect you to fight to your deaths in this\ncrucial struggle, reversible as they may be."
-    },
-    {
-      "id": "8SV-015",
-      "desc": "가치우사용 시 대사 ",
-      "dlg": "Unearth it."
-    },
-    {
-      "id": "8SV-016",
-      "desc": "가치우홍루 강제 타겟팅 1",
-      "dlg": "It must lie there still, shrouded it may be."
-    },
-    {
-      "id": "8SV-017",
-      "desc": "가치우홍루 강제 타겟팅 2",
-      "dlg": "Shall it remain buried still?"
-    },
-    {
-      "id": "8SV-018",
-      "desc": "가치우홍루 강제 타겟팅 합 패배",
-      "dlg": "Demonstrate to me your will."
-    },
-    {
-      "id": "8SV-019",
-      "desc": "가치우홍루 강제 타겟팅 합 승리",
-      "dlg": "The mass of pain within your heart... is difficult to untangle."
-    },
-    {
-      "id": "8SV-020",
-      "desc": "가치우광역기 사용시",
-      "dlg": "Is it your companions who hold your tongue?\nThen... perhaps they must be shaken afore\nyou are to speak your truth."
-    },
-    {
-      "id": "8SV-021",
-      "desc": "가치우광역기  합 패배 후 다음턴",
-      "dlg": "Do not fear the futility. There will be time for that once you have spoken your mind."
-    },
-    {
-      "id": "8SV-022",
-      "desc": "가치우대상 처치시",
-      "dlg": "Rest awhile... until the clock turns."
-    },
-    {
-      "id": "8SV-023",
-      "desc": "가치우묘 부리기",
-      "dlg": "Cut them Down, Mao."
-    },
-    {
-      "id": "8SV-024",
-      "desc": "가치우자로 소환",
-      "dlg": "Heed Me, Zilu."
-    },
-    {
-      "id": "8SV-025",
-      "desc": "뇌횡",
-      "dlg": "Huh... y'all ain't half bad!\nKeep makin' it worth my bullet fees!"
-    },
-    {
-      "id": "8SV-026",
-      "desc": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
-      "dlg": "Eyes up here, boys!\nDon'tcha go losin' yer heads now!"
-    },
-    {
-      "id": "8SV-027",
-      "desc": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
-      "dlg": "Hwell, what's this? Manageable so far?"
-    },
-    {
-      "id": "8SV-028",
-      "desc": "뇌횡턴 시작 : 매우 강력한 스킬",
-      "dlg": "I'maboutta drop somethin' big on y'all!\nDon't let it kill y'all now and spoil the fun!"
-    },
-    {
-      "id": "8SV-029",
-      "desc": "뇌횡합 승리 : 매우 강력한 스킬",
-      "dlg": "Aw heck, don't tell me\ny'all are tuckered out already!"
-    },
-    {
-      "id": "8SV-030",
-      "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
-      "dlg": "That's more like it.\nY'all are firin' me up!"
-    },
-    {
-      "id": "8SV-031",
-      "desc": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
-      "dlg": "Y'all don't go on huntin' tigers without preparin'\nyerselves to get chomped 'tween one of them jaws!"
-    },
-    {
-      "id": "8SV-032",
-      "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
-      "dlg": "Can't leave a dance unfinished.\nAin't that right?"
-    },
-    {
-      "id": "8SV-034",
-      "desc": "가환E.G.O 침식률 n 이상",
-      "dlg": "Can't waste any more time on these...\n... sickening, revolting insects."
-    },
-    {
-      "id": "8SV-035",
-      "desc": "가환홍루메인타겟",
-      "dlg": "Don’t pretend you’ve changed.\nYou’re still the same trash you were back then... scum!"
-    },
-    {
-      "id": "8SV-036",
-      "desc": "가환경멸나선모드",
-      "dlg": "... Is this also the E.G.O's power?"
-    },
-    {
-      "id": "8SV-037",
-      "desc": "가환광역기사용시",
-      "dlg": "Behold! This contempt!\nIt rains down upon the disgusting filth!"
-    },
-    {
-      "id": "8SV-038",
-      "desc": "가환전투시작 : n인이상이 자신을 타겟",
-      "dlg": "Foolishness."
-    },
-    {
-      "id": "8SV-039",
-      "desc": "구보E.G.O 침식률 10 이상",
-      "dlg": "You have taken a glimpse of yesterday's spring.\nA memory rarely availed to even myself."
-    },
-    {
-      "id": "8SV-040",
-      "desc": "구보난사 패턴 진입",
-      "dlg": "Do not let your past ties ruin your judgment.\nIt makes me want to blast them all away."
-    },
-    {
-      "id": "8SV-041",
-      "desc": "구보아군 살해 패턴 진입",
-      "dlg": "Sacrifices are necessary\nin pursuit of the greater cause."
-    },
-    {
-      "id": "8SV-042",
-      "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
-      "dlg": "... Whew. That worked."
-    },
-    {
-      "id": "8SV-051",
-      "desc": "가모사용 시 : 홍루 가두기",
-      "dlg": "Fulfill your worth!"
-    },
-    {
-      "id": "8SV-052",
-      "desc": "가모사용 시 : 홍루 가두기 실패",
-      "dlg": "You dare!"
-    },
-    {
-      "id": "8SV-053",
-      "desc": "가모턴 시작 : 보옥 생성",
-      "dlg": "Oh, revered Xianren! Shi Miyin brought the gem back!\nThe pretty gem that'll make Hongyuan all beautiful again…!"
-    },
-    {
-      "id": "8SV-054",
-      "desc": "가모턴 시작 : 보옥 파괴",
-      "dlg": "Blasphemous transgressors!\nOutsiders shall not covet the treasure of Daguanyuan!"
-    },
-    {
-      "id": "8SV-055",
-      "desc": "가모사용 시 : 버프 받기",
-      "dlg": "You favor me, don't you?\nI knew you would, dear Xianhuang Worm!"
-    },
-    {
-      "id": "8SV-056",
-      "desc": "가모가마 체력 0",
-      "dlg": "NO!!!!!!"
-    },
-    {
-      "id": "8SV-057",
-      "desc": "가모사용 시 : 어르신 나무 소환",
-      "dlg": "All the wisdom of Hongyuan...\nGive it to me, give it to Miyin...!"
-    },
-    {
-      "id": "8SV-058",
-      "desc": "가모사용 시 : 어르신 나무 흡수",
-      "dlg": "Be one with the fathomless history of Hongyuan!"
-    },
-    {
-      "id": "8SV-059",
-      "desc": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
-      "dlg": "We have transcended the yoke of life and death...\nThus, Hongyuan shall shine for all eternity as well!"
-    },
-    {
-      "id": "8SV-060",
-      "desc": "가모턴 시작 : 지고한 불사 흐트러짐",
-      "dlg": "Ahh... What a shameful failure of duties this is..."
-    },
-    {
-      "id": "8SV-061",
-      "desc": "가모사용 시 : 강한 광역기",
-      "dlg": "You will obey us!"
-    },
-    {
-      "id": "6SV-018-02",
-      "desc": "증오의 여왕 피격",
-      "dlg": "Ow...!"
-    },
-    {
-      "id": "6SV-019-003",
-      "desc": "증오의 여왕 타격",
-      "dlg": "With Love!"
-    },
-    {
-      "id": "6SV-019-004",
-      "desc": "증오의 여왕 타격",
-      "dlg": "In the Name of Justice!"
-    },
-    {
-      "id": "6SV-020-001",
-      "desc": "증오의 여왕 타격",
-      "dlg": "Arcana Beats!"
-    },
-    {
-      "id": "6SV-020-001-01",
-      "desc": "증오의 여왕 타격",
-      "dlg": "Arcana Beats~!"
-    },
-    {
-      "id": "6SV-020-002",
-      "desc": "증오의 여왕 타격",
-      "dlg": "Disappear~"
-    },
-    {
-      "id": "6SV-021",
-      "desc": "증오의 여왕 첫 등장",
-      "dlg": "In the name of Love and Justice~ Here comes Magical Girl!"
-    },
-    {
-      "id": "6SV-022",
-      "desc": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
-      "dlg": "So you’ve been consumed too, senpai… Can this cycle really not be stopped?"
-    },
-    {
-      "id": "6SV-023",
-      "desc": "아르카나 슬레이브 차징 시작 시",
-      "dlg": "Heed me, thou that are more azure than justice and more crimson than love…"
-    },
-    {
-      "id": "6SV-024",
-      "desc": "아르카나 슬레이브 차징 중",
-      "dlg": "In the name of those buried in destiny, I shall make this oath to the light."
-    },
-    {
-      "id": "6SV-025",
-      "desc": "아르카나 슬레이브 차징 중",
-      "dlg": "Mark the hateful beings who stand before us;\nlet your strength merge with mine, \nso that we may deliver the power of love to all!"
-    },
-    {
-      "id": "6SV-026",
-      "desc": "아르카나 슬레이브 발사 스킬 사용",
-      "dlg": "<i>ARCANA SLAVE!</i>"
-    },
-    {
-      "id": "6SV-027",
-      "desc": "제압 완료 후 퇴각 대사",
-      "dlg": "You've... been suppressing it as much as you could..."
-    },
-    {
-      "id": "6SV-028",
-      "desc": "완전 제압 X, 아르카나 슬레이브 발사 후",
-      "dlg": "Huff, puff, puff... Did... did we get her?!"
-    },
-    {
-      "id": "6SV-029",
-      "desc": "빈사 퇴각",
-      "dlg": "I swore I would... protect everyone... to the end…"
-    },
-    {
-      "id": "6SV-001_1",
-      "desc": "시간살인마 피격1",
-      "dlg": "Ow, that hurts!"
-    },
-    {
-      "id": "6SV-001_2",
-      "desc": "시간살인마 피격2",
-      "dlg": "\"Couldn't you have dodged that, you oaf?!\""
-    },
-    {
-      "id": "6SV-001_3-03",
-      "desc": "시간살인마 피격4",
-      "dlg": "Oh!\n\"Blimey...\""
-    },
-    {
-      "id": "6SV-002_2",
-      "desc": "시간살인마 공격1",
-      "dlg": "We'll rip you up."
-    },
-    {
-      "id": "6SV-002_3",
-      "desc": "시간살인마 공격3",
-      "dlg": "You were going to kill that time anyway."
-    },
-    {
-      "id": "6SV-003_1",
-      "desc": "시간살인마 첫 등장",
-      "dlg": "We can't rip their time...?\n\"You bloody fool!\"\n\"We've been had!\""
-    },
-    {
-      "id": "6SV-004_1",
-      "desc": "시간살인마 재 등장",
-      "dlg": "We reap the dying hours.\n\"You've plenty o' time! Give it!\"\n\"Let's sever 500... no, 2000 hours.\"\n\"Get a grip, you muppet!\""
-    },
-    {
-      "id": "6SV-005_1",
-      "desc": "시간살인마 2페이즈",
-      "dlg": "\"Damn... let's end this.\"\n\"You're taking too much time from us...!\"\nThe benefits will outweigh the costs. Calm down."
-    },
-    {
-      "id": "6SV-006_1",
-      "desc": "시간살인마 시간 살인 시간 사용전",
-      "dlg": "We have no choice but to use it.\n\"Make sure your arithmetics are correct. Equal hours from everyone!\""
-    },
-    {
-      "id": "6SV-007",
-      "desc": "시간살인마 시간 살인 시간 사용",
-      "dlg": "We'll... cut you up."
-    },
-    {
-      "id": "6SV-008",
-      "desc": "시간살인마 시간 살인 시간 사용후",
-      "dlg": "Shut— Shut up! We're infighting...! This is a waste of time!"
-    },
-    {
-      "id": "battle_react_noVoice_10613_1",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_사화정",
-      "dlg": "I don't recall this candidate... Hm, all kinds of sorry churls seem to vie for the seat of the Hierarch in this place they call a mirror world."
-    },
-    {
-      "id": "battle_react_noVoice_10613_2",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
-      "dlg": "This is no place for something so insignificant as family. You, who are causeless and hollow of vision toward Hongyuan, do not belong here."
-    },
-    {
-      "id": "battle_react_noVoice_10613_3",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_사사정",
-      "dlg": "Benighted is this fool. One need not coerce others to lay down their lives, for the pursuit of a great cause naturally begets those who would gladly brave death itself."
-    },
-    {
-      "id": "battle_react_noVoice_10613_4",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_설반",
-      "dlg": "For all that disinclination toward violence, you seem to have a passing talent for it nonetheless. Even a pathetic craven becomes... a madman when swept up by the flow."
-    },
-    {
-      "id": "battle_react_noVoice_10613_5",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
-      "dlg": "Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
-    },
-    {
-      "id": "battle_react_10613_6",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
-      "dlg": "Ha... ha ha! I shall always welcome another opportunity to cut down these ancient demons who have been seduced by immortality!"
-    },
-    {
-      "id": "battle_react_10613_7",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
-      "dlg": "Keep twisting in that filth, Shi Miyin... It'll only enhance the taste of happiness, wrath, sorrow, and joy when I cleave into you!"
-    },
-    {
-      "id": "battle_react_10613_8",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
-      "dlg": "I never thought I'd ever see you in Hongyuan again, big brother... Fuhu, so in this world, you managed to survive. You seem to be carving out your own path much like myself."
-    },
-    {
-      "id": "battle_react_10613_9",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
-      "dlg": "Phew... okay, fine. Then...\nAs the Lord of Hongyuan, I hereby grant you audience."
-    },
-    {
-      "id": "battle_react_10613_10",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가환",
-      "dlg": "Avenging Jia Huan shouldn't affect you this much now, should it...? When did this revolting display of belated melodrama replace your advocacy for the cold and calculating pragmatism you had discussed before me?"
-    },
-    {
-      "id": "battle_react_10613_701",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
-      "dlg": "Never did I let this sickening cradle imprison me, and that will not change today! Never!"
-    },
-    {
-      "id": "battle_react_10613_901",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
-      "dlg": "Fascinating. Why was I not told that such interesting dialogues could be had with him in this world?"
-    },
-    {
-      "id": "battle_react_10613_902",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
-      "dlg": "You assert that education of humanity and propriety is what cleanses the years of fell deeds? The first step seems to have eluded you: absolutely pulverize the fell deeds. Only then shall humanity and propriety have any significance."
-    },
-    {
-      "id": "battle_react_10613_903",
-      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
-      "dlg": "Evil must be mercilessly wrested from their roots(除惡務盡 斬草除根). The path I have chosen as the Lord of Hongyuan is a path unburdened by the need to seek understanding from others. Thus, big brother—no, Jia Qiu, this dialogue has met an impasse."
-    },
-    {
-      "id": "battle_react_10310_1-1",
-      "desc": "Hardblood I Gain",
-      "dlg": "Текущая кровь..."
-    },
-    {
-      "id": "battle_react_10310_1-2",
-      "desc": "Hardblood II Gain",
-      "dlg": "Горячая кровь..."
-    },
-    {
-      "id": "battle_react_10310_1-3",
-      "desc": "Hardblood III Gain",
-      "dlg": "Кровь... брызжущая чувствами."
-    },
-    {
-      "id": "battle_react_10310_2",
-      "desc": "Variant Sancho Hardblood Arts: Empower Skill 3",
-      "dlg": "В изготовлении оружия я давно превзошла моего Отца."
-    },
-    {
-      "id": "battle_react_10310_3-4",
-      "desc": "Variant Sancho Hardblood Arts 6 - Whip: First coin",
-      "dlg": "Вариация Санчо, Техника застывшей крови № 6..."
-    },
-    {
-      "id": "battle_react_10310_3-4-1",
-      "desc": "Variant Sancho Hardblood Arts 6 - Whip: Final coin",
-      "dlg": "«Порвать на части»!"
-    },
-    {
-      "id": "battle_react_10310_4-4",
-      "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: First coin",
-      "dlg": "Вариация Санчо, Техника застывшей крови № 8..."
-    },
-    {
-      "id": "battle_react_10310_4-4-1",
-      "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: Final coin",
-      "dlg": "«Разрезать на куски»!"
-    },
-    {
-      "id": "battle_react_10310_5-2",
-      "desc": "Ascendant Sancho Hardblood Arts - La Sangre: First coin",
-      "dlg": "Санчо, Возвышенная Техника застывшей крови... «La Sangre»."
-    },
-    {
-      "id": "battle_react_10310_5-2-1",
-      "desc": "Ascendant Sancho Hardblood Arts - La Sangre: Final coin",
-      "dlg": "Пора с этим кончать."
-    },
-    {
-      "id": "battle_react_10310_6-4",
-      "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: First coin",
-      "dlg": "Техника застывшей крови № 15..."
-    },
-    {
-      "id": "battle_react_10310_6-4-1",
-      "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: Final coin",
-      "dlg": "«Приготовления к финалу»!"
-    },
-    {
-      "id": "battle_react_10310_7",
-      "desc": "Trio's Enhanced Skills Ready",
-      "dlg": "При помощи вашего оружия... я доведу эту кровавую бойню до победного конца."
-    },
-    {
-      "id": "battle_react_10310_8-1",
-      "desc": "Death while Barber Outis Present",
-      "dlg": "Цирюльник... ты становишься за главного в нашей Семье. "
-    },
-    {
-      "id": "battle_react_10310_8-2",
-      "desc": "Death while Priest Gregor Present",
-      "dlg": "Священник... ты становишься за главного в нашей Семье."
-    },
-    {
-      "id": "battle_react_10310_8-3",
-      "desc": "Death while Princess Rodion Present",
-      "dlg": "Моя единственная сестра... ты становишься за главного в нашей Семье."
-    },
-    {
-      "id": "battle_react_10310_9",
-      "desc": "Staggered while Bloodfiends are deployed",
-      "dlg": "Всё внимание на пиршество перед взором."
-    },
-    {
-      "id": "battle_s2_10310_1_3",
-      "desc": "Let All Blossom Free",
-      "dlg": "Преклонитесь."
-    },
-    {
-      "id": "battle_s2_10310_1_3-01",
-      "desc": "Let All Blossom Free",
-      "dlg": "Преклонитесь."
-    },
-    {
-      "id": "battle_s3_10310_1_3",
-      "desc": "Shall Impale",
-      "dlg": "Пусть оно тебя пронзит!"
-    },
-    {
-      "id": "battle_s3_10310_1_3-01",
-      "desc": "Shall Impale",
-      "dlg": "Пусть оно тебя пронзит!"
-    },
-    {
-      "id": "battle_s0_10309_1",
-      "desc": "I Shall Summon the Time",
-      "dlg": "Приступаю к изъятию времени."
-    },
-    {
-      "id": "battle_s3_10309_1_3-02",
-      "desc": "I Command Thee, Halt! (Borrowed Time)",
-      "dlg": "Разгон!"
-    },
-    {
-      "id": "battle_s3_10211_0",
-      "desc": "Drawn by Flame: First coin",
-      "dlg": "Неукротимо..."
-    },
-    {
-      "id": "battle_s3_10211_0-1",
-      "desc": "Drawn by Flame: Final coin",
-      "dlg": "Пылай."
-    },
-    {
-      "id": "battle_s3_10211_1_1",
-      "desc": "Drawn by Flame: First coin",
-      "dlg": "Неукротимо..."
-    },
-    {
-      "id": "battle_s3_10211_1_2-01",
-      "desc": "Drawn by Flame: Final coin",
-      "dlg": "Пылай."
-    },
-    {
-      "id": "battle_s3_10211_1_1-02",
-      "desc": "Drawn by Flame (20-29 Burn on Self): First coin",
-      "dlg": "Неукротимо..."
-    },
-    {
-      "id": "battle_s3_10211_1_2-02",
-      "desc": "Drawn by Flame (20-29 Burn on Self): Final coin",
-      "dlg": "Пылай!"
-    },
-    {
-      "id": "battle_s3_10211_1_3-02",
-      "desc": "A.B.S. Max Attunement [Degraded Corrosion]: First coin",
-      "dlg": "Словно мотылёк..."
-    },
-    {
-      "id": "battle_s3_10211_1_4-02",
-      "desc": "A.B.S. Max Attunement [Degraded Corrosion]: Final coin",
-      "dlg": "В сверкающее пламя!"
-    },
-    {
-      "id": "battle_s3_10207_1_4-01",
-      "desc": "Unleashed Violence: On kill with final coin",
-      "dlg": "Подавление завершено."
-    },
-    {
-      "id": "battle_s3_10210_1_txt",
-      "desc": "40Y-3 Charge",
-      "dlg": "Максимальная мощность."
-    },
-    {
-      "id": "battle_s3_10204_1_2",
-      "desc": "Execution",
-      "dlg": "Насквозь!"
-    },
-    {
-      "id": "battle_s3_10208_1_1",
-      "desc": "Red Plum Blossoms Scatter: Fist coin",
-      "dlg": "Есть то, что прекрасно."
-    },
-    {
-      "id": "battle_s3_10208_1_3",
-      "desc": "Red Plum Blossoms Scatter: Final coin",
-      "dlg": "И то, что невзрачно."
-    },
-    {
-      "id": "battle_s3_11210_1",
-      "desc": "The Unforgivable Sin (Bloodied Hand I)",
-      "dlg": "Кровь... Кровь!.."
-    },
-    {
-      "id": "battle_s3_11210_1-03",
-      "desc": "The Unforgivable Sin (Bloodied Hand II)",
-      "dlg": "Кровь!.. Кровь!!!"
-    },
-    {
-      "id": "battle_s3_11210_1-02",
-      "desc": "The Unforgivable Sin (Bloodied Hand III)",
-      "dlg": "Кровь!!! КРОВЬ!!!"
-    },
-    {
-      "id": "battle_s3_11205_1_1-01",
-      "desc": "Let's Grind 'Em",
-      "dlg": "Ну что ж!.. "
-    },
-    {
-      "id": "battle_s3_11209_1",
-      "desc": "Nightmare Hunt: First coin",
-      "dlg": "Я нащупал..."
-    },
-    {
-      "id": "battle_s3_11209_2",
-      "desc": "Nightmare Hunt: Final coin",
-      "dlg": "Твою жизненно важную точку! "
-    },
-    {
-      "id": "battle_s2_10710_1_1_txt-01",
-      "desc": "Memorial Procession",
-      "dlg": "Разорву на куски."
-    },
-    {
-      "id": "battle_s3_10710_1_1_txt",
-      "desc": "Reqiuem",
-      "dlg": "Покойся в своих сожалениях!"
-    },
-    {
-      "id": "battle_s3_10710_large_2",
-      "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): First coin",
-      "dlg": "Хоть я не могу тебя запереть..."
-    },
-    {
-      "id": "battle_s3_10710_large_3",
-      "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): Final coin",
-      "dlg": "Я высеку на тебе твои сожаления!"
-    },
-    {
-      "id": "battle_add_10710_1",
-      "desc": "Mount Dullahan",
-      "dlg": "Дуллахан! Пора скакать на смерть."
-    },
-    {
-      "id": "battle_s2_10710_ride_1",
-      "desc": "Memorial Procession: Dullahan",
-      "dlg": "Порви их всех, о Дуллахан!"
-    },
-    {
-      "id": "battle_s3_10710_ride_1",
-      "desc": "Lament, Mourn, and Despair: Final coin heads",
-      "dlg": "Исчезни... вместе с бурей."
-    },
-    {
-      "id": "battle_s3_10710_ride_4",
-      "desc": "Lament, Mourn, and Despair: Final coin tails",
-      "dlg": "Исчезни вместе с бурей!"
-    },
-    {
-      "id": "battle_s3_10710_down_1",
-      "desc": "Dismount Dullahan",
-      "dlg": "Снова один... Мне самому с этим разобраться?"
-    },
-    {
-      "id": "battle_add_10710_2",
-      "desc": "Wildhunt on other IDs",
-      "dlg": "Не ждать тебе упокоения."
-    },
-    {
-      "id": "battle_add_10710_3",
-      "desc": "Wildhunt on Wuthering Heights IDs",
-      "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока твой вопль не заглушит бурю!"
-    },
-    {
-      "id": "battle_s3_10711_1_1",
-      "desc": "Goin' for the Bullseye",
-      "dlg": "Целюсь в яблочко."
-    },
-    {
-      "id": "battle_special_10711_1_1",
-      "desc": "Assist Attack I",
-      "dlg": "Цель на мушке... Стреляю."
-    },
-    {
-      "id": "battle_special_10711_1_2",
-      "desc": "Assist Attack II",
-      "dlg": "Хун Лу, прикрываю."
-    },
-    {
-      "id": "battle_special_10711_2_1",
-      "desc": "Combo: Target Marked I",
-      "dlg": "Окей, цель в прицеле."
-    },
-    {
-      "id": "battle_special_10711_2_1-04",
-      "desc": "Combo: Full-Stop to Life I",
-      "dlg": "Окей, цель в прицеле."
-    },
-    {
-      "id": "battle_special_10711_2_2",
-      "desc": "Combo: Full-Stop to Life II",
-      "dlg": "В сторону!"
-    },
-    {
-      "id": "battle_special_10711_2_3",
-      "desc": "Combo: Target Marked II",
-      "dlg": "Принял. Цель подтверждена."
-    },
-    {
-      "id": "battle_special_10711_3_1-01",
-      "desc": "Evade Melee Support I",
-      "dlg": "Прикрой!"
-    },
-    {
-      "id": "battle_special_10711_3_2",
-      "desc": "Evade Melee Support II",
-      "dlg": "Твой выход, Хун Лу!"
-    },
-    {
-      "id": "battle_special_10711_4_1",
-      "desc": "Retreat",
-      "dlg": "Цк. Я первый отстрелялся..."
-    },
-    {
-      "id": "battle_special_10711_5_1",
-      "desc": "Returning to Battle I",
-      "dlg": "Перезарядился... Готов к бою."
-    },
-    {
-      "id": "battle_special_10711_5_2",
-      "desc": "Returning to Battle II",
-      "dlg": "Смена позиции завершена."
-    },
-    {
-      "id": "battle_s3_10611_1-01",
-      "desc": "Full-Stop to Life: First coin",
-      "dlg": "Я ставлю точку..."
-    },
-    {
-      "id": "battle_s3_10611_1-02-1",
-      "desc": "Full-Stop to Life: Final coin",
-      "dlg": "В твоей жизни!"
-    },
-    {
-      "id": "battle_s3_10611_1-01-1",
-      "desc": "Full-Stop to Life: Middle coin kill",
-      "dlg": "В твоей жизни."
-    },
-    {
-      "id": "battle_special_10611_1_1",
-      "desc": "Target Spotted I",
-      "dlg": "Хитклиф, стреляй!"
-    },
-    {
-      "id": "battle_special_10611_1_2",
-      "desc": "Target Spotted II",
-      "dlg": "Прострел свободен."
-    },
-    {
-      "id": "battle_special_10611_1_3",
-      "desc": "Target Spotted III",
-      "dlg": "Вижу цель, сможешь в неё попасть?"
-    },
-    {
-      "id": "battle_special_10611_2_1-01",
-      "desc": "Combo: Full-Stop to Life",
-      "dlg": "Добивай."
-    },
-    {
-      "id": "battle_special_10611_2_2",
-      "desc": "Combo: Target Marked",
-      "dlg": "Цель на тебе."
-    },
-    {
-      "id": "battle_special_10611_3",
-      "desc": "Melee Support",
-      "dlg": "Ага, сейчас всё будет! "
-    },
-    {
-      "id": "battle_special_10611_3-01",
-      "desc": "Melee Support Fast",
-      "dlg": "Да, сейчас всё будет!"
-    },
-    {
-      "id": "battle_s2_10603_1_3",
-      "desc": "Shank",
-      "dlg": "Так весело!"
-    },
-    {
-      "id": "battle_s3_10609_1_3_4",
-      "desc": "You're the Culprit!",
-      "dlg": "Эта штучка и так может!"
-    },
-    {
-      "id": "battle_s3_10806_1_5",
-      "desc": "Inner Gate Elbow Strike",
-      "dlg": "Теперь я в пепле."
-    },
-    {
-      "id": "battle_s2_10804_1",
-      "desc": "Quake Rounds",
-      "dlg": "Цель подтверждена."
-    },
-    {
-      "id": "battle_s3_10804_1_2",
-      "desc": "Suppress",
-      "dlg": " Цель нейтрализована."
-    },
-    {
-      "id": "battle_s3_10807_1_2",
-      "desc": "Risky Judgement",
-      "dlg": "Я тебя сокрушу!"
-    },
-    {
-      "id": "battle_s3_10504_1_2",
-      "desc": "Annihilate Heretics",
-      "dlg": "Молчать."
-    },
-    {
-      "id": "battle_s3_10508_1_1-01",
-      "desc": "Yield My Flesh",
-      "dlg": "Отдам свою плоть!"
-    },
-    {
-      "id": "battle_s3_10508_1_1-02",
-      "desc": "To Claim Their Bones: First coin",
-      "dlg": "Отдам свою плоть..."
-    },
-    {
-      "id": "battle_s3_10508_1_4",
-      "desc": "To Claim Their Bones: Final coin",
-      "dlg": "Чтобы отнять их кости!.."
-    },
-    {
-      "id": "battle_s3_11111_1_1-01",
-      "desc": "I'll Make You a New Dress!",
-      "dlg": "Я уже предвкушаю..."
-    },
-    {
-      "id": "battle_s3_11108_1_2-1",
-      "desc": "As Mistress Commands: First coin",
-      "dlg": "Я вымету... "
-    },
-    {
-      "id": "battle_s3_11108_1_2-01",
-      "desc": "As Mistress Commands: Final coin",
-      "dlg": "Всю грязь."
-    },
-    {
-      "id": "battle_s2_11103_1",
-      "desc": "Order",
-      "dlg": "В атаку!"
-    },
-    {
-      "id": "battle_s3_11107_1_2",
-      "desc": "Magic Bullet Fire",
-      "dlg": "Огонь."
-    },
-    {
-      "id": "battle_s3_11107_1_2-01",
-      "desc": "Magic Bullet Fire (4+ Bullets)",
-      "dlg": "Огонь!"
-    },
-    {
-      "id": "battle_s2_11107_1_1-01",
-      "desc": "Detonate Magic Bullet",
-      "dlg": "Ещё одна пуля заряжена."
-    },
-    {
-      "id": "battle_s3_11110_1_4",
-      "desc": "Rip Dimension",
-      "dlg": "Разрываю пространство!"
-    },
-    {
-      "id": "battle_s3_11104_1",
-      "desc": "Exploit the Gap",
-      "dlg": "В точности с прогнозом."
-    },
-    {
-      "id": "battle_s3_10911_1_6",
-      "desc": "The Finale",
-      "dlg": "Перейдём к финалу."
-    },
-    {
-      "id": "battle_s3_10903_1_2",
-      "desc": "Suppress",
-      "dlg": "Прорываюсь!"
-    },
-    {
-      "id": "battle_s3_10905_1_2",
-      "desc": "Let's Rack Up The Scores",
-      "dlg": "Получи-ка!.."
-    },
-    {
-      "id": "battle_s3_10908_1_2",
-      "desc": "Pinpoint Blitz",
-      "dlg": "Даже не понимаешь, что тебя уже пронзили."
-    },
-    {
-      "id": "battle_s3_10404_1_1",
-      "desc": "I Can Cook Anything: First coin",
-      "dlg": "М"
-    },
-    {
-      "id": "battle_s3_10404_1_2",
-      "desc": "I Can Cook Anything: Second coin",
-      "dlg": "О"
-    },
-    {
-      "id": "battle_s3_10404_1_3",
-      "desc": "I Can Cook Anything: Third coin",
-      "dlg": "Т"
-    },
-    {
-      "id": "battle_s3_10404_1_4",
-      "desc": "I Can Cook Anything: Final coin",
-      "dlg": "И"
-    },
-    {
-      "id": "battle_s2_10403_1_2",
-      "desc": "Clean Up",
-      "dlg": "Тебе конец."
-    },
-    {
-      "id": "battle_s3_10402_1",
-      "desc": "Swash",
-      "dlg": "Порублю на части."
-    },
-    {
-      "id": "battle_s3_10410_1_txt",
-      "desc": "Skullbuster",
-      "dlg": "Ешь сколько влезет!"
-    },
-    {
-      "id": "battle_s3_10410_1_txt-01",
-      "desc": "Serious Skullbuster",
-      "dlg": "Время пришло! Череполицый, паукоголовая!"
-    },
-    {
-      "id": "battle_s2_11004_1_1",
-      "desc": "Danza de Pasión",
-      "dlg": "Так, так!"
-    },
-    {
-      "id": "battle_s3_11005_1_1",
-      "desc": "Self-destructive Purge: Fist coin",
-      "dlg": "От этой скверны..."
-    },
-    {
-      "id": "battle_s3_11005_1_2_Back",
-      "desc": "Self-destructive Purge: Final coin heads",
-      "dlg": "Я сам тебя очищу."
-    },
-    {
-      "id": "battle_s3_11005_1_2",
-      "desc": "Self-destructive Purge: Final coin tails",
-      "dlg": "Я сам тебя очищу!"
-    },
-    {
-      "id": "battle_special_11009_2",
-      "desc": "Manifest E.G.O.",
-      "dlg": "На этот раз... я буду биться до конца!"
-    },
-    {
-      "id": "battle_special_11009_1",
-      "desc": "Manifest E.G.O by 2+ allies death",
-      "dlg": "Если печаль стала моей неотделимой стигмой... я лучше взмою с ней ввысь!"
-    },
-    {
-      "id": "battle_endcommand_11009_2",
-      "desc": "Commencing Attack while in E.G.O state",
-      "dlg": "Мне всё ещё страшно... но я... не остановлюсь!"
-    },
-    {
-      "id": "battle_kill_11009_2",
-      "desc": "Enemy Killed while in E.G.O state",
-      "dlg": "Буду колебаться — не смогу двигаться вперёд."
-    },
-    {
-      "id": "battle_dead_11009_2",
-      "desc": "Death while in E.G.O state",
-      "dlg": "Возможно, мне не стоило... Идти по этому пути..."
-    },
-    {
-      "id": "battle_s3_11009_1_1",
-      "desc": "Stigimize: Before first coin",
-      "dlg": "Я нанесу на тебя..."
-    },
-    {
-      "id": "battle_s3_11009_1_2",
-      "desc": "Stigimize: After first coin",
-      "dlg": "Эту стигму!"
-    },
-    {
-      "id": "battle_s3_11009_2_1",
-      "desc": "Blazing Strike: Before coin",
-      "dlg": "Пусть мой пыл..."
-    },
-    {
-      "id": "battle_s3_11009_2_2",
-      "desc": "Blazing Strike: After coin",
-      "dlg": "Опалит тебя."
-    },
-    {
-      "id": "battle_s3_10110_1_txt",
-      "desc": "Goodbye Now, A Sorrow In You",
-      "dlg": "Покойся с миром."
-    },
-    {
-      "id": "battle_s3_10112_1_1-03",
-      "desc": "Flow of The Sword: First coin",
-      "dlg": "В конечном счёте..."
-    },
-    {
-      "id": "battle_s3_10112_1_3-02",
-      "desc": "Flow of The Sword: Final coin",
-      "dlg": "Все сгорят дотла!.."
-    },
-    {
-      "id": "battle_s3_10109_1_4-7",
-      "desc": "Hematic Coloring",
-      "dlg": "Проходной результат."
-    },
-    {
-      "id": "battle_s3_10106_1_3",
-      "desc": "Dimensional Rift: Kill on final coin",
-      "dlg": "В мгновение ока."
-    },
-    {
-        "id": "battle_s3_10512_1_2-02",
-        "desc": "Tanglecleaver [快刀亂麻]: Final coin",
-        "dlg": "Ускорение всеми патронами."
-    },
-    {
-        "id": "battle_s3_10512_1_2-03",
-        "desc": "Tanglecleaver [快刀亂麻]: Final coin",
-        "dlg": "Полный залп!"
-    },
-    {
-        "id": "battle_s4_10512_2",
-        "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: First coin",
-        "dlg": "А теперь я применю всю свою мощь."
-    },
-    {
-        "id": "battle_s3_10512_1_2-01",
-        "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: Final coin",
-        "dlg": "Ускорение всеми патронами!"
-    },
-    {
-        "id": "battle_s4_10512_1",
-        "desc": "Chachihu [揷翅虎] Passive",
-        "dlg": "Похоже ты достоин стоимости моих патронов."
-    },
-    {
-        "id": "battle_s3_10812_1_001",
-        "desc": "Crimson Spring: Before coin",
-        "dlg": "Мимолётная жизнь..."
-    },
-    {
-        "id": "battle_s3_10812_1_003",
-        "desc": "Crimson Spring: After coin",
-        "dlg": "... гасится так же легко, как и пламя."
-    },
-    {
-          "id": "battle_s2_10913_1_1",
-          "desc": "With the Power of Justice (Consumed Deep Tears)",
-          "dlg": "В целях защиты..."
-    },
-    {
-          "id": "battle_s2_10913_1_1-01",
-          "desc": "With the Tear-sharpened Sword (Consumed Deep Tears)",
-          "dlg": "В целях защиты..."
-    },
-    {
-          "id": "battle_s3_10913_1_1",
-          "desc": "Arcana Pierce and Arcana: Tear and Pierce: First coin",
-          "dlg": "Пока..."
-    },
-    {
-          "id": "battle_s3_10913_1_3",
-          "desc": "Arcana Pierce and Arcana: Tear and Pierce: Final coin",
-          "dlg": "Ничего не останется."
-    },
-    {
-      "id": "battle_s3_10907_1_1",
-      "desc": "Excruciating Study",
-      "dlg": "Так понятнее?"
-    },
-    {
-      "id": "battle_s3_10510_1",
-      "desc": "Scorch Knowledge: First coin",
-      "dlg": "Когда сталкиваешься со знанием..."
-    },
-    {
-      "id": "battle_s3_10510_1-01",
-      "desc": "Scorch Knowledge: Final coin",
-      "dlg": "Будь сдержаннее!"
-    },
-    {
-      "id": "battle_s3_10608_1_1-01",
-      "desc": "Cyclical Knowledge: First coin",
-      "dlg": "Сейчас же!"
-    },
-    {
-      "id": "battle_s3_10608_1_3",
-      "desc": "Cyclical Knowledge: Final coin",
-      "dlg": "Я отворю его для вас!.."
-    },
-    {
-      "id": "battle_special_10513_4",
-      "desc": "Bloodfeast consumed",
-      "dlg": "Горячая кровь... наполняет меня."
-    },
-    {
-      "id": "battle_s3_10513_1_4",
-      "desc": "Let us wear the coagulated mantle of blood",
-      "dlg": "Ах... Кульминация Парада. Это...  финал Увертюры."
-    },
-    {
-      "id": "battle_special_10513_3",
-      "desc": "Ouvertüre in Dashboard",
-      "dlg": "Я слышу звук фейерверков... Время пришло?"
-    },
-    {
-      "id": "battle_special_10513_2",
-      "desc": "Ouvertüre",
-      "dlg": "Увертюра!.."
-    },
-    {
-      "id": "battle_special_10513_1",
-      "desc": "La Mancha Parade inflicted",
-      "dlg": "Я дарую тебе покровительство Короля."
-    },
-    {
-      "id": "battle_special_10513_5",
-      "desc": "Using S3-2 at the same time as Princess Rodion's S3-2",
-      "dlg": "О Матушка! Как же я мечтал вновь ступать вперёд вместе с тобой!"
-    },
-    {
-      "id": "battle_special_10713_1",
-      "desc": "Overcharged",
-      "dlg": "Давай, нападай! Если ты так уверен в себе."
-    },
-    {
-      "id": "battle_s3_10713_1_1",
-      "desc": "Rip Space - CCA Overdrive: First coin",
-      "dlg": "Полностью заряжен!"
-    },
-    {
-      "id": "battle_s3_10713_1_5",
-      "desc": "Rip Space - CCA Overdrive: Final coin",
-      "dlg": "Я разрублю тебя надвое!"
-    },
-    {
-      "id": "battle_s3_11211_1_3-03",
-      "desc": "Firefist: On kill",
-      "dlg": "Эти паразитирующие ублюдки..."
-    },
-    {
-      "id": "battle_s3_11211_1_3-04",
-      "desc": "Firefist: On kill",
-      "dlg": "Эти паразитирующие ублюдки!"
-    },
-    {
-      "id": "battle_s3_11211_1_3-05",
-      "desc": "Firefist: On kill",
-      "dlg": "Эти паразитирующие ублюдки!"
-    },
+   {
+    "id": "battle_speechbubble_cromer_1",
+    "desc": "말풍선 특수 대사_크로머",
+    "dlg": "Aah... Could it... You're...\nMy Sinclair...?"
+   },
+   {
+    "id": "battle_speechbubble_10808_1",
+    "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+    "dlg": "All my fault, you say...? What fault?\nI daresay it's all thanks to me."
+   },
+   {
+    "id": "battle_speechbubble_10408_1",
+    "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+    "dlg": "S.A.D.\nYou're a failure of a Chief Butler."
+   },
+   {
+    "id": "battle_react_10710_1",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "Quite the pathetic reception!"
+   },
+   {
+    "id": "battle_react_10710_2",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "... I'll gouge out your\ncontemptuous eyes."
+   },
+   {
+    "id": "battle_react_10710_3",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "Do you still fail to understand?\nThat you... are nothing but prey!"
+   },
+   {
+    "id": "battle_react_10710_4",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "A soaking wet mutt, are you now?\nOh, does this not remind you of\nthe day I took your place?! HAHAHAHA!"
+   },
+   {
+    "id": "battle_react_10710_5",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "Hmph, how dare you glorified\ndishwashers bare your knives at me?"
+   },
+   {
+    "id": "battle_react_10710_6",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "Catherine...?! It's me, Heathcliff...!\nPlease, embrace me once again!!!"
+   },
+   {
+    "id": "battle_react_10710_7",
+    "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+    "dlg": "It matters not what kind of Heathcliff you are!\nI shall embrace every Catherine mine!!!"
+   },
+   {
+    "id": "battle_react_10310_10",
+    "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+    "dlg": "... You gave up your dream for the Family? \nYou, who preached about your\ndream with every breath...?"
+   },
+   {
+    "id": "battle_react_10310_11",
+    "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+    "dlg": "No... she is not like my sister."
+   },
+   {
+    "id": "battle_react_10310_12",
+    "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+    "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as well, I suppose..."
+   },
+   {
+    "id": "battle_react_10310_13",
+    "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+    "dlg": "Those wounds... the Priest of this world\nmust be just as haunted by guilt."
+   },
+   {
+    "id": "battle_1137_FirstKill",
+    "desc": "말풍선 특수 대사_가치우_첫킬",
+    "dlg": "I expect you to fight to your deaths in this\ncrucial struggle, reversible as they may be."
+   },
+   {
+    "id": "8SV-015",
+    "desc": "가치우사용 시 대사 ",
+    "dlg": "Unearth it."
+   },
+   {
+    "id": "8SV-016",
+    "desc": "가치우홍루 강제 타겟팅 1",
+    "dlg": "It must lie there still, shrouded it may be."
+   },
+   {
+    "id": "8SV-017",
+    "desc": "가치우홍루 강제 타겟팅 2",
+    "dlg": "Shall it remain buried still?"
+   },
+   {
+    "id": "8SV-018",
+    "desc": "가치우홍루 강제 타겟팅 합 패배",
+    "dlg": "Demonstrate to me your will."
+   },
+   {
+    "id": "8SV-019",
+    "desc": "가치우홍루 강제 타겟팅 합 승리",
+    "dlg": "The mass of pain within your heart... is difficult to untangle."
+   },
+   {
+    "id": "8SV-020",
+    "desc": "가치우광역기 사용시",
+    "dlg": "Is it your companions who hold your tongue?\nThen... perhaps they must be shaken afore\nyou are to speak your truth."
+   },
+   {
+    "id": "8SV-021",
+    "desc": "가치우광역기  합 패배 후 다음턴",
+    "dlg": "Do not fear the futility. There will be time for that once you have spoken your mind."
+   },
+   {
+    "id": "8SV-022",
+    "desc": "가치우대상 처치시",
+    "dlg": "Rest awhile... until the clock turns."
+   },
+   {
+    "id": "8SV-023",
+    "desc": "가치우묘 부리기",
+    "dlg": "Cut them Down, Mao."
+   },
+   {
+    "id": "8SV-024",
+    "desc": "가치우자로 소환",
+    "dlg": "Heed Me, Zilu."
+   },
+   {
+    "id": "8SV-025",
+    "desc": "뇌횡",
+    "dlg": "Huh... y'all ain't half bad!\nKeep makin' it worth my bullet fees!"
+   },
+   {
+    "id": "8SV-026",
+    "desc": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
+    "dlg": "Eyes up here, boys!\nDon'tcha go losin' yer heads now!"
+   },
+   {
+    "id": "8SV-027",
+    "desc": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
+    "dlg": "Hwell, what's this? Manageable so far?"
+   },
+   {
+    "id": "8SV-028",
+    "desc": "뇌횡턴 시작 : 매우 강력한 스킬",
+    "dlg": "I'maboutta drop somethin' big on y'all!\nDon't let it kill y'all now and spoil the fun!"
+   },
+   {
+    "id": "8SV-029",
+    "desc": "뇌횡합 승리 : 매우 강력한 스킬",
+    "dlg": "Aw heck, don't tell me\ny'all are tuckered out already!"
+   },
+   {
+    "id": "8SV-030",
+    "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
+    "dlg": "That's more like it.\nY'all are firin' me up!"
+   },
+   {
+    "id": "8SV-031",
+    "desc": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
+    "dlg": "Y'all don't go on huntin' tigers without preparin'\nyerselves to get chomped 'tween one of them jaws!"
+   },
+   {
+    "id": "8SV-032",
+    "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
+    "dlg": "Can't leave a dance unfinished.\nAin't that right?"
+   },
+   {
+    "id": "8SV-034",
+    "desc": "가환E.G.O 침식률 n 이상",
+    "dlg": "Can't waste any more time on these...\n... sickening, revolting insects."
+   },
+   {
+    "id": "8SV-035",
+    "desc": "가환홍루메인타겟",
+    "dlg": "Don’t pretend you’ve changed.\nYou’re still the same trash you were back then... scum!"
+   },
+   {
+    "id": "8SV-036",
+    "desc": "가환경멸나선모드",
+    "dlg": "... Is this also the E.G.O's power?"
+   },
+   {
+    "id": "8SV-037",
+    "desc": "가환광역기사용시",
+    "dlg": "Behold! This contempt!\nIt rains down upon the disgusting filth!"
+   },
+   {
+    "id": "8SV-038",
+    "desc": "가환전투시작 : n인이상이 자신을 타겟",
+    "dlg": "Foolishness."
+   },
+   {
+    "id": "8SV-039",
+    "desc": "구보E.G.O 침식률 10 이상",
+    "dlg": "You have taken a glimpse of yesterday's spring.\nA memory rarely availed to even myself."
+   },
+   {
+    "id": "8SV-040",
+    "desc": "구보난사 패턴 진입",
+    "dlg": "Do not let your past ties ruin your judgment.\nIt makes me want to blast them all away."
+   },
+   {
+    "id": "8SV-041",
+    "desc": "구보아군 살해 패턴 진입",
+    "dlg": "Sacrifices are necessary\nin pursuit of the greater cause."
+   },
+   {
+    "id": "8SV-042",
+    "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
+    "dlg": "... Whew. That worked."
+   },
+   {
+    "id": "8SV-051",
+    "desc": "가모사용 시 : 홍루 가두기",
+    "dlg": "Fulfill your worth!"
+   },
+   {
+    "id": "8SV-052",
+    "desc": "가모사용 시 : 홍루 가두기 실패",
+    "dlg": "You dare!"
+   },
+   {
+    "id": "8SV-053",
+    "desc": "가모턴 시작 : 보옥 생성",
+    "dlg": "Oh, revered Xianren! Shi Miyin brought the gem back!\nThe pretty gem that'll make Hongyuan all beautiful again…!"
+   },
+   {
+    "id": "8SV-054",
+    "desc": "가모턴 시작 : 보옥 파괴",
+    "dlg": "Blasphemous transgressors!\nOutsiders shall not covet the treasure of Daguanyuan!"
+   },
+   {
+    "id": "8SV-055",
+    "desc": "가모사용 시 : 버프 받기",
+    "dlg": "You favor me, don't you?\nI knew you would, dear Xianhuang Worm!"
+   },
+   {
+    "id": "8SV-056",
+    "desc": "가모가마 체력 0",
+    "dlg": "NO!!!!!!"
+   },
+   {
+    "id": "8SV-057",
+    "desc": "가모사용 시 : 어르신 나무 소환",
+    "dlg": "All the wisdom of Hongyuan...\nGive it to me, give it to Miyin...!"
+   },
+   {
+    "id": "8SV-058",
+    "desc": "가모사용 시 : 어르신 나무 흡수",
+    "dlg": "Be one with the fathomless history of Hongyuan!"
+   },
+   {
+    "id": "8SV-059",
+    "desc": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
+    "dlg": "We have transcended the yoke of life and death...\nThus, Hongyuan shall shine for all eternity as well!"
+   },
+   {
+    "id": "8SV-060",
+    "desc": "가모턴 시작 : 지고한 불사 흐트러짐",
+    "dlg": "Ahh... What a shameful failure of duties this is..."
+   },
+   {
+    "id": "8SV-061",
+    "desc": "가모사용 시 : 강한 광역기",
+    "dlg": "You will obey us!"
+   },
+   {
+    "id": "6SV-018-02",
+    "desc": "증오의 여왕 피격",
+    "dlg": "Ow...!"
+   },
+   {
+    "id": "6SV-019-003",
+    "desc": "증오의 여왕 타격",
+    "dlg": "With Love!"
+   },
+   {
+    "id": "6SV-019-004",
+    "desc": "증오의 여왕 타격",
+    "dlg": "In the Name of Justice!"
+   },
+   {
+    "id": "6SV-020-001",
+    "desc": "증오의 여왕 타격",
+    "dlg": "Arcana Beats!"
+   },
+   {
+    "id": "6SV-020-001-01",
+    "desc": "증오의 여왕 타격",
+    "dlg": "Arcana Beats~!"
+   },
+   {
+    "id": "6SV-020-002",
+    "desc": "증오의 여왕 타격",
+    "dlg": "Disappear~"
+   },
+   {
+    "id": "6SV-021",
+    "desc": "증오의 여왕 첫 등장",
+    "dlg": "In the name of Love and Justice~ Here comes Magical Girl!"
+   },
+   {
+    "id": "6SV-022",
+    "desc": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
+    "dlg": "So you’ve been consumed too, senpai… Can this cycle really not be stopped?"
+   },
+   {
+    "id": "6SV-023",
+    "desc": "아르카나 슬레이브 차징 시작 시",
+    "dlg": "Heed me, thou that are more azure than justice and more crimson than love…"
+   },
+   {
+    "id": "6SV-024",
+    "desc": "아르카나 슬레이브 차징 중",
+    "dlg": "In the name of those buried in destiny, I shall make this oath to the light."
+   },
+   {
+    "id": "6SV-025",
+    "desc": "아르카나 슬레이브 차징 중",
+    "dlg": "Mark the hateful beings who stand before us;\nlet your strength merge with mine, \nso that we may deliver the power of love to all!"
+   },
+   {
+    "id": "6SV-026",
+    "desc": "아르카나 슬레이브 발사 스킬 사용",
+    "dlg": "<i>ARCANA SLAVE!</i>"
+   },
+   {
+    "id": "6SV-027",
+    "desc": "제압 완료 후 퇴각 대사",
+    "dlg": "You've... been suppressing it as much as you could..."
+   },
+   {
+    "id": "6SV-028",
+    "desc": "완전 제압 X, 아르카나 슬레이브 발사 후",
+    "dlg": "Huff, puff, puff... Did... did we get her?!"
+   },
+   {
+    "id": "6SV-029",
+    "desc": "빈사 퇴각",
+    "dlg": "I swore I would... protect everyone... to the end…"
+   },
+   {
+    "id": "6SV-001_1",
+    "desc": "시간살인마 피격1",
+    "dlg": "Ow, that hurts!"
+   },
+   {
+    "id": "6SV-001_2",
+    "desc": "시간살인마 피격2",
+    "dlg": "\"Couldn't you have dodged that, you oaf?!\""
+   },
+   {
+    "id": "6SV-001_3-03",
+    "desc": "시간살인마 피격4",
+    "dlg": "Oh!\n\"Blimey...\""
+   },
+   {
+    "id": "6SV-002_2",
+    "desc": "시간살인마 공격1",
+    "dlg": "We'll rip you up."
+   },
+   {
+    "id": "6SV-002_3",
+    "desc": "시간살인마 공격3",
+    "dlg": "You were going to kill that time anyway."
+   },
+   {
+    "id": "6SV-003_1",
+    "desc": "시간살인마 첫 등장",
+    "dlg": "We can't rip their time...?\n\"You bloody fool!\"\n\"We've been had!\""
+   },
+   {
+    "id": "6SV-004_1",
+    "desc": "시간살인마 재 등장",
+    "dlg": "We reap the dying hours.\n\"You've plenty o' time! Give it!\"\n\"Let's sever 500... no, 2000 hours.\"\n\"Get a grip, you muppet!\""
+   },
+   {
+    "id": "6SV-005_1",
+    "desc": "시간살인마 2페이즈",
+    "dlg": "\"Damn... let's end this.\"\n\"You're taking too much time from us...!\"\nThe benefits will outweigh the costs. Calm down."
+   },
+   {
+    "id": "6SV-006_1",
+    "desc": "시간살인마 시간 살인 시간 사용전",
+    "dlg": "We have no choice but to use it.\n\"Make sure your arithmetics are correct. Equal hours from everyone!\""
+   },
+   {
+    "id": "6SV-007",
+    "desc": "시간살인마 시간 살인 시간 사용",
+    "dlg": "We'll... cut you up."
+   },
+   {
+    "id": "6SV-008",
+    "desc": "시간살인마 시간 살인 시간 사용후",
+    "dlg": "Shut— Shut up! We're infighting...! This is a waste of time!"
+   },
+   {
+    "id": "battle_react_noVoice_10613_1",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_사화정",
+    "dlg": "I don't recall this candidate... Hm, all kinds of sorry churls seem to vie for the seat of the Hierarch in this place they call a mirror world."
+   },
+   {
+    "id": "battle_react_noVoice_10613_2",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
+    "dlg": "This is no place for something so insignificant as family. You, who are causeless and hollow of vision toward Hongyuan, do not belong here."
+   },
+   {
+    "id": "battle_react_noVoice_10613_3",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_사사정",
+    "dlg": "Benighted is this fool. One need not coerce others to lay down their lives, for the pursuit of a great cause naturally begets those who would gladly brave death itself."
+   },
+   {
+    "id": "battle_react_noVoice_10613_4",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_설반",
+    "dlg": "For all that disinclination toward violence, you seem to have a passing talent for it nonetheless. Even a pathetic craven becomes... a madman when swept up by the flow."
+   },
+   {
+    "id": "battle_react_noVoice_10613_5",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
+    "dlg": "Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
+   },
+   {
+    "id": "battle_react_10613_6",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
+    "dlg": "Ha... ha ha! I shall always welcome another opportunity to cut down these ancient demons who have been seduced by immortality!"
+   },
+   {
+    "id": "battle_react_10613_7",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
+    "dlg": "Keep twisting in that filth, Shi Miyin... It'll only enhance the taste of happiness, wrath, sorrow, and joy when I cleave into you!"
+   },
+   {
+    "id": "battle_react_10613_8",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
+    "dlg": "I never thought I'd ever see you in Hongyuan again, big brother... Fuhu, so in this world, you managed to survive. You seem to be carving out your own path much like myself."
+   },
+   {
+    "id": "battle_react_10613_9",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
+    "dlg": "Phew... okay, fine. Then...\nAs the Lord of Hongyuan, I hereby grant you audience."
+   },
+   {
+    "id": "battle_react_10613_10",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가환",
+    "dlg": "Avenging Jia Huan shouldn't affect you this much now, should it...? When did this revolting display of belated melodrama replace your advocacy for the cold and calculating pragmatism you had discussed before me?"
+   },
+   {
+    "id": "battle_react_10613_701",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
+    "dlg": "Never did I let this sickening cradle imprison me, and that will not change today! Never!"
+   },
+   {
+    "id": "battle_react_10613_901",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
+    "dlg": "Fascinating. Why was I not told that such interesting dialogues could be had with him in this world?"
+   },
+   {
+    "id": "battle_react_10613_902",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
+    "dlg": "You assert that education of humanity and propriety is what cleanses the years of fell deeds? The first step seems to have eluded you: absolutely pulverize the fell deeds. Only then shall humanity and propriety have any significance."
+   },
+   {
+    "id": "battle_react_10613_903",
+    "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
+    "dlg": "Evil must be mercilessly wrested from their roots(除惡務盡 斬草除根). The path I have chosen as the Lord of Hongyuan is a path unburdened by the need to seek understanding from others. Thus, big brother—no, Jia Qiu, this dialogue has met an impasse."
+   },
+   {
+    "id": "battle_react_10310_1-1",
+    "desc": "Hardblood I Gain",
+    "dlg": "Текущая кровь..."
+   },
+   {
+    "id": "battle_react_10310_1-2",
+    "desc": "Hardblood II Gain",
+    "dlg": "Горячая кровь..."
+   },
+   {
+    "id": "battle_react_10310_1-3",
+    "desc": "Hardblood III Gain",
+    "dlg": "Кровь... брызжущая чувствами."
+   },
+   {
+    "id": "battle_react_10310_2",
+    "desc": "Variant Sancho Hardblood Arts: Empower Skill 3",
+    "dlg": "В изготовлении оружия я давно превзошла моего Отца."
+   },
+   {
+    "id": "battle_react_10310_3-4",
+    "desc": "Variant Sancho Hardblood Arts 6 - Whip: First coin",
+    "dlg": "Вариация Санчо, Техника застывшей крови № 6..."
+   },
+   {
+    "id": "battle_react_10310_3-4-1",
+    "desc": "Variant Sancho Hardblood Arts 6 - Whip: Final coin",
+    "dlg": "«Порвать на части»!"
+   },
+   {
+    "id": "battle_react_10310_4-4",
+    "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: First coin",
+    "dlg": "Вариация Санчо, Техника застывшей крови № 8..."
+   },
+   {
+    "id": "battle_react_10310_4-4-1",
+    "desc": "Variant Sancho Hardblood Arts 8 - Split Apart: Final coin",
+    "dlg": "«Разрезать на куски»!"
+   },
+   {
+    "id": "battle_react_10310_5-2",
+    "desc": "Ascendant Sancho Hardblood Arts - La Sangre: First coin",
+    "dlg": "Санчо, Возвышенная Техника застывшей крови... «La Sangre»."
+   },
+   {
+    "id": "battle_react_10310_5-2-1",
+    "desc": "Ascendant Sancho Hardblood Arts - La Sangre: Final coin",
+    "dlg": "Пора с этим кончать."
+   },
+   {
+    "id": "battle_react_10310_6-4",
+    "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: First coin",
+    "dlg": "Техника застывшей крови № 15..."
+   },
+   {
+    "id": "battle_react_10310_6-4-1",
+    "desc": "Variant Sancho Hardblood Arts 15 - Buildup to Finale: Final coin",
+    "dlg": "«Приготовления к финалу»!"
+   },
+   {
+    "id": "battle_react_10310_7",
+    "desc": "Trio's Enhanced Skills Ready",
+    "dlg": "При помощи вашего оружия... я доведу эту кровавую бойню до победного конца."
+   },
+   {
+    "id": "battle_react_10310_8-1",
+    "desc": "Death while Barber Outis Present",
+    "dlg": "Цирюльник... ты становишься за главного в нашей Семье. "
+   },
+   {
+    "id": "battle_react_10310_8-2",
+    "desc": "Death while Priest Gregor Present",
+    "dlg": "Священник... ты становишься за главного в нашей Семье."
+   },
+   {
+    "id": "battle_react_10310_8-3",
+    "desc": "Death while Princess Rodion Present",
+    "dlg": "Моя единственная сестра... ты становишься за главного в нашей Семье."
+   },
+   {
+    "id": "battle_react_10310_9",
+    "desc": "Staggered while Bloodfiends are deployed",
+    "dlg": "Всё внимание на пиршество перед взором."
+   },
+   {
+    "id": "battle_s2_10310_1_3",
+    "desc": "Let All Blossom Free",
+    "dlg": "Преклонитесь."
+   },
+   {
+    "id": "battle_s2_10310_1_3-01",
+    "desc": "Let All Blossom Free",
+    "dlg": "Преклонитесь."
+   },
+   {
+    "id": "battle_s3_10310_1_3",
+    "desc": "Shall Impale",
+    "dlg": "Пусть оно тебя пронзит!"
+   },
+   {
+    "id": "battle_s3_10310_1_3-01",
+    "desc": "Shall Impale",
+    "dlg": "Пусть оно тебя пронзит!"
+   },
+   {
+    "id": "battle_s0_10309_1",
+    "desc": "I Shall Summon the Time",
+    "dlg": "Приступаю к изъятию времени."
+   },
+   {
+    "id": "battle_s3_10309_1_3-02",
+    "desc": "I Command Thee, Halt! (Borrowed Time)",
+    "dlg": "Разгон!"
+   },
+   {
+    "id": "battle_s3_10211_0",
+    "desc": "Drawn by Flame: First coin",
+    "dlg": "Неукротимо..."
+   },
+   {
+    "id": "battle_s3_10211_0-1",
+    "desc": "Drawn by Flame: Final coin",
+    "dlg": "Пылай."
+   },
+   {
+    "id": "battle_s3_10211_1_1",
+    "desc": "Drawn by Flame: First coin",
+    "dlg": "Неукротимо..."
+   },
+   {
+    "id": "battle_s3_10211_1_2-01",
+    "desc": "Drawn by Flame: Final coin",
+    "dlg": "Пылай."
+   },
+   {
+    "id": "battle_s3_10211_1_1-02",
+    "desc": "Drawn by Flame (20-29 Burn on Self): First coin",
+    "dlg": "Неукротимо..."
+   },
+   {
+    "id": "battle_s3_10211_1_2-02",
+    "desc": "Drawn by Flame (20-29 Burn on Self): Final coin",
+    "dlg": "Пылай!"
+   },
+   {
+    "id": "battle_s3_10211_1_3-02",
+    "desc": "A.B.S. Max Attunement [Degraded Corrosion]: First coin",
+    "dlg": "Словно мотылёк..."
+   },
+   {
+    "id": "battle_s3_10211_1_4-02",
+    "desc": "A.B.S. Max Attunement [Degraded Corrosion]: Final coin",
+    "dlg": "В сверкающее пламя!"
+   },
+   {
+    "id": "battle_s3_10207_1_4-01",
+    "desc": "Unleashed Violence: On kill with final coin",
+    "dlg": "Подавление завершено."
+   },
+   {
+    "id": "battle_s3_10210_1_txt",
+    "desc": "40Y-3 Charge",
+    "dlg": "Максимальная мощность."
+   },
+   {
+    "id": "battle_s3_10204_1_2",
+    "desc": "Execution",
+    "dlg": "Насквозь!"
+   },
+   {
+    "id": "battle_s3_10208_1_1",
+    "desc": "Red Plum Blossoms Scatter: Fist coin",
+    "dlg": "Есть то, что прекрасно."
+   },
+   {
+    "id": "battle_s3_10208_1_3",
+    "desc": "Red Plum Blossoms Scatter: Final coin",
+    "dlg": "И то, что невзрачно."
+   },
+   {
+    "id": "battle_s3_11210_1",
+    "desc": "The Unforgivable Sin (Bloodied Hand I)",
+    "dlg": "Кровь... Кровь!.."
+   },
+   {
+    "id": "battle_s3_11210_1-03",
+    "desc": "The Unforgivable Sin (Bloodied Hand II)",
+    "dlg": "Кровь!.. Кровь!!!"
+   },
+   {
+    "id": "battle_s3_11210_1-02",
+    "desc": "The Unforgivable Sin (Bloodied Hand III)",
+    "dlg": "Кровь!!! КРОВЬ!!!"
+   },
+   {
+    "id": "battle_s3_11205_1_1-01",
+    "desc": "Let's Grind 'Em",
+    "dlg": "Ну что ж!.. "
+   },
+   {
+    "id": "battle_s3_11209_1",
+    "desc": "Nightmare Hunt: First coin",
+    "dlg": "Я нащупал..."
+   },
+   {
+    "id": "battle_s3_11209_2",
+    "desc": "Nightmare Hunt: Final coin",
+    "dlg": "Твою жизненно важную точку! "
+   },
+   {
+    "id": "battle_s2_10710_1_1_txt-01",
+    "desc": "Memorial Procession",
+    "dlg": "Разорву на куски."
+   },
+   {
+    "id": "battle_s3_10710_1_1_txt",
+    "desc": "Reqiuem",
+    "dlg": "Покойся в своих сожалениях!"
+   },
+   {
+    "id": "battle_s3_10710_large_2",
+    "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): First coin",
+    "dlg": "Хоть я не могу тебя запереть..."
+   },
+   {
+    "id": "battle_s3_10710_large_3",
+    "desc": "Requiem & Lament, Mourn, and Despair (Enemy too big for Coffin): Final coin",
+    "dlg": "Я высеку на тебе твои сожаления!"
+   },
+   {
+    "id": "battle_add_10710_1",
+    "desc": "Mount Dullahan",
+    "dlg": "Дуллахан! Пора скакать на смерть."
+   },
+   {
+    "id": "battle_s2_10710_ride_1",
+    "desc": "Memorial Procession: Dullahan",
+    "dlg": "Порви их всех, о Дуллахан!"
+   },
+   {
+    "id": "battle_s3_10710_ride_1",
+    "desc": "Lament, Mourn, and Despair: Final coin heads",
+    "dlg": "Исчезни... вместе с бурей."
+   },
+   {
+    "id": "battle_s3_10710_ride_4",
+    "desc": "Lament, Mourn, and Despair: Final coin tails",
+    "dlg": "Исчезни вместе с бурей!"
+   },
+   {
+    "id": "battle_s3_10710_down_1",
+    "desc": "Dismount Dullahan",
+    "dlg": "Снова один... Мне самому с этим разобраться?"
+   },
+   {
+    "id": "battle_add_10710_2",
+    "desc": "Wildhunt on other IDs",
+    "dlg": "Не ждать тебе упокоения."
+   },
+   {
+    "id": "battle_add_10710_3",
+    "desc": "Wildhunt on Wuthering Heights IDs",
+    "dlg": "Ты, должно быть, чувствуешь гнев... Так вопи во всё горло! Вопи, пока твой вопль не заглушит бурю!"
+   },
+   {
+    "id": "battle_s3_10711_1_1",
+    "desc": "Goin' for the Bullseye",
+    "dlg": "Целюсь в яблочко."
+   },
+   {
+    "id": "battle_special_10711_1_1",
+    "desc": "Assist Attack I",
+    "dlg": "Цель на мушке... Стреляю."
+   },
+   {
+    "id": "battle_special_10711_1_2",
+    "desc": "Assist Attack II",
+    "dlg": "Хун Лу, прикрываю."
+   },
+   {
+    "id": "battle_special_10711_2_1",
+    "desc": "Combo: Target Marked I",
+    "dlg": "Окей, цель в прицеле."
+   },
+   {
+    "id": "battle_special_10711_2_1-04",
+    "desc": "Combo: Full-Stop to Life I",
+    "dlg": "Окей, цель в прицеле."
+   },
+   {
+    "id": "battle_special_10711_2_2",
+    "desc": "Combo: Full-Stop to Life II",
+    "dlg": "В сторону!"
+   },
+   {
+    "id": "battle_special_10711_2_3",
+    "desc": "Combo: Target Marked II",
+    "dlg": "Принял. Цель подтверждена."
+   },
+   {
+    "id": "battle_special_10711_3_1-01",
+    "desc": "Evade Melee Support I",
+    "dlg": "Прикрой!"
+   },
+   {
+    "id": "battle_special_10711_3_2",
+    "desc": "Evade Melee Support II",
+    "dlg": "Твой выход, Хун Лу!"
+   },
+   {
+    "id": "battle_special_10711_4_1",
+    "desc": "Retreat",
+    "dlg": "Цк. Я первый отстрелялся..."
+   },
+   {
+    "id": "battle_special_10711_5_1",
+    "desc": "Returning to Battle I",
+    "dlg": "Перезарядился... Готов к бою."
+   },
+   {
+    "id": "battle_special_10711_5_2",
+    "desc": "Returning to Battle II",
+    "dlg": "Смена позиции завершена."
+   },
+   {
+    "id": "battle_s3_10611_1-01",
+    "desc": "Full-Stop to Life: First coin",
+    "dlg": "Я ставлю точку..."
+   },
+   {
+    "id": "battle_s3_10611_1-02-1",
+    "desc": "Full-Stop to Life: Final coin",
+    "dlg": "В твоей жизни!"
+   },
+   {
+    "id": "battle_s3_10611_1-01-1",
+    "desc": "Full-Stop to Life: Middle coin kill",
+    "dlg": "В твоей жизни."
+   },
+   {
+    "id": "battle_special_10611_1_1",
+    "desc": "Target Spotted I",
+    "dlg": "Хитклиф, стреляй!"
+   },
+   {
+    "id": "battle_special_10611_1_2",
+    "desc": "Target Spotted II",
+    "dlg": "Прострел свободен."
+   },
+   {
+    "id": "battle_special_10611_1_3",
+    "desc": "Target Spotted III",
+    "dlg": "Вижу цель, сможешь в неё попасть?"
+   },
+   {
+    "id": "battle_special_10611_2_1-01",
+    "desc": "Combo: Full-Stop to Life",
+    "dlg": "Добивай."
+   },
+   {
+    "id": "battle_special_10611_2_2",
+    "desc": "Combo: Target Marked",
+    "dlg": "Цель на тебе."
+   },
+   {
+    "id": "battle_special_10611_3",
+    "desc": "Melee Support",
+    "dlg": "Ага, сейчас всё будет! "
+   },
+   {
+    "id": "battle_special_10611_3-01",
+    "desc": "Melee Support Fast",
+    "dlg": "Да, сейчас всё будет!"
+   },
+   {
+    "id": "battle_s2_10603_1_3",
+    "desc": "Shank",
+    "dlg": "Так весело!"
+   },
+   {
+    "id": "battle_s3_10609_1_3_4",
+    "desc": "You're the Culprit!",
+    "dlg": "Эта штучка и так может!"
+   },
+   {
+    "id": "battle_s3_10806_1_5",
+    "desc": "Inner Gate Elbow Strike",
+    "dlg": "Теперь я в пепле."
+   },
+   {
+    "id": "battle_s2_10804_1",
+    "desc": "Quake Rounds",
+    "dlg": "Цель подтверждена."
+   },
+   {
+    "id": "battle_s3_10804_1_2",
+    "desc": "Suppress",
+    "dlg": " Цель нейтрализована."
+   },
+   {
+    "id": "battle_s3_10807_1_2",
+    "desc": "Risky Judgement",
+    "dlg": "Я тебя сокрушу!"
+   },
+   {
+    "id": "battle_s3_10504_1_2",
+    "desc": "Annihilate Heretics",
+    "dlg": "Молчать."
+   },
+   {
+    "id": "battle_s3_10508_1_1-01",
+    "desc": "Yield My Flesh",
+    "dlg": "Отдам свою плоть!"
+   },
+   {
+    "id": "battle_s3_10508_1_1-02",
+    "desc": "To Claim Their Bones: First coin",
+    "dlg": "Отдам свою плоть..."
+   },
+   {
+    "id": "battle_s3_10508_1_4",
+    "desc": "To Claim Their Bones: Final coin",
+    "dlg": "Чтобы отнять их кости!.."
+   },
+   {
+    "id": "battle_s3_11111_1_1-01",
+    "desc": "I'll Make You a New Dress!",
+    "dlg": "Я уже предвкушаю..."
+   },
+   {
+    "id": "battle_s3_11108_1_2-1",
+    "desc": "As Mistress Commands: First coin",
+    "dlg": "Я вымету... "
+   },
+   {
+    "id": "battle_s3_11108_1_2-01",
+    "desc": "As Mistress Commands: Final coin",
+    "dlg": "Всю грязь."
+   },
+   {
+    "id": "battle_s2_11103_1",
+    "desc": "Order",
+    "dlg": "В атаку!"
+   },
+   {
+    "id": "battle_s3_11107_1_2",
+    "desc": "Magic Bullet Fire",
+    "dlg": "Огонь."
+   },
+   {
+    "id": "battle_s3_11107_1_2-01",
+    "desc": "Magic Bullet Fire (4+ Bullets)",
+    "dlg": "Огонь!"
+   },
+   {
+    "id": "battle_s2_11107_1_1-01",
+    "desc": "Detonate Magic Bullet",
+    "dlg": "Ещё одна пуля заряжена."
+   },
+   {
+    "id": "battle_s3_11110_1_4",
+    "desc": "Rip Dimension",
+    "dlg": "Разрываю пространство!"
+   },
+   {
+    "id": "battle_s3_11104_1",
+    "desc": "Exploit the Gap",
+    "dlg": "В точности с прогнозом."
+   },
+   {
+    "id": "battle_s3_10911_1_6",
+    "desc": "The Finale",
+    "dlg": "Перейдём к финалу."
+   },
+   {
+    "id": "battle_s3_10903_1_2",
+    "desc": "Suppress",
+    "dlg": "Прорываюсь!"
+   },
+   {
+    "id": "battle_s3_10905_1_2",
+    "desc": "Let's Rack Up The Scores",
+    "dlg": "Получи-ка!.."
+   },
+   {
+    "id": "battle_s3_10908_1_2",
+    "desc": "Pinpoint Blitz",
+    "dlg": "Даже не понимаешь, что тебя уже пронзили."
+   },
+   {
+    "id": "battle_s3_10404_1_1",
+    "desc": "I Can Cook Anything: First coin",
+    "dlg": "М"
+   },
+   {
+    "id": "battle_s3_10404_1_2",
+    "desc": "I Can Cook Anything: Second coin",
+    "dlg": "О"
+   },
+   {
+    "id": "battle_s3_10404_1_3",
+    "desc": "I Can Cook Anything: Third coin",
+    "dlg": "Т"
+   },
+   {
+    "id": "battle_s3_10404_1_4",
+    "desc": "I Can Cook Anything: Final coin",
+    "dlg": "И"
+   },
+   {
+    "id": "battle_s2_10403_1_2",
+    "desc": "Clean Up",
+    "dlg": "Тебе конец."
+   },
+   {
+    "id": "battle_s3_10402_1",
+    "desc": "Swash",
+    "dlg": "Порублю на части."
+   },
+   {
+    "id": "battle_s3_10410_1_txt",
+    "desc": "Skullbuster",
+    "dlg": "Ешь сколько влезет!"
+   },
+   {
+    "id": "battle_s3_10410_1_txt-01",
+    "desc": "Serious Skullbuster",
+    "dlg": "Время пришло! Череполицый, паукоголовая!"
+   },
+   {
+    "id": "battle_s2_11004_1_1",
+    "desc": "Danza de Pasión",
+    "dlg": "Так, так!"
+   },
+   {
+    "id": "battle_s3_11005_1_1",
+    "desc": "Self-destructive Purge: Fist coin",
+    "dlg": "От этой скверны..."
+   },
+   {
+    "id": "battle_s3_11005_1_2_Back",
+    "desc": "Self-destructive Purge: Final coin heads",
+    "dlg": "Я сам тебя очищу."
+   },
+   {
+    "id": "battle_s3_11005_1_2",
+    "desc": "Self-destructive Purge: Final coin tails",
+    "dlg": "Я сам тебя очищу!"
+   },
+   {
+    "id": "battle_special_11009_2",
+    "desc": "Manifest E.G.O.",
+    "dlg": "На этот раз... я буду биться до конца!"
+   },
+   {
+    "id": "battle_special_11009_1",
+    "desc": "Manifest E.G.O by 2+ allies death",
+    "dlg": "Если печаль стала моей неотделимой стигмой... я лучше взмою с ней ввысь!"
+   },
+   {
+    "id": "battle_endcommand_11009_2",
+    "desc": "Commencing Attack while in E.G.O state",
+    "dlg": "Мне всё ещё страшно... но я... не остановлюсь!"
+   },
+   {
+    "id": "battle_kill_11009_2",
+    "desc": "Enemy Killed while in E.G.O state",
+    "dlg": "Буду колебаться — не смогу двигаться вперёд."
+   },
+   {
+    "id": "battle_dead_11009_2",
+    "desc": "Death while in E.G.O state",
+    "dlg": "Возможно, мне не стоило... Идти по этому пути..."
+   },
+   {
+    "id": "battle_s3_11009_1_1",
+    "desc": "Stigimize: Before first coin",
+    "dlg": "Я нанесу на тебя..."
+   },
+   {
+    "id": "battle_s3_11009_1_2",
+    "desc": "Stigimize: After first coin",
+    "dlg": "Эту стигму!"
+   },
+   {
+    "id": "battle_s3_11009_2_1",
+    "desc": "Blazing Strike: Before coin",
+    "dlg": "Пусть мой пыл..."
+   },
+   {
+    "id": "battle_s3_11009_2_2",
+    "desc": "Blazing Strike: After coin",
+    "dlg": "Опалит тебя."
+   },
+   {
+    "id": "battle_s3_10110_1_txt",
+    "desc": "Goodbye Now, A Sorrow In You",
+    "dlg": "Покойся с миром."
+   },
+   {
+    "id": "battle_s3_10112_1_1-03",
+    "desc": "Flow of The Sword: First coin",
+    "dlg": "В конечном счёте..."
+   },
+   {
+    "id": "battle_s3_10112_1_3-02",
+    "desc": "Flow of The Sword: Final coin",
+    "dlg": "Все сгорят дотла!.."
+   },
+   {
+    "id": "battle_s3_10109_1_4-7",
+    "desc": "Hematic Coloring",
+    "dlg": "Проходной результат."
+   },
+   {
+    "id": "battle_s3_10106_1_3",
+    "desc": "Dimensional Rift: Kill on final coin",
+    "dlg": "В мгновение ока."
+   },
+   {
+      "id": "battle_s3_10512_1_2-02",
+      "desc": "Tanglecleaver [快刀亂麻]: Final coin",
+      "dlg": "Ускорение всеми патронами."
+   },
+   {
+      "id": "battle_s3_10512_1_2-03",
+      "desc": "Tanglecleaver [快刀亂麻]: Final coin",
+      "dlg": "Полный залп!"
+   },
+   {
+      "id": "battle_s4_10512_2",
+      "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: First coin",
+      "dlg": "А теперь я применю всю свою мощь."
+   },
+   {
+      "id": "battle_s3_10512_1_2-01",
+      "desc": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]: Final coin",
+      "dlg": "Ускорение всеми патронами!"
+   },
+   {
+      "id": "battle_s4_10512_1",
+      "desc": "Chachihu [揷翅虎] Passive",
+      "dlg": "Похоже ты достоин стоимости моих патронов."
+   },
+   {
+      "id": "battle_s3_10812_1_001",
+      "desc": "Crimson Spring: Before coin",
+      "dlg": "Мимолётная жизнь..."
+   },
+   {
+      "id": "battle_s3_10812_1_003",
+      "desc": "Crimson Spring: After coin",
+      "dlg": "... гасится так же легко, как и пламя."
+   },
+   {
+        "id": "battle_s2_10913_1_1",
+        "desc": "With the Power of Justice (Consumed Deep Tears)",
+        "dlg": "В целях защиты..."
+   },
+   {
+        "id": "battle_s2_10913_1_1-01",
+        "desc": "With the Tear-sharpened Sword (Consumed Deep Tears)",
+        "dlg": "В целях защиты..."
+   },
+   {
+        "id": "battle_s3_10913_1_1",
+        "desc": "Arcana Pierce and Arcana: Tear and Pierce: First coin",
+        "dlg": "Пока..."
+   },
+   {
+        "id": "battle_s3_10913_1_3",
+        "desc": "Arcana Pierce and Arcana: Tear and Pierce: Final coin",
+        "dlg": "Ничего не останется."
+   },
+   {
+    "id": "battle_s3_10907_1_1",
+    "desc": "Excruciating Study",
+    "dlg": "Так понятнее?"
+   },
+   {
+    "id": "battle_s3_10510_1",
+    "desc": "Scorch Knowledge: First coin",
+    "dlg": "Когда сталкиваешься со знанием..."
+   },
+   {
+    "id": "battle_s3_10510_1-01",
+    "desc": "Scorch Knowledge: Final coin",
+    "dlg": "Будь сдержаннее!"
+   },
+   {
+    "id": "battle_s3_10608_1_1-01",
+    "desc": "Cyclical Knowledge: First coin",
+    "dlg": "Сейчас же!"
+   },
+   {
+    "id": "battle_s3_10608_1_3",
+    "desc": "Cyclical Knowledge: Final coin",
+    "dlg": "Я отворю его для вас!.."
+   },
+   {
+    "id": "battle_special_10513_4",
+    "desc": "Bloodfeast consumed",
+    "dlg": "Горячая кровь... наполняет меня."
+   },
+   {
+    "id": "battle_s3_10513_1_4",
+    "desc": "Let us wear the coagulated mantle of blood",
+    "dlg": "Ах... Кульминация Парада. Это...  финал Увертюры."
+   },
+   {
+    "id": "battle_special_10513_3",
+    "desc": "Ouvertüre in Dashboard",
+    "dlg": "Я слышу звук фейерверков... Время пришло?"
+   },
+   {
+    "id": "battle_special_10513_2",
+    "desc": "Ouvertüre",
+    "dlg": "Увертюра!.."
+   },
+   {
+    "id": "battle_special_10513_1",
+    "desc": "La Mancha Parade inflicted",
+    "dlg": "Я дарую тебе покровительство Короля."
+   },
+   {
+    "id": "battle_special_10513_5",
+    "desc": "Using S3-2 at the same time as Princess Rodion's S3-2",
+    "dlg": "О Матушка! Как же я мечтал вновь ступать вперёд вместе с тобой!"
+   },
+   {
+    "id": "battle_special_10713_1",
+    "desc": "Overcharged",
+    "dlg": "Давай, нападай! Если ты так уверен в себе."
+   },
+   {
+    "id": "battle_s3_10713_1_1",
+    "desc": "Rip Space - CCA Overdrive: First coin",
+    "dlg": "Полностью заряжен!"
+   },
+   {
+    "id": "battle_s3_10713_1_5",
+    "desc": "Rip Space - CCA Overdrive: Final coin",
+    "dlg": "Я разрублю тебя надвое!"
+   },
+   {
+    "id": "battle_s3_11211_1_3-03",
+    "desc": "Firefist: On kill",
+    "dlg": "Эти паразитирующие ублюдки..."
+   },
+   {
+    "id": "battle_s3_11211_1_3-04",
+    "desc": "Firefist: On kill",
+    "dlg": "Эти паразитирующие ублюдки!"
+   },
+   {
+    "id": "battle_s3_11211_1_3-05",
+    "desc": "Firefist: On kill",
+    "dlg": "Эти паразитирующие ублюдки!"
+   },
 	  {
-      "id": "battle_s3_10712_1_4",
-      "desc": "Thundercleave: Final coin",
-      "dlg": "Твоя шея отлично видна!"
-    },
+    "id": "battle_s3_10712_1_4",
+    "desc": "Thundercleave: Final coin",
+    "dlg": "Твоя шея отлично видна!"
+   },
 	  {
-      "id": "battle_special_10712_1",
-      "desc": "Lenticular Rend (Dark Cloud Blade)",
-      "dlg": "Ты посягнул на нашу семью?!"
-    },
+    "id": "battle_special_10712_1",
+    "desc": "Lenticular Rend (Dark Cloud Blade)",
+    "dlg": "Ты посягнул на нашу семью?!"
+   },
 	  {
-      "id": "battle_special_10712_2",
-      "desc": "Hidden Skill Rules of The Backstreets (Dark Cloud Blade)",
-      "dlg": "Хах... эти ублюдки действительно хотят сдохнуть!"
-    },
+    "id": "battle_special_10712_2",
+    "desc": "Hidden Skill Rules of The Backstreets (Dark Cloud Blade)",
+    "dlg": "Хах... эти ублюдки действительно хотят сдохнуть!"
+   },
 	  {
-      "id": "battle_s3_10811_1_1-01",
-      "desc": "Ink Over: First coin",
-      "dlg": "Четвёртая форма..."
-    },
+    "id": "battle_s3_10811_1_1-01",
+    "desc": "Ink Over: First coin",
+    "dlg": "Четвёртая форма..."
+   },
 	  {
-      "id": "battle_s3_10811_1_3-02",
-      "desc": "Ink Over: Final coin",
-      "dlg": "«Суминури»"
-    },
+    "id": "battle_s3_10811_1_3-02",
+    "desc": "Ink Over: Final coin",
+    "dlg": "«Суминури»"
+   },
 	  {
-      "id": "battle_special_10811_1",
-      "desc": "Gathering Dark Clouds Passive",
-      "dlg": "Выходите и сражайтесь. Я позабочусь о прикрытии."
-    },
+    "id": "battle_special_10811_1",
+    "desc": "Gathering Dark Clouds Passive",
+    "dlg": "Выходите и сражайтесь. Я позабочусь о прикрытии."
+   },
 	  {
-        "id": "battle_s3_10115_1_6",
-        "desc": "",
-        "dlg": "<i><color=#50acff>*бип*</color></i> Ах... поднимаются волны."
+      "id": "battle_s3_10115_1_6",
+      "desc": "",
+      "dlg": "<i><color=#50acff>*бип*</color></i> Ах... поднимаются волны."
 	  },
-    {
-        "id": "battle_special_10115_1",
-        "desc": "",
-        "dlg": "Раз."
-    },
-    {
-        "id": "battle_special_10115_2",
-        "desc": "",
-        "dlg": "Два."
-    },
-    {
-        "id": "battle_special_10115_3",
-        "desc": "",
-        "dlg": "Три."
-    },
-    {
-        "id": "battle_special_10115_4",
-        "desc": "",
-        "dlg": "Четыре."
-    },
-    {
-        "id": "battle_special_10115_5",
-        "desc": "",
-        "dlg": "Пять."
-    },
-    {
-        "id": "battle_special_10115_6",
-        "desc": "",
-        "dlg": "Шесть."
-    },
-    {
-        "id": "battle_special_10115_7",
-        "desc": "",
-        "dlg": "Семь. Ещё два."
-    },
-    {
-        "id": "battle_special_10115_8",
-        "desc": "",
-        "dlg": "Восемь. Ещё один раз."
-    },
-    {
-        "id": "battle_special_10115_9",
-        "desc": "",
-        "dlg": "Девять. Исполнено."
-    },
-    {
-        "id": "battle_special_10115_10",
-        "desc": "",
-        "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
-    },
-    {
-        "id": "battle_special_10115_11",
-        "desc": "",
-        "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
-    },
-    {
-        "id": "battle_special_10115_12",
-        "desc": "",
-        "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
-    },
-    {
-        "id": "battle_special_10115_13",
-        "desc": "",
-        "dlg": "Возрадуйся в последние мгновения своей жизни. Ведь ты был избран."
-    },
-    {
-        "id": "battle_special_10115_14-1",
-        "desc": "",
-        "dlg": "Ха-ха... Надеюсь, моя дорогая дочь тоже помнит эту рану."
-    },
-    {
-        "id": "battle_special_10115_14-2",
-        "desc": "",
-        "dlg": "Ха-ха... Интересно, помнит ли моя дорогая дочь про эту рану..."
-    },
-    {
-        "id": "battle_special_10115_15-1",
-        "desc": "",
-        "dlg": "Я должен воссоздать собой сердце страдающего."
-    },
-    {
-        "id": "battle_special_10115_15-2",
-        "desc": "",
-        "dlg": "Воссоздание завершено."
-    },
-    {
-        "id": "battle_special_10115_16-1",
-        "desc": "",
-        "dlg": "<i><color=#50acff>*бип*</color></i> Воля Гермеса."
-    },
-    {
-        "id": "battle_special_10115_16-2",
-        "desc": "",
-        "dlg": "Исполнено со страстью."
-    },
-    {
-        "id": "battle_special_10115_17",
-        "desc": "",
-        "dlg": "Ах... Дон Кихот. Если ты покажешь себя хорошо в этой битве... Я восхвалю тебя."
-    },
-    {
-      "id": "battle_s3_10514_1_1",
+   {
+      "id": "battle_special_10115_1",
       "desc": "",
-      "dlg": "«Пылевая искра»: успешное проведение испытания."
-    },
-    {
-      "id": "battle_special_10514_1",
+      "dlg": "Раз."
+   },
+   {
+      "id": "battle_special_10115_2",
       "desc": "",
-      "dlg": "Перезаряжаюсь."
-    },
-    {
-      "id": "battle_special_10514_2",
+      "dlg": "Два."
+   },
+   {
+      "id": "battle_special_10115_3",
       "desc": "",
-      "dlg": "... Патроны закончились."
-    },
-    {
-      "id": "battle_special_10514_3",
+      "dlg": "Три."
+   },
+   {
+      "id": "battle_special_10115_4",
       "desc": "",
-      "dlg": "... Цель - защитить колонию."
-    },
-    {
-      "id": "battle_special_10514_4",
+      "dlg": "Четыре."
+   },
+   {
+      "id": "battle_special_10115_5",
       "desc": "",
-      "dlg": "Двойной выстрел."
-    },
-    {
-      "id": "battle_special_10514_5",
+      "dlg": "Пять."
+   },
+   {
+      "id": "battle_special_10115_6",
       "desc": "",
-      "dlg": "Целиться необязательно."
-    },
-    {
-      "id": "battle_special_10514_6-1",
+      "dlg": "Шесть."
+   },
+   {
+      "id": "battle_special_10115_7",
       "desc": "",
-      "dlg": "Цель подтверждена."
-    },
-    {
-      "id": "battle_special_10514_6-2",
+      "dlg": "Семь. Ещё два."
+   },
+   {
+      "id": "battle_special_10115_8",
       "desc": "",
-      "dlg": "Игольчатые пули."
-    },
-    {
-      "id": "battle_special_10514_6-3",
+      "dlg": "Восемь. Ещё один раз."
+   },
+   {
+      "id": "battle_special_10115_9",
       "desc": "",
-      "dlg": "«Окопная стрельба»."
-    },
-    {
-      "id": "battle_special_10514_6-4",
+      "dlg": "Девять. Исполнено."
+   },
+   {
+      "id": "battle_special_10115_10",
       "desc": "",
-      "dlg": "Патроны с картечью: успешное проведение испытания."
-    },
-    {
-      "id": "battle_special_10514_6-5",
+      "dlg": "Wading through a dream, the self nowhere to be found. (無我夢中)"
+   },
+   {
+      "id": "battle_special_10115_11",
       "desc": "",
-      "dlg": "Зажигательные патроны: успешное проведение испытания."
-    },
-    {
-      "id": "battle_special_10514_7",
+      "dlg": "Like the Naraka of Avīci and Raurava. (阿鼻叫喚)"
+   },
+   {
+      "id": "battle_special_10115_12",
       "desc": "",
-      "dlg": "Хм, дополнительные патроны получены."
-    },
-    {
-      "id": "battle_s3_10414_1_2",
+      "dlg": "Severed and torn until even the form is undone. (支離滅裂)"
+   },
+   {
+      "id": "battle_special_10115_13",
       "desc": "",
-      "dlg": "Отправляйся обратно в утробу."
-    },
-    {
-      "id": "battle_special_10414_1-1",
+      "dlg": "Возрадуйся в последние мгновения своей жизни. Ведь ты был избран."
+   },
+   {
+      "id": "battle_special_10115_14-1",
       "desc": "",
-      "dlg": "Шквальный огонь!"
-    },
-    {
-      "id": "battle_special_10414_1-1-01",
+      "dlg": "Ха-ха... Надеюсь, моя дорогая дочь тоже помнит эту рану."
+   },
+   {
+      "id": "battle_special_10115_14-2",
       "desc": "",
-      "dlg": "Шквальный огонь."
-    },
-    {
-      "id": "battle_special_10414_1-2",
+      "dlg": "Ха-ха... Интересно, помнит ли моя дорогая дочь про эту рану..."
+   },
+   {
+      "id": "battle_special_10115_15-1",
       "desc": "",
-      "dlg": "Веерная стрельба!"
-    },
-    {
-      "id": "battle_special_10414_1-2-01",
+      "dlg": "Я должен воссоздать собой сердце страдающего."
+   },
+   {
+      "id": "battle_special_10115_15-2",
       "desc": "",
-      "dlg": "Веерная стрельба."
-    },
-    {
-      "id": "battle_special_10414_1-3",
+      "dlg": "Воссоздание завершено."
+   },
+   {
+      "id": "battle_special_10115_16-1",
       "desc": "",
-      "dlg": "You've let your guard down."
-    },
-    {
-      "id": "battle_special_10414_1-4",
+      "dlg": "<i><color=#50acff>*бип*</color></i> Воля Гермеса."
+   },
+   {
+      "id": "battle_special_10115_16-2",
       "desc": "",
-      "dlg": "Bang. Bang."
-    },
-    {
-      "id": "battle_special_10414_2",
+      "dlg": "Исполнено со страстью."
+   },
+   {
+      "id": "battle_special_10115_17",
       "desc": "",
-      "dlg": "All that arises must cease (是生滅法). The longer it lasts, the less precious it becomes."
-    },
-    {
-      "id": "battle_special_10414_3",
-      "desc": "",
-      "dlg": "*свист* ...Пора стрелять."
-    },
-    {
-      "id": "battle_special_10414_4",
-      "desc": "",
-      "dlg": "Отправляйся обратно в могилу... вместе со всем, что хочет жить."
-    },
+      "dlg": "Ах... Дон Кихот. Если ты покажешь себя хорошо в этой битве... Я восхвалю тебя."
+   },
+   {
+    "id": "battle_s3_10514_1_1",
+    "desc": "",
+    "dlg": "«Пылевая искра»: успешное проведение испытания."
+   },
+   {
+    "id": "battle_special_10514_1",
+    "desc": "",
+    "dlg": "Перезаряжаюсь."
+   },
+   {
+    "id": "battle_special_10514_2",
+    "desc": "",
+    "dlg": "... Патроны закончились."
+   },
+   {
+    "id": "battle_special_10514_3",
+    "desc": "",
+    "dlg": "... Цель - защитить колонию."
+   },
+   {
+    "id": "battle_special_10514_4",
+    "desc": "",
+    "dlg": "Двойной выстрел."
+   },
+   {
+    "id": "battle_special_10514_5",
+    "desc": "",
+    "dlg": "Целиться необязательно."
+   },
+   {
+    "id": "battle_special_10514_6-1",
+    "desc": "",
+    "dlg": "Цель подтверждена."
+   },
+   {
+    "id": "battle_special_10514_6-2",
+    "desc": "",
+    "dlg": "Игольчатые пули."
+   },
+   {
+    "id": "battle_special_10514_6-3",
+    "desc": "",
+    "dlg": "«Окопная стрельба»."
+   },
+   {
+    "id": "battle_special_10514_6-4",
+    "desc": "",
+    "dlg": "Патроны с картечью: успешное проведение испытания."
+   },
+   {
+    "id": "battle_special_10514_6-5",
+    "desc": "",
+    "dlg": "Зажигательные патроны: успешное проведение испытания."
+   },
+   {
+    "id": "battle_special_10514_7",
+    "desc": "",
+    "dlg": "Хм, дополнительные патроны получены."
+   },
+   {
+    "id": "battle_s3_10414_1_2",
+    "desc": "",
+    "dlg": "Отправляйся обратно в утробу."
+   },
+   {
+    "id": "battle_special_10414_1-1",
+    "desc": "",
+    "dlg": "Шквальный огонь!"
+   },
+   {
+    "id": "battle_special_10414_1-1-01",
+    "desc": "",
+    "dlg": "Шквальный огонь."
+   },
+   {
+    "id": "battle_special_10414_1-2",
+    "desc": "",
+    "dlg": "Веерная стрельба!"
+   },
+   {
+    "id": "battle_special_10414_1-2-01",
+    "desc": "",
+    "dlg": "Веерная стрельба."
+   },
+   {
+    "id": "battle_special_10414_1-3",
+    "desc": "",
+    "dlg": "You've let your guard down."
+   },
+   {
+    "id": "battle_special_10414_1-4",
+    "desc": "",
+    "dlg": "Bang. Bang."
+   },
+   {
+    "id": "battle_special_10414_2",
+    "desc": "",
+    "dlg": "All that arises must cease (是生滅法). The longer it lasts, the less precious it becomes."
+   },
+   {
+    "id": "battle_special_10414_3",
+    "desc": "",
+    "dlg": "*свист* ...Пора стрелять."
+   },
+   {
+    "id": "battle_special_10414_4",
+    "desc": "",
+    "dlg": "Отправляйся обратно в могилу... вместе со всем, что хочет жить."
+   },
 
 
   {
@@ -1646,6 +1646,193 @@
     "id": "battle_s3_400036_1",
     "desc": "",
     "dlg": "Я не... жучок!"
-  }
+  },
+
+   {
+    "id": "battle_s2_10215_1_1",
+    "desc": "",
+    "dlg": "Я возьму этот ингредиент."
+   },
+   {
+    "id": "battle_s3_10215_1_1",
+    "desc": "",
+    "dlg": "Мои кости послужили каркасом, а плоть - наполнителем. Внимайте искусству фасада."
+   },
+   {
+    "id": "battle_special_10215_1",
+    "desc": "",
+    "dlg": "Полагаю, я должна продемонстрировать тебе искусство фасада."
+   },
+   {
+    "id": "battle_special_10215_2",
+    "desc": "",
+    "dlg": "Я не одобряю акты вандализма."
+   },
+   {
+    "id": "battle_special_10215_3",
+    "desc": "",
+    "dlg": "Вам всегда удаётся пробудить во мне вдохновение."
+   },
+
+
+   {
+    "id": "battle_s3_10614_1_2",
+    "desc": "",
+    "dlg": "Слышишь? Мелодичное созвучие пары плечевых костей и 24 ребер...! Мелодия Тибии!"
+   },
+   {
+    "id": "battle_special_10614_1",
+    "desc": "",
+    "dlg": "Я не могу допустить, чтобы зрители наблюдали такое постыдное зрелище."
+   },
+   {
+    "id": "battle_special_10614_1-01",
+    "desc": "",
+    "dlg": "Я не могу допустить, чтобы зрители наблюдали такое постыдное зрелище."
+   },
+   {
+    "id": "battle_special_10614_2",
+    "desc": "",
+    "dlg": "Вандализм запрещен!"
+   },
+   {
+    "id": "battle_special_10614_3",
+    "desc": "",
+    "dlg": "Фауст. Настало время продемонстрировать искусство Корпоцизма."
+   },
+   {
+    "id": "battle_special_10614_4",
+    "desc": "",
+    "dlg": "Пора закрывать выставку..."
+   },
+   {
+    "id": "battle_special_10614_4-01",
+    "desc": "",
+    "dlg": "Пора закрывать выставку..."
+   },
+   {
+    "id": "battle_special_10614_4-1",
+    "desc": "",
+    "dlg": "Всем вам. До свидания!"
+   },
+   {
+    "id": "battle_special_10614_4-01-1",
+    "desc": "",
+    "dlg": "Всем вам. До свидания!"
+   },
+   {
+    "id": "battle_special_10614_4-02",
+    "desc": "",
+    "dlg": "Пора закрывать выставку..."
+   },
+   {
+    "id": "battle_special_10614_4-02-1",
+    "desc": "",
+    "dlg": "Всем вам. До свидания!"
+   },
+   {
+    "id": "battle_special_10614_4-03",
+    "desc": "",
+    "dlg": "Пора закрывать выставку..."
+   },
+   {
+    "id": "battle_special_10614_4-03-1",
+    "desc": "",
+    "dlg": "Всем вам. До свидания!"
+   },
+   {
+    "id": "battle_special_10614_5",
+    "desc": "",
+    "dlg": "Какая жалость. Я надеялся, что шрамы придадут ей ещё большую выразительность..."
+   },
+   {
+    "id": "battle_special_10614_6",
+    "desc": "",
+    "dlg": "Ах...! Великолепное искусство...!"
+   },
+   {
+    "id": "battle_special_10614_7",
+    "desc": "",
+    "dlg": "Отсюда... Пожалуйста обратите внимание...!"
+   },
+
+   {
+    "id": "battle_s3_10515_1_2",
+    "desc": "",
+    "dlg": "Углубляясь в большую дикость..."
+   },
+   {
+    "id": "battle_special_10515_1",
+    "desc": "",
+    "dlg": "... с завершающим штрихом выразительности."
+   },  
+   {
+    "id": "battle_special_10515_3",
+    "desc": "",
+    "dlg": "Хмм. Шрамы как от когтей...\nТебе это к лицу."
+   },
+   {
+    "id": "battle_special_10515_4",
+    "desc": "",
+    "dlg": "Спасибо за вдохновение."
+   },
+    
+    
+   {
+    "id": "battle_s3_10915_1_1",
+    "desc": "",
+    "dlg": "Недоделанное произведение искусства..."
+   },
+   {
+    "id": "battle_s3_10915_1_5",
+    "desc": "",
+    "dlg": "... можно доработать, откусив от него кусочек!"
+   },
+   {
+    "id": "battle_special_10915_1_1",
+    "desc": "",
+    "dlg": "Нервы. Согласование!"
+   },
+   {
+    "id": "battle_special_10915_1_3",
+    "desc": "",
+    "dlg": "Свирепо!"
+   },
+   {
+    "id": "battle_special_10915_2_1",
+    "desc": "",
+    "dlg": "Могу я взглянуть?"
+   },
+   {
+    "id": "battle_special_10915_2_2",
+    "desc": "",
+    "dlg": "Выразительность оставляет желать лучшего...?"
+   },
+   {
+    "id": "battle_special_10915_2_3",
+    "desc": "",
+    "dlg": "Я бы сказала неплохо..."
+   },
+   {
+    "id": "battle_special_10915_3",
+    "desc": "",
+    "dlg": "Моя обожаемая самодельная работа...\nЯ продемонстрирую её для тебя!"
+   },
+   {
+    "id": "battle_special_10915_4",
+    "desc": "",
+    "dlg": "Импасто."
+   },
+   {
+    "id": "battle_special_10915_5",
+    "desc": "",
+    "dlg": "Хорошо~ Это были мои впечатления от этого."
+   },
+
+	 {
+    "id": "battle_s3_11109_1_2-01",
+    "desc": "",
+     "dlg": "Неплохо."
+   }
   ]
 }
