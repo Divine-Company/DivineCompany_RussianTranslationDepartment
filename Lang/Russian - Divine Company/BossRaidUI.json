@@ -2,95 +2,95 @@
   "dataList": [
     {
       "id": "boss_raid_ui_check_reward",
-      "content": "Check Rewards"
+      "content": "Проверить награды"
     },
     {
       "id": "boss_raid_ui_battle_effect_button_label",
-      "content": "Active Effects"
+      "content": "Новые эффекты"
     },
     {
       "id": "boss_raid_ui_battle_rule_button_label",
-      "content": "Progression"
+      "content": "Прогрессия"
     },
     {
       "id": "boss_raid_ui_enter_battle_button_label",
-      "content": "Enter"
+      "content": "Приступить"
     },
     {
       "id": "boss_raid_ui_give_up_button_label",
-      "content": "Reset Progress"
+      "content": "Обнулить прогресс"
     },
     {
       "id": "boss_raid_ui_challenging_phase",
-      "content": "Trial in Progress :: Phase {0}"
+      "content": "Испытание в процессе :: {0}-я фаза"
     },
     {
       "id": "boss_raid_ui_remain_hp",
-      "content": "Remaining HP"
+      "content": "Оставшиеся ОЗ"
     },
     {
       "id": "boss_raid_result_ui_result",
-      "content": "Battle Outcome"
+      "content": "Исход битвы"
     },
     {
       "id": "boss_raid_result_ui_total_turn",
-      "content": "Total Turns"
+      "content": "Всего ходов"
     },
     {
       "id": "boss_raid_result_ui_statistics_button_label",
-      "content": "Details"
+      "content": "Детали"
     },
     {
       "id": "boss_raid_result_ui_party_formation",
-      "content": "Teams Played"
+      "content": "Использованные команды"
     },
     {
       "id": "boss_raid_result_ui_party_turn",
-      "content": "Turn Count"
+      "content": "Количество ходов"
     },
     {
       "id": "boss_raid_result_ui_party_give_damage",
-      "content": "Damage Dealt"
+      "content": "Урона нанесено"
     },
     {
       "id": "boss_raid_result_ui_party_receive_damage",
-      "content": "Damage Taken"
+      "content": "Урона получено"
     },
     {
       "id": "boss_raid_battle_pause_ui_total_turn",
-      "content": "Total Turns"
+      "content": "Всего ходов"
     },
     {
       "id": "boss_raid_battle_pause_ui_settings_title",
-      "content": "Settings"
+      "content": "Настройки"
     },
     {
       "id": "boss_raid_battle_pause_ui_settings_desc",
-      "content": "Adjust various in-game settings."
+      "content": "Перейти в настройки."
     },
     {
       "id": "boss_raid_battle_pause_ui_retry_title",
-      "content": "Retry Stage"
+      "content": "Перезапустить этап"
     },
     {
       "id": "boss_raid_battle_pause_ui_retry_desc",
-      "content": "Retry the Stage with your current Team loadout."
+      "content": "Перезапустить этап для повторной попытки текущей командой."
     },
     {
       "id": "boss_raid_battle_pause_ui_exit_title",
-      "content": "Forfeit Stage"
+      "content": "Сдаться"
     },
     {
       "id": "boss_raid_battle_pause_ui_exit_desc",
-      "content": "Forfeit the current Stage progress and return to the pre-battle state."
+      "content": "Забросить текущий прогресс этапа и вернуться в окно подготовки к бою."
     },
     {
       "id": "boss_raid_battle_pause_ui_end_title",
-      "content": "Quit Battle and Save Progress"
+      "content": "Покинуть битву, сохранив прогресс"
     },
     {
       "id": "boss_raid_battle_pause_ui_end_desc",
-      "content": "Quit the current Stage and save your progress."
+      "content": "Покинуть текущий этап, сохранив прогресс."
     },
     {
       "id": "boss_raid_10001_boss_title",
@@ -106,19 +106,19 @@
     },
     {
       "id": "boss_raid_battle_pause_ui_phase_before",
-      "content": "PHASE {0}\nUnreached"
+      "content": "{0}-я фаза\nНе достигнута"
     },
     {
       "id": "boss_raid_battle_pause_ui_phase_current",
-      "content": "PHASE {0}\nIn Progress"
+      "content": "{0}-я фаза\nIn Progress"
     },
     {
       "id": "boss_raid_battle_pause_ui_phase_cleared",
-      "content": "PHASE {0}\nComplete"
+      "content": "{0}-я фаза\nЗавершена"
     },
     {
       "id": "boss_raid_ui_enter_from_event_ui",
-      "content": "Reflectrial][lairtcelfeR"
+      "content": "Зеркалание][еиналакреЗ"
     },
     {
       "id": "boss_raid_result_ui_failed",
@@ -130,55 +130,55 @@
     },
     {
       "id": "boss_raid_reward_ui_turn_condition",
-      "content": "{0} Turns or less"
+      "content": "За {0} ходов или меньше"
     },
     {
       "id": "boss_raid_reward_ui_warning_10001",
-      "content": "<size=80%>※ Reward claim period is open for a total of 4 weeks, from 2026. 04. 23 12:00 ~ to 2026. 05. 21 10:00 (KST)\nPlease note that rewards cannot be claimed past the Reward claim period.</size>"
+      "content": "<size=80%>※ Награды можно получить в течении 4 недель, начиная с 23.04.2026 06:00 до 21.05.2026 04:00 (МСК)\nПожалуйста обратите внимание, что награды нельзя будет получить после истечения этого периода.</size>"
     },
     {
       "id": "boss_raid_reward_tab_text_NORMAL",
-      "content": "Normal"
+      "content": "Обычный"
     },
     {
       "id": "boss_raid_reward_tab_text_HARD",
-      "content": "Hard"
+      "content": "Сложный"
     },
     {
       "id": "boss_raid_result_ui_formation_number",
-      "content": "Team {0}"
+      "content": "{0} Команда"
     },
     {
       "id": "boss_raid_ask_give_up_popup_title",
-      "content": "Quit Battle and Save Progress"
+      "content": "Покинуть битву, сохранив прогресс"
     },
     {
       "id": "boss_raid_ask_give_up_popup_desc",
-      "content": "Quit the battle in progress\nand resume with your next Team?"
+      "content": "Покинуть битву, сохранив прогресс\nи после продолжить другой командой?"
     },
     {
       "id": "boss_raid_ask_give_up_popup_desc_detail",
-      "content": "<size=80%>· Selecting \"Confirm\" below will <color=#f8c200>save the boss enemy's current phase, HP, SP, and your remaining E.G.O resources</color>.\nThen, you can choose to continue with your next Team of choice.</size>"
+      "content": "<size=80%>· Выбрав «Подтвердить», <color=#f8c200>сохранится текущая фаза босса, его ОЗ и ПР, а также ваши оставшиеся ЭГО-ресурсы</color>.\nПосле этого вы сможете продолжить битву другой командой.</size>"
     },
     {
       "id": "boss_raid_ask_exit_popup_title",
-      "content": "Forfeit Stage"
+      "content": "Сдаться"
     },
     {
       "id": "boss_raid_ask_exit_popup_desc",
-      "content": "Forfeit the battle in progress?"
+      "content": "Сдаться?"
     },
     {
       "id": "boss_raid_ask_exit_popup_desc_detail",
-      "content": "<size=80%>· Selecting \"Confirm\" below will revert you to the state <color=#f8c200>immediately before entering the battle</color> with your current Team.</size>"
+      "content": "<size=80%>· Выбрав «Подтвердить», вы вернётесь в момент <color=#f8c200>до перехода к бою</color> на этап подготовки вашей текущей команды.</size>"
     },
     {
       "id": "boss_raid_phase_buff_view_ui_title",
-      "content": "Active Effects"
+      "content": "Новые эффекты"
     },
     {
       "id": "boss_raid_rule_popup_title",
-      "content": "Progression"
+      "content": "Прогрессия"
     },
     {
       "id": "boss_raid_rule_popup_desc_10001",
@@ -186,27 +186,27 @@
     },
     {
       "id": "boss_raid_reward_ui_only_clear",
-      "content": "Clear Battle"
+      "content": "Пройти бой"
     },
     {
       "id": "boss_raid_ui_view_current_progress_state",
-      "content": "Battle Progress"
+      "content": "Прогресс битвы"
     },
     {
       "id": "boss_raid_ui_special_buff",
-      "content": "Effects: Shade of Reflection"
+      "content": "Эффекты: Тени отражения"
     },
     {
       "id": "boss_raid_ui_special_buff_hardship",
-      "content": "Tribulation"
+      "content": "Невзгоды"
     },
     {
       "id": "boss_raid_ui_statistics_popup_title",
-      "content": "Details"
+      "content": "Детали"
     },
     {
       "id": "boss_raid_hard_ship_buff_apply_only_for_hard_alarm",
-      "content": "Tribulation effects are activated only for the HARD Difficulty."
+      "content": "Эффекты Невзгод активны только для сложного режима"
     },
     {
       "id": "boss_raid_warning_lack_of_personality_before_start",
@@ -214,55 +214,55 @@
     },
     {
       "id": "boss_raid_ui_ask_to_quit",
-      "content": "Select \"Confirm\" below to <color=#ff0000>completely reset and erase the current battle progress.</color>\n\nReset battle progression?"
+      "content": "Выбрав «Подтвердить», вы <color=#ff0000>полностью обнулите текущий прогресс боя.</color>\n\nОбнулить прогресс боя?"
     },
     {
       "id": "boss_raid_preview_boss_info_button_label",
-      "content": "View\nEnemy Info"
+      "content": "Посмотреть\nИнформацию"
     },
     {
       "id": "boss_raid_difficulty_blocked",
-      "content": "To Unlock: {0}"
+      "content": "Чтобы разблокировать: {0}"
     },
     {
       "id": "boss_raid_next_difficulty_opened_side_popup",
-      "content": "{0} Difficulty unlocked."
+      "content": "{0} режим разблокирован."
     },
     {
       "id": "boss_raid_ui_recommend_state_title",
-      "content": "Recommended Specs"
+      "content": "Рекомендации"
     },
     {
       "id": "boss_raid_ui_recommend_state_desc",
-      "content": "- Identities : Uptie <color=#ff0000>Tier {1}</color>, Level <color=#ff0000>{0}</color>\n- E.G.O : Threadspinning <color=#ff0000>Tier {1}</color>"
+      "content": "- Личности: <color=#ff0000>{1} Ранг</color> Связи, <color=#ff0000>{0}</color> Уровень\n- ЭГО: <color=#ff0000>{1} Ранг</color> Сплетения"
     },
     {
       "id": "boss_raid_ui_progressing",
-      "content": "In Progress"
+      "content": "В процессе"
     },
     {
       "id": "boss_raid_banned_personality_exist",
-      "content": "An Undeployable Identity is Deployed."
+      "content": "Эту Личность выбирать запрещено."
     },
     {
       "id": "boss_raid_ask_give_up_popup_title_last_formation",
-      "content": "Quit Battle"
+      "content": "Покинуть битву"
     },
     {
       "id": "boss_raid_ask_give_up_popup_desc_last_formation",
-      "content": "Quit the battle in progress?"
+      "content": "Покинуть битву?"
     },
     {
       "id": "boss_raid_ask_give_up_popup_desc_detail_last_formation",
-      "content": "<size=80%>· Selecting \"Confirm\" below will <color=#f8c200>immediately forfeit the battle.</color>\n\n(※ This is your last available Team. Progress will not be saved, and this attempt will <color=#ff0000>end in defeat.</color>)</size>"
+      "content": "<size=80%>· Выбрав «Подтвердить», вы <color=#f8c200>автоматически сдадитесь.</color>\n\n(※ Это ваша последняя доступная команда. Прогресс не будет застчитан, и эта попытка <color=#ff0000>будет считаться поражением.</color>)</size>"
     },
     {
       "id": "boss_raid_battle_pause_ui_end_title_last_formation",
-      "content": "Quit Battle"
+      "content": "Покинуть битву"
     },
     {
       "id": "boss_raid_battle_pause_ui_end_desc_last_formation",
-      "content": "Quit the battle in progress.\n(※ This is your last available Team. Progress will not be saved, and this attempt will end in defeat.)"
+      "content": "Покинуть битву.\n(※ Это ваша последняя доступная команда. Прогресс не будет застчитан, и эта попытка будет считаться поражением.)"
     }
   ]
 }

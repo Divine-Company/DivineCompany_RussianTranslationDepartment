@@ -630,7 +630,7 @@
         {
           "level": 1,
           "name": "Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats",
-          "desc": "[CantDuel]\nPrioritizes enemy with the highest level\nThis Skill does not trigger Defense Skills\n[WhenUse] Coin Power +1 for every 8 [Laceration] on target (max 2)\n[EndSkill] Заканчивает этот ход",
+          "desc": "[CantDuel]\nPrioritizes enemy with the highest level\nThis Skill does not trigger Defense Skills\n[WhenUse] Coin Power +1 for every 8 [Laceration] on target (max 2)\n[EndSkill] Заканчивает ход",
           "coinlist": [
             {
               "coindescs": [

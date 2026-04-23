@@ -1518,7 +1518,7 @@
     },
     {
       "id": "clear_reward",
-      "content": "Награды за прохождение"
+      "content": "Награды"
     },
     {
       "id": "event_information",
@@ -2034,19 +2034,19 @@
     },
     {
       "id": "mainui_battleresult_consumable",
-      "content": "Module Cost"
+      "content": "Расходы"
     },
     {
       "id": "mainui_cont_mine_title",
-      "content": "Consecutive Battle"
+      "content": "Непрерывный бой"
     },
     {
       "id": "mainui_cont_mine_daily_bonus_desc",
-      "content": "{0} Daily Bonuses Applied"
+      "content": "Будет использовано {0} ежедневных бонуса"
     },
     {
       "id": "mainui_cont_mine_invalid_text",
-      "content": "Clear Stage once to unlock Consecutive Battle"
+      "content": "Для открытия Непрерывных боёв пройдите Этап хотя бы раз"
     }
   ]
 }

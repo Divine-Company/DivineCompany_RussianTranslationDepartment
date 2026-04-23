@@ -3552,7 +3552,7 @@
     },
     {
       "id": "GoldenOpportunity",
-      "name": "Наблюдение за творящейся картиной",
+      "name": "Обозревание живой картины",
       "desc": "- При наличии «Дом Пауков: Ученик Безымянного Пальца Фауст» на поле боя, получает 2 Стойкости в начале хода.\n- В конце хода: Значение понижается на 2.",
       "summary": "Gain Protection when conditions are met",
       "undefined": "-"
@@ -3580,7 +3580,7 @@
     },
     {
       "id": "FaubismMaskMeursault",
-      "name": "Фаувизм - Маска собаки (Le Fauvisme - Masque de Chien)",
+      "name": "Фовизм - Маска собаки (Le Fauvisme - Masque de Chien)",
       "desc": "- Наносит на 5% больше урона за каждые 3 Рваного цвета на цели (Макс. 15%).\n- Дополнительно накладывает на 1 больше Кровотечения и Горя Основными атаками.\n- До удара Основным навыком при отсутствии Кровотечения на цели, накладывает 2 Счётчика Кровотечения на цель (Один раз в ход).",
       "summary": "",
       "undefined": "-"
@@ -3594,35 +3594,35 @@
     },
     {
       "id": "FaubismWolfMaskRodion",
-      "name": "Фаувизм - Маска волка (Le Fauvisme - Masque de Loup)",
-      "desc": "- +1 к мин. и макс. Скорости.\n- Дополнительно накладывает на 1 больше Кровотечения и Горя Основными атаками.\n- При ударе накладывает 1 Счётчика Горя при наличии на цели 3+ Рваный цвет: Синий (Рваный цвет: Bleu) (Один раз в ход).\n- При ударе накладывает 1 Счётчика Кровотечения при наличии на цели 3+ Рваный цвет: Красный (Рваный цвет: Rouge) (Один раз в ход).",
+      "name": "Фовизм - Маска волка (Le Fauvisme - Masque de Loup)",
+      "desc": "- +1 к мин. и макс. Скорости.\n- Дополнительно накладывает на 1 больше Значения Кровотечения и Горя Основными атаками.\n- При ударе накладывает 1 Счётчика Горя при наличии на цели 3+ Рваный цвет: Синий (Рваный цвет: Bleu) (Один раз в ход).\n- При ударе накладывает 1 Счётчика Кровотечения при наличии на цели 3+ Рваный цвет: Красный (Рваный цвет: Rouge) (Один раз в ход).",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BoldBrushstrokesRodion",
-      "name": "Смелый мазок (Touche Hardie)",
-      "desc": "- Макс. Значение: 2.\n- Получает на 10% больше урона по ОЗ и ПР от Кровотечения и Горя за каждое значение (Макс. 20%, с округлением вниз).\n- В конце хода: Значение понижается на 1.",
+      "name": "Смелые мазки (Touche Hardie)",
+      "desc": "- Макс. Значение: 2.\n- Получает на 10% больше урона по ОЗ и ПР от Кровотечения и Горя за каждое Значение (Макс. 20%, с округлением вниз).\n- В конце хода: Значение понижается на 1.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IntenseColorsRodion",
       "name": "Яркая палитра (Palette Vibrante)",
-      "desc": "- Макс. Значение: 4.\n- Получает на (Значение x 2.5)% больше урона от Личностей с «Безымянный палец».\n· Если атакующий одновременно «Безымянный палец» и «School of Fauvism»,  вместо этого получает на (Значение x 5)% больше урона.\n- В начале Схваток: Случайно накладывается 1 Кровотечение, 1 Горе, 1 Счётчик Кровотечения или 1 Счётчик Горя (Значение) раз.\n- В конце Схваток: Этот эффект сбрасывается, вдвое снижая Значения Рваный цвет: Красный (Рваный цвет: Rouge) и Рваный цвет: Синий (Рваный цвет: Bleu) на этом персонаже (С округлением вниз).",
+      "desc": "- Макс. Значение: 4.\n- Получает на (Значение x 2.5)% больше урона от Личностей с «Безымянный палец».\n· Если атакующий одновременно «Безымянный палец» и «School of Fauvism»,  вместо этого получает на (Значение x 5)% больше урона.\n- В начале Схваток: Случайно накладывается 1 Кровотечение, 1 Горе, 1 Счётчик Кровотечения или 1 Счётчик Горя (Значение) раз.\n- В конце Схваток: Этот эффект сбрасывается, вдвое снижая Значения Рваного цвета: Красного (Рваного цвета: Rouge) и Рваного цвета: Синего (Рваного цвета: Bleu) на этом персонаже (С округлением вниз).",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ThankyouDocentRodion",
-      "name": "Оммаж (L'Hommage)",
+      "name": "Оммаж",
       "desc": "- Макс. Значение: 3.\n- В начале хода: Получает 1 Увеличение Уровня Атаки или 1 Увеличение силы защиты за каждое Значение (До 3 раз).\n- В конце хода: Эффект сбрасывается.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TestWaitDocentRodion",
-      "name": "Рефлексия (Réflexion)",
+      "name": "Рефлексия",
       "desc": "- Макс. Значение: 2.\n- При наличии этого эффекта не может использовать навык «Critique».\n- В начале хода: Восстанавливает 5 ПР.\n- В конце хода: Значение понижается на 1.\n- При окончании этого эффекта получает Оммаж (L'Hommage) на следующий ход, равный количеству Личностей с «The Ring Student».",
       "summary": "",
       "undefined": "-"
@@ -3643,53 +3643,53 @@
     },
     {
       "id": "FavorBuffTwth1stPhaseForUI",
-      "name": "Shade of Reflection [Rouge]",
-      "desc": "- The Identities' Attack Skills that are <color=#f8c200>Lust Skills</color> or <color=#f8c200>Skills that inflict Bleed or 'Unique Bleed'</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- Enemies take x1.5 damage from <color=#f8c200>Bleed</color> (rounded down)\n- Upon <color=#f8c200>A-Reson.</color>, gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for A-Reson. (2 times per turn)"
+      "name": "Оттенок отражения: Красный (Оттенок отражения: Rouge)",
+      "desc": "- Личности с атакующими навыками <color=#f8c200>Похоти</color> или <color=#f8c200>накладывающими Кровотечение или «Особое Кровотечение»</color> наносят на 25% больше урона (Навыки ЭГО вместо этого наносят на 100% больше урона).\n- Противники получают в 1.5 раза больше урона от <color=#f8c200>Кровотечения</color> (Округляя вниз).\n- При <color=#f8c200>Абсолютном Резонансе</color>, даётся 1 случайный наименьший ЭГО-ресурс и 1 ЭГО-ресурс Греха, который был использован при Абсолютном Резонансе (Два раза в ход)."
     },
     {
       "id": "FavorBuffTwth2ndPhaseForUI",
-      "name": "Shade of Reflection [Bleu]",
-      "desc": "- The Identities' Attack Skills that are <color=#f8c200>Gloom Skills</color> or <color=#f8c200>Skills that inflict Sinking or 'Unique Sinking'</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- Turn Start: Enemies in <color=#f8c200>Panic</color> gain 3 Fragile\n- <color=#f8c200>The Finger-faction Identities</color> deal +15% damage to and take -15% damage from enemies"
+      "name": "Оттенок отражения: Синий (Оттенок отражения: Bleu)",
+      "desc": "- Личности с атакующими навыками <color=#f8c200>Уныния</color> или <color=#f8c200>накладывающими Горе или «Особое Горе»</color> наносят на 25% больше урона (Навыки ЭГО вместо этого наносят на 100% больше урона).\n- В начале хода: На противников с <color=#f8c200>Паникой</color> накладывается 3 Хрупкости.\n- <color=#f8c200>Личности из Пальцев</color> наносят 15% на урона и получают на 15% меньше урона от противников."
     },
     {
       "id": "FavorBuffTwthHardForUI",
-      "name": "Tribulation",
-      "desc": "- <color=#ff0000>Max HP</color> +25%\n- Skills inflict +1 more <color=#ff0000>Bleed Potency, Sinking Potency, Mauled Color [Rouge], and Mauled Color [Bleu]</color>\n- If target has <color=#ff0000>Palette Vibrante</color>, Clash Power +2 and Base Power +1\n- [Phase 2 exclusive effect] Turn Start: If this unit will use \"Burst Forth the Pulsing Crimson under Your Skin\" this turn, <color=#ff0000>heal 10 SP on self</color> for every Sinner that has <color=#ff0000>Palette Vibrante</color> (max 30 SP)"
+      "name": "Невзгоды",
+      "desc": "- +25% <color=#ff0000>Макс. ОЗ</color>.\n- Дополнительно накладывает навыками на 1 больше следующих эффектов:\n· <color=#ff0000>Значение Кровотечения</color>;\n· <color=#ff0000>Значение Горя</color>;\n· <color=#ff0000>Рваный цвет: Красный (Рваный цвет: Rouge)</color>;\n· <color=#ff0000>Рваный цвет: Синий (Рваный цвет: Bleu)</color>.\n- +1 к Базовой Силе и +2 к Силе в Схватке при наличии на цели <color=#ff0000>Яркой палитры (Palette Vibrante)</color>.\n- [Эффект 2-й фазы] В начале хода: Если этот персонаж собирается использовать «Burst Forth the Pulsing Crimson under Your Skin», то он <color=#ff0000>восстанавливает 10 ПР</color> за каждого Грешника, на котором есть <color=#ff0000>Яркая палитра (Palette Vibrante)</color> (Макс. 30 ПР)."
     },
     {
       "id": "FavorBuffTwth",
-      "name": "Shade of Reflection [Rouge]",
-      "desc": "- Attack Skills that are Lust Skills or Skills that inflict Bleed or 'Unique Bleed' deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- Upon A-Reson., gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for A-Reson. (2 times per turn)",
+      "name": "Оттенок отражения: Красный (Оттенок отражения: Rouge)",
+      "desc": "- Атакующие навыки Похоти или накладывающие Кровотечение или «Особое Кровотечение» наносят на 25% больше урона (Навыки ЭГО вместо этого наносят на 100% больше урона).\n- При Абсолютном Резонансе, даётся 1 случайный наименьший ЭГО-ресурс и 1 ЭГО-ресурс Греха, который был использован при Абсолютном Резонансе (Два раза в ход).",
       "summary": "Bleed Skills, 'Unique Bleed' Skills, and Lust Skills deal more damage"
     },
     {
       "id": "FavorBuffTwthEnemy",
-      "name": "Shade of Reflection [Rouge]",
-      "desc": "- Take x1.5 damage from Bleed (rounded down)",
+      "name": "Оттенок отражения: Красный (Оттенок отражения: Rouge)",
+      "desc": "- Получает в 1.5 раза больше урона от Кровотечения (Округляя вниз).",
       "summary": "Take more damage from Bleed"
     },
     {
       "id": "FavorBuffTwthTwo",
-      "name": "Shade of Reflection [Bleu]",
-      "desc": "- Attack Skills that are Gloom Skills or Skills that inflict Sinking or 'Unique Sinking' deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- The Finger-faction Identities deal +15% damage to and take -15% damage from enemies",
+      "name": "Оттенок отражения: Синий (Оттенок отражения: Bleu)",
+      "desc": "- Личности с атакующими навыками Уныния или накладывающими Горе или «Особое Горе» наносят на 25% больше урона (Навыки ЭГО вместо этого наносят на 100% больше урона).\n- Личности из Пальцев наносят 15% на урона и получают на 15% меньше урона от противников.",
       "summary": "Sinking Skills, 'Unique Sinking' Skills, and Gloom Skills deal more damage"
     },
     {
       "id": "FavorBuffTwthEnemyTwo",
-      "name": "Shade of Reflection [Bleu]",
-      "desc": "- Turn Start: When Panicked, gain 3 Fragile",
+      "name": "Оттенок отражения: Синий (Оттенок отражения: Bleu)",
+      "desc": "- В начале хода: При Панике накладывается 3 Хрупкости.",
       "summary": "When Panicked, gain Fragile"
     },
     {
       "id": "FavorBuffTwthHard",
-      "name": "Tribulation",
-      "desc": "- Max HP +25%\n- Skills inflict +1 more Bleed Potency, Sinking Potency, Mauled Color [Rouge], and Mauled Color [Bleu]\n- If target has Palette Vibrante, Clash Power +2 and Base Power +1",
+      "name": "Невзгоды",
+      "desc": "- +25% Макс. ОЗ.\n- Дополительно накладывает навыками на 1 больше следующих эффектов:\n· Значение Кровотечения;\n· Значение Горя;\n· Рваный цвет: Красный (Рваный цвет: Rouge);\n· Рваный цвет: Синий (Рваный цвет: Bleu).\n- +1 к Базовой Силе и +2 к Силе в Схватке при наличии на цели Яркой палитры (Palette Vibrante).",
       "summary": "Inflict more Bleed Potency, Sinking Potency, and Mauled Color\nIf target has Palette Vibrante, gain Clash Power and Base Power"
     },
     {
       "id": "FavorBuffTwthHardTwo",
-      "name": "Tribulation",
-      "desc": "- Max HP +25%\n- Skills inflict +1 more Bleed Potency, Sinking Potency, Mauled Color [Rouge], and Mauled Color [Bleu]\n- If target has Palette Vibrante, Clash Power +2 and Base Power +1\n- [Phase 2 exclusive effect] Turn Start: If this unit will use \"Burst Forth the Pulsing Crimson under Your Skin\" this turn, heal 10 SP on self for every Sinner that has Palette Vibrante (max 30 SP)",
+      "name": "Невзгоды",
+      "desc": "- +25% Макс. ОЗ.\n- Дополительно накладывает навыками на 1 больше следующих эффектов:\n· Значение Кровотечения;\n· Значение Горя;\n· Рваный цвет: Красный (Рваный цвет: Rouge);\n· Рваный цвет: Синий (Рваный цвет: Bleu).\n- +1 к Базовой Силе и +2 к Силе в Схватке при наличии на цели Яркой палитры (Palette Vibrante).\n- [Эффект 2-й фазы] В начале хода: Если этот персонаж собирается использовать «Burst Forth the Pulsing Crimson under Your Skin», то он восстанавливает 10 ПР за каждого Грешника, на котором есть Яркая палитра (Palette Vibrante) (Макс. 30 ПР).",
       "summary": "Inflict more Bleed Potency, Sinking Potency, and Mauled Color\nIf target has Palette Vibrante, gain Clash Power and Base Power"
     }
   ]

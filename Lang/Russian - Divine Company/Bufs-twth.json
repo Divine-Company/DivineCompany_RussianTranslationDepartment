@@ -2,85 +2,85 @@
   "dataList": [
     {
       "id": "BearClawWound",
-      "name": "Mauled Color [Rouge]",
-      "desc": "- Max Stack: 9\n- When hit, gain 1 Bleed Potency for every 3 Stack (once per turn)\n- Turn End: Gain 1 Defense Level Down next turn for every 4 Stack (max 2)\n- Turn End: Lose 1 Stack",
+      "name": "Рваный цвет: Красный (Рваный цвет: Rouge)",
+      "desc": "- Макс. Значение: 9.\n- При получении удара накладывается 1 Кровотечение за каждые 3 Значения (Один раз в ход).\n- В конце хода: Получает 1 Уменьшение силы защиты на следующий ход за каждые 4 Значения (Макс. 2).\n- В конце хода: Значение понижается на 1.",
       "summary": "",
       "undefined": "-",
       "flavor": "'Some say that the Ring's paint is made from the same base material as Augmentation Tattoos—they are both nigh-indelible pigments that take considerable effort to erase, let alone bleach.'"
     },
     {
       "id": "EagleClawWound",
-      "name": "Mauled Color [Bleu]",
-      "desc": "- Max Stack: 9\n- When hit, gain 1 Sinking Potency for every 3 Stack (once per turn)\n- Turn End: At 5+ Stack, lose 5 SP\n- Turn End: Lose 1 Stack",
+      "name": "Рваный цвет: Синий (Рваный цвет: Bleu)",
+      "desc": "-  Макс. Значение: 9.\n- При получении удара накладывается 1 Горе за каждые 3 Значения (Один раз в ход).\n- В конце хода: При 5+ Значения, теряет 5 ПР.\n- В конце хода: Значение понижается на 1.",
       "summary": "",
       "undefined": "-",
       "flavor": "'If the Middle uses their tattoos for self-augmentation, does that make the Ring's tattoos more brands that, when forcibly applied, weaken their enemies?'"
     },
     {
       "id": "BoldBrushstrokes",
-      "name": "Touche Hardie",
-      "desc": "- While this unit has this effect, double the amount of HP and SP damage this unit takes from Bleed and Sinking\n- Turn End: Lose 1 Stack\n- Max Stack: 1",
+      "name": "Смелые мазки (Touche Hardie)",
+      "desc": "- Макс. Значение: 1.\n- Получает в два раза больше урона по ОЗ и ПР от Кровотечения и Горя.\n- В конце хода: Значение понижается на 1.",
       "summary": "",
       "undefined": "-",
       "flavor": "\"Wolven claws, lynx claws... and even those of turtles, so minuscule yet intricately arranged... What a bold expression.\""
     },
     {
       "id": "IntenseColors",
-      "name": "Palette Vibrante",
-      "desc": "- Take +(Stack x 5)% damage from The Ring-faction units\n· If the attacker is in The Ring School of Fauvism faction, take +(Stack x 10)% damage instead\n- Combat Start: Gain (Stack +1) Bleed, Sinking, Bleed Count, and Sinking Count\n- Combat End: This effect expires. Halve Mauled Color [Rouge] and Mauled Color [Bleu] Stacks on this unit (rounded down)\n- Max Stack: 4",
+      "name": "Яркая палитра (Palette Vibrante)",
+      "desc": "- Макс. Значение: 4.\n- Получает на (Значение x 5)% больше урона от персонажей с «Безымянный палец».\n· Если атакующий одновременно «Безымянный палец» и «School of Fauvism»,  вместо этого получает на (Значение x 10)% больше урона.\n- В начале Схваток: Накладывается (Значение + 1) Кровотечения и его Счётчика, а также Горя и его Счётчика.\n- В конце Схваток: Этот эффект сбрасывается, вдвое снижая Значения Рваного цвета: Красного (Рваного цвета: Rouge) и Рваного цвета: Синего (Рваного цвета: Bleu) на этом персонаже (С округлением вниз).",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "FaubismWolfMask",
-      "name": "Le Fauvisme - Masque de Loup",
-      "desc": "- Min & Max Speed +1\n- Inflict +1 more Bleed and Sinking Potency with Skills\n- Before hitting, if target does not have Sinking, inflict +2 Sinking Count (once per Sinner per turn)\n- Before Getting Hit, if target does not have Bleed, inflict +2 Bleed Count (once per Sinner per turn)",
+      "name": "Фовизм - Маска волка (Le Fauvisme - Masque de Loup)",
+      "desc": "- +1 к мин. и макс. Скорости.\n- Дополнительно накладывает навыками на 1 больше Значения Кровотечения и Горя.\n- Перед ударом, при отсутствии на цели Горя, накладывает 2 Счётчика Горя (Один раз на Грешника в ход)\n- Перед получением удара, при отсутствии на цели Кровотечения, накладывает 2 Счётчика Кровотечения (Один раз на Грешника в ход)",
       "summary": "",
       "undefined": "-",
       "flavor": "\"One might ask: What even distinguishes les Fauves from factions such as Heishous, R Corp. Packs, and more that incorporate beasts into their identities?\"\n\n\"A reasonable query, of that there is no doubt; to that I say we are distinguished by the transcendence of beastliness into artistic costumery, while the Heishous have mindlessly jammed it into their anatomies, disregarding their aesthetic qualities.\""
     },
     {
       "id": "FaubismWolfMaskBlooded",
-      "name": "Le Fauvisme - Masque de Loup Ensanglanté",
-      "desc": "- Deal +20% damage; convert all Coins into Unbreakable Coins\n- Min & Max Speed +1\n- Inflict +1 more of the following negative effects with Skills\n· Bleed Potency and Count\n· Sinking Potency and Count\n- Before hitting, if target does not have Sinking, inflict +2 Sinking Count (3 times per Sinner per turn)\n- Before Getting Hit, if target does not have Bleed, inflict +2 Bleed Count (3 times per Sinner per turn)",
+      "name": "Фовизм - Маска окровавленного волка (Le Fauvisme - Masque de Loup Ensanglanté)",
+      "desc": "- Наносит на 20% больше урона.\n- Преобразует все Монеты в Нерушимые Монеты.\n- +1 к мин. и макс. Скорости.\n- Дополнительно накладывает навыками на 1 больше следующих эффектов:\n· Значения Кровотечения и его Счётчика;\n· Значения Горя и его Счётчика.\n- Перед ударом, при отсутствии на цели Горя, накладывает 2 Счётчика Горя (Три раза на Грешника в ход)\n- Перед получением удара, при отсутствии на цели Кровотечения, накладывает 2 Счётчика Кровотечения (Три раза на Грешника в ход)",
       "summary": "",
       "undefined": "-",
       "flavor": "One does not simply awaken the power of one's inner ferity by donning a beastly mask.\nThe interior of each headgear worn by these artists is lined with a mat of needles dipped in the Fauvist paint, which is injected into the body upon equipment. \n\nThus is the paint of the Ring—and these artists, regardless of their School, are all bound to use it."
     },
     {
       "id": "PanicChangeLock",
-      "name": "Fixed Panic",
-      "desc": "This unit's Panic Type does not change when inflicted with an effect that changes Panic Types. Instead, this unit is inflicted with an effect that is inflicted against targets without SP.",
+      "name": "Неизменная Паника",
+      "desc": "Тип паники этого персонажа не изменяется при накладывании эффекта, который изменяет тип паники.\nВместо этого, на персонажа накладывается эффект, который применяется на цели без ПР.",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "Fauvism_Lowmorale",
-      "name": "Faltering Inspiration",
-      "desc": "- Low Morale\n- If target this unit attacks has Mauled Color, deal +10% damage\n- Gain 1 Fragile",
+      "name": "Угасающее вдохновение",
+      "desc": "- Низкий рассудок.\n- Наносит на 10% больше урона при наличии на цели Рваного цвета.\n- Накладывается 1 Хрупкость.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Fauvism_Panic",
-      "name": "Faltering Inspiration",
-      "desc": "- Panic\n- If target this unit attacks has Mauled Color, deal +20% damage\n- Gain 2 Fragile",
+      "name": "Угасающее вдохновение",
+      "desc": "- Паника.\n- Наносит на 20% больше урона при наличии на цели Рваного цвета.\n- Накладывается 2 Хрупкости.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FauvismDocent_Lowmorale",
-      "name": "Coloriage Impulsif",
-      "desc": "- Low Morale\n- Deal +2.5% damage for every type of negative effect on target this unit attacks (max 15%)\n- Gain 1 Fragile",
+      "name": "Импульсивное разрисовывание (Coloriage Impulsif)",
+      "desc": "- Низкий рассудок.\n- Наносит на 2.5% больше урона за каждый тип негативных эффектов на цели (Макс. 15%).\n- Накладывается 1 Хрупкость.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FauvismDocent_Panic",
-      "name": "Coloriage Impulsif",
-      "desc": "- Panic\n- Deal +5% damage for every type of negative effect on target this unit attacks (max 30%)\n- Gain 2 Fragile",
+      "name": "Импульсивное разрисовывание (Coloriage Impulsif)",
+      "desc": "- Паника.\n- Наносит на 5% больше урона за каждый тип негативных эффектов на цели (Макс. 30%).\n- Накладывается 2 Хрупкости.",
       "summary": "",
       "undefined": "-"
     },
@@ -118,8 +118,8 @@
     },
     {
       "id": "KarmaOfIndexEnemy",
-      "name": "Karmic Consequence",
-      "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
+      "name": "Кармическое последствие",
+      "desc": "- Макс. значение: 100.\n- В начале хода: Накладывает:\n· 1 Уменьшение Уровня Защиты за каждые 10 Значения;\n· 1 Хрупкость за каждые 20 Значения.",
       "summary": "",
       "undefined": "-",
       "flavor": "Receive the Prescript and undertake it. Its execution is etched as karma, drawn into a ceaseless cycle that circles back to the hand of its executor."
