@@ -674,7 +674,7 @@
     {
       "id": "Assemble",
       "name": "Fanatic",
-      "desc": "Skill Final Power +{0} against units with Nails for this turn. (Applies to clashes as well)",
+      "desc": "Skill Final Power +{0} against units that have Nails for this turn. (Applies to clashes as well)",
       "summary": "Final Power +{0}"
     },
     {
@@ -901,7 +901,7 @@
     {
       "id": "AssemblePersonality",
       "name": "Fanatic",
-      "desc": "Skill Final Power +{0} against units with Nails for this turn. (Applies to clashes as well)",
+      "desc": "Skill Final Power +{0} against units that have Nails for this turn. (Applies to clashes as well)",
       "summary": "Final Power +{0}"
     },
     {
@@ -1648,7 +1648,7 @@
     {
       "id": "Unjust_Enrichment",
       "name": "Unjust Enrichment",
-      "desc": "- Gained on Heads Hit against target with Bleed (Max 4)\n- When 'Bullets are Pricey' Passive activates, consume all Unjust Enrichment stack to deal bonus damage"
+      "desc": "- Gained on Heads Hit against targets that have Bleed (Max 4)\n- When 'Bullets are Pricey' Passive activates, consume all Unjust Enrichment Stack to deal bonus damage"
     },
     {
       "id": "RetaliationBook",
@@ -1675,7 +1675,7 @@
     {
       "id": "DuelDeclaration_Sinclair",
       "name": "Declared Duel - Sinclair",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit that has the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
     },
     {
       "id": "VibrationExplosion",
@@ -1850,7 +1850,7 @@
     {
       "id": "EchoOfMansion",
       "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- SP Units: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit next turn\n- Non-SP Units: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
       "summary": ""
     },
     {
@@ -1951,7 +1951,7 @@
     {
       "id": "TimeSuspend",
       "name": "Time Moratorium",
-      "desc": "- Does not take any damage as long as this effect is active; store all damage received instead\n- Combat End: If there is only 1 Count left of this effect, the effect triggers {0} Tremor Burst(s) after dealing {3} Sloth damage.\n- Turn End: gain 1 Stack and lose 1 Count\n- The Time Moratorium will immediately expire after triggering the Tremor Burst and the Sloth damage effect if another instance of Time Moratorium is inflicted on a unit with Time Moratorium.\n- Stored damage: {2}",
+      "desc": "- Does not take any damage as long as this effect is active; store all damage received instead\n- Combat End: If there is only 1 Count left of this effect, the effect triggers {0} Tremor Burst(s) after dealing {3} Sloth damage.\n- Turn End: Gain 1 Stack and lose 1 Count\n- The Time Moratorium will immediately expire after triggering the Tremor Burst and the Sloth damage effect if another instance of Time Moratorium is inflicted on a unit that has Time Moratorium.\n- Stored damage: {2}",
       "summary": ""
     },
     {
@@ -2072,13 +2072,13 @@
     {
       "id": "WanderingFootsteps",
       "name": "Impending Ruin",
-      "desc": "- Units with SP: change their Panic Type to \"\"Ruin\"\".\n(Ruin: When this unit enters Low Morale state, gain 3 Sinking at every Turn End and lose 1 Clash Power. When this unit Panics, gain 5 Sinking and 3 Sinking Count at every Turn End and lose 2 Clash Power)\n- Units without SP: -10% chance to flip Heads\n- Reduced by 1 at Turn End\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"\"Units without SP\"\" conditional to certain enemies that have SP but can't change their Panic Types.",
+      "desc": "- SP Units: change their Panic Type to \"Ruin\".\n(Ruin: When this unit enters Low Morale state, gain 3 Sinking at every Turn End and lose 1 Clash Power. When this unit Panics, gain 5 Sinking and 3 Sinking Count at every Turn End and lose 2 Clash Power)\n- Non-SP Units: -10% chance to flip Heads\n- Reduced by 1 at Turn End\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Non-SP Units\" conditional to certain enemies that have SP but can't change their Panic Types.",
       "summary": ""
     },
     {
       "id": "WanderingFootsteps_Main",
       "name": "Impending Ruin",
-      "desc": "- Targets with SP: Change their Panic Type to 'Ruin'\n- Reduced by 1 at Turn End",
+      "desc": "- SP Units: Change their Panic Type to 'Ruin'\n- Reduced by 1 at Turn End",
       "summary": ""
     },
     {
@@ -2206,21 +2206,21 @@
     {
       "id": "BloomingThornsRodionFirst",
       "name": "Blooming Thorn",
-      "desc": "- Max Value: 10\n- Stage 1 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
+      "desc": "- Max Value: 10\n- Stage 1 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture using this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionSecond",
       "name": "Blooming Thorn II",
-      "desc": "- Max Value: 20\n- Stage 2 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
+      "desc": "- Max Value: 20\n- Stage 2 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture using this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloomingThornsRodionThird",
       "name": "Blooming Thorn III",
-      "desc": "- Max Value: 30\n- Stage 3 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture with this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
+      "desc": "- Max Value: 30\n- Stage 3 Blooming Thorn\n- Gain 1 Defense Level for every 2 Stack (max 5)\n- When hit, inflict 1 Bleed against the attacker and lose 1 Stack\n- [The Princess of La Manchaland Rodion Only]\n· At max Stack, convert to the next Stage of this effect.\n· Inflict +(Stage - 1) more Bleed and Rupture using this unit's Base Attack Skill Coin effects.\n· Reverts to previous Stage when the Stack drops below the requirements.",
       "summary": "",
       "undefined": "-"
     },
@@ -2398,7 +2398,7 @@
     {
       "id": "EngageToBattle",
       "name": "Battle Ready",
-      "desc": "Max Value: 1\nBleed Potency and Count inflicted with this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter",
+      "desc": "Max Value: 1\nBleed Potency and Count inflicted using this unit's Skill or Coin effects: +1\nGain 1 Slash Power Up and 3 Slash DMG Up for the duration of this Encounter",
       "summary": "Enhance Slash Skills and inflict more Bleed"
     },
     {
@@ -2448,7 +2448,7 @@
     {
       "id": "VendettaMark",
       "name": "Vendetta Mark",
-      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% damage from The Middle enemies for every Stack (max 20%)\n- Turn End: the unit with the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one with a higher HP percentage)",
+      "desc": "- Max Stack: 10\n- Consumed by certain Skills or Passives\n- Take +2% damage from The Middle enemies for every Stack (max 20%)\n- Turn End: The unit that has the highest Stack of this effect gains 1 Sibling Vengeance Mark next turn\n(Counted separately from Vengeance Mark; if more than a single unit has the highest Stack of this effect, this effect targets the one that has a higher HP percentage)",
       "summary": "",
       "undefined": "-"
     },
@@ -2504,7 +2504,7 @@
     {
       "id": "SupportProtect",
       "name": "Assist Defense",
-      "desc": "- Max Stack: 3\n- When an ally is about take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the exclusive Skill that activates for Assist Defense\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
+      "desc": "- Max Stack: 3\n- When an ally is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, use the unique Skill that activates for Assist Defense\n- When there are multiple allies that have Assist Defense Stacks, the ally that has the highest Stack has the highest activation priority\n- Does not activate for allies who equipped Defense Skills\n- Expires at Turn End",
       "summary": "",
       "undefined": "-"
     },
@@ -2721,7 +2721,7 @@
     {
       "id": "HeishouSupportProtect",
       "name": "Lordsguard",
-      "desc": "- Unique Assist Defense\n- Max Stack: 1\n- When The Lord of Hongyuan Hong Lu is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, copy and use The Lord of Hongyuan Hong Lu's 'Lordsguard' Skill\n- When there are multiple allies with Assist Defense Stacks, the ally with the highest Stack has the highest activation priority\n- This effect counts as Assist Defense, and is counted toward calculating Assist Defense Stacks\n- Expires at Turn End",
+      "desc": "- Unique Assist Defense\n- Max Stack: 1\n- When The Lord of Hongyuan Hong Lu is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self; then, copy and use The Lord of Hongyuan Hong Lu's 'Lordsguard' Skill\n- When there are multiple allies that have Assist Defense Stacks, the ally that has the highest Stack has the highest activation priority\n- This effect counts as Assist Defense, and is counted toward calculating Assist Defense Stacks\n- Expires at Turn End",
       "summary": "",
       "undefined": "-"
     },
@@ -2827,14 +2827,14 @@
     {
       "id": "GazeRyoshu",
       "name": "Gaze",
-      "desc": "- Max Stack: 7\n- Take and deal +10% damage from and against Ryōshū for every 1 Stack of Gaze\n- On death, transfers to this unit's ally(for Focused Encounters, a different Part) either without or with the least Contempt or Gaze (this effect does not activate if this unit was killed during the Skill attack 'Cascading Gaze of Awe Underneath Contempt')\n- Turn End: at 7 Stacks, convert this effect into Contempt next turn",
+      "desc": "- Max Stack: 7\n- Take and deal +10% damage from and against Ryōshū for every 1 Stack of Gaze\n- On death, transfers to this unit's ally (for Focused Encounters, a different Part) that has no Contempt or Gaze, or has the least Contempt or Gaze (this effect does not activate if this unit was killed during the Skill attack 'Cascading Gaze of Awe Underneath Contempt')\n- Turn End: At 7 Stacks, convert this effect into Contempt next turn",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ContemptRyoshu",
       "name": "Contempt",
-      "desc": "- Max Stack: 1\n- Take and deal -50% damage from and against Ryōshū\n- Targets with Contempt cannot gain Gaze\n- On death, transfers to this unit's ally(for Focused Encounters, a different Part) either without or with the least Contempt or Gaze (this effect does not activate if this unit was killed during the Skill attack 'Cascading Gaze of Awe Underneath Contempt')\n- Turn End: expires; then, this unit gains 7 Gaze next turn",
+      "desc": "- Max Stack: 1\n- Take and deal -50% damage from and against Ryōshū\n- Targets that have Contempt cannot gain Gaze\n- On death, transfers to this unit's ally (for Focused Encounters, a different Part) that has no Contempt or Gaze, or has the least Contempt or Gaze (this effect does not activate if this unit was killed during the Skill attack 'Cascading Gaze of Awe Underneath Contempt')\n- Turn End: Expires; then, this unit gains 7 Gaze next turn",
       "summary": "",
       "undefined": "-"
     },
@@ -3088,7 +3088,7 @@
     {
       "id": "SheutFracture",
       "name": "Sheut Fracture",
-      "desc": "- Unique Sinking\n- Max Stack: 10\n- For every Stack, take +1% more damage from Sloth and Gloom Skills\n- At max Stack, gain 1 Gloom Fragility (once per turn), take Gloom damage equal to Sinking Potency on self (lose 1 Sinking Count), then expires\n- If the unit with this effect dies, transfer half of its Stack to its ally with the highest SP (rounded down)\n- Turn Start: If there are no LCA Identities on the field, expires",
+      "desc": "- Unique Sinking\n- Max Stack: 10\n- For every Stack, take +1% more damage from Sloth and Gloom Skills\n- At max Stack, gain 1 Gloom Fragility (once per turn), take Gloom damage equal to Sinking Potency on self (lose 1 Sinking Count), then expires\n- If the unit that has this effect dies, transfer half of its Stack to its ally that has the highest SP (rounded down)\n- Turn Start: If there are no LCA Identities on the field, expires",
       "summary": "",
       "undefined": "-"
     },
@@ -3157,21 +3157,21 @@
     {
       "id": "DelusionGregBigBird",
       "name": "Dazzle",
-      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units with SP: Change their Panic Type to \"Dazzle\"\n- Units without SP: Defense Level -2\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types\n\n※ Dazzle Panic-type Effects\n- Low Morale: Turn End: Gain 1 Bind and 2 Offense Level Down next turn\n- Panic: Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
-      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nUnits with SP: Change their Panic Type to \"Dazzle\"\nUnits without SP: Defense Level -2",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- SP Units: Change their Panic Type to \"Dazzle\"\n- Non-SP Units: Defense Level -2\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Non-SP Units\" conditional to certain enemies that have SP but can't change their Panic Types\n\n※ Dazzle Panic-type Effects\n- Low Morale: Turn End: Gain 1 Bind and 2 Offense Level Down next turn\n- Panic: Turn End: Gain 1 Bind and 4 Offense Level Down next turn",
+      "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nSP Units: Change their Panic Type to \"Dazzle\"\nNon-SP Units: Defense Level -2",
       "undefined": "-"
     },
     {
       "id": "DelusionGregBigBird_Main",
       "name": "Dazzle",
-      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units with SP: Change their Panic Type to \"Dazzle\"\n- Turn End: Lose 1 Stack",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- SP Units: Change their Panic Type to \"Dazzle\"\n- Turn End: Lose 1 Stack",
       "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nChange Panic Type to \"Dazzle\"",
       "undefined": "-"
     },
     {
       "id": "DelusionGregBigBird_Sub",
       "name": "Dazzle",
-      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Units without SP: Defense Level -2\n- Turn End: Lose 1 Stack",
+      "desc": "- For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\n- Non-SP Units: Defense Level -2\n- Turn End: Lose 1 Stack",
       "summary": "For every 1 (Sinking + Burn), take +0.5% damage from Base Attack Skills (max 10%)\nDefense Level -2",
       "undefined": "-"
     },
@@ -3614,6 +3614,57 @@
       "desc": "- Max Stack: 9\n- When hit, gain 1 Sinking Potency for every 3 Stack (once per turn)\n- Turn End: At 5+ Stack, lose 5 SP\n- Turn End: Lose 1 Stack",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "FavorBuffTwth1stPhaseForUI",
+      "name": "Shade of Reflection [Rouge]",
+      "desc": "- The Identities' Attack Skills that are <color=#f8c200>Lust Skills</color> or <color=#f8c200>Skills that inflict Bleed or 'Unique Bleed'</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- Enemies take x1.5 damage from <color=#f8c200>Bleed</color> (rounded down)\n- Upon <color=#f8c200>A-Reson.</color>, gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for A-Reson. (2 times per turn)"
+    },
+    {
+      "id": "FavorBuffTwth2ndPhaseForUI",
+      "name": "Shade of Reflection [Bleu]",
+      "desc": "- The Identities' Attack Skills that are <color=#f8c200>Gloom Skills</color> or <color=#f8c200>Skills that inflict Sinking or 'Unique Sinking'</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- Turn Start: Enemies in <color=#f8c200>Panic</color> gain 3 Fragile\n- <color=#f8c200>The Finger-faction Identities</color> deal +15% damage to and take -15% damage from enemies"
+    },
+    {
+      "id": "FavorBuffTwthHardForUI",
+      "name": "Tribulation",
+      "desc": "- <color=#ff0000>Max HP</color> +25%\n- Skills inflict +1 more <color=#ff0000>Bleed Potency, Sinking Potency, Mauled Color [Rouge], and Mauled Color [Bleu]</color>\n- If target has <color=#ff0000>Palette Vibrante</color>, Clash Power +2 and Base Power +1\n- [Phase 2 exclusive effect] Turn Start: If this unit will use \"Burst Forth the Pulsing Crimson under Your Skin\" this turn, <color=#ff0000>heal 10 SP on self</color> for every Sinner that has <color=#ff0000>Palette Vibrante</color> (max 30 SP)"
+    },
+    {
+      "id": "FavorBuffTwth",
+      "name": "Shade of Reflection [Rouge]",
+      "desc": "- Attack Skills that are Lust Skills or Skills that inflict Bleed or 'Unique Bleed' deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- Upon A-Reson., gain 1 random least-owned E.G.O resource and 1 E.G.O resource of the Affinity used for A-Reson. (2 times per turn)",
+      "summary": "Bleed Skills, 'Unique Bleed' Skills, and Lust Skills deal more damage"
+    },
+    {
+      "id": "FavorBuffTwthEnemy",
+      "name": "Shade of Reflection [Rouge]",
+      "desc": "- Take x1.5 damage from Bleed (rounded down)",
+      "summary": "Take more damage from Bleed"
+    },
+    {
+      "id": "FavorBuffTwthTwo",
+      "name": "Shade of Reflection [Bleu]",
+      "desc": "- Attack Skills that are Gloom Skills or Skills that inflict Sinking or 'Unique Sinking' deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- The Finger-faction Identities deal +15% damage to and take -15% damage from enemies",
+      "summary": "Sinking Skills, 'Unique Sinking' Skills, and Gloom Skills deal more damage"
+    },
+    {
+      "id": "FavorBuffTwthEnemyTwo",
+      "name": "Shade of Reflection [Bleu]",
+      "desc": "- Turn Start: When Panicked, gain 3 Fragile",
+      "summary": "When Panicked, gain Fragile"
+    },
+    {
+      "id": "FavorBuffTwthHard",
+      "name": "Tribulation",
+      "desc": "- Max HP +25%\n- Skills inflict +1 more Bleed Potency, Sinking Potency, Mauled Color [Rouge], and Mauled Color [Bleu]\n- If target has Palette Vibrante, Clash Power +2 and Base Power +1",
+      "summary": "Inflict more Bleed Potency, Sinking Potency, and Mauled Color\nIf target has Palette Vibrante, gain Clash Power and Base Power"
+    },
+    {
+      "id": "FavorBuffTwthHardTwo",
+      "name": "Tribulation",
+      "desc": "- Max HP +25%\n- Skills inflict +1 more Bleed Potency, Sinking Potency, Mauled Color [Rouge], and Mauled Color [Bleu]\n- If target has Palette Vibrante, Clash Power +2 and Base Power +1\n- [Phase 2 exclusive effect] Turn Start: If this unit will use \"Burst Forth the Pulsing Crimson under Your Skin\" this turn, heal 10 SP on self for every Sinner that has Palette Vibrante (max 30 SP)",
+      "summary": "Inflict more Bleed Potency, Sinking Potency, and Mauled Color\nIf target has Palette Vibrante, gain Clash Power and Base Power"
     }
   ]
 }

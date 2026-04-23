@@ -18,7 +18,7 @@
     {
       "id": 1020101,
       "name": "Analytic Eye",
-      "desc": "Deal +10% damage to units with negative status effects."
+      "desc": "Deal +10% damage to units that have negative status effects"
     },
     {
       "id": 1020201,
@@ -58,7 +58,7 @@
     {
       "id": 1040301,
       "name": "Kokuuntō",
-      "desc": "Deal +10% damage to targets with [Laceration]."
+      "desc": "Deal +10% damage to targets that have [Laceration]"
     },
     {
       "id": 1050101,
@@ -93,7 +93,7 @@
     {
       "id": 1070101,
       "name": "Ressentiment",
-      "desc": "Deal +10% damage to targets with higher Max HP."
+      "desc": "Deal +10% damage to targets that have higher Max HP."
     },
     {
       "id": 1070201,
@@ -208,7 +208,7 @@
     {
       "id": 1020121,
       "name": "Keen Observation",
-      "desc": "1 ally with the highest Max HP inflicts 2 Offense Level Down with attacks at a 25% chance."
+      "desc": "1 ally that has the highest Max HP inflicts 2 Offense Level Down using attacks at a 25% chance"
     },
     {
       "id": 1020221,
@@ -243,12 +243,12 @@
     {
       "id": 1040221,
       "name": "Ice Breaker",
-      "desc": "1 ally with the lowest Max HP inflicts +1 Rupture."
+      "desc": "1 ally that has the lowest Max HP inflicts +1 Rupture"
     },
     {
       "id": 1040321,
       "name": "Muscle in Charge",
-      "desc": "1 ally with the fastest Speed inflicts +1 Bleed."
+      "desc": "1 ally with the fastest Speed inflicts +1 Bleed"
     },
     {
       "id": 1050121,
@@ -283,7 +283,7 @@
     {
       "id": 1070121,
       "name": "Spite-driven",
-      "desc": "1 ally with the lowest Max HP deals +10% Blunt damage."
+      "desc": "1 ally that has the lowest Max HP deals +10% Blunt damage."
     },
     {
       "id": 1070221,
@@ -473,12 +473,12 @@
     {
       "id": 1020401,
       "name": "Whistles",
-      "desc": "At the start of the combat phase, heal 2 allies with the least SP for 15 SP.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
+      "desc": "At the start of the combat phase, heal 2 allies that have the least SP for 15 SP.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
     },
     {
       "id": 1020421,
       "name": "Whispers",
-      "desc": "At the start of the combat phase, heal 1 ally with the least SP for 15 SP.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
+      "desc": "At the start of the combat phase, heal 1 ally that has the least SP for 15 SP.\nIf the ally is an 'N Corp. Fanatic', also apply 1 Fanatic."
     },
     {
       "id": 1070401,
@@ -548,7 +548,7 @@
     {
       "id": 1030421,
       "name": "Hammer of Zealotry",
-      "desc": "1 Fanatic ally with the least SP deals +10% damage."
+      "desc": "1 Fanatic ally that has the least SP deals +10% damage"
     },
     {
       "id": 1090501,
@@ -568,7 +568,7 @@
     {
       "id": 1050521,
       "name": "Leave by Suggestion",
-      "desc": "1 ally with the fastest Speed lowers the Clash Power of opponents with Tremor by 1."
+      "desc": "1 ally with the fastest Speed lowers the Clash Power of opponents that have Tremor by 1"
     },
     {
       "id": 1070501,
@@ -583,12 +583,12 @@
     {
       "id": 1120501,
       "name": "Sawblade Fired Up",
-      "desc": "Inflict +1 Rupture to targets with [Vibration]"
+      "desc": "Inflict +1 Rupture to targets that have [Vibration]"
     },
     {
       "id": 1120521,
       "name": "Sawblade Maintenance",
-      "desc": "1 ally with the slowest Speed inflicts +1 Rupture to targets with [Vibration]"
+      "desc": "1 ally with the slowest Speed inflicts +1 Rupture to targets that have [Vibration]"
     },
     {
       "id": 1010401,
@@ -648,7 +648,7 @@
     {
       "id": 1050621,
       "name": "Maneuver Training",
-      "desc": "At the end of the turn, 1 ally with the highest Charge Count gains Max Speed +1 (Capped at 3) per 5 Charge Count next turn."
+      "desc": "At the end of the turn, 1 ally that has the highest Charge Count gains Max Speed +1 (Capped at 3) per 5 Charge Count next turn"
     },
     {
       "id": 1090601,
@@ -663,22 +663,22 @@
     {
       "id": 1030501,
       "name": "A Noble Duel",
-      "desc": "If Speed of all allies is higher than Speed of all enemies, this unit deals more damage based on the Speed difference between it and the slowest enemy. (+6% per 1 point of difference, Max 30%)"
+      "desc": "If the Speed of all allies is faster than the Speed of all enemies, this unit deals more damage based on the Speed difference between itself and the slowest enemy (+6% for every point of Speed difference; max 30%)"
     },
     {
       "id": 1030521,
       "name": "Dueling Request",
-      "desc": "If Speed of all allies is higher than Speed of all enemies, the fastest ally deals more damage based on the Speed difference between it and the slowest enemy. (+3% per 1 point of difference, Max 15%)"
+      "desc": "If the Speed of all allies is faster than the Speed of all enemies, the fastest ally deals more damage based on the Speed difference between itself and the slowest enemy (+3% for every point of Speed difference; max 15%)"
     },
     {
       "id": 1080701,
       "name": "Crushin' Crabs",
-      "desc": "On hit against a target with [Vibration], inflict +1 Sinking Count"
+      "desc": "On Hit against a target that has [Vibration], inflict +1 Sinking Count"
     },
     {
       "id": 1080721,
       "name": "Crab Driver",
-      "desc": "When an ally with the lowest Max HP hits with Heads Coins, they inflict +1 Sinking Count when inflicting Tremor Count on their target with Coin effects."
+      "desc": "When an ally that has the lowest Max HP hits with Heads Coins, they inflict +1 Sinking Count when inflicting Tremor Count on their target with Coin effects."
     },
     {
       "id": 1100701,
@@ -688,7 +688,7 @@
     {
       "id": 1100721,
       "name": "Modified Power Output",
-      "desc": "1 ally with the most Max HP inflicts +1 Tremor with the effects of their attack skills/coins."
+      "desc": "1 ally that has the most Max HP inflicts +1 Tremor with the effects of their Attack Skills/Coins"
     },
     {
       "id": 1120601,
@@ -750,14 +750,14 @@
     {
       "id": 1070621,
       "name": "Connect The Dots",
-      "desc": "1 ally with the highest Max HP inflicts +1 more Rupture with Skill effects when attacking a target with a damage type that the target is \"Fatal\"(Resistance>x1.5) to",
-      "summary": "1 ally with the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to"
+      "desc": "1 ally that has the highest Max HP inflicts +1 more Rupture with Skill effects when attacking a target with a damage type that the target is \"Fatal\"(Resistance>x1.5) to",
+      "summary": "1 ally that has the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to"
     },
     {
       "id": 1070631,
       "name": "Connect The Dots",
-      "desc": "1 ally with the highest Max HP inflicts +1 more Rupture with Skill effects when attacking a target with a damage type that the target is \"Fatal\"(Resistance>x1.5) to\n<style=\"highlight\">If the ally is a Seven Association Fixer, additional +1 more Rupture</style>",
-      "summary": "1 ally with the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to\nIf the ally is a Seven Association Fixer, additional +1 more Rupture"
+      "desc": "1 ally that has the highest Max HP inflicts +1 more Rupture with Skill effects when attacking a target with a damage type that the target is \"Fatal\"(Resistance>x1.5) to\n<style=\"highlight\">If the ally is a Seven Association Fixer, additional +1 more Rupture</style>",
+      "summary": "1 ally that has the highest Max HP inflicts +1 more Rupture when attacking with a damage type the target is Fatal to\nIf the ally is a Seven Association Fixer, additional +1 more Rupture"
     },
     {
       "id": 1020601,
@@ -795,7 +795,7 @@
     {
       "id": 1110521,
       "name": "Carrot & Stick",
-      "desc": "1 ally with the most Tremor Count gains +1 more Tremor Count from Skill effects"
+      "desc": "1 ally that has the most Tremor Count gains +1 more Tremor Count from Skill effects"
     },
     {
       "id": 1090701,
@@ -815,7 +815,7 @@
     {
       "id": 1060721,
       "name": "Mass-produced Bionic Gear",
-      "desc": "When 1 ally with the fastest Speed defeats an enemy inflicted with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Attack Power Up next turn (Once per turn)"
+      "desc": "When 1 ally with the fastest Speed defeats an enemy that has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain 1 Attack Power Up next turn (Once per turn)"
     },
     {
       "id": 1020701,
@@ -835,32 +835,32 @@
     {
       "id": 1010601,
       "name": "Emptied Thought",
-      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self next turn. (Max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "desc": "- At Turn End, gain 1 Haste for every 5 Charge Count on self next turn (max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally that has the lowest HP percentage"
     },
     {
       "id": 1010611,
       "name": "Emptied Thought",
-      "desc": "- At Turn End, gain 1 Haste per 5 Charge Count on self next turn. (Max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "desc": "- At Turn End, gain 1 Haste for every 5 Charge Count on self next turn (max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally that has the lowest HP percentage"
     },
     {
       "id": 1010621,
       "name": "Cleanup Demonstration",
-      "desc": "1 Ally with the highest Charge Count deals more damage against targets with <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> based on Rupture on target (+1.5% per Rupture. Max +15% damage)"
+      "desc": "1 Ally that has the highest Charge Count deals more damage against targets that have <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> based on Rupture on target (+1.5% per Rupture. Max +15% damage)"
     },
     {
       "id": 1120701,
       "name": "Bullets are Pricey",
-      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of [Bullet], spend all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "desc": "- On Heads Hit against targets that have <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of [Bullet], spend all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
     },
     {
       "id": 1120702,
       "name": "Bullets are Pricey",
-      "desc": "<style=\"highlight\">- Always Active : begin encounters with 7 Ammo</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\"> If a Coin that uses Ammo Hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage as bonus damage.</style>\n- If this unit Critical Hits when out of [Bullet], consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "desc": "<style=\"highlight\">- Always Active : Begin encounters with 7 Ammo</style>\n- On Heads Hit against targets that have <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\"> If a Coin that uses Ammo Hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage as bonus damage.</style>\n- If this unit Critical Hits when out of [Bullet], consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal additional (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
     },
     {
       "id": 1120721,
       "name": "New Breathing Hole",
-      "desc": "If 1 ally with the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)"
+      "desc": "If 1 ally that has the most <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> defeats an enemy, gain 1 Pierce DMG Up next turn. (Once per turn)"
     },
     {
       "id": 1040601,
@@ -944,12 +944,12 @@
     {
       "id": 1010701,
       "name": "The First Mate's Harpoon",
-      "desc": "On Crit, inflict 2 more Bleed Potency with a Skill (6 times per turn)"
+      "desc": "On Crit, inflict 2 more Bleed Potency using a Skill (6 times per turn)"
     },
     {
       "id": 1010721,
       "name": "The First Mate's Acumen",
-      "desc": "On Crit, 1 ally with the most [Breath] inflicts 2 additional Bleed Potency with a Skill (6 times per turn)"
+      "desc": "On Crit, 1 ally that has the most [Breath] inflicts 2 additional Bleed Potency using a Skill (6 times per turn)"
     },
     {
       "id": 1110601,
@@ -1089,17 +1089,17 @@
     {
       "id": 1050801,
       "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead"
+      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn (once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count using its own Skill or Coin effects: Give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies that have no [Breath] or have the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead"
     },
     {
       "id": 1050811,
       "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead\n\n<style=\"highlight\">Combat Start: Apply [SwordPlayOfTheHomeland] buff to all other Blade Lineage allies</style>"
+      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn (once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count using its own Skill or Coin effects: Give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies that have no [Breath] or have the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead\n\n<style=\"highlight\">Combat Start: Apply [SwordPlayOfTheHomeland] buff to all other Blade Lineage allies</style>"
     },
     {
       "id": 1050821,
       "name": "Swordplay of the Homeland",
-      "desc": "Combat Start: 1 ally with the most [Breath] deals +15% damage on Critical Hit with Slash Skills"
+      "desc": "Combat Start: 1 ally that has the most [Breath] deals +15% damage on Critical Hit using Slash Skills"
     },
     {
       "id": 1020801,
@@ -1119,22 +1119,22 @@
     {
       "id": 1030801,
       "name": "Collective Breathing",
-      "desc": "When this unit gains [Breath] Potency with its own Skill or Coin effects: give 1 [Breath] Potency to 1 ally with no [Breath] or with the least [Breath] Potency (3 times max)"
+      "desc": "When this unit gains [Breath] Potency using its own Skill or Coin effects: Apply 1 [Breath] Potency to 1 ally that either has no [Breath] or has the least [Breath] Potency (max 3 times)"
     },
     {
       "id": 1030811,
       "name": "Collective Breathing",
-      "desc": "When this unit gains [Breath] Potency with its own Skill or Coin effects: give 1 [Breath] Potency to 1 ally with no [Breath] or with the least [Breath] Potency (5 times max)"
+      "desc": "When this unit gains [Breath] Potency using its own Skill or Coin effects: Give 1 [Breath] Potency to 1 ally that either has no [Breath] or has the least [Breath] Potency (max 5 times)"
     },
     {
       "id": 1030821,
       "name": "Nightly Stroll",
-      "desc": "1 ally with the least [Breath] gains 1 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])"
+      "desc": "1 ally that has the least [Breath] gains 1 more [Breath] Potency when gaining [Breath] Potency using its own Skill or Coin effects (max 2 times; does not apply to allies that do not have [Breath])"
     },
     {
       "id": 1030831,
       "name": "Nightly Stroll",
-      "desc": "1 ally with the least [Breath] gains 2 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])"
+      "desc": "1 ally that has the least [Breath] gains 2 more [Breath] Potency when gaining [Breath] Potency using its own Skill or Coin effects (max 2 times; does not apply to allies that do not have [Breath])"
     },
     {
       "id": 1120801,
@@ -1144,17 +1144,17 @@
     {
       "id": 1120821,
       "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 10+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
+      "desc": "When 1 ally with the slowest Speed hits an enemy that has 10+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
     },
     {
       "id": 1120831,
       "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 7+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
+      "desc": "When 1 ally with the slowest Speed hits an enemy that has 7+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
     },
     {
       "id": 1050802,
       "name": "In Memoriam",
-      "desc": "When 3 or more other Blade Lineage allies are defeated:\n- When gaining Poise Potency/Count with this unit's own Skills and Coin effects: gain 1 more of each\n- When 5 or more other Blade Lineage allies are defeated, gain 2 more of each instead\n- Combat Start: Apply [SwordPlayOfTheHomeland] on self"
+      "desc": "When 3 or more other Blade Lineage allies are defeated:\n- When gaining Poise Potency/Count using this unit's own Skills and Coin effects: Gain 1 more of each\n- When 5 or more other Blade Lineage allies are defeated, gain 2 more of each instead\n- Combat Start: Apply [SwordPlayOfTheHomeland] on self"
     },
     {
       "id": 1090801,
@@ -1176,26 +1176,26 @@
     {
       "id": 1040701,
       "name": "Flame Spread",
-      "desc": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency. (Once per turn)\n- In Focused Encounters, to 1 random Part",
-      "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency"
+      "desc": "When this unit defeats an enemy that has [Combustion], inflict 4 [Combustion] to 1 random enemy that either has no [Combustion] or has the least [Combustion] Potency (once per turn)\n- In Focused Encounters, inflict to 1 random Part",
+      "summary": "When this unit defeats an enemy that has [Combustion], inflict 4 [Combustion] to 1 random enemy that either has no [Combustion] or has the least [Combustion] Potency"
     },
     {
       "id": 1040711,
       "name": "Flame Spread",
-      "desc": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency. (2 times per turn)\n- In Focused Encounters, to 2 random Parts",
-      "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency"
+      "desc": "When this unit defeats an enemy that has [Combustion], inflict 4 [Combustion] to 2 random enemies that either have no [Combustion] or have the least [Combustion] Potency (2 times per turn)\n- In Focused Encounters, inflict to 2 random Parts",
+      "summary": "When this unit defeats an enemy that has [Combustion], inflict 4 [Combustion] to 2 random enemies that either have no [Combustion] or have the least [Combustion] Potency"
     },
     {
       "id": 1040721,
       "name": "Spread Flame",
-      "desc": "When 1 ally with the slowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy (Once per turn)\n- In Focused Encounters, on 1 random Part",
-      "summary": "When 1 ally with the slowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy"
+      "desc": "When 1 ally with the slowest Speed defeats an enemy that has [Combustion], inflict 3 [Combustion] on 1 random enemy (once per turn)\n- In Focused Encounters, inflict on 1 random Part",
+      "summary": "When 1 ally with the slowest Speed defeats an enemy that has [Combustion], inflict 3 [Combustion] on 1 random enemy"
     },
     {
       "id": 1040731,
       "name": "Spread Flame",
-      "desc": "When 1 ally with the slowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies (Once per turn)\n- In Focused Encounters, on 2 random Parts",
-      "summary": "When 1 ally with the slowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies"
+      "desc": "When 1 ally with the slowest Speed defeats an enemy that has [Combustion], inflict 3 [Combustion] on 2 random enemies (once per turn)\n- In Focused Encounters, inflict on 2 random Parts",
+      "summary": "When 1 ally with the slowest Speed defeats an enemy that has [Combustion], inflict 3 [Combustion] on 2 random enemies"
     },
     {
       "id": 1070801,
@@ -1218,49 +1218,49 @@
     {
       "id": 1050901,
       "name": "Buy Time",
-      "desc": "Clash Power +1 in a Clash against targets with [Burst]",
-      "summary": "Clash Power +1 in a Clash against targets with [Burst]"
+      "desc": "Clash Power +1 in a Clash against targets that have [Burst]",
+      "summary": "Clash Power +1 in a Clash against targets that have [Burst]"
     },
     {
       "id": 1050921,
       "name": "My Responsibility",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with 6+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 6+ [Burst]"
+      "desc": "When 1 ally with the fastest Speed hits an enemy that has 6+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
+      "summary": "Inflict 1 [AttackDown] On Hit against targets that have 6+ [Burst]"
     },
     {
       "id": 1050931,
       "name": "My Responsibility",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with 3+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 3+ [Burst]"
+      "desc": "When 1 ally with the fastest Speed hits an enemy that has 3+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
+      "summary": "Inflict 1 [AttackDown] On Hit against targets that have 3+ [Burst]"
     },
     {
       "id": 1110801,
       "name": "The Mistress's Voice...!",
-      "desc": "- When clashing against targets with less than -25 SP, Clash Power +1 and deal +10% damage\n- Deal +15% damage against targets with [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 2 [AttackUp] next turn (2 times per turn)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +10% damage\nDeal +15% damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
+      "desc": "- When clashing against targets that have less than -25 SP, Clash Power +1 and deal +10% damage\n- Deal +15% damage against targets that have [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 2 [AttackUp] next turn (2 times per turn)",
+      "summary": "Against targets that have low SP, Clash Power +1 and deal +10% damage\nDeal +15% damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
     },
     {
       "id": 1110811,
       "name": "The Mistress's Voice...!",
-      "desc": "- When clashing against targets with less than 0 SP, Clash Power +1 and deal +20% damage\n- Deal +30% damage against targets with [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 3 [AttackUp] next turn (2 times per turn)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +20% damage\nDeal +30% damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
+      "desc": "- When clashing against targets that have less than 0 SP, Clash Power +1 and deal +20% damage\n- Deal +30% damage against targets that have [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 3 [AttackUp] next turn (2 times per turn)",
+      "summary": "Against targets that have low SP, Clash Power +1 and deal +20% damage\nDeal +30% damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
     },
     {
       "id": 1110821,
       "name": "Butler Training",
-      "desc": "Clash Power +1 to 1 ally with the most SP when clashing against targets with less than -25 SP",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
+      "desc": "Clash Power +1 to 1 ally that has the most SP when Clashing against targets that have less than -25 SP",
+      "summary": "Clash Power +1 when Clashing against targets that have less than -25 SP"
     },
     {
       "id": 1110831,
       "name": "Butler Training",
-      "desc": "Clash Power +1 to 1 ally with the most SP when clashing against targets with less than -25 SP",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
+      "desc": "Clash Power +1 to 1 ally that has the most SP when Clashing against targets that have less than -25 SP",
+      "summary": "Clash Power +1 when Clashing against targets that have less than -25 SP"
     },
     {
       "id": 1050911,
       "name": "Buy Time",
-      "desc": "Clash Power +1 against targets with [Burst]\nClash Power +2 if the target has 5+ [Burst] Count",
+      "desc": "Clash Power +1 against targets that have [Burst]\nClash Power +2 if the target has 5+ [Burst] Count",
       "summary": ""
     },
     {
@@ -1278,25 +1278,25 @@
     {
       "id": 1020921,
       "name": "Anticipatory Training",
-      "desc": "When 1 ally with the least SP hits an enemy with 5+ [Sinking], the ally heals 2 SP On Hit (4 times per turn)",
+      "desc": "When 1 ally that has the least SP hits an enemy that has 5+ [Sinking], the ally heals 2 SP On Hit (4 times per turn)",
       "summary": "Conditional SP healing"
     },
     {
       "id": 1020931,
       "name": "Anticipatory Training",
-      "desc": "When 1 ally with the least SP hits an enemy with 5+ [Sinking], the ally heals 3 SP On Hit (4 times per turn)",
+      "desc": "When 1 ally that has the least SP hits an enemy that has 5+ [Sinking], the ally heals 3 SP On Hit (4 times per turn)",
       "summary": "Conditional SP healing"
     },
     {
       "id": 1120901,
       "name": "Endless Nightmares",
-      "desc": "- Combat Start: gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +1% damage for every [Sinking] Potency on target (max 20%)",
+      "desc": "- Combat Start: Gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +1% damage for every [Sinking] Potency on target (max 20%)",
       "summary": ""
     },
     {
       "id": 1120911,
       "name": "Endless Nightmares",
-      "desc": "- Combat Start: gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +2% damage for every [Sinking] Potency on target (max 40%)",
+      "desc": "- Combat Start: Gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +2% damage for every [Sinking] Potency on target (max 40%)",
       "summary": ""
     },
     {
@@ -1356,13 +1356,13 @@
     {
       "id": 1040801,
       "name": "Clearing Household Chores",
-      "desc": "On Hit against targets with [MarkOfButler], gain 1 [Agility] next turn (3 times per turn)\nOn Crit against targets with [MarkOfButler], eliminate [MarkOfButler] on target; then, if this unit's Speed is faster than the target's, deal +5% Damage on Critical Hit for every 1 Speed difference (max 30%)",
+      "desc": "On Hit against targets that have [MarkOfButler], gain 1 [Agility] next turn (3 times per turn)\nOn Crit against targets that have [MarkOfButler], eliminate [MarkOfButler] on target; then, if this unit's Speed is faster than the target's, deal +5% Damage on Critical Hit for every 1 Speed difference (max 30%)",
       "summary": ""
     },
     {
       "id": 1040811,
       "name": "Clearing Household Chores",
-      "desc": "On Hit against targets with [MarkOfButler], gain +1 [Breath] Count, and gain 1 [Agility] next turn (3 times per turn)\nOn Crit against targets with [MarkOfButler], eliminate [MarkOfButler] on target; then, if this unit's Speed is faster than the target's, deal +10% Damage on Critical Hit for every 1 Speed difference (max 60%)",
+      "desc": "On Hit against targets that have [MarkOfButler], gain +1 [Breath] Count, and gain 1 [Agility] next turn (3 times per turn)\nOn Crit against targets that have [MarkOfButler], eliminate [MarkOfButler] on target; then, if this unit's Speed is faster than the target's, deal +10% Damage on Critical Hit for every 1 Speed difference (max 60%)",
       "summary": ""
     },
     {
@@ -1380,19 +1380,19 @@
     {
       "id": 1080901,
       "name": "Deep Cleaning",
-      "desc": "If this unit Critically Hits against targets with Slower Speed than this unit's, inflict 1 additional Potency for negative effects with its Skills (3 times per turn)",
+      "desc": "If this unit Critically Hits against targets with Slower Speed than this unit's, inflict 1 additional Potency for negative effects using its Skills (3 times per turn)",
       "summary": ""
     },
     {
       "id": 1080921,
       "name": "Loyal Supporter",
-      "desc": "When 1 ally with the fastest Speed attacks a target with [Sinking], deal +0.5% damage for every 1 [Sinking] on target (max 10%)",
+      "desc": "When 1 ally with the fastest Speed attacks a target that has [Sinking], deal +0.5% damage for every 1 [Sinking] on target (max 10%)",
       "summary": ""
     },
     {
       "id": 1080931,
       "name": "Loyal Supporter",
-      "desc": "When 1 ally with the fastest Speed attacks a target with [Sinking], deal +1% damage for every 1 [Sinking] on target (max 20%)",
+      "desc": "When 1 ally with the fastest Speed attacks a target that has [Sinking], deal +1% damage for every 1 [Sinking] on target (max 20%)",
       "summary": ""
     },
     {
@@ -1434,38 +1434,38 @@
     {
       "id": 1010921,
       "name": "Practices on Aesthetics",
-      "desc": "1 ally with the least SP heals 2 SP On Hit for every type of negative effect on the target. (max 6)\n(This Passive activates 2 times max per turn)",
+      "desc": "1 ally that has the least SP heals 2 SP On Hit for every type of negative effect on the target (max 6)\n(This Passive activates 2 times max per turn)",
       "summary": "On Hit, heal SP based on the number of negative effect types on the target"
     },
     {
       "id": 1010931,
       "name": "Practices on Aesthetics",
-      "desc": "1 ally with the least SP heals 2 SP On Hit for every type of negative effect on the target. (max 6)\n<style=\"highlight\">If the target has [Laceration], heal 3 additional SP.</style>\n(This Passive activates 2 times max per turn)",
+      "desc": "1 ally that has the least SP heals 2 SP On Hit for every type of negative effect on the target (max 6)\n<style=\"highlight\">If the target has [Laceration], heal 3 additional SP</style>\n(This Passive activates 2 times max per turn)",
       "summary": "On Hit, heal SP based on the number of negative effect types on the target"
     },
     {
       "id": 1110901,
       "name": "Multitude of Dots",
-      "desc": "Combat Start: Inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\n(In Focused Encounters, a Part)",
+      "desc": "Combat Start: Inflict 2 Potency for 1 of the following effects on 1 enemy that has the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\n(In Focused Encounters, a Part)",
       "summary": "Combat Start: Inflict 2 Potency for a random status effect to an enemy"
     },
     {
       "id": 1110911,
       "name": "Multitude of Dots",
-      "desc": "Combat Start: Inflict 2 Potency for 1 of the following effects on <style=\"highlight\">2</style> enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\n(In Focused Encounters, Parts)",
+      "desc": "Combat Start: Inflict 2 Potency for 1 of the following effects on <style=\"highlight\">2</style> enemies that have the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\n(In Focused Encounters, Parts)",
       "summary": "Combat Start: Inflict 2 Potency for a random status effect to 2 enemies"
     },
     {
       "id": 1110921,
       "name": "Rough Sketch",
-      "desc": "1 ally with the least SP heals 4 SP when defeating an enemy with [Laceration].\nHeal 1 additional SP for every type of negative effect on the target. (max 4. Once per turn)",
-      "summary": "Heal SP on self On Kill against targets with [Laceration]"
+      "desc": "1 ally that has the least SP heals 4 SP when defeating an enemy that has [Laceration].\nHeal 1 additional SP for every type of negative effect on the target. (max 4. Once per turn)",
+      "summary": "Heal SP on self On Kill against targets that have [Laceration]"
     },
     {
       "id": 1110931,
       "name": "Rough Sketch",
-      "desc": "1 ally with the least SP heals 4 SP when defeating an enemy with [Laceration].\nHeal 1 additional SP for every type of negative effect on the target. (max 4. 3 times per turn)",
-      "summary": "Heal SP on self On Kill against targets with [Laceration]"
+      "desc": "1 ally that has the least SP heals 4 SP when defeating an enemy that has [Laceration].\nHeal 1 additional SP for every type of negative effect on the target. (max 4. 3 times per turn)",
+      "summary": "Heal SP on self On Kill against targets that have [Laceration]"
     },
     {
       "id": 1010902,
@@ -1505,17 +1505,17 @@
     {
       "id": 1030921,
       "name": "T Corp. Physics Distortion Field",
-      "desc": "When 1 ally with the slowest Speed takes damage from enemies with [Vibration], take -10% damage"
+      "desc": "When 1 ally with the slowest Speed takes damage from enemies that have [Vibration], take -10% damage"
     },
     {
       "id": 1090901,
       "name": "Golden Time - Standoff",
-      "desc": "Turn End: if this unit's HP is between 16% ~ 20%, instantly heal up to 60% of Max HP, and recover from Stagger. (once per Encounter)\n\nWhen Clashing against targets with [TimeSuspend], Clash Power +2\nTake -10% damage from targets with [TimeSuspend]"
+      "desc": "Turn End: If this unit's HP is between 16% ~ 20%, instantly heal up to 60% of Max HP, and recover from Stagger. (once per Encounter)\n\nWhen Clashing against targets that have [TimeSuspend], Clash Power +2\nTake -10% damage from targets that have [TimeSuspend]"
     },
     {
       "id": 1090921,
       "name": "T Corp. Martial Arts",
-      "desc": "To 1 ally with the fastest Speed: Clash Power +1 when Clashing against targets with 5+ [Vibration]"
+      "desc": "To 1 ally with the fastest Speed: Clash Power +1 when Clashing against targets that have 5+ [Vibration]"
     },
     {
       "id": 1051001,
@@ -1540,24 +1540,24 @@
     {
       "id": 1021001,
       "name": "Electrocurrent Dismantling",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAt 2+ [Charge], deal +([Charge] x 3)% damage (max 15%)\n\nOn Kill, this unit and 1 ally with the least [Charge] Count gains [Charge] Count equal to [Charge] (max 3, prioritizes allies that consume or gain [Charge])",
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAt 2+ [Charge], deal +([Charge] x 3)% damage (max 15%)\n\nOn Kill, this unit and 1 ally that has the least [Charge] Count gain [Charge] Count equal to [Charge] (max 3, prioritizes allies that consume or gain [Charge])",
       "summary": "Gain [Charge] with every 10 [Charge] Count consumption\nAt 2+ [Charge], deal more damage\nOn Kill, this unit and 1 ally gain [Charge] Count"
     },
     {
       "id": 1021011,
       "name": "Electrocurrent Dismantling",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAt 2+ [Charge], deal +([Charge] x 3)% damage (max 15%)\n<style=\"highlight\">- If the target is at less than 50% HP, deal +([Charge] x 5)% additionally increased damage (max 25%)</style>\n\nOn Kill, this unit and <style=\"highlight\">2 allies</style> with the least [Charge] Count gains [Charge] Count equal to <style=\"highlight\">([Charge] + 2)</style> (max <style=\"highlight\">5</style>, prioritizes allies that consume or gain [Charge])",
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAt 2+ [Charge], deal +([Charge] x 3)% damage (max 15%)\n<style=\"highlight\">- If the target is at less than 50% HP, deal +([Charge] x 5)% additionally increased damage (max 25%)</style>\n\nOn Kill, this unit and <style=\"highlight\">2 allies</style> that have the least [Charge] Count gain [Charge] Count equal to <style=\"highlight\">([Charge] + 2)</style> (max <style=\"highlight\">5</style>, prioritizes allies that consume or gain [Charge])",
       "summary": "Gain [Charge] with every 10 [Charge] Count consumption\nAt 2+ [Charge], deal more damage\nOn Kill, this unit and 2 allies gain [Charge] Count"
     },
     {
       "id": 1021021,
       "name": "Auxiliary Dismantling Current",
-      "desc": "When 1 ally with the least [Charge] Count kills an enemy, the ally gains +2 [Charge] Count (once per turn, prioritizes allies that consume or gain [Charge])"
+      "desc": "When 1 ally that has the least [Charge] Count kills an enemy, the ally gains +2 [Charge] Count (once per turn, prioritizes allies that consume or gain [Charge])"
     },
     {
       "id": 1021031,
       "name": "Auxiliary Dismantling Current",
-      "desc": "When 1 ally with the least [Charge] Count kills an enemy, the ally gains +3 [Charge] Count (once per turn, prioritizes allies that consume or gain [Charge])"
+      "desc": "When 1 ally that has the least [Charge] Count kills an enemy, the ally gains +3 [Charge] Count (once per turn, prioritizes allies that consume or gain [Charge])"
     },
     {
       "id": 1070901,
@@ -1590,19 +1590,19 @@
     {
       "id": 1071011,
       "name": "Call of the Erlking",
-      "desc": "- Deal +1% damage for every 1 [Sinking] on target (max 15%)\n\n<style=\"highlight\">- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (once per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally with [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well</style>",
+      "desc": "- Deal +1% damage for every 1 [Sinking] on target (max 15%)\n\n<style=\"highlight\">- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (once per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally that has [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well</style>",
       "summary": "Deal more damage based on [Sinking] on target"
     },
     {
       "id": 1071021,
       "name": "Endless Lamentation",
-      "desc": "1 ally with the highest SP deals +5% damage to targets with less than 0 SP\nIf the target has less than 0 SP: deal even more damage the further the target's SP is from 0 (+0.5% damage per SP, max 20%)\nIf the target does not have SP, the said ally inflicts +1 more [Sinking] Potency and Count with their Skill and Coin Effects of their Attack Skills (2 times per turn)",
+      "desc": "1 ally that has the highest SP deals +5% damage to targets that have less than 0 SP\nIf the target has less than 0 SP: Deal even more damage the further the target's SP is from 0 (+0.5% damage per SP, max 20%)\nIf the target does not have SP, the said ally inflicts +1 more [Sinking] Potency and Count using their Skill and Coin Effects of their Attack Skills (2 times per turn)",
       "summary": "Deal more damage to targets with less than 0 SP"
     },
     {
       "id": 1071012,
       "name": "Call of the Erlking",
-      "desc": "- Deal +1% damage for every 1 [Sinking] on target (max 15%)\n\n- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (<style=\"highlight\">2 times</style> per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally with [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well",
+      "desc": "- Deal +1% damage for every 1 [Sinking] on target (max 15%)\n\n- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (<style=\"highlight\">2 times</style> per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally that has [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well",
       "summary": "Deal more damage based on [Sinking] on target"
     },
     {
@@ -1690,7 +1690,7 @@
     {
       "id": 1081021,
       "name": "Emergency Protection",
-      "desc": "At Combat Start, compare each Identity's current HP to their HP at the start of the previous turn. Then, apply 2 [DefenseUp] to the Identity with the greatest disparity of HP values between turns."
+      "desc": "At Combat Start, compare each Identity's current HP to their HP at the start of the previous turn. Then, apply 2 [DefenseUp] to the Identity that has the greatest disparity of HP values between turns."
     },
     {
       "id": 1101001,
@@ -1705,14 +1705,14 @@
     {
       "id": 1051101,
       "name": "Duel Livestream",
-      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)",
-      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit using Base Attack Skills: Inflict [ConcentratedAttackMeursault] next turn (once per Skill)",
+      "summary": "Turn End: Gain [Agility] based on [Breath] Count on self. On Hit using a Base Skill, inflict [ConcentratedAttackMeursault] next turn"
     },
     {
       "id": 1051111,
       "name": "Duel Livestream",
-      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot with [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
-      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit using Base Attack Skills: Inflict [ConcentratedAttackMeursault] next turn (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot that has [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
+      "summary": "Turn End: Gain [Agility] based on [Breath] Count on self. On Hit using a Base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
     },
     {
       "id": 1051121,
@@ -1735,7 +1735,7 @@
     {
       "id": 1061021,
       "name": "Bloodfiend Hunting Manual - Styptics",
-      "desc": "Combat Start: 1 ally with the highest sum of [Laceration] Potency and Count loses 2 [Laceration] Count\nWhen 1 ally with the fastest Speed hits an enemy with [Burst], inflict 1 [DefenseDown] (2 times per turn)",
+      "desc": "Combat Start: 1 ally that has the highest sum of [Laceration] Potency and Count loses 2 [Laceration] Count\nWhen 1 ally with the fastest Speed hits an enemy that has [Burst], inflict 1 [DefenseDown] (2 times per turn)",
       "summary": ""
     },
     {
@@ -1807,13 +1807,13 @@
     {
       "id": 1091111,
       "name": "Hardblood Thorn",
-      "desc": "When an other ally takes [Laceration] damage or consumes [BloodDinner], this unit gains 1 [BloomingThornsRodionFirst] (5 times per turn)\nHeal HP on self by 20% of the damage dealt with base Skills (max 10 per Skill)\n- At max HP, heal 1 ally with the lowest HP percentage by excess healing",
+      "desc": "When another ally takes [Laceration] damage or consumes [BloodDinner], this unit gains 1 [BloomingThornsRodionFirst] (5 times per turn)\nHeal HP on self by 20% of the damage dealt using base Skills (max 10 per Skill)\n- At max HP, heal 1 ally that has the lowest HP percentage by excess healing",
       "summary": ""
     },
     {
       "id": 1091121,
       "name": "\"Blossom with Blood...\"",
-      "desc": "To 1 ally with the highest [Laceration] Potency at Turn End: reduce the ally's [Laceration] Potency by 6 max, and apply (Bleed Potency reduced / 2) [BloomingThornsRodionFirst] (rounded down)",
+      "desc": "To 1 ally that has the highest [Laceration] Potency at Turn End: Reduce the ally's [Laceration] Potency by 6 max, and apply (Bleed Potency reduced / 2) [BloomingThornsRodionFirst] (rounded down)",
       "summary": ""
     },
     {
@@ -1825,7 +1825,7 @@
     {
       "id": 1101102,
       "name": "I'll do better next time...",
-      "desc": "<For Chain Battles> When, after Retreating with '[Retreat]', if this unit rejoins the battle, halve the [DevyatDimensionalSackSinclair] value (once per Encounter, rounded up)",
+      "desc": "<For Chain Battles> When, after Retreating using '[Retreat]', if this unit rejoins the battle, halve the [DevyatDimensionalSackSinclair] value (once per Encounter, rounded up)",
       "summary": ""
     },
     {
@@ -1872,7 +1872,7 @@
     },
     {
       "id": 1061102,
-      "name": "Tactical Firearm Support",
+      "name": "Tactical Fire Support",
       "desc": "If the Full-Stop Office Fixer Heathcliff is in [Retreat_FullStop] state, or has been Deployed as a Backup unit, empower Full-Stop Office Rep. Hong Lu's Skill 2 and Skill 3"
     },
     {
@@ -1883,7 +1883,7 @@
     {
       "id": 1061121,
       "name": "Suppressing Fire",
-      "desc": "Ally Identity with the most [Bullet] deals +10% damage with Skills that spend [Bullet]\n(Does not activate when out of [Bullet])"
+      "desc": "Ally Identity that has the most [Bullet] deals +10% damage using Skills that spend [Bullet]\n(Does not activate when out of [Bullet])"
     },
     {
       "id": 1071101,
@@ -1893,7 +1893,7 @@
     {
       "id": 1071102,
       "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: if this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn."
+      "desc": "Turn End: Gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\nTurn End: If this unit is not set to use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn."
     },
     {
       "id": 1071103,
@@ -1903,27 +1903,27 @@
     {
       "id": 1071111,
       "name": "Precision Aim",
-      "desc": "Turn End: gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\n<style=\"highlight\">Combat Start: if this unit is not set to use any Attack Skills (including E.G.O Skills), apply 3 [Breath] to 1 ally with the least Poise Potency</style>\n\nTurn End: if this unit did not use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn"
+      "desc": "Turn End: Gain 1 [Agility] next turn for every 10 [Breath] on self (max 2)\n\n<style=\"highlight\">Combat Start: If this unit is not set to use any Attack Skills (including E.G.O Skills), apply 3 [Breath] to 1 ally that has the least [Breath] Potency</style>\n\nTurn End: If this unit did not use any Attack Skills (including E.G.O Skills, excluding [CoveringFire]), gain 10 [Breath] and 1 [PenetrateResultUp] next turn"
     },
     {
       "id": 1071121,
       "name": "Spotter",
-      "desc": "1 ally with the least [Bullet] gains +2 [Breath] Count when using a Skill that consumes [Bullet].\n- If the said ally is a Full-Stop Office Identity, or if they have less than 5 [Breath] Count, gain +4 [Breath] Count instead (once per turn; does not apply to units without [Bullet])"
+      "desc": "1 ally that has the least [Bullet] gains +2 [Breath] Count when using a Skill that consumes [Bullet].\n- If the said ally is a Full-Stop Office Identity, or if they have less than 5 [Breath] Count, gain +4 [Breath] Count instead (once per turn; does not apply to units without [Bullet])"
     },
     {
       "id": 1011101,
       "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
-      "desc": "On death, inflict 4 [Burst] and +2 [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 4 [Burst] and +2 [Burst] Count against the enemy with the least [Burst] Count"
+      "desc": "On death, inflict 4 [Burst] and +2 [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 4 [Burst] and +2 [Burst] Count against the enemy that has the least [Burst] Count"
     },
     {
       "id": 1011111,
       "name": "This is reflected in their appearance, more closely resembling the source Abnormality than E.G.O of the former L Corp. do",
-      "desc": "On death, inflict <style=\"highlight\">5</style> [Burst] and +<style=\"highlight\">3</style> [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 5 [Burst] and +3 [Burst] Count against the enemy with the least [Burst] Count\n- If this unit is in a [GlowingLantern] state, inflict double the [Burst] potency with this effect"
+      "desc": "On death, inflict <style=\"highlight\">5</style> [Burst] and +<style=\"highlight\">3</style> [Burst] Count against the target that attacked this unit last; then, gain 2 E.G.O resources for 4 least-owned E.G.O resources.\n- If no one attacked this unit, or if an ally killed this unit, inflict 5 [Burst] and +3 [Burst] Count against the enemy that has the least [Burst] Count\n- If this unit is in a [GlowingLantern] state, inflict double the [Burst] potency with this effect"
     },
     {
       "id": 1011121,
       "name": "E.G.O disintegration is not unlike decomposition of compost",
-      "desc": "When 1 ally with the least HP is killed, gain 2 E.G.O resources for 2 E.G.O least-owned E.G.O resources"
+      "desc": "When 1 ally that has the least HP is killed, gain 2 E.G.O resources for 2 E.G.O least-owned E.G.O resources"
     },
     {
       "id": 1021101,
@@ -1938,7 +1938,7 @@
     {
       "id": 1021121,
       "name": "Residual Heat",
-      "desc": "When 1 ally with the least SP inflicts [Combustion] with a Base Attack Skill's On Hit effect, inflict 2 additional [Combustion] (3 times max)\n- If the target the ally is attacking has 30+ Burn, inflict +1 Burn Count instead (3 times max)"
+      "desc": "When 1 ally that has the least SP inflicts [Combustion] with a Base Attack Skill's On Hit effect, inflict 2 additional [Combustion] (3 times max)\n- If the target the ally is attacking has 30+ Burn, inflict +1 Burn Count instead (3 times max)"
     },
     {
       "id": 1071201,
@@ -2012,7 +2012,7 @@
     {
       "id": 1121101,
       "name": "I'm the only survivor...",
-      "desc": "Deal +0.2% damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if they have 30+ ([Combustion] + [Combustion] Count), deal +0.3% damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts",
+      "desc": "Deal +0.2% damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if they have 30+ ([Combustion] + [Combustion] Count), deal +0.3% damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies that have [Combustion], inflict +2 [Combustion] Count against 2 random enemies that do not have [Combustion] or has the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts",
       "summary": "Deal more damage based on [FirePunchFuel] and [FirePunchFuelOverheated] consumed\nInflict [Combustion] Count against 2 random enemies (once per turn)"
     },
     {
@@ -2088,22 +2088,22 @@
     {
       "id": 1061201,
       "name": "Brainwave Charge-focusing Antlers",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nAt 2+ [Charge]:\n- Inflict +1 more [Sinking] with Base Attack Skills (does not activate when inflicting only [Sinking] Count or when inflicting [Sinking] on self)\n- Deal +([Charge] x 3)% damage with Base Attack Skills (max 15%)"
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nAt 2+ [Charge]:\n- Inflict +1 more [Sinking] using Base Attack Skills (does not activate when inflicting only [Sinking] Count or when inflicting [Sinking] on self)\n- Deal +([Charge] x 3)% damage using Base Attack Skills (max 15%)"
     },
     {
       "id": 1061211,
       "name": "Brainwave Charge-focusing Antlers",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nAt 2+ [Charge]:\n<style=\"highlight\">- Inflict +1 more [Sinking] with Base Attack Skills for every 2 [Charge] (max 2, does not activate when inflicting only [Sinking] Count or when inflicting [Sinking] on self)</style>\n- Deal +([Charge] x <style=\"highlight\">5</style>)% damage with Base Attack Skills (max <style=\"highlight\">25%</style>)"
+      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nAt 2+ [Charge]:\n<style=\"highlight\">- Inflict +1 more [Sinking] using Base Attack Skills for every 2 [Charge] (max 2, does not activate when inflicting only [Sinking] Count or when inflicting [Sinking] on self)</style>\n- Deal +([Charge] x <style=\"highlight\">5</style>)% damage using Base Attack Skills (max <style=\"highlight\">25%</style>)"
     },
     {
       "id": 1061221,
       "name": "Charged Pulverization Support",
-      "desc": "1 ally with the most [Charge]: when using a Base Attack Skill that gains [Charge] Count, deal +10% damage with the final Coin"
+      "desc": "1 ally that has the most [Charge]: When using a Base Attack Skill that gains [Charge] Count, deal +10% damage using the final Coin"
     },
     {
       "id": 1061231,
       "name": "Charged Pulverization Support",
-      "desc": "1 ally with the most [Charge]: when using a Base Attack Skill that gains [Charge] Count, deal <style=\"highlight\">+15%</style> damage with the final Coin"
+      "desc": "1 ally that has the most [Charge]: When using a Base Attack Skill that gains [Charge] Count, deal <style=\"highlight\">+15%</style> damage using the final Coin"
     },
     {
       "id": 1121201,
@@ -2249,7 +2249,7 @@
     {
       "id": 1031221,
       "name": "Magical Power Charging Support",
-      "desc": "If, among allies that gain [Charge] Count with their Base Attack Skills, 1 ally with the least [Charge] Count uses a Base Attack Skill that gains [Charge] Count, they gain +2 [Charge] Count (2 times per turn)\n- At 0 or higher SP: heal ([Charge] on target x 2) HP (max 10; heals up to 20 per turn)\n- At less than 0 SP: heal ([Charge] on target) SP (max 5; heals up to 10 per turn)",
+      "desc": "If, among allies that gain [Charge] Count using their Base Attack Skills, 1 ally that has the least [Charge] Count uses a Base Attack Skill that gains [Charge] Count, the said ally gains +2 [Charge] Count (2 times per turn)\n- At 0 or higher SP: heal ([Charge] on target x 2) HP (max 10; heals up to 20 per turn)\n- At less than 0 SP: heal ([Charge] on target) SP (max 5; heals up to 10 per turn)",
       "summary": "Gain [Charge] Count\n- Depending on this unit's SP, Heal HP or SP based on [Charge]"
     },
     {
@@ -2314,13 +2314,13 @@
     {
       "id": 1061301,
       "name": "Embrace the Tarnished Blood and Exsanguinate Others For the Cause.",
-      "desc": "Combat Start: if this unit did not equip a Defense Skill and is about to take an Unopposed Attack, apply 1 [HeishouSupportProtect] to (highest Reson. / 3) random Heishou Pack allies with the least [SupportProtect] Stacks. (max 2 allies; once per Identity; excludes Identities with Skills that gain [SupportProtect])\n\nIn this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn, and it gains 1 [CondensedBlood] (once per Encounter)\n\nThis unit's Skills deal +3% damage for every [CondensedBlood] on self\n\nWhen activating the E.G.O Skill 'Tears[TabExplain] of the Tarnished Blood[TabExplain] - The End', nullify the death effect in its Attack End effects; instead, heal 60% HP. Starting next turn, gain 1 [AttackDmgUp] at every Turn Start (once per Encounter)",
+      "desc": "Combat Start: If this unit did not equip a Defense Skill and is about to take an Unopposed Attack, apply 1 [HeishouSupportProtect] to (highest Reson. / 3) random Heishou Pack allies that have the least [SupportProtect] Stacks (max 2 allies; once per Identity; excludes Identities that have Skills that gain [SupportProtect])\n\nIn this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn, and it gains 1 [CondensedBlood] (once per Encounter)\n\nThis unit's Skills deal +3% damage for every [CondensedBlood] on self\n\nWhen activating the E.G.O Skill 'Tears[TabExplain] of the Tarnished Blood[TabExplain] - The End', nullify the death effect in its Attack End effects; instead, heal 60% HP. Starting next turn, gain 1 [AttackDmgUp] at every Turn Start (once per Encounter)",
       "summary": "When taking damage that brings this unit's HP to 0, nullify death, and gain [CondensedBlood]\nWhen activating 'Tears[TabExplain] of the Tarnished Blood[TabExplain]', nullify death, heal HP, and gain [AttackDmgUp]"
     },
     {
       "id": 1061321,
       "name": "Please be traceless in your deeds.",
-      "desc": "Identity with the least current HP percentage: deal +(types of Deathrites on target x 3)% damage against the enemy (max 15%)",
+      "desc": "Identity that has the least current HP percentage: Deal +(types of Deathrites on target x 3)% damage against the enemy (max 15%)",
       "summary": ""
     },
     {
@@ -2331,7 +2331,7 @@
     {
       "id": 1101401,
       "name": "Let's Get Battle-drunk",
-      "desc": "On Hit against targets with 7+ [Burst], (highest Reson. x 15)% chance to inflict 1 [Combustion] (4 times per turn)\n\nCombat End: if this unit has [Combustion], gain 1 [ChickenStance], 1 [CrimsonDamageUp], and 1 [ShamrockDamageUp] at the next Turn Start\n\nCombat Start: gain 1 [AttackUp] and [DefenseUp] for every 20% missing HP on self (max 3)"
+      "desc": "On Hit against targets that have 7+ [Burst], (highest Reson. x 15)% chance to inflict 1 [Combustion] (4 times per turn)\n\nCombat End: If this unit has [Combustion], gain 1 [ChickenStance], 1 [CrimsonDamageUp], and 1 [ShamrockDamageUp] at the next Turn Start\n\nCombat Start: Gain 1 [AttackUp] and [DefenseUp] for every 20% missing HP on self (max 3)"
     },
     {
       "id": 1101421,
@@ -2376,7 +2376,7 @@
     {
       "id": 1041202,
       "name": "Grasp that Forbids Falling",
-      "desc": "When Staggered, gain 4 [Protection] and gain [ContemptPersonality] next turn (once per Encounter)\n\nOn death, apply the following effects against 3 enemies with the most [GazeRyoshu] or [ContemptRyoshu] (in descending order; in Focused Encounters, Parts)\n- Inflict 2 [Binding] next turn\n- Inflict 2 [Laceration] and +1 [Laceration] Count\n- Inflict 2 [Vibration] and +1 [Vibration] Count"
+      "desc": "When Staggered, gain 4 [Protection] and gain [ContemptPersonality] next turn (once per Encounter)\n\nOn death, apply the following effects against 3 enemies that have the most [GazeRyoshu] or [ContemptRyoshu] (in descending order; in Focused Encounters, Parts)\n- Inflict 2 [Binding] next turn\n- Inflict 2 [Laceration] and +1 [Laceration] Count\n- Inflict 2 [Vibration] and +1 [Vibration] Count"
     },
     {
       "id": 1041203,
@@ -2386,7 +2386,7 @@
     {
       "id": 1041221,
       "name": "It flows and cries",
-      "desc": "If the ally with the earliest Deployment order hits an enemy with its attack, inflict 1 [Laceration] (once per enemy per turn)\n- If target has [Laceration], inflict +1 [Laceration] Count as well\n\nIf the ally with the earliest Deployment order is hit by an enemy, inflict 1 [Vibration] against the attacker (3 times per turn)\n- If the attacker has [Vibration], inflict +1 [Vibration] Count as well",
+      "desc": "If the ally with the earliest Deployment order hits an enemy using its attack, inflict 1 [Laceration] (once per enemy per turn)\n- If target has [Laceration], inflict +1 [Laceration] Count as well\n\nIf the ally with the earliest Deployment order is hit by an enemy, inflict 1 [Vibration] against the attacker (3 times per turn)\n- If the attacker has [Vibration], inflict +1 [Vibration] Count as well",
       "summary": "On Hit, inflict [Laceration]; inflict Count as well if the target already has the effect\nWhen Hit, inflict [Vibration]; inflict Count as well if the target already has the effect"
     },
     {
@@ -2427,13 +2427,13 @@
     {
       "id": 1051301,
       "name": "'Bloodied, Masked, and as Blood Commands'",
-      "desc": "Combat Start: if this unit has [BloodArmorMeursault], gain the following effects based on Stack:\n- At 3+ Stack: gain 1 [AttackUp] and 1 [DefenseUp]\n- At 4+ Stack: gain 1 [Agility] next turn\n\nOn Hit against enemies with [Laceration]: if this unit has less than 30% HP, heal 30% HP (once per Encounter; rounded down)",
+      "desc": "Combat Start: if this unit has [BloodArmorMeursault], gain the following effects based on Stack:\n- At 3+ Stack: gain 1 [AttackUp] and 1 [DefenseUp]\n- At 4+ Stack: gain 1 [Agility] next turn\n\nOn Hit against enemies that have [Laceration]: if this unit has less than 30% HP, heal 30% HP (once per Encounter; rounded down)",
       "summary": "If conditions are met, heal 30% HP"
     },
     {
       "id": 1051311,
       "name": "'Bloodied, Masked, and as Blood Commands'",
-      "desc": "Combat Start: if this unit has [BloodArmorMeursault], gain the following effects based on Stack:\n- At 3+ Stack: gain <style=\"highlight\">2</style> [AttackUp] and <style=\"highlight\">2</style> [DefenseUp]\n- At 4+ Stack: gain <style=\"highlight\">2</style> [Agility] next turn\n\n<style=\"highlight\">Combat Start: if this unit has [FocusOnActing], inflict 1 [ParadeConcentration] On Hit against enemies (2 times per turn; including E.G.O Skills)</style>\n\nOn Hit against enemies with [Laceration]: if this unit has less than 30% HP, heal 30% HP (once per Encounter; rounded down)",
+      "desc": "Combat Start: if this unit has [BloodArmorMeursault], gain the following effects based on Stack:\n- At 3+ Stack: gain <style=\"highlight\">2</style> [AttackUp] and <style=\"highlight\">2</style> [DefenseUp]\n- At 4+ Stack: gain <style=\"highlight\">2</style> [Agility] next turn\n\n<style=\"highlight\">Combat Start: if this unit has [FocusOnActing], inflict 1 [ParadeConcentration] On Hit against enemies (2 times per turn; including E.G.O Skills)</style>\n\nOn Hit against enemies that have [Laceration]: if this unit has less than 30% HP, heal 30% HP (once per Encounter; rounded down)",
       "summary": "If conditions are met: inflict 1 [ParadeConcentration]\nIf conditions are met: heal 30% HP"
     },
     {
@@ -2444,7 +2444,7 @@
     {
       "id": 1051303,
       "name": "Responsibility of a Former Prince",
-      "desc": "Turn Start: the following effects activate for La Manchaland Identities with max [BloodArmorMeursault] Stack\n· Gain 1 [FocusOnActing]\n· When Staggered due to damage, recover from Stagger; then, consume all [BloodArmorMeursault] on self (once per Stage per Identity; excluding forced Staggers)\n\nIf The Princess of La Manchaland Rodion is on the field, she and The Prince of La Manchaland Meursault both deal +15% damage with their Skill 3 (including Empowered Skills)",
+      "desc": "Turn Start: The following effects activate for La Manchaland Identities that have max [BloodArmorMeursault] Stack\n· Gain 1 [FocusOnActing]\n· When Staggered due to damage, recover from Stagger; then, consume all [BloodArmorMeursault] on self (once per Stage per Identity; excluding forced Staggers)\n\nIf The Princess of La Manchaland Rodion is on the field, she and The Prince of La Manchaland Meursault both deal +15% damage using their Skill 3 (including Empowered Skills)",
       "summary": "Meursault & Rodion deal +15% damage with their Skill 3"
     },
     {
@@ -2467,7 +2467,7 @@
     {
       "id": 1081321,
       "name": "Relay",
-      "desc": "Combat Start: when 1 ally with the least SP uses a Base Attack Skill to Heads Hit, it heals 5 SP (2 times per turn; excluding allies at -40 or lower SP)",
+      "desc": "Combat Start: when 1 ally that has the least SP uses a Base Attack Skill to Heads Hit, it heals 5 SP (2 times per turn; excluding allies at -40 or lower SP)",
       "summary": "Heal SP"
     },
     {
@@ -2525,20 +2525,20 @@
     {
       "id": 1031301,
       "name": "Explosive Battering Ram",
-      "desc": "Deal +1% damage for every 2 ([Burst] + [Sinking]) on target (max 15%)\n- Double this effect and max value against targets without SP\n\nIf this unit has [GrownHorns], the last coin of this unit's Base Skills deals +10% damage\n- When attacking Skill Slot equipped with a Defense Skill, the last coin deals +20% damage instead\n- When Clashing with a Clashable Guard Skill, Clash Power +1",
-      "summary": "Deal more damage based on [Burst] and [Sinking] on target\nIf this unit has [GrownHorns], the last coin of this unit's Base Skills deal more damage"
+      "desc": "Deal +1% damage for every 2 ([Burst] + [Sinking]) on target (max 15%)\n- Double this effect and max value against Non-SP targets\n\nIf this unit has [GrownHorns], the last coin of this unit's Base Skills deals +10% damage\n- When attacking Skill Slots equipped with a Defense Skill, the last Coin deals +20% damage instead\n- When Clashing against a Clashable Guard Skill, Clash Power +1",
+      "summary": "Deal more damage based on [Burst] and [Sinking] on target\nIf this unit has [GrownHorns], the last Coin of this unit's Base Skills deals more damage"
     },
     {
       "id": 1031311,
       "name": "Explosive Battering Ram",
-      "desc": "<style=\"highlight\">Deal (-Target's SP / 3)% more damage against targets at less than 0 SP (max 15%, rounded down)</style>\n\nDeal +1% damage for every 2 ([Burst] + [Sinking]) on target (max 15%)\n- Double this effect and max value against targets without SP\n\nIf this unit has [GrownHorns], the last coin of this unit's Base Skills deals <style=\"highlight\">+15%</style> damage\n- When attacking Skill Slot equipped with a Defense Skill, the last coin deals <style=\"highlight\">+30%</style> damage instead\n- When Clashing with a Clashable Guard Skill, Clash Power <style=\"highlight\">+3</style>",
-      "summary": "Deal more damage based on [Burst] and [Sinking] on target\nIf this unit has [GrownHorns], the last coin of this unit's Base Skills deal more damage"
+      "desc": "<style=\"highlight\">Deal (-Target's SP / 3)% more damage against targets at less than 0 SP (max 15%, rounded down)</style>\n\nDeal +1% damage for every 2 ([Burst] + [Sinking]) on target (max 15%)\n- Double this effect and max value against Non-SP targets\n\nIf this unit has [GrownHorns], the last coin of this unit's Base Skills deals <style=\"highlight\">+15%</style> damage\n- When attacking Skill Slots equipped with a Defense Skill, the last Coin deals <style=\"highlight\">+30%</style> damage instead\n- When Clashing against a Clashable Guard Skill, Clash Power <style=\"highlight\">+3</style>",
+      "summary": "Deal more damage based on [Burst] and [Sinking] on target\nIf this unit has [GrownHorns], the last Coin of this unit's Base Skills deals more damage"
     },
     {
       "id": 1031321,
       "name": "Flesh-Rending Horn Growth",
-      "desc": "Ally with the fastest Speed: On Hit with a Base Attack Skill against enemies with 2+ [Burst] Count or [Sinking] Count, inflict 1 [DefenseDown] (2 times per turn)",
-      "summary": "On Hit with a Base Attack Skill against enemies with [Burst] or [Sinking], inflict 1 [DefenseDown]"
+      "desc": "Ally with the fastest Speed: On Hit using a Base Attack Skill against enemies that have 2+ [Burst] Count or [Sinking] Count, inflict 1 [DefenseDown] (2 times per turn)",
+      "summary": "On Hit using a Base Attack Skill against enemies that have [Burst] or [Sinking], inflict 1 [DefenseDown]"
     },
     {
       "id": 1031302,
@@ -2648,13 +2648,13 @@
     {
       "id": 1031401,
       "name": "The Great Magicked Beeper Knoweth My Desire!",
-      "desc": "Deal +2% damage with Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage with Base Skills instead\n\nOn hit with Base Skill attacks against targets with [IndexPrescriptTargetToEnemy], heal 3 SP (once per Skill; 2 times per turn)\n- Heal additional SP based on [UnlockBuff_Base] stage",
+      "desc": "Deal +2% damage using Skills marked with [IndexPrescriptTargetMarkToEnemy] for every [BlessingOfIndexPrescriptAlly] on self (max 16%)\n- At 9 [BlessingOfIndexPrescriptAlly], deal +20% damage using Base Skills instead\n\nOn hit using Base Skill attacks against targets that have [IndexPrescriptTargetToEnemy], heal 3 SP (once per Skill; 2 times per turn)\n- Heal additional SP based on [UnlockBuff_Base] stage",
       "summary": "Skills marked with Mark of the Prescript deal more damage based on Grace of the Prescript Stack\nOn Hit, heal SP"
     },
     {
       "id": 1031421,
       "name": "This, too, is the Grace of the Great Magicked Beeper!",
-      "desc": "Combat Start: Heal 15 SP for the ally with the lowest SP\n- This effect prioritizes Plus Coin Identities\n- If the affected unit is in The Index faction, they gain 1 [AttackDmgUp] as well\n- This effect does not apply to units under effects that prevent SP recovery such as E.G.O Corrosion[TabExplain], Panic, etc."
+      "desc": "Combat Start: Heal 15 SP for the ally that has the lowest SP\n- This effect prioritizes Plus Coin Identities\n- If the affected unit is in The Index faction, they gain 1 [AttackDmgUp] as well\n- This effect does not apply to units under effects that prevent SP recovery such as E.G.O Corrosion[TabExplain], Panic, etc."
     },
     {
       "id": 1081401,
@@ -2690,17 +2690,17 @@
     {
       "id": 1121401,
       "name": "Eyes Bright Like Lamps",
-      "desc": "Combat Start: Gain 1 [LanternGregBigBird]\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal 3 SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally with [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
+      "desc": "Combat Start: Gain 1 [LanternGregBigBird]\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal 3 SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally that has [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
     },
     {
       "id": 1121411,
       "name": "Eyes Bright Like Lamps",
-      "desc": "Combat Start: Gain 1 [LanternGregBigBird] <style=\"highlight\">for every 2 Gloom Reson. (max 3)</style>\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal <style=\"highlight\">5</style> SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally with [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
+      "desc": "Combat Start: Gain 1 [LanternGregBigBird] <style=\"highlight\">for every 2 Gloom Reson. (max 3)</style>\n\nCombat Start: If an enemy has [DelusionGregBigBird], heal <style=\"highlight\">5</style> SP\n\nTurn End: Apply [ObedienceGregBigBird] next turn to the ally with the earliest Deployment order among those that do not fit the following conditions:\n- Is this unit\n- Is an ally that has [ObedienceGregBigBird]\n- Is an ally that cannot heal SP due to conditions such as Panic or Corrosion"
     },
     {
       "id": 1121421,
       "name": "Were There More Lives to be Saved?",
-      "desc": "Turn End: Apply the following to the ally with the earliest Deployment order among those with negative effects\n- Gain +4 [Aggro] to the leftmost Slot next turn\n- Gain 1 [HitDamageUp] next turn"
+      "desc": "Turn End: Apply the following to the ally with the earliest Deployment order among those that have negative effects\n- Gain +4 [Aggro] to the leftmost Slot next turn\n- Gain 1 [HitDamageUp] next turn"
     },
     {
       "id": 1101501,
@@ -2768,23 +2768,23 @@
     {
       "id": 1051401,
       "name": "Spore Diffusion",
-      "desc": "On Kill against targets with [MeursaultBeeSpore], inflict double the [MeursaultBeeSpore] for the next turn"
+      "desc": "On Kill against targets that have [MeursaultBeeSpore], inflict double the [MeursaultBeeSpore] for the next turn"
     },
     {
       "id": 1051411,
       "name": "Spore Diffusion",
-      "desc": "On Kill against targets with [MeursaultBeeSpore], gain the following effects:\n- Inflict double the [MeursaultBeeSpore] for the next turn\n<style=\"highlight\">- On Kill with a Base Attack Skill, gain (<noparse>Spore</noparse> Round the Skill spends / 2) <noparse>Spore</noparse> Round (rounded up; once per Skill)</style>"
+      "desc": "On Kill against targets that have [MeursaultBeeSpore], gain the following effects:\n- Inflict double the [MeursaultBeeSpore] for the next turn\n<style=\"highlight\">- On Kill using a Base Attack Skill, gain (<noparse>Spore</noparse> Round the Skill spends / 2) <noparse>Spore</noparse> Round (rounded up; once per Skill)</style>"
     },
     {
       "id": 1051402,
       "name": "E.G.O Alteration / Spore Round",
-      "desc": "Always Active: Begin Encounters with 10 [MeursaultSporeBulletLong] and 6 [MeursaultSporeBulletShort]\n\nOn Hit with Coins that spend <noparse>Spore</noparse> Round:\n- If [MeursaultSporeBulletLong] was spent, inflict 2 [MeursaultBeeSpore]\n- If [MeursaultSporeBulletShort] was spent, inflict 3 [MeursaultBeeSpore]\n- This counts as \"inflicting negative effects with the Skill\"\n\nBefore Coin Use of a Coin that spends [MeursaultSporeBulletShort], if this unit does not have [MeursaultSporeBulletShort], consume 2 SP and 2 [MeursaultSporeBulletLong] to gain 1 [MeursaultSporeBulletShort]\n\nIf this unit runs out of <noparse>Spore</noparse> Round mid-Skill, cancel all subsequent Coins and [MeursaultSporeBulletReloading]\n\nWhen targets with [MeursaultBeeSpore] are killed, gain 1 [MeursaultWorkerBee]",
+      "desc": "Always Active: Begin Encounters with 10 [MeursaultSporeBulletLong] and 6 [MeursaultSporeBulletShort]\n\nOn Hit using Coins that spend <noparse>Spore</noparse> Round:\n- If [MeursaultSporeBulletLong] was spent, inflict 2 [MeursaultBeeSpore]\n- If [MeursaultSporeBulletShort] was spent, inflict 3 [MeursaultBeeSpore]\n- This counts as \"inflicting negative effects with the Skill\"\n\nBefore Coin Use of a Coin that spends [MeursaultSporeBulletShort], if this unit does not have [MeursaultSporeBulletShort], consume 2 SP and 2 [MeursaultSporeBulletLong] to gain 1 [MeursaultSporeBulletShort]\n\nIf this unit runs out of <noparse>Spore</noparse> Round mid-Skill, cancel all subsequent Coins and [MeursaultSporeBulletReloading]\n\nWhen targets that have [MeursaultBeeSpore] are killed, gain 1 [MeursaultWorkerBee]",
       "flavor": "\"The research team's—that's us—examination has confirmed that even gears that were outcomes of stable, refined extractions may undergo slight mutations depending on the user.\nNo, I wouldn't attribute that to incompleteness. Rather, such changes may even be a process of these gears reaching their own completion, like real E.G.O.\nLet us label this phenomenon \"Alteration\" for now.\""
     },
     {
       "id": 1051421,
       "name": "Worker Bee",
-      "desc": "Ally Pierce Base Attack Skill End: The said ally heals HP equal to 10% of HP damage dealt with the attack (2 times per Encounter)\n- For this turn, if all Base Attack Skills equipped on allied Skill Slots are Pierce Skills, all allies heal 10 SP at Turn End"
+      "desc": "Ally Pierce Base Attack Skill End: The said ally heals HP equal to 10% of HP damage dealt using the attack (2 times per Encounter)\n- For this turn, if all Base Attack Skills equipped on allied Skill Slots are Pierce Skills, all allies heal 10 SP at Turn End"
     },
     {
       "id": 1041401,
@@ -2801,13 +2801,13 @@
     {
       "id": 1041411,
       "name": "Unwithering Flower",
-      "desc": "Gain 1 [AlriuneEGOWe] if the enemy takes [Sinking] damage\nGain [AlriuneEGOWe] equal to [AlriuneEGOThey] inflicted every time enemies gain [AlriuneEGOThey]\nGain 2 [AlriuneEGOWe] every time Tremor Burst is triggered regardless of the unit\n\nAttack Skill End: At 30+ [AlriuneEGOWe], use 'Magnificent End' against the target with the highest [AlriuneEGOThey] Stack\n\nDeal +([AlriuneEGOThey] on the target)% damage against Staggered targets\n\nIf this unit lost 10%+ HP this turn, heal 3% HP and 10 SP (once per turn)",
+      "desc": "Gain 1 [AlriuneEGOWe] if the enemy takes [Sinking] damage\nGain [AlriuneEGOWe] equal to [AlriuneEGOThey] inflicted every time enemies gain [AlriuneEGOThey]\nGain 2 [AlriuneEGOWe] every time Tremor Burst is triggered regardless of the unit\n\nAttack Skill End: At 30+ [AlriuneEGOWe], use 'Magnificent End' against the target that has the highest [AlriuneEGOThey] Stack\n\nDeal +([AlriuneEGOThey] on the target)% damage against Staggered targets\n\nIf this unit lost 10%+ HP this turn, heal 3% HP and 10 SP (once per turn)",
       "summary": "Gain [AlriuneEGOWe]"
     },
     {
       "id": 1041421,
       "name": "Spring's Genesis",
-      "desc": "When the ally with the fastest Speed hits an enemy with a Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking', inflict 2 [Vibration] and trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (once per turn)",
+      "desc": "When the ally with the fastest Speed hits an enemy using a Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking', inflict 2 [Vibration] and trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (once per turn)",
       "summary": "Inflict [Vibration], trigger [VibrationExplosion]"
     },
     {
@@ -2823,12 +2823,12 @@
     {
       "id": 1121501,
       "name": "Take the Lead. I'll Provide You Support.",
-      "desc": "Combat Start: Gain +5 [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 and apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally (min 1, rounded down)\n- This effect prioritizes the ally with the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt 3+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom and Envy - 2) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
+      "desc": "Combat Start: Gain +5 [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 and apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally (min 1, rounded down)\n- This effect prioritizes the ally that has the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt 3+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom and Envy - 2) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
     },
     {
       "id": 1121511,
       "name": "Take the Lead. I'll Provide You Support.",
-      "desc": "Combat Start: Gain +<style=\"highlight\">10</style> [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 and apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally <style=\"highlight\">(rounded up)</style>\n- This effect prioritizes the ally with the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt <style=\"highlight\">2</style>+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom and Envy - <style=\"highlight\">1</style>) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
+      "desc": "Combat Start: Gain +<style=\"highlight\">10</style> [Charge] Count (once per Encounter)\n\nCombat End: At more than 12 [Charge] Count, consume excess [Charge] Count up to 8 and apply +(half of [Charge] Count consumed due to this effect) [Charge] Count on an ally <style=\"highlight\">(rounded up)</style>\n- This effect prioritizes the ally that has the lowest [Charge] Count among allies with earlier Deployment order than this unit\n- If there are no allies with earlier Deployment order than this unit on the battlefield, or if this unit has 3+ [Charge], deactivate this effect\n\nAt <style=\"highlight\">2</style>+ Gloom or Envy Reson., apply +2 [Charge] Count next turn on allies with earlier Deployment order than this unit\n- Applies on (Higher Reson. between Gloom and Envy - <style=\"highlight\">1</style>) allies, in Deployment order (max 3 allies)\n- At 3+ [Charge], apply +4 [Charge] Count on allies instead\n- If there are no allies with earlier Deployment order than this unit on the battlefield, gain +4 [Charge] Count instead"
     },
     {
       "id": 1121521,

@@ -2031,6 +2031,22 @@
     {
       "id": "mainui_use_optional_piece_package",
       "content": "Use Nominable Egoshard Crate"
+    },
+    {
+      "id": "mainui_battleresult_consumable",
+      "content": "Module Cost"
+    },
+    {
+      "id": "mainui_cont_mine_title",
+      "content": "Consecutive Battle"
+    },
+    {
+      "id": "mainui_cont_mine_daily_bonus_desc",
+      "content": "{0} Daily Bonuses Applied"
+    },
+    {
+      "id": "mainui_cont_mine_invalid_text",
+      "content": "Clear Stage once to unlock Consecutive Battle"
     }
   ]
 }

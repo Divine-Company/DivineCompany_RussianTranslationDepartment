@@ -658,7 +658,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 1 ally either with no [Breath] or with the least [Breath] Potency, apply 2 [Breath]"
+                  "desc": "[CriticalOnSucceedAttack] To 1 ally that either has no [Breath] or has the least [Breath] Potency, apply 2 [Breath]"
                 }
               ]
             }
@@ -679,7 +679,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 1 ally either with no [Breath] or with the least [Breath] Potency, apply 2 [Breath]"
+                  "desc": "[CriticalOnSucceedAttack] To 1 ally that either has no [Breath] or has the least [Breath] Potency, apply 2 [Breath]"
                 }
               ]
             }
@@ -700,7 +700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 1 ally either with no [Breath] or with the least [Breath] Potency, apply 2 [Breath]\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath]</style>"
+                  "desc": "[CriticalOnSucceedAttack] To 1 ally that either has no [Breath] or has the least [Breath] Potency, apply 2 [Breath]\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath]</style>"
                 }
               ]
             }
@@ -734,7 +734,7 @@
               "coindescs": [
                 {},
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] To 2 allies that either have no [Breath] or have the least [Breath] Count, apply +2 [Breath] Count"
                 },
                 {
                   "desc": "[EndSkill] If target is defeated, gain 1 [SlashDamageUp] next turn"
@@ -769,7 +769,7 @@
                   "desc": "+30% Damage on Critical Hit"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply +2 [Breath] Count.\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
+                  "desc": "[CriticalOnSucceedAttack] To 2 allies that either have no [Breath] or have the least [Breath] Count, apply +2 [Breath] Count\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
                 },
                 {
                   "desc": "[EndSkill] If target is defeated, <style=\"highlight\">apply 1 [SlashDamageUp] to self and 1 random other ally next turn</style>"

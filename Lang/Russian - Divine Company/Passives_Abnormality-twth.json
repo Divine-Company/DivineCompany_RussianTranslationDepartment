@@ -62,6 +62,74 @@
       "desc": "On death, give +2 E.G.O resource of the least-owned Affinity",
       "summary": "Give E.G.O resource on death",
       "flavor": ""
+    },
+    {
+      "id": 500601,
+      "name": "Reflectrial",
+      "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count/10) in a Clash (rounded down)\n\nMax Potency cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 30\nMax Count cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 10",
+      "flavor": ""
+    },
+    {
+      "id": 500602,
+      "name": "The Ring's Docent of Fauvism",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Gain 2 [Protection]</u></b></mark></color> for every allied Fauvist Student of the Ring\n- If this unit used \"Critique\" in this Encounter, gain 2 [Protection] and heal 5 SP instead starting from the next turn\n(At lower than -15 SP, double the SP-healing effect)\n- If there are no allied Fauvist Students of the Ring, gain 2 [Vulnerable] and reduce this unit's SP down to 0 instead\n\nImmediately Before Getting Hit by a Skill that has 1 Atk Weight, if there is an allied Student of the Ring, <color=#ff6000><mark=#ff000040><b><u>apply 2 [Protection] on that unit; then, have the said unit take the attack instead (2 times per turn)</u></b></mark></color>\n\nTurn End of the turn this unit used \"Critique\": If an allied Fauvist Student of the Ring was defeated in this Encounter, <color=#ff6000><mark=#ff000040><b><u>refill its vacancy with the same Student unit</u></b></mark></color>\n- Every Turn Start: The Student that refilled the vacancy due to this effect gains (# of allies defeated in this Encounter) [Vulnerable] and [AttackDown] (max 10 each)",
+      "summary": "Immediately before getting hit, force an allied Student to take the hit instead",
+      "flavor": ""
+    },
+    {
+      "id": 500603,
+      "name": "Mentorship",
+      "desc": "Turn Start: Randomly apply [AttackUp] and [DefenseUp] to allied Fauvist Students of the Ring equal to the number of turns (including the current turn) each unit has survived, respectively (max 5)\n\nTurn End: If an allied Student is Staggered, <color=#ff6000><mark=#ff000040><b><u>recover them from Stagger</u></b></mark></color>\n- All Attack Type and Affinity Resistance for the Students who recovered from Stagger due to this effect becomes \"Fatal\" for the next turn\n\nTurn End: If a Student is in Panic, heal their SP up to 45",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 500604,
+      "name": "Le Fauvisme - Couleurs Sauvages",
+      "desc": "Combat End: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [IntenseColors] next turn</u></b></mark></color> to Sinners that have [BearClawWound], [EagleClawWound], and [BoldBrushstrokes] simultaneously\n- If target has 3+/6+/9+ [BearClawWound] and [EagleClawWound] each, inflict 2/3/4 [IntenseColors] instead (amount inflicted is based on the effect that has the least Stack)",
+      "summary": "Inflict Palette Vibrante",
+      "flavor": "'Intrinsic in the outward appearance of each animal is a distinct purpose. And we les Fauves are the ones who awaken and express the ferity of those that we call wild beasts among them.'"
+    },
+    {
+      "id": 500605,
+      "name": "Casque de Fauve - Empreinte Vitale",
+      "desc": "Gain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 45\n\n<color=#ff6000><mark=#ff000040><b><u>At 70%- HP, gain a new pattern</u></b></mark></color>\n- Remove all effects other than those exclusive to this unit\n- Inflict <color=#ff6000><mark=#ff000040><b><u>8 [Laceration], +8 [Laceration] Count, 8 [Sinking], and +8 [Sinking] Count</u></b></mark></color> on all Sinners on the field\n- First Turn Start of the new pattern: Gain [FaubismWolfMask] and heal up to 45 SP",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 500701,
+      "name": "Reflectrial",
+      "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count/10) in a Clash (rounded down)\n\nMax Potency cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 30\nMax Count cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 10",
+      "flavor": ""
+    },
+    {
+      "id": 500702,
+      "name": "Rufo, a Docent of The Ring's School of Fauvism",
+      "desc": "In the turn this unit uses a powerful attack, Min & Max Speed +15\n\nTake -50% damage from Unopposed Attacks\nDeal +50% damage with Unopposed Attacks\n- If the Slot targeted by this unit's Unopposed Attack has 2+ [Aggro], reduce the increased damage from this effect by 5% per [Aggro] Stack (min 0%)\n\nOn Clash Lose, gain 1 [AttackDmgUp] (5 per turn)\n- At Turn End, or at Attack End of a Skill that hit a Sinner, the [AttackDmgUp] effect gained with this effect expires",
+      "summary": "Take less damage and deal more damage with Unopposed Attacks\nOn Clash Lose, gain Damage Up",
+      "flavor": ""
+    },
+    {
+      "id": 500703,
+      "name": "Le Fauvisme - Masque de Loup : Résurgence de la Sauvagerie",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Gain 10 [Protection]</u></b></mark></color>\n- Gain 1 fewer [Protection] at Turn Start <color=#ff6000><mark=#ff000040><b><u>for every type of negative effect on this unit</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose using \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, gain 2 [Vulnerable] from this effect instead</u></b></mark></color> for the next turn\n\n<color=#ff6000><mark=#ff000040><b><u>Gain 1 Defense Level each time this unit is hit</u></b></mark></color> by a Skill Coin (max 20 per turn)\n- Turn End: Defense Level gained due to this effect expires\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose using \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, lose 1 Defense Level each time this unit is hit by a Skill Coin instead</u></b></mark></color> for the next turn (max 20; expires at Turn End)",
+      "summary": "When hit, gain Defense Level\nIf this unit lost a Clash using a certain Skill, lose Defense Level instead",
+      "flavor": ""
+    },
+    {
+      "id": 500704,
+      "name": "Le Fauvisme - Couleurs Sauvages",
+      "desc": "Combat End: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [IntenseColors] next turn</u></b></mark></color> to Sinners that have [BearClawWound], [EagleClawWound], and [BoldBrushstrokes] simultaneously\n- If target has 3+/6+/9+ [BearClawWound] and [EagleClawWound] each, inflict 2/3/4 [IntenseColors] instead (amount inflicted is based on the effect that has the least Stack)",
+      "summary": "Inflict Palette Vibrante",
+      "flavor": "'Intrinsic in the outward appearance of each animal is a distinct purpose. And we les Fauves are the ones who awaken and express the ferity of those that we call wild beasts among them.'"
+    },
+    {
+      "id": 500705,
+      "name": "Le Fauvisme - Maximum Paint Tolerance Dose",
+      "desc": "Gain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 45\n\n<color=#ff6000><mark=#ff000040><b><u>At 35%- HP, convert [FaubismWolfMask] into [FaubismWolfMaskBlooded], and heal up to 45 SP</u></b></mark></color>",
+      "summary": "",
+      "flavor": ""
     }
   ]
 }

@@ -1226,7 +1226,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies that have the least [Combustion] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1236,34 +1236,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 1 enemy with the least [Combustion] Count"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "I'll burn away every last drop of your filthy blood",
-          "desc": "If target has 6+ [Combustion], Coin Power +1\nCoins that consumed [FirePunchFuel] deal +10% damage\n<style=\"highlight\">- When in [FirePunchFuelOverheated] state, deal +20% damage instead</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> that have the least [Combustion] Count"
                 }
               ]
             }
@@ -1280,7 +1253,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies with the least [Combustion] Potency"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies that have the least [Combustion] Potency"
                 }
               ]
             },
@@ -1290,7 +1263,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies that have the least [Combustion] Count"
                 }
               ]
             }

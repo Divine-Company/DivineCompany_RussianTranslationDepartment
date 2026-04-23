@@ -59,28 +59,28 @@
     {
       "id": "Fauvism_Lowmorale",
       "name": "Faltering Inspiration",
-      "desc": "- If target has Mauled Color, deal +10% damage\n- Gain 1 Fragile",
+      "desc": "- Low Morale\n- If target this unit attacks has Mauled Color, deal +10% damage\n- Gain 1 Fragile",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Fauvism_Panic",
       "name": "Faltering Inspiration",
-      "desc": "- If target has Mauled Color, deal +20% damage\n- Gain 2 Fragile",
+      "desc": "- Panic\n- If target this unit attacks has Mauled Color, deal +20% damage\n- Gain 2 Fragile",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FauvismDocent_Lowmorale",
       "name": "Coloriage Impulsif",
-      "desc": "- Low Morale\n- Deal +2.5% damage for every type of negative effect on target (max 15%)\n- Gain 1 Fragile",
+      "desc": "- Low Morale\n- Deal +2.5% damage for every type of negative effect on target this unit attacks (max 15%)\n- Gain 1 Fragile",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "FauvismDocent_Panic",
       "name": "Coloriage Impulsif",
-      "desc": "- Panic\n- Deal +5% damage for every type of negative effect on target (max 30%)\n- Gain 2 Fragile",
+      "desc": "- Panic\n- Deal +5% damage for every type of negative effect on target this unit attacks (max 30%)\n- Gain 2 Fragile",
       "summary": "",
       "undefined": "-"
     },

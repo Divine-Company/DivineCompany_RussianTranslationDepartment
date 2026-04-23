@@ -925,7 +925,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [MarkOfButler]"
                 },
                 {
-                  "desc": "[EnemyKill] Reuse Skill once on a random target with [MarkOfButler]\n(Does not activate on Reuse. Does not activate when there are no remaining targets with [MarkOfButler])"
+                  "desc": "[EnemyKill] Reuse Skill once on a random target that has [MarkOfButler]\n(Does not activate on Reuse. Does not activate when there are no remaining targets that have [MarkOfButler])"
                 }
               ]
             }
@@ -2105,7 +2105,7 @@
         {
           "level": 3,
           "name": "Cascading Gaze of Awe Underneath Contempt",
-          "desc": "External effects cannot trigger this Skill to be Reused\nPrioritizes targeting enemies with [GazeRyoshu] or [ContemptRyoshu] as sub-targets\n- Deals -50% damage against sub-targets\nIf there is just a single target, deal +200% damage (for Focused Encounters, a Part)\n[WhenUse] Coin Power +1 for every 4 ([Laceration] + [Vibration]) on the main target (max 2)\n[WhenUse] Deal +2% damage for every ([Laceration] + [Vibration]) on the main target (max 50%)\n[WhenUse] Deal +7% damage for every 1 (sum of [GazeRyoshu] on all attack targets) (max 49%)\n[EndSkill] Consumes [GazeRyoshu] or [ContemptRyoshu] on all targets that were hit",
+          "desc": "External effects cannot trigger this Skill to be Reused\nPrioritizes targeting enemies that have [GazeRyoshu] or [ContemptRyoshu] as sub-targets\n- Deals -50% damage against sub-targets\nIf there is just a single target, deal +200% damage (for Focused Encounters, a Part)\n[WhenUse] Coin Power +1 for every 4 ([Laceration] + [Vibration]) on the main target (max 2)\n[WhenUse] Deal +2% damage for every ([Laceration] + [Vibration]) on the main target (max 50%)\n[WhenUse] Deal +7% damage for every 1 (sum of [GazeRyoshu] on all attack targets) (max 49%)\n[EndSkill] Consumes [GazeRyoshu] or [ContemptRyoshu] on all targets that were hit",
           "coinlist": [
             {
               "coindescs": [
@@ -2134,7 +2134,7 @@
         {
           "level": 4,
           "name": "Cascading Gaze of Awe Underneath Contempt",
-          "desc": "External effects cannot trigger this Skill to be Reused\nPrioritizes targeting enemies with [GazeRyoshu] or [ContemptRyoshu] as sub-targets<style=\"highlight\"></style>\n- Deals -50% damage against sub-targets\nIf there is just a single target, deal +200% damage (for Focused Encounters, a Part)\n[WhenUse] Coin Power +1 for every 4 ([Laceration] + [Vibration]) on the main target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal +2% damage for every ([Laceration] + [Vibration]) on the main target (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +10% damage for every 1 (sum of [GazeRyoshu] on all attack targets) (max 70%)\n[EndSkill] Consumes [GazeRyoshu] or [ContemptRyoshu] on all targets that were hit",
+          "desc": "External effects cannot trigger this Skill to be Reused\nPrioritizes targeting enemies that have [GazeRyoshu] or [ContemptRyoshu] as sub-targets<style=\"highlight\"></style>\n- Deals -50% damage against sub-targets\nIf there is just a single target, deal +200% damage (for Focused Encounters, a Part)\n[WhenUse] Coin Power +1 for every 4 ([Laceration] + [Vibration]) on the main target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal +2% damage for every ([Laceration] + [Vibration]) on the main target (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +10% damage for every 1 (sum of [GazeRyoshu] on all attack targets) (max 70%)\n[EndSkill] Consumes [GazeRyoshu] or [ContemptRyoshu] on all targets that were hit",
           "coinlist": [
             {
               "coindescs": [

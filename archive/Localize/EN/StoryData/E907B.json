@@ -478,767 +478,772 @@
     },
     {
       "id": 97,
+      "model": "돈키호테",
+      "content": "Perchance it be an academy, not a school?"
+    },
+    {
+      "id": 98,
       "model": "뉴키라",
       "content": "Wait, that kinda makes more sense, yeah! Musta been an academy, not a school."
     },
     {
-      "id": 98,
+      "id": 99,
       "model": "료슈",
       "content": "......."
     },
     {
-      "id": 99,
+      "id": 100,
       "model": "료슈",
       "content": "Academy of art."
     },
     {
-      "id": 100,
+      "id": 101,
       "model": "료슈9장",
       "content": "Hah."
     },
     {
-      "id": 101,
+      "id": 102,
       "content": "Ryōshū muttered a few words as though they were pieces of a puzzle she was assembling."
     },
     {
-      "id": 102,
+      "id": 103,
       "content": "Then, after a brief moment, she turned toward me with an astounded scoff and a look of mild irritation..."
     },
     {
-      "id": 103,
+      "id": 104,
       "model": "료슈",
       "content": "Clock."
     },
     {
-      "id": 104,
+      "id": 105,
       "model": "료슈9장",
       "content": "You deserve a smack."
     },
     {
-      "id": 105,
+      "id": 106,
       "model": "단테",
       "content": "<...? Aaugh!?>"
     },
     {
-      "id": 106,
+      "id": 107,
       "content": "... then lightly smacked me upside the head with her scabbard."
     },
     {
-      "id": 107,
+      "id": 108,
       "model": "단테",
       "content": "<Wh-what was that for?!>"
     },
     {
-      "id": 108,
+      "id": 109,
       "model": "료슈9장",
       "content": "This memory sucks, Clock. I would've been just fine without it."
     },
     {
-      "id": 109,
+      "id": 110,
       "model": "료슈",
       "content": "But at least I got to remember the incident that changed my perspective on Matthias."
     },
     {
-      "id": 110,
+      "id": 111,
       "place": "Corridor of the Ring Nursefather, Past",
       "model": "과거료슈1",
       "content": "Dad, how do I go to... a school?"
     },
     {
-      "id": 111,
+      "id": 112,
       "model": "약지아비",
       "content": "... School, Yoshihide? Well, I don't see why you would wish, let alone need, to go to such an institution when we Nursefathers are here to provide you with all the education you require."
     },
     {
-      "id": 112,
+      "id": 113,
       "model": "약지아비",
       "content": "You would later find our unique style of homeschooling to have been much more enlightening than trudging through any of the Nests' formulaic educational systems."
     },
     {
-      "id": 113,
+      "id": 114,
       "model": "과거료슈1",
       "content": "But, but, Dad... I saw 'em in a picture book."
     },
     {
-      "id": 114,
+      "id": 115,
       "model": "과거료슈1",
       "content": "And... I dun have any friends here..."
     },
     {
-      "id": 115,
+      "id": 116,
       "model": "약지아비",
       "content": "Oh, Rien and his pointless—"
     },
     {
-      "id": 116,
+      "id": 117,
       "model": "약지아비",
       "content": "Hm. But it <i>is</i> true that there are qualities that can be learned only through group erudition that engenders competition."
     },
     {
-      "id": 117,
+      "id": 118,
       "model": "약지아비",
       "content": "Very well, Yoshihide. I will register you in an institution that is... not entirely dissimilar from school."
     },
     {
-      "id": 118,
+      "id": 119,
       "model": "과거료슈1",
       "content": "Really...?"
     },
     {
-      "id": 119,
+      "id": 120,
       "place": "Corridor of the Index Nursefather, Past",
       "model": "약지아비",
       "content": "I intend to send Yoshihide to an academy as part of my educational curriculum."
     },
     {
-      "id": 120,
+      "id": 121,
       "model": "약지아비",
       "content": "There is an academy of art, a subsidiary of the Ring. Companionship with other talented children of approximately her age will nourish the spirit of inspiration that will guide Yoshihide's growth."
     },
     {
-      "id": 121,
-      "model": "검지아비",
-      "content": "……."
-    },
-    {
       "id": 122,
       "model": "검지아비",
-      "content": "The Prescript approves."
+      "content": "......."
     },
     {
       "id": 123,
       "model": "검지아비",
-      "content": "But Callisto, I'll tell you now that you might be making a mistake."
+      "content": "The Prescript approves."
     },
     {
       "id": 124,
-      "model": "약지아비",
-      "content": "Hm. And how are you so certain of that?"
+      "model": "검지아비",
+      "content": "But Callisto, I'll tell you now that you might be making a mistake."
     },
     {
       "id": 125,
       "model": "약지아비",
-      "content": "Do elaborate if you can, hand-puppet of the Prescripts by whom every aspect of existence is articulated... What do you even know of choice? Of what is right or wrong?"
+      "content": "Hm. And how are you so certain of that?"
     },
     {
       "id": 126,
-      "model": "검지아비",
-      "content": "And off they went."
+      "model": "약지아비",
+      "content": "Do elaborate if you can, hand-puppet of the Prescripts by whom every aspect of existence is articulated... What do you even know of choice? Of what is right or wrong?"
     },
     {
       "id": 127,
       "model": "검지아비",
-      "content": "Perhaps a little more situational awareness would've... prevented what is to come."
+      "content": "And off they went."
     },
     {
       "id": 128,
+      "model": "검지아비",
+      "content": "Perhaps a little more situational awareness would've... prevented what is to come."
+    },
+    {
+      "id": 129,
       "place": "Giant Stingray Portship",
       "model": "료슈",
       "content": "Callisto had found me a rather decent academy."
     },
     {
-      "id": 129,
+      "id": 130,
       "model": "료슈9장",
-      "content": "The \"artworks\" that used scare me when I was alone weren't so bad when I was with other kids."
+      "content": "The \"artworks\" that used to scare me when I was alone weren't so bad when I was with other kids."
     },
     {
-      "id": 130,
+      "id": 131,
       "model": "료슈9장",
       "content": "No, that's not quite it... It'd be more accurate to say that I started to understand people's perspective on \"beauty.\""
     },
     {
-      "id": 131,
+      "id": 132,
       "model": "료슈",
       "content": "Of course I would, when all we ever did was nod along to the lecturers and spout purple prose, all the while making pincushions out of people's bodies like it was nothing."
     },
     {
-      "id": 132,
+      "id": 133,
       "place": "The Ring's Subsidiary Art Academy",
       "teller": "Instructor",
       "title": "The Ring",
       "content": "Our lesson today will focus on Corporist techniques."
     },
     {
-      "id": 133,
+      "id": 134,
       "teller": "Instructor",
       "title": "The Ring",
       "content": "Now, take a good look at the diagram here, then the manikins before you. Weave the blood vessels in the same pattern as the diagram, and..."
     },
     {
-      "id": 134,
+      "id": 135,
       "model": "약지아이1",
       "teller": "Miffed Child",
       "title": "The Ring",
       "content": "I dunno why we're even learning about Corporist stuff in this day and age."
     },
     {
-      "id": 135,
+      "id": 136,
       "model": "약지아이2",
       "teller": "Picky Child",
       "title": "The Ring",
       "content": "Right? I don't get what the point of this slog is, tying and shaping blood vessels to make a color that a drop of ink can do better. I read that in a book."
     },
     {
-      "id": 136,
-      "model": "과거료슈1",
-      "content": "……."
-    },
-    {
       "id": 137,
-      "model": "약지아이1",
-      "teller": "Miffed Child",
-      "title": "The Ring",
-      "content": "*sigh* I'm more excited to learn about Cubist technique than this crap..."
+      "model": "과거료슈1",
+      "content": "......."
     },
     {
       "id": 138,
       "model": "약지아이1",
       "teller": "Miffed Child",
       "title": "The Ring",
-      "content": "Honestly, why's this washed-up movement even a part of the curriculum? It's just boring, shallow gore stuff—"
+      "content": "*sigh* I'm more excited to learn about Cubist technique than this crap..."
     },
     {
       "id": 139,
+      "model": "약지아이1",
+      "teller": "Miffed Child",
+      "title": "The Ring",
+      "content": "Honestly, why's this washed-up movement even a part of the curriculum? It's just boring, shallow gore stuff—"
+    },
+    {
+      "id": 140,
       "model": "과거료슈1",
       "content": "No. It's... Ya, it's gory, but... It's boring and shallow only because you guys are bad at it."
     },
     {
-      "id": 140,
+      "id": 141,
       "model": "약지아이2",
       "teller": "Picky Child",
       "title": "The Ring",
       "content": "What? Aw, you mad 'cuz your daddy's a lame Corporist?"
     },
     {
-      "id": 141,
+      "id": 142,
       "model": "약지아이1",
       "teller": "Miffed Child",
       "title": "The Ring",
       "content": "Oh, is he? No wonder her stuff is just as—o-ow!"
     },
     {
-      "id": 142,
+      "id": 143,
       "model": "과거료슈1",
       "content": "... I was taught that people who say bad things about my family deserve to get their butt kicked."
     },
     {
-      "id": 143,
+      "id": 144,
       "place": "Giant Stingray Portship",
       "model": "료슈9장",
       "content": "... Them badmouthing Callisto wasn't actually what set me off."
     },
     {
-      "id": 144,
+      "id": 145,
       "model": "료슈",
       "content": "I didn't have any special reverence or attachment to \"family\" like Matthias did, either."
     },
     {
-      "id": 145,
+      "id": 146,
       "model": "료슈",
       "content": "It's just what I was taught to dislike, that's all."
     },
     {
-      "id": 146,
+      "id": 147,
       "model": "료슈",
       "content": "Just one of those tantrums kids of that age have. Kids'll be kids, and all that."
     },
     {
-      "id": 147,
+      "id": 148,
       "place": "Corridor of the Middle Nursefather, Past",
       "model": "과거료슈1",
       "content": "I'm home, Dad."
     },
     {
-      "id": 148,
+      "id": 149,
       "model": "중지아비",
       "content": "Hey, Buddy! You're home early! Oh man, must've been playing rough today, huh? You've got dust all over—"
     },
     {
-      "id": 149,
+      "id": 150,
       "model": "과거료슈1",
       "content": "Got into a fight."
     },
     {
-      "id": 150,
+      "id": 151,
       "model": "중지아비",
       "content": "A fight?"
     },
     {
-      "id": 151,
+      "id": 152,
       "model": "과거료슈1",
       "content": "Yeah. They kept saying dumb things about class stuff, so I smacked 'em."
     },
     {
-      "id": 152,
+      "id": 153,
       "model": "중지아비",
       "content": "... What about you? They didn't hit you anywhere, did they, Buddy?"
     },
     {
-      "id": 153,
+      "id": 154,
       "model": "과거료슈1",
       "content": "On my cheek, but it's ok. 'cuz I punched them thiiiis many more times. Did I do good?"
     },
     {
-      "id": 154,
+      "id": 155,
       "model": "중지아비",
       "content": "... That's my girl."
     },
     {
-      "id": 155,
+      "id": 156,
       "model": "과거료슈1",
       "content": "Dad?"
     },
     {
-      "id": 156,
+      "id": 157,
       "model": "과거료슈1",
       "content": "Where are you going?"
     },
     {
-      "id": 157,
+      "id": 158,
       "model": "중지아비",
       "content": "Oh, ya know. Just got some business to take care of."
     },
     {
-      "id": 158,
+      "id": 159,
       "model": "중지아비",
       "content": "Why don'tcha sit tight and work on a coloring book? Daddy'll be home 'fore you know it."
     },
     {
-      "id": 159,
+      "id": 160,
       "model": "과거료슈1",
       "content": "Mhm... Mmkay. Is it Bro business?"
     },
     {
-      "id": 160,
+      "id": 161,
       "model": "중지아비",
       "content": "No, it's..."
     },
     {
-      "id": 161,
+      "id": 162,
       "model": "중지아비",
       "content": "... Family business."
     },
     {
-      "id": 162,
+      "id": 163,
       "place": "Giant Stingray Portship",
       "model": "히스클리프",
       "content": "I ain't seein' what's so bad about taking care of your own. Them snotty sods don't learn respect 'less you beat it into 'em."
     },
     {
-      "id": 163,
+      "id": 164,
       "model": "료슈9장",
       "content": "... Hah."
     },
     {
-      "id": 164,
+      "id": 165,
       "model": "료슈",
       "content": "If only he'd been a simple-minded fool like you... then the story would've ended right there with a pat on my head."
     },
     {
-      "id": 165,
+      "id": 166,
       "model": "히스클리프",
       "content": "What?"
     },
     {
-      "id": 166,
+      "id": 167,
       "model": "뉴키라",
       "content": "... Papa—I mean, the Middle doesn't stop there. It never does."
     },
     {
-      "id": 167,
+      "id": 168,
       "model": "뉴키라",
       "content": "You hurt a member of the <i>family</i>... That automatically gets you written up in the Book."
     },
     {
-      "id": 168,
+      "id": 169,
       "model": "료슈",
       "content": "Yeah. And he did what he did in the end."
     },
     {
-      "id": 169,
+      "id": 170,
       "place": "The Ring's Subsidiary Art Academy",
       "model": "과거료슈1",
       "content": "Huh...?"
     },
     {
-      "id": 170,
+      "id": 171,
       "model": "중지아비",
       "content": "Ha ha, there you are, Yoshihide! Is class startin' already? My diligent little girl—wonder who she takes after."
     },
     {
-      "id": 171,
+      "id": 172,
       "model": "과거료슈1",
       "content": "D-dad...?"
     },
     {
-      "id": 172,
+      "id": 173,
       "model": "중지아비",
       "content": "I know, I know. I said I'll be back before ya know it, but I got a bit lost tryna find my way through the Ring bastards' tricky mazes. Y'know how they are."
     },
     {
-      "id": 173,
+      "id": 174,
       "model": "중지아비",
       "content": "Oh yeah, and there are so, so many snivellin' brats here."
     },
     {
-      "id": 174,
+      "id": 175,
       "model": "중지아비",
       "content": "Well, as for their crimes... they slapped my buddy's face hard enough to leave a mark. That's an arm for ya."
     },
     {
-      "id": 175,
+      "id": 176,
       "model": "중지아비",
       "content": "As for the instructors... well, anyone'd agree that they did one sorry job of keeping these tykes under control."
     },
     {
-      "id": 176,
+      "id": 177,
       "model": "중지아비",
       "content": "In that case, pursuant to Title 2, Section 52 of the Book... \"execution by beheading.\" They clearly don't got much use for what sits on their shoulders, eh?"
     },
     {
-      "id": 177,
+      "id": 178,
       "model": "과거료슈1",
       "content": "Ah... ahh..."
     },
     {
-      "id": 178,
+      "id": 179,
       "model": "중지아비",
       "content": "How do ya like it, buddy? Papa's the best, ain't he?"
     },
     {
-      "id": 179,
+      "id": 180,
       "place": "Corridor of the Ring Nursefather, Past",
       "model": "약지아비",
       "content": "How dare he...! Such senseless, barbaric violence...!"
     },
     {
-      "id": 180,
+      "id": 181,
       "model": "약지아비",
       "content": "Uncultured, uncivilized animal...!"
     },
     {
-      "id": 181,
+      "id": 182,
       "model": "과거료슈1",
       "content": "*sob*"
     },
     {
-      "id": 182,
+      "id": 183,
       "model": "약지아비",
       "content": "Do not be discouraged, dearest Yoshihide. I have eyed out yet another academy worthy of your talents—it is a much more significant and prestigious institution this time."
     },
     {
-      "id": 183,
+      "id": 184,
       "model": "약지아비",
       "content": "I assure you, even an intemperate berserker like Matthias won't dare force his way into such a place as he did the previous academy."
     },
     {
-      "id": 184,
+      "id": 185,
       "model": "과거료슈1",
       "content": "... dun wanna."
     },
     {
-      "id": 185,
+      "id": 186,
       "model": "약지아비",
       "content": "Yoshihide...?"
     },
     {
-      "id": 186,
+      "id": 187,
       "model": "과거료슈1",
       "content": "I don't wanna go to an academy. I don't wanna go..."
     },
     {
-      "id": 187,
+      "id": 188,
       "model": "과거료슈1",
       "content": "I don't... need friends anyway..."
     },
     {
-      "id": 188,
+      "id": 189,
       "place": "Giant Stingray Portship",
       "model": "료슈",
       "content": "For all his posturing, nothing that was ever important to me held any significance to Matthias."
     },
     {
-      "id": 189,
+      "id": 190,
       "model": "료슈",
       "content": "He took a lot away from me just to feel good about himself."
     },
     {
-      "id": 190,
+      "id": 191,
       "model": "료슈2",
       "content": "*puff*"
     },
     {
-      "id": 191,
+      "id": 192,
       "model": "료슈",
       "content": "So I hoped he, more than anyone, would never find out about the things I held dear, because I was afraid he would take them away from me like he did the others."
     },
     {
-      "id": 192,
+      "id": 193,
       "model": "료슈",
       "content": "But... he'd always catch on faster than he had any right to."
     },
     {
-      "id": 193,
+      "id": 194,
       "model": "료슈",
       "content": "... Every contract that took me away from the House of Spiders made me tremble in anxiety."
     },
     {
-      "id": 194,
+      "id": 195,
       "model": "료슈",
       "content": "Because I was worried about— I don't remember what. But I do know that I could never stop thinking about my room."
     },
     {
-      "id": 195,
+      "id": 196,
       "model": "료슈",
       "content": "So... whatever occupied the room in my absence must've been the most precious thing to me in the world."
     },
     {
-      "id": 196,
+      "id": 197,
       "content": "The scabbard, which had been stirring lightly as Ryōshū recounted her past, soon began to rattle audibly."
     },
     {
-      "id": 197,
+      "id": 198,
       "model": "료슈2",
       "content": "... It's doing that thing again."
     },
     {
-      "id": 198,
+      "id": 199,
       "content": "Ryōshū patted the scabbard with a gentle, reassuring hand."
     },
     {
-      "id": 199,
+      "id": 200,
       "content": "The scabbard that was once Araya. A memory without attachment."
     },
     {
-      "id": 200,
+      "id": 201,
       "content": "It appeared to me almost as though she was pacifying a crying child."
     },
     {
-      "id": 201,
-      "model": "히스클리프",
-      "content": "……."
-    },
-    {
       "id": 202,
-      "content": "Seeing that gesture, Heathcliff briefly cast a sullen yet faintly expectant gaze between Ryōshū's scabbard and my device."
+      "model": "히스클리프",
+      "content": "......."
     },
     {
       "id": 203,
-      "content": "He must be thinking back to his last conversation with Catherine."
+      "content": "Seeing that gesture, Heathcliff briefly cast a sullen yet faintly expectant gaze between Ryōshū's scabbard and my device."
     },
     {
       "id": 204,
-      "content": "But Catherine's existence, unlike Araya's, was erased by the Golden Bough itself."
+      "content": "He must be thinking back to his last conversation with Catherine."
     },
     {
       "id": 205,
-      "content": "... I doubt this device could do anything for Heathcliff at this point."
+      "content": "But Catherine's existence, unlike Araya's, was erased by the Golden Bough itself."
     },
     {
       "id": 206,
+      "content": "... I doubt this device could do anything for Heathcliff at this point."
+    },
+    {
+      "id": 207,
       "model": "오티스",
       "content": "From everything we know, the Ring Nursefather seems to have been the... least awful parental figure in your childhood."
     },
     {
-      "id": 207,
+      "id": 208,
       "model": "뉴키라",
       "content": "Huh, yeah. Didn't know that robo-unc was such a radical guy. He sent you to an academy like you wanted and even got angry on your behalf?"
     },
     {
-      "id": 208,
+      "id": 209,
       "model": "료슈",
       "content": "Oh."
     },
     {
-      "id": 209,
+      "id": 210,
       "model": "료슈",
       "content": "Hazy memories. Almost forgot to mention."
     },
     {
-      "id": 210,
+      "id": 211,
       "model": "료슈",
       "content": "A few days after that... Callisto left a \"snowman\" by my pillow as a gift. It was made of heads."
     },
     {
-      "id": 211,
+      "id": 212,
       "model": "뉴키라",
       "content": "... Heads?"
     },
     {
-      "id": 212,
+      "id": 213,
       "model": "료슈",
       "content": "Yes. Decapitated heads from the incident at the academy, threaded together into a sculpture."
     },
     {
-      "id": 213,
+      "id": 214,
       "model": "료슈",
       "content": "Tsk. Thinking back, it was one sorry excuse for an art. He's sorely mistaken if he thought some low-effort bullshit like that could make me feel better."
     },
     {
-      "id": 214,
+      "id": 215,
       "model": "오티스",
-      "content": "Hmm..."
+      "content": "Um..."
     },
     {
-      "id": 215,
+      "id": 216,
       "model": "히스클리프",
       "content": "... Ugh. Could've spared us the details, lass."
     },
     {
-      "id": 216,
+      "id": 217,
       "model": "단테",
       "content": "<Well, with that covered, do you guys wanna head back?>"
     },
     {
-      "id": 217,
+      "id": 218,
       "model": "히스클리프",
       "content": "... Hang on."
     },
     {
-      "id": 218,
+      "id": 219,
       "model": "뉴키라",
       "content": "Whassup? Gonna get that <i>luscious</i> treatment before heading back?"
     },
     {
-      "id": 219,
+      "id": 220,
       "model": "히스클리프",
       "content": "Shut it, you! That ain't it! Look there, those blokes walkin' out of the salon—"
     },
     {
-      "id": 220,
+      "id": 221,
       "model": "야수파1",
       "content": "......."
     },
     {
-      "id": 221,
+      "id": 222,
       "model": "히스클리프",
       "content": "Fauvists, ain't they? They've found us."
     },
     {
-      "id": 222,
+      "id": 223,
       "model": "파우스트",
       "content": "It would not be odd to find a field branch of the Ring's art movement in different Districts of the City, especially that of the Fauvists' scale. However..."
     },
     {
-      "id": 223,
+      "id": 224,
       "model": "파우스트",
       "content": "... various evidence, such as their masks and the fact that our group has immediately drawn their attention, suggests that they are in the same pack as the one making regular incursions into the House of Spiders."
     },
     {
-      "id": 224,
+      "id": 225,
       "model": "오티스",
       "content": "This is LCB, speaking to Team Leader Alan. Requesting immediate commencement of lockdown sequence."
     },
     {
-      "id": 225,
+      "id": 226,
       "model": "앨런",
       "content": "Copy that."
     },
     {
-      "id": 226,
+      "id": 227,
       "model": "단테",
       "content": "<Then why don't we—>"
     },
     {
-      "id": 227,
+      "id": 228,
       "model": "뉴키라",
       "content": "Holy shit, guys! Stop!"
     },
     {
-      "id": 228,
+      "id": 229,
       "model": "히스클리프",
       "content": "Bloody hell! What?!"
     },
     {
-      "id": 229,
+      "id": 230,
       "model": "뉴키라",
       "content": "Don't you know where you are? You're... smack-dab in the Middle-protected turf."
     },
     {
-      "id": 230,
+      "id": 231,
       "model": "뉴키라",
       "content": "Cause a scene, and Bros and Sisters of the Middle'll be here any second."
     },
     {
-      "id": 231,
+      "id": 232,
       "model": "단테",
       "content": "<Oh yeah... That's gonna be a problem.>"
     },
     {
-      "id": 232,
-      "content": "We've already drawn the Ring's unwanted attention—we certainly don't want the Middle coming after us to the House of Spiders, too."
-    },
-    {
       "id": 233,
-      "model": "료슈",
-      "content": "Sounds like you've got a G.I."
+      "content": "We've already drawn the Ring's unwanted attention—we certainly don't want the Middle coming after us to the House of Spiders, too."
     },
     {
       "id": 234,
       "model": "료슈",
-      "content": "Talk."
+      "content": "Sounds like you've got a G.I."
     },
     {
       "id": 235,
-      "model": "뉴키라",
-      "content": "Ever played whack-a-mole?"
+      "model": "료슈",
+      "content": "Talk."
     },
     {
       "id": 236,
       "model": "뉴키라",
-      "content": "Like, why give ourselves a countdown? Just head back through the door now and beat up whoever thinks it's a great idea to walk in through the door."
+      "content": "Ever played whack-a-mole?"
     },
     {
       "id": 237,
+      "model": "뉴키라",
+      "content": "Like, why give ourselves a countdown? Just head back through the door now and beat up whoever thinks it's a great idea to walk in through the door."
+    },
+    {
+      "id": 238,
       "model": "오티스",
       "content": "She puts forth a sound strategy, Executive Manager. As long as there's no high-ranking Officer among them, it would be to our benefit."
     },
     {
-      "id": 238,
+      "id": 239,
       "model": "단테",
       "content": "<Well, then... Let's do as Kira says.>"
     },
     {
-      "id": 239,
+      "id": 240,
       "place": "Corridor of the Middle Nursefather",
       "model": "앨런",
       "content": "...? That was quick."
     },
     {
-      "id": 240,
+      "id": 241,
       "content": "Alan blinked, shooting us a puzzled look as our entire squad came pouring through the door long before he finished the lockdown sequence."
     },
     {
-      "id": 241,
+      "id": 242,
       "model": "파우스트",
       "content": "... Due to newly emergent complications past the door, we have concluded that this location is the optimal point to intercept and engage the infiltrators from the Ring."
     },
     {
-      "id": 242,
+      "id": 243,
       "model": "앨런",
       "content": "<i>This</i> location, you say?"
     },
     {
-      "id": 243,
+      "id": 244,
       "model": "앨런마스크",
       "content": "Ah, wait. That door leads to a zone under a Syndicate or a Wing's protection, doesn't it? Better idea to fight here, then."
     },
     {
-      "id": 244,
+      "id": 245,
       "model": "오티스",
       "content": "... Happy to work with someone quick on the uptake."
     },
     {
-      "id": 245,
+      "id": 246,
       "content": "It wasn't long before the Fauvists began rushing in through the open door..."
     },
     {
-      "id": 246,
+      "id": 247,
       "model": "단테",
       "content": "<I didn't want to summon them while they're relaxing, but... Welp, it can't be helped.>"
     },
     {
-      "id": 247,
+      "id": 248,
       "content": "... and I summoned the Sinners back to work."
     }
   ]

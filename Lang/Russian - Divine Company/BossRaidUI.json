@@ -1,0 +1,268 @@
+{
+  "dataList": [
+    {
+      "id": "boss_raid_ui_check_reward",
+      "content": "Check Rewards"
+    },
+    {
+      "id": "boss_raid_ui_battle_effect_button_label",
+      "content": "Active Effects"
+    },
+    {
+      "id": "boss_raid_ui_battle_rule_button_label",
+      "content": "Progression"
+    },
+    {
+      "id": "boss_raid_ui_enter_battle_button_label",
+      "content": "Enter"
+    },
+    {
+      "id": "boss_raid_ui_give_up_button_label",
+      "content": "Reset Progress"
+    },
+    {
+      "id": "boss_raid_ui_challenging_phase",
+      "content": "Trial in Progress :: Phase {0}"
+    },
+    {
+      "id": "boss_raid_ui_remain_hp",
+      "content": "Remaining HP"
+    },
+    {
+      "id": "boss_raid_result_ui_result",
+      "content": "Battle Outcome"
+    },
+    {
+      "id": "boss_raid_result_ui_total_turn",
+      "content": "Total Turns"
+    },
+    {
+      "id": "boss_raid_result_ui_statistics_button_label",
+      "content": "Details"
+    },
+    {
+      "id": "boss_raid_result_ui_party_formation",
+      "content": "Teams Played"
+    },
+    {
+      "id": "boss_raid_result_ui_party_turn",
+      "content": "Turn Count"
+    },
+    {
+      "id": "boss_raid_result_ui_party_give_damage",
+      "content": "Damage Dealt"
+    },
+    {
+      "id": "boss_raid_result_ui_party_receive_damage",
+      "content": "Damage Taken"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_total_turn",
+      "content": "Total Turns"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_settings_title",
+      "content": "Settings"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_settings_desc",
+      "content": "Adjust various in-game settings."
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_retry_title",
+      "content": "Retry Stage"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_retry_desc",
+      "content": "Retry the Stage with your current Team loadout."
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_exit_title",
+      "content": "Forfeit Stage"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_exit_desc",
+      "content": "Forfeit the current Stage progress and return to the pre-battle state."
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_title",
+      "content": "Quit Battle and Save Progress"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_desc",
+      "content": "Quit the current Stage and save your progress."
+    },
+    {
+      "id": "boss_raid_10001_boss_title",
+      "content": "Rufo, Docent of \nThe Ring's School of Fauvism"
+    },
+    {
+      "id": "boss_raid_10001_banner_title",
+      "content": "Twining<size=46%>\n\n</size>Threads"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_current_formation",
+      "content": "Trial in Progress :: TEAM {0}"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_phase_before",
+      "content": "PHASE {0}\nUnreached"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_phase_current",
+      "content": "PHASE {0}\nIn Progress"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_phase_cleared",
+      "content": "PHASE {0}\nComplete"
+    },
+    {
+      "id": "boss_raid_ui_enter_from_event_ui",
+      "content": "Reflectrial][lairtcelfeR"
+    },
+    {
+      "id": "boss_raid_result_ui_failed",
+      "content": "Battle Outcome"
+    },
+    {
+      "id": "boss_raid_result_ui_progressing",
+      "content": "Battle in Progress"
+    },
+    {
+      "id": "boss_raid_reward_ui_turn_condition",
+      "content": "{0} Turns or less"
+    },
+    {
+      "id": "boss_raid_reward_ui_warning_10001",
+      "content": "<size=80%>※ Reward claim period is open for a total of 4 weeks, from 2026. 04. 23 12:00 ~ to 2026. 05. 21 10:00 (KST)\nPlease note that rewards cannot be claimed past the Reward claim period.</size>"
+    },
+    {
+      "id": "boss_raid_reward_tab_text_NORMAL",
+      "content": "Normal"
+    },
+    {
+      "id": "boss_raid_reward_tab_text_HARD",
+      "content": "Hard"
+    },
+    {
+      "id": "boss_raid_result_ui_formation_number",
+      "content": "Team {0}"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_title",
+      "content": "Quit Battle and Save Progress"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc",
+      "content": "Quit the battle in progress\nand resume with your next Team?"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc_detail",
+      "content": "<size=80%>· Selecting \"Confirm\" below will <color=#f8c200>save the boss enemy's current phase, HP, SP, and your remaining E.G.O resources</color>.\nThen, you can choose to continue with your next Team of choice.</size>"
+    },
+    {
+      "id": "boss_raid_ask_exit_popup_title",
+      "content": "Forfeit Stage"
+    },
+    {
+      "id": "boss_raid_ask_exit_popup_desc",
+      "content": "Forfeit the battle in progress?"
+    },
+    {
+      "id": "boss_raid_ask_exit_popup_desc_detail",
+      "content": "<size=80%>· Selecting \"Confirm\" below will revert you to the state <color=#f8c200>immediately before entering the battle</color> with your current Team.</size>"
+    },
+    {
+      "id": "boss_raid_phase_buff_view_ui_title",
+      "content": "Active Effects"
+    },
+    {
+      "id": "boss_raid_rule_popup_title",
+      "content": "Progression"
+    },
+    {
+      "id": "boss_raid_rule_popup_desc_10001",
+      "content": "- \"Reflectrial][lairtcelfeR\" is a <color=#ff0000>high-difficulty challenge</color>.\nLevel up and Uptie/Threadspin your Identities and E.G.O to <color=#ff0000>meet the recommended specs</color> before entering the battle.\n(※ Support Identities cannot be used.)\n\n- Each boss battle features unique effects.\n\"Shade of Reflection\" effects apply on all difficulties.\n<color=#f8c200>\"Tribulation\" effects apply on Hard Difficulty only.</color>\n\n- Reflectrial][lairtcelfeR battles <color=#f8c200>allow a maximum of 3 Team Loadouts</color> to be used in order.\nHowever, Identities assigned to a previous loadout cannot be reused in subsequent Loadouts.\n\n- <color=#f8c200>A 12-turn limit</color> is applied to each Team Loadout.\nExceeding 12 turns or opting to end the battle on your current loadout will save the state of battle progression (Boss Unit's Combat Phase, HP, and SP; as well as E.G.O Resources owned). You may continue progressing through the battle with the next loadout.'\n(※ The Boss unit's pattern, the non-Boss enemies' HP and SP, and status effects on enemies are not saved)\n\n- Starting from the second Loadout, <color=#f8c200>the starting SP of your team increases</color> upon entering the battle, based on the cumulative Turn count (※ 5 per turn).\n\nMinus Coin Identities start with negative SP numbers instead (※ -5 per turn, min -25)."
+    },
+    {
+      "id": "boss_raid_reward_ui_only_clear",
+      "content": "Clear Battle"
+    },
+    {
+      "id": "boss_raid_ui_view_current_progress_state",
+      "content": "Battle Progress"
+    },
+    {
+      "id": "boss_raid_ui_special_buff",
+      "content": "Effects: Shade of Reflection"
+    },
+    {
+      "id": "boss_raid_ui_special_buff_hardship",
+      "content": "Tribulation"
+    },
+    {
+      "id": "boss_raid_ui_statistics_popup_title",
+      "content": "Details"
+    },
+    {
+      "id": "boss_raid_hard_ship_buff_apply_only_for_hard_alarm",
+      "content": "Tribulation effects are activated only for the HARD Difficulty."
+    },
+    {
+      "id": "boss_raid_warning_lack_of_personality_before_start",
+      "content": "Up to {0} Teams can be used for this content. However, there is a Sinner with fewer than {0} Identities.\nPlease note that this may cause your attempt to be incompletable, as once an Identity has participated in the battle, they become inaccessible for the rest of the attempt.\nWill you still enter?"
+    },
+    {
+      "id": "boss_raid_ui_ask_to_quit",
+      "content": "Select \"Confirm\" below to <color=#ff0000>completely reset and erase the current battle progress.</color>\n\nReset battle progression?"
+    },
+    {
+      "id": "boss_raid_preview_boss_info_button_label",
+      "content": "View\nEnemy Info"
+    },
+    {
+      "id": "boss_raid_difficulty_blocked",
+      "content": "To Unlock: {0}"
+    },
+    {
+      "id": "boss_raid_next_difficulty_opened_side_popup",
+      "content": "{0} Difficulty unlocked."
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_title",
+      "content": "Recommended Specs"
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_desc",
+      "content": "- Identities : Uptie <color=#ff0000>Tier {1}</color>, Level <color=#ff0000>{0}</color>\n- E.G.O : Threadspinning <color=#ff0000>Tier {1}</color>"
+    },
+    {
+      "id": "boss_raid_ui_progressing",
+      "content": "In Progress"
+    },
+    {
+      "id": "boss_raid_banned_personality_exist",
+      "content": "An Undeployable Identity is Deployed."
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_title_last_formation",
+      "content": "Quit Battle"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc_last_formation",
+      "content": "Quit the battle in progress?"
+    },
+    {
+      "id": "boss_raid_ask_give_up_popup_desc_detail_last_formation",
+      "content": "<size=80%>· Selecting \"Confirm\" below will <color=#f8c200>immediately forfeit the battle.</color>\n\n(※ This is your last available Team. Progress will not be saved, and this attempt will <color=#ff0000>end in defeat.</color>)</size>"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_title_last_formation",
+      "content": "Quit Battle"
+    },
+    {
+      "id": "boss_raid_battle_pause_ui_end_desc_last_formation",
+      "content": "Quit the battle in progress.\n(※ This is your last available Team. Progress will not be saved, and this attempt will end in defeat.)"
+    }
+  ]
+}

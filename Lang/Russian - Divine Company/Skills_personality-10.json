@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [Vibration] Count, spend all [Vibration] Count to inflict target with the same amount of [Vibration] Count\n[OnSucceedAttack] At less than 10 [Vibration] Count, gain 6 [Vibration] and trigger [VibrationExplosion] on self\nDeal Blunt damage equal to [VibrationExplosion] damage"
+                  "desc": "[OnSucceedAttack] At 10+ [Vibration] Count, consume all [Vibration] Count on self to inflict the same amount of [Vibration] Count on target\n[OnSucceedAttack] At less than 10 [Vibration] Count, gain 6 [Vibration] and trigger [VibrationExplosion] on self\nDeal Blunt damage equal to [VibrationExplosion] damage"
                 }
               ]
             }
@@ -158,7 +158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [Vibration] Count, spend all [Vibration] Count to inflict target with the same amount of [Vibration] Count\n[OnSucceedAttack] At less than 10 [Vibration] Count, gain 10 [Vibration] and trigger [VibrationExplosion] on self\nDeal Blunt damage equal to [VibrationExplosion] damage"
+                  "desc": "[OnSucceedAttack] At 10+ [Vibration] Count, consume all [Vibration] Count on self to inflict the same amount of [Vibration] Count on target\n[OnSucceedAttack] At less than 10 [Vibration] Count, gain 10 [Vibration] and trigger [VibrationExplosion] on self\nDeal Blunt damage equal to [VibrationExplosion] damage"
                 }
               ]
             }

@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 6 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, consume all Tremor Count on self to inflict the same amount of Tremor Count on target\n[OnSucceedAttack] At less than 10 Tremor Count, gain 6 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
                 }
               ]
             }
@@ -158,7 +158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, consume all Tremor Count on self to inflict the same amount of Tremor Count on target\n[OnSucceedAttack] At less than 10 Tremor Count, gain 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
                 }
               ]
             }

@@ -859,6 +859,18 @@
     {
       "id": "KAA1C9ActivateEffect",
       "content": "Used K Corp. Ampule"
+    },
+    {
+      "id": "contMineInfo_Title",
+      "content": "Progress:"
+    },
+    {
+      "id": "contMineInfo_Desc_Valid_Reward",
+      "content": "※ Forfeiting the Stage now will cost {0} Enkephalin Modules and yield rewards based on Modules used"
+    },
+    {
+      "id": "contMineInfo_Desc_Invalid_Reward",
+      "content": "※ Forfeiting the Stage now will not cost Enkephalin Modules and will not yield rewards"
     }
   ]
 }

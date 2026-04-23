@@ -1226,7 +1226,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies that have the least [Combustion] Potency"
                 }
               ]
             },
@@ -1236,7 +1236,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 1 enemy with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 1 enemy that has the least [Combustion] Count"
                 }
               ]
             }
@@ -1253,7 +1253,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies with the least [Combustion] Potency<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict 1 [Combustion] against 2 enemies that have the least [Combustion] Potency<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1263,7 +1263,7 @@
                   "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against <style=\"highlight\">2 enemies</style> that have the least [Combustion] Count"
                 }
               ]
             }
@@ -1280,7 +1280,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies with the least [Combustion] Potency"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict <style=\"highlight\">2</style> [Combustion] against 2 enemies that have the least [Combustion] Potency"
                 }
               ]
             },
@@ -1290,7 +1290,7 @@
                   "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Combustion] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies with the least [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Consume 10 [FirePunchFuel] and inflict +1 [Combustion] Count against 2 enemies that have the least [Combustion] Count"
                 }
               ]
             }

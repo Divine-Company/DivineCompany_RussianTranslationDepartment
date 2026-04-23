@@ -1619,7 +1619,7 @@
         {
           "level": 2,
           "name": "Upper Slash",
-          "desc": "Skill Power +2 against units with Slash Fragility\n[WinDuel] Gain 1 Attack Power Up next turn",
+          "desc": "Skill Power +2 against units that have Slash Fragility\n[WinDuel] Gain 1 Attack Power Up next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -8339,7 +8339,7 @@
                   "desc": "[OnSucceedAttack] Trigger Tremor Burst"
                 },
                 {
-                  "desc": "+20% Damage to targets with 5+ Nails"
+                  "desc": "+20% Damage to targets that have 5+ Nails"
                 }
               ]
             }
@@ -8356,7 +8356,7 @@
                   "desc": "[OnSucceedAttack] Trigger Tremor Burst"
                 },
                 {
-                  "desc": "+30% damage to targets with 5+ Nails"
+                  "desc": "+30% damage to targets that have 5+ Nails"
                 }
               ]
             }
@@ -11115,7 +11115,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict +2 Rupture Count against the enemy with the lowest Rupture Count"
+                  "desc": "[EnemyKill] Inflict +2 Rupture Count against the enemy that has the least Rupture Count"
                 }
               ]
             }
@@ -11153,7 +11153,7 @@
                   "desc": "[OnSucceedAttackHead] Inflict 1 Rupture"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict +2 Rupture Count against the enemy with the lowest Rupture Count"
+                  "desc": "[EnemyKill] Inflict +2 Rupture Count against the enemy that has the least Rupture Count"
                 }
               ]
             }

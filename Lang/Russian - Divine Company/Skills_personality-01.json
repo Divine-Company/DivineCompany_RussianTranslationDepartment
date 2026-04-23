@@ -1004,7 +1004,7 @@
                   "desc": "Deal +15% damage for every type of negative effect on target (max 75%)"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 1 enemy that has the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }
@@ -1042,7 +1042,7 @@
                   "desc": "Deal +25% damage for every type of negative effect on target (max 125%)"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
+                  "desc": "[EndSkill] If target is Staggered or Defeated, inflict 2 Potency for 1 of the following effects on 2 enemies that have the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Effect selected at random."
                 }
               ]
             }

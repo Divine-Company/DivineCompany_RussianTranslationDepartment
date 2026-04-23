@@ -3,14 +3,14 @@
     {
       "id": 1088,
       "panicName": "Faltering Inspiration",
-      "lowMoraleDescription": "- If target has Mauled Color, deal +10% damage \n- Gain 1 [Vulnerable]",
-      "panicDescription": "- If target has Mauled Color, deal +20% damage\n- Gain 2 [Vulnerable]"
+      "lowMoraleDescription": "- If target this unit attacks has <color=#ff0000>Mauled Color</color>, deal +10% damage \n- Gain 1 [Vulnerable]",
+      "panicDescription": "- If target this unit attacks has <color=#ff0000>Mauled Color</color>, deal +20% damage \n- Gain 2 [Vulnerable]"
     },
     {
       "id": 1090,
       "panicName": "Coloriage Impulsif",
-      "lowMoraleDescription": "- Deal +2.5% damage for every type of negative effect on target (max 15%)\n- Gain 1 [Vulnerable]",
-      "panicDescription": "- Deal +5% damage for every type of negative effect on target (max 30%)\n- Gain 2 [Vulnerable]"
+      "lowMoraleDescription": "- Deal +2.5% damage for every <color=#ff0000>type of negative effect</color> on target this unit attacks (max 15%)\n- Gain 1 [Vulnerable]",
+      "panicDescription": "- Deal +5% damage for every <color=#ff0000>type of negative effect</color> on target this unit attacks (max 30%)\n- Gain 2 [Vulnerable]"
     }
   ]
 }

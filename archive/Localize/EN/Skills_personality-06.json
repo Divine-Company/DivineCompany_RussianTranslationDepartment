@@ -2016,7 +2016,7 @@
         {
           "level": 1,
           "name": "I Wish to Open the Path",
-          "desc": "[StartBattle] Apply 1 [Endurance] to 1 + (highest Reson. / 3) other allies. (once per turn; max 3; prioritizes targets with [SupportProtect]; includes Unique Assist Defenses)",
+          "desc": "[StartBattle] Apply 1 [Endurance] to 1 + (highest Reson. / 3) other allies. (once per turn; max 3; prioritizes targets that have [SupportProtect]; includes Unique Assist Defenses)",
           "coinlist": [
             {
               "coindescs": [
@@ -2037,7 +2037,7 @@
         {
           "level": 2,
           "name": "I Wish to Open the Path",
-          "desc": "[StartBattle] Apply 1 [Endurance] to 1 + (highest Reson. / 3) other allies. (once per turn; max 3; prioritizes targets with [SupportProtect]; includes Unique Assist Defenses as well)\n<style=\"highlight\">[WhenUse] At 6+ ([Burst] on target + [Breath] on self), Coin Power +1</style>",
+          "desc": "[StartBattle] Apply 1 [Endurance] to 1 + (highest Reson. / 3) other allies. (once per turn; max 3; prioritizes targets that have [SupportProtect]; includes Unique Assist Defenses as well)\n<style=\"highlight\">[WhenUse] At 6+ ([Burst] on target + [Breath] on self), Coin Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2058,7 +2058,7 @@
         {
           "level": 4,
           "name": "I Wish to Open the Path",
-          "desc": "[StartBattle] Apply 1 [Endurance] to 1 + (highest Reson. / 3) other allies. (once per turn; max 3; prioritizes targets with [SupportProtect]; includes Unique Assist Defenses)\n[WhenUse] At 6+ ([Burst] on target + [Breath] on self), Coin Power +1\n<style=\"highlight\">[WhenUse] If target has 3+ types of negative effects, Clash Power +1</style>",
+          "desc": "[StartBattle] Apply 1 [Endurance] to 1 + (highest Reson. / 3) other allies. (once per turn; max 3; prioritizes targets that have [SupportProtect]; includes Unique Assist Defenses)\n[WhenUse] At 6+ ([Burst] on target + [Breath] on self), Coin Power +1\n<style=\"highlight\">[WhenUse] If target has 3+ types of negative effects, Clash Power +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2218,7 +2218,7 @@
         {
           "level": 3,
           "name": "Answer Me, Heishou Packs",
-          "desc": "This Skill does not trigger Defense Skills\n\n[WhenUse] Gain 3 [Breath] and +1 [Breath] Count\n\n[EndSkill] Among ally Heishou Pack units that can act, choose 1 unit with the least [HeishouComboCount] Stack and apply [HeishouComboCount]; then, bestow [HeishouCombo]. (once per turn)\n- After [HeishouCombo] is complete, The Lord of Hongyuan Hong Lu activates 'I Carve the Path of a Lord'\n- If [HeishouCombo] did not activate, or if the combo Identity is Staggered or defeated before [HeishouCombo] is complete, use 'Lonesome Stand: Sacrifice to Claim the Garden' instead",
+          "desc": "This Skill does not trigger Defense Skills\n\n[WhenUse] Gain 3 [Breath] and +1 [Breath] Count\n\n[EndSkill] Among ally Heishou Pack units that can act, choose 1 unit that has the least [HeishouComboCount] Stack and apply [HeishouComboCount]; then, bestow [HeishouCombo]. (once per turn)\n- After [HeishouCombo] is complete, The Lord of Hongyuan Hong Lu activates 'I Carve the Path of a Lord'\n- If [HeishouCombo] did not activate, or if the combo Identity is Staggered or defeated before [HeishouCombo] is complete, use 'Lonesome Stand: Sacrifice to Claim the Garden' instead",
           "coinlist": [
             {
               "coindescs": [
@@ -2238,7 +2238,7 @@
         {
           "level": 4,
           "name": "Answer Me, Heishou Packs",
-          "desc": "This Skill does not trigger Defense Skills\n\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 4 ([Burst] on target + [Breath] on self) (max 3)</style>\n[WhenUse] Gain <style=\"highlight\">5</style> [Breath] and +<style=\"highlight\">3</style> [Breath] Count\n\n[EndSkill] Among ally Heishou Pack units that can act, choose 1 unit with the least [HeishouComboCount] Stack and apply [HeishouComboCount]; then, bestow [HeishouCombo]. (once per turn)\n- After [HeishouCombo] is complete, The Lord of Hongyuan Hong Lu activates 'I Carve the Path of a Lord'\n- If [HeishouCombo] did not activate, or if the combo Identity is Staggered or defeated before [HeishouCombo] is complete, use 'Lonesome Stand: Sacrifice to Claim the Garden' instead",
+          "desc": "This Skill does not trigger Defense Skills\n\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 4 ([Burst] on target + [Breath] on self) (max 3)</style>\n[WhenUse] Gain <style=\"highlight\">5</style> [Breath] and +<style=\"highlight\">3</style> [Breath] Count\n\n[EndSkill] Among ally Heishou Pack units that can act, choose 1 unit that has the least [HeishouComboCount] Stack and apply [HeishouComboCount]; then, bestow [HeishouCombo]. (once per turn)\n- After [HeishouCombo] is complete, The Lord of Hongyuan Hong Lu activates 'I Carve the Path of a Lord'\n- If [HeishouCombo] did not activate, or if the combo Identity is Staggered or defeated before [HeishouCombo] is complete, use 'Lonesome Stand: Sacrifice to Claim the Garden' instead",
           "coinlist": [
             {
               "coindescs": [
@@ -2263,7 +2263,7 @@
         {
           "level": 1,
           "name": "Heishou Keenclaw [黑獣利爪]",
-          "desc": "[DuelCounter]\n[StartBattle] Apply 1 [SlashResultUp] to (highest Reson.) Heishou Pack Identity allies (once per turn)\n\n[StartBattle] If there are Backup Units, select 1 ally Heishou with the least HP percentage.\n- Upon using this Skill, apply [HeishouAttack] to the selected ally, command [RetreatForCommon], and heal 10% of their HP upon Retreating (once per turn)\n- The Heishou Pack Identity who Retreated due to this effect will be placed earlier in the Return line than non-Heishou Identities\n[StartBattle] If there are no Backup Units, apply 2 [Enhancement] to 1 ally Heishou with the least HP percentage (once per turn)",
+          "desc": "[DuelCounter]\n[StartBattle] Apply 1 [SlashResultUp] to (highest Reson.) Heishou Pack Identity allies (once per turn)\n\n[StartBattle] If there are Backup Units, select 1 ally Heishou that has the least HP percentage.\n- Upon using this Skill, apply [HeishouAttack] to the selected ally, command [RetreatForCommon], and heal 10% of their HP upon Retreating (once per turn)\n- The Heishou Pack Identity who Retreated due to this effect will be placed earlier in the Return line than non-Heishou Identities\n[StartBattle] If there are no Backup Units, apply 2 [Enhancement] to 1 ally Heishou that has the least HP percentage (once per turn)",
           "coinlist": [
             {
               "coindescs": [
@@ -2277,7 +2277,7 @@
         {
           "level": 4,
           "name": "Heishou Keenclaw [黑獣利爪]",
-          "desc": "[DuelCounter]\n[StartBattle] Apply 1 [SlashResultUp] to (highest Reson.) Heishou Pack Identity allies (once per turn)\n\n[StartBattle] If there are Backup Units, select 1 ally Heishou with the least HP percentage.\n- Upon using this Skill, apply [HeishouAttack] to the selected ally, command [RetreatForCommon], and heal 10% of their HP upon Retreating (once per turn)\n- The Heishou Pack Identity who Retreated due to this effect will be placed earlier in the Return line than non-Heishou Identities\n[StartBattle] If there are no Backup Units, apply 2 [Enhancement] to 1 ally Heishou with the least HP percentage (once per turn)<style=\"highlight\"></style>",
+          "desc": "[DuelCounter]\n[StartBattle] Apply 1 [SlashResultUp] to (highest Reson.) Heishou Pack Identity allies (once per turn)\n\n[StartBattle] If there are Backup Units, select 1 ally Heishou that has the least HP percentage.\n- Upon using this Skill, apply [HeishouAttack] to the selected ally, command [RetreatForCommon], and heal 10% of their HP upon Retreating (once per turn)\n- The Heishou Pack Identity who Retreated due to this effect will be placed earlier in the Return line than non-Heishou Identities\n[StartBattle] If there are no Backup Units, apply 2 [Enhancement] to 1 ally Heishou that has the least HP percentage (once per turn)<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2311,7 +2311,7 @@
                   "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
                 },
                 {
-                  "desc": "[EnemyKill] For 2 ally Heishou Pack Identities with the least SP, heal 10 SP and apply 1 [Enhancement] next turn"
+                  "desc": "[EnemyKill] For 2 ally Heishou Pack Identities that have the least SP, heal 10 SP and apply 1 [Enhancement] next turn"
                 }
               ]
             }
@@ -2341,7 +2341,7 @@
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [SlashResistDown] next turn (once per turn)</style>"
                 },
                 {
-                  "desc": "[EnemyKill] For 2 ally Heishou Pack Identities with the least SP, heal 10 SP and apply 1 [Enhancement] next turn<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] For 2 ally Heishou Pack Identities that have the least SP, heal 10 SP and apply 1 [Enhancement] next turn<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -2434,7 +2434,7 @@
         {
           "level": 1,
           "name": "Lordsguard",
-          "desc": "[CanDuelGuard]\nThis Skill counts as Assist Defense[TabExplain] only for the unit that uses the Skill, and does not trigger the effects of other characters with conditionals that check for [SupportProtect] activation.\n[WhenUse] If target has 3+ types of negative effects, Clash Power +1",
+          "desc": "[CanDuelGuard]\nThis Skill counts as Assist Defense[TabExplain] only for the unit that uses the Skill, and does not trigger the effects of other characters that have conditionals that check for [SupportProtect] activation.\n[WhenUse] If target has 3+ types of negative effects, Clash Power +1",
           "coinlist": [
             {
               "coindescs": [
