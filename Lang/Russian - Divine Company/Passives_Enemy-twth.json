@@ -2,45 +2,45 @@
   "dataList": [
     {
       "id": 9104301,
-      "name": "Intense Primary Color - Rouge",
-      "desc": "Before hitting, if target does not have [Laceration], inflict +3 [Laceration] Count (once per turn per enemy)"
+      "name": "Основной насыщенный цвет - Красный (Основной насыщенный цвет - Rouge)",
+      "desc": "Перед ударом, при отсутствии на цели [Laceration:`Кровотечения`], накладывает 3 Счётчика [Laceration:`Кровотечения`] (Один раз на противника в ход)."
     },
     {
       "id": 9104302,
-      "name": "Le Fauvisme - Masque de Chien",
-      "desc": "On Hit with a Skill, inflict 1 [BearClawWound]\n\nGain 1 [Enhancement] next turn for every 4 [BearClawWound] inflicted (2 times per turn)",
+      "name": "Фовизм - Маска собаки (Le Fauvisme - Masque de Chien)",
+      "desc": "При ударе навыком накладывает 1 [BearClawWound].\n\nПолучает 1 [Enhancement] на следующий ход за каждые наложенные 4 [BearClawWound:`Рваных цвета: Красного (Рваных цвета: Rouge)`] (2 раза в ход).",
       "flavor": "\"The first step is always but a single animal.\"\n\n\"And with every quest for art and ferity, another beast is layered atop the previous specimen.'\""
     },
     {
       "id": 9104303,
       "name": "Welling Inspiration",
-      "desc": "When this unit or an ally is hit, gain 1 [AttackUp] next turn (once per Skill, 3 times per turn)"
+      "desc": "Получает 1 [AttackUp] на следующий ход при получении удара этим персонажем или его союзником (Один раз за навык, 3 раза в ход)."
     },
     {
       "id": 9104304,
-      "name": "Final Brushstroke",
-      "desc": "When this unit is killed, inflict 3 [BearClawWound] on 2 random enemies"
+      "name": "Финальный штрих",
+      "desc": "Накладывает 3 [BearClawWound:`Рваных цвета: Красного (Рваных цвета: Rouge)`] на 2 случайных противников при смерти этого персонажа."
     },
     {
       "id": 9104501,
-      "name": "Intense Primary Color - Bleu",
-      "desc": "Before hitting, if target does not have [Sinking], inflict +3 [Sinking] Count (once per turn per enemy)"
+      "name": "Основной насыщенный цвет - Синий (Основной насыщенный цвет - Bleu)",
+      "desc": "Перед ударом, при отсутствии на цели [Sinking:`Горя`], накладывает 3 Счётчика [Sinking:`Горя`] (Один раз на противника в ход)."
     },
     {
       "id": 9104502,
-      "name": "Le Fauvisme - Masque de Chèvre-Hibou",
-      "desc": "On Hit with a Skill, inflict 1 [EagleClawWound]\n- If this unit has [Agility], inflict 1 additional [EagleClawWound]\n\nGain 1 [Agility] next turn for every 4 [EagleClawWound] inflicted (2 times per turn)",
+      "name": "Фовизм - Маска козо-совы (Le Fauvisme - Masque de Chèvre-Hibou)",
+      "desc": "При ударе навыком накладывает 1 [EagleClawWound].\n- Накладывает дополнительный 1 [EagleClawWound] при наличии на персонаже  [Agility:`Спешки`].\n\nПолучает 1 [Agility:`Спешку`] на следующий ход за каждые наложенные 4 [EagleClawWound:`Рваных цвета: Синего (Рваных цвета: Bleu)`] (2 раза в ход).",
       "flavor": "\"There are beasts that fall in and out of vogue within the School of Fauvism, yes—but a true artist must take fierce pride in that single animal as the underdrawing which best represents their unique self.\"\n\n\"Despite this wisdom, however, there are some who flit from beast to beast, as though the self is nothing more than a costume to be worn and discarded... Hm\""
     },
     {
       "id": 9104503,
       "name": "Alacritous Expression",
-      "desc": "If this unit's Speed is faster than the target's, Clash Power +1"
+      "desc": "+1 к Силе в Схватке при большей Скорости, чем у цели."
     },
     {
       "id": 9104504,
-      "name": "Final Brushstroke",
-      "desc": "When this unit is killed, inflict 3 [EagleClawWound] on 2 random enemies"
+      "name": "Финальный штрих",
+      "desc": "Накладывает 3 [EagleClawWound:`Рваных цвета: Синего (Рваных цвета: Bleu)`] на 2 случайных противников при смерти этого персонажа."
     },
     {
       "id": 9103401,

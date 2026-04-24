@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Wildstroke",
-          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [BearClawWound:`Рваного цвета: Красного (Рваного цвета: Rouge)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])",
           "coinlist": [
             {
               "coindescs": [
@@ -18,10 +18,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             }
@@ -35,7 +35,7 @@
         {
           "level": 1,
           "name": "Dessin Rapide",
-          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [BearClawWound:`Рваного цвета: Красного (Рваного цвета: Rouge)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] при наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
@@ -47,17 +47,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -71,25 +71,25 @@
         {
           "level": 1,
           "name": "Le Fauvisme - Paint and Unfurl",
-          "desc": "Deal +10% damage for every 3 Mauled Color on target (max 30%)\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "Deal +10% damage for every 3 Mauled Color on target (max 30%)\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] и повторно использует 3-ю Монету при менее 50% ОЗ или наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
@@ -99,10 +99,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BearClawWound]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [BearClawWound]"
                 }
               ]
             }
@@ -116,7 +116,7 @@
         {
           "level": 1,
           "name": "Gusset",
-          "desc": "[DuelCounter]\n[WhenUse] If target has [BearClawWound], Final Power +2",
+          "desc": "[DuelCounter]\n[WhenUse] +2 к Итоговой Силе при наличии на цели [BearClawWound:`Рваного цвета: Красного (Рваного цвета: Rouge)`]",
           "coinlist": [
             {
               "coindescs": [
@@ -128,7 +128,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -142,7 +142,7 @@
         {
           "level": 1,
           "name": "Wildstroke",
-          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [BearClawWound:`Рваного цвета: Красного (Рваного цвета: Rouge)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])",
           "coinlist": [
             {
               "coindescs": [
@@ -154,10 +154,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             }
@@ -171,7 +171,7 @@
         {
           "level": 1,
           "name": "Dessin Rapide",
-          "desc": "[WhenUse] If target does not have [BearClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [BearClawWound:`Рваного цвета: Красного (Рваного цвета: Rouge)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] при наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
@@ -183,17 +183,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -207,25 +207,25 @@
         {
           "level": 1,
           "name": "Le Fauvisme - Paint and Unfurl",
-          "desc": "Deal +10% damage for every 3 Mauled Color on target (max 30%)\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, use Coin 3 an additional time and convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "Deal +10% damage for every 3 Mauled Color on target (max 30%)\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] и повторно использует 3-ю Монету при менее 50% ОЗ или наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking]"
                 }
               ]
             },
@@ -235,10 +235,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [BearClawWound]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [BearClawWound]"
                 }
               ]
             }
@@ -252,7 +252,7 @@
         {
           "level": 1,
           "name": "Gusset",
-          "desc": "[DuelCounter]\n[WhenUse] If target has [BearClawWound], Final Power +2",
+          "desc": "[DuelCounter]\n[WhenUse] +2 к Итоговой Силе при наличии на цели [BearClawWound:`Рваного цвета: Красного (Рваного цвета: Rouge)`]",
           "coinlist": [
             {
               "coindescs": [
@@ -264,7 +264,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 }
               ]
             }
@@ -278,7 +278,7 @@
         {
           "level": 1,
           "name": "Artwork Preparation",
-          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [EagleClawWound:`Рваного цвета: Синего (Рваного цвета: Bleu)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])",
           "coinlist": [
             {
               "coindescs": [
@@ -290,10 +290,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 }
               ]
             }
@@ -307,7 +307,7 @@
         {
           "level": 1,
           "name": "Brisk Expression",
-          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [EagleClawWound:`Рваного цвета: Синего (Рваного цвета: Bleu)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] при наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
@@ -319,13 +319,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Повторно использует эту Монету при наличии [Agility:`Спешки`] (Один раз за навык)"
                 }
               ]
             }
@@ -339,22 +339,22 @@
         {
           "level": 1,
           "name": "Finishing Touch",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "[WhenUse] +1 к Силе Монет за каждые 6 ([Laceration:`Кровотечения`] + [Sinking:`Горя`]) на цели (Макс. 2)\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] при менее 50% ОЗ или наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 3 Счётчика [Sinking:`Горя`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 }
               ]
             },
@@ -364,13 +364,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Повторно использует эту Монету при наличии [Agility:`Спешки`] (Один раз за навык)"
                 }
               ]
             }
@@ -384,19 +384,19 @@
         {
           "level": 1,
           "name": "Partial Rework",
-          "desc": "[DuelCounter]\n[WhenUse] If target has [EagleClawWound], Clash Power +2",
+          "desc": "[DuelCounter]\n[WhenUse] +2 к Силе в Схватке при наличии на цели [EagleClawWound:`Рваного цвета: Синего (Рваного цвета: Bleu)`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [EagleClawWound:`Рваных цвета: Синего (Рваных цвета: Bleu)`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [EagleClawWound:`Рваных цвета: Синего (Рваных цвета: Bleu)`]"
                 }
               ]
             }
@@ -410,7 +410,7 @@
         {
           "level": 1,
           "name": "Artwork Preparation",
-          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [EagleClawWound:`Рваного цвета: Синего (Рваного цвета: Bleu)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])",
           "coinlist": [
             {
               "coindescs": [
@@ -439,7 +439,7 @@
         {
           "level": 1,
           "name": "Brisk Expression",
-          "desc": "[WhenUse] If target does not have [EagleClawWound], Clash Power +1\n[WhenUse] If target has 6+ ([Laceration] + [Sinking]), Coin Power +1\n[WhenUse] If target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "[WhenUse] +1 к Силе в Схватке при отсутствии на цели [EagleClawWound:`Рваного цвета: Синего (Рваного цвета: Bleu)`]\n[WhenUse] +1 к Силе Монет при наличии на цели 6+ ([Laceration:`Кровотечения`] + [Sinking:`Горя`])\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] при наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
@@ -451,13 +451,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Повторно использует эту Монету при наличии [Agility:`Спешки`] (Один раз за навык)"
                 }
               ]
             }
@@ -471,22 +471,22 @@
         {
           "level": 1,
           "name": "Finishing Touch",
-          "desc": "[WhenUse] Coin Power +1 for every 6 ([Laceration] + [Sinking]) on target (max 2)\n[WhenUse] At less than 50% HP, or if target has 5+ Mauled Color, convert all Coins on this Skill to [SuperCoin]s\n[DefeatDuel]\n- Damage from this Skill does not Stagger the target\n- On Hit, does not trigger [Sinking] effects on the target",
+          "desc": "[WhenUse] +1 к Силе Монет за каждые 6 ([Laceration:`Кровотечения`] + [Sinking:`Горя`]) на цели (Макс. 2)\n[WhenUse] Преобразует все Монеты этого навыка в [SuperCoin:`Нерушимые Монеты`] при менее 50% ОЗ или наличии на цели 5+ Рваных Цвета\n[DefeatDuel]\n- Не может Оглушить цель этим навыком\n- При ударе [Sinking] на цели не срабатывает",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Sinking:`Горя`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 }
               ]
             },
@@ -496,13 +496,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Накладывает 2 Счётчика [Sinking:`Горя`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If this unit has [Agility], Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Повторно использует эту Монету при наличии [Agility:`Спешки`] (Один раз за навык)"
                 }
               ]
             }
@@ -516,19 +516,19 @@
         {
           "level": 1,
           "name": "Partial Rework",
-          "desc": "[DuelCounter]\n[WhenUse] If target has [EagleClawWound], Clash Power +2",
+          "desc": "[DuelCounter]\n[WhenUse] +2 к Силе в Схватке при наличии на цели [EagleClawWound:`Рваного цвета: Синего (Рваного цвета: Bleu)`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [EagleClawWound:`Рваных цвета: Синего (Рваных цвета: Bleu)`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [EagleClawWound]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [EagleClawWound:`Рваных цвета: Синего (Рваных цвета: Bleu)`]"
                 }
               ]
             }

@@ -3,131 +3,131 @@
     {
       "id": 142201,
       "name": "The Ring's Docent of Fauvism",
-      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Gain 2 [Protection]</u></b></mark></color> for every allied Fauvist Student of the Ring\n- If this unit used \"Critique\" in this Encounter, gain 2 [Protection] and heal 5 SP instead starting from the next turn\n(At lower than -15 SP, double the SP-healing effect)\n- If there are no allied Fauvist Students of the Ring, gain 2 [Vulnerable] and reduce this unit's SP down to 0 instead\n\nImmediately Before Getting Hit by a Skill that has 1 Atk Weight, if there is an allied Student of the Ring, <color=#ff6000><mark=#ff000040><b><u>have the said unit take the attack instead (2 times per turn, excluding Assist Units)</u></b></mark></color>\n\nTurn End of the turn this unit used \"Critique\": If an allied Fauvist Student of the Ring was defeated in this Encounter, <color=#ff6000><mark=#ff000040><b><u>refill its vacancy with the same Student unit</u></b></mark></color>\n- Every Turn Start: The Student that refilled the vacancy due to this effect gains (# of allies defeated in this Encounter) [Vulnerable] and [AttackDown] (max 10 each)",
+      "desc": "В начале хода: <color=#ff6000><mark=#ff000040><b><u>Получает 2 [Protection:`Стойкости`]</u></b></mark></color> за каждого союзного  «Студента Фовизма Безымянного пальца»\n- Если этот персонаж использовал «Критику» в этом бою, вместо этого со следующего хода он получает 2 [Protection:`Стойкости`] и восстанавливает 5 ПР (Удваивает эффект восстановления ПР при менее -15 ПР)\n- Если союзных «Студентов Фовизма Безымянного пальца» не осталось на поле боя, вместо этого он получает 2 [Vulnerable:`Хрупкости`] и теряет ПР до 0\n\nВ момент перед получением удара навыком с 1 Массой атаки при наличии  союзных «Студентов Фовизма Безымянного пальца» <color=#ff6000><mark=#ff000040><b><u>перенаправляет этот навык на союзника (2 раза в ход, исключая персонажей Подмоги)</u></b></mark></color>\n\nВ конце хода после использования «Критики»: За каждого побеждённого до использования «Критики» «Студента Фовизма Безымянного пальца», <color=#ff6000><mark=#ff000040><b><u>выходит на поле бля аналогичный тип персонажа</u></b></mark></color>\n- В каждом начале хода: «Студенты Фовизма Безымянного пальца», вышедшие на поле боя из-за этого эффекта, получают (Количество побеждённых союзников в этом бою) [Vulnerable:`Хрупкости`] и [AttackDown:`Уменьшения Уровня Атаки`] (Макс. 10 каждого эффекта)",
       "summary": "Immediately before getting hit, force an allied Student to take the hit instead",
       "flavor": ""
     },
     {
       "id": 142202,
       "name": "Mentorship",
-      "desc": "Turn Start: Randomly apply [AttackUp] and [DefenseUp] to allied Fauvist Students of the Ring equal to the number of turns (including the current turn) each unit has survived, respectively (max 5)\n\nTurn End: If an allied Student is Staggered, <color=#ff6000><mark=#ff000040><b><u>recover them from Stagger</u></b></mark></color>\n- All Attack Type and Affinity Resistance for the Students who recovered from Stagger due to this effect becomes \"Fatal\" for the next turn\n\nTurn End: If a Student is in Panic, heal their SP up to 45",
+      "desc": "В начале хода: Случайно накладывает [AttackUp] и [DefenseUp] на союзных «Студентов Фовизма Безымянного пальца», равное количеству ходов (включая текущий ход), которые этот союзник выжил (Макс. 5)\n\nВ конце хода: Если «Студент Фовизма Безымянного пальца» Оглушен, <color=#ff6000><mark=#ff000040><b><u>восстанавливает их от Оглушения</u></b></mark></color>\n- Все Уязвимости к видам атак и Грехам становятся «Фатальными» на следующий ход\n\nВ конце хода: Если «Студент Фовизма Безымянного пальца» находится в Панике, восстанавливает их ПР до 45",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 142203,
       "name": "Le Fauvisme - Couleurs Sauvages",
-      "desc": "Combat End: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [IntenseColors] next turn</u></b></mark></color> to Sinners that have [BearClawWound], [EagleClawWound], and [BoldBrushstrokes] simultaneously\n- If target has 3+/6+/9+ [BearClawWound] and [EagleClawWound] each, inflict 2/3/4 [IntenseColors] instead (amount inflicted is based on the effect that has the least Stack)",
+      "desc": "В конце Схваток: <color=#ff6000><mark=#ff000040><b><u>Накладывает 1 [IntenseColors:`Яркую палитру (Palette Vibrante)`] на следующий ход</u></b></mark></color> на Грешников, одновременно имеющих [BearClawWound], [EagleClawWound] и [BoldBrushstrokes] \n- Если на цели одновременно 3+/6+/9+ [BearClawWound:`Рваных цвета: Красных (Рваных цвета: Rouge)`] и [EagleClawWound:`Рваных цвета: Синих (Рваных цвета: Bleu)`], вместо этого накладывает 2/3/4 [IntenseColors:`Ярких палитры (Palette Vibrante)`] (Количество накладываемого эффекта зависит от наименьшего Значения требуемых эффектов)",
       "summary": "Inflict Palette Vibrante",
       "flavor": "'Intrinsic in the outward appearance of each animal is a distinct purpose. And we les Fauves are the ones who awaken and express the ferity of those that we call wild beasts among them.'"
     },
     {
       "id": 142204,
       "name": "Casque de Fauve - Empreinte Vitale",
-      "desc": "Gain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 20\n\n<color=#ff6000><mark=#ff000040><b><u>At 70%- HP, gain a new pattern</u></b></mark></color>\n- Remove all effects other than those exclusive to this unit\n- First Turn Start of the new pattern: Gain [FaubismWolfMask] and heal up to 45 SP",
+      "desc": "Получает эффект [PanicChangeLock]\nВ конце хода: Если этот персонаж находится в Панике, то он восстанавливает ПР до 20\n\n<color=#ff6000><mark=#ff000040><b><u>Изменяет своё поведение при менее 70% ОЗ</u></b></mark></color>\n- Сбрасывает все эффекты, кроме уникальных для этого персонажа\n- В начале первого хода нового поведения: Получает [FaubismWolfMask] и восстанавливает ПР до 45",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 142301,
       "name": "Rufo, a Docent of The Ring's School of Fauvism",
-      "desc": "In the turn this unit uses a powerful attack, Min & Max Speed +15\n\nTake -30% damage from Unopposed Attacks\nDeal +30% damage with Unopposed Attacks\n- If the Slot targeted by this unit's Unopposed Attack has 2+ [Aggro], reduce the increased damage from this effect by 5% per [Aggro] Stack (min 0%)\n\nOn Clash Lose, gain 1 [AttackDmgUp] (5 per turn)\n- At Turn End, or at Attack End of a Skill that hit a Sinner, the [AttackDmgUp] effect gained with this effect expires",
+      "desc": "+15 к мин. и макс. Скорости в этом ходу при использовании особой атаки\n\nПолучает на 30% меньше урона от Односторонних атак\nНаносит на 30% больше урона Односторонними атаками\n- Наносит на 5% меньше урона Односторонней атакой за каждую [Aggro:`Провокацию`] на цели при наличии на цели 2+ [Aggro:`Провокации`] (Мин. 0%)\n\nПри поражении в Схватке получает 1 [AttackDmgUp] (5 раз в ход)\n- В конце хода или в конце атаки навыком, ударившим Грешника, полученные эффекты сбрасываются",
       "summary": "Take less damage and deal more damage with Unopposed Attacks\nOn Clash Lose, gain Damage Up",
       "flavor": ""
     },
     {
       "id": 142302,
       "name": "Le Fauvisme - Masque de Loup : Résurgence de la Sauvagerie",
-      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Gain 8 [Protection]</u></b></mark></color>\n- Gain 2 fewer [Protection] at Turn Start <color=#ff6000><mark=#ff000040><b><u>for every type of negative effect on this unit</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose using \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, gain 2 [Vulnerable] from this effect instead</u></b></mark></color> for the next turn\n\n<color=#ff6000><mark=#ff000040><b><u>Gain 1 Defense Level each time this unit is hit</u></b></mark></color> by a Skill Coin (max 20 per turn)\n- Turn End: Defense Level gained due to this effect expires\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose using \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, lose 1 Defense Level each time this unit is hit by a Skill Coin instead</u></b></mark></color> for the next turn (max 20; expires at Turn End)",
+      "desc": "В начале хода: <color=#ff6000><mark=#ff000040><b><u>Получает 8 [Protection:`Стойкости`]</u></b></mark></color>\n- В начале хода получает на 2 [Protection:`Стойкости`] меньше <color=#ff6000><mark=#ff000040><b><u>за каждый тип негативных эффектов на этом персонаже</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>При поражении в Схватке используя навык «Burst Forth the Pulsing Crimson under Your Skin», вместо этого получает 2 [Vulnerable:`Хрупкости`]</u></b></mark></color> на следующий ход\n\n<color=#ff6000><mark=#ff000040><b><u>При получении удара Монетой, получает 1 Уровень Защиты</u></b></mark></color> (Макс. 20 раз в ход)\n- В конце хода: Уровни Защиты от этого эффекта сбрасываются\n- <color=#ff6000><mark=#ff000040><b><u>При поражении в Схватке используя навык «Burst Forth the Pulsing Crimson under Your Skin», вместо этого при получении удара Монетой теряет 1 Уровень Защиты</u></b></mark></color> на следующий ход (Макс. 20 раз, сбрасывается в конце хода)",
       "summary": "When hit, gain Defense Level\nIf this unit lost a Clash using a certain Skill, lose Defense Level instead",
       "flavor": ""
     },
     {
       "id": 142303,
       "name": "Le Fauvisme - Couleurs Sauvages",
-      "desc": "Combat End: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [IntenseColors] next turn</u></b></mark></color> to Sinners that have [BearClawWound], [EagleClawWound], and [BoldBrushstrokes] simultaneously\n- If target has 3+/6+/9+ [BearClawWound] and [EagleClawWound] each, inflict 2/3/4 [IntenseColors] instead (amount inflicted is based on the effect that has the least Stack)",
+      "desc": "В конце Схваток: <color=#ff6000><mark=#ff000040><b><u>Накладывает 1 [IntenseColors:`Яркую палитру (Palette Vibrante)`] на следующий ход</u></b></mark></color> на Грешников, одновременно имеющих [BearClawWound], [EagleClawWound] и [BoldBrushstrokes] \n- Если на цели одновременно 3+/6+/9+ [BearClawWound:`Рваных цвета: Красных (Рваных цвета: Rouge)`] и [EagleClawWound:`Рваных цвета: Синих (Рваных цвета: Bleu)`], вместо этого накладывает 2/3/4 [IntenseColors:`Ярких палитры (Palette Vibrante)`] (Количество накладываемого эффекта зависит от наименьшего Значения требуемых эффектов)",
       "summary": "Inflict Palette Vibrante",
       "flavor": "'Intrinsic in the outward appearance of each animal is a distinct purpose. And we les Fauves are the ones who awaken and express the ferity of those that we call wild beasts among them.'"
     },
     {
       "id": 142304,
       "name": "Le Fauvisme - Maximum Paint Tolerance Dose",
-      "desc": "Gain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 30\n\n<color=#ff6000><mark=#ff000040><b><u>At 35%- HP, convert [FaubismWolfMask] into [FaubismWolfMaskBlooded], and heal up to 45 SP</u></b></mark></color>",
+      "desc": "Получает эффект [PanicChangeLock]\nВ конце хода: Если этот персонаж находится в Панике, то он восстанавливает ПР до 30\n\n<color=#ff6000><mark=#ff000040><b><u>Приобразует [FaubismWolfMask] в [FaubismWolfMaskBlooded] и восстанавливает до 45 ПР при менее 35% ОЗ</u></b></mark></color>",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 142401,
-      "name": "Remnant of Art",
-      "desc": "On death, give +2 E.G.O resource of the least-owned Affinity",
+      "name": "Отголоски искусства",
+      "desc": "Даёт 2 ЭГО-ресурса для самого наименьшего Греха",
       "summary": "Give E.G.O resource on death",
       "flavor": ""
     },
     {
       "id": 500601,
       "name": "Зеркалание",
-      "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count/10) in a Clash (rounded down)\n\nMax Potency cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 30\nMax Count cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 10",
+      "desc": "При 10+ Схваток против одного и того же противника, случайно получает или теряет (Количество Схваток/10) Силы в Схватке (Округляя вниз)\n\nМакс. Значение для [Combustion:`Горения`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] и [Sinking:`Горя`]: 30\nМакс. Счётчик для [Combustion:`Горения`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] и [Sinking:`Горя`]: 10",
       "flavor": ""
     },
     {
       "id": 500602,
       "name": "The Ring's Docent of Fauvism",
-      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Gain 2 [Protection]</u></b></mark></color> for every allied Fauvist Student of the Ring\n- If this unit used \"Critique\" in this Encounter, gain 2 [Protection] and heal 5 SP instead starting from the next turn\n(At lower than -15 SP, double the SP-healing effect)\n- If there are no allied Fauvist Students of the Ring, gain 2 [Vulnerable] and reduce this unit's SP down to 0 instead\n\nImmediately Before Getting Hit by a Skill that has 1 Atk Weight, if there is an allied Student of the Ring, <color=#ff6000><mark=#ff000040><b><u>apply 2 [Protection] on that unit; then, have the said unit take the attack instead (2 times per turn)</u></b></mark></color>\n\nTurn End of the turn this unit used \"Critique\": If an allied Fauvist Student of the Ring was defeated in this Encounter, <color=#ff6000><mark=#ff000040><b><u>refill its vacancy with the same Student unit</u></b></mark></color>\n- Every Turn Start: The Student that refilled the vacancy due to this effect gains (# of allies defeated in this Encounter) [Vulnerable] and [AttackDown] (max 10 each)",
+      "desc": "В начале хода: <color=#ff6000><mark=#ff000040><b><u>Получает 2 [Protection:`Стойкости`]</u></b></mark></color> за каждого союзного  «Студента Фовизма Безымянного пальца»\n- Если этот персонаж использовал «Критику» в этом бою, вместо этого со следующего хода он получает 2 [Protection:`Стойкости`] и восстанавливает 5 ПР (Удваивает эффект восстановления ПР при менее -15 ПР)\n- Если союзных «Студентов Фовизма Безымянного пальца» не осталось на поле боя, вместо этого он получает 2 [Vulnerable:`Хрупкости`] и теряет ПР до 0\n\nВ момент перед получением удара навыком с 1 Массой атаки при наличии  союзных «Студентов Фовизма Безымянного пальца» <color=#ff6000><mark=#ff000040><b><u>накладывает 2 [Protection:`Стойкости`] и перенаправляет этот навык на союзника (2 раза в ход)</u></b></mark></color>\n\nВ конце хода после использования «Критики»: За каждого побеждённого до использования «Критики» «Студента Фовизма Безымянного пальца», <color=#ff6000><mark=#ff000040><b><u>выходит на поле бля аналогичный тип персонажа</u></b></mark></color>\n- В каждом начале хода: «Студенты Фовизма Безымянного пальца», вышедшие на поле боя из-за этого эффекта, получают (Количество побеждённых союзников в этом бою) [Vulnerable:`Хрупкости`] и [AttackDown:`Уменьшения Уровня Атаки`] (Макс. 10 каждого эффекта)",
       "summary": "Immediately before getting hit, force an allied Student to take the hit instead",
       "flavor": ""
     },
     {
       "id": 500603,
       "name": "Mentorship",
-      "desc": "Turn Start: Randomly apply [AttackUp] and [DefenseUp] to allied Fauvist Students of the Ring equal to the number of turns (including the current turn) each unit has survived, respectively (max 5)\n\nTurn End: If an allied Student is Staggered, <color=#ff6000><mark=#ff000040><b><u>recover them from Stagger</u></b></mark></color>\n- All Attack Type and Affinity Resistance for the Students who recovered from Stagger due to this effect becomes \"Fatal\" for the next turn\n\nTurn End: If a Student is in Panic, heal their SP up to 45",
+      "desc": "В начале хода: Случайно накладывает [AttackUp] и [DefenseUp] на союзных «Студентов Фовизма Безымянного пальца», равное количеству ходов (включая текущий ход), которые этот союзник выжил (Макс. 5)\n\nВ конце хода: Если «Студент Фовизма Безымянного пальца» Оглушен, <color=#ff6000><mark=#ff000040><b><u>восстанавливает их от Оглушения</u></b></mark></color>\n- Все Уязвимости к видам атак и Грехам становятся «Фатальными» на следующий ход\n\nВ конце хода: Если «Студент Фовизма Безымянного пальца» находится в Панике, восстанавливает их ПР до 45",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 500604,
       "name": "Le Fauvisme - Couleurs Sauvages",
-      "desc": "Combat End: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [IntenseColors] next turn</u></b></mark></color> to Sinners that have [BearClawWound], [EagleClawWound], and [BoldBrushstrokes] simultaneously\n- If target has 3+/6+/9+ [BearClawWound] and [EagleClawWound] each, inflict 2/3/4 [IntenseColors] instead (amount inflicted is based on the effect that has the least Stack)",
+      "desc": "В конце Схваток: <color=#ff6000><mark=#ff000040><b><u>Накладывает 1 [IntenseColors:`Яркую палитру (Palette Vibrante)`] на следующий ход</u></b></mark></color> на Грешников, одновременно имеющих [BearClawWound], [EagleClawWound] и [BoldBrushstrokes] \n- Если на цели одновременно 3+/6+/9+ [BearClawWound:`Рваных цвета: Красных (Рваных цвета: Rouge)`] и [EagleClawWound:`Рваных цвета: Синих (Рваных цвета: Bleu)`], вместо этого накладывает 2/3/4 [IntenseColors:`Ярких палитры (Palette Vibrante)`] (Количество накладываемого эффекта зависит от наименьшего Значения требуемых эффектов)",
       "summary": "Inflict Palette Vibrante",
       "flavor": "'Intrinsic in the outward appearance of each animal is a distinct purpose. And we les Fauves are the ones who awaken and express the ferity of those that we call wild beasts among them.'"
     },
     {
       "id": 500605,
       "name": "Casque de Fauve - Empreinte Vitale",
-      "desc": "Gain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 45\n\n<color=#ff6000><mark=#ff000040><b><u>At 70%- HP, gain a new pattern</u></b></mark></color>\n- Remove all effects other than those exclusive to this unit\n- Inflict <color=#ff6000><mark=#ff000040><b><u>8 [Laceration], +8 [Laceration] Count, 8 [Sinking], and +8 [Sinking] Count</u></b></mark></color> on all Sinners on the field\n- First Turn Start of the new pattern: Gain [FaubismWolfMask] and heal up to 45 SP",
+      "desc": "Получает эффект [PanicChangeLock]\nВ конце хода: Если этот персонаж находится в Панике, то он восстанавливает ПР до 45\n\n<color=#ff6000><mark=#ff000040><b><u>Изменяет своё поведение при менее 70% ОЗ</u></b></mark></color>\n- Сбрасывает все эффекты, кроме уникальных для этого персонажа\n- Накладывает <color=#ff6000><mark=#ff000040><b><u>8 [Laceration:`Кровотечения`] и 8 его Счётчика, 8 [Sinking:`Горя`] и 8 его Счётчика</u></b></mark></color> на всех Грешников на поле боя\n- В начале первого хода нового поведения: Получает [FaubismWolfMask] и восстанавливает ПР до 45",
       "summary": "",
       "flavor": ""
     },
     {
       "id": 500701,
       "name": "Зеркалание",
-      "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count/10) in a Clash (rounded down)\n\nMax Potency cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 30\nMax Count cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 10",
+      "desc": "При 10+ Схваток против одного и того же противника, случайно получает или теряет (Количество Схваток/10) Силы в Схватке (Округляя вниз)\n\nМакс. Значение для [Combustion:`Горения`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] и [Sinking:`Горя`]: 30\nМакс. Счётчик для [Combustion:`Горения`], [Laceration:`Кровотечения`], [Vibration:`Тремора`], [Burst:`Разрыва`] и [Sinking:`Горя`]: 10",
       "flavor": ""
     },
     {
       "id": 500702,
       "name": "Rufo, a Docent of The Ring's School of Fauvism",
-      "desc": "In the turn this unit uses a powerful attack, Min & Max Speed +15\n\nTake -50% damage from Unopposed Attacks\nDeal +50% damage with Unopposed Attacks\n- If the Slot targeted by this unit's Unopposed Attack has 2+ [Aggro], reduce the increased damage from this effect by 5% per [Aggro] Stack (min 0%)\n\nOn Clash Lose, gain 1 [AttackDmgUp] (5 per turn)\n- At Turn End, or at Attack End of a Skill that hit a Sinner, the [AttackDmgUp] effect gained with this effect expires",
+      "desc": "+15 к мин. и макс. Скорости в этом ходу при использовании особой атаки\n\nПолучает на 50% меньше урона от Односторонних атак\nНаносит на 50% больше урона Односторонними атаками\n- Наносит на 5% меньше урона Односторонней атакой за каждую [Aggro:`Провокацию`] на цели при наличии на цели 2+ [Aggro:`Провокации`] (Мин. 0%)\n\nПри поражении в Схватке получает 1 [AttackDmgUp] (5 раз в ход)\n- В конце хода или в конце атаки навыком, ударившим Грешника, полученные эффекты сбрасываются",
       "summary": "Take less damage and deal more damage with Unopposed Attacks\nOn Clash Lose, gain Damage Up",
       "flavor": ""
     },
     {
       "id": 500703,
       "name": "Le Fauvisme - Masque de Loup : Résurgence de la Sauvagerie",
-      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Gain 10 [Protection]</u></b></mark></color>\n- Gain 1 fewer [Protection] at Turn Start <color=#ff6000><mark=#ff000040><b><u>for every type of negative effect on this unit</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose using \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, gain 2 [Vulnerable] from this effect instead</u></b></mark></color> for the next turn\n\n<color=#ff6000><mark=#ff000040><b><u>Gain 1 Defense Level each time this unit is hit</u></b></mark></color> by a Skill Coin (max 20 per turn)\n- Turn End: Defense Level gained due to this effect expires\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose using \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, lose 1 Defense Level each time this unit is hit by a Skill Coin instead</u></b></mark></color> for the next turn (max 20; expires at Turn End)",
+      "desc": "В начале хода: <color=#ff6000><mark=#ff000040><b><u>Получает 810[Protection:`Стойкости`]</u></b></mark></color>\n- В начале хода получает на 1 [Protection] меньше <color=#ff6000><mark=#ff000040><b><u>за каждый тип негативных эффектов на этом персонаже</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>При поражении в Схватке используя навык «Burst Forth the Pulsing Crimson under Your Skin», вместо этого получает 2 [Vulnerable:`Хрупкости`]</u></b></mark></color> на следующий ход\n\n<color=#ff6000><mark=#ff000040><b><u>При получении удара Монетой, получает 1 Уровень Защиты</u></b></mark></color> (Макс. 20 раз в ход)\n- В конце хода: Уровни Защиты от этого эффекта сбрасываются\n- <color=#ff6000><mark=#ff000040><b><u>При поражении в Схватке используя навык «Burst Forth the Pulsing Crimson under Your Skin», вместо этого при получении удара Монетой теряет 1 Уровень Защиты</u></b></mark></color> на следующий ход (Макс. 20 раз, сбрасывается в конце хода)",
       "summary": "When hit, gain Defense Level\nIf this unit lost a Clash using a certain Skill, lose Defense Level instead",
       "flavor": ""
     },
     {
       "id": 500704,
       "name": "Le Fauvisme - Couleurs Sauvages",
-      "desc": "Combat End: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [IntenseColors] next turn</u></b></mark></color> to Sinners that have [BearClawWound], [EagleClawWound], and [BoldBrushstrokes] simultaneously\n- If target has 3+/6+/9+ [BearClawWound] and [EagleClawWound] each, inflict 2/3/4 [IntenseColors] instead (amount inflicted is based on the effect that has the least Stack)",
+      "desc": "В конце Схваток: <color=#ff6000><mark=#ff000040><b><u>Накладывает 1 [IntenseColors:`Яркую палитру (Palette Vibrante)`] на следующий ход</u></b></mark></color> на Грешников, одновременно имеющих [BearClawWound], [EagleClawWound] и [BoldBrushstrokes] \n- Если на цели одновременно 3+/6+/9+ [BearClawWound:`Рваных цвета: Красных (Рваных цвета: Rouge)`] и [EagleClawWound:`Рваных цвета: Синих (Рваных цвета: Bleu)`], вместо этого накладывает 2/3/4 [IntenseColors:`Ярких палитры (Palette Vibrante)`] (Количество накладываемого эффекта зависит от наименьшего Значения требуемых эффектов)",
       "summary": "Inflict Palette Vibrante",
       "flavor": "'Intrinsic in the outward appearance of each animal is a distinct purpose. And we les Fauves are the ones who awaken and express the ferity of those that we call wild beasts among them.'"
     },
     {
       "id": 500705,
       "name": "Le Fauvisme - Maximum Paint Tolerance Dose",
-      "desc": "Gain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 45\n\n<color=#ff6000><mark=#ff000040><b><u>At 35%- HP, convert [FaubismWolfMask] into [FaubismWolfMaskBlooded], and heal up to 45 SP</u></b></mark></color>",
+      "desc": "Получает эффект [PanicChangeLock]\nВ конце хода: Если этот персонаж находится в Панике, то он восстанавливает ПР до 45\n\n<color=#ff6000><mark=#ff000040><b><u>Приобразует [FaubismWolfMask] в [FaubismWolfMaskBlooded] и восстанавливает до 45 ПР при менее 35% ОЗ</u></b></mark></color>",
       "summary": "",
       "flavor": ""
     }
