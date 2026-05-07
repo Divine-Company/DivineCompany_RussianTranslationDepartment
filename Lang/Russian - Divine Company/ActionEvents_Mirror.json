@@ -1443,6 +1443,13 @@
           "result": [
             ""
           ]
+        },
+        {
+          "message": "Tell the shooter that you're not on its side.",
+          "messageDesc": "Win the battle to earn a Poise E.G.O Gift and a Pierce E.G.O Gift",
+          "result": [
+            "\"Ah, just another one of those targets lying around, were you.\"\n\n\"Well then, I suppose I'll have to blow your brains out just like the rest of them.\"\n\nBreaking into laughter, the shooter brings its shotgun to bear."
+          ]
         }
       ]
     },
