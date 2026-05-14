@@ -319,6 +319,14 @@
     {
       "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED",
       "content": "ЭКЛ?"
+    },
+    {
+      "id": "UnitKeyword_DIHUI_STAR",
+      "content": "Звезда Разума"
+    },
+    {
+      "id": "UnitKeyword_DIHUI_STAR_CANCELED",
+      "content": "<color=#d40000><s>Звезда Разума</s></color>"
     }
   ]
 }
