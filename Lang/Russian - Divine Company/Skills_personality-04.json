@@ -384,12 +384,16 @@
           "coinlist": [
             {
               "coindescs": [
-                {}
+                {
+                  "desc": ""
+                }
               ]
             },
             {
               "coindescs": [
-                {}
+                {
+                  "desc": ""
+                }
               ]
             },
             {
@@ -2939,44 +2943,44 @@
         {
           "level": 1,
           "name": "Tripleslash [三連]",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Получает 2 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhantomIncisionID]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [PhantomIncisionID:`Следа клинка: Послеобраз`](;PhantomIncision)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhantomIncisionID] equal to [SojiRyoshuEchoPast] on self (max 4)"
+                  "desc": "[OnSucceedAttack] Накладывает [PhantomIncisionID], равные количеству [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на себе (Макс. 4)"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 2)% of this Coin's final damage"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 2)% окончательного урона этой Монеты"
                 }
               ]
             }
@@ -2985,44 +2989,44 @@
         {
           "level": 2,
           "name": "Tripleslash [三連]",
-          "desc": "<style=\"highlight\">[WhenUse] At 6+ [Breath], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count",
+          "desc": "<style=\"highlight\">[WhenUse] +1 к Силе Монет при наличии 6+ [Breath:`Концентрации`]</style>\n[WhenUse] Получает <style=\"highlight\">3</style> Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [PhantomIncisionID:`Следа клинка: Послеобраз`](;PhantomIncision)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhantomIncisionID] equal to [SojiRyoshuEchoPast] on self (max 4)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает [PhantomIncisionID], равные количеству [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на себе (Макс. 4)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 2)% of this Coin's final damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 2)% окончательного урона этой Монеты<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3031,44 +3035,44 @@
         {
           "level": 4,
           "name": "Tripleslash [三連]",
-          "desc": "[WhenUse] At 6+ [Breath], Coin Power +1\n<style=\"highlight\">[WhenUse] Final Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)</style>\n[WhenUse] Gain +3 [Breath] Count",
+          "desc": "[WhenUse] +1 к Силе Монет при наличии 6+ [Breath:`Концентрации`]\n<style=\"highlight\">[WhenUse] +1 к Итоговой Силе за каждые 6 ([Combustion:`Горения`] + [Laceration:`Кровотечения`]) на цели (Макс. 2)</style>\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 1 [Breath:`Концентрацию`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 Счётчика [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict +1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 Счётчика [Combustion:`Горения`]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [PhantomIncisionID:`Следа клинка: Послеобраз`](;PhantomIncision)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhantomIncisionID] equal to [SojiRyoshuEchoPast] on self (max 4)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает [PhantomIncisionID], равные количеству [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на себе (Макс. 4)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 2)% of this Coin's final damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 2)% окончательного урона этой Монеты<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3082,38 +3086,38 @@
         {
           "level": 1,
           "name": "Tripleslash - Echoshear [三連 - 殘]",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Получает 2 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 3)% of this Coin's final damage"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 3)% окончательного урона этой Монеты"
                 }
               ]
             }
@@ -3122,38 +3126,38 @@
         {
           "level": 2,
           "name": "Tripleslash - Echoshear [三連 - 殘]",
-          "desc": "<style=\"highlight\">[WhenUse] At 6+ [Breath], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Breath] Count",
+          "desc": "<style=\"highlight\">[WhenUse] +1 к Силе Монет при наличии 6+ [Breath:`Концентрации`]</style>\n[WhenUse] Получает <style=\"highlight\">3</style> Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 3)% of this Coin's final damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 3)% окончательного урона этой Монеты<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3162,38 +3166,38 @@
         {
           "level": 4,
           "name": "Tripleslash - Echoshear [三連 - 殘]",
-          "desc": "[WhenUse] At 6+ [Breath], Coin Power +1\n<style=\"highlight\">[WhenUse] Final Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)</style>\n[WhenUse] Gain +3 [Breath] Count",
+          "desc": "[WhenUse] +1 к Силе Монет при наличии 6+ [Breath:`Концентрации`]\n<style=\"highlight\">[WhenUse] +1 к Итоговой Силе за каждые 6 ([Combustion:`Горения`] + [Laceration:`Кровотечения`]) на цели (Макс. 2)</style>\n[WhenUse] Получает 3 Счётчика [Breath:`Концентрации`]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Получает 2 [Breath:`Концентрации`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Combustion:`Горения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 3)% of this Coin's final damage<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 3)% окончательного урона этой Монеты<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -3207,28 +3211,28 @@
         {
           "level": 3,
           "name": "Rend Space [空間斬]",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] on self (max 5)\n[WhenUse] Deal +5% damage for every [SojiRyoshuEchoPast] on self\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Gain +1 Atk Weight for every 2 [SojiRyoshuEchoPast] on self (max 2)\n[WhenUse] Deal +15% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Parts)\n[EndSkill] Randomly inflict ([SojiRyoshuEchoPast] on self + 10) [PhantomIncisionID] between targets hit by this Skill",
+          "desc": "[WhenUse] +1 к Итоговой Силе за каждые 4 [Breath:`Концентрации`] на себе (Макс. 5)\n[WhenUse] Наносит на 5% больше урона за каждую [SojiRyoshuEchoPast] на себе\n[WhenUse] Получает 5 [Breath:`Концентрации`]\n[WhenUse] Получает +1 к Массе Атаки за каждые 2 [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на себе (Макс. 2)\n[WhenUse] Наносит на 15% больше урона за каждую Массу Атаки, превышающую количество целей (Частей в Особых боях)\n[EndSkill] Случайно накладывает ([SojiRyoshuEchoPast] на себе + 10) [PhantomIncisionID:`Следов клинка: Послеобраз`](;PhantomIncision) среди целей, которых ударил этот навык",
           "flavor": "\"The Way of the Blade, huh? Yeah, sticking to a single path like a one-track-minded dumbass'll eventually get ya to cut stuff like space too. Oh, but don't flatter yourself—it just makes the split space shimmer for a bit like in the heat haze. Give it some time, and the cut closes like it was never even there in the first place.\"",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +30% damage on Critical Hit"
+                  "desc": "Наносит на 30% больше урона при крит. ударе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Activate [Combustion] on target. Target loses 1 [Combustion] Count"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает срабатывание [Combustion:`Горения`] на цели, понижая Счётчик [Combustion:`Горения`] цели на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает срабатывание [Laceration:`Кровотечения`] на цели, понижая Счётчик [Laceration:`Кровотечения`] цели на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 3)% of this Coin's final damage"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 3)% окончательного урона этой Монеты"
                 }
               ]
             }
@@ -3237,28 +3241,28 @@
         {
           "level": 4,
           "name": "Rend Space [空間斬]",
-          "desc": "[WhenUse] Final Power +1 for every 4 [Breath] on self (max 5)\n<style=\"highlight\">[WhenUse] Base Power +1 for every 6 ([Combustion] + [Laceration]) on the main target (max 5)</style>\n[WhenUse] Deal +5% damage for every [SojiRyoshuEchoPast] on self\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Gain +1 Atk Weight for every 2 [SojiRyoshuEchoPast] on self (max 2)\n[WhenUse] Deal <style=\"highlight\">+30%</style> damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Parts)\n[EndSkill] Randomly inflict ([SojiRyoshuEchoPast] on self + 10) [PhantomIncisionID] between targets hit by this Skill",
+          "desc": "[WhenUse] +1 к Итоговой Силе за каждые 4 [Breath:`Концентрации`] на себе (Макс. 5)\n<style=\"highlight\">[WhenUse] +1 к Базовой Силе за каждые 6 ([Combustion:`Горения`] + [Laceration:`Кровотечения`]) на основной цели (Макс. 5)</style>\n[WhenUse] Наносит на 5% больше урона за каждую [SojiRyoshuEchoPast] на себе\n[WhenUse] Получает 5 [Breath:`Концентрации`]\n[WhenUse] Получает +1 к Массе Атаки за каждые 2 [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на себе (Макс. 2)\n[WhenUse] Наносит на <style=\"highlight\">30%</style> больше урона за каждую Массу Атаки, превышающую количество целей (Частей в Особых боях)\n[EndSkill] Случайно накладывает ([SojiRyoshuEchoPast] на себе + 10) [PhantomIncisionID:`Следов клинка: Послеобраз`](;PhantomIncision) среди целей, которых ударил этот навык",
           "flavor": "\"The Way of the Blade, huh? Yeah, sticking to a single path like a one-track-minded dumbass'll eventually get ya to cut stuff like space too. Oh, but don't flatter yourself—it just makes the split space shimmer for a bit like in the heat haze. Give it some time, and the cut closes like it was never even there in the first place.\"",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+50%</style> damage on Critical Hit"
+                  "desc": "Наносит на <style=\"highlight\">50%</style> больше урона при крит. ударе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Laceration:`Кровотечения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Накладывает 3 [Combustion:`Горения`]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Activate [Combustion] on target. Target loses 1 [Combustion] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает срабатывание [Combustion:`Горения`] на цели, понижая Счётчик [Combustion:`Горения`] цели на 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает срабатывание [Laceration:`Кровотечения`] на цели, понижая Счётчик [Laceration:`Кровотечения`] цели на 1<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x <style=\"highlight\">4</style>)% of this Coin's final damage"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x <style=\"highlight\">4</style>)% окончательного урона этой Монеты"
                 }
               ]
             }
@@ -3272,7 +3276,7 @@
         {
           "level": 1,
           "name": "Phantom Step [殘像步]",
-          "desc": "[StartBattle] Targets 1 The House of Spiders ally with the lattermost Deployment order (2 times per turn)\n- At 1+ [SojiRyoshuEntangle], target 1 additional ally\n- At Skill End of all of the Skills equipped by target this turn, or if target is Staggered, or if target does not have any Skills remaining to be used, use \"Slay the Heavens - Tiansha\" against target as an Unopposed Attack (once per Identity)\n - Prioritizes The House of Spiders: The Pinky Apprentice Sinclair last\n[StartBattle] Gain +3 [Breath] Count (once per turn)",
+          "desc": "[StartBattle] Целится в последнего союзника с тегом «Дом Пауков» в Цепочке Выхода (2 раза за ход)\n- При 1+ [SojiRyoshuEntangle], целится в дополнительного союзника\n- При Конце Навыка всех использующихся навыков цели в ходу, или если цель Оглушена, или если цель использовала все навыки, использует «Slay the Heavens - Tiansha» Односторонней атакой по цели (Один раз за Личность)\n - Целится в Синклера «Дом Пауков: Ученик Мизинца» в последнюю очередь\n[StartBattle] Получает 3 Счётчика [Breath:`Концентрации`] (Один раз в ход)",
           "flavor": "\"What you're pursuing is my phantom.\"",
           "coinlist": [
             {}
@@ -3281,7 +3285,7 @@
         {
           "level": 4,
           "name": "Phantom Step [殘像步]",
-          "desc": "[StartBattle] Targets 1 The House of Spiders ally with the lattermost Deployment order (2 times per turn)\n- At 1+ [SojiRyoshuEntangle], target 1 additional ally\n- At Skill End of all of the Skills equipped by target this turn, or if target is Staggered, or if target does not have any Skills remaining to be used, use \"Slay the Heavens - Tiansha\" against target as an Unopposed Attack (once per Identity)\n - Prioritizes The House of Spiders: The Pinky Apprentice Sinclair last\n[StartBattle] Gain +3 [Breath] Count (once per turn)\n<style=\"highlight\">[OnSucceedEvade] Gain 1 [Breath] (3 times per turn)</style>",
+          "desc": "[StartBattle] Целится в последнего союзника с тегом «Дом Пауков» в Цепочке Выхода (2 раза за ход)\n- При 1+ [SojiRyoshuEntangle], целится в дополнительного союзника\n- При Конце Навыка всех использующихся навыков цели в ходу, или если цель Оглушена, или если цель использовала все навыки, использует «Slay the Heavens - Tiansha» Односторонней атакой по цели (Один раз за Личность)\n - Целится в Синклера «Дом Пауков: Ученик Мизинца» в последнюю очередь\n[StartBattle] Получает 3 Счётчика [Breath:`Концентрации`] (Один раз в ход)\n<style=\"highlight\">[OnSucceedEvade] Получает 1 [Breath:`Концентрацию`] (Три раза в ход)</style>",
           "flavor": "\"What you're pursuing is my phantom.\"",
           "coinlist": [
             {}
@@ -3295,16 +3299,16 @@
         {
           "level": 1,
           "name": "Slay the Heavens - Tiansha [天殺]",
-          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\nDeactivates allies' \"Base factors decreasing Sanity\" while using this Skill\n[WhenUse] For this Encounter, lose 1 Offense Level and gain Base Power +1 for this unit's Attacks (4 times per Encounter)\n[TargetKill] Heal 20 SP\n[TargetKill] Gain [RyoshuEGOPF] equal to damage dealt using this Skill",
+          "desc": "[CantDuel]\nЭтот навык не активирует защитные навыки и на этот навык не действуют эффекты повторного использования\nПри использовании этого навыка не активирует «Основные факторы потери рассудка» у союзников\n[WhenUse] +1 к Базовой Силе и -1 Уровень Атаки для атак этого персонажа в этом бою (4 раза за бой)\n[TargetKill] Восстанавливает 20 ПР\n[TargetKill] Получает [RyoshuEGOPF], равное количеству нанесённого урона этим навыком",
           "flavor": "\"*spit* How does that saying go again? That ya gotta venerate your parents like you venerate the very heavens?\"",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 20 [PhantomIncisionID]"
+                  "desc": "[OnSucceedAttack] Накладывает 20 [PhantomIncisionID:`Следов клинка: Послеобраз`](;PhantomIncision)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target is a The House of Spiders ally, deal 120% HP damage as fixed damage"
+                  "desc": "[OnSucceedAttack] Наносит 120% урона по ОЗ чистым уроном, если цель с тегом «Дом Пауков»"
                 }
               ]
             }
@@ -3318,25 +3322,25 @@
         {
           "level": 1,
           "name": "Inevitable Termination [必然殺]",
-          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[WhenUse] Gain +1 [Breath] Count\n[BeforeAttack] If this Skill was triggered by Skill 3,\n- Apply this Skill's Atk Weight equal to the number of enemies that have [SojiRyoshuEchoFuture] (min 1)\n- Prioritize enemies that have [SojiRyoshuEchoFuture]\n[EndSkill] Target's [SojiRyoshuEchoFuture] expires",
+          "desc": "[CantDuel]\nЭтот навык не активирует защитные навыки и на этот навык не действуют эффекты повторного использования\n[WhenUse] Получает 1 Счётчика [Breath:`Концентрации`]\n[BeforeAttack] Если этот навык был вызван 3-м навыком:\n- Масса Атаки этого навыка становится равной количеству противников, имеющих [SojiRyoshuEchoFuture] (Мин. 1)\n- В приоритете противники, имеющие [SojiRyoshuEchoFuture]\n[EndSkill] Эффект [SojiRyoshuEchoFuture] на цели сбрасывается",
           "flavor": "\"Oho... What an ingenious way to use the Dihui Star's Blade, the sword that always leaves a lingering something in its wake. Attacks that are impossible to avoid seem a bit cheap, but... hah! I've got to say, I like that sword!\"",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +30% damage on Critical Hit"
+                  "desc": "Наносит на 30% больше урона при крит. ударе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [PhantomIncisionID]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [PhantomIncisionID:`Следа клинка: Послеобраз`](;PhantomIncision)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhantomIncisionID] equal to [SojiRyoshuEchoPast] on self (max 4)"
+                  "desc": "[OnSucceedAttack] Накладывает [PhantomIncisionID], равные количеству [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable) на себе (Макс. 4)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Combustion] on target. Target loses 1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Вызывает срабатывание [Combustion:`Горения`] на цели, понижая Счётчик [Combustion:`Горения`] цели на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 1 [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Накладывает 1 [SlashTakeDamageUp]"
                 }
               ]
             }
@@ -3350,38 +3354,38 @@
         {
           "level": 3,
           "name": "Rend Space - Echoshear [空間斬 - 殘]",
-          "desc": "[WhenUse] For every [SojiRyoshuEntangle] on self, this Skill loses 1 Base Power and gains an extra Coin 1 before using Coin 2\n[WhenUse] The final Coin gains Coin Power +1 for every [SojiRyoshuEchoPast] on self\n[WhenUse] Deal +50% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Parts)\n[EndSkill] Raise [SojiRyoshuEchoPast]'s Min & Max Stack cap by 1 and reset [SojiRyoshuEchoPast] on self to minimum Stack (max 2 times per Encounter)\n[EndSkill] Consume 50 [PhantomIncisionTotalID]",
+          "desc": "[WhenUse] -1 к Базовой Силе и получает первую Монету за каждое [SojiRyoshuEntangle] на себе перед использованием второй Монеты\n[WhenUse] +1 к Силе Монет последней Монеты за каждое [SojiRyoshuEntangle] на себе\n[WhenUse] Наносит на 50% больше урона за каждую Массу Атаки, превышающую количество целей (Частей в Особых боях)\n[EndSkill] Повышает макс. и мин. Значение [SojiRyoshuEchoPast:`Запутанности`](;TimeEntangleUnstable), устанавливая его на минимальное (Макс. 2 раза за бой)\n[EndSkill] Использует 50 [PhantomIncisionTotalID]",
           "flavor": "\"This indeed paves a new avenue in the field of space-rending techniques.\"\n\"Have you heard? One might think that rending the very fabric of space is the culmination of the Way of the Blade, but the path extends beyond that. Continue training, and one develops their own unique style of doing so. It adds another layer of artistry by leaving an unconventional touch to the universal technique, allowing for the rent to linger or, sometimes, even be reduced into the flash of an instant.\"\n\"It is somewhat of a point of pride for those who walk the Way of the Blade, meaning that it is also a frequent point of contention in the field. Fuhu, it is reminiscent of the days I used to engage in discourse of comparable belligerence with the other Maestros.\"",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Получает 1 Счётчика [Breath:`Концентрации`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Deal +30% damage on Critical Hit"
+                  "desc": "Наносит на 30% больше урона при крит. ударе"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume all [PhantomIncisionID] on target and deal Slash damage equal to ([PhantomIncisionID] consumed / 10)% of this Coin's final damage"
+                  "desc": "[OnSucceedAttack] Использует все [PhantomIncisionID] на цели для дополнительного нанесения Рубящего урона от (Использованных [PhantomIncisionID:`Следов клинка: Послеобраз`](;PhantomIncision) / 10)% окончательного урона этой Монеты"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Deal Slash damage equal to ([SojiRyoshuEchoPast] x 4)% of this Coin's final damage"
+                  "desc": "[CriticalOnSucceedAttack] Дополнительно наносит Рубящий урон от ([SojiRyoshuEchoPast] x 4)% окончательного урона этой Монеты"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Activate [Combustion] on target. Target loses 1 [Combustion] Count"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает срабатывание [Combustion:`Горения`] на цели, понижая Счётчик [Combustion:`Горения`] цели на 1"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Activate [Laceration] on target. Target loses 1 [Laceration] Count"
+                  "desc": "[CriticalOnSucceedAttack] Вызывает срабатывание [Laceration:`Кровотечения`] на цели, понижая Счётчик [Laceration:`Кровотечения`] цели на 1"
                 }
               ]
             }
@@ -3395,23 +3399,23 @@
         {
           "level": 3,
           "name": "Rend Space - String Connection [空間斬 - 緣]",
-          "desc": "[CantDuel]\nThis Skill does not trigger the target's Defense Skills\n[WhenUse] Gain 5 [Breath]\n[WhenUse] Gain [SojiRyoshuShin]\n[EndSkill] Remove this unit's first Stagger Threshold (once per Encounter)",
+          "desc": "[CantDuel]\nЭтот навык не активирует защитные навыки\n[WhenUse] Получает 5 [Breath:`Концентрации`]\n[WhenUse] Получает [SojiRyoshuShin]\n[EndSkill] Убирает первый Порог Оглушения этого персонажа (Один раз за бой)",
           "flavor": "\"Taxidermied and immobilized does the foe lie in the trace the blade has rent in space.\"\n\"Such bladework is oft of utter keenness that its victims know not that they have been hewn; or even if they are somehow cognizant of the fact, they are affixed by a bladetrail that has seized the space they inhabit, only to bleed when the moment passes.\"\n\"Yet... the difference lies in how it cuts.\"\n\"The blade has indeed hewn but a singular trace, yet in sheathing it the wielder has conjured in their mind the multitude of slashes that have followed the same path—a most precise technique.\"\n\"Hm. Oft have I come across techniques such as that slash in the days following the incident, techniques that seem to contradict the very nature of causality.\"",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Combustion]"
+                  "desc": "[OnSucceedAttack] Накладывает 5 [Combustion:`Горения`]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Combustion] on target. Target loses 1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Вызывает срабатывание [Combustion:`Горения`] на цели, понижая Счётчик [Combustion:`Горения`] цели на 1"
                 }
               ]
             }
