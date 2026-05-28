@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking:`Горя`] и 1 Счётчика [Sinking:`Горя`]"
+                  "desc": "[OnSucceedAttack] Накладывает 1 [Sinking:`Горя`] и 1 его Счётчика"
                 }
               ]
             }
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`] и 1 Счётчика [Sinking:`Горя`]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Sinking:`Горя`] и 1 его Счётчика"
                 }
               ]
             }
@@ -970,7 +970,7 @@
         {
           "level": 3,
           "name": "Opportunistic Slash",
-          "desc": "+3 к Силе Монет, если использовавший не получал урон в предыдущем ходу",
+          "desc": "+3 к Силе Монет, если этот персонаж не получал урон в предыдущем ходу",
           "coinlist": [
             {},
             {
@@ -7024,7 +7024,7 @@
         {
           "level": 3,
           "name": "Казнь",
-          "desc": "[EnemyKill] Восстанавливает всем союзникам 10 ПР и накладывает 1 [PenetrateDamageUp] и 1 [HitDamageUp]",
+          "desc": "[EnemyKill] Восстанавливает 10 ПР всем союзникам, накладывая 1 [PenetrateDamageUp] и 1 [HitDamageUp]",
           "coinlist": [
             {
               "coindescs": [
@@ -7052,7 +7052,7 @@
         {
           "level": 4,
           "name": "Казнь",
-          "desc": "[EnemyKill] Восстанавливает всем союзникам 10 ПР и накладывает 1 [PenetrateDamageUp] и 1 [HitDamageUp]",
+          "desc": "[EnemyKill] Восстанавливает 10 ПР всем союзникам, накладывая 1 [PenetrateDamageUp] и 1 [HitDamageUp]",
           "coinlist": [
             {
               "coindescs": [
@@ -9412,7 +9412,7 @@
         {
           "level": 1,
           "name": "Moment's Floral Breeze",
-          "desc": "[StartBattle] Spend 6 [Vibration] Count to turn this into an AoE skill with 3 Atk Weight",
+          "desc": "[StartBattle] Consume 6 [Vibration] Count on self to turn this into an AoE skill with 3 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -9440,7 +9440,7 @@
         {
           "level": 2,
           "name": "Moment's Floral Breeze",
-          "desc": "[StartBattle] Spend 6 [Vibration] Count to turn this into an AoE skill with 3 Atk Weight",
+          "desc": "[StartBattle] Consume 6 [Vibration] Count on self to turn this into an AoE skill with 3 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -9468,7 +9468,7 @@
         {
           "level": 4,
           "name": "Moment's Floral Breeze",
-          "desc": "[StartBattle] Spend 6 [Vibration] Count to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, Coin Power +1",
+          "desc": "[StartBattle] Consume 6 [Vibration] Count on self to turn this into an AoE skill with 3 Atk Weight\nIf main target has 6+ [Sinking] Count, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9501,7 +9501,7 @@
         {
           "level": 1,
           "name": "Bloodsteeped Scent",
-          "desc": "[DefeatDuel] Lose 20 SP\n[WhenUse] Gain 6 [Vibration] Count",
+          "desc": "[DefeatDuel] Lose 20 SP\n[WhenUse] Gain +6 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -9523,7 +9523,7 @@
                   "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause [SinkingSurge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If user has 10+ [Vibration] Count, deal 30% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If this unit has 10+ [Vibration] Count, deal 30% of damage dealt as bonus damage"
                 }
               ]
             }
@@ -9532,7 +9532,7 @@
         {
           "level": 4,
           "name": "Bloodsteeped Scent",
-          "desc": "[DefeatDuel] Lose 20 SP\n[WhenUse] Gain 6 [Vibration] Count",
+          "desc": "[DefeatDuel] Lose 20 SP\n[WhenUse] Gain +6 [Vibration] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -9554,7 +9554,7 @@
                   "desc": "[OnSucceedAttack] If target has 6+ [Sinking], cause [SinkingSurge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If user has 10+ [Vibration] Count, deal 40% of damage dealt as bonus damage"
+                  "desc": "[OnSucceedAttack] If this unit has 10+ [Vibration] Count, deal 40% of damage dealt as bonus damage"
                 }
               ]
             }
@@ -11001,7 +11001,7 @@
         {
           "level": 4,
           "name": "Intuition",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1",
+          "desc": "If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11124,7 +11124,7 @@
         {
           "level": 4,
           "name": "Forensics",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1",
+          "desc": "If target has 6+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11207,7 +11207,7 @@
         {
           "level": 2,
           "name": "Predictive Analysis",
-          "desc": "If target has 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1",
+          "desc": "If target has 3+ [Burst], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11267,7 +11267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict [WeaknessAnalysis] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict [WeaknessAnalysis] next turn"
                 }
               ]
             }
@@ -11276,7 +11276,7 @@
         {
           "level": 2,
           "name": "Dissect Target",
-          "desc": "If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count",
+          "desc": "If target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict +3 [Burst] Count",
           "coinlist": [
             {
               "coindescs": [
@@ -11289,7 +11289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict [WeaknessAnalysis] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict [WeaknessAnalysis] next turn"
                 }
               ]
             }
@@ -11311,7 +11311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, inflict [WeaknessAnalysis] next turn"
+                  "desc": "[OnSucceedAttack] If target has 6+ [Burst], inflict [WeaknessAnalysis] next turn"
                 }
               ]
             }
