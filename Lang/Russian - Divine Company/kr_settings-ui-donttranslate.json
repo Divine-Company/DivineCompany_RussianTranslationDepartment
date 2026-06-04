@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "mainui_settings_game",
-      "content": "General"
+      "content": "Общие"
     },
     {
       "id": "mainui_settings_graphic",
-      "content": "Graphics"
+      "content": "Видео"
     },
     {
       "id": "mainui_settings_sound",
-      "content": "Audio"
+      "content": "Звук"
     },
     {
       "id": "mainui_settings_notice",
@@ -18,7 +18,7 @@
     },
     {
       "id": "mainui_settings_etc",
-      "content": "Misc."
+      "content": "Прочее"
     },
     {
       "id": "mainui_settings_download",
@@ -46,11 +46,11 @@
     },
     {
       "id": "mainui_settings_on",
-      "content": "On"
+      "content": "Вкл"
     },
     {
       "id": "mainui_settings_off",
-      "content": "Off"
+      "content": "Выкл"
     },
     {
       "id": "mainui_settings_play_once_per_day",
@@ -58,19 +58,19 @@
     },
     {
       "id": "mainui_settings_resolution",
-      "content": "Resolution"
+      "content": "Разрешение"
     },
     {
       "id": "mainui_settings_resolution_windowded",
-      "content": "Windowed"
+      "content": "В окне"
     },
     {
       "id": "mainui_settings_resolution_fullscreen",
-      "content": "Fullscreen"
+      "content": "Полный экран"
     },
     {
       "id": "mainui_settings_texquality",
-      "content": "Texture Quality"
+      "content": "Качество текстур"
     },
     {
       "id": "mainui_settings_resolution_warning",
@@ -82,27 +82,27 @@
     },
     {
       "id": "mainui_settings_low",
-      "content": "Low"
+      "content": "Низкое"
     },
     {
       "id": "mainui_settings_middle",
-      "content": "Medium"
+      "content": "Среднее"
     },
     {
       "id": "mainui_settings_high",
-      "content": "High"
+      "content": "Высокое"
     },
     {
       "id": "mainui_settings_postprocessing",
-      "content": "Post-processing"
+      "content": "Постобработка"
     },
     {
       "id": "mainui_settings_ppon",
-      "content": "On"
+      "content": "Включено"
     },
     {
       "id": "mainui_settings_ppoff",
-      "content": "Off"
+      "content": "Выключено"
     },
     {
       "id": "mainui_settings_ppdesc",
@@ -114,7 +114,7 @@
     },
     {
       "id": "mainui_settings_clear",
-      "content": "Reset"
+      "content": "Сбросить"
     },
     {
       "id": "mainui_settings_clear_ask",
@@ -154,23 +154,23 @@
     },
     {
       "id": "mainui_settings_change_launguage",
-      "content": "Language"
+      "content": "Язык игры"
     },
     {
       "id": "mainui_settings_change_launguage_ask",
-      "content": "Language changes apply after restarting the game."
+      "content": "Смена языка произойдёт после перезапуска игры."
     },
     {
       "id": "mainui_settings_faq_btn",
-      "content": "Customer Service"
+      "content": "Служба поддержки"
     },
     {
       "id": "connect_to_google_account",
-      "content": "Link with Google"
+      "content": "Привязать Google"
     },
     {
       "id": "connect_to_apple_account",
-      "content": "Link with Apple"
+      "content": "Привязать Apple"
     },
     {
       "id": "explain_sucession",
@@ -206,19 +206,19 @@
     },
     {
       "id": "account_secede",
-      "content": "Close Account"
+      "content": "Удаление учетной записи"
     },
     {
       "id": "connected_accounts",
-      "content": "Linked Accounts"
+      "content": "Привязанные учетные записи"
     },
     {
       "id": "mainui_settings_bloom",
-      "content": "Bloom"
+      "content": "Свечение"
     },
     {
       "id": "mainui_settings_blur",
-      "content": "Blur"
+      "content": "Размытие"
     },
     {
       "id": "mainui_settings_bloomdesc",
