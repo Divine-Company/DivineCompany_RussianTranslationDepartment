@@ -1935,7 +1935,6 @@
       "desc": "이스터 - 거던(히든) - 렌 조우 시",
       "dlg": "... A stranger with a familiar form. But how? Our threads have never been entangled."
     },
-
     {
       "id": "battle_s3_10415_1",
       "desc": "",
@@ -2010,6 +2009,1416 @@
       "id": "battle_special_10415_11",
       "desc": "",
       "dlg": "У меня больше ничего не осталось, чтобы продолжать изливать свою ярость... Ничего, кроме болезненного чувства обиды."
+    },
+    {
+      "id": "battle_s3_11115_1_1",
+      "desc": "",
+      "dlg": "These toys..."
+    },
+    {
+      "id": "battle_s3_11115_1_2",
+      "desc": "",
+      "dlg": "... ain't fun..."
+    },
+    {
+      "id": "battle_s3_11115_1_3",
+      "desc": "",
+      "dlg": "... no more!"
+    },
+    {
+      "id": "battle_special_11115_1",
+      "desc": "",
+      "dlg": "C'mere!"
+    },
+    {
+      "id": "battle_special_11115_2_2",
+      "desc": "",
+      "dlg": "Be warned, it's gonna be hot!"
+    },
+    {
+      "id": "battle_special_11115_2_3",
+      "desc": "",
+      "dlg": "Hot as hell!"
+    },
+    {
+      "id": "battle_special_11115_3",
+      "desc": "",
+      "dlg": "Bullseye!"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "",
+      "dlg": "Appreciate the effort—Now I'm down to unboxing a layer for this fight!"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "",
+      "dlg": "Hahaha! Hell yeah!"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "",
+      "dlg": "Keep those eyes open and watch closely!"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "",
+      "dlg": "*sigh* Not even gonna write that down. That's a summary execution!"
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "",
+      "dlg": "Hell yeah! That's the way, Kiddo!"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "",
+      "dlg": "Remember, Kiddo?"
+    },
+    {
+      "id": "battle_special_11115_9_01",
+      "desc": "",
+      "dlg": "We're <i>family</i>. A little sacrifice ain't a thing between us!"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "",
+      "dlg": "All for the family!"
+    },
+    {
+      "id": "battle_special_10613_1",
+      "desc": "",
+      "dlg": "Beasts! Open my path!"
+    },
+    {
+      "id": "battle_turn_start_10613_1",
+      "desc": "",
+      "dlg": "Heed my command, twelve branches of beasts. Let none who breathes before me live to see tomorrow."
+    },
+    {
+      "id": "battle_return_10613_1",
+      "desc": "",
+      "dlg": "Rip apart my foes; demonstrate to me your worth."
+    },
+    {
+      "id": "battle_order_attack_10613_1",
+      "desc": "",
+      "dlg": "Carve out the rotten parasites!"
+    },
+    {
+      "id": "battle_turn_end_10613_1",
+      "desc": "",
+      "dlg": "Retreat. Your life is needed elsewhere."
+    },
+    {
+      "id": "battle_order_defense_10613_1",
+      "desc": "",
+      "dlg": "Obey the command and defend Hongyuan. "
+    },
+    {
+      "id": "battle_noneready_10613_1",
+      "desc": "",
+      "dlg": "We have backed ourselves against a river."
+    },
+    {
+      "id": "battle_noneready_10613_1",
+      "desc": "",
+      "dlg": "You may not retreat. Not until this foe is felled."
+    },
+    {
+      "id": "battle_nonedead_10613_1",
+      "desc": "",
+      "dlg": "I refuse to kneel before this mere... tarnished blood..."
+    },
+    {
+      "id": "battle_nonedead_10613_1-01",
+      "desc": "",
+      "dlg": "Tarnished may his blood become, but the Lord shall not perish."
+    },
+    {
+      "id": "battle_undead_10613_1",
+      "desc": "",
+      "dlg": "He who is noble shall not perish (君子不死)!"
+    },
+    {
+      "id": "battle_undead_10613_1-01",
+      "desc": "",
+      "dlg": "O Death... Elude me once more! Elude me until I have conveyed my will to the world!"
+    },
+    {
+      "id": "battle_s3_11104_1-01",
+      "desc": "",
+      "dlg": "All within prediction!"
+    },
+    {
+      "id": "battle_s3_11005_1_2-03",
+      "desc": "",
+      "dlg": "I'll strip it off clean."
+    },
+    {
+      "id": "battle_s3_10705_1_1",
+      "desc": "",
+      "dlg": "Spread out!"
+    },
+    {
+      "id": "battle_s3_10104_1_4",
+      "desc": "",
+      "dlg": "Bloom."
+    },
+    {
+      "id": "battle_s3_11006_1_2-03",
+      "desc": "",
+      "dlg": "As willed!"
+    },
+    {
+      "id": "battle_s3_10506_1_1",
+      "desc": "",
+      "dlg": "Goring them!"
+    },
+    {
+      "id": "battle_s3_10305_1_3",
+      "desc": "",
+      "dlg": "Thou mayest rest."
+    },
+    {
+      "id": "battle_s3_11206_1_1_03_1",
+      "desc": "",
+      "dlg": "That's close enough."
+    },
+    {
+      "id": "battle_s3_10206_1_1",
+      "desc": "",
+      "dlg": "Analysis..."
+    },
+    {
+      "id": "battle_s3_10206_1_2",
+      "desc": "",
+      "dlg": "Complete."
+    },
+    {
+      "id": "battle_s3_11207_1_01",
+      "desc": "",
+      "dlg": "Lemme blast that arm off of you."
+    },
+    {
+      "id": "battle_s3_10306_1_1",
+      "desc": "",
+      "dlg": "One crossed off the list."
+    },
+    {
+      "id": "battle_s3_10707_1",
+      "desc": "",
+      "dlg": "Heart, stopped beating."
+    },
+    {
+      "id": "battle_s3_11008_1-02",
+      "desc": "",
+      "dlg": "The point has already met its destination."
+    },
+    {
+      "id": "battle_s3_10608_1_1-02",
+      "desc": "",
+      "dlg": "I...!"
+    },
+    {
+      "id": "battle_s3_10608_1_1-03",
+      "desc": "",
+      "dlg": "I...!"
+    },
+    {
+      "id": "battle_s3_10608_1_1",
+      "desc": "",
+      "dlg": "I...!"
+    },
+    {
+      "id": "battle_s3_10608_1_3-01",
+      "desc": "",
+      "dlg": "I will unlock you myself!"
+    },
+    {
+      "id": "battle_s3_10608_1_3-02",
+      "desc": "",
+      "dlg": "I will unlock you myself!"
+    },
+    {
+      "id": "battle_s3_10608_1_3-03",
+      "desc": "",
+      "dlg": "I will unlock you myself!"
+    },
+    {
+      "id": "battle_special_10808_2",
+      "desc": "",
+      "dlg": "Defend me, my sailors!"
+    },
+    {
+      "id": "battle_special_10808_1-03",
+      "desc": "",
+      "dlg": "Hah, track 'em down!"
+    },
+    {
+      "id": "battle_s3_10808_1_1-01",
+      "desc": "",
+      "dlg": "Behold...!"
+    },
+    {
+      "id": "battle_s3_10808_1_2",
+      "desc": "",
+      "dlg": "The fatal determination!"
+    },
+    {
+      "id": "battle_s3_10808_1_3-01",
+      "desc": "",
+      "dlg": "Fuels this harpoon!"
+    },
+    {
+      "id": "battle_s3_10808_1_2-01",
+      "desc": "",
+      "dlg": "The fatal determination!"
+    },
+    {
+      "id": "battle_s3_10808_1_3-01",
+      "desc": "",
+      "dlg": "Fuels this harpoon!"
+    },
+    {
+      "id": "battle_s3_10808_1_3",
+      "desc": "",
+      "dlg": "Fuels this harpoon!"
+    },
+    {
+      "id": "battle_s3_10508_1_4-03",
+      "desc": "",
+      "dlg": "To Claim Their Bones!"
+    },
+    {
+      "id": "battle_s3_10708_1_1",
+      "desc": "",
+      "dlg": "This is the Öufi's legitimate exercise of force."
+    },
+    {
+      "id": "battle_s3_10408_1_1_4",
+      "desc": "",
+      "dlg": "I'll send you into eternal sleep."
+    },
+    {
+      "id": "battle_special_10408_1",
+      "desc": "",
+      "dlg": "Hah...! An animal that bites the hand that fed it..."
+    },
+    {
+      "id": "battle_s3_11109_1_2-02",
+      "desc": "",
+      "dlg": "Acceptable."
+    },
+    {
+      "id": "battle_s3_10710_1_1_txt-01",
+      "desc": "",
+      "dlg": "Perish within the gaol of your regrets!"
+    },
+    {
+      "id": "battle_s3_10910_1_1-01",
+      "desc": "",
+      "dlg": "Polu! Back me up a bit!\n[Output increase request acknowledged.]"
+    },
+    {
+      "id": "battle_special_10910_1",
+      "desc": "",
+      "dlg": "Phew. Gotta pull back for now. This trunk's gonna kill me if I push it too hard..."
+    },
+    {
+      "id": "battle_special_10910_3",
+      "desc": "",
+      "dlg": "Whew. At least I got myself another chance..."
+    },
+    {
+      "id": "battle_s3_10810_1_4-01",
+      "desc": "",
+      "dlg": "The Best Defense!"
+    },
+    {
+      "id": "battle_s3_10511_1_1",
+      "desc": "",
+      "dlg": "Now for the climax."
+    },
+    {
+      "id": "battle_s4_11010_3-02",
+      "desc": "",
+      "dlg": "Greatsword... Guard!"
+    },
+    {
+      "id": "battle_s3_11111_1_1-03",
+      "desc": "",
+      "dlg": "Look forward to it!"
+    },
+    {
+      "id": "battle_s3_11011_1_4",
+      "desc": "",
+      "dlg": "Move! Otherwise..."
+    },
+    {
+      "id": "battle_s3_11011_1_4-1",
+      "desc": "",
+      "dlg": "You'll get hurt!"
+    },
+    {
+      "id": "battle_special_11011_1",
+      "desc": "",
+      "dlg": "J-just a moment, please! Let's pick this up after a breather."
+    },
+    {
+      "id": "battle_special_11011_2",
+      "desc": "",
+      "dlg": "I'm not running late yet, am I...?"
+    },
+    {
+      "id": "battle_s3_11211_1_3-02",
+      "desc": "",
+      "dlg": "GRAHHHHHH!!!"
+    },
+    {
+      "id": "battle_s3_11211_1_3",
+      "desc": "",
+      "dlg": "GRAHHHHHH!!!"
+    },
+    {
+      "id": "battle_s3_11211_1_3-01",
+      "desc": "",
+      "dlg": "GRAHHHHHH!!!"
+    },
+    {
+      "id": "battle_s3_10411_1_4-04",
+      "desc": "",
+      "dlg": "Windpipe slit."
+    },
+    {
+      "id": "battle_s3_11112_1_3-01",
+      "desc": "",
+      "dlg": "Sink into shadows."
+    },
+    {
+      "id": "battle_s3_11012_1_3-02",
+      "desc": "",
+      "dlg": "Hurts, doesn't it?"
+    },
+    {
+      "id": "battle_s3_10612_1",
+      "desc": "",
+      "dlg": "Nngh... Move outta my way unless you wanna get caught in it...!"
+    },
+    {
+      "id": "battle_s3_10912_1_3",
+      "desc": "",
+      "dlg": "Too far for you? Close enough... for me!"
+    },
+    {
+      "id": "battle_s3_11212_1_3",
+      "desc": "",
+      "dlg": "Not from there—you guessed wrong!"
+    },
+    {
+      "id": "battle_s3_10212_1_2",
+      "desc": "",
+      "dlg": "Hew through the opening."
+    },
+    {
+      "id": "battle_s3_10212_1_2-01",
+      "desc": "",
+      "dlg": "To rectify."
+    },
+    {
+      "id": "battle_s3_11013_1_1",
+      "desc": "",
+      "dlg": "Propelled... firepower!"
+    },
+    {
+      "id": "battle_s0_11013_1",
+      "desc": "",
+      "dlg": "Here to supply ammunition."
+    },
+    {
+      "id": "battle_s3_10113_1_3",
+      "desc": "",
+      "dlg": "Be still—through you, I shall fire."
+    },
+    {
+      "id": "battle_s2_10312_1_2-02",
+      "desc": "",
+      "dlg": "With love!"
+    },
+    {
+      "id": "battle_s2_10312_1_3",
+      "desc": "",
+      "dlg": "In the name of justice!"
+    },
+    {
+      "id": "battle_s3_10312_1_4",
+      "desc": "",
+      "dlg": "Arcana Beats!"
+    },
+    {
+      "id": "battle_s3_10312_1_3",
+      "desc": "",
+      "dlg": "<i>ARCANA... SLAVE!</i>"
+    },
+    {
+      "id": "battle_s2_hysteric_10312_1_2",
+      "desc": "",
+      "dlg": "In the name of love and justice... ha."
+    },
+    {
+      "id": "battle_s3_hysteric_10312_1_4",
+      "desc": "",
+      "dlg": "*sigh* Arcana Beats."
+    },
+    {
+      "id": "battle_s3_hysteric_10312_1_3-02",
+      "desc": "",
+      "dlg": "Begone...! Ngh, agh..."
+    },
+    {
+      "id": "battle_s2_11113_1_2",
+      "desc": "",
+      "dlg": "Accelerating!"
+    },
+    {
+      "id": "battle_s2_11113_1_2-01",
+      "desc": "",
+      "dlg": "Accelerating!"
+    },
+    {
+      "id": "battle_s3_11113_1_1",
+      "desc": "",
+      "dlg": "Full release..."
+    },
+    {
+      "id": "battle_s3_11113_1_2",
+      "desc": "",
+      "dlg": "Executing!"
+    },
+    {
+      "id": "battle_s3-1_10613_1_1",
+      "desc": "",
+      "dlg": "I shall decapitate you myself."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6-01",
+      "desc": "",
+      "dlg": "Hares shall pursue."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8-01",
+      "desc": "",
+      "dlg": "Serpents shall impale."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9-01",
+      "desc": "",
+      "dlg": "Steeds shall bulwark."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12-01",
+      "desc": "",
+      "dlg": "Roosters shall assail."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10-01",
+      "desc": "",
+      "dlg": "Sheep shall shatter."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6-02",
+      "desc": "",
+      "dlg": "Hare."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8-02",
+      "desc": "",
+      "dlg": "Serpent."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9-02",
+      "desc": "",
+      "dlg": "Steed."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12-02",
+      "desc": "",
+      "dlg": "Rooster."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10-02",
+      "desc": "",
+      "dlg": "Sheep."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6",
+      "desc": "",
+      "dlg": "Heed me, Mao (卯)."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8",
+      "desc": "",
+      "dlg": "Heed me, Si (蛇)."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9",
+      "desc": "",
+      "dlg": "Heed me, Wu (午)."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12",
+      "desc": "",
+      "dlg": "Heed me, You (酉)."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10",
+      "desc": "",
+      "dlg": "Heed me, Wei (未)."
+    },
+    {
+      "id": "battle_s3-2_10613_1_2",
+      "desc": "",
+      "dlg": "Heed me, Beasts."
+    },
+    {
+      "id": "battle_s3-2_10613_1_1",
+      "desc": "",
+      "dlg": "Open my path."
+    },
+    {
+      "id": "battle_s3-2_10613_1_2-02",
+      "desc": "",
+      "dlg": "Open my path."
+    },
+    {
+      "id": "battle_s2_10613_1_1",
+      "desc": "",
+      "dlg": "I shall show you myself..."
+    },
+    {
+      "id": "battle_s2_10613_1_5",
+      "desc": "",
+      "dlg": "... How I have culled Daguanyuan."
+    },
+    {
+      "id": "battle_s3_10114_1_1",
+      "desc": "",
+      "dlg": "Leap upon the first."
+    },
+    {
+      "id": "battle_s3_10114_1_2",
+      "desc": "",
+      "dlg": "And the second."
+    },
+    {
+      "id": "battle_s3_10114_1_3",
+      "desc": "",
+      "dlg": "Break and surmount them."
+    },
+    {
+      "id": "battle_s3_10114_1_1-01",
+      "desc": "",
+      "dlg": "Leap upon the first."
+    },
+    {
+      "id": "battle_s3_10114_1_2-01",
+      "desc": "",
+      "dlg": "Thrice overcome."
+    },
+    {
+      "id": "battle_s3_10114_1_3-01",
+      "desc": "",
+      "dlg": "Overcome innumerability itself."
+    },
+    {
+      "id": "battle_s3_10114_1_4",
+      "desc": "",
+      "dlg": "Break and surmount them all!"
+    },
+    {
+      "id": "battle_special_10114_1",
+      "desc": "",
+      "dlg": "... It is I, Yi Sang. Odd may be my appearance, yet Yi Sang I remain. It is I, Little Miss—the guard who galloped with you toward your ideal."
+    },
+    {
+      "id": "battle_special_10114_2",
+      "desc": "",
+      "dlg": "Run ahead of me, Little Miss. For you, such an endeavor is well within the realm of possibility."
+    },
+    {
+      "id": "battle_special_10114_3",
+      "desc": "",
+      "dlg": "I have endured it all."
+    },
+    {
+      "id": "battle_special_10114_4",
+      "desc": "",
+      "dlg": "Doors upon doors of structures shall I break through!"
+    },
+    {
+      "id": "battle_s3_11014_1_6-02",
+      "desc": "",
+      "dlg": "Spark, Bloodflame Blade!"
+    },
+    {
+      "id": "battle_s3_11014_1_5",
+      "desc": "",
+      "dlg": "More!"
+    },
+    {
+      "id": "battle_s3_11014_1_7-01",
+      "desc": "",
+      "dlg": "More, more, more!"
+    },
+    {
+      "id": "battle_s3_11014_1_3",
+      "desc": "",
+      "dlg": "Relentlessly."
+    },
+    {
+      "id": "battle_s3_11014_1_4-01",
+      "desc": "",
+      "dlg": "Spark, Bloodflame Blade."
+    },
+    {
+      "id": "battle_special_10412_4_A",
+      "desc": "",
+      "dlg": "A shower of blood is coming."
+    },
+    {
+      "id": "battle_s3_10412_1_1",
+      "desc": "",
+      "dlg": "Beneath the shroud of Awe lies..."
+    },
+    {
+      "id": "battle_s3_10412_1_4",
+      "desc": "",
+      "dlg": "... The crimson Contempt."
+    },
+    {
+      "id": "battle_s3_10412_1_4-01",
+      "desc": "",
+      "dlg": "... The crimson Contempt."
+    },
+    {
+      "id": "battle_special_10412_1",
+      "desc": "",
+      "dlg": "Is this one next? Let me lend you a hand."
+    },
+    {
+      "id": "battle_special_10412_2",
+      "desc": "",
+      "dlg": "Letting your bullet strike me would indeed be an art of some kind..."
+    },
+    {
+      "id": "battle_special_10412_2-01",
+      "desc": "",
+      "dlg": "But now's not yet the time to release our posthumous collaboration piece."
+    },
+    {
+      "id": "battle_special_10412_3",
+      "desc": "",
+      "dlg": "Letting your bullet strike me would indeed be an art of some kind... *puff*"
+    },
+    {
+      "id": "battle_special_10412_4_B",
+      "desc": "",
+      "dlg": "Don't let the gaze blind you."
+    },
+    {
+      "id": "battle_s3_10311_1_3-04",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-03",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-02",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-01",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10213_1_4",
+      "desc": "",
+      "dlg": "This time, they will be cloven."
+    },
+    {
+      "id": "battle_s3_10213_1_4-01",
+      "desc": "",
+      "dlg": "This time, they will be cloven."
+    },
+    {
+      "id": "battle_s3_10213_1_4-02",
+      "desc": "",
+      "dlg": "This time, they will be cloven."
+    },
+    {
+      "id": "battle_special_10213_1",
+      "desc": "",
+      "dlg": "This arrow will strike true."
+    },
+    {
+      "id": "battle_special_10213_3",
+      "desc": "",
+      "dlg": "One arrow to sever a life (一射絶命)."
+    },
+    {
+      "id": "battle_s3_10813_1_1",
+      "desc": "",
+      "dlg": "The Third Moon."
+    },
+    {
+      "id": "battle_s3_10813_1_4",
+      "desc": "",
+      "dlg": "Sakura (櫻花)! "
+    },
+    {
+      "id": "battle_special_10813_1",
+      "desc": "",
+      "dlg": "Hah, this round's a bust... Next."
+    },
+    {
+      "id": "battle_special_10813_2",
+      "desc": "",
+      "dlg": "Sankō (三光)!"
+    },
+    {
+      "id": "battle_special_10813_3",
+      "desc": "",
+      "dlg": "Tsk. And the \"Rain\" comes pouring down."
+    },
+    {
+      "id": "battle_special_10813_3-01",
+      "desc": "",
+      "dlg": "Ameshikō (雨四光)!"
+    },
+    {
+      "id": "battle_special_10813_4",
+      "desc": "",
+      "dlg": "Crane."
+    },
+    {
+      "id": "battle_special_10813_5",
+      "desc": "",
+      "dlg": "Cherry Blossom."
+    },
+    {
+      "id": "battle_special_10813_6",
+      "desc": "",
+      "dlg": "Willow and Rain..."
+    },
+    {
+      "id": "battle_special_10813_7",
+      "desc": "",
+      "dlg": "Gokō (五光)!"
+    },
+    {
+      "id": "battle_s3_11213_1_4",
+      "desc": "",
+      "dlg": "You were full of openings."
+    },
+    {
+      "id": "battle_s3_11213_1_4-01",
+      "desc": "",
+      "dlg": "You were full of openings."
+    },
+    {
+      "id": "battle_s3_11213_1_5",
+      "desc": "",
+      "dlg": "Stiletto...!"
+    },
+    {
+      "id": "battle_s3_11213_1_5-01",
+      "desc": "",
+      "dlg": "Stiletto...!"
+    },
+    {
+      "id": "battle_special_11213_1",
+      "desc": "",
+      "dlg": "Broken form, hmm?"
+    },
+    {
+      "id": "battle_special_11213_1-01",
+      "desc": "",
+      "dlg": "So sloppy."
+    },
+    {
+      "id": "battle_special_11213_2",
+      "desc": "",
+      "dlg": "Be grateful for this mercy."
+    },
+    {
+      "id": "battle_special_11213_3",
+      "desc": "",
+      "dlg": "Eyes."
+    },
+    {
+      "id": "battle_special_11213_4",
+      "desc": "",
+      "dlg": "Throat."
+    },
+    {
+      "id": "battle_special_11213_5",
+      "desc": "",
+      "dlg": "Heart."
+    },
+    {
+      "id": "battle_special_11213_7",
+      "desc": "",
+      "dlg": "Your undefended gaps..."
+    },
+    {
+      "id": "battle_special_11213_8",
+      "desc": "",
+      "dlg": "I'll run right through them!"
+    },
+    {
+      "id": "battle_s3_10313_1_4",
+      "desc": "",
+      "dlg": "Khhh...! C-crush...!"
+    },
+    {
+      "id": "battle_s3_10714_1_1",
+      "desc": "",
+      "dlg": "Bloodtalons, conflagrate (血爪炎化)!"
+    },
+    {
+      "id": "battle_special_10714_1",
+      "desc": "",
+      "dlg": "Bloody hell, thought I was goin' bonkers keepin' that down... heh heh. Kill 'em all!"
+    },
+    {
+      "id": "battle_special_10714_2",
+      "desc": "",
+      "dlg": "Bloodtalons, conflagrate (血爪炎化)!"
+    },
+    {
+      "id": "battle_special_10714_2-01",
+      "desc": "",
+      "dlg": "Hahaha!"
+    },
+    {
+      "id": "battle_special_10714_2-02",
+      "desc": "",
+      "dlg": "Rooster's Rampaging Blades Under the Ensanguined Heaven (血天下鷄舞亂刀)!"
+    },
+    {
+      "id": "battle_special_10714_3",
+      "desc": "",
+      "dlg": "Flame Rooster's Death Defiance (炎鳥不死戰)... Hah...! I really thought this was it for me... Ya hear me?!"
+    },
+    {
+      "id": "battle_s3_10413_1_3",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-01",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-02",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-03",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_special_10413_1",
+      "desc": "",
+      "dlg": "Get behind me."
+    },
+    {
+      "id": "battle_special_10413_1-01",
+      "desc": "",
+      "dlg": "Get behind me."
+    },
+    {
+      "id": "battle_special_10413_1-02",
+      "desc": "",
+      "dlg": "Whirlwind (回風)!"
+    },
+    {
+      "id": "battle_special_10413_1-03",
+      "desc": "",
+      "dlg": "Whirlwind (回風)!"
+    },
+    {
+      "id": "battle_special_10413_2",
+      "desc": "",
+      "dlg": "The Lord of Hongyuan, you say? Hah... That so? If what you say is true, then this time..."
+    },
+    {
+      "id": "battle_special_10413_3",
+      "desc": "",
+      "dlg": "I won't let you die, no matter what it takes."
+    },
+    {
+      "id": "battle_s3_10914_1_4",
+      "desc": "",
+      "dlg": "Ahaha... Aren't the fireworks so pretty?"
+    },
+    {
+      "id": "battle_s3_11114_1_1-01-1",
+      "desc": "",
+      "dlg": "Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4",
+      "desc": "",
+      "dlg": "Bar entry. Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4-01",
+      "desc": "",
+      "dlg": "Bar entry."
+    },
+    {
+      "id": "battle_s3_11114_1_4-02",
+      "desc": "",
+      "dlg": "Bar entry. Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4-03",
+      "desc": "",
+      "dlg": "Bar entry. Fire!"
+    },
+    {
+      "id": "battle_special_11114_1",
+      "desc": "",
+      "dlg": "Weakness reinforced."
+    },
+    {
+      "id": "battle_special_11114_2",
+      "desc": "",
+      "dlg": "Activate tactical vision—the Udjat."
+    },
+    {
+      "id": "battle_special_11114_3",
+      "desc": "",
+      "dlg": "Enemy impeded."
+    },
+    {
+      "id": "battle_special_11114_4",
+      "desc": "",
+      "dlg": "Reloading."
+    },
+    {
+      "id": "battle_s3_10214_1_4",
+      "desc": "",
+      "dlg": "... Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-01",
+      "desc": "",
+      "dlg": "... Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-02",
+      "desc": "",
+      "dlg": "... Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-03",
+      "desc": "",
+      "dlg": "... Fulfilled."
+    },
+    {
+      "id": "battle_s3_10214_1_4-04",
+      "desc": "",
+      "dlg": "... Fulfilled."
+    },
+    {
+      "id": "battle_special_10214_1",
+      "desc": "",
+      "dlg": "We simply obey our Prescript."
+    },
+    {
+      "id": "battle_special_10214_2",
+      "desc": "",
+      "dlg": "I need not see to sense the Will that guides me."
+    },
+    {
+      "id": "battle_special_10214_3",
+      "desc": "",
+      "dlg": "Life and death all follow the plan of the Prescript. I have no fear."
+    },
+    {
+      "id": "battle_special_10214_4",
+      "desc": "",
+      "dlg": "As the Prescript orders..."
+    },
+    {
+      "id": "battle_special_10214_5",
+      "desc": "",
+      "dlg": "It was by the Will of the Prescript. You need not rue this."
+    },
+    {
+      "id": "battle_s3_10314_1_4",
+      "desc": "",
+      "dlg": "*beep* Th-thou hast never been kind."
+    },
+    {
+      "id": "battle_special_10314_1",
+      "desc": "",
+      "dlg": "The Prescript hath no uncertainties."
+    },
+    {
+      "id": "battle_special_10314_2",
+      "desc": "",
+      "dlg": "Inevitable."
+    },
+    {
+      "id": "battle_special_10314_2-01",
+      "desc": "",
+      "dlg": "Absolute."
+    },
+    {
+      "id": "battle_special_10314_3",
+      "desc": "",
+      "dlg": "Decide. Unlock. Transcend."
+    },
+    {
+      "id": "battle_special_10314_4",
+      "desc": "",
+      "dlg": "Let the future be like the past."
+    },
+    {
+      "id": "battle_special_10314_5",
+      "desc": "",
+      "dlg": "Unlock the Will."
+    },
+    {
+      "id": "battle_special_10314_6",
+      "desc": "",
+      "dlg": "The procuration hath been done."
+    },
+    {
+      "id": "battle_special_10314_7",
+      "desc": "",
+      "dlg": "'Tis destined death."
+    },
+    {
+      "id": "battle_s3_10814_1_1",
+      "desc": "",
+      "dlg": "Ult time, right?"
+    },
+    {
+      "id": "battle_s3_10814_1_1-01",
+      "desc": "",
+      "dlg": "Ult time, right?"
+    },
+    {
+      "id": "battle_s3_10814_1_2",
+      "desc": "",
+      "dlg": "Take my ultimate move! Violet~ Breaking Slam!!!"
+    },
+    {
+      "id": "battle_s3_10814_1_3",
+      "desc": "",
+      "dlg": "Eep, wait, maybe not... Oh, well. Anyway, Slam!!!"
+    },
+    {
+      "id": "battle_special_10814_1",
+      "desc": "",
+      "dlg": "Caught ya starin'. Yeah I know, mama's a badass."
+    },
+    {
+      "id": "battle_special_10814_2",
+      "desc": "",
+      "dlg": "Mine's not as good as Mama's, but I can also slice and sizzle at the same time."
+    },
+    {
+      "id": "battle_special_10814_3",
+      "desc": "",
+      "dlg": "Rage Meter MAX...!"
+    },
+    {
+      "id": "battle_special_10814_4",
+      "desc": "",
+      "dlg": "Huh? You stayed put at the House of Spiders all day? Okay, then didya check out <i>The Cloudburst Blade</i> I told ya about? Hey, wait! Where are you going?!"
+    },
+    {
+      "id": "battle_special_10814_5",
+      "desc": "",
+      "dlg": "Mama's the sickest badass ever!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-02",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-03",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-04",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-05",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-06",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-07",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-02",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-03",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-04",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-05",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-06",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-07",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_3",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-01",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-02",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-03",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s3_11214_1_5",
+      "desc": "",
+      "dlg": "I will brighten the road ahead, so I can have a good view of the lives I must save."
+    },
+    {
+      "id": "battle_s3_11214_1_6",
+      "desc": "",
+      "dlg": "Ngh... I see with such clarity... the life I must save!"
+    },
+    {
+      "id": "battle_special_11214_1",
+      "desc": "",
+      "dlg": "Come here. I’ll watch over you."
+    },
+    {
+      "id": "battle_s2_11015_1_4",
+      "desc": "",
+      "dlg": "Arc for the blade, in my sight."
+    },
+    {
+      "id": "battle_s2_11015_1_4-01",
+      "desc": "",
+      "dlg": "Arc for the blade, in my sight."
+    },
+    {
+      "id": "battle_s2_11015_1_4-02",
+      "desc": "",
+      "dlg": "Arc for the blade, in my sight."
+    },
+    {
+      "id": "battle_s2_11015_1_6",
+      "desc": "",
+      "dlg": "Twinslash."
+    },
+    {
+      "id": "battle_s2_11015_1_6-01",
+      "desc": "",
+      "dlg": "Twinslash."
+    },
+    {
+      "id": "battle_s2_11015_1_6-02",
+      "desc": "",
+      "dlg": "Twinslash."
+    },
+    {
+      "id": "battle_s2_11015_1_7",
+      "desc": "",
+      "dlg": "Tripleslash. Dispatched."
+    },
+    {
+      "id": "battle_s2_11015_1_7-01",
+      "desc": "",
+      "dlg": "Tripleslash. Dispatched."
+    },
+    {
+      "id": "battle_s2_11015_1_7-02",
+      "desc": "",
+      "dlg": "Tripleslash. Dispatched."
+    },
+    {
+      "id": "battle_s3_11015_1_5",
+      "desc": "",
+      "dlg": "Muffle all sound, hold all breath..."
+    },
+    {
+      "id": "battle_s3_11015_1_6",
+      "desc": "",
+      "dlg": "Drive the blade into that momentary glimpse of the gap..."
+    },
+    {
+      "id": "battle_s3_11015_1_7",
+      "desc": "",
+      "dlg": "This is the blade that beheads in a flash. Bear witness."
+    },
+    {
+      "id": "battle_s3_11015_1_8",
+      "desc": "",
+      "dlg": "... And so the moon waxes full."
+    },
+    {
+      "id": "battle_s3_11215_1_3",
+      "desc": "",
+      "dlg": "Standard Battery, temporary discharge!"
+    },
+    {
+      "id": "battle_special_11215_1",
+      "desc": "",
+      "dlg": "Changing output configuration."
+    },
+    {
+      "id": "battle_special_11215_1-01",
+      "desc": "",
+      "dlg": "*puff* Nicely fried."
+    },
+    {
+      "id": "battle_special_11215_2",
+      "desc": "",
+      "dlg": "Let me provide you support."
+    },
+    {
+      "id": "battle_special_11215_3",
+      "desc": "",
+      "dlg": "Triggering transfer sequence."
+    },
+    {
+      "id": "battle_special_11215_4",
+      "desc": "",
+      "dlg": "Self-charge activated."
+    },
+    {
+      "id": "battle_s3_400027_1",
+      "desc": "",
+      "dlg": "Hyaaaaah!!!"
+    },
+    {
+      "id": "battle_special_10915_1_2",
+      "desc": "",
+      "dlg": "Ahahahaha!"
+    },
+    {
+      "id": "battle_s3_10715_1_5",
+      "desc": "",
+      "dlg": "Hah... I'll carve the pain upon you myself!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-01",
+      "desc": "",
+      "dlg": "Hah... I'll carve the pain upon you myself!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-02",
+      "desc": "",
+      "dlg": "Hah... I'll carve the pain upon you myself!"
+    },
+    {
+      "id": "battle_special_10715_1_1",
+      "desc": "",
+      "dlg": "Enough games."
+    },
+    {
+      "id": "battle_special_10715_1_2",
+      "desc": "",
+      "dlg": "Turn the volume up!"
+    },
+    {
+      "id": "battle_special_10715_2",
+      "desc": "",
+      "dlg": "Hah!"
+    },
+    {
+      "id": "battle_special_10715_2_1",
+      "desc": "",
+      "dlg": "Complete and total..."
+    },
+    {
+      "id": "battle_special_10715_2_2",
+      "desc": "",
+      "dlg": "... Extermination!"
+    },
+    {
+      "id": "battle_special_10715_3_1",
+      "desc": "",
+      "dlg": "Half-pints."
+    },
+    {
+      "id": "battle_special_10715_3_2",
+      "desc": "",
+      "dlg": "Sod off, you!"
+    },
+    {
+      "id": "battle_special_10715_3_3",
+      "desc": "",
+      "dlg": "See if you can take this."
+    },
+    {
+      "id": "battle_special_10715_4",
+      "desc": "",
+      "dlg": "The punishment for all involved parties and bystanders here... Complete and total extermination, effective immediately!"
     }
   ]
 }
