@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "railway_dungeon_enter_recommend_growth",
-      "content": "- Identities : Uptie Tier {1}, Level {0}\n- E.G.O : Threadspinning Tier {2}"
+      "content": "- Личности: {1} Ранг Связи, {0}\n- ЭГО: {2} Ранг Сплетения"
     },
     {
       "id": "railway_dungeon_enter_recommend_growth_level_max",
-      "content": "- Identities : Uptie Tier {1}, Level {0} (maximum Level cap : {3})\n- E.G.O : Threadspinning Tier {2}"
+      "content": "- Личности: {1} Ранг Связи, {0} Уровень (Макс. уровень: {3})\n- ЭГО: {2} Ранг Сплетения"
     },
     {
       "id": "railway_dungeon_6_reward_condition_warning",
@@ -38,19 +38,19 @@
     },
     {
       "id": "railway_6_past",
-      "content": "The Past"
+      "content": "Прошлое"
     },
     {
       "id": "railway_6_present",
-      "content": "The Present"
+      "content": "Настоящее"
     },
     {
       "id": "railway_6_future",
-      "content": "The Future"
+      "content": "Будущее"
     },
     {
       "id": "railway_6_check_first_stage_unit_hp_mp",
-      "content": "Sinner Status"
+      "content": "Состояние Грешников"
     },
     {
       "id": "railway_6_ui_battle_effect",
