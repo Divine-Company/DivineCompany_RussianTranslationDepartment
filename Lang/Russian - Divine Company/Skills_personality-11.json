@@ -2404,7 +2404,7 @@
         {
           "level": 1,
           "name": "Stomping",
-          "desc": "[WhenUse] Heal 5 SP",
+          "desc": "[WhenUse] Восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -2425,7 +2425,7 @@
         {
           "level": 2,
           "name": "Stomping",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)</style>\n[WhenUse] Heal 5 SP",
+          "desc": "<style=\"highlight\">Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)</style>\n[WhenUse] Восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -2446,7 +2446,7 @@
         {
           "level": 3,
           "name": "Stomping",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)\n<style=\"highlight\">[BeforeUse] If this unit has [MiddleFatherSwordFourOutis], activate as \"I'll Gut You Like a Fish\"</style>\n[WhenUse] Heal 5 SP",
+          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)\n<style=\"highlight\">[BeforeUse] If this unit has [MiddleFatherSwordFourOutis], activate as \"I'll Gut You Like a Fish\"</style>\n[WhenUse] Восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -2470,7 +2470,7 @@
         {
           "level": 4,
           "name": "Stomping",
-          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)\n[BeforeUse] If this unit has [MiddleFatherSwordFourOutis], activate as \"I'll Gut You Like a Fish\"\n<style=\"highlight\">[WhenUse] If this unit has [ReinforcedTattooSpiderOutis], convert Coin 2 into [SuperCoin]</style>\n[WhenUse] Heal 5 SP",
+          "desc": "Coin Power +1 for every 6 ([Combustion] + [Laceration]) on target (max 2)\n[BeforeUse] If this unit has [MiddleFatherSwordFourOutis], activate as \"I'll Gut You Like a Fish\"\n<style=\"highlight\">[WhenUse] If this unit has [ReinforcedTattooSpiderOutis], convert Coin 2 into [SuperCoin]</style>\n[WhenUse] Восстанавливает 5 ПР",
           "coinlist": [
             {
               "coindescs": [
@@ -2723,7 +2723,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
@@ -2744,7 +2744,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Накладывает 2 [Laceration:`Кровотечения`]"
                 }
               ]
             },
