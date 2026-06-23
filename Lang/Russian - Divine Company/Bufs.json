@@ -680,7 +680,8 @@
     {
       "id": "ReinforcedAssemble",
       "name": "Свист Кромер",
-      "desc": "И да не побоимся мы, ибо с нами Одержащая."
+      "desc": "",
+      "flavor": "И да не побоимся мы, ибо с нами Одержащая."
     },
     {
       "id": "Greedy",
@@ -889,8 +890,9 @@
     {
       "id": "LittleCourage",
       "name": "Знак",
-      "desc": "<i>Решимость Синклера противостоять Кромер. Как только будут проведены три черты...</i>",
-      "summary": "Воля Синклера"
+      "desc": "",
+      "summary": "Воля Синклера",
+      "flavor": "Решимость Синклера противостоять Кромер. Как только будут проведены три черты..."
     },
     {
       "id": "NailPersonality",
@@ -973,8 +975,9 @@
     {
       "id": "Weak_Chicken",
       "name": "Птичий апокалипсис",
-      "desc": "- Текущие ОЗ снижены на 40% от Макс. ОЗ.\n\n<i>Выразительная реакция на блюда, приготовленные Грешниками.</i>",
-      "summary": "ОЗ -40%"
+      "desc": "- Текущие ОЗ снижены на 40% от Макс. ОЗ.",
+      "summary": "ОЗ -40%",
+      "flavor": "Выразительная реакция на блюда, приготовленные Грешниками."
     },
     {
       "id": "Strong_Chicken",
@@ -1027,14 +1030,16 @@
     {
       "id": "ElectricStorage",
       "name": "Конденсатор",
-      "desc": "<i>Судя по всему, в теле накапливается электричество.</i>",
-      "summary": "표시용"
+      "desc": "",
+      "summary": "표시용",
+      "flavor": "Судя по всему, в теле накапливается электричество."
     },
     {
       "id": "SelfCharge",
       "name": "Самозаряд",
-      "desc": "- Макс. Значение: 20.\n- После получения смертельного урона ОЗ не могут быть меньше 1.\n\n<i>Электрический ток проходит через всё тело.</i>",
-      "summary": "표시용"
+      "desc": "- Макс. Значение: 20.\n- После получения смертельного урона ОЗ не могут быть меньше 1.",
+      "summary": "표시용",
+      "flavor": "Электрический ток проходит через всё тело."
     },
     {
       "id": "Exalted",
@@ -1051,8 +1056,9 @@
     {
       "id": "Predation",
       "name": "Хищничество",
-      "desc": "<i>Нам стоит готовиться к усиленной атаке.</i>",
-      "summary": "표시용"
+      "desc": "",
+      "summary": "표시용",
+      "flavor": "Нам стоит готовиться к усиленной атаке."
     },
     {
       "id": "ATL_Agility",
@@ -1678,8 +1684,8 @@
     },
     {
       "id": "RetaliationBook",
-      "name": "Vengeance Mark",
-      "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
+      "name": "Метка Возмездия",
+      "desc": "Накладывается на персонажа, который нанёс больше всего урона союзникам (Макс. 1)",
       "undefined": "-"
     },
     {
@@ -3707,7 +3713,7 @@
     {
       "id": "SojiRyoshuShin",
       "name": "Син - Звезда Разума [地慧星]",
-      "desc": "- +2 к мин. и макс. Скорости.\n- Получает 2 Концентрации и 1 её Счётчика при использовании базового атакующего навыка\n- Наносит на 10% больше урона при крит. атаке базовыми атакующими навыками\n- Получает на 20% меньше урона от Односторонних атак и Нерушимых Монет",
+      "desc": "- +2 к мин. и макс. Скорости\n- Получает 2 Концентрации и 1 её Счётчика при использовании базового атакующего навыка\n- Наносит на 10% больше урона при крит. атаке базовыми атакующими навыками\n- Получает на 20% меньше урона от Односторонних атак и Нерушимых Монет",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3730,96 +3736,96 @@
     },
     {
       "id": "RetaliationBookSpiderOutis",
-      "name": "Book of Vengeance [The House of Spiders]",
-      "desc": "- Against units that have this effect, The House of Spiders: The Middle Nursefather Outis and The House of Spiders: The Middle Apprentice Ishmael heal 5 SP On Hit using a Skill (once per Skill, 2 times per turn)\n- On Hit using a Skill against The House of Spiders: The Middle Nursefather Outis, gain 1 additional Stack of The Middle - Grudge (once per Skill, 2 times per turn for each Identity)\n- On Hit using a Skill against The House of Spiders: The Middle Apprentice Ishmael, gain 1 additional Stack of The Middle - Grudge (once per Skill, 2 times per turn for each Identity)\n- Expires at Turn End",
+      "name": "Книга Возмездия: Дом Пауков",
+      "desc": "- Утис «Дом Пауков: Опекун из Среднего пальца» и Измаил «Дом Пауков: Ученик Среднего пальца» восстанавливают 5 ПР при ударе навыками при наличии на цели этого эффекта (Один раз за навык, 2 раза в ход)\n- Утис «Дом Пауков: Опекун из Среднего пальца» получает 1 дополнительного Значения Средний - Обиды при ударе навыками этого персонажа (Один раз за навык, 2 раза в ход для каждой Личности)\n- Измаил «Дом Пауков: Ученик Среднего пальца» получает 1 дополнительного Значения Средний - Обиды при ударе навыками этого персонажа (Один раз за навык, 2 раза в ход для каждой Личности)\n- Сбрасывается в конце хода",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "ResentmentSpiderOutis",
-      "name": "The Middle - Grudge",
-      "desc": "- Max Stack: 15\n- If target has Vengeance Mark, deal +20% damage",
+      "name": "Средний - Обида",
+      "desc": "- Макс. Значение: 15\n- Наносит на 20% больше урона при наличии на цели Метки Возмездия",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "ReinforcedTattooSpiderOutis",
-      "name": "The Middle - Vengeance Tattoo [<s>Great Sister</s>]",
-      "desc": "- Max Stack: 10\n- Final Power +1 for Base Skills for every 5 Stack (max 2)\n- Envy Skills and Blunt Skills deal +5% damage for every Stack (max 50%)",
+      "name": "Средний - Тату Возмездия: <s>Великая Сестра</s>",
+      "desc": "- Макс. Значение: 10\n- +1 к Итоговой Силе для основных навыков за каждые 5 Значения (Макс. 2)\n- Дробящие навыки и навыки Зависти наносят на 5% больше урона за каждое Значение (Макс. 50%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "DaughterEducationSpiderOutis",
-      "name": "Check This Out, Kiddo!",
-      "desc": "- Max Stack: 10\n- Reduced by 1 when this unit is hit by 2 Skills\n- At 5+ Stack, Base Skills gain Final Power +1\n- Blunt Skills deal +1% damage for every Stack (max 10%)",
+      "name": "Малая, зацени!",
+      "desc": "- Макс. Значение: 10\n- Уменьшается на 1 при получении ударов от двух навыков\n- +1 к Итоговой Силе для основных навыков при 5+ Значения\n- Дробящие навыки наносят на 1% больше урона за каждое Значение (Макс. 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "GotAComplimentIshmael",
-      "name": "I Got Praised!",
-      "desc": "- Max Stack: 10\n- Reduced by 1 when this unit is hit by 2 Skills\n- At 5+ Stack, Base Skills gain Final Power +1\n- Blunt Skills deal +1% damage for every Stack (max 10%)",
+      "name": "Меня похвалили!",
+      "desc": "- Макс. Значение: 10\n- Уменьшается на 1 при получении ударов от двух навыков\n- +1 к Итоговой Силе для основных навыков при 5+ Значения\n- Дробящие навыки наносят на 1% больше урона за каждое Значение (Макс. 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherGutsOutis",
-      "name": "Ridiculous Grit",
-      "desc": "- Max Stack: 3\n- Fix any Attack Type Resistances that exceed Normal (1.0) to Normal (unless Staggered)\n- Take -(30 + (The Middle - Vengeance Tattoo [<s>Great Sister</s>] Stack x 4))% damage from Skills (max 50%; rounded down)\n- On Clash Win, heal an additional (Clash count x 5) SP (max 15)\n- Turn End: If this unit lost SP this turn due to its Skill effects, deal +10% damage next turn using Base Skills (once per turn)\n- Turn End: Lose 1 Stack",
+      "name": "Надменная выдержка",
+      "desc": "- Макс. Значение: 3\n- Если Грешник не Оглушен, преобразует уязвимости превышающие Обычные (1.0) в Обычные (Не при Оглушении)\n- Получает на (30 + (Значение Средний - Тату Возмездия: <s>Великая Сестра</s> x 4))% меньше урона от навыковs (Макс. 50% округляя вниз)\n- При победе в Схватке: Дополнительно восстанавливает (Количество Схваток x 5) ПР (Макс. 15)\n- В конце хода: Наносит на 10% больше урона основными навыками в следующем ходу при потери ПР от своих навыков в этом ходу (Один раз в ход)\n- В конце хода: Уменьшается на 1",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordOneOutis",
-      "name": "Sealed Sword",
-      "desc": "- Turn End: Gain 2 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 Bleed on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ Bleed, deal (10% of the Coin's final damage) Blunt damage (rounded down)",
+      "name": "Запечатанный меч",
+      "desc": "- В конце хода: Получает 2 Спешки на следующий ход\n- Наносит на 2% больше урона основными Дробящими навыками за каждые 4 Кровотечения на цели (Макс. 10%)\n- При ударе последней Монетой основного навыка дополнительно наносит (10% от урона последней Монеты) Дробящего урона при наличии на цели 20+ Кровотечения (Округляя вниз)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordTwoOutis",
-      "name": "First Seal Removed",
-      "desc": "- Turn End: Gain 1 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Blunt damage (rounded down)",
+      "name": "Снята первая печать",
+      "desc": "- В конце хода: Получает 1 Спешку на следующий ход\n- Наносит на 2% больше урона основными Дробящими навыками за каждые 4 (Кровотечения + Горения) на цели (Макс. 10%)\n- При ударе последней Монетой основного навыка дополнительно наносит (10% от урона последней Монеты) Дробящего урона при наличии на цели 20+ (Кровотечения + Горения) (Округляя вниз)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordThreeOutis",
-      "name": "Second Seal Removed",
-      "desc": "- Turn End: Gain 1 Haste next turn\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Slash damage (rounded down)",
+      "name": "Снята вторая печать",
+      "desc": "- В конце хода: Получает 1 Спешку на следующий ход\n- Наносит на 2% больше урона основными Дробящими навыками за каждые 4 (Кровотечения + Горения) на цели (Макс. 10%)\n- При ударе последней Монетой основного навыка дополнительно наносит (10% от урона последней Монеты) Рубящего урона при наличии на цели 20+ (Кровотечения + Горения) (Округляя вниз)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MiddleFatherSwordFourOutis",
-      "name": "Lævateinn",
-      "desc": "- Turn Start: Inflict 3 Burn on all units on the field\n- Replace this unit's Base Skills with Lævateinn-exclusive Skills corresponding to each Skill's rank\n- Blunt Base Skills deal +2% damage for every 4 (Burn + Bleed) on target (max 10%)\n- On final Coin Hit using Base Skills, if target has 20+ (Burn + Bleed), deal (10% of the Coin's final damage) Pierce damage (rounded down)",
+      "name": "Лэватейнн",
+      "desc": "- В начале хода: Накладывает 3 Горения на всех персонажей на поле боя\n- Преобразует все основные навыки этого персонажа в навыки Лэватейнна, соответствующие рангу каждого навыка\n- Наносит на 2% больше урона основными Дробящими навыками за каждые 4 (Кровотечения + Горения) на цели (Макс. 10%)\n- При ударе последней Монетой основного навыка дополнительно наносит (10% от урона последней Монеты) Колющего урона при наличии на цели 20+ (Кровотечения + Горения) (Округляя вниз)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "MidFamilyOutis",
-      "name": "Avenging My Family",
-      "desc": "- Envy Base Skills deal +20% damage\n- Base Skills gain Final Power +1",
+      "name": "Отмщение за Семью",
+      "desc": "- Наносит на 20% больше урона основными навыками Зависти\n- +1 к Итоговой Силе для основных навыков",
       "summary": "",
       "undefined": "-",
       "flavor": ""
     },
     {
       "id": "CountSkillMidOutis",
-      "name": "Rising Fever",
-      "desc": "Lose 1 Stack when meeting one of the following conditions (once per turn):\n- Using the \"Stamp of Vengeance\" Skill (including activation via Counter)\n- At Turn End after activating 6+ Envy A-Reson.\n\nAt 0 Stack, use the \"Time to Unpack!\" Skill",
+      "name": "Нарастающее возбуждение",
+      "desc": "- Уменьшается на 1 Значение при выполнении одного из следующих условий (Один раз в ход):\n· Использовать навык «Stamp of Vengeance» (Включая использование при Контратаке)\n· В конце хода при активации 6+ Абсолютного резонанса Зависти\n- При нулевом Значении использует навык «Time to Unpack!»",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3827,10 +3833,97 @@
     {
       "id": "MatchesPersonality",
       "name": "Воспылание",
-      "desc": "- Min & Max Speed +1\n- This turn's first-used Base Attack Skill gains Final Power +2\n- Take 2% HP damage On Hit with the affected Skill (max 10%; this damage does not Stagger or reduce this unit's HP below 1)\n- Expires at Turn End",
+      "desc": "- +1 к мин. и макс. Скорости\n- +2 к Итоговой Силе для первого использованного основного навыка\n- Наносится 2% урона от текущих ОЗ при ударе этим навыком (Макс. 10%, этот урон не может Оглушить или понизить ОЗ персонажа меньше 1)\n- Сбрасывается в конце хода",
       "summary": "",
       "undefined": "-",
       "flavor": ""
+    },
+    {
+      "id": "ScratchesHurtID",
+      "name": "Avulsion Wound",
+      "desc": "- Max Stack: 3\n- Turn Start: Gain 2 Bleed\n- Turn End: Gain 1 Bind next turn\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "TiedRopeHonglu",
+      "name": "Trussed [Hong Lu]",
+      "desc": "- Base Stack: 3\n- Min & Max Speed -2\n- Take +10% Pride damage\n- Expires when the inflicter Retreats, is killed, or inflicts it on a different target. Replaced when Trussed by another unit\n- Turn End: Lose 1 Stack if the inflicter did not hit this unit this turn",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "TiedWithRopeID",
+      "name": "Prisoner Transport Arrangements",
+      "desc": "- Base Stack: 1\n- Currently Trussing {0}\n- In a Clash against enemies that have Trussed [Hong Lu], Clash Power +1\n- On Hit against enemies that have Trussed [Hong Lu], inflict 1 Bleed and gain 1 Poise (2 Skills per turn)\n- If there are no Trussed targets, expires",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "AengduNewArmIshmael",
+      "name": "Dokkaebi Arms",
+      "desc": "- Take -15% damage\n- On Skill Use, gain 1 Haste next turn (2 times per turn)\n- Combat End: This effect expires, and gain +2 Poise Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BladelineagePride",
+      "name": "Bearing of a Salsu",
+      "desc": "- Max Stack: 3\n- Gain Offense Level for every Stack\n- On Attack Hit using Slash Skills, gain 1 Poise (2 times per turn) \n- Lose 1 Stack when an allied Blade Lineage Identity is defeated",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WindBladeIshmael",
+      "name": "Mook Workshop - Ye [銳] Type II Bladedraw / Thrust Force: Dokkaebi Fire",
+      "desc": "- Max Stack: 20\n- Can gain up to 10 Stacks per turn\n- Slash Base Attack Skills deal +1% damage for every Stack (max 10%)\n- Defense Skills lose 1 Clash Power for every 2 Stacks (max 5)\n- Turn End: Gain 1 Haste next turn for every 5 Stacks (max 3)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AlcoholKimPersonal",
+      "name": "Drink to the Fallen",
+      "desc": "- Max Stack: 4\n- Turn Start: Gain 1 Poise for every Stack\n· Blade Lineage Mentor Meursault gains 2 Poise for every Stack instead\n- Base Skills deal +(Poise on self x 1.5)% damage on Critical Hit (max 15%)\n- Base Skills that gain Poise and Poise Count gain Clash Power +1\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GrudgePersonal",
+      "name": "Growing Resentment",
+      "desc": "- Max Stack: 999\n- \"To Claim Their Bones\" gains (Stack / 100) Final Power (max 6; rounded down)\n- On Hit using the final Coins of either \"Yield My Flesh\" or \"To Claim Their Bones\", deal +(Stack / 10)% damage; then, this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GhostKimPersonal",
+      "name": "Resentment",
+      "desc": "- Min & Max Speed +2\n- On Hit, heal HP by 10% of damage dealt using the Skill (can heal up to 50% of this unit's max HP per Skill)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RootSoupKimPersonal",
+      "name": "Resentful Scabbard",
+      "desc": "- When an ally, including this unit, takes HP damage, gain Growing Resentment equal to damage taken\n- In Memoriam Passive now ignores conditionals and activates at max potential\n- When activating Pride Reson., apply Swordplay of the Homeland - The True Essence on all Blade Lineage allies other than this unit\n\n- On Using \"Yield My Flesh\", until Skill End:\n· This unit's HP does not drop below 10 (once per turn)\n· Lose (Poise on self / 2) Clash Power (rounded down)\n- On Using \"To Claim Their Bones\", gain 4 Poise\n\n※ Sword of the Homeland - The True Essence effects:\n- Base Attack Skills gain Final Power +(# of Blade Lineage allies on the field / 3) (max 2, rounded down)\n- If this unit is a Blade Lineage Salsu, Base Skills gain Final Power +1 and deal +(120 / # of Coins)% damage\n- Turn End: Gain 1 Haste next turn and this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RootSoupKimSatgat",
+      "name": "Sword of the Homeland - The True Essence",
+      "desc": "- Base Attack Skills gain Final Power +(# of Blade Lineage allies on the field / 3) (max 2, rounded down)\n- If this unit is a Blade Lineage Salsu, Base Skills gain Final Power +1 and deal +(120 / # of Coins)% damage\n- Turn End: Gain 1 Haste next turn and this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BongukGiftEnhance",
+      "name": "Sword of the Homeland - Striking",
+      "desc": "- Max Stack: 1\n- Plus Coin Power +1, deal +15% damage on Critical Hit\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }
