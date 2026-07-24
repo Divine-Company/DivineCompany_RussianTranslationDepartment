@@ -351,7 +351,7 @@
         {
           "level": 1,
           "name": "High-voltage Electric Discharge",
-          "desc": "Наносит на 10% больше урона за каждое Значение [SelfCharge:`Самозаряда`], превышающее 7 (Макс. 120%)\n[WhenUse] Сбрасывает [SelfCharge]\n+5 к Силе в Схватке если было сброшено 10+ [SelfCharge:`Самозаряда`]\n[DefeatDuel] Наносит 0 урона этим навыком",
+          "desc": "[WhenUse] Сбрасывает [SelfCharge]\n+5 к Силе в Схватке если было сброшено 10+ [SelfCharge:`Самозаряда`]\n[DefeatDuel] Наносит 0 урона этим навыком",
           "coinlist": [
             {
               "coindescs": [

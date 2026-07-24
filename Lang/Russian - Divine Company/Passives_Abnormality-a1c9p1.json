@@ -152,23 +152,23 @@
     },
     {
       "id": 131001,
-      "name": "Hemorrhaging Dimension",
-      "desc": "Deal +10% damage after passing through the Hemorrhaging Dimension"
+      "name": "Кровоточащее измерение",
+      "desc": "Наносит на 10% больше урона после прохождения сквозь кровоточащее измерение[TabExplain]"
     },
     {
       "id": 131101,
-      "name": "Poisonous Dimension",
-      "desc": "Core gains +20% max HP after passing through the Poisonous Dimension"
+      "name": "Ядовитое измерение",
+      "desc": "Ядро получает 20% макс. ОЗ после прохождения сквозь ядовитое измерение[TabExplain]"
     },
     {
       "id": 131201,
-      "name": "Tremoring Dimension",
-      "desc": "Gain 1 Speed after passing through the Tremoring Dimension"
+      "name": "Дрожащее измерение",
+      "desc": "+1 к Скорости после прохождения сквозь дрожащее измерение[TabExplain]"
     },
     {
       "id": 131301,
-      "name": "Electrifying Dimension",
-      "desc": "Gain +1 Coin Power after passing through the Electrifying Dimension"
+      "name": "Электризующее измерение",
+      "desc": "+1 к Силе Монет после прохождения сквозь электризующее измерение[TabExplain]"
     }
   ]
 }

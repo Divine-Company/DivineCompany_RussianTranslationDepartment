@@ -673,7 +673,7 @@
     {
       "id": "battle_s3_11209_2",
       "desc": "Nightmare Hunt: Final coin",
-      "dlg": "Твоя жизненно важная точка! "
+      "dlg": "Твоя жизненно важная точка!"
     },
     {
       "id": "battle_s2_10710_1_1_txt-01",
@@ -2181,11 +2181,6 @@
       "dlg": "Мы оказались в тупике."
     },
     {
-      "id": "battle_noneready_10613_1",
-      "desc": "",
-      "dlg": "Тебе запрещено отступать. Враг ещё не повержен."
-    },
-    {
       "id": "battle_nonedead_10613_1",
       "desc": "",
       "dlg": "Я отказываюсь преклоняться пред этой жалкой... порченной кровью..."
@@ -2324,11 +2319,6 @@
       "id": "battle_s3_10808_1_2",
       "desc": "",
       "dlg": "The fatal determination!"
-    },
-    {
-      "id": "battle_s3_10808_1_3-01",
-      "desc": "",
-      "dlg": "Fuels this harpoon!"
     },
     {
       "id": "battle_s3_10808_1_2-01",
@@ -2618,7 +2608,7 @@
     {
       "id": "battle_s3-2_10613_1_8",
       "desc": "",
-      "dlg": "Внимайте мне, Сы (蛇)."
+      "dlg": "Внимайте мне, Сы (巳)."
     },
     {
       "id": "battle_s3-2_10613_1_9",
@@ -2983,22 +2973,22 @@
     {
       "id": "battle_s3_10413_1_3",
       "desc": "",
-      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍零)."
     },
     {
       "id": "battle_s3_10413_1_3-01",
       "desc": "",
-      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍零)."
     },
     {
       "id": "battle_s3_10413_1_3-02",
       "desc": "",
-      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍零)."
     },
     {
       "id": "battle_s3_10413_1_3-03",
       "desc": "",
-      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍零)."
     },
     {
       "id": "battle_special_10413_1",
@@ -3496,7 +3486,7 @@
       "dlg": "Stance Shift—Third Gambit."
     },
     {
-      "id": "battle_s3_10815_1_2-02",
+      "id": "battle_s3_10815_1_2-03",
       "desc": "",
       "dlg": "Third Gambit."
     },
@@ -3589,6 +3579,291 @@
       "id": "battle_dead_30501_1",
       "desc": "",
       "dlg": "Not one handspan ahead... does this darkness yield..."
+    },
+    {
+      "id": "battle_noneready_10613_1-01",
+      "desc": "",
+      "dlg": "Тебе запрещено отступать. Враг ещё не повержен."
+    },
+    {
+      "id": "battle_special_10916_1",
+      "desc": "",
+      "dlg": "What, having a hard time landing a hit?"
+    },
+    {
+      "id": "battle_special_10916_1_2",
+      "desc": "",
+      "dlg": "You're slow as shit."
+    },
+    {
+      "id": "battle_special_10916_1_3",
+      "desc": "",
+      "dlg": "Saw that shit coming a mile away~"
+    },
+    {
+      "id": "battle_special_10916_1_4",
+      "desc": "",
+      "dlg": "I'm readin' ya like an open book."
+    },
+    {
+      "id": "battle_special_10916_1_5",
+      "desc": "",
+      "dlg": "Told ya already. You're too damn slow!"
+    },
+    {
+      "id": "battle_special_10916_2",
+      "desc": "",
+      "dlg": "... Tsk. Overheated already?"
+    },
+    {
+      "id": "battle_special_10916_3",
+      "desc": "",
+      "dlg": "Hah! My turn, you little shit."
+    },
+    {
+      "id": "battle_special_10916_4",
+      "desc": "",
+      "dlg": "Textbook. Am I asking for the impossible?"
+    },
+    {
+      "id": "battle_special_10916_5",
+      "desc": "",
+      "dlg": "I'm sick and tired of Yoshihide, that fucking bitch—and you, too! To hell with you all!"
+    },
+    {
+      "id": "battle_special_10916_5_2",
+      "desc": "",
+      "dlg": "Yeah, I hate you all! The damn Famiglia and every single one of you!"
+    },
+    {
+      "id": "battle_special_10916_6",
+      "desc": "",
+      "dlg": "Who's next? C'mon... We all know how this ends anyway."
+    },
+    {
+      "id": "battle_special_10916_7",
+      "desc": "",
+      "dlg": "Like hell I'm kickin' the bucket in this fucking dump."
+    },
+    {
+      "id": "battle_special_10916_8",
+      "desc": "",
+      "dlg": "Hah. Figured as much. Idiot... Couldn't even tough that out..."
+    },
+    {
+      "id": "battle_special_10916_9",
+      "desc": "",
+      "dlg": "Go for the heart! The heart!"
+    },
+    {
+      "id": "battle_s2_10916_1_3",
+      "desc": "",
+      "dlg": "Distraction'll bury you six-feet under!"
+    },
+    {
+      "id": "battle_s3_10916_1_1",
+      "desc": "",
+      "dlg": "Hahahahaha!"
+    },
+    {
+      "id": "battle_s3_10916_1_1-01",
+      "desc": "",
+      "dlg": "And the hunt comes to a close."
+    },
+    {
+      "id": "battle_s3_10916_1_1-02",
+      "desc": "",
+      "dlg": "I'll make mincemeat out of you all!"
+    },
+    {
+      "id": "battle_special_10716_1",
+      "desc": "",
+      "dlg": "It's just you and me now. A duel..."
+    },
+    {
+      "id": "battle_special_10716_2",
+      "desc": "",
+      "dlg": "... You ain't gettin' past me."
+    },
+    {
+      "id": "battle_special_10716_4",
+      "desc": "",
+      "dlg": "Enemy dismantled. You ain't pullin' that shite on me twice."
+    },
+    {
+      "id": "battle_s3_10716_1_1",
+      "desc": "",
+      "dlg": "I'll show you an infinitely close approximation of your angle an' speed."
+    },
+    {
+      "id": "battle_s3_10716_1_1-02",
+      "desc": "",
+      "dlg": "Il Cacciatore!"
+    },
+    {
+      "id": "battle_s3_10716_1_2",
+      "desc": "",
+      "dlg": "Witness a demonstration of the Palermitan dismantling technique."
+    },
+    {
+      "id": "battle_s3_10716_1_2-01",
+      "desc": "",
+      "dlg": "Sezionatura di Cervo!"
+    },
+    {
+      "id": "battle_s3_10716_1_2-02",
+      "desc": "",
+      "dlg": "Demonstrated."
+    },
+    {
+      "id": "battle_special_11009_3",
+      "desc": "",
+      "dlg": "If I can make my seonbae, my master, happy... If it means that in the end, we'll all share in the joy together... no fear in the world will ever cower me into fleeing."
+    },
+    {
+      "id": "battle_special_11009_4",
+      "desc": "",
+      "dlg": "I don't care if it melts my wings and drags me down... Let this sunset never cool, and let it burn, <i>burn!</i>"
+    },
+    {
+      "id": "battle_special_11009_5",
+      "desc": "",
+      "dlg": "I refuse to be a disgraceful junior who sinks into the swamp of despair without taking another step, Seonbae. I know you believe in me... Because it's what I must do...!"
+    },
+    {
+      "id": "battle_special_11009_6",
+      "desc": "",
+      "dlg": "The agony is hard to endure... but endure it I will. No matter how many times I fall, I'll get back up again. I promise, Master, I will reach for the strength worthy of your dawnbreak... so I'll never have to lose anyone ever again!"
+    },
+    {
+      "id": "battle_special_11009_7",
+      "desc": "",
+      "dlg": "... I have to soar high. I will break out of this shell that stands in my way—I'll break it altogether and soar to a higher place."
+    },
+    {
+      "id": "battle_special_11009_8",
+      "desc": "",
+      "dlg": "Don't let this vermilion fire, the light that shines on me, go out—rage on, conflagrate."
+    },
+    {
+      "id": "battle_special_11009_9",
+      "desc": "",
+      "dlg": "Let this shining light of vermilion fire burn...! Rage on, conflagrate!"
+    },
+    {
+      "id": "battle_special_11009_10",
+      "desc": "",
+      "dlg": "For my grieving self alone... Cry bright, flames, for me!"
+    },
+    {
+      "id": "battle_special_10216_1",
+      "desc": "",
+      "dlg": "Allow me to assist."
+    },
+    {
+      "id": "battle_special_10216_2",
+      "desc": "",
+      "dlg": "Proceeding with the incineration of what remains."
+    },
+    {
+      "id": "battle_special_10216_3",
+      "desc": "",
+      "dlg": "Well done. I will lend you support."
+    },
+    {
+      "id": "battle_special_10216_4",
+      "desc": "",
+      "dlg": "Please leave the rest to me."
+    },
+    {
+      "id": "battle_special_10216_5",
+      "desc": "",
+      "dlg": "Like a butterfly unfurling its wings."
+    },
+    {
+      "id": "battle_special_10216_6",
+      "desc": "",
+      "dlg": "Reactive ejection. Sectioning every target into pieces."
+    },
+    {
+      "id": "battle_s3_10216_1_3-03",
+      "desc": "",
+      "dlg": "Like a butterfly beating its wings."
+    },
+    {
+      "id": "battle_special_11216_2",
+      "desc": "필립 싱클레어가 탈출장치로 후퇴",
+      "dlg": "Yeah, good call... Better you live through this."
+    },
+    {
+      "id": "battle_special_11216_3",
+      "desc": "유나 파우스트의 공격에 호응하여 추가공격",
+      "dlg": "Heh... There's the pride of our Office."
+    },
+    {
+      "id": "battle_special_11216_4_4",
+      "desc": "3-2 스킬 대사",
+      "dlg": "The sun will rise, soon."
+    },
+    {
+      "id": "battle_special_11216_5",
+      "desc": "원호방어 발동",
+      "dlg": "Hey! Leave this sort of thing to your seniors, got that?"
+    },
+    {
+      "id": "battle_special_11216_6",
+      "desc": "유나 파우스트 사망 후 턴 시작 시",
+      "dlg": "Thank you for your service, Frau Faust. You can rest easy—our Office'll be fine."
+    },
+    {
+      "id": "battle_special_11216_7",
+      "desc": "필립 싱클레어 사망 후 턴 시작 시",
+      "dlg": "... I see. It was still too much for the boy."
+    },
+    {
+      "id": "battle_s2_11216_1_6",
+      "desc": "2스킬 대사",
+      "dlg": "With the glow of the sunset."
+    },
+    {
+      "id": "battle_s3_11216_1_1",
+      "desc": "3스킬 대사",
+      "dlg": "... At the crack of dawn..."
+    },
+    {
+      "id": "battle_special_10116_1_1",
+      "desc": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전1",
+      "dlg": "Concealment within rifts."
+    },
+    {
+      "id": "battle_special_10116_1_2",
+      "desc": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전2",
+      "dlg": "The recalibrated coordinates."
+    },
+    {
+      "id": "battle_special_10116_1_3",
+      "desc": "패시브 효과로 차원 표류 버프를 소모하여 1스킬 발동시 버전3",
+      "dlg": "And a consummate leap."
+    },
+    {
+      "id": "battle_s2_10116_1_1",
+      "desc": "2스킬 사용시 1버전",
+      "dlg": "With the maximum velocity bestowed upon the passage."
+    },
+    {
+      "id": "battle_s3_10116_1_1",
+      "desc": "3스킬 사용시 1버전",
+      "dlg": "The crossroad of a single point and three lines."
+    },
+    {
+      "id": "battle_s3_10116_1_2",
+      "desc": "3스킬 사용시 2버전",
+      "dlg": "Intersected."
+    },
+    {
+      "id": "battle_special_10116_2",
+      "desc": "강화 3스킬 사용시",
+      "dlg": "Ruminate upon the dimensions of quadricolor reflections."
     }
   ]
 }

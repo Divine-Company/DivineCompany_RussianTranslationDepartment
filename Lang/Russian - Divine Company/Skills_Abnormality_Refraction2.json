@@ -426,7 +426,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] by target's [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend all of target's [Vibration]"
+                  "desc": "[OnSucceedAttack] Spend all of target's [Vibration] Count"
                 }
               ]
             }
@@ -658,7 +658,7 @@
                   "desc": "[OnSucceedAttack] If target has 2+ [Laceration] Count, inflict 5 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ [Laceration] Count, inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] If target has 2+ [Laceration] Count, inflict 1 [Paralysis]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Apply +4 [Laceration] Count"
@@ -826,7 +826,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] by target's [Vibration] Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend all of target's [Vibration]"
+                  "desc": "[OnSucceedAttack] Spend all of target's [Vibration] Count"
                 }
               ]
             }
@@ -990,7 +990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +5% damage per 5 [Burst] Count on target"
+                  "desc": "[OnSucceedAttack] Deal +5% damage for every [Burst] on target"
                 }
               ]
             }
@@ -1472,7 +1472,7 @@
         {
           "level": 1,
           "name": "To the Garden of Infinity",
-          "desc": "[CantDuel]\n[WhenUse] Apply [PrepareSinRose] and eliminate all effects on self\nIf Core has less than 40% HP, Roses will spawn in Power-up States",
+          "desc": "[CantDuel]\n[WhenUse] Apply [PrepareSinRose] and eliminate all effects on self\nIf Core has less than 40% HP, Roses will spawn in Power-up States next turn",
           "coinlist": [
             {}
           ]
@@ -1579,7 +1579,7 @@
         {
           "level": 1,
           "name": "Wall Of Separation",
-          "desc": "Power +2 for each surviving Rose\nIf there are no surviving Roses, Self-apply 2 [Vulnerable]",
+          "desc": "Power +2 for each surviving Rose\nIf there are no surviving Roses, gain 2 [Vulnerable] next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -1794,7 +1794,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflict 8 [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Trigger [VibrationExplosion]"
@@ -1868,7 +1868,7 @@
         {
           "level": 1,
           "name": "Restless Gluttony",
-          "desc": "[WhenUse] If target has [Burst], boost HP healing by +50%",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
@@ -2017,7 +2017,7 @@
         {
           "level": 1,
           "name": "Touchy Pride",
-          "desc": "At 5+ [Breath], Coin Power +3",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [

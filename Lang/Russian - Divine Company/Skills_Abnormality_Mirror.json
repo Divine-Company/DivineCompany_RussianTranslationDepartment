@@ -860,7 +860,7 @@
         {
           "level": 1,
           "name": "High-voltage Electric Discharge",
-          "desc": "At 11+ [SelfCharge], deal +10% Damage for each Count of [SelfCharge] over 10\nSpend all [SelfCharge]",
+          "desc": "Spend all Self-charge",
           "coinlist": [
             {
               "coindescs": [

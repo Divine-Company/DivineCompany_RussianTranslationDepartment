@@ -1470,12 +1470,12 @@
     {
       "id": 1010902,
       "name": "Sanguine Pointillist",
-      "desc": "This Identity only counts as an 'Identity that inflicts [Laceration]'. This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword"
+      "desc": "This Identity only counts as an \"Identity that inflicts [Laceration]\". This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword"
     },
     {
       "id": 1110902,
       "name": "Sanguine Pointillist",
-      "desc": "This Identity only counts as an 'Identity that inflicts [Laceration]'. This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword."
+      "desc": "This Identity only counts as an \"Identity that inflicts [Laceration]\". This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword"
     },
     {
       "id": 1040901,
@@ -2669,7 +2669,7 @@
     {
       "id": 1081402,
       "name": "Thermal Weapon",
-      "desc": "This unit is considered as an Identity that inflicts [Combustion] and [Laceration].\nIf this unit has [HeatingWireIshmael], Skills that inflict [Laceration] are considered as Skills that inflict both [Combustion] and [Laceration]."
+      "desc": "This unit is considered as an \"Identity that inflicts [Combustion] and [Laceration]\"\nIf this unit has [HeatingWireIshmael], Skills that inflict [Laceration] are considered as Skills that inflict both [Combustion] and [Laceration]"
     },
     {
       "id": 1081421,
@@ -2962,7 +2962,7 @@
     {
       "id": 1041502,
       "name": "Saikai [再会]",
-      "desc": "Upon entering the Encounter for the first time, gain 0 [SojiRyoshuEchoPast] and 0 [SojiRyoshuEntangle]\n\nUpon entering the Encounter for the first time, for every 3 The House of Spiders Identities in the Loadout (including this unit), raise [SojiRyoshuEchoPast]'s Min & Max Stack cap by 1 (max 3)\n\nIf any of The House of Spiders allied Identities are on the field, transfer HP damage taken to The House of Spiders Identity that has the lowest current HP percentage\n\nWhen this unit takes damage that brings its HP down to 0, this unit's HP does not drop below 1 for the turn (once per Encounter)\n\nApply the following effects based on The House of Spiders ally death:\n- Gain 1 [SojiRyoshuEchoPast]\n- For this Encounter, gain additional effects based on which of The House of Spiders allied Identity was defeated\n · The House of Spiders: The Index Nursefather Yi Sang: On Base Attack Skill Use, convert the final Coin into [SuperCoin]. Deal +10% damage with Base Attack Skills' [SuperCoin]s\n · The Index Proxy - Effloresced E.G.O::Procuration Don Quixote: On Base Attack Skill Use, gain 2 [Breath]. On Crit using Base Attack Skills, inflict 1 [Sinking]\n · The House of Spiders: The Middle Apprentice Ishmael: Defense Level +2. Inflict +1 more [Combustion] Potency using Base Skills\n · The House of Spiders: The Ring Nursefather Hong Lu: Gain [MelodyBodyArt]\n · The House of Spiders: The Ring Apprentice Faust: Gain Shield equal to 10% HP at every Turn Start\n · The House of Spiders: The Pinky Apprentice Sinclair: Gain +1 [Breath] Count and 1 [CriticalDamageUp] at every Turn Start\n\nIf there are no Identities left to Substitute or Return, Blade of the House of Spiders Ryōshū gains +1 Skill Slot for every 3 The House of Spiders allies that are defeated (max 3 times)\n- This effect cannot increase Skill Slots beyond the maximum Skill Slot cap of this Encounter\n- For certain game contents, this effect can activate regardless of the contents' Skill Slot increase restriction\n\nThis Identity only counts as an Identity that applies [Combustion], [Laceration], and [Breath]\n\nWhen conditions are met, change battle music for the rest of the Encounter (excluding certain Encounters)",
+      "desc": "Upon entering the Encounter for the first time, gain 0 [SojiRyoshuEchoPast] and 0 [SojiRyoshuEntangle]\n\nUpon entering the Encounter for the first time, for every 3 The House of Spiders Identities in the Loadout (including this unit), raise [SojiRyoshuEchoPast]'s Min & Max Stack cap by 1 (max 3)\n\nIf any of The House of Spiders allied Identities are on the field, transfer HP damage taken to The House of Spiders Identity that has the lowest current HP percentage\n\nWhen this unit takes damage that brings its HP down to 0, this unit's HP does not drop below 1 for the turn (once per Encounter)\n\nApply the following effects based on The House of Spiders ally death:\n- Gain 1 [SojiRyoshuEchoPast]\n- For this Encounter, gain additional effects based on which of The House of Spiders allied Identity was defeated\n · The House of Spiders: The Index Nursefather Yi Sang: On Base Attack Skill Use, convert the final Coin into [SuperCoin]. Deal +10% damage with Base Attack Skills' [SuperCoin]s\n · The Index Proxy - Effloresced E.G.O::Procuration Don Quixote: On Base Attack Skill Use, gain 2 [Breath]. On Crit using Base Attack Skills, inflict 1 [Sinking]\n · The House of Spiders: The Middle Apprentice Ishmael: Defense Level +2. Inflict +1 more [Combustion] Potency using Base Skills\n · The House of Spiders: The Ring Nursefather Hong Lu: Gain [MelodyBodyArt]\n · The House of Spiders: The Ring Apprentice Faust: Gain Shield equal to 10% HP at every Turn Start\n · The House of Spiders: The Pinky Apprentice Sinclair: Gain +1 [Breath] Count and 1 [CriticalDamageUp] at every Turn Start\n\nIf there are no Identities left to Substitute or Return, Blade of the House of Spiders Ryōshū gains +1 Skill Slot for every 3 The House of Spiders allies that are defeated (max 3 times)\n- This effect cannot increase Skill Slots beyond the maximum Skill Slot cap of this Encounter\n- For certain game contents, this effect can activate regardless of the contents' Skill Slot increase restriction\n\nThis Identity only counts as an \"Identity that applies [Combustion], [Laceration], and [Breath]\"\n\nWhen conditions are met, change battle music for the rest of the Encounter (excluding certain Encounters)",
       "summary": "Transfer damage taken to The House of Spiders Identities",
       "flavor": "'The things I dread seeing again always come back. The things I ache to see again never do.'\n'That is why I must steel my heart cold in the moment of reunion.'"
     },
@@ -3000,7 +3000,7 @@
     {
       "id": 1111502,
       "name": "Smell of Blood and Fire",
-      "desc": "This unit is considered as an Identity that inflicts [Combustion] and [Laceration]\nIf this unit's sword has [MiddleFatherSwordTwoOutis] or [MiddleFatherSwordThreeOutis], Skills that inflict [Laceration] are considered as Skills that inflict both [Combustion] and [Laceration]"
+      "desc": "This unit is considered as an \"Identity that inflicts [Combustion] and [Laceration]\"\nIf this unit's sword has [MiddleFatherSwordTwoOutis] or [MiddleFatherSwordThreeOutis], Skills that inflict [Laceration] are considered as Skills that inflict both [Combustion] and [Laceration]"
     },
     {
       "id": 1111503,
@@ -3083,6 +3083,157 @@
       "id": 1081521,
       "name": "Cut Down What Must Be Felled",
       "desc": "1 ally with the fastest Speed deals +10% damage using Slash Skills\n- If the said ally has [Agility], deal +15% damage using Slash Skills instead"
+    },
+    {
+      "id": 1071602,
+      "name": "Duello Disperato",
+      "desc": "At Base Skill End against an enemy:\n- If the target is defeated while having [DuelEdgeAlly] (on any of its Parts), gain 1 [EvolvingManual]\n- If the main target isn't defeated, inflict 1 [DuelEdgeAlly] on the main target; if there was a Clash against the said main target using the said Base Skill, inflict 2 [DuelEdgeAlly] on the main target instead\n\nAt Clash Start against a target that has [DuelEdgeAlly], heal SP equal to [DuelEdgeAlly] Stack on target (max 5 per turn)",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1071603,
+      "name": "Desperate Struggle",
+      "desc": "If The House of Spiders: The Thumb Nursefather Rodion is on the field, activate the following:\n(Does not activate in turns where this unit is Panicked or Staggered)\n- When The Thumb Nursefather Rodion (that has [FutureEyeOnRodion]) hits an enemy with a Base Skill, at its Attack End, follow up with \"La Spada di Palermo\" as an Unopposed Attack against the target (once per turn)\n- Combat Start: When The Thumb Nursefather Rodion (that has [FutureEyeOffRodion]) is targeted by an enemy's Unopposed Skill, The Thumb Apprentice Heathcliff gains 1 [SupportProtect]\n(This [SupportProtect] activates only for The House of Spiders: The Thumb Nursefather Rodion)",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1071604,
+      "name": "Saikai [再会] - The Thumb",
+      "desc": "If this unit is defeated at Encounter Start, or if this unit is defeated during the Encounter, Blade of the House of Spiders Ryōshū gains the following effects:\n- Gain 1 [SojiRyoshuEchoPast]\n- On Clash Win using a Base Skill, inflict 2 [Vibration] and trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1 (2 times per turn)",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1071601,
+      "name": "Palermitan Style",
+      "desc": "Gain the following effects based on ([EvolvingManual] on self + [DuelEdgeAlly] on the main target)\n- Base Skills deal +3% damage for every combined Stack (max 15%)\n- 1+ Stack: Clash Power +1\n- 2+ Stack: Base Skills gain Base Power +1\n- 3+ Stack: On Hit using a Base Skill, inflict 1 [SeveredTendonAlly] next turn\n- 4+ Stack: Base Skills gain Final Power +1\n- 5+ Stack: Base Skills deal +15% damage\n\nTake -3% damage for every ([EvolvingManual] on self + [DuelEdgeAlly] on the enemy attacking this unit) (max -15%)",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1071621,
+      "name": "In One-on-one Duels...",
+      "desc": "1 ally with the fastest Speed: On Clash Win using Base Attack Skills, inflict +1 [Combustion] Count on target (once per turn)\n- Prioritizes \"The Thumb\" Identities\n- If the ally is \"The Thumb\" Identity, inflict +1 [Combustion] Count and [Vibration] Count instead\n- Combat Start: If there is only 1 enemy on the field, (for Abnormalities, a Core), this effect inflicts +1 more [Combustion] Count and [Vibration] Count",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1091601,
+      "name": "La Spada di Palermo",
+      "desc": "If this unit has 1+ [AccelBullet], Skill 3 gains Coin Power +1 and deals +25% damage\n\nBase Skills deal +1% damage for every 2 [Combustion] on the main target (max 15%)\n- If the main target has Shield, Base Skills deal +3% damage instead (max 45%)"
+    },
+    {
+      "id": 1091602,
+      "name": "The Eye of Precognition",
+      "desc": "Upon entering the Encounter for the first time, gain 30 [FutureEyeOnRodion]\nAt 0 [FutureEyeOnRodion] Stack, convert [FutureEyeOnRodion] into [FutureEyeOffRodion]\n\nWhile this unit has [FutureEyeOnRodion], activate the following effects:\n- In a Clash, gain 1 [LookingFutureRodion] with every Clash (5 times per Skill)\n- When attacked by an Unopposed Attack, [SuperCoin] Attack, or losing a Clash against an Attack Skill, activate the \"Precognition\" Skill (once per turn)\n\nThe following causes this unit to lose [FutureEyeOnRodion] Stack:\n- Lose 1 [FutureEyeOnRodion] with every Clash\n- When this unit activates the \"Precognition\" Skill via Passive effect due to being attacked by an Unopposed Attack or [SuperCoin] Attack, lose 3 [FutureEyeOnRodion]\n- When this unit activates the \"Precognition\" Skill via Passive effect due to losing a Clash, lose 5 [FutureEyeOnRodion]\n\nThe following causes this unit to gain [ObsessionAndGreedRodion] next turn:\n- If this unit's [FutureEyeOnRodion] Stack drops to 0\n- If this unit is Staggered\n- If The House of Spiders: The Thumb Apprentice Heathcliff is defeated (if the said Identity is already defeated when this unit Substitutes in, gain [ObsessionAndGreedRodion] at Turn Start)\n\nTurn End: When Staggered for the first time in this Encounter, recover from Stagger (excluding forced Staggers)"
+    },
+    {
+      "id": 1091612,
+      "name": "The Eye of Precognition",
+      "desc": "Upon entering the Encounter for the first time, gain 30 [FutureEyeOnRodion]\nAt 0 [FutureEyeOnRodion] Stack, convert [FutureEyeOnRodion] into [FutureEyeOffRodion]\n\nWhile this unit has [FutureEyeOnRodion], activate the following effects:\n- In a Clash, gain 1 [LookingFutureRodion] with every Clash (5 times per Skill)\n- When attacked by an Unopposed Attack, [SuperCoin] Attack, or losing a Clash against an Attack Skill, activate the \"Precognition\" Skill (once per turn)\n\nThe following causes this unit to lose [FutureEyeOnRodion] Stack:\n- Lose 1 [FutureEyeOnRodion] with every Clash\n- When this unit activates the \"Precognition\" Skill via Passive effect due to being attacked by an Unopposed Attack or [SuperCoin] Attack, lose 3 [FutureEyeOnRodion]\n- When this unit activates the \"Precognition\" Skill via Passive effect due to losing a Clash, lose 5 [FutureEyeOnRodion]\n\n<style=\"highlight\">At the end of the turn this unit's [FutureEyeOnRodion] is converted into [FutureEyeOffRodion], activate the following effects:\n- [FullReload] (once per Encounter)\n- At the start of the next turn, if this unit has no \"Disposal\" on its Dashboard, replace a Base Skill with \"Disposal\" (prioritizes the Skill on the leftmost Slot's top row)</style>\n\nThe following causes this unit to gain [ObsessionAndGreedRodion] next turn:\n- If this unit's [FutureEyeOnRodion] Stack drops to 0\n- If this unit is Staggered\n- If The House of Spiders: The Thumb Apprentice Heathcliff is defeated (if the said Identity is already defeated when this unit Substitutes in, gain [ObsessionAndGreedRodion] at Turn Start)\n\nTurn End: When Staggered due to damage for the first time in this Encounter, recover from Stagger (excluding forced Staggers)"
+    },
+    {
+      "id": 1091603,
+      "name": "The Shame of Famiglia Bognatelli",
+      "desc": "Gain 2 [Breath] and +2 [Breath] Count for every [AccelBullet] spent\nWhen flipping a Coin that spends [AccelBullet], the attack does not get canceled even when this unit is out of [AccelBullet]\n\nThis Identity counts only as an \"Identity that inflicts [Combustion] and [Vibration]\"\n\nTurn Start: If this unit has \"Disposal\" on its Dashboard, inflict [TeachersPreyRodion] on the enemy this unit attacked last in the previous turn (in Focused Encounters, the Parts count for this purpose)\n- If there are no targets that satisfy the condition above, inflict [TeachersPreyRodion] on the enemy that has the lowest HP"
+    },
+    {
+      "id": 1091604,
+      "name": "Saikai [再会] - The Thumb",
+      "desc": "If this unit is defeated at Encounter Start, or if this unit is defeated during the Encounter, Blade of the House of Spiders Ryōshū gains the following effects:\n- Gain 1 [SojiRyoshuEchoPast]\n- Defense Skill Coin Power +1, Base Attack Skills deal +10% damage against targets that have Shield"
+    },
+    {
+      "id": 1091621,
+      "name": "Weaklings, Not Worth Shit",
+      "desc": "1 ally with the fastest Speed: When triggering [VibrationExplosion] on the enemy, gain 2 Offense Level Up next turn (once per turn)\n- If the said ally is \"The Thumb\" Identity, gain 1 [Agility] as well (once per turn)"
+    },
+    {
+      "id": 1121601,
+      "name": "Morgenfeuer [Stigma Workshop]",
+      "desc": "When other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Rep Gregor uses the \"Flash of Sunup\" Skill against the targeted enemy (once per turn per Identity)\n- At Base Skill Attack End: If the enemy that was hit is Staggered, use \"Flash of Sunup\" against said enemy\n(Does not activate if the said enemy was already Staggered Before Attack of the said Skill)\n- At Attack End of the following Skills, use \"Flash of Sunup\" on the enemy they hit (prioritizes Staggered targets):\n  · Dawn Office[TabExplain] Fixer Faust's \"Eject\", \"Eject - High Noon[TabExplain]\", and \"Dismemberment at High Noon[TabExplain]\"\n  · Dawn Office[TabExplain] Fixer Sinclair's \"Stigmatize\" and \"Blazing[TabExplain] Strike\"\n\nIf Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Coins added to Dawn Office[TabExplain] Rep Gregor's Base Skills, deal additional Wrath damage equal to [Combustion] on targeted enemy (max 10; max 20 per turn)\n- Counts as activating [Combustion]",
+      "summary": "If conditions are met, deal Wrath damage based on Burn Potency",
+      "flavor": "An A+ class Workshop weapon that has remained a constant companion of its wielder, <i>the Fixer at the Crack of Dawn</i>, since his first days as a Fixer through the Smoke War and its fallout. Every contract successfully carried out by the Fixer added to Stigma Workshop's fame, and as a show of gratitude, they repeatedly upgraded and expanded the weapon's capabilities. Just as the Fixer's seasoned renown was built up over time, this blade, too, was forged, remade, and sharpened by the years. \nMorgenfeuer, once regarded as an S-class weapon, inevitably lost its fervor and edge in the twilight years of the Fixer at the Crack of Dawn as he withdrew from the front lines of the Fixer business in favor of teaching the next generation."
+    },
+    {
+      "id": 1121611,
+      "name": "Morgenfeuer [Stigma Workshop]",
+      "desc": "When this unit has [DawnLight], gain 2 [StigmaWorkshopHandStep1] On Hit using Base Attack Skills\n\nWhen other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Rep Gregor uses the \"Flash of Sunup\" Skill against the targeted enemy (once per turn per Identity)\n- At Base Skill Attack End: If the enemy that was hit is Staggered, use \"Flash of Sunup\" against said enemy\n(Does not activate if the said enemy was already Staggered Before Attack of the said Skill)\n- At Attack End of the following Skills, use \"Flash of Sunup\" on the enemy they hit (prioritizes Staggered targets):\n  · Dawn Office[TabExplain] Fixer Faust's \"Eject\", \"Eject - High Noon[TabExplain]\", and \"Dismemberment at High Noon[TabExplain]\"\n  · Dawn Office[TabExplain] Fixer Sinclair's \"Stigmatize\" and \"Blazing[TabExplain] Strike\"\n\nIf Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Coins added to Dawn Office[TabExplain] Rep Gregor's Base Skills, deal additional Wrath damage equal to [Combustion] on the targeted enemy (max 10; max 20 per turn)\n- Counts as activating [Combustion]",
+      "summary": "Gain [StigmaWorkshopHandStep1]\nIf conditions are met, deal Wrath damage based on Burn Potency",
+      "flavor": "An A+ class Workshop weapon that has remained a constant companion of its wielder, <i>the Fixer at the Crack of Dawn</i>, since his first days as a Fixer through the Smoke War and its fallout. Every contract successfully carried out by the Fixer added to Stigma Workshop's fame, and as a show of gratitude, they repeatedly upgraded and expanded the weapon's capabilities. Just as the Fixer's seasoned renown was built up over time, this blade, too, was forged, remade, and sharpened by the years. \nMorgenfeuer, once regarded as an S-class weapon, inevitably lost its fervor and edge in the twilight years of the Fixer at the Crack of Dawn as he withdrew from the front lines of the Fixer business in favor of teaching the next generation."
+    },
+    {
+      "id": 1121602,
+      "name": "The Fixer at the Crack of Dawn",
+      "desc": "Upon entering the Encounter for the first time, gain 0 [StigmaWorkshopHandStep1]\n\nCannot be Staggered or fall below 1 HP due to [Combustion] damage\nTake -50% damage from [Combustion] effects (rounded down)\n- At less than 50% HP, take -75% damage from [Combustion] effects instead (rounded down)"
+    },
+    {
+      "id": 1121603,
+      "name": "Dawn Office",
+      "desc": "Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office[TabExplain] Identities (including this unit) on the field, apply [DawnTeam] Stack on all Dawn Office[TabExplain] Identities equal to the number of Dawn Office[TabExplain] Identities on the field\n\nIf Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:\n- Dawn Office[TabExplain] Fixer Sinclair gains [DawnGregor]\n- Turn Start: If Dawn Office[TabExplain] Rep Gregor is defeated, convert [DawnGregor] on Dawn Office[TabExplain] Fixer Sinclair into [DawnGregorDying]\n- Turn Start: If Dawn Office[TabExplain] Fixer Sinclair has less than 50% HP, apply [RunSinclair] on that unit (once per Encounter)"
+    },
+    {
+      "id": 1121621,
+      "name": "Stigma Workshop Prosthesis",
+      "desc": "The ally who has the highest current HP inflicts 2 [Vibration] On Hit against enemies that have [Combustion] (once per turn)\n- If said enemy has 10+ [Combustion], trigger [VibrationExplosion] On final Coin Hit; then, reduce target's [Vibration] Count by 1 (once per turn)",
+      "flavor": "A prosthetic gear produced by Stigma Workshop—a Workshop normally specializing in bladed weaponry—designed specifically for the Fixer at the Crack of Dawn to use. Attempting to use this fiery equipment without understanding Stigma Workshop's precise quirks will be met with swift consequences: painful, flesh-melting burn marks seared into the user's body."
+    },
+    {
+      "id": 1021602,
+      "name": "Heatproof Coat",
+      "desc": "Upon entering the Encounter for the first time, gain 0 [StigmaWorkshopCelloCaseOne]\n\nCannot be Staggered or fall below 1 HP due to [Combustion] damage\nTake -50% damage from [Combustion] effects (rounded down)\n- At less than 50% HP, take -75% damage from [Combustion] effects instead (rounded down)",
+      "summary": "Take less damage from Burn effects",
+      "flavor": "If you have made up your mind to use Workshop gears that utilize heat, then you had best be prepared to pay a slew of hidden costs. Unlike conventional weapons, whose variables are in the more obviously observable territory, such as sharpness and durability, weapons that radiate heat require all manner of groundwork to ensure that the wielder is not consumed by that very heat. And that requires money.\n\nIt is, of course, a simple enough thing to procure weapons that set things ablaze outright or fabrics that do not catch fire easily. But to obtain a weapon whose heat output can be fine-tuned and controlled at any given moment according to the wielder's every need, or outlier fabrics that ward off heat <i>completely</i>—such exceptional gear costs not only a fortune but also the wielder's constant training to be as exceptional in handling them.\n\nNaturally, if you have invested that much money and time, the returns will come in the form of many more contracts requiring your services."
+    },
+    {
+      "id": 1021603,
+      "name": "Seonbae",
+      "desc": "If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:\n- Dawn Office[TabExplain] Fixer Sinclair gains [DawnFaust]\n- Turn Start: If Dawn Office[TabExplain] Fixer Faust is defeated, convert [DawnFaust] on Dawn Office[TabExplain] Fixer Sinclair into [DawnFaustDying]",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1021601,
+      "name": "Feuerfalter [Stigma Workshop]",
+      "desc": "When other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Fixer Faust uses the \"Seconded Offensive\" Skill against the targeted enemy (once per turn per Identity)\n- At Base Skill Attack End: If the enemy that was hit is Staggered, use \"Seconded Offensive\" against said enemy\n(Does not activate if the said enemy was already Staggered Before Attack of the said Skill)\n- At Attack End of the following Skills, use \"Seconded Offensive\" on the enemy they hit (prioritizes Staggered targets):\n  · Dawn Office[TabExplain] Rep Gregor's \"Dawnsplitter\" and \"Crack of Dawn\"\n  · Dawn Office[TabExplain] Fixer Sinclair's \"Stigmatize\" and \"Blazing[TabExplain] Strike\"\n\nIf Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Reused Coins of Dawn Office[TabExplain] Fixer Faust's Base Skills, deal additional Wrath damage equal to [Combustion] on targeted enemy (max 10; max 20 per turn)\n- Counts as activating [Combustion]",
+      "summary": "Activate additional attack\nOn Hit using Reused Coins, deal Wrath damage based on Burn Potency",
+      "flavor": "The appeal of a weapon shaped like a suitcase or a musical instrument case is clear enough.\n\nFirst, the user may blend into the cover of daily life without raising alarm. Though arms of this sort are unwieldy and complicated to make use of in battle, that perceived shortcoming makes them less likely to be recognized as tools of killing.\n\nSecondly, weapons fashioned into the form of a case afford storage capacity. Container-shaped arms, for example, are actively used by the Fixers of the Devyat' Association.\n\nSuch convenience, however, does not automatically win favors from those who elect Workshop gear as their weapon of choice. The common opinion is that anyone who invests so much time in mastering this sort of weaponry would be better served by training with something else—in fact, the user would often hear snide remarks from other combatants, ranging from \"Fixers these days\" to \"showy and pretentious.\"\n\nBut should one let this reputation for impracticality drop one's guard when facing an opponent armed with such a finicky piece of equipment, especially if they happen to be a high-ranking Fixer or a Syndicate officer, one will find that the laughable \"containers\" or \"cases\" carry quite a different weight—a weight grave enough for any Workshop worth its name to call them \"coffins.\" And coffins, as a matter of fact, have a way of inviting butterflies."
+    },
+    {
+      "id": 1021611,
+      "name": "Feuerfalter [Stigma Workshop]",
+      "desc": "<style=\"highlight\">Combat Start: When this unit has [Firstlight], gain (Stack x 3) [StigmaWorkshopCelloCaseOne]</style>\n\nWhen other Dawn Office[TabExplain] Identities meet the following conditions, Dawn Office[TabExplain] Fixer Faust uses the \"Seconded Offensive\" Skill against the targeted enemy (once per turn per Identity)\n- At Base Skill Attack End: If the enemy that was hit is Staggered, use \"Seconded Offensive\" against said enemy\n(Does not activate if the said enemy was already Staggered Before Attack of the said Skill)\n- At Attack End of the following Skills, use \"Seconded Offensive\" on the enemy they hit (prioritizes Staggered targets):\n  · Dawn Office[TabExplain] Rep Gregor's \"Dawnsplitter\" and \"Crack of Dawn\"\n  · Dawn Office[TabExplain] Fixer Sinclair's \"Stigmatize\" and \"Blazing[TabExplain] Strike\"\n\nIf Dawn Office[TabExplain] Fixer Sinclair is on the field: On Hit using Reused Coins of Dawn Office[TabExplain] Fixer Faust's Base Skills, deal additional Wrath damage equal to [Combustion] on the targeted enemy (max 10; max 20 per turn)\n- Counts as activating [Combustion]",
+      "summary": "If this unit has Battle Instinct, gain Fire Butterfly Coffin\nActivate additional attack\nOn Hit using Reused Coins, deal Wrath damage based on Burn Potency",
+      "flavor": "The appeal of a weapon shaped like a suitcase or a musical instrument case is clear enough.\n\nFirst, the user may blend into the cover of daily life without raising alarm. Though arms of this sort are unwieldy and complicated to make use of in battle, that perceived shortcoming makes them less likely to be recognized as tools of killing.\n\nSecondly, weapons fashioned into the form of a case afford storage capacity. Container-shaped arms, for example, are actively used by the Fixers of the Devyat' Association.\n\nSuch convenience, however, does not automatically win favors from those who elect Workshop gear as their weapon of choice. The common opinion is that anyone who invests so much time in mastering this sort of weaponry would be better served by training with something else—in fact, the user would often hear snide remarks from other combatants, ranging from \"Fixers these days\" to \"showy and pretentious.\"\n\nBut should one let this reputation for impracticality drop one's guard when facing an opponent armed with such a finicky piece of equipment, especially if they happen to be a high-ranking Fixer or a Syndicate officer, one will find that the laughable \"containers\" or \"cases\" carry quite a different weight—a weight grave enough for any Workshop worth its name to call them \"coffins.\" And coffins, as a matter of fact, have a way of inviting butterflies."
+    },
+    {
+      "id": 1021621,
+      "name": "The Lone Fixer",
+      "desc": "Combat Start: If there is only 1 surviving Identity, including Backup units, the said Identity gains 3 [AttackUp] and 3 [DefenseUp]",
+      "summary": "Gain 3 Offense Level Up and 3 Defense Level Up",
+      "flavor": ""
+    },
+    {
+      "id": 1011601,
+      "name": "VelocityAndCoordinatesAndVelocity",
+      "desc": "If this unit's Speed is faster than the target's, deal +(Speed difference x [Charge] Potency on self)% damage (max 20%)\n\nTurn End: Gain ([Charge] Potency on self / 2) [Agility] next turn (max 2; rounded down)",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1011602,
+      "name": "Open Alley",
+      "desc": "Gain 1 [Charge] Potency every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nWhen another ally's Skill hits an enemy: At Attack End, consume 1 [DriftingDimensionYisang] to activate \"Dimensional Slice\" against the said target; then, gain 1 [FourDimensionYisang]",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 1011621,
+      "name": "LetManOutrunEvenTheRayOfLight",
+      "desc": "When 1 ally with the fastest Speed uses a Skill that gains or consumes [Charge] Count, gain 1 [Agility] next turn (once per turn)",
+      "summary": "",
+      "flavor": ""
     }
   ]
 }
