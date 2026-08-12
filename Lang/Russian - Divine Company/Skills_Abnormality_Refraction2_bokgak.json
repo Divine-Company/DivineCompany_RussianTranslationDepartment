@@ -271,7 +271,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Raise Stagger Threshold equal to [Breath] on self"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold equal to [Breath] on self"
                 }
               ]
             },
@@ -306,7 +306,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] At 5+ [Breath], raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] At 5+ [Breath], raise Stagger Threshold by 50% of damage dealt"
                 },
                 {
                   "desc": "[OnSucceedAttack] All Parts gain 8 [Breath] and +4 [Breath] Count"
