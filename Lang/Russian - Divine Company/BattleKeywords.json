@@ -2502,9 +2502,9 @@
     },
     {
       "id": "NiddleEGO",
-      "name": "Needle",
-      "desc": "- Unique Bleed\n- When taking Envy damage, gain +1 Bleed Count and reduce this effect's Stack by 1\n- Turn End: Gain 1 Bleed and reduce this effect's Stack by 1",
-      "summary": "Gain Bleed Count",
+      "name": "Игла",
+      "desc": "- Особое Кровотечение\n- При получении урона Завистью уменьшается на 1 и накладывается 1 Счётчик Кровотечения\n- В конце хода: Уменьшается на 1 и накладывается 1 Кровотечение",
+      "summary": "Накладывается Счётчик Кровотечения",
       "undefined": "-"
     },
     {

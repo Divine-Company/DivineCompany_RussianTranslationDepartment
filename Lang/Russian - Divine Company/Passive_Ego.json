@@ -185,7 +185,7 @@
     {
       "id": 2100311,
       "name": "Stew Spewage",
-      "desc": "On Tails Hit, inflict 1 [Combustion] if target is an enemy"
+      "desc": "При ударе Решкой противника накладывает 1 [Combustion]."
     },
     {
       "id": 2010411,
@@ -588,7 +588,7 @@
     {
       "id": 2031011,
       "name": "'Tis Thy Turn to Swallow the Needle!",
-      "desc": "Envy Skills deal +10% damage\n- Said Skills deal +1% more damage for every 1 Envy Reson. (max 7%)\n\nTurn Start: Gain [AttackUp] equal to (cumulative HP damage taken by this unit in this Encounter (including Shield damage) / 20) (max 3)\n\nCombat Start: On Envy A-Reson., inflict 1 [NiddleEGO] to all enemies (in Focused Encounters, all Parts)"
+      "desc": "Навыки Зависти наносят на 10% больше урона.\n- Указанные навыки наносят на 1% больше урона за каждый Рез. Зависти (Макс. 7%).\n\nВ начале хода: Накладывается [AttackUp], равное (Суммарное количество урона по ОЗ полученного персонажем в этом Бою (Включая урон по Щиту) / 20) (Макс. 3).\n\nВ начале Схваток: При Абсолютном Резонансе Зависти накладывает 1 [NiddleEGO:`Иглу`] на всех противников (В Целевых Боях, на все Части)."
     },
     {
       "id": 2030412,
@@ -598,7 +598,7 @@
     {
       "id": 2100312,
       "name": "Stew Spewage",
-      "desc": "On Tails Hit, inflict 1 [Combustion] if target is an enemy\n\n<style=\"highlight\">When using Base Attack Skills that inflict [Combustion] Potency or Count against enemies,\n\n- For Plus Coin Skills:\n· At lower than 40 SP, heal 4 SP\n· At 40 or higher SP, deal +10% damage\n\n- For Minus Coin Skills:\n· At higher than -25 SP, lose 4 SP (this effect cannot reduce this unit's SP below -40)\n· At -25 or lower SP, deal +10% damage</style>"
+      "desc": "При ударе Решкой противника накладывает 1 [Combustion].\n\n<style=\"highlight\">При использовании базовых атакующих навыков, накладывающих Значение или Счётчик [Combustion:`Горения`] на противников:\n- Для навыков с положительными Монетами:\n· При менее 40 ПР восстанавливает 4 ПР;\n· При 40 или выше ПР наносит на 10% больше урона.\n\n- Для навыков с отрицательными Монетами:\n· При более -25 ПР, теряет 4 ПР (Этот эффект не может уменьшить ПР этого персонажа ниже -40);\n· При -25 или меньше ПР наносит на 10% больше урона.</style>"
     }
   ]
 }
