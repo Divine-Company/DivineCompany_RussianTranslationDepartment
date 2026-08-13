@@ -302,7 +302,7 @@
     },
     {
       "id": "mainui_gacha_daliynotice",
-      "content": "Обновляется ежедневно в {0}:00"
+      "content": "Обновляется в {0}:00"
     },
     {
       "id": "mainui_gacha_alreadyusedgacha",
@@ -1830,19 +1830,19 @@
     },
     {
       "id": "vending_machine_item_available_date_label",
-      "content": "Dispenser Unlock:\n{0}/{1} {2} ({3})"
+      "content": "Откроется:\n{1}.{0} {2} ({3})"
     },
     {
       "id": "gacha_notice_vending_available_date",
-      "content": "Seasonal Identities can be Dispensed from the Dispenser starting from {0}/{1} {2} ({3})"
+      "content": "Личности сезона можно будет приобрести в Автомате с {1}.{0} {2} ({3})"
     },
     {
       "id": "gacha_notice_vending_available_date_v2",
-      "content": "Seasonal E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+      "content": "ЭГО сезона можно будет приобрести в Автомате с {1}.{0} {2} ({3})"
     },
     {
       "id": "gacha_notice_vending_available_date_v3",
-      "content": "Seasonal ID & E.G.O can be Dispensed starting from {0}/{1} {2} ({3})"
+      "content": "Личности и ЭГО сезона можно будет приобрести в Автомате с {1}.{0} {2} ({3})"
     },
     {
       "id": "mini_story_warning_spoiler_checkbox_desc",
