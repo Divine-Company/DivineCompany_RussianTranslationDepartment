@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "stage_statistic_title",
-      "content": "Clear Statistics"
+      "content": "Статистика прохождений"
     },
     {
       "id": "stage_statistic_popup_no_data",
-      "content": "No clear info found."
+      "content": "Статиска не найдена."
     },
     {
       "id": "formation_code_popup_copy_only_desc",
-      "content": "Team Codes can be copied and pasted to load the Team loadouts."
+      "content": "Код отряда можно скопировать и вставить для добавляния отряда в список отрядов."
     }
   ]
 }
