@@ -10,7 +10,7 @@
     },
     {
       "id": "WinDuel",
-      "name": "[Победа в Схватке]"
+      "name": "[При победе в Схватке]"
     },
     {
       "id": "BeforeAttack",
@@ -34,7 +34,7 @@
     },
     {
       "id": "CantIdentify",
-      "name": "[Indiscriminate]"
+      "name": "[Без разбора]"
     },
     {
       "id": "CRIMSON",
@@ -102,7 +102,7 @@
     },
     {
       "id": "CantDuel",
-      "name": "[Unclashable]"
+      "name": "[Нельзя вступить в Схватку]"
     },
     {
       "id": "EnemyKill",
@@ -162,7 +162,7 @@
     },
     {
       "id": "CantChangeTarget",
-      "name": "[Target Fixed]"
+      "name": "[Фиксированная цель]"
     },
     {
       "id": "TurnStartBattle",
@@ -278,7 +278,7 @@
     },
     {
       "id": "WinDuelEndSkill",
-      "name": "[Attack End After Clash Win]"
+      "name": "[В конце атаки после победы в Схватке]"
     },
     {
       "id": "WhenUseEGOPassive2010911",
