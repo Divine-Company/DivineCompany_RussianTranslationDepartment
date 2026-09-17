@@ -1,6 +1,6 @@
 {
-    "dataList": [
-        {
+  "dataList": [
+    {
       "id": 500101,
       "levelList": [
         {
@@ -31,8 +31,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500102,
       "levelList": [
         {
@@ -63,8 +63,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500103,
       "levelList": [
         {
@@ -82,8 +82,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500104,
       "levelList": [
         {
@@ -111,8 +111,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500105,
       "levelList": [
         {
@@ -124,8 +124,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500106,
       "levelList": [
         {
@@ -137,8 +137,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500107,
       "levelList": [
         {
@@ -162,8 +162,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500108,
       "levelList": [
         {
@@ -198,8 +198,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500109,
       "levelList": [
         {
@@ -211,8 +211,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500110,
       "levelList": [
         {
@@ -236,8 +236,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500111,
       "levelList": [
         {
@@ -251,8 +251,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500112,
       "levelList": [
         {
@@ -270,8 +270,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500113,
       "levelList": [
         {
@@ -283,8 +283,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500114,
       "levelList": [
         {
@@ -315,8 +315,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500115,
       "levelList": [
         {
@@ -329,8 +329,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500116,
       "levelList": [
         {
@@ -354,8 +354,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500301,
       "levelList": [
         {
@@ -367,8 +367,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 500401,
       "levelList": [
         {
@@ -380,8 +380,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501203,
       "levelList": [
         {
@@ -402,8 +402,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501207,
       "levelList": [
         {
@@ -442,8 +442,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501209,
       "levelList": [
         {
@@ -455,8 +455,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501210,
       "levelList": [
         {
@@ -468,8 +468,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501303,
       "levelList": [
         {
@@ -490,8 +490,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501304,
       "levelList": [
         {
@@ -518,8 +518,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501307,
       "levelList": [
         {
@@ -558,8 +558,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501308,
       "levelList": [
         {
@@ -622,8 +622,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501309,
       "levelList": [
         {
@@ -635,8 +635,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "id": 501310,
       "levelList": [
         {
@@ -648,6 +648,377 @@
           ]
         }
       ]
+    },
+    {
+      "id": 501901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Double Slash",
+          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": 501902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triple Slash",
+          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Double Slash - Blast [爆]",
+          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triple Slash - Blast [爆]",
+          "desc": "Final Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 4)\n[DefeatDuel] Lose 1 [BulletPropellant]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blasting Shatterslash [爆碎斬]",
+          "desc": "Prioritizes targets that have [Prey_leiheng]\n<color=#ff6000><mark=#ff000040><b><u>Can clash with this Skill regardless of Speed</u></b></mark></color>\nCoin Power +1 for every 6 ([Combustion] + [Vibration]) on target (max 3)\n[DefeatDuel] Lose 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Vibration] and +4 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tanglecleaver [快刀亂麻]",
+          "desc": "Prioritizes targets that have [Prey_leiheng]\n<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill</u></b></mark></color>\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stacks, gain Atk Weight +1 for every 10 Stack consumed (max 2)\n- ... 25 Stacks, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 5)\n[DefeatDuel] Gain 1 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; <color=#ff6000><mark=#ff000040><b><u>inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill</u></b></mark></color> (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend all [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict [Combustion], [Combustion] Count, [Vibration], and [Vibration] Count by [BulletPropellant] spent"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+          "desc": "Prioritizes targets that have [Prey_leiheng]\n<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed; this unit does not become Staggered before it uses this Skill</u></b></mark></color>\n[WhenUse] Consume all [BattleSense] Stack on self. If this unit consumed...\n- ... 10+ Stacks, gain Atk Weight +1 for every 10 Stack consumed (max 4)\n- ... 25+ Stacks, Final Power +1 for every 4 (sum of [Combustion] and [Vibration] on the main target) (max 6)\n- ... 50 Stacks, Coin Power +1 and deal +50% damage\n[DefeatDuel] Gain 6 [Paralysis]\n[DefeatDuel] Deal -80% damage; this Skill's damage cannot Stagger the target; <color=#ff6000><mark=#ff000040><b><u>inflict only half the Potency and Count for both [Combustion] and [Vibration] inflicted by this Skill</u></b></mark></color> (unless raised by other effects)\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)\n[EndSkill] Ends this turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 6 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +6 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +6 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]</u></b></mark></color> Trigger [VibrationExplosion] 5 times; then, reduce target's [Vibration] Count by 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 501908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reloading Tiantui Star's Blade",
+          "desc": "[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndBattle] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Spend 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 502001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Savage Tigermark Support",
+          "desc": "[EndBattle] Give 6 [BulletPropellantSpecial] to Lei Heng\n[EndBattle] [DisengageCombat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
 }

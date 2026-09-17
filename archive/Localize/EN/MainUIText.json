@@ -129,6 +129,10 @@
       "content": "Are you sure you want to skip?"
     },
     {
+      "id": "mainui_story_continue_next_desc",
+      "content": "Continue to the next episode?\n(will proceed after receiving any available first-time viewing rewards)"
+    },
+    {
       "id": "mainui_battleresult_reward",
       "content": "Rewards"
     },
@@ -1813,22 +1817,6 @@
       "content": "One of the rewards you are about to claim\nincludes an Announcer who may contain spoilers\nfor a Chapter you haven't cleared yet.\n\nClaim them anyway?"
     },
     {
-      "id": "select_all",
-      "content": "Select All"
-    },
-    {
-      "id": "deselect_all",
-      "content": "Deselect All"
-    },
-    {
-      "id": "story_voice_setting_ui_title",
-      "content": "Story Voice Management"
-    },
-    {
-      "id": "story_voice_setting_ui_desc",
-      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
-    },
-    {
       "id": "vending_machine_item_available_date_label",
       "content": "Dispenser Unlock:\n{0}/{1} {2} ({3})"
     },
@@ -2071,6 +2059,30 @@
     {
       "id": "formation_announcer_reset_desc",
       "content": "Are you sure you want to reset {0}?"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_title",
+      "content": "EXP Luxcavation #10 (Slash)"
+    },
+    {
+      "id": "mainui_exp_dungeon_16_open_day",
+      "content": "EXP Luxcavation #10 (Slash) opens on MON, TUE, and SUN."
+    },
+    {
+      "id": "mainui_exp_dungeon_17_title",
+      "content": "EXP Luxcavation #10 (Pierce)"
+    },
+    {
+      "id": "mainui_exp_dungeon_17_open_day",
+      "content": "EXP Luxcavation #10 (Pierce) opens on WED, THU, and SUN."
+    },
+    {
+      "id": "mainui_exp_dungeon_18_title",
+      "content": "EXP Luxcavation #10 (Blunt)"
+    },
+    {
+      "id": "mainui_exp_dungeon_18_open_day",
+      "content": "EXP Luxcavation #10 (Blunt) opens on FRI, SAT, and SUN."
     }
   ]
 }

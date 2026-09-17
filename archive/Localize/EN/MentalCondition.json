@@ -124,6 +124,16 @@
       "id": "OnEndAttackMp",
       "add": "Increases by {0} at Attack End",
       "min": "Decreases by {0} at Attack End"
+    },
+    {
+      "id": "OnGiveNegativeBuffStackToEnemy",
+      "add": "Increases by {1} after this unit inflicts {0} Potency of a negative effect on an enemy",
+      "min": "Decreases by {1} after this unit inflicts {0} Potency of a negative effect on an enemy"
+    },
+    {
+      "id": "OnLoseDuelToSlowerEnemyAsParryingCountMultiplyAndPlusPercent",
+      "add": "Increases after losing a Clash, against a slower enemy, based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
+      "min": "Decreases after losing a Clash, against a slower enemy, based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Food Court, B1F",
+      "model": "그레고르",
+      "content": "... Don't tell me that stuff they're ladling out of the fountain is what those fellas in rags were talking about..."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "It is Meat Soda."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Meursault, what's Meat Soda?>"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "It's a beverage that reproduces flavors preserved in memory."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Hmm... Like Canned Experience, you mean?>"
+    },
+    {
+      "id": 5,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 6,
+      "model": "뫼르소",
+      "content": "Identical, in the respect that neither can ever attain the genuine article."
+    },
+    {
+      "id": 7,
+      "model": "파우스트",
+      "content": "As for the underlying principle, it accumulates the flavors and experiences of its constituent ingredients, then uses those records to reconstruct for the consumer a—"
+    },
+    {
+      "id": 8,
+      "model": "수셰프",
+      "content": "What are you people supposed to be, you hear?"
+    }
+  ]
+}

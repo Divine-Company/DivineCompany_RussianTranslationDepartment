@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "Head to 3F",
+      "description": "2F is currently \"undergoing renovations.\" Now matter how you cut it, it didn't look like your average construction project. \n\nSince we can't explore the floor anyway, perhaps we should get on the escalator and check out 3F first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Get on the escalator to 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "Follow the Snip-snip",
+      "description": "We're on 3F. What sounds like a distant pair of scissors are going snip-snip. Let's see where that sound's coming from.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Follow the snip-snip and explore the area to the top"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "Head to the Corridor",
+      "description": "We met Annette the Alterationist. I suppose she'll come in handy if we ever need a bundle of fabric woven.\nFor now, time to leave.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Leave the Alteration Shop and head back to the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "Explore 3F",
+      "description": "Sadly, we weren't able to get through to Two-piece. Or is it Two-pieces?\n\nAnyways, let's explore the remaining areas first. That store to the left, for example.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the store on the left"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "Talk to the Rouge at the Boutique",
+      "description": "We found ourselves inside a store called the \"Boutique.\" A disembodied voice, probably belonging to a \"Giant,\" constantly recites a mantra throughout the store.\nLet's talk to the vendor and see if there's anything more we could learn about this place.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to the employee at Boutique du Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "Head to the PA Room",
+      "description": "The Rouge employee, L'Inamovible, looks distraught that the \"Voice\" would only repeat what it has said before and wants to know why.\nBut the Voice's identity is Meursault's mother, who'd already passed away... Still, we decided to head to the PA Room as asked.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the PA Room"
+        }
+      ]
+    },
+    {
+      "key": "Q3007",
+      "title": "Return to L'Inamovible",
+      "description": "Received an PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to L'Inamovible.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3008",
+      "title": "Return to L'Inamovible",
+      "description": "Received an PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to L'Inamovible.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3009",
+      "title": "Talk to Two-piece (2)",
+      "description": "Okay, their \"meeting\" should be over by now. I hope.\nLet's return to Two-piece blocking the corridor to the right and find out.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to Two-piece in the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3010",
+      "title": "Head to the Alteration Shop",
+      "description": "The meeting is still underway with no signs of ever adjourning.\nOutis and Sinclair exchanged a look, then suggested that we head to the Alteration Shop... Maybe they've come up with a plan?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q3012",
+      "title": "Head to the Right",
+      "description": "Like Annette said, the scissors were well-sharpened, and managed to snip-snip the Two-piece into two-pieces.\nLet's explore what's behind them.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the store on the right"
+        }
+      ]
+    },
+    {
+      "key": "Q3013",
+      "title": "Eliminate Enthralled Noirs",
+      "description": "Made it to Maison du Noir.\nFlannel and Felt, two Noirs managing the store, want to \"premiumize\" their brand and asked us to remove a few Noirs who were enthralled by a foreign Voice.\nWe should talk to them after removing a few enthralled Noirs—about 3 should do.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Eliminate 3 enthralled Noirs"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Return to Flannel and Felt"
+        }
+      ]
+    },
+    {
+      "key": "Q3011",
+      "title": "Purchase a Pair of Scissors and Adjourn the Meeting",
+      "description": "Annette the Alterationist was selling a few pairs of scissors, last I recall.\nLet's purchase a pair of \"Well-sharpened Sewing Scissors\" and head back to Two-piece.\nOutis and Sinclair are both wearing the same strange, self-satisfied grin on their faces.\n\nWait, are they planning to—?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Purchase a pair of \"Well-sharpened Sewing Scissors\" from Annette the Alterationist"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Return to Two-piece in the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q4014",
+      "title": "Bring the Noirs up to Speed",
+      "description": "A note we found in the Happy Closet's remains said something about \"Golden Fabric\" and \"Nail.\" Maybe this is the recipe to crafting that legendary weapon that One-leg mentioned?\nLet's bring this back to that One-leg in the 4F Noir Footwear Hall as promised, then return to Flannel and Felt at Maison du Noir on 3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to the Arc Floor Lamp before leaving"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Talk to the One-leg in the 4F Noir Footwear Hall"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Talk to Flannel in the 3F Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q4015",
+      "title": "Head to the Alteration Shop",
+      "description": "We're back on 3F. Let's bring the Golden Skein back to Annette the Alterationist, and she'll weave a Golden Fabric out of it.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q4017",
+      "title": "Head to Boutique du Rouge",
+      "description": "Received the Golden Fabric from Annette the Alterationist... Now, to obtain the Nail.\nWe should be able to get the \"Nail\"—or, as the Noirs said, \"L'Inamovible's spine\"—from Boutique du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q4016",
+      "title": "Obtain the \"Nail\" and Return to Maison du Noir",
+      "description": "L'Inamovible's Distortion quickly exacerbated before our eyes, so we had to cut her down.\nTime to remove her spi—\"Nail.\"\nNow, we only need to drape the Golden Fabric around the nail to complete the legendary weapon of the Noirs, capable of ripping through any and all fabric.\n\nTime to return to Maison du Noir and deliver the news to Flannel and Felt.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Obtain the \"Nail\" from L'Inamovible's remains"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Return to Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "description": "0901",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}

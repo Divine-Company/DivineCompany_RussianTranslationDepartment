@@ -53,6 +53,27 @@
               ]
             }
           ]
+        },
+        {
+          "level": 5,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "<style=\"highlight\">Required Gluttony E.G.O resource to use this Skill is reduced by 1</style>\n[BeforeAttack] At 4+ (<style=\"highlight\">highest Reson.</style>), Atk Weight +1\nAt 6+ (<style=\"highlight\">highest Reson.</style>), additional Atk Weight +1\n\n<style=\"highlight\">[BeforeAttack] Deal +5% damage for every ([Combustion] on all targets + [Combustion] on self) (max 100%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 5 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target into 1 [DefenseDown] (<style=\"highlight\">max 5; this effect cannot lower target's [Combustion] Potency below 1)\n- If target has fewer than 10 [Combustion] Potency, this unit may use excess [Combustion] Potency on self past 30 for the above effect</style>"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -114,6 +135,33 @@
                 },
                 {
                   "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target to 1 Defense Level Down (max 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">Required Gluttony E.G.O resource to use this Skill is reduced by 1</style>\n[BeforeAttack] At 4+ (<style=\"highlight\">highest Reson.</style>), Atk Weight +1\nAt 6+ (<style=\"highlight\">highest Reson.</style>), additional Atk Weight +1\n\n<style=\"highlight\">[BeforeAttack] Deal +6% damage for every ([Combustion] on all targets + [Combustion] on self) (max 120%)\n[DefeatDuel] Base Power -10</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[SuperCoin]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict 2 [Binding] next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 5 [DefenseDown]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Convert 2 [Combustion] on target into 1 [DefenseDown] (<style=\"highlight\">max 5; this effect cannot lower target's [Combustion] Potency below 1)\n- If target has fewer than 10 [Combustion] Potency, this unit may use excess [Combustion] Potency on self past 30 for the above effect</style>"
                 }
               ]
             }

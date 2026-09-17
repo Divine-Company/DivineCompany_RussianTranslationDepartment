@@ -1,0 +1,3947 @@
+{
+  "dataList": [
+    {
+      "key": "D30011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>Boldness... tempered by prudence...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D3001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ah... Looks like it's you and me for this floor, Outis.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "Feels a bit strange, doesn't it? Having to go around with a different group on every floor.",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3110",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Still, I'm glad to be partnered up with you for this floor. It's been easier for us to work together lately, so...",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What? No, I'm not \"easy\" with anyone, least of all you Sinners. Ridiculous.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "Riiight...",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3115",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hey. I need to ask you something.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "Though she didn't specify who, I had a pretty good guess that the \"hey\" in question was directed at Meursault."
+        },
+        {
+          "index": 2,
+          "text": "Ask.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Have you been here before?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "It was the same question Ishmael had asked earlier. A reasonable one, too, as it was hard not to wonder how Meursault has so much detailed knowledge about this strange place, as though he were entirely familiar with it."
+        },
+        {
+          "index": 5,
+          "text": "No. I have not been in here before.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Then explain just how you happen to know so much about this place.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "Outis narrowed her eyes. That usually indicates that she's either suspicious of someone, or has already engaged her \"interrogation mode.\""
+        },
+        {
+          "index": 8,
+          "text": "... I was told about it.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Then your source was at least in a managerial position within the Grand Magasin, I'd wager. If they were just another lifer like the rest of the prisoners here, I doubt they would've had the means to reach you.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 10,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "What was the nature of your relationship with that individual?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 12,
+          "text": "The collaborative kind.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>The kind that gets... pretty steamy.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D3112",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<...?!>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3113",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Who said that?",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3114",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Sounds like I'm coming through.</color>"
+        },
+        {
+          "index": 1,
+          "text": "Just as Meursault replied..."
+        },
+        {
+          "index": 2,
+          "text": "... what I presumed to be the \"Voice\" the people of the Grand Magasin had mentioned began coming through with clarity. Though if I were to guess the speaker's mood, I'd say she carried... a faint note of discontent."
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>Now seems to be as good a time as any to introduce myself.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>My name is... Jeanne. That's the name of the Voice I've so graciously chosen to share with you.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D3002",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Time to bid each other adieu.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>I know you're dying to see me, ma puce, but try to exercise some restraint for now.</color>"
+        },
+        {
+          "index": 3,
+          "text": ".......",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "... Is she gone?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>... Am I?</color>"
+        },
+        {
+          "index": 6,
+          "text": "... Tsk. A familiar mischief.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>Sorry, couldn't help myself. It's not often that I get to fool around like this at work. Leaving for real now—tchao!</color>"
+        },
+        {
+          "index": 8,
+          "text": "What the hell, Meursault?!",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 9,
+          "text": "The anger you display is disproportionate to the significance of the matter at hand. The explanation is simple: our romantic intimacy began during my tenure at Sisyphe System. My permanent exile from N Corp. led to the natural dissolution of our relationship.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 11,
+          "text": "I'm sorry. It's just that... It's hard to picture you being romantically involved with... anyone.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 12,
+          "text": "Our relationship entailed elements that are no different from what is conventionally expected from \"romantic partners.\"",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "We went on dates and spent time together.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3003",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "... Wait, do you hear that? Sounds like a pair of scissors.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "It might be worth checking out.",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This isn't where the noise is coming from, Manager.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This isn't the way to the vendor, Manager.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Huh, looks like they're blocking the way through.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<... Should we try talking to those things?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Excuse me, would you let us into the store behind you?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "...!",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 4,
+          "text": "Meeting! So much meeting!",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 5,
+          "text": "So no entry. No room for anything else.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 6,
+          "text": "What's the taste of meeting?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 7,
+          "text": "Salty, so salty. Salty like tears. Too salty for anyone to swallow.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 8,
+          "text": "Meeting won't end. Swallow meeting to end debate. But can't swallow.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 9,
+          "text": "... So, what's this meeting about?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 10,
+          "text": "Agenda 1: Who is the outer fabric, and who is the lining?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 11,
+          "text": "Agenda 2: Who is the right hand, and who is the left hand?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 12,
+          "text": "Mmm, mmm. Good agendas. Let's write them both in the minutes.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 13,
+          "text": "Approaching them might be dangerous... Should we come back here later?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 14,
+          "text": "<Let's do that.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Desire. Then it shall be donned.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<There's a Voice here, too... Though it's different from the one we heard earlier.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "According to Miss Jeanne, it seems like each faction has a... guiding \"Voice,\" who is, in truth, a \"Giant.\" This voice probably belongs to one of them, too.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "A classic manipulation tactic. It bolsters solidarity within a faction by instilling its population with the entrenched in-group-versus-out-group mentality.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ah... I see your will and abide by it wholeheartedly. Today, once again, I will be honest with myself... and indulge in my desires.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "I shall stand against all that seeks to stop us, that one day your Voice might reach me, too...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 2,
+          "text": "... Do I hear new customers? First thing I like to tell the first-timers on our floor is this: you'll find the apparel displayed here to have a much more generous proportion of the Golden Hide than the shops below us, who only include trace amounts just so they can technically claim to be selling Golden Hide-infused fabric. Please, don't hesitate to touch the garment—I'm sure your discerning hands will notice the difference in quality.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 3,
+          "text": "Look, her eyes...!",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "Though the vendor was facing us, I only saw empty sockets where her eyes should've been."
+        },
+        {
+          "index": 5,
+          "text": "She's also been... nailed to the ground.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>Fan your desires... The more you are donned... the higher shall your self ascend...</color>"
+        },
+        {
+          "index": 7,
+          "text": "I understand... These meager patches of the Golden Hide cannot sate your desires... In my stead, countless Rouges have ventured out to scour the Grand Magasin as I speak...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 8,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 9,
+          "text": "People are really rallying around religion in here... I thought it was a pretty niche concept in the City.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 10,
+          "text": "You still don't seem to understand that the religions of the City are... veiled.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 11,
+          "text": "<Veiled?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "... Outis's eyes seemed to be lingering on something that I couldn't see. She ignored my question, deep in thought."
+        },
+        {
+          "index": 13,
+          "text": "She still does not whisper her Voice into my ears—I do not have the faith to hear it. Is it because I am nailed to the ground? Because I can no longer fulfill my duty of gathering the Golden Hide?",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 14,
+          "text": "<color=#cf0000>Yearn and desire. Desire shall be your transformation and ascension.</color>"
+        },
+        {
+          "index": 15,
+          "text": "I don't understand how exactly this \"Voice\" works, but she's so desperate to hear it that it makes me wish it would speak to her again.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 16,
+          "text": "The Voice she desires to hear will never speak to her again.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 17,
+          "text": "Meursault, who usually makes it a point never to deliver a judgment of his own, spoke with unexpected conclusiveness."
+        },
+        {
+          "index": 18,
+          "text": "Well, how are you so sure about that?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 19,
+          "text": "I know to whom that voice belongs.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 20,
+          "text": "<color=#cf0000>The vestments of Sisyphe gorge upon desire... gorge upon desire...</color>"
+        },
+        {
+          "index": 21,
+          "text": "Upon desire, and... Ahh, she's stopped again... Please don't stop... Speak to me again, please...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 22,
+          "text": "You do? Yet another one?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 23,
+          "text": "Yes.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 24,
+          "text": "That is my mother's voice.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Sisyphe... Siiiisssyyyypphheeeeee...</color>"
+        },
+        {
+          "index": 1,
+          "text": "The Voice, it's... it's forsaken me again.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 2,
+          "text": "Why... Why...?!",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 3,
+          "text": "The vendor jerks from side to side, but the nails firmly bind her to the ground."
+        },
+        {
+          "index": 4,
+          "text": "So... Who did this to you?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "This is my punishment, for I was foolish enough to let my heart harbor doubt.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 6,
+          "text": "When I was deafened to her Voice, I questioned her—and paid the price dearly, rightly so.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 7,
+          "text": "My eyes would seek too widely, and my legs would travel too far in search of the whereabouts of the Voice... In their bottomless kindness, the Rouges of the higher floors affixed me to this store for the rest of eternity.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 8,
+          "text": "But I... I...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 9,
+          "text": "I saw a short-lived glint of light reflect off something from behind the darkness of her empty eye sockets."
+        },
+        {
+          "index": 10,
+          "text": "I must know why the Voice no longer tells me any new tales... Why she only repeats and repeats the same stories without end...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 11,
+          "text": "This can't be right, can it? This <i>isn't</i> right, something's terribly wrong here... I've flayed the Golden Hide, torn apart and devoured the Noirs much more diligently than anyone else ever did... until they nailed me down...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 12,
+          "text": "Dear strangers, I've a request... I'll give you every last eyeball I have left, and in return...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 13,
+          "text": "... would you go to the Public Address room for me? It's on this floor. No other place here carried her Voice with such volume and clarity... Maybe there, you'll find a clue to what happened to the Voice.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 14,
+          "text": "<Right... the people inside Sisyphe have no way of knowing that Meursault's mother... has already passed away.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 15,
+          "text": "<Can you tell them that the \"Voice\" they worship has already—>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 16,
+          "text": "I doubt the plain truth will be able to breach the walls of reality her adamant faith has built, Executive Manager.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 17,
+          "text": "So... May I suggest that we comply with her request for now? I presume we have much intelligence and eyeballs to gain from undertaking this task.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 18,
+          "text": "<Sure, let's head to the PA room.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Do you need anything patched up?",
+          "speaker": "Annette"
+        }
+      ]
+    },
+    {
+      "key": "D3009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... The Alteration Shop sure is expensive.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "Price gouging outsiders seems to be the norm everywhere these days.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<We're going to have to raise our Prestige Tier again if we want to rise to the next floor...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Those monsters down the corridor look pretty dangerous... Should we go the other way?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "They are not monsters. They are Two-piece.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Two-piece?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "<Maybe it's their name? Or their jobs in here...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Mm.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "In that case, perhaps we could earn some eyeballs from them. Or get some directions to where the shops are on this floor, at the very least.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Doooonnnn... The more you are doooonnneed...",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "The being drones in a slow, dragging voice."
+        },
+        {
+          "index": 2,
+          "text": "<Whoa... This one's <i>huge</i>...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "There is a panel before this entity, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "3F Floor Manager: Narrator of the Endless.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "There's... something inside that birdcage in their hand. I think it's an... audiotape?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 6,
+          "text": "That audiotape might be able to answer the nailed Rouge's questions.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 7,
+          "text": "The more you are doooonnneed...",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 8,
+          "text": "<Sounds like it wants something from us.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "... It is mimicking.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "It is vaguely reminiscent of the words from the broadcasted Voice.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "<I noticed that, too.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "<Let's think back to what the Voice said back in the nailed Rouge's shop...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "The more you are doooonnneed...",
+          "speaker": "3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3011R",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The more you are doooonnneed...",
+          "speaker": "3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3012",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... the more shall your self become... your self become...",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "Desire... Desiiiiirrrrreeeeeee... Then...",
+          "speaker": "3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It shall be donned... be donned...",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "The vestments of Sisyphe... The vestmeeennnntsssss of... Sisypheeee...",
+          "speaker": "3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Gorge upon desire... upon desirrreeee...",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "The birdcage dangling from its hand opens with a <i>click</i>."
+        },
+        {
+          "index": 2,
+          "text": "Obtained \"PA System Audiotape.\""
+        }
+      ]
+    },
+    {
+      "key": "D3015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<I don't think that was the answer...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Strangers...! Strangerssssss...!!!",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "The audacity... The audacityyyy...!"
+        }
+      ]
+    },
+    {
+      "key": "D3018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The heap of fabric collapsed limply to the ground."
+        },
+        {
+          "index": 1,
+          "text": "An opened birdcage rolls out from beneath the pile."
+        },
+        {
+          "index": 2,
+          "text": "Obtained \"PA System Audiotape\"."
+        }
+      ]
+    },
+    {
+      "key": "D3101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... The broadcast has stopped.",
+          "speaker": "Ionesco"
+        }
+      ]
+    },
+    {
+      "key": "D3102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…?",
+          "speaker": "Ionesco"
+        }
+      ]
+    },
+    {
+      "key": "D3100",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Strangers, if I might ask...",
+          "speaker": "Ionesco"
+        },
+        {
+          "index": 1,
+          "text": "Have you come in contact with the Rouge nailed to the ground and with her eyes removed?",
+          "speaker": "Ionesco"
+        },
+        {
+          "index": 2,
+          "text": "... What is it to you?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "There are those among us who... despair that the Voice has abandoned their ears. They have taken to condemning the pipes of the PA room for the silence, prodding them to no avail. It's all a rather profane affair.",
+          "speaker": "Ionesco"
+        },
+        {
+          "index": 4,
+          "text": "The Voice is but one manifestation of faith; our duties remain all the same. We need only unwaveringly flay the Golden Hide the Grand Magasin has so generously granted us, so that we may weave and don it ourselves as raiments.",
+          "speaker": "Ionesco"
+        },
+        {
+          "index": 5,
+          "text": "Those who desiderate for the Voice's reply fail to grasp that concept. The Voice exists not to give us faith, but to distinguish the faithless from the doubtful.",
+          "speaker": "Ionesco"
+        },
+        {
+          "index": 6,
+          "text": "Though we may not be blessed with new tales now, our \"Voice\" will soon return our pleas. In a new, unprecedented form...",
+          "speaker": "Ionesco"
+        },
+        {
+          "index": 7,
+          "text": "<A new form...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Apologies for the disturbance to your shopping experience. Please, enjoy your spending.",
+          "speaker": "Ionesco"
+        }
+      ]
+    },
+    {
+      "key": "D3081",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hearing our footsteps, the vendor turns around to face us, fumbling a little as she does so."
+        },
+        {
+          "index": 1,
+          "text": "Y-you're back... What did you find there, in the PA room? Did you find the answer to my questions?",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 2,
+          "text": "We... found <i>something</i>, I guess, but...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "Of course... I knew there had to have been a reason! The Voice wouldn't withdraw her gaze from a devout Rouge like me... Not after I've committed my entire life and more to flaying the Golden Hide off the Grand Magasin...",
+          "speaker": "L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3082",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh... this is...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": ".......!",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 2,
+          "text": "Is everything... okay?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "You've brought me her Voice.",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 4,
+          "text": "All this time, it was just a sentence uttered eons ago...? Playing in a loop... in a loop... in a loop...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 5,
+          "text": "... No, NO!",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 6,
+          "text": "No, that can't be true. The Voice watches over me. This is just a test of my faith, that's all this is...!",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 7,
+          "text": "Tsk. What a fool.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "I gave up my eyes for this? I let them nail me to the floor for this?! Only to be condemned to an eternity of waiting, for an answer that will never come...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 9,
+          "text": "No, no... I must chant her mantra again, her Voice...",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 10,
+          "text": "<i>Don... Desire... The more you are donnned... the moooorrreeee yooouuuu aarrreee dooonnnneeed...</i>",
+          "speaker": "L'Inamovible"
+        },
+        {
+          "index": 11,
+          "text": "The vendor slowly shrinks into herself until she's curled up into a fetal position."
+        }
+      ]
+    },
+    {
+      "key": "D3083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Suddenly, strands of red hands sprout from her, enclosing her under layers upon layers of chiral membrane."
+        },
+        {
+          "index": 1,
+          "text": "Wh-what...?!",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "The arms swell with it, interlocking into a complex network of hands embracing hands."
+        },
+        {
+          "index": 3,
+          "text": "Enveloping her like a cocoon, insulating her from the tales of the outside."
+        },
+        {
+          "index": 4,
+          "text": "The entities some refer to as \"gods\"... They tend to cast aside those who cling to them most desperately.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "<... In the end, the truth was too much for her to accept.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3094",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That opened the shop for us, but... I'm not sure if I like how we got here.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Naturally. What you revealed to her is a truth that should never have come to light.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>That audiotape contains the truth the Rouges have tried to keep buried for many years.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>It reveals that they have only been deluding themselves into believing that a unique Voice personally whispered into each and every one of their ears...</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>... and that the Voice they have so fervently followed for so many years... was only an ancient recording playing on repeat.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>I don't know for sure, since I've never lived here myself, but...</color>"
+        },
+        {
+          "index": 6,
+          "text": "<color=#ebcaa2>... that audiotape must've been recorded about... 10 years ago in Sisyphe's time. Or 200? Maybe it was 500 years ago, even—it doesn't matter. What matters is that it <i>feels</i> like an appropriately ancient recording to those inside.</color>"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>It's been playing on repeat for a long time, loop after loop... No wonder the tape's been stretched to its limits.</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>Some of the high-tier Rouges in the Luxury Hall must've had their suspicions, I'm sure...</color>"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ebcaa2>But they can't possibly say outright that the Voice their faction so fervently follows will never say anything new again—that their Giant has abandoned them, for all intents and purposes—when the Noirs are waiting with bated breath to gain the upper hand.</color>"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ebcaa2>Though, I'm sure dear Meursault wouldn't have any qualms telling them the truth as it is. Isn't that right?</color>"
+        },
+        {
+          "index": 11,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "<color=#ebcaa2>There's no hiding the elephant in the room. The consequences of a Giant's disappearance are clear enough: cracks have formed in the walls of the Grand Magasin, and the departed no longer return.</color>"
+        },
+        {
+          "index": 13,
+          "text": "There's something I've been meaning to ask... Why do you call yourselves \"Giants\"?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 14,
+          "text": "<color=#ebcaa2>Why do <i>you</i> think we call ourselves \"Giants\"?</color>"
+        },
+        {
+          "index": 15,
+          "text": "Because you are pillars to something greater than yourselves.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 16,
+          "text": "<color=#ebcaa2>Sharp. Yes, the only things ensuring the continued existence of the Grand Magasin Sisyphe... are us. Without us shouldering the weight of this whole enterprise, its days are numbered.</color>"
+        },
+        {
+          "index": 17,
+          "text": "And there are multiple \"Giants,\" naturally.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 18,
+          "text": "<color=#ebcaa2>Naturally. You think there's anyone in the world who can handle this all on their own? If there were...</color>"
+        },
+        {
+          "index": 19,
+          "text": "So what, is the Grand Magasin nothing more than a show to you? Every bizarreness, every absurdity just some entertainment for Giants to watch from the outside like it's none of your business?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 20,
+          "text": "<color=#ebcaa2>Not at all. In our eyes, every one of these sights is...</color>"
+        },
+        {
+          "index": 21,
+          "text": "<color=#ebcaa2>... nauseating and terrifying. Yes, I've always been so afraid of it all.</color>"
+        },
+        {
+          "index": 22,
+          "text": "<Afraid?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 23,
+          "text": "<color=#ebcaa2>Ah. I've got to go—something I need to be there for.</color>"
+        },
+        {
+          "index": 24,
+          "text": "…….",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 25,
+          "text": "She's gone quiet again.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 26,
+          "text": "<I don't think we can go up to the fourth floor just yet... Do we have anywhere else to explore?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 27,
+          "text": "How about we check the corridor to the right again, Manager?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 28,
+          "text": "No meeting, however long, could possibly still be in session after all this time.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 29,
+          "text": "<That's true... Let's see if anything's changed.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The meeting. Is it still underway?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "The meeting? Still underway! Not over.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 2,
+          "text": "Right arm cast the dissenting vote...",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 3,
+          "text": "... and the outer fabric couldn't convince the lining.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 4,
+          "text": "... I've frequently intercepted and deciphered coded messages during the War, but...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "... no matter how complex their ciphers were, we could rely on the inherent intent to \"hide\" something to start the decoding process.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "<But for these two... this weird, coded way of speaking is just how they naturally communicate.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Perhaps torturing them would yield further opportunities to identify the patterns by which we may—",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "H-hang on, Outis. Let me try again.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 9,
+          "text": "In that case... when will this \"meeting\" end?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 10,
+          "text": "When?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 11,
+          "text": "When...?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 12,
+          "text": "When was it again?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 13,
+          "text": "When was the beginning, when is the ending?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 14,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 15,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 16,
+          "text": "... Are you also starting to see the merits of torture, Manager?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 17,
+          "text": "Now you're getting it.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 18,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 19,
+          "text": ".......",
+          "speaker": "Outis"
+        },
+        {
+          "index": 20,
+          "text": "Might you be considering the same option that I am?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 21,
+          "text": "I might be.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 22,
+          "text": "Hm. Good. I see that you're making quite the strides.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 23,
+          "text": "<Wha... What? What are you two talking about?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 24,
+          "text": "Let us head to the Alteration Shop, Executive Manager.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Welcome back, stranger with drooping shoulder seams.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 1,
+          "text": "I could fix that in no time, stranger. I need only readjust the sewing on your jacket into a slightly loosened arrangement...",
+          "speaker": "Annette"
+        },
+        {
+          "index": 2,
+          "text": "Um... Actually, I wanted to ask if we could purchase a pair of scissors from you? I see some that look pretty well-sharpened...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "I can see the desire to go <i>snip-snip!</i> in your eyes. I like that look.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 4,
+          "text": "I do have scissors, yes. But I can see in your eyes that the scissors on display aren't what interest you.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 5,
+          "text": "Correct. The pair of scissors we need is of significant size.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "The pair of scissors I wield is not a tool I am willing to part with lightly, unless you were to offer me a great many eyeballs.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 7,
+          "text": "Haven't you realized from our last visit that we aren't exactly flush with eyeballs? If you're making the same proposition anyway, then...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "... Ah, I see. You are inviting us to bargain.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Correct. For example... \"amusement\" can be a price.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 10,
+          "text": "You there. That head of yours... how fascinating.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 11,
+          "text": "She slowly turns toward Meursault."
+        },
+        {
+          "index": 12,
+          "text": "Mind if I split open and dig around in your head a little bit? Let me do that, and I could give you a better deal for my pair of scissors.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 13,
+          "text": "<i>Split his head open?!</i>",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 14,
+          "text": "Don't you worry, I am the best alterationist in all of the Grand Magasin. Burst seams? Ripped lining? Hand it to me, and I'll sew and patch them back to flawless perfection.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 15,
+          "text": "Once I'm done looking, I could stitch your head back up without leaving so much as a loose thread. How's that?",
+          "speaker": "Annette"
+        },
+        {
+          "index": 16,
+          "text": "Would've dismissed that claim without batting an eye had we been outside, but within Sisyphe, where events and communications are contingent not on their materiality but their symbolic significance...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 17,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 18,
+          "text": "This is unlikely to be an issue, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 19,
+          "text": "It seems she only wants to take a look inside my head.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 20,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 21,
+          "text": "<Right, might as well.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Aha... So that's what you look like on the inside.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 1,
+          "text": "Fascinating use of that element. So detailed and stiff! Almost like the collars of a well-ironed dress shirt.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 2,
+          "text": "Oh, what's this here...? You've neatly folded and stored something deep and stubborn in this dark corner...\nAs curious as I am to see, it would be against the alterationist code to rummage through your drawers without consent. I'll keep that nicely shut.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 3,
+          "text": "Thanks for the peek. Now sit still; I'll sew you right back up...",
+          "speaker": "Annette"
+        },
+        {
+          "index": 4,
+          "text": "<Are you okay?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Aside from mild discomfort from faintness, I am okay.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "Ah, feeling a bit dazed? Don't worry, it should go away in a bit.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 7,
+          "text": "Thank you. The inside of your head was... how should I put this? Exciting in a way I hadn't experienced in a long while.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 8,
+          "text": "That more than makes up for the eyeball cost of my Scissors. Take it along with you on your journey, now.",
+          "speaker": "Annette"
+        }
+      ]
+    },
+    {
+      "key": "D3087",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... And... some of them have been holed up inside the whole time...",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 1,
+          "text": "... Right, I suppose it's only a matter of time before the Grand Magasin falls, now.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 2,
+          "text": "They were never sane to begin with, but now they're growing more and more deranged by the day.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 3,
+          "text": "Do you think it's true, though? What if they...",
+          "speaker": "Felt"
+        }
+      ]
+    },
+    {
+      "key": "D3088",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...!",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 1,
+          "text": "How did you get past Two-piece? So much for the eyeballs we paid for some peace and quiet...",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 2,
+          "text": "Who sent you? Where are you from?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 3,
+          "text": "Uh... No one sent us. We just kinda wandered in here from the first floor, if that matters...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "You're from the first floor? Nonsense. How long were you there?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 5,
+          "text": "We remained on the first floor until the end of last season.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "... It only took you a single season to climb from the first floor to the third? How?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 7,
+          "text": "Uh... We just used the escalators... We also moved around through the restroom, if that counts...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 8,
+          "text": "... Th-the restroom...? Could they be referring to the Fount...?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 9,
+          "text": "Are you sure you're talking about the Fount? The one with toilets and a sink and—",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 10,
+          "text": "Y-yeah, that. You mean a restroom, right?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 11,
+          "text": "Our access to the Fount seems to come as a surprise to these ones, too.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 12,
+          "text": "<Which means we've unwittingly violated one of the \"common senses\" within the Grand Magasin...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "Why wouldn't we be surprised? We can't just jump onto the escalator whenever we want to, nor can we access the Fount.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 14,
+          "text": "Remember what happened last season? One of the employees got too impatient and decided to purchase a new bag upstairs... before even a single season had passed. Burst like a balloon the moment they stepped onto the escalator.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 15,
+          "text": "O... Okay...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 16,
+          "text": "There's clearly something special about you, dear customers. Have you stopped by the Rouge shop next to ours too, then?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 17,
+          "text": "Yes, we did. On the way here.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 18,
+          "text": "Did you notice anything... <i>peculiar</i> about the vendor there?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 19,
+          "text": "Tell us what happened there, and we'll allow you to purchase from our brand at very reasonable prices, normally reserved only for VIP customers.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 20,
+          "text": "... A discount, in return for intelligence... Not an objectionable offer.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 21,
+          "text": "Outis glanced in my direction for permission to speak. I nodded lightly."
+        },
+        {
+          "index": 22,
+          "text": "Upon our arrival, we found the vendor at the Rouge shop wallowing in despair, deafened to the fading Voice of her faith.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 23,
+          "text": "Wahahaha! Serves 'er right.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 24,
+          "text": "The Voice that's been urging the Rouges to flay the Golden Resin—hallowed be its presence—off the walls has been growing increasingly unstable, hm? No wonder they have been so agitated of late.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 25,
+          "text": "Okay, so... What happened then?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 26,
+          "text": "Hmmm... What indeed...? My memory appears to be failing me all of a sudden. *cough* I wonder what could possibly help refresh it...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 27,
+          "text": "I remember. The vendor—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 28,
+          "text": "—<i>*COUGH*</i> The vendor requested that we head to the PA Room, where the Voice sounded nearer. But perhaps an even more \"reasonable\" price adjustment might be just what I need to jog my memory.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 29,
+          "text": "I wonder where the... story could go next...?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 30,
+          "text": "Mm. I see.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 31,
+          "text": "Really? Are you seriously going to leave us on a cliffhanger?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 32,
+          "text": "Fine, <i>fine</i>! We'll give you an even steeper discount. Hurry up, what happened next?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 33,
+          "text": "After a brief search, we came across... an <i>AUDIOTAPE</i>. And when we played the audiotape... <i>oh, you wouldn't believe it...</i>",
+          "speaker": "Outis"
+        },
+        {
+          "index": 34,
+          "text": "Well...? Go on!",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 35,
+          "text": "... It was a recording of the Voice the Rouges have been searching for all along.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 36,
+          "text": "... A recording? Wahahaha! What a pathetic, anticlimactic ending! Perfect for those good-for-nothings!",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 37,
+          "text": "So the Voice they worshipped so fervently turned out to be no more than a ragged <i>audiotape</i> turning away in some squalid corner. Truly, a pitiful end to those heretics.",
+          "speaker": "Felt"
+        }
+      ]
+    },
+    {
+      "key": "D3089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ooh... So warm...",
+          "speaker": "Enthralled Noir"
+        },
+        {
+          "index": 1,
+          "text": "I want to just sit here... and bask in this light...",
+          "speaker": "Enthralled Noir"
+        },
+        {
+          "index": 2,
+          "text": "What's wrong with them...?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "There's been a spike in Noirs exhibiting strange behaviors as of late, uttering strange mantras to themselves...",
+          "speaker": "Flannel"
+        }
+      ]
+    },
+    {
+      "key": "D3090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Demented souls, I say. There's no other explanation for why anyone would refuse the holy Voice and let themselves be tempted by another.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 1,
+          "text": "... Wait. Would you remove them for us, strangers?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 2,
+          "text": "... \"Remove,\" you say? You want us to eliminate them?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "Let's say we're issuing a... Hm. Yes, a \"recall\" for our products.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 4,
+          "text": "We've been wondering for a while—just what is it that we lack that we're still forbidden from joining the Luxury Hall?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 5,
+          "text": "But now we know: to join the ranks of true Luxury brands, our products need to be extremely exclusive. What we lack is... scarcity.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 6,
+          "text": "Scarcity?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 7,
+          "text": "You need more than just a truckload of eyeballs to purchase a Luxury apparel. There's a process to those things—terms and conditions, prestige, how hard they've wanted to purchase from us...",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 8,
+          "text": "But we weren't being smart about it. We've been foolish, allowing our product to spread far and wide... And now, far too many customers wear our apparel in Sisyphe.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 9,
+          "text": "Look, there's one wearing! And another one, over there! Conceited, vain idiots who think they've become somebody just because they've draped themselves in our label. Our entire customer base is full of entitled plebeians unworthy to wear even a single piece of the Luxury brands... It's their fault we're associated with cheap trash!",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 10,
+          "text": "I don't understand why that's a problem, though. What's wrong with making lots of sales?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 11,
+          "text": "What's wrong with making— Oh, it's the death of a brand!",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 12,
+          "text": "Clothes any schmuck can wear doesn't exactly scream \"Luxury item,\" does it? We need to leave as little evidence as possible of our brand's common popularity if we want even the smallest chance of being accepted as Haute-couture.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 13,
+          "text": "Which is why we'd like to issue a \"recall\" of our products. We've merely postponed it for want of suitable material and personnel, but now is the time.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 14,
+          "text": "Those gibbering madmen don't deserve to call themselves Noirs, let alone wear our brand! Do this for us, strangers, and we'll make it worth your while. We are ready to give you something truly <i>extraordinary</i>—free of charge, of course.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 15,
+          "text": "I must admit, that's... a tempting offer.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>For the people of this department store, dying used to mean being sent to B1 for a fresh start. Death was but another beginning.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>But now... death is final. They die? They're gone. Death has become, quite simply, the end.</color>"
+        },
+        {
+          "index": 2,
+          "text": "What happens to their physical bodies at N Corp. once they're killed in this simulation?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>What do you think? Do you expect their bodies to be intact when the mind has been obliterated?</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>You and your friends appear to be an exception to the rule, though. Must have something to do with someone... or something outside the Grand Magasin. At first I assumed it was an entity I was already acquainted with, but that doesn't seem to be the case. I'll have to dig a little more to be sure.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>Any idea what that might be, Meursault?</color>"
+        },
+        {
+          "index": 6,
+          "text": "... No.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>Yes, had a feeling you'd say that. Don't fret, it's only a matter of time before I figure things out myself.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D3092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Whew... Good work. I was getting sick of seeing our brand splashed all over like a street uniform.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 1,
+          "text": "We're quite averse to giving discounts, but... you're our VIPs now, and VIPs get deals.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 2,
+          "text": "So, strangers... are you planning to continue your climb to higher floors?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 3,
+          "text": "Yep, that's the idea.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "Take this with you.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 5,
+          "text": "What is this?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "An Authenticity Certificate, proof of your great contribution to the Noirs' cause. Consider it recompense for bringing the news about the Rouges and assisting us with the recall.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 7,
+          "text": "Present it to any other Noir, and they will extend to you the same hospitality we showed you—the lavish kind.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 8,
+          "text": "<Ooh...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Would you pass along to the Noirs of the higher floor what you learned of the Rouge who no longer hears her Voice?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 10,
+          "text": "And if you ever come across any more useful information in your journey, would you return to us and share them?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 11,
+          "text": "You are the only ones who can traverse between floors freely—so you're also the only ones who can carry out that task.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 12,
+          "text": "<Seems simple enough... We're trying to go upstairs, anyway.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "Yes, Executive Manager. As you wish.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 14,
+          "text": "O-okay.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 15,
+          "text": "Thank you. You have our gratitude.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 16,
+          "text": "We're relying entirely on the information you provide us—as we've said, we're not free to travel between floors.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 17,
+          "text": "<I guess we've won the Noirs over now...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 18,
+          "text": "Yeah. Not sure if that's a good thing, though.",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3108",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ah...",
+          "speaker": "L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3104",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You will be able to reach the Public Address Room via the corridor below... Please, I need the Voice...",
+          "speaker": "L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3303",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3603",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Flannel"
+        }
+      ]
+    },
+    {
+      "key": "D3604",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Come on, let's get moving. These bums are dragging our brand image down as we speak.",
+          "speaker": "Flannel"
+        }
+      ]
+    },
+    {
+      "key": "D3605",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Come back after you're done issuing recalls, and I promise you we'll give you a once-in-a-lifetime discount.",
+          "speaker": "Felt"
+        }
+      ]
+    },
+    {
+      "key": "D3606",
+      "texts": [
+        {
+          "index": 0,
+          "text": "These are highly exclusive VIP prices... So don't go telling any other schmuck about it.",
+          "speaker": "Flannel"
+        }
+      ]
+    },
+    {
+      "key": "D3607",
+      "texts": [
+        {
+          "index": 0,
+          "text": "These are highly exclusive VIP prices... So don't go telling any other schmuck about it.",
+          "speaker": "Felt"
+        }
+      ]
+    },
+    {
+      "key": "D3151",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>Leave her be for now. Only now have scabs grown over the wound in this child's heart. She'll need time.</color>"
+        },
+        {
+          "index": 1,
+          "text": "This voice... Who is this? She doesn't sound like Miss Jeanne.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Meursault looked away, his expression hardened."
+        },
+        {
+          "index": 4,
+          "text": "Hey... Is this another voice you recognize?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "... It's the sunshine.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "I wasn't sure if it was the rare look of annoyance on Meursault's face, or if she caught some hint in the word \"sunshine,\" but..."
+        },
+        {
+          "index": 7,
+          "text": "... Outis backed away from the cocoon without asking further."
+        }
+      ]
+    },
+    {
+      "key": "D3152",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I don't think we can talk to her yet."
+        }
+      ]
+    },
+    {
+      "key": "D3154",
+      "texts": [
+        {
+          "index": 0,
+          "text": "She's trembling in fear and alarm. I don't think she's in any state to receive the audiotape..."
+        },
+        {
+          "index": 1,
+          "text": "Maybe this has something to do with \"one of them\" talk we heard in the PA room."
+        }
+      ]
+    },
+    {
+      "key": "D3999",
+      "texts": [
+        {
+          "index": 0,
+          "text": "......."
+        }
+      ]
+    },
+    {
+      "key": "D3902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It doesn't twinkle or dance anymore."
+        }
+      ]
+    },
+    {
+      "key": "D3904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A slough of flesh is splayed on the ground. Looks like a popped balloon."
+        }
+      ]
+    },
+    {
+      "key": "D3905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The Floor Manager speaks no more."
+        }
+      ]
+    },
+    {
+      "key": "D3016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hear... the warbling... The warbling..."
+        }
+      ]
+    },
+    {
+      "key": "D3962",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Still full of meeting.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "Disturb the meeting, and you'll become two.",
+          "speaker": "Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3963",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meeting underway.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "Important agenda. Very important.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 2,
+          "text": "Are we one, or are we two?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 3,
+          "text": "Resolution killed. Vote was one to one. Majority vote needed to pass.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 4,
+          "text": "Let me cut to the chase... How about we draw that conclusion for you right now?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "The audience will decide?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 6,
+          "text": "No such precedent! How?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 7,
+          "text": "... Like this.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 8,
+          "text": "Sinclair paused, glancing back at Meursault and me."
+        },
+        {
+          "index": 9,
+          "text": "Outis returned an encouraging nod."
+        },
+        {
+          "index": 10,
+          "text": "Like the alterationist said, the scissors were well-sharpened."
+        },
+        {
+          "index": 11,
+          "text": "<i>Snip snip</i>, the tangled strings fall apart with little resistance..."
+        },
+        {
+          "index": 12,
+          "text": "Oh?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 13,
+          "text": "Oh?",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 14,
+          "text": "There you are. Thought you were inside of me all along.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 15,
+          "text": "Here you are. Thought you were outside of me all along.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 16,
+          "text": "Which means you can adjourn the meeting now, right?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 17,
+          "text": "Agenda empty. Agenda finally done.",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 18,
+          "text": "I remember now. We were two. We were always two.",
+          "speaker": "Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "One has become two. The one who has become two stirs no longer."
+        }
+      ]
+    },
+    {
+      "key": "D3907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Looks similar to the fleshy outfits from the first floor. Probably made from the same material, too... But something about these designs feels more refined, so to speak."
+        }
+      ]
+    },
+    {
+      "key": "D3908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[Differential of Falling Series 2: \"Siegel\"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.]"
+        },
+        {
+          "index": 1,
+          "text": "... Despite having seen plenty of things reminiscent of this installation, gory art remains just as incomprehensible."
+        }
+      ]
+    },
+    {
+      "key": "D3909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[Differential of Falling Series 3: \"Stockmann\"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.\nSculpted in a smaller size relative to the Series 1 installation.]"
+        },
+        {
+          "index": 1,
+          "text": "I fail to see why anyone would put something like this on display and call it art.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "Though I cannot say what that woman, with her fixation on such bizarre aesthetics, might have thought of it...",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "<Hmm... you're right. If Ryōshū were here, she'd...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Ryōshū... I think she'd call this D.R.A.B.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "<Drab? Oh... D.R.A.B. Acronym, huh?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Yup. \"Dull. Repetitive. Artless. Boring.\" ... That's probably how she'd see all of this.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 7,
+          "text": "This is more than mere interpretation... You might as well be forming a genuine psychic link with her.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "It occurred to me that Sinclair's progress was becoming more frightening by the day."
+        }
+      ]
+    },
+    {
+      "key": "D3910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A necklace that appears to be made of metal is on display."
+        }
+      ]
+    },
+    {
+      "key": "D3911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A cash register. There doesn't seem to be anything left inside."
+        }
+      ]
+    },
+    {
+      "key": "D3912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An unadorned mannequin torso."
+        }
+      ]
+    },
+    {
+      "key": "D3913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A T-shirt dyed in a unique pattern. Judging by the price tag, it seems cheaper than most of the other clothing."
+        }
+      ]
+    },
+    {
+      "key": "D3914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[Le Président 67' Signature Collection.\nAn encapsulation of Le Rouge's unique choice of material and bygone heritages, this exceptional blending has established a unique yet fitting identity for itself in the age of change. - Please enquire a customer representative for more information on its price.]"
+        }
+      ]
+    },
+    {
+      "key": "D3916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's a cash register. Reaching into its drawer to see if there's anything left... yields some eyeballs that were rolling around in its corner."
+        },
+        {
+          "index": 1,
+          "text": "Not a bad get, Executive Manager. Take it—it should do us good to find and keep as many of these as we can.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<Uh... Are you sure?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D39161",
+      "texts": [
+        {
+          "index": 0,
+          "text": "W-wait, isn't this just straight-up thievery?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "A more accurate designation for this strategy would be \"field requisition tactics.\"",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>I don't know, this strategy probably falls under the designation we call \"larceny\" here.</color>"
+        },
+        {
+          "index": 3,
+          "text": "... *cough*",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "<Wait, we're not allowed to take eyeballs from cash registers? What about all those Mannequins we kill—I mean, \"helped to the exit\"?>",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>Fuhu, you mean \"criminal damage to property\"?</color>"
+        },
+        {
+          "index": 6,
+          "text": "There are no criminal designations or legal framework for punishment for such behavior in the Grand Magasin, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>*scoff* You're no fun. Why would you tell them that?</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>Take it. It doesn't belong to anyone, anyway.</color>"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ebcaa2>And you...</color>"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ebcaa2>Still haven't figured out jokes, have you?</color>"
+        },
+        {
+          "index": 11,
+          "text": "...\"Field requisitioned\" some eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D39162",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Don't need these <i>that</i> badly."
+        }
+      ]
+    },
+    {
+      "key": "D39163",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There isn't anything left."
+        }
+      ]
+    },
+    {
+      "key": "D3917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's a caption below that says the following: [Treated and coated with fresh-melted fat tissue from a living subject. Touch it and feel the glassy, enamelistic surface.]"
+        }
+      ]
+    },
+    {
+      "key": "D3918",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Obtained some eyeballs that fell through the cracks in the couch."
+        }
+      ]
+    },
+    {
+      "key": "D3919",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Apparel with striking use of wrinkled skin as its material. The price tag simply says \"Sarcopenic Weight\"."
+        }
+      ]
+    },
+    {
+      "key": "D3920",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The label calls it [Seasonal Apparel], but it's unclear which season they could possibly be for..."
+        }
+      ]
+    },
+    {
+      "key": "D3933",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Lumps of dough gummed together into a bigger lump. Not sure if it's an objet to be admired in itself, or a stand for one."
+        }
+      ]
+    },
+    {
+      "key": "D3934",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[68' Signature Collection. An unequivocal rejection of the revivalist philosophy that underlined the 67' Collection, and a consummation of the deconstructive quality that is quintessentially Rouge.]"
+        }
+      ]
+    },
+    {
+      "key": "D3935",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A plush couch to rest one's weary feet and, possibly, enjoy that installation over there."
+        }
+      ]
+    },
+    {
+      "key": "D3940",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[Differential of Falling Series 1: \"Cynthia\"\nThis installation depicts the fall of Cynthia, the first Mannequin to fall in the Grand Magasin. The only large-scale installation in the series, it sets itself apart from the rest of the series by being the only piece to depict the precise moment her fall began in painstaking detail.]"
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "Reminds me of the things we saw back at the Ring Nursefather's gallery.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "<I just... I just don't get what's so <i>artistic</i> about these things.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Ah. There's something lying over there, though. Is that part of the... artwork too?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "<I don't think so. Can you grab that for me, Meursault?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "It is within reach. These appear to be eyeballs. I will hold on to it for the time being.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The label says [Off-Season Items]."
+        }
+      ]
+    },
+    {
+      "key": "D3959",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Articles of clothing adorned with what appear to be bones."
+        }
+      ]
+    },
+    {
+      "key": "D3960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[\"Les Oiseaux\" Experimental Collection.]\nThe caption below reads that it was inspired by a bird. It is plastered from top to bottom with a thick coating of feathers—where did they even get the feathers?"
+        }
+      ]
+    },
+    {
+      "key": "D3971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's a heavy curtain draped over this door. Can't seem to enter."
+        }
+      ]
+    },
+    {
+      "key": "D3972",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 두툼한 커튼 사이로 할로겐등이 나와있다. 온기는 전혀 느껴지지 않는다."
+        }
+      ]
+    },
+    {
+      "key": "D3973",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 붉은 실에 재봉틀들이 묶인 채 매달려있다."
+        }
+      ]
+    },
+    {
+      "key": "D3974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A gargantuan arm separated from somebody. Or something."
+        }
+      ]
+    },
+    {
+      "key": "D3975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A brimmed hat that one might dare call \"average.\""
+        }
+      ]
+    },
+    {
+      "key": "D3976",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A sundry of colorful threads line this wall."
+        }
+      ]
+    },
+    {
+      "key": "D3977",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The edge is very sharp. Almost like a scythe's edge rather than a scissor blade's."
+        }
+      ]
+    },
+    {
+      "key": "D3978",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 많이 쓰였는지 듬성듬성 차있다. 건너편 벽에 남은 실들이 많으니 모자랄 일은 없어보인다."
+        }
+      ]
+    },
+    {
+      "key": "D3979",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 무딘 가위다. 무언갈 자르기보단, 찢어낼 것 같다."
+        }
+      ]
+    },
+    {
+      "key": "D3980",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A rusty pair of scissors. These haven't been used in a while."
+        }
+      ]
+    },
+    {
+      "key": "D3981",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The other side is hidden behind a thick layer of fabric. There's something twinkling there."
+        }
+      ]
+    },
+    {
+      "key": "D3982",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The other side is hidden behind a thick layer of fabric."
+        }
+      ]
+    },
+    {
+      "key": "D3801",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There are numerous holes here. Possibly for plugging something in."
+        }
+      ]
+    },
+    {
+      "key": "D3802",
+      "texts": [
+        {
+          "index": 0,
+          "text": "These haven't been connected in a while. The sockets are full of dust."
+        }
+      ]
+    },
+    {
+      "key": "D3803",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Each hole has a tag taped on top of it. There used to be something written on the tags, but now they're faded and illegible."
+        }
+      ]
+    },
+    {
+      "key": "D3804",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Don't hear anything."
+        }
+      ]
+    },
+    {
+      "key": "D3805",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sounds like the hubbub of a distant crowd."
+        }
+      ]
+    },
+    {
+      "key": "D3806",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's quiet. Must've mistaken some other sound."
+        }
+      ]
+    },
+    {
+      "key": "D3807",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This device looks like a ventilation fan. \nIt's so dusty inside... Must have been out of order for a while."
+        }
+      ]
+    },
+    {
+      "key": "D3808",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 아래쪽 넓은 구멍 깊숙이 눈알이 하나 끼어있다. 아슬아슬하게 손을 집어넣어 꺼낼 수 있을 것 같다."
+        }
+      ]
+    },
+    {
+      "key": "D3809",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 버튼이 따로 없는 걸로 봐서, 여기서 작동시킬 수는 없어보인다. 작동시킨다 한들 먼지를 뒤집어쓰겠지…"
+        }
+      ]
+    },
+    {
+      "key": "D3810",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's a dusting of... dust inside the long gap."
+        }
+      ]
+    },
+    {
+      "key": "D3811",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 틈새와 구멍을 모두 살펴봤지만 건질 만한 건 보이지 않는다."
+        }
+      ]
+    },
+    {
+      "key": "D3812",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Fallen debris is blocking the way. There's no way over or around it."
+        }
+      ]
+    },
+    {
+      "key": "D3813",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Don't know any games that use these dice."
+        }
+      ]
+    },
+    {
+      "key": "D3814",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Random pips and letters are scattered on its sides without rhyme or reason."
+        }
+      ]
+    },
+    {
+      "key": "D3815",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Can't even move it an inch... Must be heavier than it looks."
+        }
+      ]
+    },
+    {
+      "key": "D3816",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What a strange-looking die. What is it doing in a PA room...?"
+        }
+      ]
+    },
+    {
+      "key": "D3817",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Anybody know what this is...? Must have something to do with broadcasting since we're in the PA room.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "This appears to be a form of manual communication switchboard, Executive Manager.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "What's a communication switchboard?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "A device used to manage and connect circuits of telephones.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "I've never seen anything like this... So phones used to have to go through these to connect?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "These have mostly gone out of use nowadays. I've not seen one in a long time myself, in fact. Used to have a similar device back in... the CCC, or the Command and Control Center.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "Wired access via the manual switchboard allows for a much more stable connection as long as the wires are intact, meaning that it maintains operational capacity even in adverse communication conditions caused by devices such as signal jammers.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Precisely. Which explains its longevity in the military context.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 8,
+          "text": "Though dealing with the wide network of wires was always a headache for my men...",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3818",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The way these tubes are lining the wall reminds me of a massive pipe organ."
+        },
+        {
+          "index": 1,
+          "text": "Though I don't know if it's for listening or relaying but..."
+        },
+        {
+          "index": 2,
+          "text": "... imagining that someone might be listening in on my every word, giving me commands from where I can't see... a strange trepidation gurgles from the pit of my stomach."
+        },
+        {
+          "index": 3,
+          "text": "The gaze is not beholden to the limitations of the sight, it seems."
+        }
+      ]
+    },
+    {
+      "key": "D3819",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Several birds lie beneath a long, trumpet-shaped tube."
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>No... don't understand it... you mustn't understand...</color>"
+        },
+        {
+          "index": 2,
+          "text": "When I pick up one of the birds, the voice cuts off."
+        },
+        {
+          "index": 3,
+          "text": "Obtained Dead Bird."
+        }
+      ]
+    },
+    {
+      "key": "D3820",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something glints between the shafts of sunlight."
+        },
+        {
+          "index": 1,
+          "text": "Meursault pulled out the glinting object. It's an old recorder."
+        }
+      ]
+    },
+    {
+      "key": "D3821",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Is it just me, or is this coat shrinking?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<Now that you mention it...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Taken a liking to those socks?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 3,
+          "text": "S-Socks? This is a coat!",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "...? Those are socks that have become quite popular among the customers on the fourth floor. The kind you can put on simply by wearing them.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 5,
+          "text": "Functional socks. One merely slips them on without having to go through the trouble of bending over.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 6,
+          "text": "Oh? Intriguing. In that case, could you include these socks as additional compensation?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 7,
+          "text": "<O-Outis...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Even for a VIP customer, these are...",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 9,
+          "text": "I may be persuaded to pass on any intel I learn about those hide-clad Rouge bastards. Free of charge, of course.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 10,
+          "text": "Hmm... if that's the arrangement, then yes. I can part with them.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 11,
+          "text": "Take them.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 12,
+          "text": "Looking quite pleased with herself, Outis pointed to the socks... and Meursault collected them."
+        }
+      ]
+    },
+    {
+      "key": "D3831",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Origami CollectioN° 92, 3 of 5. Someone's fall sublimated into superpositioned time.]"
+        }
+      ]
+    },
+    {
+      "key": "D3832",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Origami CollectioN° 92, 4 of 5.]\nDoesn't look very different from the first one, actually."
+        }
+      ]
+    },
+    {
+      "key": "D3833",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[Origami CollectioN ° 92, 2 of 5.]"
+        },
+        {
+          "index": 1,
+          "text": "<The ones on the other side at least made small changes between each iteration, but these ones are... Honestly, everything in this \"collection\" looks the same to me.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Oh, right...! I remember learning about how some prints and sculptures are made with creating multiple identical copies in mind, only giving a different number to each \"iteration\" to distinguish them.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "And even though each piece is pretty much indistinguishable from one another, their value might vary depending on the number they're given.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "That might be what we're looking at here, actually. Maybe there really isn't any difference between each iteration.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "The gaze that pierces an object straight down to its essence, unswayed by its surface-level label... No common person could have noticed such a subtle detail. I expected no less of our Executive Manager!",
+          "speaker": "Outis"
+        },
+        {
+          "index": 6,
+          "text": "<... These probably look the same to most people, though...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3834",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Off-Season / Prêt-à-porter]"
+        }
+      ]
+    },
+    {
+      "key": "D3835",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Off-Season / Prêt-à-porter].\nSome price tags have been taped over. Must be on sale."
+        }
+      ]
+    },
+    {
+      "key": "D3836",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Huh, look at the tags. Why are these clothes more expensive than the others?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "That is because the display you are looking at is for this season's Prêt-à-porter items.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Prêt-à-porter?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "It refers to made-to-stock, ready-to-wear items; those of higher quality and prestige, in particular.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Prestige but ready-to-wear, huh...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "I take a closer look with Meursault's explanation in mind... But I'm not entirely sure what's supposed to be so prestige and quality about these..."
+        }
+      ]
+    },
+    {
+      "key": "D3837",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This couch is disturbingly shiny. Tried slumping down on it as one would on a normal couch, but it's so taut that it doesn't even feel like I'm sitting..."
+        }
+      ]
+    },
+    {
+      "key": "D3838",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Obtained some eyeballs that were hidden between the cracks in the couch."
+        }
+      ]
+    },
+    {
+      "key": "D3839",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>... Aren't you a busy bee?</color>"
+        },
+        {
+          "index": 1,
+          "text": "The voice snaps me back to reality, and I realize I've been greedily pawing at the inside of the cash drawer."
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>If you're that strapped for eyeballs... Why don't you go help the Mannequins exit the stage?</color>"
+        },
+        {
+          "index": 3,
+          "text": "Shuddering at the subtle contempt in her voice, I slam the cash register shut and quickly leave the scene."
+        },
+        {
+          "index": 4,
+          "text": "Am I just blindly rummaging through these in hopes of finding a stroke of luck...?"
+        }
+      ]
+    },
+    {
+      "key": "D3840",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 빈약해 보이는 조명이다. 모빌 같기도 하다."
+        }
+      ]
+    },
+    {
+      "key": "D3842",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cloth straps wrapped around the figure make a faint straining noise."
+        }
+      ]
+    },
+    {
+      "key": "D3843",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Did it just smile? Probably just seeing things..."
+        }
+      ]
+    },
+    {
+      "key": "D3844",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The description calls this a \"formal suit\", but it looks more like a straitjacket."
+        }
+      ]
+    },
+    {
+      "key": "D3845",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something's watching from the dark hollows of its eye sockets..."
+        }
+      ]
+    },
+    {
+      "key": "D3846",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Wait, the expression changed... A nameless terror crawls up my spine."
+        }
+      ]
+    },
+    {
+      "key": "D3847",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Is it in fashion to cover the face like that...?"
+        }
+      ]
+    },
+    {
+      "key": "D3848",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This outfit is called [La Première Superposition].\nUnlike the other articles of clothing here, this one has just one dangly bit on its arm. It's cheaper, too. It must be a more \"affordable\" version of the Signature collection on display."
+        }
+      ]
+    },
+    {
+      "key": "D3849",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something's breathing from behind the fabric..."
+        }
+      ]
+    },
+    {
+      "key": "D3850",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The Noirs at the checkout counter are wearing something similar to this outfit."
+        },
+        {
+          "index": 1,
+          "text": "[La Troisieme Superposition. \nA fascinating blend of cape, frock coat, and jacket in a all-in-one integration. Highest prestige in this Season's collection.\nPlease visit the reception desk for pricing and reservations.]"
+        },
+        {
+          "index": 2,
+          "text": "... Looks like the outfit is pricier and rarer than it looks."
+        }
+      ]
+    },
+    {
+      "key": "D3851",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[La Troisieme Superposition. \nA fascinating blend of cape, frock coat, and jacket in a all-in-one integration. Highest prestige in this Season's collection.\nPlease visit the reception desk for pricing and reservations.]"
+        }
+      ]
+    },
+    {
+      "key": "D3852",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[Prêt-à-porter. Contains 150% of the Golden Yarn compared to the Last Season's!]"
+        },
+        {
+          "index": 1,
+          "text": "Upon closer inspection, I notice that it contains only 0.00015% of the so-called \"Golden Yarn.\" Doesn't seem anywhere near significant enough to warrant putting that on the advertisement."
+        },
+        {
+          "index": 2,
+          "text": "Doesn't this mean that the last season's products had only 0.0001% Golden Yarn...?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "... I'm willing to bet that Whale chips from U Corp. have more Whale in them than this has Golden Yarn.",
+          "speaker": "Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3853",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A display case full of glasses. Not sure how I'd go about wearing them, however."
+        }
+      ]
+    },
+    {
+      "key": "D3854",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... These <i>are</i> glasses, right...? The label above the display does say \"glasses\"..."
+        }
+      ]
+    },
+    {
+      "key": "D3855",
+      "texts": [
+        {
+          "index": 0,
+          "text": "On display are bizarrely normal-looking pairs of glasses and sunglasses that look distinctly out of place. Some of these look like Gregor's glasses."
+        }
+      ]
+    },
+    {
+      "key": "D3856",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Bizarrely normal-looking pairs of glasses and sunglasses that look out of place here. Surprisingly mundane, almost."
+        }
+      ]
+    },
+    {
+      "key": "D3857",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A combination of a stool and a drawer... A strawer. Looks like it fails at being either, though."
+        }
+      ]
+    },
+    {
+      "key": "D3858",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A combination of a stool and a drawer... A strawer. Found a handful of eyeballs in its drawer that somebody forgot."
+        }
+      ]
+    },
+    {
+      "key": "D3859",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A combination of a stool and a drawer... A strawer. Found a handful of eyeballs in its drawer that somebody forgot... <i>not.</i> A clock can hope, though."
+        }
+      ]
+    },
+    {
+      "key": "D41410",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ah... You've returned. We've been waiting for you.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 1,
+          "text": "Did you relay our message to the Noirs on the fourth floor?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 2,
+          "text": "We did.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Much appreciated... Did they have anything to say about it?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 4,
+          "text": "The Noirs on the fourth floor wanted us to deliver this to you.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Along with the note, we relayed what we learned from the fourth floor as the two Noirs listened anxiously."
+        },
+        {
+          "index": 6,
+          "text": "Le Rouge, abandoned by their Voice, is conspiring within the Luxury Hall to give life to a new Voice...?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 7,
+          "text": "... I see... And an implement made of \"Nail\" and Golden Fabric is needed if we're to have any hope of stopping their vile plan from coming to fruition.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 8,
+          "text": "If it really is as the noble one on the upper floor says, then our path forward is clear. ... We can claim the Luxury Hall as Le Noir's by tearing apart that new \"Voice\" of theirs before it is born.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 9,
+          "text": "... I hate to ask again, but we are in need of your assistance once again, strangers.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 10,
+          "text": "<Well... our goals seem to align anyway. We need those Luxury clothes from the second floor to be admitted to the fifth floor.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Our goals align.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "*sigh* Much obliged.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 13,
+          "text": "We're not entirely unfamiliar with the Golden Fabric—we've even used it for some of our works, though we had to commission the Alterationist for it.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 14,
+          "text": "The tricky part's going to be the Golden Skein, though... I have no idea where that's sourced from.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 15,
+          "text": "According to the recipe on the note... we might be able to get it from some kind of cocoon.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 16,
+          "text": "That means you're going to need the Golden Cocoon to obtain the Golden Skein. Flannel, where do people usually come by the cocoons?",
+          "speaker": "Felt"
+        },
+        {
+          "index": 17,
+          "text": "The cocoon can be found on B1... Huh. The basement floors?",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 18,
+          "text": "B1F...! I see, this journey will bring you to the subterranean floors. Then I presume you will be dealing with B2's Floor Manager as well... which answers the question concerning how the Golden Skein is to be spun.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 19,
+          "text": "Uh... Is it dangerous down there?",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 20,
+          "text": "Not dangerous per se, but... certainly <i>unique</i> in its atmosphere.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 21,
+          "text": "We have been down there a few times before, yes. But only to lay an early claim to the raw fibers... That place is, hm, you see, quite <i>primal</i>.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 22,
+          "text": "Anyway, I suggest you explore B2 once you acquire the cocoon. B2's Floor Manager is a long-time collaborator of the Noirs, so I'm sure it'll all go smoothly as long as you bring the Authenticity Certificate with you.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 23,
+          "text": "As for the \"Nail\"... A long piece of bone should do, but... which one? We'll have to think about it.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 24,
+          "text": "I say it's about time we made use of that revolting Rouge on the other end of this floor. I've always thought her spinal cord would come in useful as a long nail.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 25,
+          "text": "Neither is in our possession, nor have we seen anything like it before.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 26,
+          "text": "It's going to be a very roundabout journey, with all the pieces scattered throughout the floors.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 27,
+          "text": "And of course, we will be sure to compensate you handsomely with eyeballs.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 28,
+          "text": "<Can you also ask them, once we're done carrying out their tasks, if they'll let us have some clothes from the second floor so we can get onto the fifth?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 29,
+          "text": "The Executive Manager would like to ask the two of you if this collaboration would secure us access to the fifth floor.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 30,
+          "text": "I can't guarantee that, unfortunately, but... I promise that you will have Le Noir's eternal gratitude.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 31,
+          "text": "It is not within my authority to grant you anything of the like, but I can write you another Authenticity Certificate for this collaboration, at the very least.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 32,
+          "text": "I'll be sure to pull all the strings I have and put in as good a word as I can to the other Noirs.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 33,
+          "text": "<... Good enough for me. Let's go.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D41420",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's done. You may take this Golden Fabric and its brilliance with you.",
+          "speaker": "Annette"
+        },
+        {
+          "index": 1,
+          "text": "<And now...we just need the \"Nail\" to complete this.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "According to the Noir employees, the Rouge vendor's... spinal cord... would make a decent long nail.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "<Hm... Well, let's go check up on her, then.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D41530",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Should probably get this skein to the Alteration Shop as soon as possible."
+        }
+      ]
+    },
+    {
+      "key": "D41540",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Should probably visit the Rouge vendor."
+        }
+      ]
+    },
+    {
+      "key": "D41510",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... I think her Distortion's getting worse...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<I can hear something from the inside. Muttering...>",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Witness the culmination of your choices. Events follow events without rhyme or reason in a vaguely-defined series of additions until, one day, it <i>happens</i>.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>This one's been squeezing herself into an ill-fitting outfit.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>Or maybe she's only now learned of her exact measurements? Familiarity's a powerful thing... It can acclimatize you to even the most uncomfortable of outfits.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>Remember, ma puce? The ill-fitting green dress I wore to our date. Remember how long I complained?</color>"
+        }
+      ]
+    },
+    {
+      "key": "D41610",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ripped the spine off the Rouge who'd stopped moving."
+        },
+        {
+          "index": 1,
+          "text": "Ugh... didn't know it was this hard to remove a spine.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "... So, this is what they meant by \"nail\"? A spine removed from a corpse?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "It is <i>defined</i> as a nail.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "We draped the Golden Fabric around the nail we took from the Rouge."
+        }
+      ]
+    },
+    {
+      "key": "D3155",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<So this is the legendary weapon capable of piercing any fabric, no matter its weave...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3922",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The snip-snip of the scissors have gone silent."
+        }
+      ]
+    },
+    {
+      "key": "D3923",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The corpse of a Noir. Even the fabric they took such pride in couldn't save them from this fate."
+        }
+      ]
+    },
+    {
+      "key": "D3860",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A [Prêt-à-porter] display rack."
+        }
+      ]
+    },
+    {
+      "key": "D3861",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Staring at it for too long is somehow exhausting."
+        }
+      ]
+    },
+    {
+      "key": "D3862",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Origami CollectioN° 92, 2 of 5. Someone's fall sublimated into superpositioned time.]"
+        }
+      ]
+    },
+    {
+      "key": "D3863",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A communication switchboard, as described by Outis."
+        }
+      ]
+    },
+    {
+      "key": "D3156",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That golden glow... You've really done it...",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 1,
+          "text": "A mere \"thank you\" couldn't possibly express our gratitude, so we'll dispense with the formalities and get straight to the point.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 2,
+          "text": "We Noirs will <i>never</i> forget the tremendous contribution you have made in service of our cause. Rest assured, your names will be forever etched on our VIP list, dear customers.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 3,
+          "text": "Even I have never set foot in the Luxury Hall. I could look at it from a distance when we stopped by that floor, but they've never let us see what's inside.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 4,
+          "text": "Whoever wants admittance is going to need to meet some stringent qualifications...",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 5,
+          "text": "... Which... I'm sorry to say, is a task that only customers like yourselves, who are unbound by the rules of each Floor, can complete.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 6,
+          "text": "Those bereaved of the Voice believe they can weave themselves a new one, do they...? Preposterous. Ignorant and presumptuous to the bitter end, they are.",
+          "speaker": "Felt"
+        },
+        {
+          "index": 7,
+          "text": "Make your preparations, and head to the Luxury Hall.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 8,
+          "text": "Whatever it is they're planning... Utterly crush their resistance so that they may never even dream of attempting such a thing again.",
+          "speaker": "Flannel"
+        },
+        {
+          "index": 9,
+          "text": "Only then shall eternity come to the Grand Magasin... Held together by the Golden Resin...",
+          "speaker": "Flannel"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-FLOOR3MASTER",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Heeeeaaaar.... it warbling...!",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "The Floor Manager rises from their pedestal. Time to end this."
+        },
+        {
+          "index": 2,
+          "text": "!SHADOWED BATTLE!"
+        }
+      ]
+    },
+    {
+      "key": "D3020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Be sileeeeeeent... Be sileeeeeeent...",
+          "speaker": "3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "Put your foolish desires... to rest...",
+          "speaker": "3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3983",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Damn, thought we dodged that.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "That enemy presents difficulties on multiple fronts... Its speed is one thing, but it has the uncanny ability to swerve at the last minute to follow Meursault's attempt to evade.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "I recommend using the environmental obstacles or employing more unpredictable evasive maneuvers.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "<Do you think that'll work...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "I will attempt to evade as you command.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<... Yeah... my command's the part where I'm not so confident about. But fine, let's try this again.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3984",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Whoa. That thing blew up much sooner than I'd expected.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "We'll have to move away as soon as it begins to tremble.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "Try to stay more alert next time.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "It will be done.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3985",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... That wasn't a very pleasant noise.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "Are you unhurt, Executive Manager?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "<I'm a bit rattled by the noise, but... otherwise unhurt.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Meursault, on the other hand... got his head exploded.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "It felt as though something were slowly filling and inflating my head.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Hearing Meursault's placid description of that horrible death, Sinclair scratched the back of his head and awkwardly chimed in."
+        },
+        {
+          "index": 6,
+          "text": "Ah... I'm glad I didn't have to go through that. Thanks for telling me to plug my ears, Miss Outis.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 7,
+          "text": "<That's good. Then... Let's take five and head out again.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3986",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... That thing ripped him in half the moment they came into contact.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 1,
+          "text": "We may have to wait until their \"meeting\" is adjourned, Executive Manager.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "Honestly, those agendas didn't really seem all that important...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "<Either way, let's steer clear of that thing until we find a way around it.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3987",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meeting still underway!",
+          "speaker": "Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "The meeting must go on, they said!",
+          "speaker": "Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3988",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Huh? What's happening? Who's hitting me?",
+          "speaker": "L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3989",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ooh... Voice, help me... Was becoming blinded and nailed not enough? Must I now be killed by the hands of an assailant who refuses me even the courtesy of telling me what I'm dying for?",
+          "speaker": "L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3990",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It remains silent, enveloped under a cocoon of numerous hands."
+        }
+      ]
+    }
+  ]
+}

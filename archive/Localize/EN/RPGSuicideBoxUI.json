@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "rpg_suicidebox_reset_button_text",
+      "content": "Liquidation\n(Reset)"
+    },
+    {
+      "id": "rpg_suicidebox_reset_confirm_desc",
+      "content": "Proceed with Liquidation?\n\nSelecting this option will reset your current run and cannot be reverted."
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_button_text",
+      "content": "Close Down\n(Hard Reset)"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_confirm_desc",
+      "content": "Close down all Shops?\n\nSelecting this option will reset all runs and cannot be reverted."
+    },
+    {
+      "id": "rpg_suicidebox_main_screen_desc_default",
+      "content": "To end one's own life is to confess that life was never truly understood.\nBy what means, then, will you kill yourself as a dedication to life itself?"
+    },
+    {
+      "id": "rpg_suicidebox_coming_soon",
+      "content": "To be updated on {0}-{1} (KST)"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_1",
+      "content": "Get the most vivid experience of a once-in-a-lifetime moment.\nThank you for your continued patronage of our Suicide Vending Machines."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_2",
+      "content": "This model is a multi-user communal experience unit intended for use by groups such as families, friends, or couples."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_3",
+      "content": "This model does not support certain suicide experiences, including being stranded upon the Great Lake, railway collision, drug overdose, lightning strike, and death by hypothermia.\nFor an even wider variety of experiences, please visit one of our private single-guest Suicide Vending Machines."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_4",
+      "content": "All the terror. All the thrills. None of the burden.\nPress one of the buttons below and experience a death unlike any other."
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_ab",
+      "content": "Pregnant users, elderly guests, persons using substances, and patients with cardiovascular conditions are advised to proceed with caution.\nAny accidents resulting from excessive use remain the sole responsibility of the user."
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_b",
+      "content": "- Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_b",
+      "content": "Activate the Suicide Vending Machine?"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_c",
+      "content": "- Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_c",
+      "content": "Activate the Suicide Vending Machine?"
+    }
+  ]
+}

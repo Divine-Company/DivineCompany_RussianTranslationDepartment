@@ -166,6 +166,57 @@
       "name": "Tribulation",
       "desc": "- <color=#ff0000>Max HP</color> +25%\n- SP does not drop below 0\n- [Im Gyeong-eop Exclusive Effect] When using \"Sword of the Homeland [Sal] - Reassume Stance\" or \"Sword of the Homeland [Sal] - Swordhoning\", if this unit is at <color=#ff0000>5- Poise Count</color>, gain +2 Poise Count\n- [Phase 2 Exclusive Effect] When Swordplay of the Homeland [Sal] <color=#ff0000>resets to 5</color> due to the effects of \"Swordplay of the Homeland [Sal] - Shift Battleform\" Passive, <color=#ff0000>gain or lose an additional 2</color> Swordplay of the Homeland [Sal] Stack based on Battleform of the Homeland on self\n· When in Battleform of the Homeland - Bearhunt: Gain Stack\n· When in Battleform of the Homeland - Tigerhunt: Lose Stack",
       "summary": ""
+    },
+    {
+      "id": "FavorBuffLeiheng",
+      "name": "Shade of Reflection [Chachihu]",
+      "desc": "- If an Identity is on the field, <color=#f8c200>remove 1 Stagger Threshold</color> and gain +8 Base Offense Level and +8 Base Defense Level (effect does not stack)\n- On <color=#f8c200>Reson.,</color> gain 1 E.G.O resource for the respective Affinity and 1 random least-owned E.G.O resource (2 times per turn)\n- E.G.O Skills deal +50% damage\n- Identity Skills that either are <color=#f8c200>Gluttony</color> Skills or inflict <color=#f8c200>Rupture</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When an Identity Clashes with an enemy, the Identity gains +1 Clash Power for every 2 <color=#f8c200>Bind</color> on the main target (max 2)",
+      "summary": ""
+    },
+    {
+      "id": "FavorBuffLeihengTwo",
+      "name": "Shade of Reflection [Tiantui Star]",
+      "desc": "- If an Identity is on the field, <color=#f8c200>remove 1 Stagger Threshold</color> and gain +15 Base Offense Level and +15 Base Defense Level (effect does not stack)\n- On <color=#f8c200>Reson.,</color> gain 1 E.G.O resource for the respective Affinity and 2 random least-owned E.G.O resources (2 times per turn)\n- E.G.O Skills deal +50% damage\n- Identity Skills that either are <color=#f8c200>Wrath</color> Skills or inflict <color=#f8c200>Burn or Unique Burn</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)",
+      "summary": ""
+    },
+    {
+      "id": "FavorBuffLeihengHard",
+      "name": "Tribulation",
+      "desc": "- <color=#ff0000>Max HP</color> +80%\n- SP does not drop below 0\n- Deal +50% damage against targets that have <color=#ff0000>Prey</color> (does not trigger if the target has Defense Skills equipped). Take -50% damage from targets that have <color=#ff0000>Prey</color>\n- <color=#ff0000>If this unit has 3+ Tigermark Rounds</color> when using the Blasting Shatterslash [爆碎斬] Skill, deal +100% damage",
+      "summary": "Hard Difficulty Tribulation"
+    },
+    {
+      "id": "FavorBuffLeihengHardTwo",
+      "name": "Tribulation",
+      "desc": "- <color=#ff0000>Max HP</color> +80%\n- SP does not drop below 0\n- Deal +50% damage against targets that have <color=#ff0000>Prey</color> (does not trigger if the target has Defense Skills equipped). Take -50% damage from targets that have <color=#ff0000>Prey</color>\n- <color=#ff0000>If this unit has 3+ Tigermark Rounds</color> when using the Blasting Shatterslash [爆碎斬] Skill, deal +100% damage\n- [Phase 2 Exclusive Effect]\n· On Skill Use, <color=#ff0000>if the main target has Prey,</color> <color=#ff0000>gain Base Power +5, deal +200% damage</color> (does not trigger if the target has Defense Skills equipped), and convert all Coins on the Skill into <color=#ff0000>Unbreakable Coins</color>\n· On Clash Lose against targets that have <color=#ff0000>Prey</color>, gain 1 <color=#ff0000>Severing Slash [切斬]</color>",
+      "summary": "Hard Difficulty Tribulation"
+    },
+    {
+      "id": "FavorBuffLeiheng1stPhaseForUI",
+      "name": "Shade of Reflection [Chachihu]",
+      "desc": "- If an Identity is on the field, <color=#f8c200>remove 1 Stagger Threshold</color> and gain +8 Base Offense Level and +8 Base Defense Level (effect does not stack)\n- On <color=#f8c200>Reson.,</color> gain 1 E.G.O resource for the respective Affinity and 1 random least-owned E.G.O resource (2 times per turn)\n- E.G.O Skills deal +50% damage\n- Identity Skills that either are <color=#f8c200>Gluttony</color> Skills or inflict <color=#f8c200>Rupture</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)\n- When an Identity Clashes with an enemy, the Identity gains +1 Clash Power for every 2 <color=#f8c200>Bind</color> on the main target (max 2)"
+    },
+    {
+      "id": "FavorBuffLeiheng2ndPhaseForUI",
+      "name": "Shade of Reflection [Tiantui Star]",
+      "desc": "- If an Identity is on the field, <color=#f8c200>remove 1 Stagger Threshold</color> and gain +15 Base Offense Level and +15 Base Defense Level (effect does not stack)\n- On <color=#f8c200>Reson.,</color> gain 1 E.G.O resource for the respective Affinity and 2 random least-owned E.G.O resources (2 times per turn)\n- E.G.O Skills deal +50% damage\n- Identity Skills that either are <color=#f8c200>Wrath</color> Skills or inflict <color=#f8c200>Burn or Unique Burn</color> deal +25% damage (for E.G.O Skills, deal +100% damage instead)"
+    },
+    {
+      "id": "FavorBuffLeihengHardForUI",
+      "name": "Tribulation",
+      "desc": "- <color=#ff0000>Max HP</color> +80%\n- SP does not drop below 0\n- Deal +50% damage against targets that have <color=#ff0000>Prey</color> (does not trigger if the target has Defense Skills equipped). Take -50% damage from targets that have <color=#ff0000>Prey</color>.\n- <color=#ff0000>If this unit has 3+ Tigermark Rounds</color> when using the Blasting Shatterslash [爆碎斬] Skill, deal +100% damage\n- [Phase 2 Exclusive Effect]\n· On Skill Use, <color=#ff0000>if the main target has Prey,</color> <color=#ff0000>gain Base Power +5, deal +200% damage</color> (does not trigger if the target has Defense Skills equipped), and convert all Coins on the Skill into <color=#ff0000>Unbreakable Coins</color>\n· On Clash Lose against targets that have <color=#ff0000>Prey</color>, gain 1 <color=#ff0000>Severing Slash[切斬]</color>"
+    },
+    {
+      "id": "HugeIrritationReflectrial",
+      "name": "Shin (心) - Tiantui Star [天退星]",
+      "desc": "- Turn Start: Gain 1 Damage Up and 1 Power Up for every 15% missing HP on self (max 5 each)\n- Inflict +3 more Tremor Potency and +1 more Tremor Count with this unit's Skills\n- If this unit's Speed is faster than the target's by 3 or more, deal +(Speed difference x 5)% damage (max 40%)\n- Convert the final Coins of \"Double Slash - Blast\" and \"Triple Slash - Blast\" to Unbreakable Coins",
+      "summary": ""
+    },
+    {
+      "id": "Prey_leiheng",
+      "name": "Prey",
+      "desc": "- In a Clash with an enemy, Clash Power -5\n- Combat Start:\n· If this unit equipped an Attack Skill, deal -50% damage against Lei Heng using Attack Skills\n· If this unit equipped a Defense Skill, take -75% damage from Lei Heng\n- If this unit wins a Clash against Lei Heng while under this effect, gain 3 of the least-owned E.G.O Resources\n- Expires at Turn End; this unit heals 10 SP",
+      "summary": ""
     }
   ]
 }

@@ -502,7 +502,7 @@
       "id": 234,
       "name": "Takeoff Module - E.G.O Spinning [HE] x1",
       "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os HE Level or lower)",
-      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to the [HE] level at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
+      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier of [HE]-level or lower E.G.O at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
     },
     {
       "id": 20024,
@@ -623,6 +623,18 @@
       "name": "Unrolled Film",
       "desc": "Used for purchasing Limited Rewards from the \"Reflectrial][lairtcelfeR]\" Reward Exchange shop.\n\n<size=70%><color=#a16a3b>Upon the film, the light is embedded and etched. A subsequent flash of light will soon penetrate the information contained within the preceding light etched like a silhouette—much like what remains when a human body is exposed to a devastating explosion of light and heat. The captured light, akin to a taxidermied still, contains the memories of someone, something. When new light passes through the film and the lens both, the plain ray is transfigurated into an image of light; through it, the information retained in the initial flash still remains. The image the living light forms is not one of itself but an image of a corpse, traces of dead light; how ironic, that the light that lives can form an image only when it passes through the light that has died? That is why the art of projection is a bitter one—the art that forces the living through the dead, killing it, only to project a mere simulacrum of life.\n\n\"Where are ya even getting these films from? Is there, like, a dedicated documentarian or a recording machine that tapes LCB's battles? That can't be it... Or is this also...?\"</color></size>",
       "flavor": ""
+    },
+    {
+      "id": 751,
+      "name": "Nominable Announcer Ticket [Yisang Exchange]",
+      "desc": "Use this item to select and obtain an Announcer from a list of Announcers that can be acquired through Yisang Exchange on the Extraction menu.\n(※ Does not include Walpurgis Night Announcers)",
+      "flavor": "Contains recordings of Announcers who relay the current battlefield status.\n\n\"Hey, so... some of these tapes are recordings of people who are already long dead. Wonder where they got these voices from?\"\n\"By capturing and trapping a few—situationally relevant, of course—voices observed from beyond the Mirror Worlds, they say.\"\n\"It's the Mirror again? Mirror this, Mirror that—might as well use the Mirror to deal with everything, this company!\"\n\"Aren't we already doing that?\"\n\"... Yeah, but... Have we thought about the consequences of using this technology...?\""
+    },
+    {
+      "id": 237,
+      "name": "Takeoff Module - E.G.O Spinning [TETH]",
+      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os TETH Level or lower)",
+      "flavor": "The fourth E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier of [TETH]-level or lower E.G.O at an accelerated pace.\nClothes are assembled from fabric, and fabric is woven from threads. Those threads are themselves twisted together from still finer strands. What was the term for these repeating patterns again—a fractal? Sometimes, when I see these patterns, I get an odd sense of deja vu.\n\n<i>Something</i> is recurring."
     }
   ]
 }

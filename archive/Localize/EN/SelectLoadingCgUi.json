@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "ui_settings_popup_tab_title_change_lobby_cg",
+      "content": "Set Loading Art"
+    },
+    {
+      "id": "ui_loading_cg_tab_personality",
+      "content": "<font=\"EN/title)mikodacs/Mikodacs SDF\">Identity Art</font>"
+    },
+    {
+      "id": "ui_loading_cg_tab_story",
+      "content": "<font=\"EN/title)mikodacs/Mikodacs SDF\">Story Art</font>"
+    },
+    {
+      "id": "ui_loading_cg_selected_count",
+      "content": "Selected"
+    },
+    {
+      "id": "ui_loading_cg_random_toggle",
+      "content": "Randomize"
+    },
+    {
+      "id": "ui_loading_cg_random_warning",
+      "content": "Art images cannot be selected individually when randomized."
+    },
+    {
+      "id": "ui_loading_cg_max_count_warning",
+      "content": "Up to {0} art images can be selected."
+    },
+    {
+      "id": "ui_loading_cg_chapter_title",
+      "content": "Chapter {0}"
+    },
+    {
+      "id": "ui_loading_cg_chapter_lock",
+      "content": "Clear {0}"
+    },
+    {
+      "id": "ui_loading_cg_cancel",
+      "content": "Cancel"
+    },
+    {
+      "id": "ui_loading_cg_apply",
+      "content": "Change"
+    },
+    {
+      "id": "ui_loading_cg_random_confirm",
+      "content": "You have already selected loading art(s).\nCancel selection and randomize?"
+    },
+    {
+      "id": "tutorial_loading_cg_01",
+      "content": "Change Loading Art"
+    },
+    {
+      "id": "tutorial_loading_cg_02",
+      "content": "Identity Art and Story CG images can be selected as Loading Art."
+    },
+    {
+      "id": "tutorial_loading_cg_03",
+      "content": "Filters"
+    },
+    {
+      "id": "tutorial_loading_cg_04",
+      "content": "Specific keywords can be selected to filter the image you want."
+    },
+    {
+      "id": "tutorial_loading_cg_05",
+      "content": "Check Selected Image"
+    },
+    {
+      "id": "tutorial_loading_cg_06",
+      "content": "Here, you can check your image selection. Up to 10 art images can be selected."
+    },
+    {
+      "id": "tutorial_loading_cg_07",
+      "content": "Randomize Art Selection"
+    },
+    {
+      "id": "tutorial_loading_cg_08",
+      "content": "Turning on the \"Randomize\" function will randomly select art images in your possession to be displayed on the loading screen."
+    }
+  ]
+}

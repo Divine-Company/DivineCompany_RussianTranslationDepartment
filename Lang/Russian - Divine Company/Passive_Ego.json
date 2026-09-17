@@ -240,7 +240,12 @@
     {
       "id": 2040511,
       "name": "Opened Can",
-      "desc": "On Hit, if target has 5+ [Sinking], inflict 1 [Disarming]. (5 times per turn)"
+      "desc": "On Hit, if target has 5+ [Sinking], inflict 1 [Disarming] (5 times per turn)"
+    },
+    {
+      "id": 2040512,
+      "name": "Opened Can",
+      "desc": "On Hit, if target has 5+ [Sinking], inflict 1 [Disarming] (5 times per turn)\n\n<style=\"highlight\">On Hit against an enemy in Staggered or Panic states, gain 1 [AttackUp] next turn (3 times per turn; in Focused Encounters, the Core)</style>"
     },
     {
       "id": 2060411,
@@ -265,7 +270,12 @@
     {
       "id": 2020511,
       "name": "Flamebrand",
-      "desc": "On Heads Hit with a Lust affinity Skill, inflict 1 [Combustion] on target (6 times per turn)"
+      "desc": "On Heads Hit using a Lust affinity Skill, inflict 1 [Combustion] on target (6 times per turn)"
+    },
+    {
+      "id": 2020512,
+      "name": "Flamebrand",
+      "desc": "On Heads Hit using a <style=\"highlight\">Wrath or</style> a Lust Skill, inflict 1 [Combustion] (6 times per turn)\n<style=\"highlight\">- If target has max [Combustion] Potency, inflict 1 [DefenseDown] instead\n\nOn Gluttony Base Skill Use, gain 1 Gluttony E.G.O resource (once per turn)</style>"
     },
     {
       "id": 2060511,
@@ -598,7 +608,13 @@
     {
       "id": 2100312,
       "name": "Stew Spewage",
-      "desc": "При ударе Решкой противника накладывает 1 [Combustion].\n\n<style=\"highlight\">При использовании базовых атакующих навыков, накладывающих Значение или Счётчик [Combustion:`Горения`] на противников:\n- Для навыков с положительными Монетами:\n· При менее 40 ПР восстанавливает 4 ПР;\n· При 40 или выше ПР наносит на 10% больше урона.\n\n- Для навыков с отрицательными Монетами:\n· При более -25 ПР, теряет 4 ПР (Этот эффект не может уменьшить ПР этого персонажа ниже -40);\n· При -25 или меньше ПР наносит на 10% больше урона.</style>"
+      "desc": "При ударе Решкой противника накладывает 1 [Combustion].\n\n<style=\"highlight\">При использовании базовых атакующих навыков, накладывающих Значение или Счётчик [Combustion:`Горения`] на противников:\n- Для навыков с положительными Монетами:\n· При менее 40 ПР восстанавливает 4 ПР;\n· При 40 или выше ПР наносит на 10% больше урона.\n\n- Для навыков с отрицательными Монетами:\n· При более -25 ПР, теряет 4 ПР (Этот эффект не может уменьшить ПР этого персонажа ниже -40);\n· При -25 или меньше ПР наносит на 10% больше урона.</style>",
+      "summary": "On Tails Hit, inflict [Combustion] on target. Heal or lose SP on self; or deal more damage"
+    },
+    {
+      "id": 2121011,
+      "name": "Processing Transfer Reg",
+      "desc": "At 3+ highest Reson.: On Hit using a Skill, inflict 1 [Binding] next turn on the main target (once per turn)\n\nAt 3+ [Charge] Potency, the following Base Skills deal +10% damage:\n- Base Skills that gain or consume [Charge] Count\n- Base Skills that inflict [Combustion] Potency or Count on the enemy"
     }
   ]
 }

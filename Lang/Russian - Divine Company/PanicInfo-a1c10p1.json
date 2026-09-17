@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": 1098,
+      "panicName": "Leave the Leather Behind!",
+      "lowMoraleDescription": "Defense Level -3, Offense Level +1",
+      "panicDescription": "Defense Level -5, Offense Level +2"
+    },
+    {
+      "id": 1099,
+      "panicName": "Back into My Shell...",
+      "lowMoraleDescription": "Max Speed -1, Defense Level +1",
+      "panicDescription": "Max Speed -5, Defense Level +3"
+    },
+    {
+      "id": 1102,
+      "panicName": "Culinary Yearning",
+      "lowMoraleDescription": "Offense Level +1 and take +3% damage for every [SapsareeHungry] Stack on self",
+      "panicDescription": "Offense Level +2 and take +5% damage for every [SapsareeHungry] Stack on self"
+    },
+    {
+      "id": 1104,
+      "panicName": "FOMO",
+      "lowMoraleDescription": "Offense Level +1 for every 20% missing HP on self (max 2)\nGain 1 [Vulnerable]",
+      "panicDescription": "Offense Level +1 for every 20% missing HP on self (max 2)\nGain 1 [Vulnerable]"
+    },
+    {
+      "id": 1105,
+      "panicName": "Messy Sewing",
+      "lowMoraleDescription": "Turn Start: Gain 1 [Reduction]",
+      "panicDescription": "Turn Start: Gain 1 [Reduction] and 1 [AttackDmgDown]"
+    },
+    {
+      "id": 1109,
+      "panicName": "Death Loop",
+      "lowMoraleDescription": "Gain 3 [Protection]",
+      "panicDescription": "Gain 5 [Protection]"
+    },
+    {
+      "id": 1121,
+      "panicName": "Inner Schism",
+      "lowMoraleDescription": "Defense Level -3, Offense Level +3\nIn a Clash against targets that have 5 [BloodyMucus], Clash Power +2",
+      "panicDescription": "Defense Level -5, Offense Level +3\nDeal +10% damage\nIn a Clash against targets that have 3 [BloodyMucus], Clash Power +3"
+    }
+  ]
+}

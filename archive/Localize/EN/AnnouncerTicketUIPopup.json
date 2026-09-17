@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "select_announcer_popup_title",
+      "content": "Select Announcer"
+    },
+    {
+      "id": "select_announcer_popup_confirm_desc",
+      "content": "Select <color=#f8c200>{0}</color> Announcer?"
+    },
+    {
+      "id": "select_announcer_popup_exchange_confirm_desc",
+      "content": "Selecting an Announcer you already own will yield {0}."
+    }
+  ]
+}

@@ -1,0 +1,4033 @@
+{
+  "dataList": [
+    {
+      "key": "D1089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<This place... looks like some kind of store...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What exactly are they selling here? No, actually, why's anything being sold here in the first place?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "I mean, it's a department store~",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Grand Magasin... A department store is, by nature, a place where a myriad little squares crowd upon one another in pursuit of profit.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "I suppose we'll have to look around if we want to learn anything more in detai—",
+          "speaker": "Hong Lu"
+        }
+      ]
+    },
+    {
+      "key": "D1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Wha? What was that?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "What <i>is</i> that?!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "I don't know, but whatever it is, something <i>huge</i>...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "... has plummeted from above.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "That was close. We would have sustained a severe impact... had we moved a few steps closer to the side.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "It appears to be... a huge mass of human bodies tangled together, though the remains are far too severely mutilated to discern any individual forms.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D1092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A big one dropped. Might be plenty worth salvaging this time. Hope the customers were heavy eyeball-spenders.",
+          "speaker": "Desperate Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1093",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Damn it, I'm out of empty bottles! Hey, you borrowed three from me last season. When are you going to pay me back?!",
+          "speaker": "Destitute Customer"
+        },
+        {
+          "index": 1,
+          "text": "Fuck off! This season's new drop is all... all mine. No one else's!",
+          "speaker": "Impatient Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The pile that fell from the sky turns out to be corpses, mangled beyond all recognition. A curious golden glow, bright like sunlight, winks through the gaps between the bodies."
+        },
+        {
+          "index": 1,
+          "text": "The people I assume to be the \"customers\" mentioned in the announcement are desperately scrambling among the corpses, snatching up whatever they could find."
+        }
+      ]
+    },
+    {
+      "key": "D1010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Might we rest our steps awhile?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "<Why, do you see anything up ahead?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "That remains a subject to be discussed...",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "Yi Sang continued, clenching and unclenching his hand as he regarded us."
+        },
+        {
+          "index": 4,
+          "text": "I have been set upon by this odd sensation... that which could not be a lone ideation of mine. This is the subject I wished to discuss with you.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 5,
+          "text": "I mean... Yeah, it's kinda hard to ignore. We've all grown weaker, like what happened to us when we first entered into that contract with Dante.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Sinners"
+        },
+        {
+          "index": 7,
+          "text": "... This is likely not a permanent phenomenon. It is probable that the deterioration of your physical prowess is owed to the unique characteristic of the Grand Magasin Sisyphe.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 8,
+          "text": "An issue with the very space of this place?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "Correct. Entering Sisyphe through indirect means, such as the Suicide Vending Machine, does not change the fact that we have entered another state of existence as \"customers\" of the department store. Ergo, our bodies as we perceive them in the phenomenal sense must have been reconstructed according to the rules of this place, which involves the Shadowed and the Symbolic—",
+          "speaker": "Faust"
+        },
+        {
+          "index": 10,
+          "text": "H-hold on!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 11,
+          "text": "So you're basically sayin' that this place is to blame for making us weaker, and we're gonna get back to normal once we're out, am I right?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 12,
+          "text": "... Yes.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 13,
+          "text": "Hmm~ Then rather than waiting for more explanation or brainstorming for ways to get stronger...",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 14,
+          "text": "Best we find Meur and get out of this place, chop-chop.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Happy to have a consensus for once. Our highest priority at the moment is locating Meursault; we best table any intelligence pertaining to this phenomenon until that primary objective is accomplished.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 16,
+          "text": "And if we run into fights? Any plans for that?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 17,
+          "text": "*puff* Killing a W.C. or two won't be a problem even if we've become C.W.",
+          "speaker": "Ryōshū"
+        },
+        {
+          "index": 18,
+          "text": "Killing a wandering customer or two won't be a problem even if we've become confused wimps, she says...",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 19,
+          "text": "<You know what, let's just go find Meursault like Rodya said.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Surprise, surprise...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Who are you?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "You people are awfully lucky, aren't you?",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "Look at that gory mess! Must've fallen from the sixth floor, give or take. This pile'll make this spot famous as a prime drop zone for a while.",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "... Might you be talking to us?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "What took you so long? I've been anxiously waiting for you 'round the clock!",
+          "speaker": "???"
+        },
+        {
+          "index": 5,
+          "text": "For us? Why the hell would you...?",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "In any case, aren't those... <i>human bodies</i> that just fell from above...? And what're those people even scavenging...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Human, she says! Oh, you're positively whimsical, aren't you? Those were <i>customers.</i>",
+          "speaker": "???"
+        },
+        {
+          "index": 8,
+          "text": "As for the scavengers, they heard a <i>thud</i>, so they've gathered up to try to get anything they can. Life's pretty rough in here, you know.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10121",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "She's gone.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<Let's quickly find Meursault and figure out how to get out of this place...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Should we... keep movin' for now? Straight ahead?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Executive Manager. I recommend returning to the restroom to regroup and reorganize.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 5,
+          "text": "I... assent to Young Rodya's counsel. Let us set forth with all haste, forsooth...",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 6,
+          "text": "<Yi Sang almost got hurt just now. And I think Sinclair needs a moment to collect himself.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": ".......",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 8,
+          "text": "<Let's do as Outis said. Regroup in the restroom, take a breather, then head out.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Thank you, Manager...",
+          "speaker": "Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D10400",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#916e46>Your attention, please. The Stripe Season has officially ended. We are pleased to inform you that Houndstooth is the new trend.</color>"
+        },
+        {
+          "index": 1,
+          "text": "What?! No! I flayed so much skin off my thighs to make those stripe patterns... and it was all for nothing?! I only just got the horizontal lines all the way up to my chin. They can't change the trend <i>now</i>!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 2,
+          "text": "I have to fill the new-arrivals displays! Need a plan, need a plan... Maybe tear what's there into a checkered pattern? I can't let those go to clearance!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<... Pretty hectic, huh...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10401",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>Let me... lay my hands on you awhile.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#515aee>Every voyage... requires some touch... before it begins.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D1021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Meursault! So this is the place I saw... What are you doing here?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "... I entered the Grand Magasin, proceeded onward, and arrived at this shop.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "As far as I'm aware, entry to Sisyphe is beyond ordinary means.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "If you were not brought here via the Sisyphe Penalty, then you must have taken another, unknown route.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<... That's right. Hermann and her lackeys helped us.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "I see.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Forget about that. Just what have you been doing here all this time, Meursault?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "And what is this place?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "I am... currently in storage.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "What does that even—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "*sigh* Just as averse to explaining yourself as you were outside, even in this place.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "Who are you people?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 14,
+          "text": "Back off. I found this material first. Finders keepers. It belongs to our store now.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 15,
+          "text": "\"Material\"...? Um... Look, this dude is our... uh, \"colleague.\" Can we have him back, please?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 16,
+          "text": "\"Colleague\"... Hm. I've heard that word before. Is it a brand name?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 17,
+          "text": "Uh...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 18,
+          "text": "From what we've seen of this place so far... I don't know if common sense is all that reliable in here.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 19,
+          "text": "When you said he belongs to your store... does that mean you're gonna put him to work?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 20,
+          "text": "No. We have more than enough staff for this shop. It's the material that's in shortage.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 21,
+          "text": "Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 22,
+          "text": "You strangers are impossible to communicate with. I'm at my wits' end here...",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 23,
+          "text": "The employee gave us an exasperated look."
+        },
+        {
+          "index": 24,
+          "text": "I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 25,
+          "text": "Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 26,
+          "text": "I get that, <i>I get that</i>, but what the hell does that have to do with—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 27,
+          "text": "Do any of you strangers have more common sense than this one? This one doesn't get a single word I'm saying!",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 28,
+          "text": "You're the one who—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 29,
+          "text": "I think, Ishy... these people aren't about to hand Meur over just like that. We'll need to make a deal with them.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 30,
+          "text": "Sure, but a deal needs two-way communication, you know...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 31,
+          "text": "I get whatcha mean, Ishy. Ishy?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 32,
+          "text": "I'm just sayin', I don't think asking more questions is our best shot at moving on.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 33,
+          "text": "All right. Why don'tcha go ahead and tell me what you want in return for this, uh, \"material\"?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 34,
+          "text": "<i>Now</i> we're getting somewhere. All right, what do you want?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 35,
+          "text": "It's a shame to lose such promising material... What to do, what to do...",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 36,
+          "text": "... All right, then. You can work off the material's value, and I'm willing to call it even. Consider it a part-time job. We're really swamped as it is, changing up the displays and order sheets to keep pace with the latest trends.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 37,
+          "text": "S-sure... What kind of errand?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 38,
+          "text": "There's an area nearby full of Mannequins.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 39,
+          "text": "... Mannequins?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 40,
+          "text": "Unable to restrain herself, Ishmael cut in once more, but quickly gave up when Rodion hurriedly sent a desperate look her way."
+        },
+        {
+          "index": 41,
+          "text": "The problem is that those Mannequins are dressed in clothes that have fallen way, way behind the current fashion trend.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 42,
+          "text": "What if customers coming here to shop see those hopelessly dated Mannequins and refuse to enter our store?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 43,
+          "text": "R-right... That would be a real problem for the shop, wouldn't it...? Yeah... totally...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 44,
+          "text": "Rodya nodded vigorously, perhaps trying a little too hard to look sympathetic to the employee's plight."
+        },
+        {
+          "index": 45,
+          "text": "Yes. Which means I want you to help the Mannequins to the exit.",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "\"Help them to the exit\"? Okay, now I'm confused, too. Just what are we supposed to do?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "The request is simple.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "We are to eliminate the entities they call \"Mannequins.\"",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "You mean kill them?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "You are asking more questions than usual.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "What do you expect? I can't understand half of what anyone here says.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "I see.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "You <i>see</i> what?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "I have realized that things here might appear inscrutable from your perspective.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "You should understand that, in this place, the word \"common sense\" may be received differently from its conventional usage.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Well? Are you helping those Mannequins to the exit or not?",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 12,
+          "text": "Give us a sec~ Haha... We're just taking a quick look around your shop... These clothes are o-out of this world!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 13,
+          "text": "Oh, okay! Buy this, and I'll throw in that outfit as well. We're holding an end-of-season sale.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 14,
+          "text": "So what's it gonna be? If we wanna save Meursault, we kill the things this person calls Mannequins—is that correct?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 15,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 16,
+          "text": "Haven't you been browsing long enough? Don't you think you ought to buy something after that much window-shopping?",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10221",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<For now... let's head to where the Mannequins are.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Okay, then... we'll help them to the exit.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Good choice. You only need to help three Mannequins to the exit.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<We'll be back, so stay in storage—I mean, wait for us here, Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "... I must accompany you, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<What for?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Aw~ You're thinkin' we're not up to the task, aren'tcha?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "A question, Manager. It is likely that you have encountered entities they refer to as \"Mannequins\" on your way to this room. Did you try making physical contact with them?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<Uh... I'm not sure exactly what counts as a \"Mannequin,\" but I haven't tried touching any of them just yet. Some didn't seem to perceive me at all, actually...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "Indeed. Contact would have been impossible. I am likely the only person capable of direct intervention with the entities that exist in here.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "However, standing behind me in a line will allow for a limited degree of interactivity with the environment, though it will not be sufficient to engage these entities in battle.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "<Huh. And why is that...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Because this place belongs to the Symbolic, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Are ya sayin'... we cannot participate in any battles that take place in here?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 14,
+          "text": "It will be possible in the Shadowed.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "Symbolic, Shadowed... What are those?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 16,
+          "text": "They are names for the constituent worlds of this department store.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 17,
+          "text": "Uh... That's not much of an answer, is it.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 18,
+          "text": "A more thorough explanation than this would require a significant time investment.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 19,
+          "text": "<... Either way, we do need Meursault with us if we're going to make any real progress, right?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 20,
+          "text": "That is correct, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 21,
+          "text": "<Then you should take the lead, Meursault.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 22,
+          "text": "<I'll tell you which way to go.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 23,
+          "text": "It will be done.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 24,
+          "text": "They need me to accompany them in order to fulfill the work you assigned to us. May I step away for a short while?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 25,
+          "text": "Yeah, sure.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 26,
+          "text": "<... Wait, we have Meursault now. What if we just split and never came back?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 27,
+          "text": "Fleeing would not prevent me from being placed in storage, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 28,
+          "text": "Okay... so you're saying runnin' away with you would cause trouble for us, right?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 29,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 30,
+          "text": "Maybe this place has its own Laws—just like the Great Lake.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 31,
+          "text": "*sigh* Let's do as Meursault says. I don't know why or how, but he seems to be well-acquainted with the department store.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 32,
+          "text": "<Right. Sounds like a plan.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10222",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Can't wait around all day. Hurry up and make up your mind.",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10223",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Well? Have you given it some thought?",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10224",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Giving the clerk what they need is probably best if you require my service, Manager.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D10225",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Since you're already on the job... hurry up, will you? This season could end any minute...",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "So this is... a \"Mannequin?\"",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Both this thing and what we saw earlier... they feel a lot like the things we call Distortions. What do you think, Dante?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "<They do... I think they really are Distortions.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "No way... The trend changed again?",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 4,
+          "text": "What's in fashion now? I didn't hear the announcement.",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 5,
+          "text": "More importantly, how can you be walking around in hideous clothes like those? Aren't you even ashamed of yourselves? That couldn't possibly be the current trend!",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 6,
+          "text": "Stripes will return one day! Fashion always comes back around!",
+          "speaker": "Leather Glove"
+        }
+      ]
+    },
+    {
+      "key": "D1915",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Kergh... You dress in such repulsive rags... yet you call <i>me</i> outdated...?",
+          "speaker": "Leather Glove"
+        },
+        {
+          "index": 1,
+          "text": "Next time... I'll make it. I'll be the one... to make it to the runway...",
+          "speaker": "Leather Glove"
+        }
+      ]
+    },
+    {
+      "key": "D1023",
+      "texts": [
+        {
+          "index": 0,
+          "text": "So you managed to help them to the exit. Thanks to you, more customers can now access our shop.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 1,
+          "text": "Whew... We've got so much on our plates at the moment. We need to redesign and revamp the entire lineup, what with the trend changing.",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 2,
+          "text": "Shame we're forced to part with this material, but that's that...",
+          "speaker": "Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<color=#916e46>Your attention, please. The Houndstooth Season has officially ended. We are pleased to inform you that...</color>"
+        },
+        {
+          "index": 4,
+          "text": "Good grief! The trend changed again while I was wasting time shooting the breeze with you. Scram if you're not buying anything!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D102301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "So... you're not hurt anywhere, are you, Meur?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102302",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There have been no violent altercations since I entered Sisyphe. I have sustained no injuries.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D102303",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Why did they seize you in the first place?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102304",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They believed I belonged to Le Kaki.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Le Kaki? What's that?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Questions and doubts everywhere—understandable, because Meursault showed no intention of explaining matters proactively, and even the words we thought we knew held completely different meanings to the entities in this place."
+        }
+      ]
+    },
+    {
+      "key": "D102305",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The customers of the department store can be classified into four principal groups, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "The mainstream groups are called Le Noir and Le Rouge. Those belonging to neither are known as Le Kaki. Lastly, there are those who never reveal themselves, nor are they called upon by others.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Do these... \"Kaki\" people... often get kidnapped like that?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102306",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It is inaccurate to label what happened to me as \"kidnapping.\" The Kakis' existence is defined by the current's flow; therefore, they are sometimes used as tools or as materials for clothing production.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Most Kakis aim to purchase and wear the garments they desire. I possessed no such objective, which made it possible for them to use me as material.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "I still don't get the full picture... So you need to have a fashion purpose here? Like... buying clothes, trying 'em on and stuff?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "The people here... seemed interested in nothing but clothes.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "It is less a purpose than a raison d'être.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "With every answer breeding more questions, I had no choice but to cut in and ask the one fundamental subject someone had to ask."
+        },
+        {
+          "index": 6,
+          "text": "<So, now that all's said and done, Meursault, could you tell us...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<Where exactly we are?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D102307",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Sisyphe...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<Yes, I know we're in Grand Magasin Sisyphe, and yes, it's a department store. But what I'm asking is...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Where in N Corp. is this building located? And what are all these people doing in here?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "What can we do to get out of this place?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "The barrage of questions were unrelenting, but Meursault kept his gaze trained on me without moving so much as an eyebrow."
+        },
+        {
+          "index": 6,
+          "text": "There are more than a few questions, so I will address them individually.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Point one: This is not a physically constructed building, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<Not physically constructed...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "My body currently lies unconscious inside a vat at the Sisyphe Tower, somewhere within N Corp.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "The 12 bodies belonging to you and the other Sinners are likely inside the group Suicide Vending Machine you used.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Then... our minds have been moved here...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "And this is a virtual space inhabited by the minds of those sentenced to Sisyphe Penalty?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102308",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "I see. So that's why they made that disturbing experience an entry passage leading here...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102309",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Moving on, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Point two: Every person who enters the Grand Magasin Sisyphe is designated a \"customer\" who will do one of two things—manufacture clothing, or consume it.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Then I suppose everything we saw earlier counts as clothing too, right?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102310",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "But I thought this place was supposed to be a Canned Experience factory. Imprisoning people's minds in a virtual space, making them manufacture clothing instead of cans—I mean, why do any of that?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102311",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That is... not a question easily answered.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "The question of how and why human beings exist does not admit any attempt at discovering an ultimate answer and, moreover, is a futile one to ask.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "The questions of why the customers of Grand Magasin Sisyphe seek to purchase and wear clothing, and of why and through what process the department store came into existence... are likewise unfathomable subjects.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Sorry, why are we suddenly getting all existential? I was just asking what clothes and cans have to do with each other...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "It is an apt juxtaposition insofar as both are unanswerable, yet accepted by human perception.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "What are you even—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "All right, that's enough. I don't wanna keep going in circles over pointless gibberish. Any more of this and I'm gonna go crazy like the other wackos in here.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "So, let's summarize: this place looks real, but it's a virtual space where only our minds exist—like brains in a vat. Our bodies are all slumber partyin' nice and cozy inside that Suicide Vending Machine. The residents here are all nutjobs. Done. All cleared up.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "With that, our plan is simple: rescue Meur—we did that—find him in one piece—he is—yoink the Golden Bough on the rooftop, and get ourselves outta here. Everyone agree?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 9,
+          "text": "Laying it all out like that seemed to make things much simpler..."
+        },
+        {
+          "index": 10,
+          "text": "... and yet, having experienced enough ordeals throughout our journey, we knew all too well that it was easier said than done."
+        }
+      ]
+    },
+    {
+      "key": "D102312",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Point three:",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Please, no...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "There is no method by which an individual who enters Sisyphe...",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "... may leave and return to the outside world at present.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Meursault delivered every grave word of the catastrophic verdict without a moment's hesitation."
+        },
+        {
+          "index": 5,
+          "text": "<... Nothing we can even try? A loose Backdoor somewhere...? Maybe defeat a guard in here and leave...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "Although it assumes the characteristics of a building, this is a symbolic space, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "It has no entrance or exit in the conventional sense.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Accordingly, even if we were to cross through some apparent passage leading to an \"exit,\" it would only be a \"representative\" act—without resulting in our actual departure.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Y'know, it makes it even worse when ya say that awful conclusion so matter-of-factly...",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102313",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I did not speak matter-of-factly. I spoke the matter of fact.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<Does that mean... there's no way out whatsoever for us?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Dante, can you not jinx us like that...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "You and the others entered this place by means that cannot be described as conventional, Manager. An exit may exist in your case.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "However, that possibility does not guarantee that I can be removed from this place.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Ya sound like... you've been here before, Meur. Have you?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "This place is reserved for criminals sentenced to the Sisyphe Penalty. Residents who have not violated N Corp.'s laws cannot arrive here through ordinary means.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Then how do you know so much about it?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "... I acquired the information while working for N Corp.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "It was difficult to imagine Meursault in an idle conversation with other people, with a cup in his hands."
+        },
+        {
+          "index": 10,
+          "text": "But if nobody who enters can ever leave, how could anyone have told you—*sigh* never mind. Rodya's right. We're talking in circles now.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "Anyway, it all comes down to us having to retrieve the Golden Bough, right? Even though there's no \"proper\" exit we can find.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "Then... I suppose our only option is to climb toward the top. We found a way to sail through the Great Lake—we will find a way to navigate this place as well.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "I considered for a moment whether it would be wise to point out that the ship had come equipped with a coordinates tracker to tell us where we were, but decided to bite my proverbial tongue. Deadpan truths are not always helpful."
+        },
+        {
+          "index": 14,
+          "text": "Virtual or not, as the Manager of the team, there was only one thing I could ever say."
+        },
+        {
+          "index": 15,
+          "text": "<Then let's keep moving. There should be stairs or something else that can take us to the next floor.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1031",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh! You look like you've just got here, too! Right?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10311",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Thank goodness. I got sent here after being sentenced to the Sisyphe Penalty, but nobody would explain anything to me! All anyone says are riddles and nonsense when it comes to this place—and I mean people <i>outside</i> as well. The ones here? They even get angry and complain about me not having common sense!",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "And guess what, one person even asked if they could use me as material. Must be some kind of jargon they use in here.",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "So... when didya get here?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "That's exactly what I'm trying to figure out. There are no clocks here, and they have this weird way of counting days. Oh! Speaking of clocks—you've got one for a head! Could you tell me what time it is now? I know for sure it's been ages since my last meal, but somehow I don't feel hungry...",
+          "speaker": "???"
+        },
+        {
+          "index": 4,
+          "text": "<Yup, that's the reaction of someone who just came from the outside world.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Whoa, are those uniforms? You must've belonged to a pretty serious Syndicate. Just what did you do that they decided to throw everyone in here as a package?",
+          "speaker": "???"
+        },
+        {
+          "index": 6,
+          "text": "Hm, how should I put this... They charged us with \"caring a lil' too much about a certain colleague of ours\", if that makes sense?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "And you...? What did you do to receive the Penalty?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "There's this product my friends and I cooked up.",
+          "speaker": "???"
+        },
+        {
+          "index": 9,
+          "text": "... I assume this \"product\" was illegal to manufacture in N Corp.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "Whoa. How did you guess?",
+          "speaker": "???"
+        },
+        {
+          "index": 11,
+          "text": "... I mean, it's obvious. Why else would they give you the Sisyphe Penalty?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "Wow. You sound exactly like that prosecutor at my trial!",
+          "speaker": "???"
+        },
+        {
+          "index": 13,
+          "text": "Everyone in the courtroom reprimanded me so hard once my trial began. They said something about how I was sowing confusion and unrest among the residents of N Corp. by distributing products like that...",
+          "speaker": "???"
+        },
+        {
+          "index": 14,
+          "text": "What exactly did you make?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Counterfeit Canned Experience. Oh, I'm the one who designed the label, by the way—I've been quite an artist since I was little. Laura was in charge of the contents. It's easy stuff. All you need is some flour, chalk dust, and a pinch of powdered milk. The ratio of the ingredients is where you need to be careful.",
+          "speaker": "???"
+        },
+        {
+          "index": 16,
+          "text": "Counterfeit Canned Experience...? That's a thing?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 17,
+          "text": "Huh? Why wouldn't it be? I mean, you only need to make it <i>look</i> the same. Believe me, there are plenty of people in the Backstreets who make a living by making fake Canned Experiences. People can't get enough of anything labeled \"experience,\" after all.",
+          "speaker": "???"
+        },
+        {
+          "index": 18,
+          "text": "Anyway, this is the first time I've experienced the Sisyphe Penalty. Maybe they'll let me out sooner if I can post bail. Bernard said he'd try to raise the money from selling the fake cans.",
+          "speaker": "???"
+        },
+        {
+          "index": 19,
+          "text": "Right... And what happened to your face...? Did they hurt you or something?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 20,
+          "text": "Oh, I got this from a fire that broke out in the orphanage I grew up in. I couldn't get proper treatment in time what with being an urchin and all, and... well. Bernard has it worse—he's left with a permanent limp. Even worse for Laura. Breathing in smoke really messed up her lungs, so she can't run for too long. Say goodbye to ever working in a Nest with scars like these, right?",
+          "speaker": "???"
+        },
+        {
+          "index": 21,
+          "text": "But hey, at least this prison's pretty snazzy. And I've never seen or heard of a prison where they let you wander around without locking you up in a cell.",
+          "speaker": "???"
+        },
+        {
+          "index": 22,
+          "text": "The name's Dubois, by the way. People also call me \"Scar D.\"",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 23,
+          "text": "This guy...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 24,
+          "text": "He has no idea what is happening. Just like us a little while ago...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 25,
+          "text": "I don't know, I... kinda feel bad for him...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 26,
+          "text": "And, uh... he's kinda neurotic, too, jumping from one subject to the other.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 27,
+          "text": "By the way... If this is a prison, where are the guards...? Shouldn't jails have wardens or something?",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 28,
+          "text": "Who knows...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 29,
+          "text": "Oh, and... Do you happen to know how to get upstairs? There might be a phone booth or something up there on the upper floors. I need to call my friends.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 30,
+          "text": "We're looking for a way up too.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 31,
+          "text": "Oh, I see... Okay. I'll let you know if I manage to find one.",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1032",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I'll be keeping an eye out for any staircases or elevators leading up!",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1033",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 이제 퀘스트는 없어",
+          "speaker": "뉴비1 npc"
+        }
+      ]
+    },
+    {
+      "key": "D1040",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "This employee here isn't so eager to greet us.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<Is that... normal?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Vendors of Le Noir establishments are not compelled to initiate provider-client engagement.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Welp, then let's not bother 'em and move on? Sounds like a win-win.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1041",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "We can almost feel his guarded stare against our skin. If he's not about to stop us from browsing, why is he watching us like a hawk...?"
+        }
+      ]
+    },
+    {
+      "key": "D1047",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It looks something like a suit... only cut from a far more classy design."
+        },
+        {
+          "index": 1,
+          "text": "Huh. That's actually a lot nicer than I expected. So chic!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "... Let's look around some more.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1048",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ooh, don'tcha think this one's made for Dante?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<Y-you think so?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Ya bet! That fit is practically beggin' for ya. And we've got those eyeballs from earlier—why not treat yourself?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "Hang on. It's the only kind of currency they'll accept around here. We should set our priorities right before we splash cash like—",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "<Don't worry, Ishmael. We can't afford it anyway.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "We can't?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "Eeep... 450 eyeballs? What a ripoff!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Or maybe we're just too broke.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1049",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Unlike the Casualwear Hall, everything here has the same sort of look.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "These garments do not submit to passing trends.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "The collections sold by Contemporary labels of Le Noir and Le Rouge each maintain a deliberate visual consistency, according to the aesthetic doctrine of their respective factions.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<But if they keep making the same kinds of clothes... won't fashion leave them behind? Trends change every 5 minutes in this place.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "That is—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "When a designer's name carries enough weight, ya don't chase trends. Trends chase ya instead.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Slap a famous label and a ridiculous price on something this fancy, and people will line up before ya lift a finger.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "No need to run yourself ragged.. to keep up with every little craze.",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1976",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The entire outfit fits neatly into view."
+        }
+      ]
+    },
+    {
+      "key": "D1042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Come to think of it, almost everything on display in this department store is clothing. Wonder what their production line looks like.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Grand Magasin Sisyphe offers various opportunities to procure a sundry of material and attachments, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Well... Outside, I think they get the mats from domesticated animals or plants...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "That, or use synthetic fiber for weaving.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Though the label upon each material differ from those of the outside,",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "the basic manufacturing principles remain the same: butcher the source and use the raw material for production.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "The \"raw material\" being...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Being the clientele. This means they purchase and wear clothing, but may also become clothing themselves.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Right... So how big is Sisyphe's \"clientele\"? The customers trapped in this place?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 9,
+          "text": "Approximately 300 million.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "... Pretty sure I misheard that.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "You did not. There is no discharge date for the Sisyphe Penalty, and those who enter remain permanently. Its population is theoretically on an infinite upward trend.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D10421",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Heed ye, for again I proclaim this day. Blessed be the hall of our rest with eternal preservation.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Yet even today, ye do naught as the hideous and the wicked ceaselessly tear out the Golden from its walls and take its aureate light for themselves. How long will ye forgive your own craven spirits and feebly accept the end of days?</color>"
+        },
+        {
+          "index": 2,
+          "text": "I shall heed your command, Lord. Apostates who dare plunder the Golden Resin shall—",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 3,
+          "text": "...!",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 4,
+          "text": "I see among our clientele... those who gladly bask in the tarnished glow of sacrilege.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 5,
+          "text": "Why is he looking at us...? Hey, we were just shopping and minding our own business!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "The employee is speaking to the Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<Me? What? Why?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "That the forces of Le Rouge would seek to foment disorder and profane the sacred domain... Answer, what is this brazen attempt to null the ancient truce?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 9,
+          "text": "You listen here, Buddy. I don't even know what this funny \"Rouge\" business is, 'kay? We're nobodies, we're not in any forces of whatever, and we don't want any trouble!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 10,
+          "text": "Ah, then you claim to be Kakis? You, who strut through our store flaunting those irreverent trinkets on your face? Do you expect us to believe you?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 11,
+          "text": "If I were to hazard a guess... I'd say the \"blasphemous trinkets\" are referring to Dante's clock hands...?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "<Okay... So what's that got to do with us?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "It is likely due to the guiding tenets of the Le Noir faction.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 14,
+          "text": "I was informed that they consider the eternal preservation of this department store to be their appointed mission.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "<color=#7d7d7d>Thou shalt not suffer those who would scrape out the Golden.\nThou shalt cleanse our domain of apostasy.</color>"
+        },
+        {
+          "index": 16,
+          "text": "I shall grant them no mercy... I shall reclaim that radiant resin with my own hands and shore up the fading light of this sanctuary... Yes—your voice reaches me. As the hand of the will that is Le Noir, I shall make my stand here and...!",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 17,
+          "text": "<color=#7d7d7d>Thou shalt banish the apostates...\nThou shalt preserve the Golden hue...\nThou art hallow'd with the divine duty to shade the profane light, O keeper of eternal rest...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D10430",
+      "texts": [
+        {
+          "index": 0,
+          "text": "W-wait... Lower your weapons, please...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Your aureate traces are... while similar, quite unlike the Golden Resin we must preserve.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 2,
+          "text": "Yeah, well, why didn't you listen when we said as much? Could've avoided this whole mess...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Ishmael took a threatening stride toward the employee, who quickly shrank back."
+        },
+        {
+          "index": 4,
+          "text": "Oh! I understand... Your voice resounds within me once more! These are true strangers, innocent of our ways—customers drawn here by the worth of our brand, and nothing more. I shall receive them anew.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 5,
+          "text": "Forgive my affront, dear customers. The golden light that hangs over you much resembles the blessed Golden Resin we must preserve.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 6,
+          "text": "We haven't met too many people who could pick up the Golden Bough's presence like you did... How'd ya do it?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Every one of us feels that golden pulse... and thirsts for it.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 8,
+          "text": "Our guiding light... The golden gleam that weaves us into our desired forms...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 9,
+          "text": "We desire it too, that brilliance. But unlike the Rouges who surrendered to their base urges, we Noirs are the eternally sworn guards of the blessed grain.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 10,
+          "text": "As you have doubtless noticed... The walls are riddled with the hideous bite marks left by those blasphemous red ones.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 11,
+          "text": "Grain of the Golden Resin, indeed... But those Rouge savages are busy shoveling that very essence of the stalwart bastion into their gullets...!",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 12,
+          "text": "Okay, so... just what is the \"Golden Resin\"?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "<Does this have anything to do with the Golden Boughs?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 14,
+          "text": "... I think he's talking about these... patches.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Rodya pointed at one of the walls sparsely covered in patches of faded resin."
+        }
+      ]
+    },
+    {
+      "key": "D10431",
+      "texts": [
+        {
+          "index": 0,
+          "text": "So they're the \"Golden Resin,\" huh...",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10432",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The time was nine arboreal Seasons ago—when the Age of Ruin descended upon Grand Magasin Sisyphe in the form of cataclysmic cracks forming upon its walls.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "Then, mere moments before doom took us, salvation arrived in a form that couldn't be anything else but divine—brilliant resin of gold, materializing in the cracks that would have been our ruin, patching them back to wholeness. Are we not to praise and worship this providence? Alas... The Rouges fail to comprehend the unequivocal logic in this veneration, and instead elect to flay the walls... Preposterous.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 2,
+          "text": "Though a precarious truce between the two factions is in place... None fail to see the truth that is plainly before them: this peace is but a momentary lull, nothing more.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 3,
+          "text": "Then... only then... shall my mind be opened to the true \"Voice,\" beyond the broadcast.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 4,
+          "text": "...? What was all that fuss about voices earlier, then?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Uh...! Right, indeed... I <i>do</i> hear the \"Voice...\" What I meant to say is that my mind shall be opened <i>further</i> so that I may hear it more frequently...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 6,
+          "text": "Anyways... If ya know a way upstairs, care to let us in on the secret?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 7,
+          "text": "Ah, so you are customers who seek to reach the Customer Service Center, I see...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 8,
+          "text": "To rise is to gain prestige, and to be prestigious is to spend and consume until your expenditure befits the status they demand.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 9,
+          "text": "Though I am bound to my post, to remain in this establishment and attend to its customers...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 10,
+          "text": "... perhaps you may be able to ascend in my stead and relay the account of my eternal fidelity toward the Golden Resin...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 11,
+          "text": "Gotcha. So if we want to go upstairs, we're gonna need to spend some cash. One more question, if you wouldn't mind—how exactly do we make money around here?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "... Money?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 13,
+          "text": "The lingo for money here seems to be \"eyeballs\"... Right?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 14,
+          "text": "Oh... You strangers truly possess a determination unlike any other.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 15,
+          "text": "Then I shall reveal the means by which eyeballs may be won. Take them from the Mannequins. They seek every opportunity to exhibit themselves without end; if you apply yourselves diligently, you will gather all the eyeballs you require.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 16,
+          "text": "And another thing—pray, be constantly vigilant beyond this point, for you will be entering the territory of the Rouges. The vulgar, heathen fiends cannot even drape a bolt of fabric properly, so they rend our Golden Resin and stitch it back together in whatever blasphemous shape that pleases them...",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 17,
+          "text": "... The Rouges... All right. Will keep that in mind.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 18,
+          "text": "If there isn't anything else, brave strangers, I am honored to inform you that this establishment is now open to your perusal.",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I think we've looked at pretty much everything they have to offer here.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<Those are some pretty bizarre things they're selling here... Do all shops here have such a weird inventory?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Well, let's head to the other store up ahead and find out.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh... How regrettable. We carry nothing suitable for Strangers of your... sensibilities. Return once you've cultivated some understanding of fashion—and raised your rank, too.",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 1,
+          "text": "And how do we raise that?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "There is but one way to raise one's standing in a department store, is there not?",
+          "speaker": "Gustave"
+        },
+        {
+          "index": 3,
+          "text": "... Spend money. Lots of it.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Precisely. Then until we meet again, Strangers of truly... arresting fashion.",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Welcome, dear customers—",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ah... Do I spy a true connoisseur of fashion? A style much like our own... sophisticated... elegant... and that command of color—exquisite.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 1,
+          "text": "Hah! See? Someone gets it.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "The compliment was directed at the Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<Huh... Guess I'm pretty \"hip\" here, as they say?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Congrats, I guess...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "You appear to possess a respectable eye for fashion, so perhaps I can offer an expert's advice on shopping...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 6,
+          "text": "The soul of our label is liberation—strangling liberation, to be exact. You passed through the Noirs' store, yes? All those steel pins hammered through the fabric are a hypocritical pantomime of restraint—the philosophy of Le Rouge differs at its very root.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 7,
+          "text": "If I may direct your attention... here, do you see the smooth, natural give of the material? You won't see that from any production technique other than toothed—yes, it is quite literal—loopwheeling technique. The hide spills downward, completing a silhouette at once effortless and sublime.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 8,
+          "text": "Ah! And I would be remiss not to share that this includes 0.3 ounces of Golden Hide blended into the material. Simply feel it in your hands—ah, it has such a wonderful luster that practically gleams along the surface, doesn't it? <i>Doesn't it?</i>",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 9,
+          "text": "I couldn't help but notice that she was hungrily licking her lips throughout the rant."
+        },
+        {
+          "index": 10,
+          "text": "It-it does...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "Ah, do pardon me... I got carried away, didn't I?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 12,
+          "text": "The truth is, I am the designer of this label.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 13,
+          "text": "Gosh, I could go on for hours about all the troubles I had to overcome to have this tiny corner of the department store to myself. It's no easy task launching a designer label at Sisyphe, you know.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 14,
+          "text": "Well... at least she seems to fall into the friendly camp.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 15,
+          "text": "Is there a particular silhouette you're after? If you like, I can select a line from my collection that will articulate your physique to perfection.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 16,
+          "text": "We're... trying to find our way upstairs, actually.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 17,
+          "text": ".......",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 18,
+          "text": "The upper floors...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 19,
+          "text": "Ah, I knew it... You're more interested in the Luxury brands too, aren't you?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 20,
+          "text": "But I assure you, the quality standards and the classique air of my designs are not so far behind those of Luxury brands...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 21,
+          "text": "Yes, of course, the allure of Luxury brands is undeniable. There once was a time when even I devoted myself to collecting eyeballs like a thing possessed, all for the chance of witnessing the Luxury Hall...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 22,
+          "text": "No, we're just...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 23,
+          "text": "I know a Rouge who used to work here before they were allowed to join the Luxury Hall. I don't want to badmouth, but I do take umbrage with how they approved somebody who is so clearly my inferior in patterning and design. And to think this \"Luxury designer\" learned their craft under <i>my</i> tutelage as a greenhorn, can you believe it?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 24,
+          "text": "Until... listen, this is where it gets really ridiculous...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 25,
+          "text": "... they used their teeth to line each and every one of their items with exactly 76 tooth marks along the necklines and hems. Whatever it was that the customers saw, the general reception claimed it cast a \"deconstructive silhouette,\" and practically emptied their shelves.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 26,
+          "text": "Eh, I wouldn't attribute <i>that</i> to their skill when it ultimately amounts to a fluke... My designs are far more sophisticated than theirs, not to mention incomparably elegant.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 27,
+          "text": "I deserve to be recognized as a Luxury house, too. A couture label of my own! But just what must I do to—",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 28,
+          "text": "... Oh, I've a brilliant inspiration.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 29,
+          "text": "Would you mind grabbing me a needle from the Exhibiting Mannequins?",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 30,
+          "text": "Find me a sizable one, and I'll try to make it worth your while.",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That Mannequin seemed tougher than the others... Ya think it's this golden needle?",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1055",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Have you brought me the needle?",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Yeah, here's your needle. So... care to explain how this is your key to joining the Luxury brands?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "It's just something that's struck me all of a sudden. Does my brand need strong heritage to enter the world of high fashion? No. Technical perfection? Clearly not. Rare, high-grade materials? Not at all...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 2,
+          "text": "But I've been so obsessed with meeting those arbitrary conditions that I've trapped myself in this glorified glass jar of a lobby.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 3,
+          "text": "Yes, a signature piece... What I lacked was <i>the</i> signature piece—do you understand what I'm getting at?—the singular idea that would seize every customer's eye just from a quick glance...",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10521",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "She took the massive needle from us, raised it to her eye level... then began rapidly stabbing her own skin with it."
+        },
+        {
+          "index": 2,
+          "text": "If I give it a nice pattern... like so... I can easily create a sense of three-dimensionality. Just wait until you see the material swell up evenly across the board.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 3,
+          "text": "Ohh, I can't wait to feel each hole in the pattern fill up with soft, juicy pus! It'll result in such a supple touch... How's that? It'll fit right in among the masterpieces of the Luxury Hall on the upper floors, won't it? <i>won't it?</i>",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 4,
+          "text": "S-sure it would, I think...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "Is that all you've got to say? You have an eye for beauty—use it! Appreciate what you see!",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 6,
+          "text": "... 21 punctures along the horizontal axis and 21 along the vertical, intersecting at uniform intervals. That would produce the greatest density.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Of course... A hybrid construction of the quilting process and embossed design formed into diamond shapes.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 8,
+          "text": "Anyway, we helped you out, as promised. I think it's about time you held up your end of the deal and told us how to get ourselves upstairs.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "Oh, that? You simply need to build up your Prestige Tier. At your current level, of course, you should probably start your shopping journey down at the Casualwear Hall...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 10,
+          "text": "... But since you've been tremendously helpful in my fashion ventures, I'll make a special exception for you and allow purchase from my brand.",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 11,
+          "text": "<No freebies after all, huh.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "Mark my words: the next time we meet... perhaps you will see me in the Luxury Hall, showcasing my piece—or shall I say, myself—in an exalted window display. Ahh... What bliss...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 13,
+          "text": "Look at me, wasting my time chattering away when the deadline for the next collection is fast approaching... Excuse me while I finish embossing the shoulder seam...",
+          "speaker": "Quillian"
+        },
+        {
+          "index": 14,
+          "text": "In the meantime, feel free to browse my designer collection! No item is off limits for purchase...",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What a... bizarre assortment of products."
+        }
+      ]
+    },
+    {
+      "key": "D1061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh, hello again! I found the escalator, but it won't run.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 1,
+          "text": "Really? That's weird, why wouldn't it...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Wait, it's running now that you're here! You must've found a way to unlock your way onto the upper floor!",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 3,
+          "text": "Well, we did a lil' shopping... some grunt work... some more grunt work...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Can I tag along? I promise I'll repay you guys as soon as I find a way to make some money myself.",
+          "speaker": "Dubois"
+        },
+        {
+          "index": 5,
+          "text": "Don't see what the harm could be... Hop right on, I guess?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What? Finally decided to show me to the restroom?",
+          "speaker": "크로머"
+        }
+      ]
+    },
+    {
+      "key": "D1027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "통상 대화에용",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Take a look around. The Casualwear Hall is catered to ever-changing trends. No need to weigh your options when it comes to fast fashion—just get one and dress up before the trend goes!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1046",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Please come back later.",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1063",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I can finally go upstairs, thanks to you! I won't forget what you've done for me.",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Got any empty bottles left? A spare palm would do, too.",
+          "speaker": "Eye-shopping Customer"
+        },
+        {
+          "index": 1,
+          "text": "I... don't think we have any empty bottles or... spare palms... Sorry... ha... ha...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Damn. I don't have enough eyeballs for this season's new collection...",
+          "speaker": "Eye-shopping Customer"
+        },
+        {
+          "index": 3,
+          "text": "The customer gnaws anxiously at their fingernails."
+        }
+      ]
+    },
+    {
+      "key": "D1925",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Don't bother talking to me you're not going to lend me anything...",
+          "speaker": "Eye-shopping Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1926",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... What even is this?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "I think it's... moving. Like twitching... And it's got those creepy knots tangled all over...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Let's not look too closely.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1927",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An unidentified display piece. ... Let's not look too closely."
+        }
+      ]
+    },
+    {
+      "key": "D1016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Thank goodness I booked my dermal perm before the trend died! Once they layer the curl into every ridge of my skin, nobody will be able to tear their eyes away from me!",
+          "speaker": "Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Strangers—stop checking me out. I'm halfway through my makeover treatment. You couldn't tell who I was even if you tried.",
+          "speaker": "Treatment Customer"
+        },
+        {
+          "index": 1,
+          "text": "*sigh* I just can't with these bums who can't even afford these treatments. Shoo. Scram. Mind your own business.",
+          "speaker": "Treatment Customer"
+        },
+        {
+          "index": 2,
+          "text": "Stop staring at me!",
+          "speaker": "Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1949",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Stop staring at me, I said!",
+          "speaker": "Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This trend had better die soon. I don't have a single patch of bare skin left for another polka dot.",
+          "speaker": "Eye-shopping Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "For Lost Customers:\nPlease keep your eyes raised up to enjoy the Rouge collection. Keep your eyes fixed on the ground to enjoy the Noir collection."
+        }
+      ]
+    },
+    {
+      "key": "D1056",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The corpse pile that fell in the center of the floor appears to have burst and splattered all the way over here."
+        },
+        {
+          "index": 1,
+          "text": "For now, the way forward is blocked."
+        }
+      ]
+    },
+    {
+      "key": "D1901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<It looks like an ordinary belt barrier. I should be able to step right over it... But the second I try, it feels impossible.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "That is because we are currently in the Symbolic.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Physically, the object consists only of two metal posts joined by a retractable belt. However, it has been assigned the symbolic function of denying passage.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "That function is absolute as far as its symbolic meaning is concerned. It cannot be crossed within this realm, Manager.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<S-so... Were you able to find them?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "They're gone... And I don't mean that like we lost one or two people—everyone except us vanished into thin air.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "C-come on~ Joke's over, everybody, come on out... Th-this isn't funny!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 3,
+          "text": "<Uh, wait a minute...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "<... All right, I'm not sure what the issue is on their side, but I don't think it's anything to panic about.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Oh! Right! Dante can see where everyone is. All right, where are the others?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "<... They're in the restroom. Looks like they're trying all sorts of things to leave, but... not with much success.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "They wouldn't have doubled back just to loaf around in a situation like this. Maybe there's some rule or phenomenon peculiar to this place that dragged them all back to the restroom?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "<Let's go find Meursault first. The restroom issue can... probably wait a little longer.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…Hm?",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10202",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hang on. Where'd everyone go?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Maybe they fell behind? I mean, the path here got pretty twisty, so...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "... That might be the case. Let me go check.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10203",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ish... Ish isn't going to disappear too, is she?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<N-now you're starting to scare me. Let's not jinx ourselves like that...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1097",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The Mannequins must first be guided to the exit, Manager. Next is the transaction in which I am the object of exchange.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1098",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Come on, Dante. We need to go get Meursault.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A display shelf full of unidentifiable objects."
+        }
+      ]
+    },
+    {
+      "key": "D1924",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The label reads: \"Coverage That Never Fades! Feel the Refreshing Lymph of Freshly Shed Skin! Instant Sellout!\""
+        },
+        {
+          "index": 1,
+          "text": "... It seems unnecessary to inspect the product itself."
+        }
+      ]
+    },
+    {
+      "key": "D1903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<And what's this?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Looks like a salon heat lamp. I've seen a few before.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "I remember spending hours sitting under one, trying to straighten my hair. It... didn't work, obviously.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ishmael called it a salon heat lamp. I doubt it would do anything beyond warming my head."
+        }
+      ]
+    },
+    {
+      "key": "D1905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I'm really tempted to sit and rest my legs here. But... saving Meursault is the priority. Time is of the essence."
+        }
+      ]
+    },
+    {
+      "key": "D1906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "No time to sit around. We need to find a way out of here as soon as possible."
+        }
+      ]
+    },
+    {
+      "key": "D1907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... There's an eyeball here. Did someone drop it?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Is that something people normally drop like loose change?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "That woman who claimed to be Kromer's sister said these eyeballs function as currency in this place.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "So it <i>is</i> loose change, huh...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Before anyone could object, Rodya slipped the eyeball into her pocket."
+        }
+      ]
+    },
+    {
+      "key": "D1908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... There's an eyeball here. Did someone drop it?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Is that something people normally drop like loose change?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "That woman who claimed to be Kromer's sister said these eyeballs function as currency in this place.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "So it <i>is</i> loose change, huh...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Before anyone could object, Rodya slipped the eyeball into her pocket."
+        }
+      ]
+    },
+    {
+      "key": "D1909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We picked up an eyeball dropped by a customer."
+        }
+      ]
+    },
+    {
+      "key": "D1910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We picked up an eyeball dropped by a customer."
+        }
+      ]
+    },
+    {
+      "key": "D1947",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An attire fashioned into the shape of a bird. How is anyone supposed to put this on?"
+        }
+      ]
+    },
+    {
+      "key": "D1948",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A hat is displayed beneath a placard reading, \"TRENDING NOW.\""
+        }
+      ]
+    },
+    {
+      "key": "D1945",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dubois lies dead."
+        },
+        {
+          "index": 1,
+          "text": "Your instruction has been carried out, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "... I'll be honest. Killing someone who's been nothing but nice to us doesn't sit right with me.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "... We need money if we're going upstairs.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "This was one way to get it... Unless we plan on squatting here selling clothes—or spending the whole day rummaging through corpses like the people outside.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "Well, I'm not trying to guilt Dante for making that decision. They must've had something in mind when they ordered Meursault to do that.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "<…….>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Black garments hang beneath the spotlights."
+        }
+      ]
+    },
+    {
+      "key": "D1956",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An upside-down Mannequin juts out from the floor. Is it meant to model trousers? Socks?"
+        }
+      ]
+    },
+    {
+      "key": "D1957",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Why would they display it in such a... contorted pose?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "To present the upper and lower body, including the head and feet, simultaneously in the customer's field of vision.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "... But why? Just keep it standing upright, and people'll just look up and down to check it out.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "That would—",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Why go through the effort, Ishy? This way, the whole outfit fits neatly into view~",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "... That's what you were about to say, right, Meur?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "... Ah.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "Ishmael slowly nodded as if she had finally accepted that this place operated on a common sense all its own."
+        }
+      ]
+    },
+    {
+      "key": "D1958",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An upside-down Mannequin that displays its upper body, lower body, head, and feet all at once. The entire outfit does fit neatly into view."
+        }
+      ]
+    },
+    {
+      "key": "D1961",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>.......</color>"
+        },
+        {
+          "index": 1,
+          "text": "A soft and warm peal of laughter brushes past the fingertips laid against the wall."
+        },
+        {
+          "index": 2,
+          "text": "A pale light, reminiscent of the Golden Bough, glimmers beneath its surface."
+        }
+      ]
+    },
+    {
+      "key": "D1962",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... I figured it would hurt... but I didn't expect it to swallow you whole.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<You good, Meursault?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "There is no issue.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "*sigh* Well, that's a lesson learned. When it trembles, take it as a warning that it's winding up to charge.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "That thing can really <i>zoom</i>, huh? Like, all the way from the other end... How the heck are you supposed to dodge that...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<It's fast, but it didn't seem like it could change its direction midway.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Maybe you can exploit that property to avoid collision.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1991",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... Didn't expect it to jump all the way to the head.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "It was pretty slow, though. And not even that strong.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Let's try. I don't think Meursault'll have a hard time fighting it unless he lets his guard down.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Mm.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1990",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Damn it... That one needle makes that much of a difference?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "The needle embedeed in it emitted a faint golden glow. It is likely that is the element that strengthens it.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Hmm... Then our only option is to buy clothes that can help... or exercise more caution when fighting it.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Agreed.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "You got this, Meur~",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A wall patched over with Golden Hide."
+        },
+        {
+          "index": 1,
+          "text": "The presence is faint, but something about it feels like the Golden Bough."
+        }
+      ]
+    },
+    {
+      "key": "D1942",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This corpse is not so different from the others we've seen. Blood-slick eyeballs—apparently scavenged from the bodies that fell—lie scattered around it."
+        }
+      ]
+    },
+    {
+      "key": "D1943",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The open magazine contains an article about dermal perms, a special procedure apparently offered only on the first floor."
+        }
+      ]
+    },
+    {
+      "key": "D1911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Needle-thin bones jut like thorns from folds of sagging flesh."
+        }
+      ]
+    },
+    {
+      "key": "D1913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Among the ordinary clothes hang grotesque pieces unlike anything from the outside world."
+        }
+      ]
+    },
+    {
+      "key": "D1928",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The garment's drooping folds quiver faintly. It's not a very enticing sight."
+        }
+      ]
+    },
+    {
+      "key": "D1929",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequins stand on display."
+        },
+        {
+          "index": 1,
+          "text": "Ugh... Its eyes are followin' us whenever we move.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Those ones gave us a once-over, then turned their heads away.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "Their expressions suggested that the sight of us exceeded their tolerance for the visually objectionable.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<Wow. That's kind of hurtful...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Mannequins stand on display. These do not have the most inviting gazes for a staring contest."
+        }
+      ]
+    },
+    {
+      "key": "D1952",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        },
+        {
+          "index": 1,
+          "text": "... Hey, what's up with this map? Looks a bit weird to me...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "You're right... According to the diagram, the department store should be far larger and more complicated than what we've seen.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "The map is unlikely to be erroneous. This department store occupies an immense spatial domain; the locations accessible to our perception likely constitute only a minute fraction of the whole.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "And this place is supposed to hold... 300 million people, huh?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "Oh, does it say which floor has the Golden Bough?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 6,
+          "text": "Why would anyone put that in the directory?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "Hey, you never know...",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1953",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        }
+      ]
+    },
+    {
+      "key": "D1954",
+      "texts": [
+        {
+          "index": 0,
+          "text": "In elegant script: \"The season's boldest avant-garde collection from Le Rouge! If its message fails to move you, you're not ready for its magnificence!\""
+        }
+      ]
+    },
+    {
+      "key": "D1955",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An unidentified object sits on display, red cloth and flesh snarled together beyond distinction."
+        }
+      ]
+    },
+    {
+      "key": "D1959",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ooh, another eyeball!",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "Whoa, you were a blur. You've got fast hands, huh.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "We picked up an eyeball dropped by a customer."
+        }
+      ]
+    },
+    {
+      "key": "D10011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Guys, what happened?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "We can't leave the restroom. Heathcliff and Don Quixote both tried pretty much everything, but... nothing worked.",
+          "speaker": "Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "That's... a serious problem. It might mean we're the only ones allowed to go out.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "There has to be a way to circumvent this.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 4,
+          "text": "Four Sinners... on each floor...",
+          "speaker": "???"
+        },
+        {
+          "index": 5,
+          "text": "... time... beyond that... cannot protect...",
+          "speaker": "???"
+        },
+        {
+          "index": 6,
+          "text": "…….",
+          "speaker": "???"
+        },
+        {
+          "index": 7,
+          "text": "Argh! Can't you finish a bloody sentence?! What's that even mean?!",
+          "speaker": "Heathcliff"
+        },
+        {
+          "index": 8,
+          "text": "The meaning she seeks to convey appears to be that only four may exit the restroom simultaneously. Perhaps any number greater than that poses a certain risk.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "<Okay... Isn't it still three, though? Counting me?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 10,
+          "text": "Counting Meursault, who is currently not present in the restroom, the number adds up to four.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 11,
+          "text": "Oh, you're right. Hmm... Is there a way to change who is allowed out then, I wonder?",
+          "speaker": "Hong Lu"
+        },
+        {
+          "index": 12,
+          "text": "I am afraid not, young Hong Lu. I harbored much the selfsame suspicion as thee, and had sought to depart moments after young Ishmael and Rodya's return... Alas, the door permitted not my passing.",
+          "speaker": "Don Quixote"
+        },
+        {
+          "index": 13,
+          "text": "Four Sinners on each floor. That's what she said.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 14,
+          "text": "And, if I were to hazard a guess... the roster cannot be altered once it has been finalized. Am I correct?",
+          "speaker": "Outis"
+        },
+        {
+          "index": 15,
+          "text": "…….",
+          "speaker": "???"
+        },
+        {
+          "index": 16,
+          "text": "She nodded lightly at Outis's conjecture before adding another comment."
+        },
+        {
+          "index": 17,
+          "text": "... can... change... when floors... change...",
+          "speaker": "???"
+        },
+        {
+          "index": 18,
+          "text": "... Can't be helped, I suppose. Let's the three of us head out for now.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 19,
+          "text": "Mm. Remain vigilant, dear fellows.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 20,
+          "text": "<Time to go find Meursault.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1099",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That Mannequin seemed tougher than the others... Ya think it's this golden needle?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 1,
+          "text": "It looks well over a foot long. At that size... it's more like a harpoon head.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<It feels a lot like that... Golden Resin thing we saw earlier.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Huh. Then maybe this Mannequin got juiced up by the Golden Bough too?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "<Can't say for sure... but I think so. Meursault, could you grab that for now?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1100",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There is still unfinished business left in this area, Manager.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A familiar blue light leaks out from within. For now, searching the surrounding area should take priority."
+        }
+      ]
+    },
+    {
+      "key": "D1102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We should return to the restroom and regroup first."
+        }
+      ]
+    },
+    {
+      "key": "D1106",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We have not yet attained the rank required to proceed to the next floor.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1107",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The escalator now appears operational, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "However, there are still matters to conclude before our departure.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1109",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Well, we made it back, at least...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Executive Manager. Are you able to see Meursault's present surroundings? I recall you awakened a highly convenient ability in an effort to assist the more lacking members of our team.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 2,
+          "text": "If anything is visible, I propose we use those details to locate the site where he is being detained.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 3,
+          "text": "Oh, right. You could do that, couldn't you, Manager Bud? If you can spot anything from his end, that oughta narrow the search down and make things easier for us.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "<Hmm... I don't know if it'll work from here, but I'll give it a try.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<…….>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<I think I see... uh, a carpeted floor? Yeah, that's carpet... and there are strips of fabric up ahead... Clothes, probably. Looks like they've got them on display. Meursault's standing absolutely still.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "<He doesn't seem to be tied up or anything... Huh? There's someone beside him...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Tch. Not much time has passed since the execution, and he already allows himself to be taken captive. An uncharacteristic display of incompetence coming from him—<i>and</i> on multiple fronts.",
+          "speaker": "Outis"
+        },
+        {
+          "index": 9,
+          "text": "Huh... Carpet, and clothes on display... Well, it's more than we had to go on before, at least.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 10,
+          "text": "<He doesn't look to be injured or in any immediate danger... Let's start by finding a carpeted room with clothes on display.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1980",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hm? How did you come back so soon?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "No, I think somethin' went wrong here~ Right, Meur?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 2,
+          "text": "Correct.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<... \"Hill\" was probably the wrong choice, then. Let's go back to B1 and try the escalator again.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1963",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What's all that?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Clothes that have fallen out of fashion due to the passing of the trend seasons.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Someone has gathered them here.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "They're tucked away in such an out-of-the-way corner. It almost seems like someone was trying to hide them away...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Ya know how fashion is—it's one big cycle. Maybe somebody stashed 'em here until they can come back in style?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<Could these be items for sale?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "There is very little evidence to support that possibility. They lack proper price tags and have not been maintained, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Hup...! Aww. No dice. Figures...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "W-what are you doing?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "I'm tryin' to take one, obviously. Sorry, Meur, but can ya grab whichever one's in the best shape? There's a bunch of other stuff there mixed in with the clothes, too.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 10,
+          "text": "... Understood.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Obtained 10 eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D1964",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something is concealed within a fissure in the wall."
+        },
+        {
+          "index": 1,
+          "text": "Meursault picked up the Out-of-style Rouge Clothing."
+        }
+      ]
+    },
+    {
+      "key": "D1916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D1917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The corpse of a Rouge. Blood pours from the holes in the face as her head hangs limply forward."
+        }
+      ]
+    },
+    {
+      "key": "D1965",
+      "texts": [
+        {
+          "index": 0,
+          "text": "All the scents are starting to blend together."
+        }
+      ]
+    },
+    {
+      "key": "D1966",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An unfamiliar fragrance hangs in the air. This must be the perfume section."
+        }
+      ]
+    },
+    {
+      "key": "D1967",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's something strange and peculiar about the smell. ... It's starting to register more as a stench."
+        }
+      ]
+    },
+    {
+      "key": "D1968",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A bittersweet fragrance lingers in the air."
+        }
+      ]
+    },
+    {
+      "key": "D1969",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The merchandise here is different from what was on the displays along the way."
+        }
+      ]
+    },
+    {
+      "key": "D1970",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Unpopular clothes, perhaps? They've been tossed carelessly into a corner."
+        }
+      ]
+    },
+    {
+      "key": "D1971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Clothes have been heaped haphazardly in the corner."
+        }
+      ]
+    },
+    {
+      "key": "D1972",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A shelf with something on display."
+        }
+      ]
+    },
+    {
+      "key": "D1973",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The sign reads, \"BLOWOUT SALE\"."
+        }
+      ]
+    },
+    {
+      "key": "D1974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Origami CollectioN ° 92, 1 of 5]."
+        }
+      ]
+    },
+    {
+      "key": "D1975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An exhibit shaped like a tangle of intertwined limbs."
+        }
+      ]
+    },
+    {
+      "key": "D1083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That way... Maybe there's more to gather over there...? Dammit, I took the wrong spot!",
+          "speaker": "Impatient Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This spot is mine. Fuck off!",
+          "speaker": "Desperate Customer"
+        },
+        {
+          "index": 1,
+          "text": "Whoa, you're a prickly one, aren'tcha. Fine, fine~ we'll back off~",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hey! Lift your foot. Didn't you just step on an eyeball?!",
+          "speaker": "Destitute Customer"
+        },
+        {
+          "index": 1,
+          "text": "... Uh, are you talking to me?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "Did I see that wrong...? Whatever. Stop skulking around, then! You're throwing me off!",
+          "speaker": "Destitute Customer"
+        },
+        {
+          "index": 3,
+          "text": "... Hey, don't you think you should apologize if you got the wrong idea? *sigh* Actually, never mind.",
+          "speaker": "Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They seem busy collecting eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D1977",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I can see something twinkling there, but this probably isn't the right time to worry about that."
+        }
+      ]
+    },
+    {
+      "key": "D1981",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You're supposed to show the Mannequins to the exit, not me!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1982",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cut it out! It hurts!",
+          "speaker": "Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1983",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oww...! That was an accident, right?",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1984",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Did I offend you or something? Please, I'm sorry. Don't hurt me!",
+          "speaker": "Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1985",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...! Are you customers, or blasphemers?!",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1986",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Are you here to kill me and scrape the Golden Resin from my flesh?!",
+          "speaker": "Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1987",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What is the issue? Do you not find my label to your liking?",
+          "speaker": "Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1988",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Dyeing clothing with blood? That's a rather outmoded fashion to pursue, isn't it? How tacky.",
+          "speaker": "Quillian"
+        }
+      ]
+    }
+  ]
+}

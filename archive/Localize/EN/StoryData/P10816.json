@@ -1,0 +1,418 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=#cf0000>Desire. And to the measure of your desire...</color>"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Welcome, dear customer."
+    },
+    {
+      "id": 2,
+      "content": "Grand Magasin Sisyphe. The place I've found myself in after being sentenced to the Sisyphe Penalty."
+    },
+    {
+      "id": 3,
+      "content": "And for the last two whole damn weeks..."
+    },
+    {
+      "id": 4,
+      "content": "... I've purchased and hawked clothes, dug through filth to scrounge for what eyeballs I could get my hands on... and only managed to make it two floors up, from the first floor to the third."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Might this be your first time in Boutique du Rouge?"
+    },
+    {
+      "id": 6,
+      "teller": "Dubois",
+      "title": "???",
+      "content": "Yeah, but I wanted to ask—"
+    },
+    {
+      "id": 7,
+      "content": "Throughout that ordeal, I've had but one purpose in mind: to get in touch with my friends on the outside."
+    },
+    {
+      "id": 8,
+      "content": "So I've made my way upstairs, hoping to see if this \"prison\" does visits or, at the very least, allows its inmates to make calls..."
+    },
+    {
+      "id": 9,
+      "content": "... but look around as I might, all I see on this floor is <i>more</i> apparel shops."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Hmmm..."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "You look too lost to be a Kaki... yet too eloquent to be a Mannequin..."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Huh. It's been quite a while since I've seen a stranger on the third floor."
+    },
+    {
+      "id": 13,
+      "teller": "Dubois",
+      "title": "Stranger",
+      "content": "I-is it that obvious?"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "You've been looking all around the shop since you came in, but hardly giving the clothes a second glance. Thought you seemed surprisingly unconcerned about your incredibly disheveled fashion."
+    },
+    {
+      "id": 15,
+      "teller": "Dubois",
+      "title": "Stranger",
+      "content": "Aha..."
+    },
+    {
+      "id": 16,
+      "teller": "Dubois",
+      "title": "Stranger",
+      "content": "A-anyways, I wanted to ask if I could borrow your phone? I need to get in touch with my friends outside, but no one on the first floor seems to know where I can make a call."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "\"Phone\"...?"
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Can't say I've heard of that style before."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Look, you've clearly been wearing nothing but no-name, bargain-bin rags from the Casualwear Hall."
+    },
+    {
+      "id": 20,
+      "content": "<color=#cf0000>Devour... without restraint...</color>"
+    },
+    {
+      "id": 21,
+      "content": "I can't get through to any of these people. Whatever subject I bring up, they all devolve into gossip or discourse about clothes and fashion."
+    },
+    {
+      "id": 22,
+      "content": "That isn't to say that all my efforts have been for nothing—I did manage to pick up a rumor about this \"Customer Service Center\" somewhere higher up in this department store."
+    },
+    {
+      "id": 23,
+      "content": "Trying my luck there seems like my best bet, but how many eyeballs would I have to scrape and spend just to get there? Just thinking about it makes my heart sink."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "You've made it to the third floor anyway. Why don't you do yourself a favor and get a nice style makeover?"
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "You could consider switching over to a full kit of Rouge-branded apparel while you're at it..."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "How about this leather coat, hm?"
+    },
+    {
+      "id": 27,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "I think it'll look a bit big on me..."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "I promise you, an oversized fit is exactly what customers with a frame as slim as yours need. Here, let me help you put it on..."
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Aha, how's that? Positively dashing, wouldn't you agree?"
+    },
+    {
+      "id": 30,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "I-it's pretty cool, I guess, but..."
+    },
+    {
+      "id": 31,
+      "content": "<color=#cf0000>Deplete... all...</color>"
+    },
+    {
+      "id": 32,
+      "content": "I try to give myself a once-over in the mirror, but the only thing that catches my eye is the number on the price tag. 360... Even by quick math, this one coat would swallow up half of all the eyeballs I've saved up since arriving here."
+    },
+    {
+      "id": 33,
+      "content": "Granted, I don't get hungry or thirsty in here, and I don't have to worry about constantly bleeding money just to keep a roof over my head..."
+    },
+    {
+      "id": 34,
+      "content": "... but I wasn't keen on spending so much of my savings here."
+    },
+    {
+      "id": 35,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "... It's a bit too pricey for me. Do you offer discounts?"
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "... Are you being serious?"
+    },
+    {
+      "id": 37,
+      "content": "The designer's customer-service smile, which was already walking the line between smug and polite, instantly scrunched up into a scowl."
+    },
+    {
+      "id": 38,
+      "content": "I'd seen a coat that looked pretty similar to this back downstairs in one of the Casualwear Hall stores, and that one cost just 120 eyeballs..."
+    },
+    {
+      "id": 39,
+      "content": "It's entirely possible that she's ripping me off with marked-up prices because she's clocked me as a stranger—which seems to be the lingo referring to people who are new to the Grand Magasin."
+    },
+    {
+      "id": 40,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "*sigh* Fine, I'll admit, it could've used a finer finish."
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "But just look at it. See how the Golden Hide cross-stitched into the material achieves a unique sense of three-dimensionality on a plane? Look at the color, too—you can't undersell the amount of grind that went into attaining it."
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Honestly, if our boutique cared even one bit for the trends, we would've been justified in charging you three times the asking price. It's the Herringbone season now, you know."
+    },
+    {
+      "id": 43,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Well, if you don't want it, you don't want it. Your loss—but we'll soon be getting a slew of customers chomping at the bit to buy from my fashion line. Don't come back crawling later and tell me I didn't try to convince you otherwise."
+    },
+    {
+      "id": 44,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "Actually... there's something else I've been meaning to ask. What exactly is that broadcast I've been hearing this whole time?"
+    },
+    {
+      "id": 45,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "Kinda creepy if you ask me... With how it stutters and stretches..."
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Oh, that? It's... the Voice I used to worship."
+    },
+    {
+      "id": 47,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "\"Used to\"...?"
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Oh yes. I serve a different Voice now."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "The Voice of the one who freed me from the nails that were driven into me... and mended my blinded eye."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Ever since my conversion... and my dutiful service to this new faith began... I've stopped lending my ear to this broadcast."
+    },
+    {
+      "id": 51,
+      "content": "As the designer spoke, I thought I saw a trace of sadness flicker over her expression. Yet at the same time, she seemed caught up in the memory of something wonderful, something that filled her with exhilaration."
+    },
+    {
+      "id": 52,
+      "content": "I occasionally heard the PA system—a \"Voice\" as they call it here—speak on the first floor too, but that one never cut in and out like this one, or sounded so unnaturally drawn out..."
+    },
+    {
+      "id": 53,
+      "content": "Something wrong with the broadcast, I wonder...?"
+    },
+    {
+      "id": 54,
+      "content": "I had scarcely begun to amble away from the store when the designer suddenly stopped me in my tracks as though something had occurred in her mind."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Before you go, dear customer... Have you visited the Maison du Noir? The store just across."
+    },
+    {
+      "id": 56,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "Maison du... what?"
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Maison du Noir. It's one of the shops where those... Noir \"designers\" sell their label."
+    },
+    {
+      "id": 58,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "Ah, no. Don't think I've been there..."
+    },
+    {
+      "id": 59,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Hm."
+    },
+    {
+      "id": 60,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Say, does 200 eyeballs seem like a more... affordable price for your budget?"
+    },
+    {
+      "id": 61,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "Uh... Yeah, actually! 200 sounds a lot more within reach!"
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Good to hear. Lucky us—I was actually looking to hire someone for a gig."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "I'll save that coat for you, so why don't you help me out for a discount?"
+    },
+    {
+      "id": 64,
+      "content": "I watch as a nail made out of bone stabs a Noir sales associate clean through."
+    },
+    {
+      "id": 65,
+      "content": "A mass of hands erupts from the boutique designer's body, creaking and shuffling as it pins down the employees of the Noir shop beneath its weight, before wrenching away ragged pieces of flesh."
+    },
+    {
+      "id": 66,
+      "content": "She managed to charge into the shop while I drew the guards—\"Two-piece,\" as they say in here—far away from the entrance."
+    },
+    {
+      "id": 67,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Oh, I'm already so excited to give this dark, dreary room a new paint job in beautiful Rouge..."
+    },
+    {
+      "id": 68,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "... Huh, you've got quick hands, dear customer."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "That's quite a pile of eyeballs you managed to scavenge in that mess."
+    },
+    {
+      "id": 70,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "Gotta seize the opportunity, right...?"
+    },
+    {
+      "id": 71,
+      "content": "Maybe all that gut-harvesting I've tried my hand at in the Backstreets paid off. I didn't have any trouble snatching up the tidy haul of eyeballs the Noirs dropped in all that chaos."
+    },
+    {
+      "id": 72,
+      "content": "I've probably found enough eyeballs here to afford that coat without a discount..."
+    },
+    {
+      "id": 73,
+      "teller": "Dubois",
+      "title": "Customer",
+      "content": "W-well, I hope that doesn't stop you from giving me that discount!"
+    },
+    {
+      "id": 74,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "I'll honor it. Job's a job, you know?"
+    },
+    {
+      "id": 75,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "And you've done fine work, too... Thanks to you, I've had no problems tearing down this shop. These stuck-up Noirs have zero appreciation for how much the Golden Hide is worth."
+    },
+    {
+      "id": 76,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "Let's return to my boutique, shall we? Our new Voice will be happy to hear of this news."
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "title": "Boutique du Rouge",
+      "content": "And as for you, dear customer... I promise, once you are wearing your new coat... you'll be every bit as pleased with your purchase."
+    }
+  ]
+}

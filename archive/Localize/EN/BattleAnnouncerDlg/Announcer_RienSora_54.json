@@ -1,0 +1,136 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_54_1",
+      "dlg": "- Paper Slip. Accompany. Observe. Thirteen... I think these must be the ones.\n- I'm sure you've already been informed, but pay us no mind. We need only execute and procurate the Prescripts that were given to each of us."
+    },
+    {
+      "id": "announcer_cheer_54_2",
+      "dlg": "- M-Mister Rien, m-may I still go out on these outings with you occasionally... e-even after my big sis Yoshihide comes back?\n- Now seems too early a time to contemplate such questions. But... I don't see why not.\n- I-I'm happy to hear that, hehe."
+    },
+    {
+      "id": "announcer_specialcheer_54_1",
+      "dlg": "*beep* I'm s-sorry... I want to help, but the Will of the P-Prescript says that I sh-shouldn't."
+    },
+    {
+      "id": "announcer_specialcheer_54_2",
+      "dlg": "- Hm. We had best start getting ready to return home.\n- Th-there still seems to be some h-hope left, though it's looking p-pretty slim."
+    },
+    {
+      "id": "announcer_enemy_break_54_1",
+      "dlg": "One mustn't doubt the Prescript. Mm. So next time, do not hesitate, and... remember to stab <i>deep</i>."
+    },
+    {
+      "id": "announcer_ally_break_54_1",
+      "dlg": "You're all such k-kind people... So you'll help your f-friends in danger, right?"
+    },
+    {
+      "id": "announcer_killenemy_54_1",
+      "dlg": "I-it's sad, but your d-death was inevitable."
+    },
+    {
+      "id": "announcer_ally_dead_54_1",
+      "dlg": "This, too, is your fate. It appears that the City had little need of you."
+    },
+    {
+      "id": "announcer_enemy_adv_54_1",
+      "dlg": "Try not to resent the world too deeply. You might cry out in anguish, but the hard, unchanging walls of the City will return only echoes."
+    },
+    {
+      "id": "announcer_ally_adv_54_1",
+      "dlg": "- Fate knows to be gentle like this, from time to time.\n- W-what do you mean? Aren't the P-Prescripts always so gentle?\n- ... Sora. Not everyone is blessed with god's favor. If someone is loved, someone else must be hated."
+    },
+    {
+      "id": "announcer_ally_advex_54_1",
+      "dlg": "- They must come across a clue to resolve this rather convoluted Prescript.\n- D-don't w-worry too much. Fate is already all s-set in stone anyway."
+    },
+    {
+      "id": "announcer_danger_54_1",
+      "dlg": "- Y-you don't have much time left to complete your... Prescript. Oh-oh no, what should we do? The Prescript can't go u-unexecuted...\n- Hm. Perhaps you should hurry, before fate departs your side."
+    },
+    {
+      "id": "announcer_enemy_specialskill_54_1",
+      "dlg": "*beep* 【Breath flows in reverse, neatly fold the wound to unblossom, and open the gates with a sound older than bone.】"
+    },
+    {
+      "id": "announcer_enemy_specialskill_54_2",
+      "dlg": "*beep* 【Breath of the other side. Folded wound. Distant sound. Open gates.】 W-watch out."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_54_1",
+      "dlg": "- A word of advice—the world isn't just divided into forks and spoons... Putting them together can be an answer, too.\n- Like fp-fpoon?\n- Correct. Like spork."
+    },
+    {
+      "id": "announcer_advatk_physical_54_1",
+      "dlg": "You must've realized the moment the weight of that weapon pressed into your palms as you swung—that you held the winning lot."
+    },
+    {
+      "id": "announcer_disadvatk_physical_54_1",
+      "dlg": "That method... seems incongruent with you."
+    },
+    {
+      "id": "announcer_advatk_attr_54_1",
+      "dlg": "Whoa... I really like th-that interpretation, too!"
+    },
+    {
+      "id": "announcer_disadvatk_attr_54_1",
+      "dlg": "A-are you sure that's the c-correct interpretation? Maybe you should give it another r-read..."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_54_1",
+      "dlg": "... There must be something you are expected to fulfill, if you are exacted with such ordeals."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_54_1",
+      "dlg": "*chuckle* What pleasant expressions they have. Why not slow down and enjoy this sight?"
+    },
+    {
+      "id": "announcer_ally_specialbuff_54_1",
+      "dlg": "D-don't panic! This too must be the P-Prescript's Will."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_54_1",
+      "dlg": "You f-failed to execute the Prescript. Why... Why would you let it down like that...?"
+    },
+    {
+      "id": "announcer_enemy_destroy_54_1",
+      "dlg": "Employing such methods for that Prescript is... an interesting choice."
+    },
+    {
+      "id": "announcer_enemy_destroy_54_2",
+      "dlg": "- S-simply brilliant... I n-never thought you would solve the【Render the blind blind】 Prescript like that...!\n- Now that their arms have been removed, their fate has been sealed for the execution of your next Prescript."
+    },
+    {
+      "id": "announcer_round_takebigdmg_54_1",
+      "dlg": "My... You drew the losing lot."
+    },
+    {
+      "id": "announcer_round_takebigdmg_54_2",
+      "dlg": "- Do you know what remains of those who fail to protect what they must?\n- I-I don't know...\n- ... Nothing. They become an empty husk, hollow through and through."
+    },
+    {
+      "id": "announcer_round_givebigdmg_54_1",
+      "dlg": "Don't let it harrow your mind. One needs the suffering of others to thrive on."
+    },
+    {
+      "id": "announcer_round_givebigdmg_54_2",
+      "dlg": "- You were just following the Prescript given by the Will of the City. No need to be so presumptuous as to feel such complicated emotions as shame or moral compunction, is there?\n- I-I understand how sorry you must be feeling for them, but the P-Prescript <i>has</i> to be executed, no matter what."
+    },
+    {
+      "id": "announcer_multikillenemy_54_1",
+      "dlg": "- Whoa... That was s-so cool!\n- It seems they will soon receive the fabric to extend their cloak."
+    },
+    {
+      "id": "announcer_battle_win_54_1",
+      "dlg": "- *beep* P-Procuration executed.\n- *beep* Procuration executed."
+    },
+    {
+      "id": "announcer_battle_defeat_54_1",
+      "dlg": "Yes, it's always best to save the endings for later."
+    },
+    {
+      "id": "announcer_equip_54_1",
+      "dlg": "- Support the Proselytes... Ah, i-it would've been so nice to have Mister Rien with me for a Prescript like this...!\n- *beep* ... Let me know when you're ready. It seems that I am to accompany you.\n- Y-you received the same Prescript I did, Mister R-Rien...?! Ah... Once again, the Will of the P-Prescript must've aligned with my own. Hehe."
+    }
+  ]
+}

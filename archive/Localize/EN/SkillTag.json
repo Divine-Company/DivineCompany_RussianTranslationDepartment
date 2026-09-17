@@ -197,10 +197,6 @@
       "name": "[Clashable Counter]"
     },
     {
-      "id": "CantBreak",
-      "name": "[Unbreakable Coin]"
-    },
-    {
       "id": "DuelGuard",
       "name": "[Clashable Guard]"
     },
@@ -287,6 +283,10 @@
     {
       "id": "AlwaysUseEGOPassive2010911",
       "name": "[Always Active - Lobotomy E.G.O::Solemn Lament Yi Sang Exclusive Effect]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive",
+      "name": "[Always Active]"
     }
   ]
 }

@@ -363,6 +363,10 @@
     {
       "id": "need_verify_integrity_steam",
       "content": "Missing resources detected.\nPlease use Steam's \"Verify integrity of game files\" function."
+    },
+    {
+      "id": "serverstate_server_busy",
+      "content": "The server is currently busy.\nPlease try again in a moment."
     }
   ]
 }

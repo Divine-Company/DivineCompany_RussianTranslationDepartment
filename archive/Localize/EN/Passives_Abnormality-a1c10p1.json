@@ -1,0 +1,266 @@
+{
+  "dataList": [
+    {
+      "id": 146501,
+      "name": "Le Noir: Fabric",
+      "desc": "Encounter Start: Gain 5 [NoirBindArmor]\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP",
+      "flavor": "Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 146502,
+      "name": "Ushering Customers",
+      "desc": "Deal +10% damage to and take +10% damage from target for every [NoirNoComply] on target\nDeal +200% damage to targets that have 3 [NoirNoComply]",
+      "flavor": "Le Noir serves its valued customers in strict accordance with Head Office management protocol."
+    },
+    {
+      "id": 146503,
+      "name": "Preservation",
+      "desc": "Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count this unit consumes in this Encounter\nGain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 146603,
+      "name": "Metabolic Action and Reaction",
+      "desc": "Upon entering the Encounter for the first time, gain 10 [ChargeRouge] Count\n\nGain 1 [ChargeRouge] for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter"
+    },
+    {
+      "id": 149401,
+      "name": "Le Rouge: Jacket",
+      "desc": "Turn End: Gain or lose up to 10 [ChargeRouge] Count\n\nWhen hit, if the attacker used Skills that gain [Charge], transfer 1 [ChargeRouge] Count as [Charge] Count to the attacker (once per the attacker's Skill)\nGain 1 [AttackUp] every time the effect above activates\nTurn Start: Consume up to 5 excess [ChargeRouge] Count beyond 15 on self to heal ([ChargeRouge] Count consumed)% HP"
+    },
+    {
+      "id": 149402,
+      "name": "Myofiber Denim",
+      "desc": "Skills deal +1% damage for every [ChargeRouge] Potency on self (max 10%)\n\nOn Skill Use, if this unit has less than 50% HP, the said Skill gains +2 more [ChargeRouge] Count\nSkills deal +1% damage for every 1% missing HP on self"
+    },
+    {
+      "id": 149301,
+      "name": "Le Rouge: Jacket",
+      "desc": "Turn End: Gain or lose up to 10 [ChargeRouge] Count\n\nWhen hit, if the attacker used Skills that gain [Charge], transfer 1 [ChargeRouge] Count as [Charge] Count to the attacker (once per the attacker's Skill)\nGain 1 [AttackUp] every time the effect above activates"
+    },
+    {
+      "id": 149302,
+      "name": "Desperation",
+      "desc": "Turn Start: At 3+ [ChargeRouge] Potency and 10+ [ChargeRouge] Count, use \"Aggressive Marketing\" Skill\n\nSkills deal +1% damage for every 1% missing HP on self"
+    },
+    {
+      "id": 149303,
+      "name": "I hear it... the Voice of another god...!",
+      "desc": "Encounter Start: Gain [RisingMadnessRouge]\n- Turn Start: When this unit's HP drops below 50% for the first time in this Encounter, convert [RisingMadnessRouge] into [RisingMadnessRouge2nd]\n\nOn Clash Lose, gain +2 [ChargeRouge] Count",
+      "flavor": "They heard the warm Voice, yet could change no further. With the mind trapped within the flesh, the self schismatized from itself and fell into madness."
+    },
+    {
+      "id": 146601,
+      "name": "Boutique du Rouge: New Arrivals Lookbook",
+      "desc": "[RougeThreeNormal] Pattern\n\nRemove [RougeThreeCocoon] and [RougeThreeCocoonShield] on self, and gain [RougeThreeNormal]\n<color=#ff6000><mark=#ff000040><b><u>When hit, gain 1 [RougeThreeNormal]\nTurn End: At 20 [RougeThreeNormal], enter [RougeThreeCocoon] pattern next turn</u></b></mark></color>\n\nWhile in [RougeThreeNormal] state:\nIf this unit takes damage that brings its HP below 10, nullify that damage, heal 30% HP, and end the turn. Then, this unit enters [RougeThreeCocoon] state and gains 2 [Enhancement] for the rest of this Encounter (once per Encounter)"
+    },
+    {
+      "id": 146602,
+      "name": "Into the Changing Room",
+      "desc": "[RougeThreeCocoon] Pattern\n\nRemove [RougeThreeNormal] on self. Gain 1 [RougeThreeCocoon] and 500 [RougeThreeCocoonShield]\n\n<color=#ff6000><mark=#ff000040><b><u>When hit, gain [RougeThreeCocoonHit]</u></b></mark></color>\nAt 0 [RougeThreeCocoonShield] or 3 [RougeThreeCocoon], lose 20 SP and end the turn. Then, enter [RougeThreeNormal] pattern next turn and gain 1 [AttackDmgUp] for the rest of this Encounter (if this unit is Staggered, recover from Stagger)"
+    },
+    {
+      "id": 147401,
+      "name": "Sous Chef",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Upon killing a target using Attack Skills, gain 1 [SapsareeCooking]</u></b></mark></color>\n- On Skill Use, gain 1 more [SapsareeCooking] for every 3 status effects on the said target (max 2)",
+      "flavor": "She may wear the title, but the restaurant on 5F would laugh her out of the kitchen."
+    },
+    {
+      "id": 147402,
+      "name": "I can cook up delicious dishes so good, you hear?",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>If this unit has [SapsareeCooking], use the \"Aah! I'm on lunch break, you hear?\" Skill at the very end of the turn</u></b></mark></color>\n(does not activate if all other targets are defeated, or if this unit is Staggered)\nTurn End: If this unit failed to use the \"Aah! I'm on lunch break, you hear?\" Skill, gain 1 [SapsareeHungry]",
+      "flavor": "The restaurant on 5F would not dignify this with the word \"cooking.\""
+    },
+    {
+      "id": 147403,
+      "name": "Culinary Ambitions",
+      "desc": "Use a powerful Gluttony Skill every 4 turns\n(If this effect could not be activated due to Stagger, activate it next turn)\n- Turn End: At 5+ [SapsareeYammi], use a powerful Gluttony Skill next turn\n\nTurn End: At 3+ [SapsareeHungry], use a powerful Wrath Skill next turn",
+      "flavor": "There is a world of difference between the culinary arts and making something edible. As for you... well, you fall solidly into the latter category."
+    },
+    {
+      "id": 147404,
+      "name": "Yummies yummers, you hear?",
+      "desc": "Turn Start: Heal 3 SP for every [SapsareeYammi] on self",
+      "flavor": "Do they even deserve to engage in discourse on flavor? They live in a Food Court, for heaven's sake."
+    },
+    {
+      "id": 147405,
+      "name": "Flit and flee, you hear?",
+      "desc": "End the Encounter when Sous Chef's HP falls below 30%",
+      "flavor": "Not willing to die for this."
+    },
+    {
+      "id": 147501,
+      "name": "Flavorful Cooking Ingredient.",
+      "desc": "If this unit has 5 or more status effects, gain 3 Offense Level and 3 Defense Level",
+      "flavor": "This isn't even a cooking ingredient."
+    },
+    {
+      "id": 147502,
+      "name": "Enzymatic Tenderization",
+      "desc": "When hit, gain 1 Defense Level Down and 1 Offense Level Up next turn (3 per turn)",
+      "flavor": "The tough leather wallet may be tenderized, but that won't change anything worth mentioning."
+    },
+    {
+      "id": 147503,
+      "name": "Hungry...",
+      "desc": "Turn End: If Sous Chef failed to use the \"Aah! I'm on lunch break, you hear?\" Skill, gain 1 [SapsareeHungry]",
+      "flavor": "It's a <b>wallet</b> being raised as livestock for consumption. And like cattle, it hungers to be fed."
+    },
+    {
+      "id": 148101,
+      "name": "Patchwork",
+      "desc": "Encounter Start: Gain 30 [UnresolvedFeelings]\nAt 50% or lower HP, convert a Skill used in a certain pattern into a powerful Skill",
+      "flavor": "Leftover fabric scraps, otherwise marked for disposal, are stitched together and stacked into layers upon layers. Each scrap is worthless on its own, but its fabric materiality lingers. That is why the Floor Manager gathers them up."
+    },
+    {
+      "id": 148102,
+      "name": "Cautionary Inspection",
+      "desc": "Turn Start: Activate the effects below\n<color=#ff6000><mark=#ff000040><b><u>-If 1 or more Sinners have 10 [Wariness], gain an Attack Slot and equip the \"Warning Announcement\" Skill on the said Slot</u></b></mark></color>\n- Apply 1 [Wariness] on all Sinners that do not have [ReliefSense]\n- Gain 1 [HorribleEat] for every Identity that has [HorribleTerror]\n\n<color=#ff6000><mark=#ff000040><b><u>When hit by a Sinner's Skill:</u></b></mark></color>\nAt Attack End of the said Skill, <color=#ff6000><mark=#ff000040><b><u>apply [Wariness]</u></b></mark></color> on the said Sinner equal to the number of times this unit was hit by that Skill",
+      "flavor": "To hear the Voice, one must open the heart before the ears."
+    },
+    {
+      "id": 148103,
+      "name": "Gratitude",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>-If 1 or more Sinners have 3 [ReliefSense], gain an Attack Slot and equip the \"Thank you... for listening...\" Skill on the said Slot</u></b></mark></color>",
+      "flavor": "Too many customers let the announcements go in one ear and out the other... Thank you for listening..."
+    },
+    {
+      "id": 148104,
+      "name": "Expunge the Panicked",
+      "desc": "Deal +200% damage to targets that are in Panic",
+      "flavor": "Collapse the mind, then the body quickly follows. There exist methods that quicken this even further."
+    },
+    {
+      "id": 149201,
+      "name": "Le Noir: Fabric",
+      "desc": "Encounter Start: Gain 5 [NoirBindArmor]\n\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack / 2)% of this unit's max HP\n\nWhen Staggered, lose all [NoirBindArmor]\nTurn Start: When this unit recovers from Stagger, gain 5 [NoirBindArmor]",
+      "flavor": "Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 149202,
+      "name": "Preservation",
+      "desc": "Gain 1 [NoirBindArmor] for every 5 cumulative [ChargeNoir] Count this unit consumes in this Encounter\nGain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 149203,
+      "name": "Change for Inertness",
+      "desc": "Turn Start: At 10+ [ChargeNoir] Count, use a powerful Skill\n\nOn Skill Use, at 15+ [ChargeNoir] Count, consume 3 [ChargeNoir] Count to deal +20% damage",
+      "flavor": "This new Voice tells me that it will help change me... so that I'll never change again."
+    },
+    {
+      "id": 149204,
+      "name": "I hear it... the Voice of another god...!",
+      "desc": "Encounter Start: Gain 2 [RisingMadnessNoir]\n- Turn Start: When this unit's HP drops below 50% for the first time in this Encounter, convert [RisingMadnessNoir] into [RisingMadnessNoir2nd]\n\nOn Clash Lose, gain +2 [ChargeNoir] Count",
+      "flavor": "They heard the warm Voice, yet could change no further. With the mind trapped within the flesh, the self schismatized from itself and fell into madness."
+    },
+    {
+      "id": 148201,
+      "name": "Le Noir: Fabric",
+      "desc": "Encounter Start: Gain 3 [NoirBindArmor]\n\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP (unless Staggered)",
+      "flavor": "Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 148202,
+      "name": "Preservation",
+      "desc": "Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count this unit consumes in this Encounter\nGain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nAt 3+ [ChargeNoir] Potency, max [ChargeNoir] Count +5",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 148203,
+      "name": "Unleash the Condensed",
+      "desc": "Turn Start: At 3+ [ChargeNoir] Potency and 10+ [ChargeNoir] Count, use a powerful Skill",
+      "flavor": "Force condensed into one point to impose inertness will one day burst free."
+    },
+    {
+      "id": 148204,
+      "name": "Conservation-Conversion Paradox",
+      "desc": "If this unit has Shield, gain +1 [ChargeNoir] Count when hit by a Sinner (once per Skill, 3 times per turn)\n- At 3+/5+ [ChargeNoir] Potency, gain +2/+3 [ChargeNoir] Count instead\n\nTurn End: If this unit has Shield,\nGain +1 [ChargeNoir] Count and 1 [DefenseUp] next turn for every [ChargeNoir] Potency on self (max 3 each)",
+      "flavor": "Convert an external force of change into a force of self-conservation. Yet this is a world where, however fiercely one rejects change or seeks inertness, something must change."
+    },
+    {
+      "id": 148301,
+      "name": "Le Noir: Gabardine Fabric",
+      "desc": "Encounter Start: Gain 30 [NoirSuit]\n\nTurn Start: Gain Shield equal to ([NoirSuit] / 5)% of this unit's max HP (unless Staggered)",
+      "flavor": "The Noirs' flagship gabardine, tailored toward formality without sacrificing firmness."
+    },
+    {
+      "id": 148302,
+      "name": "Preservation",
+      "desc": "Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nAt 3+ [ChargeNoir] Potency, max [ChargeNoir] Count +5",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 148303,
+      "name": "Feedback",
+      "desc": "Turn Start: If this unit has [Realisation], activate \"Single Kick\" as \"Single Kick - Couture Multiple\" instead\n\nWhen triggering [VibrationExplosion], apply +20% to Stagger Threshold raised by [VibrationExplosion]\n- At 12+ [ChargeNoir] Count, when triggering [VibrationExplosion], consume 1 [ChargeNoir] Count on self and instead apply +40% to Stagger Threshold raised by [VibrationExplosion] (per-target)\n\nWhen triggering [VibrationExplosion], if target does not have a Stagger threshold, deal fixed damage equal to [DefenseUp] Stack on self (max 20)",
+      "flavor": "The Noirs believe they can collapse their opponents' worth by subjecting them to violent tremors—the more violently the target vibrates, the more changes it must undergo from moment to moment.\n\nThe combat techniques of the Noirs were built upon that conviction."
+    },
+    {
+      "id": 148304,
+      "name": "Paradox of the Conservation-Conversion Paradox",
+      "desc": "If this unit has Shield, when hit by a Sinner,\n- Inflict 1 [Vibration] on the Sinner (once per Skill)\n- Gain +1 [ChargeNoir] Count (once per Skill, 3 times per turn)\n  · At 3+/5+ [ChargeNoir] Potency, gain +2/+3 [ChargeNoir] Count instead\n\nTurn End: If this unit has Shield,\nGain +1 [ChargeNoir] Count and 2 [DefenseUp] next turn for every [ChargeNoir] Potency on self (max 3, max 6 respectively)",
+      "flavor": "The harder an existent struggles to remain the same, the more surely it changes. To exist is always to be going somewhere, and wherever there is motion, change follows."
+    },
+    {
+      "id": 149601,
+      "name": "The Sewing Commences",
+      "desc": "Turn Start: Inflict [NiddleExpected] on 2 random enemies"
+    },
+    {
+      "id": 149602,
+      "name": "Handmade",
+      "desc": "Skill Final Power +1 for every Needlekin on the field",
+      "flavor": "No hand sewing survives on one pair of hands alone. A host of practiced artisans are needed to breathe life into it."
+    },
+    {
+      "id": 149603,
+      "name": "Unending, Unavoidable Stream of Customer Complaints",
+      "desc": "\"Cry of the Cocoon\" is heard every \"multiple of 3\" turns\nUpon entering Phase 2, \"Cry of the Cocoon\" continues to be heard every turn\n\nThis unit cannot be immobilized in the turn \"Cry of the Cocoon\" is heard\n\nIf this unit's HP is brought past its Stagger Threshold, gain 2 [Vulnerable] next turn",
+      "flavor": "Voices seep from the cocoon.\n\n\"Anything under 80-count two-ply? Not even fabric!\"\n\"Why aren't the buttonholes horizontal?\"\n\"Jersey knit on machine? Really?\"\n\"Why isn't the selvage red?\"\n\"This hasn't even been shrink-proofed.\"\n\"Anything below Super 150 is cheap cloth, obviously.\"\n\"You think the Super scale is just yarn thickness? Diameter and yarn count aren't even the same thing. Don't you know that?\"\n\"You're finishing the hem with a Union Special, right? Of course you are!\"\n\"Is this Rigid? ... Oh. Selvage?\"\n\"Wait... the stitch-per-inch count is way too even. You used a machine, didn't you?\"\n\"It's not bespoke if it's not hand-stitched.\"\n\"... That's not even a Milanese buttonhole.\"\n\"Shirting needs to be over 200-count.\"\n\"Ugh, I can see the stitching on the outside.\"\n\"There, I can see two rows of stitching there. Rejected.\"\n\"What's with this seam finish?\"\n\"Three-ply, minimum.\""
+    },
+    {
+      "id": 148401,
+      "name": "The Preterm Crimson God",
+      "desc": "Turn End: Does not lose [ChargeRouge] Count\n<color=#ff6000><mark=#ff000040><b><u>In a Clash, gain +1 [ChargeRouge] Count every time target's [Laceration] is activated</u></b></mark></color>\nOn Kill, gain [ChargeRouge] Count equal to ([Laceration] Potency + [Laceration] Count) on target\nTurn Start: Heal 3 SP for every [ChargeRouge] Count on self",
+      "flavor": "A god conceived by yearning, brought into the world before its time. Even its birth was incomplete."
+    },
+    {
+      "id": 148402,
+      "name": "Roseate Pulsation of Musculature",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>At 15+ [ChargeRouge] Count, if this unit does not have [Gourmandise], consume all [ChargeRouge] Count on self and gain [Gourmandise]</u></b></mark></color>\n\nGain the following effects while this unit has [Gourmandise]:\n- On Skill Use, gain +3 [Laceration] Count\n- On Hit, gain 1 [Laceration]\n- When hit on one of its Parts, gain 1 [BuffetSick]\n- On Clash Lose, gain 3 [BuffetSick]\n- On Kill, if target has 3+ [BloodyMucus], generate \"Ripped Flesh of the Crimson God\" next turn\n- Combat End: Heal 3 SP for every enemy that has [BloodyMucus]\n\nTurn End: <color=#ff6000><mark=#ff000040><b><u>If this unit has 30+ [BuffetSick]</u></b></mark></color> when [Gourmandise] expires, next turn, weaken this unit's patterns and Stagger \"Ripped Flesh of the Crimson God\" units on the field\n\n※ [BloodyMucus] Stack can be reduced by the following means: <color=#ff6000><mark=#ff000040><b>E.G.O Skill Use and Defense Skill Use</u></b></mark></color>\n※ \"Ripped Flesh of the Crimson God\" gains [DeterioratingBody] equal to [BloodyMucus] on the defeated target\n※ \"Ripped Flesh of the Crimson God\" that has [DeterioratingBody] cannot be defeated\n※ Up to 3 \"Ripped Flesh of the Crimson God\" can be generated on the field",
+      "flavor": "Its limbs thrash and twitch frantically as though they were never its own."
+    },
+    {
+      "id": 148403,
+      "name": "Disparity",
+      "desc": "Deal +50% damage against slower targets",
+      "flavor": "Everything in sight skitters around at disparate speeds."
+    },
+    {
+      "id": 148404,
+      "name": "Survival Instinct",
+      "desc": "Turn Start: Gain 1 [SavePlacenta] and apply 5 [Protection] on the Lifecord Part\nIf this unit has [Gourmandise], or if it is Staggered, this Passive does not activate",
+      "flavor": "Consciousness has no hand in the body's struggles to survive and protect itself, which it does without even knowing where it begins and ends."
+    },
+    {
+      "id": 148405,
+      "name": "Severed Lifecord",
+      "desc": "Turn End: If the Lifecord Part is broken, the Body Part gains 3 [Vulnerable] next turn",
+      "flavor": "What are these dangling, floppy things attached to my body? Are these a part of \"me\"? It's so difficult to tell."
+    },
+    {
+      "id": 148406,
+      "name": "Rampage of a Violent, Traumatic Birth",
+      "desc": "Turn End: If the Lifecord Part isn't broken, and at lower than 50% Core HP, gain [Gourmandise]\nThen, does not lose [Gourmandise] Stack until the Lifecord Part is broken",
+      "flavor": "The body is torn from warmth into cold; the mind, from cool calmness to fiery chaos. None of it is voluntary."
+    },
+    {
+      "id": 149701,
+      "name": "Mindless Pulsation",
+      "desc": "- When generated, gain [DeterioratingBody] equal to [BloodyMucus] Stack on target that was defeated to generate this unit\n\nDefeated when [DeterioratingBody] expires",
+      "flavor": "It lives, yet it has no brain. Can the mind arise from pulsing muscle instead?"
+    }
+  ]
+}

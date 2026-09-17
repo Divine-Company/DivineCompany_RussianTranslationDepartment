@@ -89,6 +89,10 @@
       "content": "A server error has occurred.\nPlease try again in a moment."
     },
     {
+      "id": "serverstate_server_busy",
+      "content": "The server is currently busy.\nPlease try again in a moment."
+    },
+    {
       "id": "forcequit_content",
       "content": "Cannot operate the game.\nShutting down now."
     },

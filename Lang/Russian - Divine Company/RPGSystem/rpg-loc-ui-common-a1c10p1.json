@@ -1,0 +1,512 @@
+{
+  "dataList": [
+    {
+      "key": "ReturnToMainUiScene",
+      "text": "Return to the Window?\n<color=#ff0000>Recent progress may be lost.</color>\n\n※ The game saves at the following points: Quest finished / Floor or Area transition.\nPlease verify your last savepoint before exiting to the Window."
+    },
+    {
+      "key": "AskToMoveFloor",
+      "text": "Move to Floor {0}?"
+    },
+    {
+      "key": "MoveFloorUiDesc",
+      "text": "Which Floor should we go to?"
+    },
+    {
+      "key": "DialogueSkipConfirmDesc",
+      "text": "Skip this story scene?"
+    },
+    {
+      "key": "DialogueSkipDontShowAgain",
+      "text": "Don't show this message again"
+    },
+    {
+      "key": "AccumulatedExp",
+      "text": "Eyeball Expenditure Tally"
+    },
+    {
+      "key": "RemainExpToNextLevel",
+      "text": "To Next Tier"
+    },
+    {
+      "key": "ItemFilterAll",
+      "text": "All"
+    },
+    {
+      "key": "ItemFilterKeyItem",
+      "text": "Quest"
+    },
+    {
+      "key": "ItemFilterSurvival",
+      "text": "Survivability"
+    },
+    {
+      "key": "ItemFilterBasicAttack",
+      "text": "Basic Attack"
+    },
+    {
+      "key": "ItemFilterAdditionalAttack",
+      "text": "Extra Attack"
+    },
+    {
+      "key": "ItemFilterPrisonerEffect",
+      "text": "Sinner Effects"
+    },
+    {
+      "key": "ItemFilterEtc",
+      "text": "Other"
+    },
+    {
+      "key": "Item_QuestMark",
+      "text": "Key Item"
+    },
+    {
+      "key": "Item_Suffix_Disabled",
+      "text": "{0} (inactive)"
+    },
+    {
+      "key": "rpg_quest_tag_dialogue",
+      "text": "Dialogue"
+    },
+    {
+      "key": "rpg_quest_tag_battle",
+      "text": "Battle"
+    },
+    {
+      "key": "rpg_quest_tag_hunt",
+      "text": "Eliminate"
+    },
+    {
+      "key": "rpg_quest_tag_gather",
+      "text": "Gather"
+    },
+    {
+      "key": "rpg_quest_tag_shop",
+      "text": "Shop"
+    },
+    {
+      "key": "rpg_quest_tag_move",
+      "text": "Travel"
+    },
+    {
+      "key": "Common_Ok",
+      "text": "Confirm"
+    },
+    {
+      "key": "Quest_Tag_Progress",
+      "text": "Progress"
+    },
+    {
+      "key": "Quest_Tag_Reward",
+      "text": "Reward"
+    },
+    {
+      "key": "Shop_Title",
+      "text": "Shop"
+    },
+    {
+      "key": "Shop_Category_All",
+      "text": "All"
+    },
+    {
+      "key": "Shop_Category_Artifact",
+      "text": "Artifacts"
+    },
+    {
+      "key": "Shop_Category_Etc",
+      "text": "Other"
+    },
+    {
+      "key": "Shop_Button_Buy",
+      "text": "Purchase"
+    },
+    {
+      "key": "Shop_SelectedItem_None",
+      "text": "Select items to purchase."
+    },
+    {
+      "key": "Shop_Item_Stock",
+      "text": "Stock"
+    },
+    {
+      "key": "Shop_Item_Owned",
+      "text": "Owned"
+    },
+    {
+      "key": "Shop_Item_NotForSale",
+      "text": "Cannot Purchase"
+    },
+    {
+      "key": "Shop_Empty_Item_List",
+      "text": "No items to display."
+    },
+    {
+      "key": "Log_ItemAcquired",
+      "text": "Item Obtained: {0} x{1}"
+    },
+    {
+      "key": "Log_ItemAcquiredKeyItem",
+      "text": "Item Obtained: <color=#{2}>{0} x{1}</color>"
+    },
+    {
+      "key": "Log_CurrencyEarned",
+      "text": "Obtained: {0} eyeballs"
+    },
+    {
+      "key": "Log_Purchased",
+      "text": "Purchased: {0} x{1} ({2} spent)"
+    },
+    {
+      "key": "Log_PurchasedKeyItem",
+      "text": "Purchased: <color=#{3}>{0} x{1}</color> ({2} spent)"
+    },
+    {
+      "key": "Log_NpcInteracted",
+      "text": "Ended the conversation."
+    },
+    {
+      "key": "Log_ProjectileRemoved",
+      "text": "Projectile Removed: {0}"
+    },
+    {
+      "key": "Log_ChoiceSelected",
+      "text": "Choice Made: {0}"
+    },
+    {
+      "key": "Log_QuestAcquired",
+      "text": "<color=#{1}>Began Quest: {0}</color>"
+    },
+    {
+      "key": "Log_QuestCompleted",
+      "text": "Quest Completed: {0}"
+    },
+    {
+      "key": "Log_QuestGoalProgress",
+      "text": "Quest Progress: {0}"
+    },
+    {
+      "key": "Log_PlayerHit",
+      "text": "Hit Taken: {0}"
+    },
+    {
+      "key": "Log_BattleResultSync",
+      "text": "Battle Outcome Reflected: ({0}): HP {1}/{2}, MP{3}/{4}"
+    },
+    {
+      "key": "Log_BattleDefeatHp",
+      "text": "Battle Lost: HP {0}"
+    },
+    {
+      "key": "Log_CheatVitals",
+      "text": "Cheat: {0}"
+    },
+    {
+      "key": "Log_EventEffectVitals",
+      "text": "Event Effect :{0}"
+    },
+    {
+      "key": "Log_RecruitFullRecover",
+      "text": "Ally Gained ({0}): Fully Heal HP/SP"
+    },
+    {
+      "key": "Log_VitalsNoChange",
+      "text": "No Changes"
+    },
+    {
+      "key": "Log_NpcDefeated",
+      "text": "{0} Defeated ({1} Dmg)"
+    },
+    {
+      "key": "Log_NpcDefeatedWeakness",
+      "text": "{0} Defeated ({1} Weakpoint Dmg)"
+    },
+    {
+      "key": "Log_DamageDealt",
+      "text": "Dealt {1} Dmg against {0}"
+    },
+    {
+      "key": "Log_DamageDealtWeakness",
+      "text": "Dealt {1} Weakpoint Dmg against {0}"
+    },
+    {
+      "key": "Log_PlayerDead",
+      "text": "Player Dead"
+    },
+    {
+      "key": "Log_BattleEntered",
+      "text": "Commence Battle"
+    },
+    {
+      "key": "Log_BattleWin",
+      "text": "Battle Won"
+    },
+    {
+      "key": "Log_BattleLose",
+      "text": "Battle Lost"
+    },
+    {
+      "key": "Log_RestSpotHealed",
+      "text": "HP fully healed"
+    },
+    {
+      "key": "Log_EscapeBlocked",
+      "text": "Can't leave this room at the moment."
+    },
+    {
+      "key": "Log_WardenAppeared",
+      "text": "A sense of unsettling omen creeps in."
+    },
+    {
+      "key": "Log_SuicideBlocked",
+      "text": "This cannot be the way out."
+    },
+    {
+      "key": "ProgressPopup_Title",
+      "text": "Grand Magasin Sisyphe"
+    },
+    {
+      "key": "ProgressPopup_Suicide",
+      "text": "Commit\nSuicide"
+    },
+    {
+      "key": "ProgressPopup_EnemyAttackIndication",
+      "text": "Show precise enemy attack range"
+    },
+    {
+      "key": "ProgressPopup_MyAttackIndication",
+      "text": "Show precise ally attack range"
+    },
+    {
+      "key": "ProgressPopup_Restore",
+      "text": "Restore Savepoint"
+    },
+    {
+      "key": "RestorePopup_Title",
+      "text": "Restore Savepoint"
+    },
+    {
+      "key": "RestorePopup_Checking",
+      "text": "Checking..."
+    },
+    {
+      "key": "RestorePopup_FoundNoQuest",
+      "text": "Restorable Autosave found."
+    },
+    {
+      "key": "RestoreCompare_ColCurrent",
+      "text": "Last Savepoint"
+    },
+    {
+      "key": "RestoreCompare_ColBackup",
+      "text": "Restore"
+    },
+    {
+      "key": "RestoreCompare_NoQuest",
+      "text": "None"
+    },
+    {
+      "key": "RestoreCompare_Unknown",
+      "text": "Not Found"
+    },
+    {
+      "key": "RestoreCompare_SavedAt",
+      "text": "Saved At: {0}"
+    },
+    {
+      "key": "RestorePopup_None",
+      "text": "No restorable Autosave found."
+    },
+    {
+      "key": "RestorePopup_LoadFailed",
+      "text": "Cannot verify autosave information."
+    },
+    {
+      "key": "RestorePopup_Confirm",
+      "text": "Any progress you've made since that savepoint will be deleted. This process is irreversible. Restore save anyway?"
+    },
+    {
+      "key": "RestorePopup_Running",
+      "text": "Restoring..."
+    },
+    {
+      "key": "RestorePopup_NeedRestart",
+      "text": "Restored. Any progress made after this point will not be saved. Please restart the game."
+    },
+    {
+      "key": "RestorePopup_Close",
+      "text": "Close"
+    },
+    {
+      "key": "Inventory_Empty",
+      "text": "No items in inventory."
+    },
+    {
+      "key": "Inventory_NotSelected",
+      "text": "No items selected."
+    },
+    {
+      "key": "LogPopup_Title",
+      "text": "Log History"
+    },
+    {
+      "key": "Setting_Tab_Sisyphus",
+      "text": "Sisyphe"
+    },
+    {
+      "key": "Setting_Sisyphus_UiSetting",
+      "text": "UI Settings"
+    },
+    {
+      "key": "Setting_Sisyphus_KeyManual",
+      "text": "Keyboard shortcuts guide"
+    },
+    {
+      "key": "Setting_Sisyphus_CensorDeadscene",
+      "text": "Censor death scenes"
+    },
+    {
+      "key": "Setting_Sisyphus_Move",
+      "text": "Move"
+    },
+    {
+      "key": "Setting_Sisyphus_Interaction",
+      "text": "Interact"
+    },
+    {
+      "key": "Setting_Sisyphus_Quest",
+      "text": "Journal: Quests"
+    },
+    {
+      "key": "Setting_Sisyphus_GauntletSuicide",
+      "text": "Use the gauntlet to commit suicide"
+    },
+    {
+      "key": "Setting_Sisyphus_Attack",
+      "text": "Attack"
+    },
+    {
+      "key": "Setting_Sisyphus_Guard",
+      "text": "Block"
+    },
+    {
+      "key": "Setting_Sisyphus_Dodge",
+      "text": "Evade"
+    },
+    {
+      "key": "Setting_Sisyphus_Run",
+      "text": "Sprint"
+    },
+    {
+      "key": "Setting_Sisyphus_LockedNeedItem",
+      "text": "※ Unavailable. Purchase relevant item to unlock."
+    },
+    {
+      "key": "Setting_Sisyphus_LanternToggle",
+      "text": "Lantern ON/OFF"
+    },
+    {
+      "key": "Setting_Sisyphus_CloseWindowOrSetting",
+      "text": "Close open window / Settings"
+    },
+    {
+      "key": "Setting_Sisyphus_Inventory",
+      "text": "View inventory"
+    },
+    {
+      "key": "Setting_Sisyphus_DialogueNext",
+      "text": "Proceed / Finalize dialogue choice"
+    },
+    {
+      "key": "Setting_Sisyphus_DialogueChoice",
+      "text": "Browse dialogue choices"
+    },
+    {
+      "key": "Setting_Sisyphus_DialogueSkip",
+      "text": "Skip dialogue"
+    },
+    {
+      "key": "Setting_Sisyphus_FullLog",
+      "text": "View Log History"
+    },
+    {
+      "key": "Setting_Sisyphus_CreditFastForward",
+      "text": "Speed up credit scroll"
+    },
+    {
+      "key": "Setting_Sisyphus_CreditSkip",
+      "text": "Skip credits"
+    },
+    {
+      "key": "Setting_Sisyphus_QuestNavigation",
+      "text": "Toggle quest navigation arrow"
+    },
+    {
+      "key": "Setting_Sisyphus_TabDefault",
+      "text": "Controls (Keyboard)"
+    },
+    {
+      "key": "Setting_Sisyphus_TabMobile",
+      "text": "Controls (Mobile)"
+    },
+    {
+      "key": "WardenBigNail",
+      "text": "The Warden's Greatnail"
+    },
+    {
+      "key": "FormationUI_AskToBack",
+      "text": "Leaving via the \"back\" button will count as defeat."
+    },
+    {
+      "key": "Setting_Sisyphus_Manual",
+      "text": "Manual"
+    },
+    {
+      "key": "Setting_Sisyphus_BattleStatus",
+      "text": "Status in the Shadowed"
+    },
+    {
+      "key": "TheaterTitle",
+      "text": "Cinéma"
+    },
+    {
+      "key": "SettingTitle",
+      "text": "Settings"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileMenu",
+      "text": "Open Menu"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileAutoAttack",
+      "text": "Auto-attack"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileInteraction",
+      "text": "Interact"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileQuestNavigation",
+      "text": "Quest Nav. Arrow"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileLantern",
+      "text": "Lantern"
+    },
+    {
+      "key": "Setting_Sisyphus_MobileUnlockNotice",
+      "text": "Functions marked with \"※\" must be unlocked by purchasing a relevant item."
+    },
+    {
+      "key": "Rpg_Menu_Status_Ego_Resources_Owned",
+      "text": "Current E.G.O Resources"
+    },
+    {
+      "key": "Rpg_Menu_Status_Character_Mental_Status",
+      "text": "Sinner SP Status"
+    },
+    {
+      "key": "Rpg_Move_Floor_Ui_Current_Floor",
+      "text": "Current Floor"
+    }
+  ]
+}

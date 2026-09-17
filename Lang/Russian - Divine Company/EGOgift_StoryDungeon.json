@@ -14,11 +14,11 @@
     {
       "id": 1002,
       "name": "Shoddy Dressing",
-      "desc": "All allies gain +10% Max HP.",
+      "desc": "All allies gain +10% max HP.",
       "simpleDesc": [
         {
           "abilityID": 1002,
-          "simpleDesc": "Max HP +10%"
+          "simpleDesc": "+10% max HP"
         }
       ]
     },
@@ -91,12 +91,12 @@
     {
       "id": 1013,
       "name": "Toy Screw",
-      "desc": "All allies gain +10% Max HP.",
+      "desc": "All allies gain +10% max HP",
       "abnormalityName": "Cyborg",
       "simpleDesc": [
         {
           "abilityID": 1013,
-          "simpleDesc": "Max HP +10%"
+          "simpleDesc": "+10% max HP"
         }
       ]
     },
@@ -324,11 +324,11 @@
     {
       "id": 1046,
       "name": "Green Skin",
-      "desc": "If an ally takes a lethal attack, they heal 50% of their Max HP.\n(Once per dungeon and expires after activation.)",
+      "desc": "If an ally takes a lethal attack, they heal 50% of their max HP.\n(Once per dungeon and expires after activation.)",
       "simpleDesc": [
         {
           "abilityID": 1046,
-          "simpleDesc": "Heal 50% of Max HP"
+          "simpleDesc": "Heal 50% of max HP"
         }
       ]
     },
@@ -438,7 +438,7 @@
     {
       "id": 2001,
       "name": "Small Ampule",
-      "desc": "At the start of the turn, allies under 40% HP heal 100% of Max HP. (Once per floor)",
+      "desc": "At the start of the turn, allies under 40% HP heal 100% of max HP. (Once per floor)",
       "simpleDesc": [
         {
           "abilityID": 2001,

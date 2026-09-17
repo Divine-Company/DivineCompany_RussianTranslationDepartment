@@ -1,0 +1,124 @@
+{
+    "dataList": [
+      {
+        "id": "get_10416_1",
+        "desc": "Identity Acquisition",
+        "dlg": "The number of legs that touch the ground is a symbol of divine providence in the Footwear Hall.\nSo why should I, a One-leg, stoop to serve ignoble clientele who chase after every à la mode fad that passes by?"
+      },
+      {
+        "id": "lobby_morning_10416_1",
+        "desc": "Morning Greeting",
+        "dlg": "... A single season was all it took for the store to get filthy again. Tch... maybe I should've kept anything with too many legs from coming in at all."
+      },
+      {
+        "id": "lobby_noon_10416_1",
+        "desc": "Afternoon Greeting",
+        "dlg": "Work boots, burnished with the Golden Resin under the sunlight... Looks like I've inadvertently created a work of art far too precious to be sold to customers. This pair of boots... belongs on an exalted Noir like myself."
+      },
+      {
+        "id": "lobby_night_10416_1",
+        "desc": "Evening Greeting",
+        "dlg": "Sold out. This season's clientele was not entirely blind to beauty. Hey, F.L.L., we're closing.\nCheck every shoe for the slightest sun fade <i>and</i> clean every disgusting track off the floor before you go. That's the only thing four-legged lowlives like you are good for."
+      },
+      {
+        "id": "smalltalk_10416_1",
+        "desc": "Chatter #1",
+        "dlg": "Don't you dare lump me in with those wretched Two-legs. I've devoted myself to crafting shoes, selling them, and treading the ground—that places me right on the boundary between two legs and one.\nSo... It's 1.1. Infinitely close to One-leg, and far more exalted than any Two-legs."
+      },
+      {
+        "id": "smalltalk_10416_2",
+        "desc": "Chatter #2",
+        "dlg": "The Brand Manager tells me... that the Rouges have begun worshipping a false god. It seems those unexalted creatures have installed themselves in the Luxury Hall as well... This will make for one décadent fashion show. Good. We can finally settle whether black or red belongs on top."
+      },
+      {
+        "id": "smalltalk_10416_3",
+        "desc": "Chatter #3",
+        "dlg": "Rumors started making the rounds on this floor two arboreal seasons ago, about a legendary sword hidden in some store Le Kaki are squatting in. Hmph... doubt there's anything exalted about it next to my blade."
+      },
+      {
+        "id": "smalltalk_10416_4",
+        "desc": "Post-Uptie Chat 1",
+        "dlg": "The aesthetics of Le Noir are rooted in temperance. The Rouges are so busy trying to flaunt themselves that they can't even begin to understand our fashion philosophy.\nThose plebeians always put far too many highlights into a single look—that lack of focal point only makes me want to S.A.P them."
+      },
+      {
+        "id": "smalltalk_10416_5",
+        "desc": "Post-Uptie Chat 2",
+        "dlg": "Shoes are works of art made to tread the ground. The less of the sole that touches the ground, the more sublime the work becomes, and the higher its value as fashion.\nRouge designers who reject that common sense and stamp all over the ground without a second thought... deserve nothing less than to be shoved to the E.W."
+      },
+      {
+        "id": "neglect_10416_1",
+        "desc": "Idle",
+        "dlg": "... This customer walks on two legs. Hah! Still nowhere near noble, but compared to the disgusting way the Four-legs scuttle around... I suppose it's almost tolerable."
+      },
+      {
+        "id": "gacksung_10416_1",
+        "desc": "Uptying",
+        "dlg": "Ever tried holding your entire body up on a single leg? If you can't comprehend the nobility behind this gait, then you're bound to trip and fall."
+      },
+      {
+        "id": "formation_10416_1",
+        "desc": "Deployment",
+        "dlg": "Time to put an end to the Rouges' U.S."
+      },
+      {
+        "id": "battleentry_10416_1",
+        "desc": "Stage Entry",
+        "dlg": "As befits the natural order. As befits the elevated."
+      },
+      {
+        "id": "battle_select_10416_1",
+        "desc": "Viewed in Battle",
+        "dlg": "Hm... Too many. I don't deal with customers who stand on S.M.L."
+      },
+      {
+        "id": "battle_endcommand_10416_1",
+        "desc": "Commencing Attack",
+        "dlg": "I'll make an exception and receive you."
+      },
+      {
+        "id": "battle_enemy_break_10416_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Insole-ent fools."
+      },
+      {
+        "id": "battle_break_10416_1",
+        "desc": "Staggered",
+        "dlg": "Khh...!"
+      },
+      {
+        "id": "battle_kill_10416_1",
+        "desc": "Enemy Killed",
+        "dlg": "A <i>fitting</i> end."
+      },
+      {
+        "id": "battle_dead_10416_1",
+        "desc": "Death",
+        "dlg": "How... imperfect..."
+      },
+      {
+        "id": "choice_success_p_10416_2",
+        "desc": "Check Passed",
+        "dlg": "Remember T.A.P. The \"when and where\" are the first things to consider when choosing what to wear."
+      },
+      {
+        "id": "choice_fail_n_10416_1",
+        "desc": "Check Failed",
+        "dlg": "Spending too long around things of B.E. dulled my eye..."
+      },
+      {
+        "id": "battle_clear_10416_1",
+        "desc": "Victory Cry",
+        "dlg": "Such tough and avaricious hide... Guess these Rouges do have some use. Their flayed skin is perfect for insoles."
+      },
+      {
+        "id": "battle_clear_ex_10416_1",
+        "desc": "Extra Conditions Fulfilled",
+        "dlg": "Finally, every last Golden Resin left in the Footwear Hall is now mine. Heh... This should be enough to furnish the atelier the way I've always wanted."
+      },
+      {
+        "id": "battle_defeat_10416_1",
+        "desc": "Defeat Wail",
+        "dlg": "What... a disgrace... To see the exalted Footwear Hall... trampled under the disgusting feet... of the Rouges..."
+      }
+    ]
+}

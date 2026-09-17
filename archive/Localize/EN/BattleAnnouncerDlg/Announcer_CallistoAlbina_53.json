@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_53_1",
+      "dlg": "- We will now observe the depth of your aesthetic sense.\n- Will you show it to me? Your very own brand of art of the exterior."
+    },
+    {
+      "id": "announcer_cheer_53_2",
+      "dlg": "- A true master of the craft knows precisely when to question his tools. Is the edge of the blade keen enough? Has rust dulled the timbre of the blade? Always be sure to inspect your tools with an exacting eye.\n- And that's because precious material shouldn't be ruined by poor handling."
+    },
+    {
+      "id": "announcer_specialcheer_53_1",
+      "dlg": "Could that have been a bulbus oculi rolling across the floor? I suppose it would be a touch too inappropriate now to say \"keep your eyes open.\""
+    },
+    {
+      "id": "announcer_specialcheer_53_2",
+      "dlg": "- That last touch completely messed up the proportions.\n- We have reached the point where it is becoming difficult to tell the medium apart from the artist."
+    },
+    {
+      "id": "announcer_enemy_break_53_1",
+      "dlg": "- How does it appear to your eyes, Albina? The tableau of the torqued corpus, flowering outward into a bouquet of blooming tendons.\n- Self-similarity within aleatoricism. It's aptly captured, Maestro."
+    },
+    {
+      "id": "announcer_ally_break_53_1",
+      "dlg": "- Abstract art? Are you trying to stage a drama of crisis through the tide of battle?\n- Not daring at all—merely a crude attempt at dramaturgy. Let us see what sort of finishing touch you will apply to salvage this piece."
+    },
+    {
+      "id": "announcer_killenemy_53_1",
+      "dlg": "- I see you've settled on a structural composition to work with.\n- Time to start filling in the details."
+    },
+    {
+      "id": "announcer_ally_dead_53_1",
+      "dlg": "Hah. Surely you are not relying on the trite conceit that death applies a posthumous premium on artwork, are you?"
+    },
+    {
+      "id": "announcer_enemy_adv_53_1",
+      "dlg": "- Let's try to regain an objective perspective through distancing and defamiliarization, shall we?\n- Certain facets of art become invisible when you are buried in its details. Take a step away and look again."
+    },
+    {
+      "id": "announcer_ally_adv_53_1",
+      "dlg": "- This artwork is too conventional. You can't hope to get the audience immersed in it.\n- Albina, a truly refined critique begins from sincere appreciation of art.\n- That was foolish of me, Maestro. I'll look again without skipping over anything."
+    },
+    {
+      "id": "announcer_ally_advex_53_1",
+      "dlg": "Forced asymmetry, then an inversion of the central axis... Mind you, I am not easily swayed by the so-called \"turnabout\" inherent in underdog narratives. The catharsis this particular iteration offers its audience is, however... more than adequate."
+    },
+    {
+      "id": "announcer_danger_53_1",
+      "dlg": "- The deadline for submission is nearing. Please direct your focus to the final touch before the unveiling of your piece. Be prudent, be delicate.\n- Like Pointillists—I heard they spend the longest time thinking where and how to place the final dot."
+    },
+    {
+      "id": "announcer_enemy_specialskill_53_1",
+      "dlg": "- Intense stimulus, at times, may be an illuminating muse.\n- This way, the approaching pain can be sublimated into proper art."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_53_1",
+      "dlg": "- This is completely new to me, Maestro. Could it be an application of Fauvist technique?\n- Hmm... A classic structure, though wrapped under a gaudy, overly belletristic veneer. Let us focus on examining its osseous framework instead."
+    },
+    {
+      "id": "announcer_advatk_physical_53_1",
+      "dlg": "A tried-and-true approach. Follow the length of the erector spinae, where they cling to the thoracic vertebrae. Surgical precision is required here."
+    },
+    {
+      "id": "announcer_disadvatk_physical_53_1",
+      "dlg": "...? Why are you searching for the caudal vertebrae when they're merely vestigial in the pure human corpus? Oh, Fascia is asking the same question."
+    },
+    {
+      "id": "announcer_advatk_attr_53_1",
+      "dlg": "Your application of the tenderizing agent is as inspiring as it is effective. I'm learning new things every day."
+    },
+    {
+      "id": "announcer_disadvatk_attr_53_1",
+      "dlg": "Might I suggest electing a different kind of solvent? Try trimming the corpus with a more appropriate technique."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_53_1",
+      "dlg": "- I expect you to have noticed the subtle alteration in the medium. Here's hoping your aesthetic sense is trained enough to perceive the minute variations.\n- May I let them know what exactly has changed, Maestro? Friends should help each other."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_53_1",
+      "dlg": "- Do you now understand why relaxants must come into play, dear Albina?\n- Ah. Relaxed musculature reduces resistance to the scalpel, which allows the artist a smoother expression of texture."
+    },
+    {
+      "id": "announcer_ally_specialbuff_53_1",
+      "dlg": "It would seem I must forgo an objective critique in your case. This is naught but a mockery—an affront to art under the veneer of \"being considerate\" to the material."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_53_1",
+      "dlg": "- I think a piece of flesh just got into your eye. Stings a lot, doesn't it?\n- An unpleasant sensation, to be sure. However, one must accept that art is not always an impeccably organized process—it often involves stray paint and blood flying everywhere. Some like to express this conundrum via such unnecessary jargon as \"Impasto,\" if I am not mistaken... Perhaps you've heard of it before."
+    },
+    {
+      "id": "announcer_enemy_destroy_53_1",
+      "dlg": "Originality between slaughter and anatomization, carefully balanced on the knife-edge of distinction. A sight to behold, indeed."
+    },
+    {
+      "id": "announcer_enemy_destroy_53_2",
+      "dlg": "That's the right approach. Start by harvesting the material that won't cut it. You'll get to harvest better ones eventually."
+    },
+    {
+      "id": "announcer_round_takebigdmg_53_1",
+      "dlg": "Oh, dear. You have neglected the fundamentals for obsessive emphasis on spectacularism instead. Where is the structural consistency? Where is the balance?"
+    },
+    {
+      "id": "announcer_round_takebigdmg_53_2",
+      "dlg": "- This sensation... *sigh* It is as though my amygdala is shaking. That just now had nothing to do with the disparity between our preferred tastes. It was simply a matter of complete and utter lack of aesthetic literacy on your part.\n- That couldn't have been intentional. Your hands must've slipped, right...?"
+    },
+    {
+      "id": "announcer_round_givebigdmg_53_1",
+      "dlg": "Che bello. The scapula, so cleanly separated, with the cartilage still attached without losing its suppleness... A spark of inspiration."
+    },
+    {
+      "id": "announcer_round_givebigdmg_53_2",
+      "dlg": "- Now <i>that</i> is a perceptive observation—you have managed to identify the core of the theme. Refine the angle of misaligned joints and correct the twisting organs, and you may appeal to my tastes yet.\n- I finally see the artistic intent behind your work. It took longer than necessary, though."
+    },
+    {
+      "id": "announcer_multikillenemy_53_1",
+      "dlg": "- Incredibile! The marriage between materialities, and the allegorical divorce of individualities! Aah... a monumental piece indeed!\n- This would invite dozens of bids at a VIP auction. Hear how Fascia's heartbeat quickens? She's also excited."
+    },
+    {
+      "id": "announcer_battle_win_53_1",
+      "dlg": "- Eccellente. That will be all for today's critique.\n- Let's make some collaborative art next time. Fascia's a bit miffed because we couldn't see more.\n- Fare you well.\n- Fare you well."
+    },
+    {
+      "id": "announcer_battle_defeat_53_1",
+      "dlg": "- You might want to give the work more time before you can receive a passing grade. Or perhaps you ought to reevaluate your perceived talent.\n- If I'm being honest, Fascia and I are disappointed. I hope you can become someone worthy of befriending next time."
+    },
+    {
+      "id": "announcer_equip_53_1",
+      "dlg": "- Welcome, welcome—Maestro Callisto, at your service. I am pleased to critique the aesthetics of your performance art today.\n- Hello. My name is Albina, and this is Fascia. Let's get to know each other so we can become friends once the critique session is over."
+    }
+  ]
+}

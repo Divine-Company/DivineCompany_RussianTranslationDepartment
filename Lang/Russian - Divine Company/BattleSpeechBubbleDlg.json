@@ -1011,7 +1011,7 @@
       "dlg": "От этой скверны..."
     },
     {
-      "id": "battle_s3_11005_1_2-03",
+      "id": "battle_s3_11005_1_2_Back",
       "desc": "Self-destructive Purge: Final coin heads",
       "dlg": "Я сам тебя очищу."
     },
@@ -2204,11 +2204,6 @@
       "id": "battle_s3_11104_1-01",
       "desc": "",
       "dlg": "All within prediction!"
-    },
-    {
-      "id": "battle_s3_11005_1_2-03",
-      "desc": "",
-      "dlg": "I'll strip it off clean."
     },
     {
       "id": "battle_s3_10705_1_1",
@@ -3864,6 +3859,156 @@
       "id": "battle_special_10116_2",
       "desc": "강화 3스킬 사용시",
       "dlg": "Ruminate upon the dimensions of quadricolor reflections."
+    },
+    {
+      "id": "battle_s3_11005_1_2_Back",
+      "desc": "",
+      "dlg": "I'll strip it off clean."
+    },
+    {
+      "id": "7SV-BV-022",
+      "desc": "리카르도 - 시험은 끝났다 스킬 장착한 턴 시작 시",
+      "dlg": "Enough games."
+    },
+    {
+      "id": "7SV-BV-023-1",
+      "desc": "리카르도 - 6스킬 사용 시(1타)",
+      "dlg": "No more..."
+    },
+    {
+      "id": "7SV-BV-023-2",
+      "desc": "리카르도 - 6스킬 사용 시(2타)",
+      "dlg": "... TESTS!"
+    },
+    {
+      "id": "7SV-BV-024-2",
+      "desc": "리카르도 - 7스킬 사용 시(2타)",
+      "dlg": "Here it comes..."
+    },
+    {
+      "id": "7SV-BV-024-3",
+      "desc": "리카르도 - 7스킬 사용 시(3타)",
+      "dlg": "... the promised suffering!"
+    },
+    {
+      "id": "7SV-BV-025",
+      "desc": "리카르도 - 베르너 사망(리타이어) 시",
+      "dlg": "... Leave the rest to me, kid."
+    },
+    {
+      "id": "7SV-BV-026",
+      "desc": "베르너 - 본인 사망(리타이어) 시",
+      "dlg": "I'm... sorry... Big Bro..."
+    },
+    {
+      "id": "7SV-BV-028_3",
+      "desc": "베르너 - 3스킬",
+      "dlg": "I'll squash you all!"
+    },
+    {
+      "id": "7SV-BV-029_1",
+      "desc": "베르너 - 4스킬(1타)",
+      "dlg": "You're all..."
+    },
+    {
+      "id": "7SV-BV-029_2",
+      "desc": "베르너 - 4스킬(2타)",
+      "dlg": "... marked for..."
+    },
+    {
+      "id": "7SV-BV-029_3",
+      "desc": "베르너 - 4스킬(3타)",
+      "dlg": "... Vengeance!"
+    },
+    {
+      "id": "7SV-BV-030",
+      "desc": "베르너 - 중지 아우들 사망 시",
+      "dlg": "Hah... I'll avenge you all..."
+    },
+    {
+      "id": "battle_s3_10616_1_1",
+      "desc": "3스킬 대사",
+      "dlg": "Please stay still...! You'll die if I hit the wrong spot."
+    },
+    {
+      "id": "battle_s3_10816_1_2",
+      "desc": "르루즈 이스마엘 3스킬 2타",
+      "dlg": "Pinned!"
+    },
+    {
+      "id": "battle_s3_10816_1_2-01",
+      "desc": "르루즈 이스마엘 3스킬 2타",
+      "dlg": "Pinned!"
+    },
+    {
+      "id": "battle_s3_10816_1_2-02",
+      "desc": "르루즈 이스마엘 3스킬 2타",
+      "dlg": "Pinned!"
+    },
+    {
+      "id": "battle_s3_10816_1_3",
+      "desc": "르루즈 이스마엘 3스킬 3타",
+      "dlg": "Smacked down!"
+    },
+    {
+      "id": "battle_s3_10816_1_3-01",
+      "desc": "르루즈 이스마엘 3스킬 3타",
+      "dlg": "Smacked down!"
+    },
+    {
+      "id": "battle_s3_10816_1_3-02",
+      "desc": "르루즈 이스마엘 3스킬 3타",
+      "dlg": "Smacked down!"
+    },
+    {
+      "id": "battle_s3_10816_1_4",
+      "desc": "르루즈 이스마엘 3스킬 재사용",
+      "dlg": "And nailed!"
+    },
+    {
+      "id": "battle_s3_10816_1_4-01",
+      "desc": "르루즈 이스마엘 3스킬 재사용",
+      "dlg": "And nailed!"
+    },
+    {
+      "id": "battle_s3_10416_1_1",
+      "desc": "원레그 료슈 3스킬 1타",
+      "dlg": "With every step you take,"
+    },
+    {
+      "id": "battle_s3_10416_1_3",
+      "desc": "원레그 료슈 3스킬 2타",
+      "dlg": "remember..."
+    },
+    {
+      "id": "battle_s3_10416_1_4",
+      "desc": "원레그 료슈 3스킬 3타",
+      "dlg": "... this pain!"
+    },
+    {
+      "id": "battle_special_10416_1_3",
+      "desc": "원레그 료슈 3-2스킬(강화3스킬) 3타",
+      "dlg": "I'll gladly tread you underfoot!"
+    },
+    {
+      "id": "battle_special_10416_1_4",
+      "desc": "원레그 료슈 3-2스킬(강화3스킬) 4타",
+      "dlg": "Expulsed!"
+    },
+    {
+      "id": "battle_special_10416_2",
+      "desc": "원레그 료슈 레알리자시옹 버프를 얻고 다음 턴 시작",
+      "dlg": "A clean cut."
+    },
+    {
+      "id": "battle_special_10816_1",
+      "desc": "고치 상태 진입",
+      "dlg": "I gladly withdraw into myself."
+    },
+    {
+      "id": "battle_special_10816_2",
+      "desc": "우화 상태 진입",
+      "dlg": "I slough off the lies someone has draped over me... And embrace my true self!"
     }
   ]
 }

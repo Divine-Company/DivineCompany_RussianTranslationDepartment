@@ -116,6 +116,66 @@
       "name": "Scattering Memories",
       "desc": "On death, give +1 E.G.O resource of the least-owned Affinity",
       "summary": "Give E.G.O resource on death"
+    },
+    {
+      "id": 501911,
+      "name": "Reflectrial",
+      "desc": "At 10+ Clashes against the same enemy, randomly gain or lose Clash Power by (Clash Count/10) in a Clash (max 10)\n\nMax Potency cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]: 30\nMax Count cap for the above effects: 10\n\nTeam 1 Encounter Start:\n- This unit and all Sinners on the field: Change SP to 30 (for Minus Coin Identities, -30)\n- Gain +3 E.G.O Resource for all Affinities\n\nUpon activating the Passive effects of \"Tiantui Star\",\nEnd the turn and enter Phase 2 next turn\n- Entering the new phase does not reset effects on this unit\n\nTeam 2 & 3 Encounter Start:\nBased on this unit's current HP percentage, the Passive effects below are considered to have activated in the order listed\n- More than 85% HP: Tigermark Round[TabExplain] Reload[TabExplain]\n- 85% or lower: Tigermark Round[TabExplain] Reload[TabExplain]; Lei Heng\n- 66% or lower: Tigermark Round[TabExplain] Reload[TabExplain]; Lei Heng; Tiantui Star\n- 50% or lower: Tigermark Round[TabExplain] Reload[TabExplain]; Lei Heng; Tiantui Star; Lei Heng, The Pinky's Tiantui Star"
+    },
+    {
+      "id": 501901,
+      "name": "The Thumb's Officer, Capo IIII",
+      "desc": "Take -30% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n\nWhen flipping a Coin that consumes [BulletPropellant]: While not having [BulletPropellant] does not cancel this unit's attacks, the Coin's \"inflict [Combustion]\" and \"inflict [Combustion] Count\" effects do not activate\n\nIn a Clash, inflict +(1 + (# of Clashes / 3)) [Vibration] Count\n(max 3; 3 times per turn against the same target)"
+    },
+    {
+      "id": 501902,
+      "name": "Ten Blades of the East",
+      "desc": "At Encounter Start, and at Turn Start upon gaining a new pattern:\n- Gain 1 [Bothersome]\n- Heal 5 SP for every 10% missing HP on self (max 40)\n\nGain the effects of [PanicChangeLock]\nTurn End: If this unit is in Panic, reset SP to 45"
+    },
+    {
+      "id": 501903,
+      "name": "Chosen Prey",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [Prey_leiheng] against the Sinner that dealt the most damage to this unit</u></b></mark></color> last turn\n\nAfter Lei Heng attacks the Sinner that has [Prey_leiheng]:\n- If target is Staggered, all Sinners lose 10 SP and gain 1 [ParryingResultDown] for this turn and next turn (once per turn)\n- If target is defeated, activate the above effect once more"
+    },
+    {
+      "id": 501904,
+      "name": "Tiantui Star's Blade [天退星刀]",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>On Hit, Unopposed Attacks</u></b></mark></color> deal +30% damage and inflict 1 [Vulnerable] next turn\n\nSkill Coins that spent [BulletPropellant] deal +20% damage On Hit and inflict 2 [DefenseDown] next turn\n\n<color=#ff6000><mark=#ff000040><b><u>The above effects do not activate if the target equipped a Defense Skill</u></b></mark></color>"
+    },
+    {
+      "id": 501912,
+      "name": "Tiantui Star's Blade - Overheat",
+      "desc": "If this unit used a powerful attack (\"Tanglecleaver\" or \"Savage Tigerslayer's Perfected Flurry of Blades\"), gain [Complacency] next turn equal to the number of times those skills were used (max 5)"
+    },
+    {
+      "id": 501910,
+      "name": "Chachihu [揷翅虎]",
+      "desc": "Combat Start: <color=#ff6000><mark=#ff000040><b><u>Based on this unit's Speed value</u></b></mark></color>,\n- Heal SP equal to Speed value. At less than 0 SP, double the heal amount\n- Gain (Speed Value / 3) [SlashDamageUp] (max 5)\n\nCombat Start: <color=#ff6000><mark=#ff000040><b><u>If this unit has 3+ [Binding], the above effect does not activate;</u></b></mark></color> gain [DefenseDown] equal to [Binding] on self (max 9)"
+    },
+    {
+      "id": 501905,
+      "name": "Tigermark Round Reload",
+      "desc": "At the end of Turn 1, reload [BulletPropellant] and gain a new pattern next turn\n- If this unit is Staggered, recover from Stagger"
+    },
+    {
+      "id": 501906,
+      "name": "Lei Heng [雷橫]",
+      "desc": "Turn End: At 85% or less HP, or at the end of Turn 2, gain a new pattern next turn\n- Use a powerful attack (\"Tanglecleaver\"), repeat every 3rd turn. +10 to Min & Max Speed for turns in which this unit uses this Skill\n- At the start of that turn, gain 25 [BattleSense]\n- If this unit is Staggered, recover from Stagger"
+    },
+    {
+      "id": 501907,
+      "name": "Tiantui Star [天退星]",
+      "desc": "If this unit's HP dropped to 66% or below during combat, enter a new phase next turn and gain a new pattern\n- When that turn starts, gain 1 [Irritation]\n- When that turn starts, gain 18 [BulletPropellantSpecial] and reload immediately\n· If this unit spends all [BulletPropellantSpecial], convert the effect to [BulletPropellant] and summon 2 of \"Stern Soldato of the Thumb\" units next turn and have them supply this unit with [BulletPropellantSpecial]\n- When Staggered, recover from Stagger"
+    },
+    {
+      "id": 501908,
+      "name": "Lei Heng, The Pinky's Tiantui Star",
+      "desc": "Turn End: At 50% or lower HP, gain a new pattern next turn\n- Replace the powerful attack \"Tanglecleaver\" with \"Savage Tigerslayer's Perfected Flurry of Blades\"; Min & Max Speed +15 for turns in which this unit uses this Skill\n- Convert [BattleSense] to [RestoredBattleSense]\n- Convert [Irritation] to [HugeIrritation]\n- If this unit is Staggered, recover from Stagger"
+    },
+    {
+      "id": 502001,
+      "name": "Savage Tigermark Support",
+      "desc": "Turn Start: Gain 3 [Vulnerable]\nTurn End: Supply [BulletPropellantSpecial] to Lei Heng\n\nIf this unit is killed, Lei Heng gains 1 [Vulnerable] next turn"
     }
   ]
 }

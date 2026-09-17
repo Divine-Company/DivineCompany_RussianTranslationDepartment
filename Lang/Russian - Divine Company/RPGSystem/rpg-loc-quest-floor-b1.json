@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "A1 : 지하 1층으로",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to B1F - Food Hall"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Discuss the Food Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "Head to B2F",
+      "description": "Boucher cooked us a \"dish\" called the Golden Cocoon. Now, to find our way down to B2F.\n\nLet's check the path down from the corridor we walked through.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head down to B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "Look for a Descending Escalator",
+      "description": "We found ourselves in a room full of escalators that lead who knows where. We should investigate these escalators and find the one that can bring us down to B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Investigate the escalators"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "Head to the Food Court",
+      "description": "Made our way down to B1F. It certainly has a different feel from the upper floors...\nWe should probably head to this place they call the \"Food Court\" if we want to find the Golden Cocoon. Let's look for the drawing of a snail shell on the ground.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Food Court"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "Pursue the Sous Chef!",
+      "description": "Met someone called \"Sous Chef.\" We were told that she'd seen the Golden Cocoon in someone called Boucher's storeroom.\nLet's chase after Sous Chef and find out more about the Golden Cocoon.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pursue the Sous Chef!"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "Visit Boucher",
+      "description": "Sous Chef told us about Boucher, the B1F Floor Manager. Let's find Boucher and ask if there's any way we could convince him to give us the Golden Cocoon.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Visit Boucher"
+        }
+      ]
+    },
+    {
+      "key": "Q-1006",
+      "title": "Bring Back the Ruminations of the Prey",
+      "description": "Boucher said he's willing to part with his Golden Cocoon... but only for this cut of meat called \"Ruminations of the Prey,\" which can be found hanging somewhere inside the Fresh Meat Section.\n\nWe should find that cut of meat and hand it over to Boucher.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bring back the Ruminations of the Prey"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "Return to the Hall of Escalators",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to the room of escalators"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "에스컬레이터실 복귀 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "Define the Escalator",
+      "description": "According to Jeanne's cryptic hints, we shouldn't look for an escalator that leads downstairs... but define one instead. Meursault gave me three options—a ladder, a hill, or a shoe.\n\nWhich of these should I tell Meursault to define the escalator as?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Define the escalator: a ladder, a hill, or a shoe?"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "Activate the Escalator",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "Take the Escalator Down",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    }
+  ]
+}

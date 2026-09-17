@@ -2772,6 +2772,331 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1081601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ahh... You Can't Hear It, Can You?",
+          "desc": "[WhenUse] At 80%+ HP, gain +3 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeRougeAlly] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ahh... You Can't Hear It, Can You?",
+          "desc": "<style=\"highlight\">At 2+ [ChargeRougeAlly], Coin Power +1</style>\n[WhenUse] At 80%+ HP, gain +3 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">3</style> [ChargeRougeAlly] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ahh... You Can't Hear It, Can You?",
+          "desc": "At 2+ [ChargeRougeAlly], Coin Power +1\n[WhenUse] At 80%+ HP, gain +<style=\"highlight\">5</style> [ChargeRougeAlly] Count\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 3 [Laceration] on target (max 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ChargeRougeAlly] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Indeed, the Silence of the Voice Did Not Signify Its Absence!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeRougeAlly] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit has [RougeIshmaelEclose], Reuse this Coin once (once per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Heal ([ChargeRougeAlly] Potency x 2)% HP (max 10%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Indeed, the Silence of the Voice Did Not Signify Its Absence!",
+          "desc": "<style=\"highlight\">Final Power +1 for every 2 [ChargeRougeAlly] (max 2)\n[WhenUse] At fewer than 10 [ChargeRougeAlly] Count, consume 3(10 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 10\n[WhenUse] Consume 10 [ChargeRougeAlly] Count to gain Coin Power +1\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[BeforeAttack] If this unit has [RougeIshmaelEclose], deal +20% damage\n- If this unit does not have [RougeIshmaelEclose], consume 20% HP on self to activate the above effect</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">4</style> [ChargeRougeAlly] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit has [RougeIshmaelEclose], Reuse this Coin once (once per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] At 3+ [ChargeRougeAlly], inflict 1 [ScarletTakeDamageUp] next turn (once per turn)</style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Heal ([ChargeRougeAlly] Potency x <style=\"highlight\">3</style>)% HP (max <style=\"highlight\">15</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Indeed, the Silence of the Voice Did Not Signify Its Absence!",
+          "desc": "Final Power +1 for every 2 [ChargeRougeAlly] (max 2)\n[WhenUse] At fewer than 10 [ChargeRougeAlly] Count, consume 3(10 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 10\n[WhenUse] Consume 10 [ChargeRougeAlly] Count to gain Coin Power +1\n[WhenUse] If target has 6+ [Laceration], Coin Power +1\n[BeforeAttack] If this unit has [RougeIshmaelEclose], deal +<style=\"highlight\">40</style>% damage\n- If this unit does not have [RougeIshmaelEclose], consume 20% HP on self to activate the above effect",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeRougeAlly] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit has [RougeIshmaelEclose], Reuse this Coin once (once per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] At <style=\"highlight\">2</style>+ [ChargeRougeAlly], inflict 1 [ScarletTakeDamageUp] next turn (once per turn)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Heal ([ChargeRougeAlly] Potency x 3)% HP (max 15%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Scrape It Out, Rip It Off, and Nail It Down!",
+          "desc": "Deal +5% damage for every [ChargeRougeAlly] (max 25%)\n[StartBattle] At lower than 50% HP, or if this unit has [RougeIshmaelEclose], convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] At fewer than 15 [ChargeRougeAlly] Count, consume 3(15 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 15\n[WhenUse] Consume 15 [ChargeRougeAlly] to gain Coin Power +3\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] If this unit has [RougeIshmaelEclose], deal +40% damage\n- If this unit does not have [RougeIshmaelEclose], consume 20% HP on self to activate the above effect",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit has [RougeIshmaelEclose], Reuse this Coin once (once per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal Lust damage equal to ([ChargeRougeAlly] Potency on self x 10)% of this Coin's final damage (max 30%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Heal ([ChargeRougeAlly] Potency x 4)% HP (max 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Scrape It Out, Rip It Off, and Nail It Down!",
+          "desc": "Deal +<style=\"highlight\">10</style>% damage for every [ChargeRougeAlly] on self (max <style=\"highlight\">50</style>%)\n[StartBattle] At lower than 50% HP, or if this unit has [RougeIshmaelEclose], convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] At fewer than 15 [ChargeRougeAlly] Count, consume 3(15 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 15\n[WhenUse] Consume 15 [ChargeRougeAlly] to gain Coin Power +3\n[WhenUse] Coin Power +1 for every 6 [Laceration] on target (max 2)\n[BeforeAttack] If this unit has [RougeIshmaelEclose], deal +40% damage\n- If this unit does not have [RougeIshmaelEclose], consume 20% HP on self to activate the above effect",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "If this unit has [RougeIshmaelEclose], Reuse this Coin once (once per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Deal Lust damage equal to ([ChargeRougeAlly] Potency on self x 10)% of this Coin's final damage (max 30%)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Heal ([ChargeRougeAlly] Potency x 4)% HP (max 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Of Course... There was Meaning to this World After All",
+          "desc": "[DuelCounter]\n[StartBattle] At 10% or lower HP, gain 2 [RougeIshmaelCocoon] and enter [RougeIshmaelCocoon] (once per Encounter)\n[StartBattle] If this unit does not have [RougeIshmaelEclose], consume 20% HP on self and gain +10 [Aggro] to this Skill Slot next turn (once per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeRougeAlly] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Of Course... There was Meaning to this World After All",
+          "desc": "[DuelCounter]\n[StartBattle] At 10% or lower HP, gain 2 [RougeIshmaelCocoon] and enter [RougeIshmaelCocoon] (once per Encounter)\n[StartBattle] If this unit does not have [RougeIshmaelEclose], consume 20% HP on self and gain +10 [Aggro] to this Skill Slot next turn (once per turn)\n<style=\"highlight\">[WhenUse] Final Power +1 for every 2 [ChargeRougeAlly] Potency (max 2)\n[WhenUse] Deal +10% damage for every 4 [Laceration] on target (max 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +4 [ChargeRougeAlly] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit has [RougeIshmaelEclose], heal 10% HP (once per turn)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1081605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "As the Voice Says, I Gladly Withdraw into Myself",
+          "desc": "[RougeIshmaelCocoon] exclusive Skill\n[CanDuelGuard]\n[StartBattle] At 10+ [ChargeRougeAlly] Count, consume 10 [ChargeRougeAlly] Count to apply 1 [ResultEnhancement] next turn to 2 allies with the earliest Deployment orders (once per turn)\n[StartBattle] Heal 50% HP (once per turn)\n[WinDuel] Gain +5 [ChargeRougeAlly] Count (4 times per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "As the Voice Says, I Gladly Withdraw into Myself",
+          "desc": "[RougeIshmaelCocoon] exclusive Skill\n[CanDuelGuard]\n[StartBattle] At 10+ [ChargeRougeAlly] Count, consume 10 [ChargeRougeAlly] Count to apply 1 [ResultEnhancement] next turn to 2 allies with the earliest Deployment orders (once per turn)\n<style=\"highlight\">- If the affected ally is a Rouge Identity, gain +5 [ChargeRougeAlly] Count next turn and additionally apply 1 [AttackDmgUp] on the said ally</style>\n[StartBattle] Heal <style=\"highlight\">100</style>% HP (once per turn)\n<style=\"highlight\">[WinDuel] Remove 1 random removable negative effect applied to self (once per turn)</style>\n[WinDuel] Gain +5 [ChargeRougeAlly] Count (4 times per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

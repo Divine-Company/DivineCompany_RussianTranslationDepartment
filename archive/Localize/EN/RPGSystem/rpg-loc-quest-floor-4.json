@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "Head to 4F",
+      "description": "We now have the Authenticity Certificate, courtesy of the Noirs on 3F. They told us that other Noirs will show us the same hospitality they showed us—the lavish kind, apparently. Hopefully, it'll make getting around the department store a little easier.\n\nNow, let's head upstairs to 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Get on the escalator to 4F"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "Explore 4F",
+      "description": "We're on 4F. What kind of weird stores will we find here, I wonder? Let's start by checking out what's to the hallway on the right.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore 4F"
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "Explore 4F (2)",
+      "description": "A One-leg, sales associate at the Noir Footwear Hall, told us about a legendary weapon capable of ripping through any fabric.\nFor now, let's leave the Noir Footwear Hall and explore the rest of 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Finish talking to One-leg"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Explore 4F",
+          "goalDescription2": "Talk to the Arc Floor Lamp"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "Meet the Owner of the Furniture Hall",
+      "description": "So, this is the \"Furnishing Hall,\" huh?\nThe Arc Floor Lamp we talked to asked that we bring him an outfit \"most fashionable and suitable.\" Let's go meet the owner of the Furniture Hall.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to the owner of the Furniture Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "Deliver the New Clothes to the Arc Floor Lamp",
+      "description": "The owner of the Furniture Hall, \"Happy Closet,\" opened themselves up to show us some items dangling from inside their body. We picked an outfit that seemed adequate—now, let's bring this to the Arc Floor Lamp.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bring the new article of clothing for the Arc Floor Lamp"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "Take More Clothes from the Happy Closet",
+      "description": "The other Furnishings weren't so happy to see the Arc Floor Lamp receive an article of clothing. Let's return to the Happy Closet and pick out clothes for the rest of the Furnishings.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Take more articles of clothing from the Happy Closet"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "Deliver the Clothes to the Furnishings",
+      "description": "Picked out a few articles of clothing from the Happy Closet. Now, to deliver them to the Furnishings.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Delivery for Bonehanger",
+          "goalDescription2": "Delivery for Mellow Leather Bed",
+          "goalDescription3": "Delivery for Taxidermied Leather Curtain",
+          "goalDescription4": "Delivery for Red-cushioned Stool",
+          "goalDescription5": "Delivery for Skinhide Couch",
+          "goalDescription6": "Delivery for Lamp Twin"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "Return to the Happy Closet",
+      "description": "Made sure that each of the angry Furnishings received their article of clothing. Time to head back to the Happy Closet.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to the Happy Closet"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "The Furnishings are ripping the Happy Closet apart."
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "Talk to the Arc Floor Lamp",
+      "description": "The Happy Closet, with even their heart torn out, has gone completely still. Maybe we should talk to the Arc Floor Lamp before we get out of the Furniture Hall.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to the Arc Floor Lamp"
+        }
+      ]
+    },
+    {
+      "key": "Q4009",
+      "title": "Head to the Basement Floors",
+      "description": "According to the recipe we acquired, we're first going to have to obtain this \"Golden Cocoon,\" which will lead to us getting our hands on the Golden Thread.\n\nLet's head to B1F, acquire the Golden Cocoon, then head deeper down to B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Get on the escalator to B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Explore B1F"
+        }
+      ]
+    }
+  ]
+}

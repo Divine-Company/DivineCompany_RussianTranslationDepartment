@@ -1139,20 +1139,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": ""
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 [BulletPropellant]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
-                },
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Combustion] Count"
+                  "desc": ""
                 }
               ]
             }

@@ -138,7 +138,7 @@
     },
     {
       "id": "battlepass_package_purchase",
-      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</style> Package"
+      "content": "<font=\"BebasKai SDF\">LIMBUS PASS</font> Package"
     },
     {
       "id": "battlepass_package_desc_level",
@@ -218,7 +218,7 @@
     },
     {
       "id": "battlepass_purchase_desc_ex",
-      "content": "Receive <style=\"highlightConverted\">{1}</style> Season 7 Nominable Egoshard Crates from Max Pass Level+ Rewards instead of <style=\"highlightConverted\">{0}</style>"
+      "content": "Receive <style=\"highlightConverted\">{1}</style> Season 8 Nominable Egoshard Crates from Max Pass Level+ Rewards instead of <style=\"highlightConverted\">{0}</style>"
     },
     {
       "id": "battlepass_purchase_desc_pass_level",

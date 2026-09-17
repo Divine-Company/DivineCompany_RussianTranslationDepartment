@@ -1,0 +1,269 @@
+{
+  "dataList": [
+    {
+      "id": "10SV-004",
+      "desc": "수셰프 스킬4",
+      "dlg": "Yummier and yummier, you hear? The flavor's out of this world, you hear?"
+    },
+    {
+      "id": "10SV-005",
+      "desc": "수셰프 스킬5",
+      "dlg": "You can go into the soda and contribute, you hear?"
+    },
+    {
+      "id": "10SV-006",
+      "desc": "수셰프 스킬6",
+      "dlg": "Hurry-scurry, chippy-chop, you hear?"
+    },
+    {
+      "id": "10SV-007",
+      "desc": "수셰프 스킬7",
+      "dlg": "You pitched in, so this one's on the house, you hear?"
+    },
+    {
+      "id": "10SV-008_a",
+      "desc": "수셰프 스킬8",
+      "dlg": "This won't satisfy a real Sous Chef like me, you hear?"
+    },
+    {
+      "id": "10SV-008_b",
+      "desc": "수셰프 스킬8",
+      "dlg": "I want that ingredient too, you hear?"
+    },
+    {
+      "id": "10SV-009",
+      "desc": "수셰프 스킬9",
+      "dlg": "The fizz is going flat... This won't do, you hear?"
+    },
+    {
+      "id": "10SV-010",
+      "desc": "수셰프 특수 패턴1이 나오는 턴 시작 시 (전투당 1회)",
+      "dlg": "Mnnhnmhmhm~ This fizzy kick... It's the bestest, you hear? Boucher'll be over the moon, too, you hear?"
+    },
+    {
+      "id": "10SV-011",
+      "desc": "수셰프 특수 패턴2가 나오는 턴 시작 시 (전투당 1회)",
+      "dlg": "*sniff* *sniff* Scrumptious aroma, you hear? Makes me hungry, you hear...?"
+    },
+    {
+      "id": "10SV-024-01",
+      "desc": "붉은 신 스킬3",
+      "dlg": "Tiiii... Tock!"
+    },
+    {
+      "id": "10SV-024-02",
+      "desc": "붉은 신 스킬3",
+      "dlg": "Tiiii... Tock!"
+    },
+    {
+      "id": "10SV-026",
+      "desc": "붉은 신 스킬5",
+      "dlg": "Dammi... I rememb...!! Voice...!!"
+    },
+    {
+      "id": "10SV-029",
+      "desc": "붉은 신 스킬8",
+      "dlg": "Let me h... song"
+    },
+    {
+      "id": "10SV-031",
+      "desc": "붉은 신 스킬10",
+      "dlg": "Anger! Aligns muc... with... crying!"
+    },
+    {
+      "id": "10SV-032",
+      "desc": "붉은 신 수비 스킬",
+      "dlg": "High similar... what... called... \"lullab\"... "
+    },
+    {
+      "id": "10SV-034",
+      "desc": "붉은 신 스킬13",
+      "dlg": "Call... Judgment caaall... Manager...!!!"
+    },
+    {
+      "id": "10SV-035-a",
+      "desc": "붉은 신 폭식 보유 1턴째 턴 시작",
+      "dlg": "Sleep tight... My baby..."
+    },
+    {
+      "id": "10SV-035-b",
+      "desc": "붉은 신 폭식 보유 2턴째 턴 시작",
+      "dlg": "... Undo... only the silkiest... threads..."
+    },
+    {
+      "id": "10SV-035-c",
+      "desc": "붉은 신 폭식 보유 3턴째 턴 시작",
+      "dlg": "Grow... tall and strong..."
+    },
+    {
+      "id": "10SV-036-01",
+      "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+      "dlg": "*sob* Hurts... hurts...!!"
+    },
+    {
+      "id": "10SV-036-02",
+      "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+      "dlg": "*sob* Hurts... hurts...!!"
+    },
+    {
+      "id": "10SV-157",
+      "desc": "스테이지 시작시 (개전)",
+      "dlg": "I shall personally snuff out your profane flame before it disrupts our order."
+    },
+    {
+      "id": "10SV-158",
+      "desc": "3턴 시작시",
+      "dlg": "No more excuses! Did you really think wearing a clock on your head could hide your identity? That blasphemous crimson—you are of the Rouges, I know it!"
+    },
+    {
+      "id": "10SV-159",
+      "desc": "146506스킬 사용시 (가장 강력한 스킬. 전투당 1회)",
+      "dlg": "For the sake of our eternal rest, I shall reclaim the Resin! "
+    },
+    {
+      "id": "10SV-160",
+      "desc": "5턴 시작시 (르루주가 아닌 것 같은데…)",
+      "dlg": "Ah—hmm... Those golden traces are... not quite like those of the Golden Resin..."
+    },
+    {
+      "id": "10SV-090",
+      "desc": "바늘이 왕 스테이지 시작 시",
+      "dlg": "A spirited... cry...! My...! F... east!"
+    },
+    {
+      "id": "10SV-091",
+      "desc": "바늘이 왕 1페이즈 3턴 시작 시",
+      "dlg": "Hnnnnnnh!! A-ged... ech-o... My...! Gold...?"
+    },
+    {
+      "id": "10SV-092",
+      "desc": "바늘이 왕 1페이즈 4턴 시작 시",
+      "dlg": "Breath... sound... dying... no...! The beating... shouldn't sto-p!"
+    },
+    {
+      "id": "10SV-093",
+      "desc": "바늘이 왕 2페이즈 시작 시",
+      "dlg": "No! Can't... stand... it! Hunger... and... thirst...!"
+    },
+    {
+      "id": "10SV-094",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "G... o...!"
+    },
+    {
+      "id": "10SV-094-01",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "Bring... it to me...!"
+    },
+    {
+      "id": "10SV-094-02",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "More... More...! Not... enough...!"
+    },
+    {
+      "id": "10SV-095",
+      "desc": "바늘이 왕 149607 스킬 사용 시",
+      "dlg": "Twick! Winkle... Tw... winkle!"
+    },
+    {
+      "id": "10SV-096",
+      "desc": "바늘이 왕 짝수 턴 시작 시 (전투당 1회)",
+      "dlg": "In the na? -me of the... K-ing...!"
+    },
+    {
+      "id": "10SV-097",
+      "desc": "바늘이 왕 149609 스킬 사용 시",
+      "dlg": "St-op...! Laugh...! Ha...!"
+    },
+    {
+      "id": "10SV-098",
+      "desc": "바늘이 왕 149610 스킬 사용 시",
+      "dlg": "Ahh...! Hnnh..."
+    },
+    {
+      "id": "10SV-099",
+      "desc": "바늘이 왕 전투 패배 시",
+      "dlg": "Heeh... Ha... H-a! H-a! H-a...!"
+    },
+    {
+      "id": "10SV-100",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "Shaddap! Shaddap!"
+    },
+    {
+      "id": "10SV-100-01",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "Shaddap! Shaddap!"
+    },
+    {
+      "id": "10SV-100-02",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "Shaddap! Shaddap!"
+    },
+    {
+      "id": "10SV-161",
+      "desc": "포레그 스테이지 시작 시 (개전)",
+      "dlg": "Collapse me... I don't want to walk the earth with my feet again..."
+    },
+    {
+      "id": "10SV-162",
+      "desc": "포레그 148203 스킬 사용시",
+      "dlg": "Please! Tear off! My useless legs!"
+    },
+    {
+      "id": "10SV-163",
+      "desc": "포레그 148204 스킬 사용시(전투당 1회)",
+      "dlg": "Oh... footsteps... footsteps everywhere..."
+    },
+    {
+      "id": "10SV-164",
+      "desc": "원레그 스테이지 시작 시 (개전)",
+      "dlg": "You, a lowly pack of bipedal strangers, dare challenge my magnificent self?!"
+    },
+    {
+      "id": "10SV-165",
+      "desc": "원레그 148304 또는 148305 스킬 사용 시 (가장 강력한 스킬. 전투당 1회)",
+      "dlg": "Remember this pain with every step you take!"
+    },
+    {
+      "id": "10SV-166",
+      "desc": "원레그 148303 스킬 사용 시 (25% 확률 출력)",
+      "dlg": "Expulsed!"
+    },
+    {
+      "id": "10SV-145",
+      "desc": "스테이지 시작시 (개전. 일반 상태)",
+      "dlg": "Slough off the lies... And embrace my true self..."
+    },
+    {
+      "id": "10SV-146",
+      "desc": "고치 상태 패턴 진입시 (전투당 1회)",
+      "dlg": "Ah... Such cozy warmth... Every word is so new, so alive... and relentless... Speak to me, speak to me more..."
+    },
+    {
+      "id": "10SV-147",
+      "desc": "146605스킬 사용시 ",
+      "dlg": "Pinned!"
+    },
+    {
+      "id": "10SV-147-01",
+      "desc": "146605스킬 사용시 ",
+      "dlg": "And nailed!"
+    },
+    {
+      "id": "10SV-148",
+      "desc": "일반 상태 패턴 재 진입시 (전투당 1회)",
+      "dlg": "More... More, more, more! Oh, tell me! That warm voice of yours!"
+    },
+    {
+      "id": "10SV-149",
+      "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+      "dlg": "Yearn! Consume!"
+    },
+    {
+      "id": "10SV-149-01",
+      "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+      "dlg": "Devastate! Devour!"
+    }
+  ]
+}

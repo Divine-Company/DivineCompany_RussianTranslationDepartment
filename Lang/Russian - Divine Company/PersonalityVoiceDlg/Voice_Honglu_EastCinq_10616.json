@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10616_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Whoops, just squeezing through~ Oh, please don't let me interrupt you—I'm not here to stand in as proxy for anyone's duel. A bowl of biangbiang noodles over here, please!"
+    },
+    {
+      "id": "lobby_morning_10616_1",
+      "desc": "Morning Greeting",
+      "dlg": "I do enjoy how lively this place becomes in the morning. The noise makes everything feel so full of life! Though, mm~ most of that bustle does seem to come from furniture shattering and people being thrown about. Still... If you admire them from a distance, the sounds blur together into a certain rustic charm."
+    },
+    {
+      "id": "lobby_noon_10616_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Mm~ So this is the must-try dish my colleague kept raving about. Can't wait to see whether it can live up to such a glowing recommendation as \"If you <i>still</i> haven't tried it by the time I ask you again, we're going to have to settle this with a duel!\""
+    },
+    {
+      "id": "lobby_night_10616_1",
+      "desc": "Evening Greeting",
+      "dlg": "The Virescent Pyrojade is useful for much more than simply melting things, you know. Here, come closer. It'll warm you right up in this brisk air after sundown."
+    },
+    {
+      "id": "smalltalk_10616_1",
+      "desc": "Chatter #1",
+      "dlg": "Hmm... I suppose so? But it's a bit of a chicken-and-egg problem, isn't it? Do people choose these parts for brawls because our branch is nearby, or did we build the branch here because we saw the business opportunity ripe for the picking? Whichever is the case, believe me, scarcely a day passes here without a fight breaking out at one of the nearby kezhans.\nNot that we mind, of course~ It only means more commissions for us."
+    },
+    {
+      "id": "smalltalk_10616_2",
+      "desc": "Chatter #2",
+      "dlg": "Excuse me, I noticed you were actively avoiding eye contact with me, and I was wondering if—Oh, I remember now! You were my opponent in that last duel! How are your wounds?\nYou don't have to avoid me—that was just work, you know? No hard feelings at all. Ah, would you like some hot xiaolongbao to warm you up? My treat! Thanks to you, I've made quite a bit of coin. It's the least I can do!"
+    },
+    {
+      "id": "smalltalk_10616_3",
+      "desc": "Chatter #3",
+      "dlg": "There's a certain elegance to duels as a concept, don't you think? It is, in essence, a simple, no-holds-barred contest of martial arts meant to hurt each other... But we start it off with a polite bow, shake hands once we're done, and everything goes back to the way they used to be with no lingering ill will.\nWhat about Level 3 Duels, you ask? Well, those don't get called all that often anyway."
+    },
+    {
+      "id": "smalltalk_10616_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Please choose whichever weapon you prefer! I recommend going with something you're most familiar with. Ah, don't worry if you don't see your weapon of choice—just let us know what it is, and our Association will have one brought over in no time.\nJust be aware that requesting a weapon you think is impossible to procure is not a way out of the duel. Whichever type of weapon you choose, we'll be sure to get it for you."
+    },
+    {
+      "id": "smalltalk_10616_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Fuhu, there's no need to get so heated about losing a Level 2 Duel. Nowhere in its rules does it say that it has to be a fight to the death, does it? So why not just yield and make this easy for the both of us, and...\n... <size=75%>By the way, there's nothing stopping you from electing me as your revenge duel proxy right away—how's that for a plan? I'll even throw in a 50% discount on the contract fee, hehe.</size>"
+    },
+    {
+      "id": "neglect_10616_1",
+      "desc": "Idle",
+      "dlg": "Whoa, you <i>do</i> know that tossing that thing at me means a declaration of duel, don't you? Ahaha, just kidding."
+    },
+    {
+      "id": "gacksung_10616_1",
+      "desc": "Uptying",
+      "dlg": "Okay. Now, the Cinq will be taking over this duel. Hm... Why don't you yield? You might want to decide soon, because you're <i>this</i> close to catching fire, from the collar up."
+    },
+    {
+      "id": "formation_10616_1",
+      "desc": "Deployment",
+      "dlg": "Why, of course. You can count on me~"
+    },
+    {
+      "id": "battleentry_10616_1",
+      "desc": "Stage Entry",
+      "dlg": "Cinq Association East Section 3—Hong Lu."
+    },
+    {
+      "id": "battle_select_10616_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Oh, sorry. We're prohibited from overbooking commissions~"
+    },
+    {
+      "id": "battle_endcommand_10616_1",
+      "desc": "Commencing Attack",
+      "dlg": "I do hope you'll teach me a thing or two in this bout."
+    },
+    {
+      "id": "battle_enemy_break_10616_1",
+      "desc": "Enemy Stagger",
+      "dlg": "How about it? I think it's better you yield now..."
+    },
+    {
+      "id": "battle_break_10616_1",
+      "desc": "Staggered",
+      "dlg": "Aha~"
+    },
+    {
+      "id": "battle_kill_10616_1",
+      "desc": "Enemy Killed",
+      "dlg": "Oh... and after I went to the trouble of warning you."
+    },
+    {
+      "id": "battle_dead_10616_1",
+      "desc": "Death",
+      "dlg": "\"A true master seldom makes their arrival known,\" they say... How very true... that is..."
+    },
+    {
+      "id": "choice_success_p_10616_2",
+      "desc": "Check Passed",
+      "dlg": "There we are. It's open~"
+    },
+    {
+      "id": "choice_fail_n_10616_1",
+      "desc": "Check Failed",
+      "dlg": "Oh dear... I might've accidentally welded it shut..."
+    },
+    {
+      "id": "battle_clear_10616_1",
+      "desc": "Victory Cry",
+      "dlg": "Next time, please go through the official commissioning process if you wanna hire me as your proxy duelist. I prefer having a chance to look into my prospective opponents before a fight, you see...\nI didn't know how much restraint was needed today, and the opponents all perished before I could even persuade them to yield..."
+    },
+    {
+      "id": "battle_clear_ex_10616_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Done and done, resolved exactly as you requested! Here's your bill... Huh? You don't seem pleased... Is something the matter?\nLet's see... Rush fee, active duel intervention fee, off-duty commission fee... Yes, every surcharge has been billed appropriately, at a reasonable cap, too. There's nothing extra!"
+    },
+    {
+      "id": "battle_defeat_10616_1",
+      "desc": "Defeat Wail",
+      "dlg": "I'm sorry. I hadn't imagined the request could fail... Yes, of course. I'll cover the failure compensation in full. It's just that... I simply can't understand what a person of such skill is doing in a place like this... Oh, I... never mind what I said! "
+    }
+  ]
+}

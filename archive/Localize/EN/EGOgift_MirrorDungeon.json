@@ -2452,7 +2452,7 @@
     {
       "id": 19091,
       "name": "Bell of Truth+",
-      "desc": "Inflict 1 [Vulnerable] <style=\"upgradeHighlight\">this turn and next turn</style> to enemies affected by [Vibration] Burst. (Activates once per Attack Skill that triggers [VibrationExplosion])",
+      "desc": "Inflict 1 [Vulnerable] <style=\"upgradeHighlight\">this turn and next turn</style> to enemies affected by [VibrationExplosion]. (Activates once per Attack Skill that triggers [VibrationExplosion])",
       "simpleDesc": [
         {
           "abilityID": 19091,

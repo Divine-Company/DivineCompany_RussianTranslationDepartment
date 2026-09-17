@@ -1,0 +1,59 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "Explore 2F",
+      "description": "We've finally reached 2F. It's dark, drenched in red, and nothing about it feels right. Let's look around.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2002",
+      "title": "Head to 2F",
+      "description": "Flannel and Felt were thrilled by the weapon we brought them. They asked us to stop whatever the Rouges are doing in the Luxury Hall on 2F. I wonder if the renovation on 2F is over yet. Time to head back down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "Enter the Luxury Hall",
+      "description": "The slaughter on 2F is still going on. The Noir guarding the Luxury Hall saw our Golden Nail and let us through, asking us to destroy the false god the Rouges are creating inside. We need to check what's waiting beyond the entrance.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Enter the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2011",
+      "title": "Fend off the Rouge Onslaught",
+      "description": "We need to reach the area beyond the Tabernacle. Let's help the Noirs wipe out the Rouges, then take down the Le Rouge Brand Director guarding the way.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kill the Rouge Brand Director"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "Enter the Tabernacle",
+      "description": "We've wiped out the Rouges guarding the Luxury Hall. Let's follow Meursault beyond the Tabernacle.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Enter the Tabernacle"
+        }
+      ]
+    }
+  ]
+}

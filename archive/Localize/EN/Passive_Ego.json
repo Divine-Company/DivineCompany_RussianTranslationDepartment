@@ -240,7 +240,12 @@
     {
       "id": 2040511,
       "name": "Opened Can",
-      "desc": "On Hit, if target has 5+ [Sinking], inflict 1 [Disarming]. (5 times per turn)"
+      "desc": "On Hit, if target has 5+ [Sinking], inflict 1 [Disarming] (5 times per turn)"
+    },
+    {
+      "id": 2040512,
+      "name": "Opened Can",
+      "desc": "On Hit, if target has 5+ [Sinking], inflict 1 [Disarming] (5 times per turn)\n\n<style=\"highlight\">On Hit against an enemy in Staggered or Panic states, gain 1 [AttackUp] next turn (3 times per turn; in Focused Encounters, the Core)</style>"
     },
     {
       "id": 2060411,
@@ -265,7 +270,12 @@
     {
       "id": 2020511,
       "name": "Flamebrand",
-      "desc": "On Heads Hit with a Lust affinity Skill, inflict 1 [Combustion] on target (6 times per turn)"
+      "desc": "On Heads Hit using a Lust affinity Skill, inflict 1 [Combustion] on target (6 times per turn)"
+    },
+    {
+      "id": 2020512,
+      "name": "Flamebrand",
+      "desc": "On Heads Hit using a <style=\"highlight\">Wrath or</style> a Lust Skill, inflict 1 [Combustion] (6 times per turn)\n<style=\"highlight\">- If target has max [Combustion] Potency, inflict 1 [DefenseDown] instead\n\nOn Gluttony Base Skill Use, gain 1 Gluttony E.G.O resource (once per turn)</style>"
     },
     {
       "id": 2060511,
@@ -598,7 +608,13 @@
     {
       "id": 2100312,
       "name": "Stew Spewage",
-      "desc": "On Tails Hit, inflict 1 [Combustion] if target is an enemy\n\n<style=\"highlight\">When using Base Attack Skills that inflict [Combustion] Potency or Count against enemies,\n\n- For Plus Coin Skills:\n· At lower than 40 SP, heal 4 SP\n· At 40 or higher SP, deal +10% damage\n\n- For Minus Coin Skills:\n· At higher than -25 SP, lose 4 SP (this effect cannot reduce this unit's SP below -40)\n· At -25 or lower SP, deal +10% damage</style>"
+      "desc": "On Tails Hit, inflict 1 [Combustion] if target is an enemy\n\n<style=\"highlight\">When using Base Attack Skills that inflict [Combustion] Potency or Count against enemies,\n\n- For Plus Coin Skills:\n· At lower than 40 SP, heal 4 SP\n· At 40 or higher SP, deal +10% damage\n\n- For Minus Coin Skills:\n· At higher than -25 SP, lose 4 SP (this effect cannot reduce this unit's SP below -40)\n· At -25 or lower SP, deal +10% damage</style>",
+      "summary": "On Tails Hit, inflict [Combustion] on target. Heal or lose SP on self; or deal more damage"
+    },
+    {
+      "id": 2121011,
+      "name": "Processing Transfer Reg",
+      "desc": "At 3+ highest Reson.: On Hit using a Skill, inflict 1 [Binding] next turn on the main target (once per turn)\n\nAt 3+ [Charge] Potency, the following Base Skills deal +10% damage:\n- Base Skills that gain or consume [Charge] Count\n- Base Skills that inflict [Combustion] Potency or Count on the enemy"
     }
   ]
 }

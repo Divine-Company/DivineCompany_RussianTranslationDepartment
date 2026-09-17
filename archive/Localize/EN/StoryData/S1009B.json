@@ -1,0 +1,114 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Alteration Shop, 3F",
+      "content": "We emerged into a round room whose walls were lined with multicolored spools of thread and swaths of cut fabric. At the center stood a figure, her arms moving up and down as she stitched something together in a carefully regulated rhythm."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Um... Hello?"
+    },
+    {
+      "id": 2,
+      "model": "3층가위",
+      "teller": "???",
+      "title": "???",
+      "content": "Shoulder seams hanging a touch too low... hems of the arm a span too short. Much work to be done, this one. So, what would you like to have altered?"
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "We're not here to get anything altered, actually... We just heard scissors snipping and thought it might be worth checking out."
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "teller": "???",
+      "title": "???",
+      "content": "So you were lured in by the sound of severance. But you should have had no cause to seek me, if nothing about you needs mending."
+    },
+    {
+      "id": 5,
+      "model": "오티스",
+      "content": "... And you are?"
+    },
+    {
+      "id": 6,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "I am Annette, Alterationist. And you must be strangers."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "... This one doesn't call us \"customers.\""
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<Hm... Maybe she's different from other employees of the Grand Magasin?>"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "We are purchasing various articles of clothing in order to raise our spending tier. Do you have any clothes for sale?"
+    },
+    {
+      "id": 10,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "As you can see, this place you've stumbled into is quite unlike the other stores. This is not a place of exhibition, nor is it a place for finalized pieces."
+    },
+    {
+      "id": 11,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "This is simply where clothes are altered and what has frayed is patched up in silence."
+    },
+    {
+      "id": 12,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "That's not to say what I have here is impractical. Why not take with you some durable, fray-resistant fabric?"
+    },
+    {
+      "id": 13,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "It will keep you safe where form-fitting garments fail you. They're useful for offensive maneuvers, but... quite lacking when it comes to defense."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<These do look like quality fabric, but... she doesn't exactly have that big of a collection. And why's that pair of scissors so expensive?>"
+    },
+    {
+      "id": 15,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "Come see me if you need anything patched up. There is no fabric within Sisyphe that my fingers cannot weave."
+    },
+    {
+      "id": 16,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "You may have to get in line while I work on the Noirs' bulk fabric order..."
+    },
+    {
+      "id": 17,
+      "model": "3층가위",
+      "teller": "Annette",
+      "title": "Alterationist",
+      "content": "... but I don't mind handling an odd job here and there, should you have any."
+    }
+  ]
+}

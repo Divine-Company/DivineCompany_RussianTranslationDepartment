@@ -271,6 +271,14 @@
     {
       "id": "boss_raid_limited_coin_converted",
       "content": "With the end of the event period, {1} unused {0} has been converted to {3} {2}."
+    },
+    {
+      "id": "boss_raid_ui_max_level_adjusted",
+      "content": "Excess level has been adjusted to {0}."
+    },
+    {
+      "id": "boss_raid_ui_recommend_state_desc_with_max_level_adjust",
+      "content": "- Identities : Uptie <color=#ff0000>Tier {1}</color>, Level <color=#ff0000>{0}</color>\n(Max level <color=#ff0000>{2}</color>)\n- E.G.O : Threadspinning <color=#ff0000>Tier {1}</color>"
     }
   ]
 }

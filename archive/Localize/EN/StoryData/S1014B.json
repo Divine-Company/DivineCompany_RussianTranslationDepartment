@@ -1,0 +1,228 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Dyehouse, B2F",
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "You want to buy Golden Dye?"
+    },
+    {
+      "id": 1,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Your tier is... just above the cutoff line. Guess that's good enough."
+    },
+    {
+      "id": 2,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Here. Take a number."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "1217... What's this supposed to mean?"
+    },
+    {
+      "id": 4,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "It means there are 1,216 customers ahead of you. Be patient, and I'll be right with you. <i>Eventually.</i>"
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Ryōshū, wait! Don't S.H.N.C.!>"
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Ask her how long we're supposed to wait.>"
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "If our number is in the thousands, how long will the wait be?"
+    },
+    {
+      "id": 8,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Not as long as you'd think. Your number should come up after the season changes... about a hundred times?"
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Hm... We cannot wait that long. Is there anything we can do to convince you otherwise?"
+    },
+    {
+      "id": 10,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Nopers. You should've camped out in front of the Dyehouse or something if you wanted it that badly."
+    },
+    {
+      "id": 11,
+      "model": "퍼티",
+      "teller": "Putty",
+      "title": "Dyehouse",
+      "content": "......"
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "......"
+    },
+    {
+      "id": 13,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Putty! Big sis! I told you not to glare at customers like that."
+    },
+    {
+      "id": 14,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "These ones aren't even that obnoxious. Put your leg down."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Ryōshū, can you please stop mulling over where to cut her and help us think of another way to get the dye...?>"
+    },
+    {
+      "id": 16,
+      "content": "Ryōshū slowly removed her hand from the scabbard. \"Putty\" followed suit, lowering her pointed leg."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "*puff* What's there to think about?"
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Let's kill everyone ahead of us in line. There's a shortcut for you."
+    },
+    {
+      "id": 19,
+      "content": "The scabbard rattles as though it were shaking its head."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "... You're clearly looking for an excuse to start a bloodbath, as always. Why else would you suggest a massacre like that when it would be more efficient to kill whoever's first in line and take their numbered ticket?"
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "Heh. There's aesthetics to be enjoyed in irrationality."
+    },
+    {
+      "id": 22,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "... Or just buy the dye from whoever's first in line...?"
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<... Agreed. Meursault, ask who has the earliest number.>"
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "I wish to know the identity of the individual with the earliest number."
+    },
+    {
+      "id": 25,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Naked of Le Noir. One of the people who came down early and camped out before opening."
+    },
+    {
+      "id": 26,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "We're almost done filling up a bucket of dye with the Golden Pus dripping from the Golden Resin. He's probably waiting in the corridor to pick it up."
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "Under current operational conditions, purchasing the Golden Dye from this... \"Naked\" individual should be the most efficient course of action."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<I don't think the eyeballs we have will come anywhere close...>"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Should our funds prove insufficient, an item of commensurate value may be offered in exchange."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<... Let's check what we have with us at the moment.>"
+    },
+    {
+      "id": 31,
+      "content": "Meursault laid out, one by one, every item we have purchased or obtained thus far."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "... A considerable assortment."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Would selling all of this cover the cost of the Golden Dye?"
+    },
+    {
+      "id": 34,
+      "model": "B2층염색실주인",
+      "teller": "Palette",
+      "title": "Dyehouse",
+      "content": "Not even close. Maybe if you found a real sucker and fleeced them for every last eyeball."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<That's a problem... Should we go back to 3F and ask for more eyeballs?>"
+    },
+    {
+      "id": 36,
+      "model": "오티스",
+      "content": "It is unlikely they'll be willing to make another significant expenditure when they've already given us quite the stipend."
+    },
+    {
+      "id": 37,
+      "model": "오티스",
+      "content": "However, if that is your wish, Executive Manager, I, Outis, shall deploy the peerless negotiation techniques I have sharpened through years of service and field-requisition every last eyeball they possess."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Th-that won't be necessary. Naked is a member of Le Noir... Maybe he'll lower the price if we show him the Authenticity Certificate.>"
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<Let's find Naked and hear what he has to say. If he's Le Noir, his clothes should make him easy to spot.>"
+    }
+  ]
+}

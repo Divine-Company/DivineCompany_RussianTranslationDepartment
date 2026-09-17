@@ -1,0 +1,210 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생 처리용 숨겨진 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1011",
+      "title": "Explore the Surroundings",
+      "description": "We've arrived at a place called Grand Magasin Sisyphe. Where could Meursault be...? Let's first look around and get our bearings.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore the Surroundings"
+        }
+      ]
+    },
+    {
+      "key": "Q1012",
+      "title": "Return to the Restroom",
+      "description": "We ran into Kromer's older sister at Grand Magasin Sisyphe. We should return to the restroom and regroup first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to the Restroom"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "In Search of Meursault",
+      "description": "Meursault seems to be somewhere in the department store. We saw carpeting on the floor, with clothes displayed in the front. We should explore the department store and find the place where clothes are on display.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1014",
+      "title": "???",
+      "description": "It seems something is hidden here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "In Search of Meursault (2)",
+      "description": "Meursault seems to be somewhere nearby. We should look for him.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Locate Meursault"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "Meursault's Suggestion",
+      "description": "Decide whether to accept Meursault's suggestion.\n→ Accepting begins the hunting quest; if deferred, this quest can be received again from the Casualwear Hall employee.",
+      "steps": [
+        {
+          "index": 0
+        },
+        {
+          "index": 1
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "Show the Mannequins to the Exit",
+      "description": "To get Meursault back, we need to \"help the Mannequins to the exit\"—three of them, in total. Kill them and report back to Mimosa, who seems to be the proprietor of the store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Help the Mannequins \"to the Exit\""
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Return to Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "Explore Grand Magasin Sisyphe",
+      "description": "Meursault explained what he knows about Grand Magasin Sisyphe. I didn't follow all of it, but one thing is clear: there doesn't seem to be a normal way out. Let's keep exploring.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1032",
+      "title": "Explore Grand Magasin Sisyphe (2)",
+      "description": "We met a guy named Dubois. Like us, he doesn't seem to have been here long. Let's keep searching the department store for a way upstairs.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1041",
+      "title": "Browse the Clothing Display",
+      "description": "We've reached a Contemporary Hall. The employee doesn't seem interested in talking. We may as well look through the clothes on display.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Browse the Clothes"
+        }
+      ]
+    },
+    {
+      "key": "Q1042",
+      "title": "Fend off the Hostile Noir Employee",
+      "description": "",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1051",
+      "title": "Head to the Rouges' Store",
+      "description": "A Noir employee told us about Golden Resin. Next, let's check Le Rouge's Contemporary store on the upper side.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Go to Le Rouge's Contemporary Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1052",
+      "title": "Find a Huge Needle",
+      "description": "Quillian at Le Rouge's Contemporary Store asked us to bring back a huge needle. Find the Mannequin carrying it, take the needle, and return to Quillian.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Retrieve the Huge Needle and Return to Quillian"
+        }
+      ]
+    },
+    {
+      "key": "Q1061",
+      "title": "Go Shopping for Clothes",
+      "description": "We need to build up a purchase record before we can access the upper floor. Buy some clothes from Quillian, then keep looking for a way upstairs.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Buy Clothes from Quillian"
+        }
+      ]
+    },
+    {
+      "key": "Q1062",
+      "title": "To the Escalator",
+      "description": "We've found an escalator leading to the next floor. Dubois is here too. Let's talk to him before heading up.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to Dubois"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "Take the Escalator",
+      "description": "The escalator is working. We should finally be able to reach 2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Take the Escalator to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1018",
+      "title": "???",
+      "description": "(히든) 못 획득 시 대화",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "미사용"
+    }
+  ]
+}

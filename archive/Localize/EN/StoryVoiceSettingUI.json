@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "select_all",
+      "content": "Select All"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Deselect All"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "Select the Voice files you want to keep on your device."
+    },
+    {
+      "id": "story_voice_process_confirm_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_process_confirm_main_title",
+      "content": "Applying the following changes to your local voice files.\nWould you like to continue?"
+    },
+    {
+      "id": "story_voice_process_confirm_line",
+      "content": "[{0}] {1} - {2}"
+    },
+    {
+      "id": "story_voice_process_delete_label",
+      "content": "Delete"
+    },
+    {
+      "id": "story_voice_process_download_label",
+      "content": "Download"
+    },
+    {
+      "id": "story_voice_process_progress_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_process_progress_desc",
+      "content": "Processing voice file storage..."
+    },
+    {
+      "id": "story_voice_process_applying_label",
+      "content": "Applying..."
+    },
+    {
+      "id": "story_voice_process_complete_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_process_complete_desc",
+      "content": "Voice files for the selected Chapters have been adjusted."
+    },
+    {
+      "id": "story_voice_process_progress_count",
+      "content": "{0}/{1}"
+    }
+  ]
+}
