@@ -82,7 +82,7 @@
     },
     {
       "key": "rpg_quest_tag_shop",
-      "text": "Shop"
+      "text": "Магазин"
     },
     {
       "key": "rpg_quest_tag_move",
@@ -90,23 +90,23 @@
     },
     {
       "key": "Common_Ok",
-      "text": "Confirm"
+      "text": "Подтвердить"
     },
     {
       "key": "Quest_Tag_Progress",
-      "text": "Progress"
+      "text": "Прогресс"
     },
     {
       "key": "Quest_Tag_Reward",
-      "text": "Reward"
+      "text": "Награда"
     },
     {
       "key": "Shop_Title",
-      "text": "Shop"
+      "text": "Магазин"
     },
     {
       "key": "Shop_Category_All",
-      "text": "All"
+      "text": "Всё"
     },
     {
       "key": "Shop_Category_Artifact",
@@ -114,11 +114,11 @@
     },
     {
       "key": "Shop_Category_Etc",
-      "text": "Other"
+      "text": "Другое"
     },
     {
       "key": "Shop_Button_Buy",
-      "text": "Purchase"
+      "text": "Приобрести"
     },
     {
       "key": "Shop_SelectedItem_None",
@@ -422,7 +422,7 @@
     },
     {
       "key": "Setting_Sisyphus_DialogueSkip",
-      "text": "Skip dialogue"
+      "text": "Пропустить диалог"
     },
     {
       "key": "Setting_Sisyphus_FullLog",

@@ -427,37 +427,37 @@
     },
     {
       "key": "I990008",
-      "displayName": "Yi Sang",
+      "displayName": "Ли Сан",
       "statText": "<color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, upon landing an attack, target's <color=#fe4b48>Damage</color> Dealt -1 for 5 seconds (10 seconds cooldown)",
       "description": "Symbol of Wings. To become free."
     },
     {
       "key": "I990009",
-      "displayName": "Faust",
+      "displayName": "Фауст",
       "statText": "In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +2",
       "description": "Symbol of Knowledge. To become clever."
     },
     {
       "key": "I990010",
-      "displayName": "Don Quixote",
+      "displayName": "Дон Кихот",
       "statText": "In the Symbolic, <color=#00ff9c>heals</color> 5% Symbolic <color=#00ff9c>HP</color> upon killing an enemy (10 seconds cooldown)",
       "description": "Symbol of Action. To become vigorous."
     },
     {
       "key": "I990011",
-      "displayName": "Ryōshū",
+      "displayName": "Рёсю",
       "statText": "In the Symbolic, 20% chance to inflict 1 <color=#F8C200>Fragile Mark</color> upon landing an attack\n(<color=#F8C200>Fragile Mark</color>: <color=#fe4b48>Damage</color> Taken +10%)",
       "description": "Symbol of Affection and Resentment. To <s>sever</s> twine."
     },
     {
       "key": "I990012",
-      "displayName": "Hong Lu",
+      "displayName": "Хун Лу",
       "statText": "Upon entering battle in the Shadowed via Meursault's Attack, all allies on the field <color=#F8C200>heal 5~10 SP</color>",
       "description": "Symbol of Insight. To watch."
     },
     {
       "key": "I990013",
-      "displayName": "Heathcliff",
+      "displayName": "Хитклиф",
       "statText": "<color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, Attack <color=#fe4b48>Damage</color> Dealt +2 for 20 seconds upon killing an enemy (30 seconds cooldown)",
       "description": "Symbol of the Storm. To remember !@#!$."
     },
@@ -475,19 +475,19 @@
     },
     {
       "key": "I990016",
-      "displayName": "Sinclair",
+      "displayName": "Синклер",
       "statText": "In the Symbolic:\n- <color=#fe4b48>Damage</color> Dealt +2 against enemies in the front\n- <color=#fe4b48>Damage</color> Taken -2 from enemies behind",
       "description": "Symbol of Awakening. To awaken."
     },
     {
       "key": "I990017",
-      "displayName": "Outis",
+      "displayName": "Утис",
       "statText": "If the target has lower than 50% Symbolic <color=#00ff9c>HP</color>, <color=#fe4b48>Damage</color> Dealt +1",
       "description": "Symbol of Guile. To wander."
     },
     {
       "key": "I990018",
-      "displayName": "Gregor",
+      "displayName": "Грегор",
       "statText": "At lower than 25% Symbolic HP, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and <color=#fe4b48>Damage</color> Taken -20% for the next 10 seconds (19 seconds cooldown)",
       "description": "Symbol of Metamorphosis. To consume."
     },
