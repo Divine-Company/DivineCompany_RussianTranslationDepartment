@@ -1,0 +1,137 @@
+{
+  "dataList": [
+    {
+      "id": 971115,
+      "name": "Le Rouge Casualwear Hall, 1F",
+      "desc": "\"Damn it! The trend's changed again!\"\n\nA Rouge sales associate scans a list, yanking clothes from the racks and flinging them onto the floor one after another.\n\n\"Fluorescent plaid only just went out. Now it's polka dots? Hah!\"\n\nLooks like they have no use for any of those clothes now... Maybe we can take them off their hands?",
+      "options": [
+        {
+          "message": "Ask if we can have the out-of-fashion clothes.",
+          "messageDesc": "Lust & Gluttony Advantage check. Pass to gain a Keywordless E.G.O Gift (failing begins a combat Encounter)",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ignore them.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "Funny. Now that we know they've gone out of fashion, the clothes that looked perfectly fine a moment ago suddenly seem a little tacky.\n\nProbably not worth taking after all."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971116,
+      "name": "Sous Chef",
+      "desc": "\"Come try this season's Meat Soda, you hear?\"\n\nSous Chef stops us beside a fountain bubbling with soda.\n\n\"Camemblack Scabbardfish... fresh larva, even a fisherman's chair... *slurp* I infused it with all kinds of rarity-rare ingredients, you hear?\"\n\n\"First time? Then it's just 3 eyeballs a cup, you hear? It's crazy value, you hear? Special discount, you hear? Once-in-a-lifetime deal, you hear?\"\n\nThat is indeed cheaper than expected... Should we try it?",
+      "options": [
+        {
+          "message": "Ask for a cup of soda.",
+          "messageDesc": "Lust & Gluttony Advantage check. Pass to gain a Keywordless E.G.O Gift",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Still, that looks a little... hard to stomach.",
+          "messageDesc": "All allies lose HP",
+          "result": [
+            "\"You can't just turn down the Meat Soda I worked so hard to make, you hear?!\"\n\nSous Chef grabs a pair of crude cleavers in both of her hands and starts swinging wildly.\n\n\"Looks like I'll have to infuse the flavors into you, you hear? You'll be my next ingredient, you hear?!\"\n\nWe make a run for it, but there was no escaping that tiny whirlwind of cleaver blades unscathed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971117,
+      "name": "Le Noir, 3F",
+      "desc": "\"Interested in this season's new arrivals?\"\n\nWe were browsing the Maison du Noir when a group of sales associates wrapped head to toe in black fabric approached us.\n\n\"You have an eye for quality. This one here—the balance of warp and weft is exquisite.\"\n\n\"A dense weave, yet not a trace of stiffness. It brings out the softness of the fabric beautifully.\"\n\n\"32 stitches to the inch. You could roll across the basement floors and still not wear it through. That ruggedness is woven into the spirit of our signature style.\"\n\n\"Those crude slabs of flesh the Le Rouges stitch together cannot possibly compare to this masterpiece.\"\n\n\"Well? Are you going to make the purchase?\"",
+      "options": [
+        {
+          "message": "Try bargaining by appealing to Le Noir's aesthetic despite our empty eyeball wallet.",
+          "messageDesc": "Sloth & Envy Advantage check. Pass to gain a Tremor E.G.O Gift",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Tell them we don't have any eyeballs.",
+          "messageDesc": "All allies lose SP",
+          "result": [
+            "\"Hm... no eyeballs?\"\n\nThe Le Noir sales associate barely glances at the coins we offer.\n\n\"What is this, child's play? Some juvenile toy you're seen fit to carry around?\"\n\n\"You are clearly not the sort of clientele the Maison du Noir should be catering to.\"\n\n\"You wasted enough of my time. The exit is that way.\""
+          ]
+        },
+        {
+          "message": "Boutique du Rouge's lineup looks more stylish, though...?",
+          "messageDesc": "Lust & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971118,
+      "name": "One-leg, Four-legs",
+      "desc": "As we enter Le Noir's Footwear Hall, we find One-leg tearing Four-legs a new one.\n\n\"You vile, lowly little thing. The vulgar sound of your appendages clopping against the floor revolts me. The worst part is how disgustingly close together they are.\"\n\n\"Please forgive me... One-leg...\"\n\n\"Quiet. Dragging around all those useless legs was bad enough. Now you're cluttering my ears with useless words too, you hideous thing.\"\n\n\"......\"\n\n\"No excuses this time? Hah! I'd rather hire those Le Rouge wretches next door. Down on their luck, but still better than your kind.\"\n\n\"Between the two of them, they'd have the same number of legs scraping the floor and still get twice as much work done as you!\"\n\nFour-leg trembles in fear under the relentless abuse.\n\n\"S-such cruel treatment, forsooth...\"\n\n\"Bloody hell, I'm gettin' pissed off just listening to this...\"\n\n... This is getting hard to watch.\n\nWhat should we do?\"",
+      "options": [
+        {
+          "message": "Stand up for Four-legs.",
+          "messageDesc": "Sloth & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ignore the situation and move on.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "Getting involved would probably keep us here for quite a while.\n\nWe slip past without drawing either of their attention.\n\nEven as we leave, One-leg's berating shows no sign of stopping."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971119,
+      "name": "Palette and Putty",
+      "desc": "Fluorescent dyes in every color stream down into vats around the room.\n\nBetween them, Palette sweeps the floor with her fluffy hair while checking Putty's legs from every angle.\n\n\"You've got dye residue gunking your knee joints. This must've been really uncomfortable, Big Sis.\"\n\n\"......\"\n\n\"I can't even scrape it off... It's already seeped into the gaps and hardened. I think we'll have to replace the whole thing.\"\n\n\"Hey, you there. Got a minute?\"\n\n\"Could you grab a new knee for my sister from the storeroom in the back? I'd go myself, but I'm right in the middle of dyeing. Can't leave it unattended.\"",
+      "options": [
+        {
+          "message": "Offer to go get it.",
+          "messageDesc": "Envy Advantage check. Pass to gain a Charge E.G.O Gift (failing begins a combat Encounter)",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Tell her we're busy too.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"... Yeah. I guess there aren't many customers around here with time to spare to help someone else.\"\n\n\"Putty, Big Sis, let's go replace it together once we're done with this batch.\"\n\n\"......\"\n\nWe leave the two behind, the faint creak of Putty's joints echoing in the corridor."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971120,
+      "name": "Annette",
+      "desc": "\"Shoulder seams hanging a touch too low... hems of the arm a span too short. Much work to be done, this one. So, what would you like to have altere—Aha. You came to <i>snip-snip.</i>\"\n\nThe Alterationist looks up from the fabric she is cutting in the middle of the room.\n\n\"Need to borrow scissors to cut something away?\"\n\n\"Hm... Then in return, mind if I split open and dig around in one of your heads a little bit?\"",
+      "options": [
+        {
+          "message": "Accept.",
+          "messageDesc": "Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Refuse.",
+          "messageDesc": "No particular effect",
+          "result": [
+            "\"Too bad. Then I can't give them to you.\"\n\nThe Alterationist immediately turns back to her work. It does not look like she's going to answer us again."
+          ]
+        }
+      ]
+    }
+  ]
+}

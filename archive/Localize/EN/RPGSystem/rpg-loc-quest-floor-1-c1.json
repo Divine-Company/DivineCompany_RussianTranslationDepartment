@@ -1,0 +1,103 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생용 숨김 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1011",
+      "title": "Accept the Inevitabilities of the Beauty Hall",
+      "description": "The end refused to change. I don't know what else we can do at this moment, but I decided to leave the restroom. \nFirst things first: process the inevitable and find Meursault.",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1012",
+      "title": "일행 합류",
+      "description": "크로머 조우 컷씬",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "크로머와의 조우"
+        }
+      ]
+    },
+    {
+      "key": "Q1014",
+      "title": "???",
+      "description": "It seems something is hidden here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1015",
+      "title": "???",
+      "description": "It seems something is hidden here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1016",
+      "title": "???",
+      "description": "It seems something is hidden here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1017",
+      "title": "???",
+      "description": "It seems something is hidden here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "To 2F",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Arrived at 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1018",
+      "title": "???",
+      "description": "(히든) 못 획득 시 대화",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작"
+    }
+  ]
+}

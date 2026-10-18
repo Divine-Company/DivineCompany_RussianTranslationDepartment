@@ -1,0 +1,110 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생용 숨김 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "Return to the Restroom"
+    },
+    {
+      "key": "Q1011",
+      "title": "Explore the Department Store",
+      "description": "Something's off. We're back in the restroom, but everyone is acting like they don't remember a thing, and Meursault is nowhere to be seen. This couldn't all have been a dream. Let's look around the department store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "Head to the Casualwear Hall",
+      "description": "At least it doesn't seem like it was all a dream. For now, let's keep moving and focus on finding Meursault. He may be back at the same store as last time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Casualwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "Find Meursault",
+      "description": "Meursault should be somewhere nearby. Find him and talk to him.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to Meursault"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "Show the Mannequins to the Exit",
+      "description": "If we want to take Meursault with us, we'll have to do Mimosa a favor first. Let's make quick work of the Mannequins and get out of here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Go Find the Mannequins"
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "Show the Mannequins to the Exit (2)",
+      "description": "There's no need to drag this conversation out any longer. Let's clear out the Mannequins and move on.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Help the Mannequins \"to the Exit\""
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Return to Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "Leave 1F",
+      "description": "Things are already going better than last time. If we're going to get a different outcome, we need to keep moving. First priority: get off 1F. We should leave the Casualwear Hall and head for the next store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Leave the Casualwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "Take the Escalator to 2F",
+      "description": "We ran into Dubois, who spoke to us last time as well. There's no time for a long conversation, though. Let's head straight to the next floor.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Take the Escalator to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1012S",
+      "title": "(내부) 1층 손님 자리 교대 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "크로머 조우 (내부 신호)"
+        }
+      ]
+    }
+  ]
+}

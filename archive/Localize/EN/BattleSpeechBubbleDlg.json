@@ -3789,6 +3789,231 @@
       "id": "battle_special_10816_2",
       "desc": "우화 상태 진입",
       "dlg": "I slough off the lies someone has draped over me... And embrace my true self!"
+    },
+    {
+      "id": "battle_s3_10315_1_1",
+      "desc": "",
+      "dlg": "Standeth the nail..."
+    },
+    {
+      "id": "battle_s3_10315_1_3",
+      "desc": "",
+      "dlg": "... and hammer smiteth down!"
+    },
+    {
+      "id": "battle_special_10315_1_1",
+      "desc": "",
+      "dlg": "Radiance!"
+    },
+    {
+      "id": "battle_special_10315_1_2",
+      "desc": "",
+      "dlg": "Judgment!"
+    },
+    {
+      "id": "battle_special_10315_2_1",
+      "desc": "",
+      "dlg": "Boundless is the weight of thy sins..."
+    },
+    {
+      "id": "battle_special_10315_2_1-02",
+      "desc": "",
+      "dlg": "... Divine punishment shall smite thee!"
+    },
+    {
+      "id": "battle_special_10315_2_2",
+      "desc": "",
+      "dlg": "With each smite I shall fracture thy life..."
+    },
+    {
+      "id": "battle_special_10315_2_2-02",
+      "desc": "",
+      "dlg": "... and in the end, shatter it!"
+    },
+    {
+      "id": "battle_special_10315_3",
+      "desc": "",
+      "dlg": "The promised respite."
+    },
+    {
+      "id": "battle_special_10315_4",
+      "desc": "",
+      "dlg": "Behold, I proclaim this land a hallowed sanctum. Radiant shall it shine."
+    },
+    {
+      "id": "battle_special_10315_8",
+      "desc": "",
+      "dlg": "Act ye as order commandeth."
+    },
+    {
+      "id": "battle_s2_11016_1_b",
+      "desc": "아군에게 2번 스킬 사용",
+      "dlg": "Lemme help."
+    },
+    {
+      "id": "battle_s3_11016_1_1",
+      "desc": "3번 스킬 사용",
+      "dlg": "Never stop walking."
+    },
+    {
+      "id": "battle_s3_11016_1_2",
+      "desc": "3번 스킬 사용",
+      "dlg": "Further..."
+    },
+    {
+      "id": "battle_s3_11016_1_3",
+      "desc": "3번 스킬 사용",
+      "dlg": "Further still!"
+    },
+    {
+      "id": "battle_special_11016_1_a",
+      "desc": "양극성 - 아군 선택 시",
+      "dlg": "Don't get hurt."
+    },
+    {
+      "id": "battle_special_11016_1_b",
+      "desc": "양극성 - 아군 선택 시",
+      "dlg": "You'll be all right."
+    },
+    {
+      "id": "battle_special_11016_2_a",
+      "desc": "1코인 추가공격",
+      "dlg": "Pique."
+    },
+    {
+      "id": "battle_special_11016_2_b",
+      "desc": "1코인 추가공격",
+      "dlg": "Return to dirt."
+    },
+    {
+      "id": "battle_special_11016_3",
+      "desc": "아군 흐트 해제",
+      "dlg": "Let your being never set."
+    },
+    {
+      "id": "battle_special_11016_4_a",
+      "desc": "원호 방어 요청",
+      "dlg": "I don't want to hurt."
+    },
+    {
+      "id": "battle_special_11016_4_b",
+      "desc": "원호 방어 요청",
+      "dlg": "... Can you protect me, please?"
+    },
+    {
+      "id": "battle_special_11016_5",
+      "desc": "스테이지 시작시 르루즈 인격이 있다면",
+      "dlg": "Why... are you all so happy to see me exist? I haven't even done anything..."
+    },
+    {
+      "id": "battle_special_11016_6",
+      "desc": "르누돈키와 인격 편성후 턴 시작 시",
+      "dlg": "... If you think I'm so disgusting, why are you helping me now? Did the Obsidian God tell you to? Or..."
+    },
+    {
+      "id": "battle_special_11016_7",
+      "desc": "이스터에그-붉은신 미생",
+      "dlg": "... A being, a life, a Voice that does not yet know pain. ... I will sever it here."
+    },
+    {
+      "id": "battle_special_11016_8",
+      "desc": "이스터에그-뷔페",
+      "dlg": "Though their appearance hasn't become monstrous, their essence has failed to change..."
+    },
+    {
+      "id": "battle_s2_11016_2_1",
+      "desc": "2-2번 스킬(죄) 사용 - 1타",
+      "dlg": "Accord!"
+    },
+    {
+      "id": "battle_s2_11016_2_4",
+      "desc": "2-2번 스킬(죄) 사용 - 3타",
+      "dlg": "Pour forth!"
+    },
+    {
+      "id": "battle_s3_11016_2_1",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "I shall devour the insatiability itself, this very want...!"
+    },
+    {
+      "id": "battle_s3_11016_2_2",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... and bring the Rouges..."
+    },
+    {
+      "id": "battle_s3_11016_2_3",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... to fullness!"
+    },
+    {
+      "id": "battle_s3_11016_2_1-01",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "I shall gorge upon this hollowness...!"
+    },
+    {
+      "id": "battle_s3_11016_2_2-01",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... and..."
+    },
+    {
+      "id": "battle_s3_11016_2_3-01",
+      "desc": "3-3번 스킬(죄) 사용",
+      "dlg": "... fill all that exists!"
+    },
+    {
+      "id": "battle_special_11016_9",
+      "desc": "라브젝트 5스택 이후, 2코인 추가공격",
+      "dlg": "Tear them apart! Devour!"
+    },
+    {
+      "id": "battle_special_11016_9_b_2",
+      "desc": "라브젝트 5스택 이후, 2코인 추가공격",
+      "dlg": "Let us feast!"
+    },
+    {
+      "id": "battle_special_11016_10_a",
+      "desc": "5코인 강화 3스",
+      "dlg": "Existence... Nature... Hunger... If none shall answer my questions, I shall devour the very curiosity itself!"
+    },
+    {
+      "id": "battle_special_11016_10_b",
+      "desc": "5코인 강화 3스",
+      "dlg": "Expectation and wishes comprise me... Very well, I shall answer! Revel in the pleasures of life to its fullest extent!"
+    },
+    {
+      "id": "battle_special_11016_11",
+      "desc": "원호 방어 요청",
+      "dlg": "Bring it before me."
+    },
+    {
+      "id": "battle_special_11016_12_a",
+      "desc": "턴 시작 시 미숙에서 완숙으로 변신",
+      "dlg": "Fill yourselves until even the will to move forward is pushed out of your hearts."
+    },
+    {
+      "id": "battle_special_11016_12_b",
+      "desc": "턴 시작 시 미숙에서 완숙으로 변신",
+      "dlg": "I have... matured. Thus, you need not lie in waiting any longer."
+    },
+    {
+      "id": "battle_special_11016_13",
+      "desc": "변신 후 다음턴에 만찬 전개",
+      "dlg": "I summon forth the unparalleled feast of ceaseless gorging."
+    },
+    {
+      "id": "battle_special_10315_7",
+      "desc": "",
+      "dlg": "Mm... Thoroughly unpleasant this may be, yet it must be observed. O profane one, I shall stay thy judgment for the present."
+    },
+    {
+      "id": "battle_special_11016_14_a",
+      "desc": "르루즈 이스마엘 강화",
+      "dlg": "If clothes are lies, then I am naked. Come to the truth as you find it."
+    },
+    {
+      "id": "battle_special_11016_14_b",
+      "desc": "르루즈 이스마엘 강화",
+      "dlg": "Undressing. A rebirth most true."
     }
   ]
 }

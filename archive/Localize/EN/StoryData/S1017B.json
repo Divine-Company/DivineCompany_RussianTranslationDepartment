@@ -1,0 +1,443 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "My vision cleared up once I pressed the button."
+    },
+    {
+      "id": 1,
+      "content": "I feel the sensation of striking a hard floor, but the rattling aches pass before long. Cold water swallows my body in its tides and drags it under."
+    },
+    {
+      "id": 2,
+      "content": "Soon, the water fills my lungs. I can't breathe."
+    },
+    {
+      "id": 3,
+      "content": "Through my blurred vision, I see rippling water and cresting white foam. Sunshine pours down over the scenery beyond."
+    },
+    {
+      "id": 4,
+      "content": "It isn't long before the pressure crushing my chest disappears. The water that surrounds me feels like a warm embrace."
+    },
+    {
+      "id": 5,
+      "content": "Thoughts I normally would never entertain spring uncontrollably, flooding my mind."
+    },
+    {
+      "id": 6,
+      "content": "I can feel my nerves pulsating."
+    },
+    {
+      "id": 7,
+      "content": "I feel as though this head, attached to me but not really mine, is going to be submerged underwater forever."
+    },
+    {
+      "id": 8,
+      "content": "Is it comfort that washes over me...? Or is it..."
+    },
+    {
+      "id": 9,
+      "content": "<color=#916e46>We extend our warmest welcome to the valued guests of Grand Magasin Sisyphe visiting today.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#916e46>Grand Magasin Sisyphe is ever committed to cherishing every experience our customers procure within.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#916e46>To keep abreast of the latest fashions, we actively encourage the wide variety of shops available at the department store to open and close according to trends. Please take care not to lose your way as you explore the establishment.</color>"
+    },
+    {
+      "id": 12,
+      "content": "<color=#916e46>As always, restrooms on every floor are currently under repair. Please take note of this when planning your visit. We apologize for the inconvenience.</color>"
+    },
+    {
+      "id": 13,
+      "content": "<color=#916e46>To prevent hygiene issues, entry to each floor will be limited to customers who have achieved the required Prestige Tier. Please visit our Customer Service Center on the sixth floor for any further queries.</color>"
+    },
+    {
+      "id": 14,
+      "content": "<color=#916e46>Customers are welcome to make physical contact with all Mannequins on display. Conversely, Mannequins are also allowed to make physical contact with all customers. Should you wish to participate, please talk to the sales associate at the relevant shop, who will be delighted to assist you.</color>"
+    },
+    {
+      "id": 15,
+      "content": "<color=#916e46>We ask everyone to do their best to ensure another day of worthwhile consumer experience for our customers. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>"
+    },
+    {
+      "id": 16,
+      "place": "The Fount, 1F",
+      "model": "이상",
+      "content": "What we experienced just now..."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "I just know it's something I never want to go through again... I mean, I've been killed in a variety of different ways on this team, but to be forced to face death when it wasn't even a combat situation... And on top of that, having to feel the sensation of <i>doing it myself</i> is just... a big no."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "Can't believe residents in N Corp. pay <i>money</i> to purchase that nasty experience. You couldn't pay me to go through that twice."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "To package the very severing of life as amusement, then sell it as a product..."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "Though conquering boredom is, forsooth, no simple feat, this is... hmm..."
+    },
+    {
+      "id": 22,
+      "model": "홍루",
+      "content": "It felt more real than I imagined."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "I knew it was all taking place within a machine... Yet in that moment, I truly felt as though... I were witnessing the final moments of my life."
+    },
+    {
+      "id": 24,
+      "model": "로쟈",
+      "content": "When the noose tightened, I thought my neck was gonna snap..."
+    },
+    {
+      "id": 25,
+      "model": "로쟈",
+      "content": "I'm with Ishy... People actually pay <i>money</i> to put themselves through this?"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "There are those who, with no real purpose in mind, tie themselves to a cord and leap from great heights, or surrender themselves to violent waves to see whether or not they will be swept under."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "It is said that people come to feel the sensation of being alive more keenly via experiences that bring them infinitely close to death."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "... So ya sayin' they do it on purpose?"
+    },
+    {
+      "id": 29,
+      "model": "로쟈",
+      "content": "Distasteful."
+    },
+    {
+      "id": 30,
+      "content": "Wait, I've... I've heard this exact conversation before."
+    },
+    {
+      "id": 31,
+      "content": "When... where did I hear this conversation before...? My brain feels like a chaotic scramble of disconnected information—I feel it's going to take a while to get it all in order."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<This is... the Fount...>"
+    },
+    {
+      "id": 33,
+      "model": "로쟈",
+      "content": "Wha? The Fount? We're obviously in a—"
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "... It's a restroom."
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "content": "Verily, 'tis a privy!"
+    },
+    {
+      "id": 36,
+      "model": "이상",
+      "content": "A place where one's innermost troubles may be emptied."
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "We went through all that shite in that bloody machine... just to get to a toilet?"
+    },
+    {
+      "id": 38,
+      "model": "홍루",
+      "content": "It's true Nelly's lies did put us in danger before, but it didn't appear to me that she was trying to harm or deceive us this time around..."
+    },
+    {
+      "id": 39,
+      "model": "로쟈",
+      "content": "Fau. The machine we triggered... was it some kind of teleporter?"
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "The verdict would differ depending on our interpretation of the experience, but it is certain that our bodies were not physically sent to this place. That shouldn't be an issue, however, as this is indeed the destination we were bound for, which we have reached successfully."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "content": "So... where the heck are we? Where do we go to find Meur?"
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<What are you talking about? Meursault's right there in his usual spot, by the exit—>"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Huh...?>"
+    },
+    {
+      "id": 44,
+      "content": "I turned toward the exit point to where Meursault... used to be, and realized that he wasn't there. I looked around the restroom, searching for his whereabouts, but I couldn't see him anywhere."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "What are <i>you</i> talking about, Dante? The whole reason we're here is to find Meursault, remember?"
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "... Oi, the Suicide Vending Machine must've knocked a gear off the Clock or somethin'. They're out of it."
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<No, <i>what</i> are </i>you guys</i> talking about?! We failed. Doomed to forever—>"
+    },
+    {
+      "id": 48,
+      "content": "I turned to Faust, someone I could almost always trust to be in the know..."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Faust!>"
+    },
+    {
+      "id": 50,
+      "model": "파우스트",
+      "content": "... Ah. If... if that is the case..."
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "... then I'd better speak as little as possible on this matter."
+    },
+    {
+      "id": 52,
+      "content": "... but she simply looked away from me—a clear sign that she wasn't willing to divulge anything."
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "Clock."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<Am I the only one who remembers this? We already... we were there for the end of the Grand Magasin... We...>"
+    },
+    {
+      "id": 55,
+      "model": "료슈9장",
+      "content": "Déjà vu... I've been here before. Witnessed something before returning... or <i>being rewound</i>, I suppose."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 57,
+      "model": "료슈2",
+      "content": "So calm down, C.H."
+    },
+    {
+      "id": 58,
+      "content": "Arayashiki vibrates, letting out a light hum as though in agreement."
+    },
+    {
+      "id": 59,
+      "model": "히스클리프",
+      "content": "... Hang on, hang on. I ain't so sure if they're okay to move on. Even that fire on their noggin feels a bit hotter, I think..."
+    },
+    {
+      "id": 60,
+      "model": "료슈",
+      "content": "Who knows. Must be M.P. or something."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "\"Must be memory poisoning or something\"...? Like food poisoning? What does that even..."
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Ohh, maybe that's why Dante hallucinated Meursault by the exit. That explains the random stuff they said about the Grand Magasin—they were probably bombarded by Meur's memories on the way here!"
+    },
+    {
+      "id": 63,
+      "model": "홍루",
+      "content": "Maybe that's what happened. Whenever someone's \"turn\" comes, Dante tends to get a chance to peek into their memories."
+    },
+    {
+      "id": 64,
+      "content": "Ryōshū looked around the room, discomfort visible in her knitted brows."
+    },
+    {
+      "id": 65,
+      "content": "Maybe Ryōshū actually remembers something about the Grand Magasin from before...? No, I don't think that's what's happening. But I can't shake this nagging feeling that I'm missing something to be making any definite guesses at this moment."
+    },
+    {
+      "id": 66,
+      "content": "Has all of that been a figment of my imagination, then? Or a dream?"
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<That doesn't seem plausible...>"
+    },
+    {
+      "id": 68,
+      "content": "If it really were just an illusion or a dream, Faust wouldn't have reacted as though she knew something. Besides, everything we went through at the Grand Magasin was vivid enough to dispel any notion of dismissing it as a product of momentary delusion—at least for me."
+    },
+    {
+      "id": 69,
+      "model": "이상",
+      "content": "For now... I say that you must rest upon this wall awhile and recover. At present, naught appears to pose a direct threat."
+    },
+    {
+      "id": 70,
+      "model": "오티스",
+      "content": "Never should've thrown ourselves so blindly into that machine of dubious function..."
+    },
+    {
+      "id": 71,
+      "model": "오티스",
+      "content": "Perhaps we can question that woman there and gather some information while the Executive Manager takes their much-needed rest."
+    },
+    {
+      "id": 72,
+      "model": "싱클레어",
+      "content": "...!"
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "She looks similar... to Demian..."
+    },
+    {
+      "id": 74,
+      "model": "오티스",
+      "content": "Identify yourself. What do you know about this place?"
+    },
+    {
+      "id": 75,
+      "model": "푸른여인",
+      "content": "... This place..."
+    },
+    {
+      "id": 76,
+      "content": "The woman, with a benevolent smile gracing her lips, is watching us serenely."
+    },
+    {
+      "id": 77,
+      "content": "I'd seen her before, too."
+    },
+    {
+      "id": 78,
+      "model": "푸른여인",
+      "content": "... It is where everything that is washed away comes to rest. The \"Fount\"..."
+    },
+    {
+      "id": 79,
+      "model": "로쟈",
+      "content": "The Fount?! Hey, that's what Dante called this place earlier—"
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "Shh."
+    },
+    {
+      "id": 81,
+      "content": "Outis paused, waiting for Rodya and Ryōshū's brief altercation to end, then continued her query toward the mysterious woman."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "... That's not what we asked."
+    },
+    {
+      "id": 83,
+      "model": "오티스",
+      "content": "Are you affiliated with this establishment? Can't deny there is something familiar about you."
+    },
+    {
+      "id": 84,
+      "model": "푸른여인",
+      "content": "... All things appear... as one believes them to be."
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "Well, at least she doesn't seem hostile to us..."
+    },
+    {
+      "id": 86,
+      "model": "이스마엘",
+      "content": "Do you happen to know what we're... supposed to do here...? Could you tell us if you do?"
+    },
+    {
+      "id": 87,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 88,
+      "content": "... The woman in blue doesn't seem to have anything more to say. She just continues to regard us in silence with that same, benevolent smile."
+    },
+    {
+      "id": 89,
+      "model": "싱클레어",
+      "content": "Would it still be safe if we just... left through that door over there?"
+    },
+    {
+      "id": 90,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 91,
+      "content": "There was one very clear-cut way of finding out whether this had all been just a product of my imagination or not, and I was ready to confirm it. Once we leave through that exit, we'll first be greeted by a veritable waterfall of corpses. Then, as we panic at the sudden turn of events, Kromer's sister will emerge from somewhere and chat us up with her feigned affability."
+    },
+    {
+      "id": 92,
+      "content": "If anything, my memory of the previous experience remains. I remember every detail."
+    },
+    {
+      "id": 93,
+      "model": "단테",
+      "content": "<First things first... Let's get a move on and see what's outside.>"
+    }
+  ]
+}

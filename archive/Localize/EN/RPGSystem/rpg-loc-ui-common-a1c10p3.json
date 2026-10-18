@@ -1,0 +1,72 @@
+{
+  "dataList": [
+    {
+      "key": "Setting_Sisyphus_CheckpointRestart",
+      "text": "Restart from checkpoint"
+    },
+    {
+      "key": "Sisyphus_CheckpointRestartConfirmDesc",
+      "text": "Restart from the Checkpoint?"
+    },
+    {
+      "key": "Sisyphus_SkipConfirmDesc",
+      "text": "Skip this part and continue to the next part of the story?"
+    },
+    {
+      "key": "Setting_Sisyphus_PushRock",
+      "text": "Punch the Drop-boulder"
+    },
+    {
+      "key": "Setting_Sisyphus_CatchRock",
+      "text": "Grab the Drop-boulder"
+    },
+    {
+      "key": "Setting_Sisyphus_Log",
+      "text": "Log"
+    },
+    {
+      "key": "WardenArena_ResistFate",
+      "text": "DEFY FATE"
+    },
+    {
+      "key": "KeyDesc_SisypMoveUp",
+      "text": "Move up"
+    },
+    {
+      "key": "KeyDesc_SisypMoveDown",
+      "text": "Move down"
+    },
+    {
+      "key": "KeyDesc_SisypMoveLeft",
+      "text": "Move left"
+    },
+    {
+      "key": "KeyDesc_SisypMoveRight",
+      "text": "Move right"
+    },
+    {
+      "key": "KeyDesc_SisypAttack",
+      "text": "Punch the Drop-boulder"
+    },
+    {
+      "key": "KeyDesc_SisypGrab",
+      "text": "Grab the Drop-boulder"
+    },
+    {
+      "key": "KeyDesc_SisypRunToggle",
+      "text": "Switch to Sprinting"
+    },
+    {
+      "key": "KeyDesc_SisypRestart",
+      "text": "Restart from the Checkpoint"
+    },
+    {
+      "key": "KeyDesc_SyncNormalSysypKey",
+      "text": "Import Key Mapping"
+    },
+    {
+      "key": "KeyDesc_SisypLogToggle",
+      "text": "View Log History"
+    }
+  ]
+}

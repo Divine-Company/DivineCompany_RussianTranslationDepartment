@@ -59,6 +59,10 @@
     {
       "id": "rpg_suicidebox_enter_notice_question_c",
       "content": "Activate the Suicide Vending Machine?"
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_c",
+      "content": "The multitude tightens its hold.\nYour motion will stop, and pain will cease with it."
     }
   ]
 }

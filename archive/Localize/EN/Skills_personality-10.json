@@ -2396,6 +2396,797 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Pulsion",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Gain +5 [ChargeRougeAlly] Count\n- If target is an ally, gain an additional +5 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] If target is an ally, apply the following effects (2 times per turn):\n- Target heals 10% HP\n  · If target is a \"Le Rouge\" ally, consume 20% of its max HP and apply 2 [ResultEnhancement] instead\n- Target heals 10 SP\n  · If target is at max SP, apply +4 [Charge] Count instead"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "La Pulsion",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 4 [Laceration] on target (max 2)</style>\n[WhenUse] Gain +5 [ChargeRougeAlly] Count\n- If target is an ally, gain an additional +5 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] If target is an ally, apply the following effects (2 times per turn):\n- Target heals 10% HP\n  · If target is a \"Le Rouge\" ally, consume 20% of its max HP and apply 2 [ResultEnhancement] instead\n- Target heals 10 SP\n  · If target is at max SP, apply +4 [Charge] Count instead"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Pulsion",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Gain +([ChargeRougeAlly] Potency on self - 1) Atk Weight (max 2)\n- Prioritize \"Le Rouge\" allies as sub-targets; selected in ascending order of HP percentage</style>\n\n[WhenUse] Clash Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] Gain +5 [ChargeRougeAlly] Count\n- If target is an ally, gain an additional +5 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] If target is an ally, apply the following effects (2 times per turn):\n- Target heals <style=\"highlight\">(10 + [ChargeRougeAlly] Potency on self)% HP (max 15%)</style>\n  · If target is a \"Le Rouge\" ally, consume 20% of its max HP and apply 2 [ResultEnhancement] instead\n- Target heals <style=\"highlight\">(10 + [ChargeRougeAlly] Potency on self) SP (max 15)</style>\n  · If target is at max SP, apply +4 [Charge] Count instead"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Je vous aide",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\n\nWhen in [BuffetSinclair] state, deal +50% damage\n[WhenUse] Gain 5 [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Je vous aide",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\n\nWhen in [BuffetSinclair] state, deal +50% damage\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 4)</style>\n[WhenUse] Gain 5 [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je vous aide",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills\n\nWhen in [BuffetSinclair] state, deal +50% damage\n<style=\"highlight\">Deal +5% damage for every 1% missing HP on target (max 100%)</style>\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 4)\n[WhenUse] Gain 5 [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [ScarletTakeDamageUp] (once per turn)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101606,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Je m'expulse",
+          "desc": "[TransformSinclair] exclusive Skill\n[WhenUse] Gain +3 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je m'expulse",
+          "desc": "[TransformSinclair] exclusive Skill\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain +3 [ChargeRougeAlly] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 2 [BoneNailSinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "L'Appétit",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Gain +3 [ChargeRougeAlly] Count\n[WhenUse] If target is an ally, end Skill after activating Coin 1 effects",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] If target is an ally, apply the following effects:\n- Apply 1 [BuffetThirst]\n- If target is a [PersonalityCharge], apply +4 [Charge] Count\n- If target is a \"Le Rouge\" ally, consume 10% of its max HP and apply 2 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "L'Appétit",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Clash Power +1 for every 3 [ChargeRougeAlly] Count on self (max 3)</style>\n[WhenUse] Gain +3 [ChargeRougeAlly] Count\n[WhenUse] If target is an ally, end Skill after activating Coin 1 effects",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] If target is an ally, apply the following effects:\n- Apply 1 [BuffetThirst]\n- If target is a [PersonalityCharge], apply +4 [Charge] Count\n- If target is a \"Le Rouge\" ally, consume 10% of its max HP and apply 2 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "L'Appétit",
+          "desc": "[CantChangeTarget]\n[SupportAlly]\n\n<style=\"highlight\">[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRougeAlly] Potency on self (max 2)\n- Prioritize \"Le Rouge\" allies as sub-targets; selected in descending order of HP percentage</style>\n\n[WhenUse] Clash Power +1 for every 3 [ChargeRougeAlly] Count on self (max 3)\n[WhenUse] Gain +3 [ChargeRougeAlly] Count\n[WhenUse] If target is an ally, end Skill after activating Coin 1 effects",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] If target is an ally, apply the following effects:\n- Apply <style=\"highlight\">1 [ParryingResultUp] and</style> 1 [BuffetThirst]\n- If target is a [PersonalityCharge], apply +4 [Charge] Count\n- If target is a \"Le Rouge\" ally, consume 10% of its max HP and apply 2 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101607,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Je m'abjecte",
+          "desc": "[TransformSinclair] exclusive Skill\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1\n\n[BeforeAttack] Consume 15% of their max HP on 2 other allies\n- Prioritize \"Le Rouge\" allies; selected in descending order of current HP\n- Deal +15% damage for every ally whose HP was consumed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]\n- When in [BuffetSinclair] state, inflict 2 [BoneNailSinclair] instead"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ScarletTakeDamageUp] (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Je m'abjecte",
+          "desc": "[TransformSinclair] exclusive Skill\n<style=\"highlight\">[WhenUse] If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1\n\n[BeforeAttack] Consume 15% of their max HP on 2 other allies\n- Prioritize \"Le Rouge\" allies; selected in descending order of current HP\n- Deal +15% damage for every ally whose HP was consumed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]\n- When in [BuffetSinclair] state, inflict 2 [BoneNailSinclair] instead"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ScarletTakeDamageUp] (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101608,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "La Demande",
+          "desc": "[CantDuel]\n[TransformSinclair] exclusive Skill\nThis Skill does not trigger Defense Skills\n\nDeal +5% damage for every 3 [Laceration] on target (max 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Remove all [BoneNailSinclair] on target and inflict 1 [ScarletTakeDamageUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Demande",
+          "desc": "[CantDuel]\n[TransformSinclair] exclusive Skill\nThis Skill does not trigger Defense Skills\n\nDeal +5% damage for every 3 [Laceration] on target (max 30%)\n<style=\"highlight\">[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Remove all [BoneNailSinclair] on target and inflict <style=\"highlight\">2</style> [ScarletTakeDamageUp] next turn (once per turn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Baptême rouge",
+          "desc": "[StartBattle] Consume 15% of their max HP on 2 other allies and apply 3 [AttackUp]\n- Selected in descending order of current HP among allies that have 50%+ HP\n- \"Le Rouge\" allies:\n  · Prioritized regardless of their HP as long as they have 2+ HP\n  · Consume 25% HP instead of 15%; additionally apply 1 [Enhancement]\n\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1\n\n[WhenUse] When in [BuffetSinclair] state, convert all Coins to [SuperCoin]s\n- At 10+ [ChargeRougeAlly] Count, consume up to 10 [ChargeRougeAlly] Count to gain +2 Atk Weight and Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Baptême rouge",
+          "desc": "[StartBattle] Consume 15% of their max HP on 2 other allies and apply 3 [AttackUp]\n- Selected in descending order of current HP among allies that have 50%+ HP\n- \"Le Rouge\" allies:\n  · Prioritized regardless of their HP as long as they have 2+ HP\n  · Consume 25% HP instead of 15%; additionally apply 1 [Enhancement]\n\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)</style>\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1\n\n[WhenUse] When in [BuffetSinclair] state, convert all Coins to [SuperCoin]s\n- At 10+ [ChargeRougeAlly] Count, consume up to 10 [ChargeRougeAlly] Count to gain +2 Atk Weight and Coin Power +1\n<style=\"highlight\">[WhenUse] Deal +50% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, Parts)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 3 [HungrySinclair]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 3 [HungrySinclair]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain 3 [HungrySinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101609,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Manque-à-être",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nExternal effects cannot trigger this Skill to be Reused\n\n[WhenUse] Gain 5 [Binding] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Recover target from Stagger"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Manque-à-être",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nExternal effects cannot trigger this Skill to be Reused",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Recover target from Stagger"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] Heal target equal to 15% of target's max HP</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101610,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "La Voracité",
+          "desc": "[TransformSinclair] exclusive Skill\nTurn Start: At 150 [HungrySinclair], replace this Skill with \"La Castration\" (once per turn)\n\n[WhenUse] When in [BuffetSinclair] state, convert all Coins to [SuperCoin]s\n- At 10+ [ChargeRougeAlly] Count, consume up to 10 [ChargeRougeAlly] Count to gain +2 Atk Weight and Coin Power +1\n\n[BeforeAttack] Consume 15% of their max HP on 3 other allies\n- Prioritize \"Le Rouge\" allies; selected in descending order of current HP\n- Deal +10% damage for every ally whose HP was consumed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If it is the main target, inflict 1 additional [BoneNailSinclair] for every excess Atk Weight beyond the # of actual targets"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Voracité",
+          "desc": "[TransformSinclair] exclusive Skill\nTurn Start: At 150 [HungrySinclair], replace this Skill with \"La Castration\" (once per turn)\n\n<style=\"highlight\">[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1</style>\n\n[WhenUse] When in [BuffetSinclair] state, convert all Coins to [SuperCoin]s\n- At 10+ [ChargeRougeAlly] Count, consume up to 10 [ChargeRougeAlly] Count to gain +2 Atk Weight and Coin Power +1\n<style=\"highlight\">[WhenUse] Deal +50% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, Parts)</style>\n\n[BeforeAttack] Consume 15% of their max HP on 3 other allies\n- Prioritize \"Le Rouge\" allies; selected in descending order of current HP\n- Deal +10% damage for every ally whose HP was consumed",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If it is the main target, inflict 1 additional [BoneNailSinclair] for every excess Atk Weight beyond the # of actual targets"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101611,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "La Castration",
+          "desc": "[TransformSinclair] exclusive Skill\n[BeforeUse] At fewer than 150 [HungrySinclair], replace this Skill with \"La Voracité\"\n\n[StartBattle] Consume HP on all other \"Le Rouge\" allies equal to 50% of their respective current HP to apply 3 [BuffetSinclair] on them\n\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1\n[EndSkill] Consume all [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If it is the main target, inflict 1 additional [BoneNailSinclair] for every excess Atk Weight beyond the # of actual targets"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Remove all [BoneNailSinclair] on target and inflict ([BoneNailSinclair] removed) [ScarletTakeDamageUp] next turn (max 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Castration",
+          "desc": "[TransformSinclair] exclusive Skill\n[BeforeUse] At fewer than 150 [HungrySinclair], replace this Skill with \"La Voracité\"\n\n[StartBattle] Consume HP on all other \"Le Rouge\" allies equal to 50% of their respective current HP to apply 3 [BuffetSinclair] on them\n\n[WhenUse] Final Power +1 for every 4 [Laceration] on the main target (max 2)\n[WhenUse] At 3+ [ChargeRougeAlly] Potency, Coin Power +1\n<style=\"highlight\">[WhenUse] When in [BuffetSinclair] state, Coin Power +1\n[WhenUse] Deal +50% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, Parts)</style>\n\n[EndSkill] Consume all [HungrySinclair]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If it is the main target, inflict 1 additional [BoneNailSinclair] for every excess Atk Weight beyond the # of actual targets"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Remove all [BoneNailSinclair] on target and inflict ([BoneNailSinclair] removed) [ScarletTakeDamageUp] next turn (max 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Consume up to 15 [ChargeRougeAlly] Count on self and deal +([ChargeRougeAlly] Count consumed x 3)% damage</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activate [Laceration] on target once. Target loses 1 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Fuite",
+          "desc": "[StartBattle] If this unit does not have [BuffetSinclair], and is at fewer than 15 [ChargeRougeAlly] Count, consume (15 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 15 (once per turn)\n\n[OnSucceedEvade] Gain +2 [ChargeRougeAlly] Count (2 times per turn)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Fuite",
+          "desc": "[StartBattle] If this unit does not have [BuffetSinclair], and is at fewer than 15 [ChargeRougeAlly] Count, consume (15 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 15 (once per turn)\n\n[OnSucceedEvade] Gain +2 [ChargeRougeAlly] Count (2 times per turn)",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Garde",
+          "desc": "[CanDuelGuard]\nThis Skill counts as <noparse>Assist Defense</noparse> only for the unit that uses the Skill\nWhen the user is hit while using this Skill, Haute Couture::The Crimson God of Le Rouge Sinclair gains 2 [HungrySinclair]\n\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101613,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Le Trait unaire",
+          "desc": "[DuelCounter]\n[TransformSinclair] exclusive Skill\n[StartBattle] If this unit does not have [BuffetSinclair], and is at fewer than 15 [ChargeRougeAlly] Count, consume (15 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 15 (once per turn)\n\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Trait unaire",
+          "desc": "[DuelCounter]\n[TransformSinclair] exclusive Skill\n[StartBattle] If this unit does not have [BuffetSinclair], and is at fewer than 15 [ChargeRougeAlly] Count, consume (15 - current [ChargeRougeAlly] Count)% HP to raise [ChargeRougeAlly] Count to 15 (once per turn)\n\n[WhenUse] Final Power +1 for every 4 [Laceration] on target (max 2)\n<style=\"highlight\">[WhenUse] At 3+/5+ [ChargeRougeAlly] Potency, Coin Power +1/+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [BoneNailSinclair]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] When in [BuffetSinclair] state, inflict 1 [BoneNailSinclair]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

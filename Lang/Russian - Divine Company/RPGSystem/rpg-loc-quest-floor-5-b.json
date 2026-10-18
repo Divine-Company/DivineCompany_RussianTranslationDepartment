@@ -1,0 +1,150 @@
+{
+  "dataList": [
+    {
+      "key": "Q5001",
+      "title": "Investigate 5F",
+      "description": "We finally reached 5F with Pwie. There's no telling what we'll encounter on this floor, but we should keep exploring.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Investigate the Door on 5F Corridor"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Hear Kromer Out"
+        }
+      ]
+    },
+    {
+      "key": "Q5011",
+      "title": "???",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q5002",
+      "title": "Head to B1F",
+      "description": "Apparently, we're still lacking in \"virtue\" to enter 5F. Pwie said they need to wear a Golden Shroud, and that somewhere down on the underground floors, there's someone who can process hides. Let's head there.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Touch the Curtain on 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5004",
+      "title": "Head to the Inner Part of 5F",
+      "description": "The Overseer completed the Golden Hide, allowing Pwie to don clothing made from it. Pwie, however, doesn't seem glad at all after devouring Wriggley.\n... It's time to head to 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Inner Part of 5F"
+        },
+        {
+          "index": 1,
+          "goalDescription2": "Fend off the Onslaught"
+        }
+      ]
+    },
+    {
+      "key": "Q5008",
+      "title": "(내부) 르누아르 길막 대면",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Face the Noir Blocking the Path"
+        }
+      ]
+    },
+    {
+      "key": "Q5006",
+      "title": "(내부) 르누아르 무리 돌파",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Defeat 9 Le Noir Sales Associates [Sunshone]",
+          "goalDescription2": "르누아르 경비원 7기 처치",
+          "goalDescription3": "르누아르 컨템포러리 점원 3기 처치",
+          "goalDescription4": "르누아르 메종 점원 2기 처치",
+          "goalDescription5": "르누아르 메종 2기 처치"
+        }
+      ]
+    },
+    {
+      "key": "Q5007",
+      "title": "Approach the Curtain Beyond 5F",
+      "description": "We dealt with the onslaught of enemies on 5F. Now it's time to head to the inside and lay our hands on the curtain. With the Golden Shroud on Pwie, things may turn out different this time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Touch the Curtain on 5F",
+          "goalDescription2": ""
+        }
+      ]
+    },
+    {
+      "key": "Q5003",
+      "title": "Kill Le Noir's Brand Manager",
+      "description": "We need to defeat the Le Noir Brand Manager who's standing in the way.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Defeat Le Noir's Brand Manager"
+        }
+      ]
+    },
+    {
+      "key": "Q5005",
+      "title": "Observe Buffet",
+      "description": "The cocoon finally parted.\nLet's see what Buffet will transform into.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Keep Observing Buffet until the End"
+        }
+      ]
+    },
+    {
+      "key": "Q5009",
+      "title": "Enter the Restaurant",
+      "description": "We were able to venture beyond the curtain that had been blocking our path on 5F. ",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Enter the Restaurant"
+        }
+      ]
+    },
+    {
+      "key": "Q5010",
+      "title": "Protect the Cocoon from the Le Noir Onslaught",
+      "description": "Pwie told us they were feeling tired moments before they fell asleep and became a cocoon. Seemingly having discovered the cocoon's location, a small army of Le Noir have arrived here to destroy it.\n\nLet's protect Pwie.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Protect the Cocoon from the Le Noir Onslaught"
+        }
+      ]
+    },
+    {
+      "key": "Q5012",
+      "title": "Kill Blackthread",
+      "description": "We should deal with the Blackthread and open the path.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kill the Blackthread"
+        }
+      ]
+    }
+  ]
+}

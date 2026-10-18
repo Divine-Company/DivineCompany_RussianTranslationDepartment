@@ -1,0 +1,415 @@
+{
+  "dataList": [
+    {
+      "key": "I104004",
+      "displayName": "Red Ruby Heart",
+      "description": "The vessel that once held the Happy Closet's wish to go on existing."
+    },
+    {
+      "key": "I104005",
+      "displayName": "The Egg of an Abnormality that Scattered Pink Petals",
+      "statText": "In the Symbolic, when landing a hit using <color=#F8C200>Basic Attack</color> on the enemy, inflict <color=#F8C200>Petal Mark</color>\n- This effect is inflicted only when the enemy does not have this <color=#F8C200>Mark</color>\n- <color=#F8C200>Petal Mark</color> lasts for 10 seconds\n- Petal Mark cooldown: 10 seconds (counts from the moment the mark is inflicted)\n- Meursault's <color=#F8C200>Basic Attack</color> deals +1 <color=#fe4b48>Damage</color> against targets inflicted with Petal Mark\n- When a target that has this mark is defeated, deal 5 <color=#fe4b48>damage</color> on 3 x 3 tiles centered on the target",
+      "description": "Every customer and employee in the department store is already undergoing their own Distortion. Since the terminus of Distortion is an Abnormality, the true abnormality would be if no Abnormalities had appeared here."
+    },
+    {
+      "key": "I104006",
+      "displayName": "Golden Button",
+      "description": "A button fashioned from Golden Resin."
+    },
+    {
+      "key": "I104007",
+      "displayName": "Golden Tooth",
+      "description": "A tooth stitched together with Golden Hide."
+    },
+    {
+      "key": "I104008",
+      "displayName": "Golden Hair",
+      "description": "Hair drawn out into strands of gold."
+    },
+    {
+      "key": "I990311",
+      "displayName": "Red Nail",
+      "description": "The vertebra of an employee who waited desperately for the Voice. A nail exists to hold things fast. Bone holds flesh in place. Bone is a nail. A nail pierces like a needle. This vertebra is not only a quality nail but also a needle."
+    },
+    {
+      "key": "I990313",
+      "displayName": "Faith",
+      "statText": "In the Symbolic, upon taking <color=#fe4b48>Damage</color> that would result in death, 10% chance to survive with 1 <color=#00ff9c>HP</color>\n- Excluding certain damages such as Instant Death\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "\"Now faith is the substance of things hoped for, the evidence of things not seen.\""
+    },
+    {
+      "key": "I990417",
+      "displayName": "Pink Mary Janes",
+      "statText": "Pwie's Pulsation Potency +1 during battle in the Shadowed\n- Min & Max Speed +3\n- \"Crimson Nail\" Coin +1 (On Hit using additional Coins, fire <color=#F8C200>Petal Projectiles</color>)\n- Upon using the \"Perk Up\" Skill, gain +1 Atk Weight for every 2 Pulsation Potency (max 2)\n- Unlock the \"Grab My Hand\" Skill (used automatically when an ally is Staggered to <color=#F8C200>recover them from Stagger</color> and <color=#00ff9c>heal</color> their <color=#00ff9c>HP</color>; 2 times per turn)",
+      "description": "Shoes that bring anyone home. The faint aroma scattered by each footfall is steeped in longing, for whoever wears them begins to yearn for the farthest place from home. After all, the more one longs for home, the closer to home one inevitably draws."
+    },
+    {
+      "key": "I991012",
+      "displayName": "Golden Shroud",
+      "statText": "In the Symbolic, Pwie leaves <color=#F8C200>Le Vomissement</color> in their tracks\n- Enemies 1 tile within Pwie and enemies on top of <color=#F8C200>Le Vomissement</color> take 4 <color=#fe4b48>Damage</color> every 2 seconds\n- Inflicts <color=#F8C200>Golden Revelation</color> on all enemies who took <color=#fe4b48>Damage</color> from this effect\n- When enemies that have <color=#F8C200>Golden Revelation</color> dies, they deal 4 <color=#fe4b48>Damage</color> within 1 tile around them (0.1 seconds Hitstun)\n\nDuring battle in the Shadowed:\n- Pwie gains 1 Pulsation Potency\n- Defense Level +10\n- Turn End: If Pwie is Staggered, recover from Stagger and <color=#00ff9c>heal</color> 50% <color=#00ff9c>HP</color> (once per Encounter)\n- On Hit using \"Crimson Nail (2nd Coin)\", \"Go Away\", or \"Baptism of Crimson Nails\", inflict 1 <color=#F8C200>Golden Revelation</color>\n- On \"Baptism of Crimson Nails\" use, at 5+ Pulsation Potency, gain +2 Atk Weight and Coin Power +(Pulsation Potency - 3)\n- Upon using \"Don't Get Hurty\", additionally <color=#00ff9c>heal</color> (Pulsation Potency x 2)% <color=#00ff9c>HP</color> and (Pulsation Potency x 3) SP\n- On Hit using \"Grab My Hand\", apply Shield equal to 50% of target's max <color=#00ff9c>HP</color> next turn",
+      "description": "A shearling cape that preserves the fur of the Golden Hide. This garment keeps what comes from outside at bay, while hastening what blooms within. Once the child dons it, childhood reaches its end. The child learns what others expect and what must be restored, and is compelled to act accordingly. It is no longer permitted to be curious about the world."
+    },
+    {
+      "key": "I991013",
+      "displayName": "Bundle of Rawhide",
+      "description": "As flesh is stripped from bone, hide is peeled from flesh. Then the hair clinging to it must be dissolved away until only the raw skin remains."
+    },
+    {
+      "key": "I991014",
+      "displayName": "Tanned Hide",
+      "description": "Hide takes on the color of tan as tannins transform it inside the Tannery."
+    },
+    {
+      "key": "I991015",
+      "displayName": "Supple Hide",
+      "description": "Hide is the process by which meat becomes plant. The flesh dissolves, and branches of wood fill the hollows left behind."
+    },
+    {
+      "key": "I991016",
+      "displayName": "Alteration Tools",
+      "statText": "In the Symbolic, unlock <color=#F8C200>Overseer Projectiles</color>\n- Fired to a random enemy within 5 tiles (2.5 seconds cooldown)\n- On hitting the target, deals 3 <color=#fe4b48>Damage</color> within 1 tile (0.1 seconds Hitstun)\n\nIn Shadowed Battles, unlock \"I'll End It for You...\" for Pwie\n- If an enemy is not killed by an Attack Skill, use it on that enemy (once per turn)\n- Deal +0.5% <color=#fe4b48>damage</color> for every 1% missing <color=#00ff9c>HP</color> on target (max 30%)",
+      "description": "The reason the Rouges desire hide is simple. Hide is depletion; fabric is excess. They eat the meat, then wear what remains, never wondering what happens when nothing is left to eat. Consume now. Wear now. The Rouges worship depletion. They do not walk toward depletion because they love hide. They came to wear hide because depletion was always its destination."
+    },
+    {
+      "key": "I991022",
+      "displayName": "Golden Hide Fabric",
+      "description": "The Golden Hide, then, could be described as a hide whose very structure is densely packed with minute bundles of gold. The Hide that once filled the cracks truly had been someone's skin and flesh. And once it was tanned, it came to take on arboreal properties befitting the Golden Bough.\n\nBut was the Golden Bough ever truly established to be a plant?"
+    },
+    {
+      "key": "I992705",
+      "displayName": "Larva",
+      "description": "Before the department store was built, a being of eld survived as if by miracle and left behind an offspring. That surviving descendant was beached on the Shore, there to become material for a new age."
+    },
+    {
+      "key": "I990926",
+      "displayName": "Colorful Skein"
+    },
+    {
+      "key": "I990423",
+      "displayName": "The Lights",
+      "statText": "In the Symbolic, <color=#fe4b48>Damage</color> Taken -2 when hit while standing still (min 1 <color=#fe4b48>Damage</color> taken)",
+      "description": "Envious of the sun's radiance, it became a lamp. Yet a lamp must stay closer to people than the sun, because the sun is too dazzling and hot to keep at one's side."
+    },
+    {
+      "key": "I990808",
+      "displayName": "It's Toasty, You Hear?",
+      "statText": "In the Symbolic, <color=#00ff9c>heals</color> 3 Symbolic <color=#00ff9c>HP</color> upon killing an enemy (4 seconds cooldown)",
+      "description": "Toasty is an aroma, not a flavor, you hear? Aroma and taste are different, but they cling together, you hear? Someday, I'll cook a dish made only of aroma, you hear?  Then everyone here can have their fill without worrying about food running out, you hear?"
+    },
+    {
+      "key": "I990807",
+      "displayName": "It's Savory, You Hear?",
+      "statText": "<color=#fe4b48>Attack Speed</color> +15% in the Symbolic",
+      "description": "Savory flavor really brings up the appetite, you hear? Once you feel that appetite, you start craving the next dish, you hear? Craving the next dish means looking forward to the next flavor, you hear? So, savory means anticipation, you hear?"
+    },
+    {
+      "key": "I990113",
+      "displayName": "Le Rouge Casualwear Shoulder Bag",
+      "statText": "Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "Have you ever tasted the Golden Hide packed into the cracks? Oh, clothes seasoned with that hide... now that is a flavor one can never forget."
+    },
+    {
+      "key": "I990114",
+      "displayName": "Le Rouge Casualwear Hoodie",
+      "statText": "<color=#fe4b48>Damage</color> Dealt +1 in the Symbolic",
+      "description": "Sometimes, gnawing away at the Golden Hide makes the crack wider. When that happens, you catch these nasty Noirs who tried to control the Hide. Stuff them into the gap, plug it up... And voilà, problem solved."
+    },
+    {
+      "key": "I990115",
+      "displayName": "Le Rouge Contemporary Cap",
+      "statText": "In the Symbolic, unlocks <color=#F8C200>Evade</color>\n- Press the <color=#F8C200>Evade button (Z on keyboard)</color> to <color=#F8C200>Evade</color> 1 tile in the direction of movement, or the direction currently faced while stationary (0.5 seconds cooldown)\n- <color=#F8C200>Evade</color> triggers <color=#F8C200>Invul. Frame</color> for 0.2 seconds and can also be activated during attacks",
+      "description": "Someone once wondered, \"What stood here before the Grand Magasin was built?\" The thought was soon placed inside a cap, where it sank out of sight."
+    },
+    {
+      "key": "I990116",
+      "displayName": "Le Rouge Contemporary Gloves",
+      "statText": "Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "The Golden Hide may be consumed or worn. Hide is flesh itself; it quite literally lives and breathes. It is no different from the skin of our own bodies."
+    },
+    {
+      "key": "I990111",
+      "displayName": "Le Noir Contemporary Long Socks",
+      "statText": "Unlocks Level 2 <color=#F8C200>Garde</color> in the Symbolic\n- <color=#F8C200>Garde</color> Time: 2.5 seconds\n- <color=#F8C200>Garde</color> <color=#fe4b48>Damage</color>: Attack <color=#fe4b48>Damage</color> +2 in the Symbolic",
+      "description": "Oh, the crack is closing. Sealing the breach is the gold—the Resin of Gold."
+    },
+    {
+      "key": "I990112",
+      "displayName": "Le Noir Contemporary Tiepin",
+      "statText": "Unlocks <color=#F8C200>Perfect Block</color> in the Symbolic\n- Trigger Condition: Within 0.3 seconds of pressing the <color=#F8C200>Block</color> button, <color=#F8C200>Blocking</color> in the <color=#F8C200>Block</color> direction reduces incoming <color=#fe4b48>Damage</color> to 0\n",
+      "description": "Protect the Golden Resin. The Golden Resin, in turn, keeps the Grand Magasin from collapsing. A simple chain of cause and effect."
+    },
+    {
+      "key": "I990418",
+      "displayName": "Le Noir Footwear Hall Wingtip Shoes",
+      "statText": "In the Symbolic, using Level 2 or higher <color=#F8C200>Garde</color> triggers <color=#F8C200>Dash</color> 3 tiles forward\n- Stops early if an obstacle blocks the path",
+      "description": "A shoe must protect its wearer without fault. It must hold them upright upon the earth, steady and unshaken. The world is dangerous; on unstable ground, the shoe is the final bastion of stability."
+    },
+    {
+      "key": "I990419",
+      "displayName": "Le Noir Footwear Hall Shoe Polish",
+      "statText": "Symbolic <color=#F8C200>Garde</color> Speed +25%",
+      "description": "Care Instructions: Noir shoes are made of stone. Stone shoes are hard and do not break. However, they scratch easily, so you must conceal marks with polish. Heavily scratched shoes look old; old-looking shoes appear structurally fragile, and structurally fragile-looking shoes may break."
+    },
+    {
+      "key": "I990811",
+      "displayName": "Paste Bait",
+      "statText": "Symbolic <color=#00ff9c>HP</color> +4\n\nIn the Symbolic, activates Level 2 <color=#F8C200>Garde</color> as <color=#F8C200>Attack Chain 2</color>\n- All motions and effects are applied as <color=#F8C200>Attack Chain 2</color>",
+      "description": "The larvae that survived long enough to wash ashore caught the scent of chum. They tried to crawl onto the Shore, only to be cooked in the heat of the open air. This is a world outside the waters. The Age of the Aquarium is over, and the Age of the Department Store must now be endured."
+    },
+    {
+      "key": "I990812",
+      "displayName": "Black Water of the Shore",
+      "statText": "In the Symbolic, unlocks Pwie's <color=#F8C200>Blackwater Projectile</color>\n- Fires at the nearest enemy within 5 tiles (2.5 seconds cooldown)\n- On hit, deals a total of 2 <color=#fe4b48>Damage</color> over 3 seconds\n\nIn Shadowed Battle, Pwie's Pulsation Potency +1\n- After using \"Perk Up\", if in Uncontrollable Rampage and at 10+ Pulsation Count, consume 10 Pulsation Count to apply 1 <color=#F8C200>Base Power Up</color> on the target\n- When using \"Don't Get Hurty\" and at 3+ Pulsation Potency, gain Atk Weight +2; On Hit, heal SP equal to Skill Power\n- Unlocks \"Baptism of Crimson Nails\" (attacks 3 enemies)",
+      "description": "It brought far too many things into being, and thus, grave is its sin. To give birth to so much is no different from killing just as much. And so the thing of eld that once swam through the Blackthread quietly brooded over its eggs at the lowest depths, propagating its sins."
+    },
+    {
+      "key": "I991019",
+      "displayName": "Tannin",
+      "statText": "In the Symbolic, <color=#F8C200>Garde</color> <color=#fe4b48>Damage</color> Dealt +3",
+      "description": "At the very bottom of the department store, foul-smelling, brutal leatherwork takes place.\n\nHide is what remains after the traces of life have been stripped away. Left as it is, however, it does nothing but rot. Only through tanning does it cease to be something that still carries the warmth of the living, becoming instead a dense mass of fibers... something else entirely."
+    },
+    {
+      "key": "I991020",
+      "displayName": "Chromium Salt",
+      "statText": "In the Symbolic, <color=#F8C200>Garde</color> <color=#F8C200>Dash</color> Speed +30%",
+      "description": "There are fast ways and slow ways to process hides. In chrome tanning, the hide is steeped in chromium to hasten the process, drawing into itself a metal it would never have encountered in nature as it hardens.\n\nIt is fast, but having dragged time forward to gain that speed, it does not endure for long."
+    },
+    {
+      "key": "I991021",
+      "displayName": "Oil",
+      "statText": "In the Symbolic, applies the <color=#F8C200>Block</color> effect during <color=#F8C200>Garde</color>\n\nSymbolic <color=#00ff9c>HP</color> +4",
+      "description": "The hide is steeped in plant-based tanning agents and cured slowly. It demands patience and time, but leather that endures such a lengthy process can, in turn, endure for far longer. Hide is, above all else, carnivorous in origin. And yet leather made this way is called veg-tan leather. It is finished by putting the vegetable into the carnivorous.\n"
+    },
+    {
+      "key": "I990316",
+      "displayName": "Boutique du Rouge Earrings",
+      "statText": "<color=#fe4b48>Attack Speed</color> +10% in the Symbolic",
+      "description": "A sharp sizzle. Warm blood. Meat running with juice. Anticipation of flavors and experiences yet to come."
+    },
+    {
+      "key": "I990420",
+      "displayName": "Le Rouge Footwear Hall Sandals",
+      "statText": "In the Symbolic, <color=#F8C200>Avant</color> <color=#fe4b48>Damage</color> Dealt +2",
+      "description": "More feet mean more shoes to wear. Isn't that a good thing? Since when has having fewer legs become a mark of honor in the Footwear Hall? In the old days, the more legs one had, the better it was. Seriously, what's the world coming to?"
+    },
+    {
+      "key": "I990421",
+      "displayName": "Le Rouge Footwear Hole Shoelaces",
+      "statText": "In the Symbolic, successive <color=#F8C200>Evade</color> Use +1",
+      "description": "Laces close the shoe's mouth and hide its tongue. They stitch the mouth shut and pull it tight so that it cannot come undone. Bound so firmly, the shoe may be unable to speak... But this allows for the shape of one's foot to be laid bare."
+    },
+    {
+      "key": "I990426",
+      "displayName": "Le Rouge Handbags Hall Buckle",
+      "statText": "In the Symbolic, landing <color=#F8C200>Attack Chain 2</color> <color=#00ff9c>heals</color> 1 <color=#00ff9c>HP</color>",
+      "description": "An alien shard of metal wedged between pieces of hide. The buckle exists to perform what hide alone cannot. Hide is flesh. The buckle is bone."
+    },
+    {
+      "key": "I990424",
+      "displayName": "Le Rouge Handbags Hall Tote Bag",
+      "statText": "In the Symbolic, upon a successful <color=#F8C200>Parry</color>, fires 1 <color=#F8C200>Homing Projectile</color> at the nearest enemy within 3 tiles, dealing 2 <color=#fe4b48>Damage</color>",
+      "description": "This tote has plenty of room and can hold anything without issue. Bags made of hide may seem stretched to match the size of whatever is inside, but the hide does not truly stretch. It merely grows more pliant."
+    },
+    {
+      "key": "I990425",
+      "displayName": "Le Rouge Handbags Hall Shoulder Bag",
+      "statText": "In the Symbolic, upon a successful <color=#F8C200>Parry</color>, <color=#fe4b48>Damage</color> Dealt +2 against the target whose attack is <color=#F8C200>Parried</color>",
+      "description": "When the Rouges resolved to fashion the Crimson God, countless bags were requisitioned. The hide stripped from their dismantled bodies had the honor of becoming part of the Cradle."
+    },
+    {
+      "key": "I990427",
+      "displayName": "Le Noir Handbags Hall Clutch Bag",
+      "statText": "In the Symbolic, <color=#F8C200>Blocking</color> a melee attack deals 3 <color=#fe4b48>Damage</color> to the attacker",
+      "description": "Countless materials may be dedicated to the creation of a god, but the resulting Giant will never be able to escape the Grand Magasin's laws. To wield authority equal to that of other gods, it should never have been born here. Not as just another material for the department store."
+    },
+    {
+      "key": "I990428",
+      "displayName": "Le Noir Handbags Hall Backpack",
+      "statText": "In the Symbolic, upon a successful <color=#F8C200>Perfect Block</color>, triggers an <color=#F8C200>Extra Attack</color> that deals 2 <color=#fe4b48>Damage</color> within 1 tile of Meursault (0.1 seconds Hitstun)\n",
+      "description": "Even so, it <i>must</i> be stopped. A fledgling god is still a god. Allow that thing to exist, and it will only drive the Rouges to gnaw away and devour still more Golden Resin."
+    },
+    {
+      "key": "I990429",
+      "displayName": "Le Noir Handbags Hall Bag Strap",
+      "statText": "In the Symbolic, upon a successful <color=#F8C200>Perfect Block</color>, knocks back enemies within 1 tile of Meursault by 1 tile",
+      "description": "They say the Noirs' Brand Manager could not presently move between floors in person, so only the nearest available employees were sent to the Luxury Hall. I wonder whether we managed to bring the situation there under control."
+    },
+    {
+      "key": "I990912",
+      "displayName": "Mordant",
+      "statText": "In the Symbolic, <color=#F8C200>Sprinting</color> leaves behind <color=#F8C200>Pus Tiles</color> that last for 3 seconds\n- Enemies standing on these tiles have Movement Speed -30%\n\nSymbolic <color=#00ff9c>HP</color> +4",
+      "description": "One carries enough tears to burst; the other, not a drop."
+    },
+    {
+      "key": "I990913",
+      "displayName": "Dyestuff",
+      "statText": "In the Symbolic, landing <color=#F8C200>Attack Chain 2</color> triggers an <color=#F8C200>Extra Attack</color> (1 second Hitstun)\n- Deals 4 <color=#fe4b48>Damage</color> to 1 random enemy within 3 tiles of the enemy hit\n- After triggering the <color=#F8C200>Extra Attack</color>, (80 - trigger count x 20)% chance to trigger again on 1 random enemy within 1 tile of the target hit\n- Can be chained (max 5 times; 10% minimum trigger chance)\n\nIn the Symbolic, <color=#F8C200>Attack Chain 2</color> range +1 tile",
+      "description": "On the day cracks formed on the walls, on the day the Voice leached in, the siblings each made a different wish. One wished to never hurt again. The other wished to never be sad again. The one freed from hurt can now be soaked in tears, for it is not pain that draws tears."
+    },
+    {
+      "key": "I990915",
+      "displayName": "Naildle",
+      "statText": "In the Symbolic, unlocks <color=#F8C200>Attack Chain 3</color> for <color=#F8C200>Avant</color>\n\n- Upon triggering <color=#F8C200>Attack Chain 3</color>, Symbolic <color=#fe4b48>Damage</color> Dealt +2, Hitstun +0.1s, and <color=#00ff9c>heals</color> 1 <color=#00ff9c>HP</color>\n- Enemies defeated by this attack are knocked back 5 tiles instead of becoming corpses on the spot\n- If the enemy collides during knockback, it immediately explodes, dealing 2 <color=#fe4b48>Damage</color> within 1 tile, then becomes a corpse\n- If no collision occurs, it explodes at the end of the knockback, dealing 2 <color=#fe4b48>Damage</color> within 1 tile, then becomes a corpse",
+      "description": "Over time, the Floor Manager's form warped into a shape suited to the endless turning of the spinning wheel. That same will protected her from becoming a mindless Mannequin, splitting her into three parts. The three are, in fact, one. We, too, are all but wholes of parts ourselves."
+    },
+    {
+      "key": "I990916",
+      "displayName": "Spinning Wheel",
+      "statText": "Unlocks <color=#F8C200>Needle Projectile</color> in the Symbolic\n- Fires a projectile dealing 3 <color=#fe4b48>Damage</color> against the farthest enemy within 10 tiles (cooldown 3 seconds, 0.5 seconds Hitstun)\n- When the projectile hits, fires another Projectile against a nearby enemy with a (100 / number of times the effect triggers)% chance\n\nDuring battle in the Shadowed, Pwie gains 1 Pulsation Potency\n- On \"Go Away\" Skill Use, Atk Weight +1 for every 2 Pulsation Potency (max 2)",
+      "description": "They turn the wheel to spin the thread.\n\nThey have done so for so long that causality itself has warped into itself. Does one spin thread to turn the wheel, or turn the wheel to spin thread? The question has become unanswerable, but it does not matter. On this floor, the \"why\" is of little significance. The Floor Manager's role begins and ends with a singular function: to spin thread and give it to its recipient. Thus, the spinning wheel does not stop even when the spinners die. The thread waits here for the arrival of the nail, to tether the here to the there."
+    },
+    {
+      "key": "I990422",
+      "displayName": "Glass Chair",
+      "statText": "In the Symbolic, 「Solid Wood Table」<color=#F8C200>Extra Attack</color> range +1 tile (both vertical and horizontal)",
+      "description": "A chair that shatters the moment one sits. That is why it is expensive. One purchases it knowing it will break."
+    },
+    {
+      "key": "I990809",
+      "displayName": "Fishing Rod",
+      "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Blackwater Extra Attack</color>, dealing 3 <color=#fe4b48>Damage</color> upon landing an attack (1 second Hitstun)\n- Triggers <color=#F8C200>Blackwater Extra Attack</color> on 1 random enemy within 3 tiles of the enemy hit (3 times max)",
+      "description": "Things of eld are beached upon the Shore. They are not of the Grand Magasin, but remnants of the previous age, broken and fated to break further.\nFor this place is now a department store built from another's design."
+    },
+    {
+      "key": "I990317",
+      "displayName": "Boutique du Rouge Necklace",
+      "statText": "In the Symbolic, upon <color=#F8C200>Evading</color>, 20% chance to trigger a <color=#F8C200>Lightning Strike Extra Attack</color> (0.5 seconds Hitstun)\n- Lightning Strike deals 2 <color=#fe4b48>Damage</color> to 1 random enemy within 3 tiles\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "If the Crimson God's crimson Voice can no longer be heard, then <i>make</i> it heard. This is the cherished wish of the Rouges... and their appointed labor."
+    },
+    {
+      "key": "I990318",
+      "displayName": "Maison du Noir Top Hat",
+      "statText": "In the Symbolic, <color=#F8C200>Attack Chain 2</color> range +1 tile",
+      "description": "To build up. To cover. To conceal. To protect. To preserve. Such are the steadfast virtues of Le Noir."
+    },
+    {
+      "key": "I990810",
+      "displayName": "Scoop Net",
+      "statText": "In the Symbolic, upon killing an enemy, 20% chance to generate <color=#F8C200>Black Larva</color>\n- <color=#F8C200>Black Larva</color> crawls to the nearest enemy within 10 tiles\n- When it touches an enemy, or if it fails to touch an enemy within 3 seconds, detonates on the spot\n- Upon detonation, deal 5 <color=#fe4b48>Damage</color> within 1 tile",
+      "description": "The Aquarium once held countless fish and tanks of every kind. Scales, waters, and glass enclosures threaded through environments of every variety. Lowest of all flowed water woven from Blackthread, and within it slept a fish in silence."
+    },
+    {
+      "key": "I991018",
+      "displayName": "Voidbearing Eye",
+      "statText": "In the Symbolic, enhance Pwie's <color=#F8C200>Overseer Projectile</color>\n- Upon landing the projectile, deals 3 <color=#fe4b48>Damage</color> within 2 tiles (0.1 seconds Hitstun)",
+      "description": "When the Aquarium transformed into the Grand Magasin, every remnant of the Aquarium should have disappeared with it. Yet something remained—something that still remembers its time there. For the Sisyphe System, which had long been believed to be flawless, this is a defect that must be resolved.\n\nFor whatever reason, the fish that was left behind without ever becoming a customer will remain a fish, no matter how many times the Grand Magasin resets.\n\nTo correct this flaw within the Sisyphe System, the convict responsible for that fish would have to die.\n\nBut the Sisyphe System is at once a punishment device, a resource-harvesting apparatus, and an embodiment of N Corp.'s morality. By design, it cannot forcibly kill one of its own prisoners."
+    },
+    {
+      "key": "I990918",
+      "displayName": "Clew of the King of Needleworks",
+      "statText": "In the Symbolic, enhance Pwie's <color=#F8C200>Needle Projectile</color>\n- Punches through enemies in its trajectory, dealing 2 <color=#fe4b48>Damage</color>\n\nDuring battle in the Shadowed, enhance Pwie's \"Perk Up\" Skill\n- On Hit, instead of applying <color=#F8C200>Clash Power Up</color>, apply 1 <color=#F8C200>Base Power Up</color>\n- Applies <color=#F8C200>Offense Level Up</color> applied On Hit next turn as well",
+      "description": "Is taste... that important? You don't know if Wriggley's gonna be tasty or not. If you wanna eat Wriggley anyway... have you eaten Wriggley before? But... taste is changing all the time. Why do you think Wriggley'll taste the same again? And... Wriggley's right here. No one's eaten Wriggley. Weird..."
+    },
+    {
+      "key": "I990813",
+      "displayName": "Clean Apron",
+      "statText": "In the Symbolic, enhance Pwie's <color=#F8C200>Blackwater Projectile</color>\n- Generate <color=#F8C200>Blackwater Tile</color> within 1 tile of the landing point (duration: 5 seconds)\n- Enemies on top of affected tiles:\n  - Take 2 <color=#fe4b48>Damage</color> every 2 seconds \n  - Movement Speed -20%\n\nDuring battle in the Shadowed, enhance Pwie's \"Baptism of Crimson Nails\" Skill\n- On Use, Base Power +1 for every 4 <color=#F8C200>Bleed</color> on target (max 2)",
+      "description": "... I don't understand. You tried to kill Meursault, Dante, and me when we first met. I need something from you... but you won't give it, so there's really no other way, right? You die because... because you're evil... And weak, too. So why do I feel so awful? You did the same thing—Why... why am I the only one left to feel this guilt?"
+    },
+    {
+      "key": "I990315",
+      "displayName": "Blanket",
+      "statText": "In the Symbolic, <color=#fe4b48>Damage</color> Taken -20% when hit while <color=#F8C200>Blocking</color>",
+      "description": "Some seek a peaceful sleep inside the birdcage."
+    },
+    {
+      "key": "I990914",
+      "displayName": "Cartilage",
+      "statText": "Unlocks Level 3 <color=#F8C200>Garde</color> in the Symbolic\n- <color=#F8C200>Garde</color> Time: 3 seconds\n- <color=#F8C200>Garde</color> <color=#fe4b48>Damage</color>: Attack <color=#fe4b48>Damage</color> +3 in the Symbolic\n\nIn the Symbolic, <color=#F8C200>Garde</color> <color=#F8C200>Dash</color> distance +2 tiles",
+      "description": "Those who are freed from sadness forget tears.\nThey become dry, rigid, and cutting."
+    },
+    {
+      "key": "I991017",
+      "displayName": "Soot",
+      "statText": "In the Symbolic, activates Level 3 <color=#F8C200>Garde</color> as <color=#F8C200>Attack Chain 3</color>\n- All motions and effects are applied as <color=#F8C200>Attack Chain 3</color>\n- When player has 「Paste Bait」, motion is applied as <color=#F8C200>Attack Chain 3</color>\n- When this effect activates, triggers both <color=#F8C200>Attack Chain 2</color> effect and <color=#F8C200>Attack Chain 3</color> effect",
+      "description": "Soot left behind by something that does not belong to the department store.\n\nThe Sisyphe System has changed its form time and again with each passing age. Grand Magasin Sisyphe is simply the form one of its Giants—namely the Architect, who was also an Alterationist—deemed the most convenient and suitable for realization within the Symbolic.\n\nDepending on who is assigned to this position, the Sisyphe System may take the form of a department store, an aquarium, a gas station, a cave, a mountain range, or something else entirely.\n\nWhether it is a department store or a cave is beside the point. Whatever shape it takes, the Sisyphe System will always construct some means of creating a \"drop\", or fluctuations, within itself. All the Giant needs is a perspective capable of imagining such a structure."
+    },
+    {
+      "key": "I990917",
+      "displayName": "Straight Pin of the King of Needleworks",
+      "statText": "In the Symbolic, upon landing <color=#F8C200>Attack Chain 2</color>, inflict <color=#F8C200>Mark of the King of Needleworks</color>\n- Inflicts this effect only when there are no targets that have this <color=#F8C200>Mark</color>\n- Mark of the King of Needleworks duration: 5 seconds\n- Affected target Movement Speed -30%\n- When the affected target is killed, deals 3 <color=#fe4b48>Damage</color> within 3 tiles (0.1 seconds Hitstun)\n- After the effect duration expires, removes the Mark and deals 5 <color=#fe4b48>Damage</color>\n- If that Damage kills the affected target, deals 3 <color=#fe4b48>Damage</color> within 1 tile (0.1 seconds Hitstun)",
+      "description": "Thread and needle. B2F was built from the need for these two concepts.\n\nThread seeks to penetrate the needle, while the needle longs to be penetrated. To handle the essence, one must draw close to the essence oneself; therefore, the deeper one descends to the basement, the clarity of existence blurs and segments until it is reduced to a collection of bits.\nThough the concept of thread and needle does, indeed, approach the essence of clothing closely, it is not the same as the essence. The dissolving of the Alterationist, who handles thread, is an inevitable fate."
+    },
+    {
+      "key": "I102024",
+      "displayName": "A Noir's Note",
+      "statText": "After <color=#F8C200>Blocking</color> in the Symbolic, <color=#fe4b48>Damage</color> Dealt +2 on the next attack (5 seconds cooldown)",
+      "description": "\"I saw the Rouges' Brand Director among the raiders. She held an egg against her chest. I could feel it—the faint, godly warmth that spread from within it.  Ah... I think I may understand what she slaughtered us all to accomplish...\""
+    },
+    {
+      "key": "I990319",
+      "displayName": "Blossom Scissors",
+      "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Blossom Scissors-snip Extra Attack</color> dealing 5 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)",
+      "description": "Wherever you go, I will <i>snip-snip</i> with these blossom shears until the path beneath you blooms with fallen blossoms."
+    },
+    {
+      "key": "I991004",
+      "displayName": "Palette's Golden Resin",
+      "description": "The Golden Hide is an object of power. Minds may teeter on the brink of descent into a Mannequin, yet the Golden Hide gives them consciousness, guiding them to become a complete Distortion."
+    },
+    {
+      "key": "I991005",
+      "displayName": "B2F Floor Manager's Golden Hide",
+      "description": "A Distortion that has reached the terminus acquires a language only it can understand. It cannot communicate with others with such a language."
+    },
+    {
+      "key": "I991006",
+      "displayName": "Golden Hide of the King of Needleworks",
+      "description": "Though ages passed, it did not devolve into a Mannequin; instead, aided by the Golden Hide, it remained a sapient Distortion."
+    },
+    {
+      "key": "I991007",
+      "displayName": "Sous Chef's Golden Hide",
+      "description": "Why does the light, bleeding out of the Golden Hide, act as an anchor to the Mannequins' sapience? Should it not instead hasten their descent into mindless Distortions?"
+    },
+    {
+      "key": "I991008",
+      "displayName": "Golden Hide from the Corpse Pile",
+      "description": "Paradoxically, the golden light wishes for all Distortions to reach their terminus, and at the same time, it does not.\nWhat dwells within the light is more than a single entity, and neither is the heart inside one of them."
+    },
+    {
+      "key": "I991009",
+      "displayName": "Le Rouge Brand Director's Golden Hide",
+      "description": "Distortions can remain sapient and convey their wills to others through various avenues of communication.\nThat the light does not obliterate their wisdom is an irony, and may betray a glimpse of the humanity still dwelling within it."
+    },
+    {
+      "key": "I991010",
+      "displayName": "3F Floor Manager's Golden Hide",
+      "description": "Through dialogue with the light, customers who carried a piece of the Golden Hide gained powers beyond those of others, which allowed them to expand their influence throughout the Grand Magasin."
+    },
+    {
+      "key": "I991011",
+      "displayName": "Golden Hide from the Crack in the Wall",
+      "description": "Le Néant's purpose goes beyond the deconstruction of this department store.\nThey desire the full, unhindered embrace of the light."
+    },
+    {
+      "key": "I990501",
+      "displayName": "Obedience",
+      "statText": "During battle in the Shadowed, immediately before an Identity that has 50% or lower <color=#00ff9c>HP</color> is hit by an enemy Skill, the said Identity gains Shield equal to 20% of its missing <color=#00ff9c>HP</color>\n- Once per Identity per Encounter\n- This Shield does not expire after the turn ends",
+      "description": "The Sisyphe System is an apparatus built to extract experience from prisoners efficiently and without violence. Within it, prisoners undergo a multitude of experiences, and the variety becomes the base ingredient of Experience Dough. Experience is the perception of change: an unbroken alternation between stillness and motion. Le Noir governs stillness."
+    },
+    {
+      "key": "I990004",
+      "displayName": "Pulsation",
+      "statText": "Unlocks <color=#F8C200>Parry</color> in the Symbolic\n- Parry: While controlling Meursault, hit the enemy 0.2 seconds before its attack to cancel the attack (excluding certain attacks)\n\nUnlocks <color=#F8C200>Block</color> in the Symbolic\n- Block: Press and hold <color=#F8C200>Block</color> (C on keyboard) to maintain Meursault's <color=#F8C200>Block</color> stance\n- While <color=#F8C200>Blocking</color>, <color=#fe4b48>Damage</color> Taken -30% from the <color=#fe4b48>Blocked</color> direction\n\nUnlocks <color=#F8C200>Attack Chain 2</color> for <color=#F8C200>Avant</color> Attack in the Symbolic\n- After activating Avant, <color=#F8C200>repeat the attack</color> to activate Attack Chain 2\n- <color=#F8C200>Attack Chain 2</color>: <color=#fe4b48>Damage</color> Dealt +2 and <color=#F8C200>Hitstun</color> +0.1 seconds against the enemy",
+      "description": "People speak of experiencing the present. Yet if experience is the act of anticipating what is to come and seeing it realized, then it must always lie in the future."
+    },
+    {
+      "key": "I990002",
+      "displayName": "Hammer",
+      "statText": "<color=#fe4b48>Damage</color> Dealt +1 in the Symbolic\nDuring battle in the Shadowed, deal +10% <color=#fe4b48>damage</color> against enemies that have <color=#F8C200>Bind</color>",
+      "description": "A hammer. It allows a nail to fulfill its purpose. Yet even alone, a hammer serves just as well as an instrument of destruction."
+    },
+    {
+      "key": "I990431",
+      "displayName": "Luminous Shoes",
+      "statText": "After <color=#F8C200>Evading</color> in the Symbolic, <color=#fe4b48>Damage</color> Dealt +3 on the next attack (10 seconds cooldown)",
+      "description": "This is too hard... There are so many... Too many will make it less fun... Too many shiny surfaces... won't make the shine special anymore..."
+    },
+    {
+      "key": "I990926",
+      "displayName": "Colorful Skein",
+      "description": "Vibrant red, austere black, drifting khaki... all colors are bound to follow wherever the needle leads."
+    }
+  ]
+}

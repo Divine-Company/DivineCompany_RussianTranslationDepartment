@@ -509,6 +509,18 @@
     {
       "id": "SpiderHouse10716",
       "desc": "The House of Spiders: The Thumb Apprentice Heathcliff: On Clash Win using a Base Skill, inflict 2 Tremor and trigger Tremor Burst; then, reduce target's Tremor Count by 1 (2 times per turn)"
+    },
+    {
+      "id": "VibrationFocusing",
+      "desc": "For {1} turns, upon Tremor Burst, take Sloth Damage equal to (60 + Sum of Charge Potency or Unique Charge on the attacker x 8)% of {0} and reduce the Count by 1\n  · When \"Le Noir\" units' Skills and Passives trigger Tremor Burst, the above effect does not reduce the Count"
+    },
+    {
+      "id": "RougeFamilySinclair",
+      "desc": "When conditions are met by other \"Le Rouge\" allies, activate corresponding effects for Haute Couture::The Crimson God of Le Rouge Sinclair\n- Effects remain active even if the corresponding ally is defeated"
+    },
+    {
+      "id": "RougeFamily10816",
+      "desc": "Le Rouge Ishmael\n- If Ishmael is in \"Full Makeover\" state, Sinclair's max HP +10%; Sinclair heals 5% max HP On Base Attack Hit (rounded up, 5 times per turn)"
     }
   ]
 }

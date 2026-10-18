@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_57_1",
+      "dlg": "I will simply do my best in the duty assigned to me, as I always have.\nManager... are you doing your best at this moment?"
+    },
+    {
+      "id": "announcer_cheer_57_2",
+      "dlg": "......."
+    },
+    {
+      "id": "announcer_specialcheer_57_1",
+      "dlg": "You should rewind the clock now, Manager."
+    },
+    {
+      "id": "announcer_specialcheer_57_2",
+      "dlg": "If you are too exhausted to rewind the clock, I recommend that you cease command, withdraw, and rest."
+    },
+    {
+      "id": "announcer_enemy_break_57_1",
+      "dlg": "The enemy has been staggered."
+    },
+    {
+      "id": "announcer_ally_break_57_1",
+      "dlg": "A Sinner is down. They may require protection."
+    },
+    {
+      "id": "announcer_killenemy_57_1",
+      "dlg": "The enemy has been eliminated."
+    },
+    {
+      "id": "announcer_ally_dead_57_1",
+      "dlg": "A Sinner has been killed. It's an unwelcome loss."
+    },
+    {
+      "id": "announcer_enemy_adv_57_1",
+      "dlg": "I agree that this is painful and arduous. Even so, in this fierce battle... I find enjoyment."
+    },
+    {
+      "id": "announcer_ally_adv_57_1",
+      "dlg": "Every decision you have made in this battle has proven sound. Accordingly, I look forward to your next judgment, Manager."
+    },
+    {
+      "id": "announcer_ally_advex_57_1",
+      "dlg": "There is insufficient basis for a judgment, but subjectively speaking... I believe this battle is worth continuing, Manager."
+    },
+    {
+      "id": "announcer_danger_57_1",
+      "dlg": "There is little time remaining. If you find it difficult to make a judgment call, you may leave it to me."
+    },
+    {
+      "id": "announcer_enemy_specialskill_57_1",
+      "dlg": "2 vibrations from the floor to the left. 31 gazes sweep across our vulnerable points.\nManager, a concentrated assault is imminent."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_57_1",
+      "dlg": "Even if this situation lies beyond both our experience and memory, we should be able to understand it by concentrating on the present."
+    },
+    {
+      "id": "announcer_advatk_physical_57_1",
+      "dlg": "You identified the vulnerable point correctly."
+    },
+    {
+      "id": "announcer_disadvatk_physical_57_1",
+      "dlg": "Being inefficient does not mean that it is wrong. To call something \"inefficient\" is, in itself, a practice in subjectivity."
+    },
+    {
+      "id": "announcer_advatk_attr_57_1",
+      "dlg": "That was efficient."
+    },
+    {
+      "id": "announcer_disadvatk_attr_57_1",
+      "dlg": "If that was your preferred method, then there should be no issue."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_57_1",
+      "dlg": "The world has never once escaped irrationality. The present will be no different."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_57_1",
+      "dlg": "They must be mad."
+    },
+    {
+      "id": "announcer_ally_specialbuff_57_1",
+      "dlg": "The rationale behind this assistance is... difficult to understand."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_57_1",
+      "dlg": "The pain we must bear has increased."
+    },
+    {
+      "id": "announcer_enemy_destroy_57_1",
+      "dlg": "An enemy part has been destroyed."
+    },
+    {
+      "id": "announcer_enemy_destroy_57_2",
+      "dlg": "The suppression of the enemy is proceeding smoothly. Now that you have broken a part, formulate the next plan based on your assessment of its properties, Manager."
+    },
+    {
+      "id": "announcer_round_takebigdmg_57_1",
+      "dlg": "Regrettably, Manager, several Sinners have been injured."
+    },
+    {
+      "id": "announcer_round_takebigdmg_57_2",
+      "dlg": "In light of this experience, I believe our overall strategy requires revision... What do you think, Manager?"
+    },
+    {
+      "id": "announcer_round_givebigdmg_57_1",
+      "dlg": "Critical damage inflicted."
+    },
+    {
+      "id": "announcer_round_givebigdmg_57_2",
+      "dlg": "... The enemy still retains the will to fight."
+    },
+    {
+      "id": "announcer_multikillenemy_57_1",
+      "dlg": "A Sinner has eliminated multiple enemies."
+    },
+    {
+      "id": "announcer_battle_win_57_1",
+      "dlg": "You did well, Manager."
+    },
+    {
+      "id": "announcer_battle_defeat_57_1",
+      "dlg": "The boulder has merely rolled down again. It is too early to conclude that we have failed. Will you climb again, Manager?"
+    },
+    {
+      "id": "announcer_equip_57_1",
+      "dlg": "Sinner #5, Meursault. Beginning recording. No specific order was issued, but I always wished to try when my turn came."
+    }
+  ]
+}

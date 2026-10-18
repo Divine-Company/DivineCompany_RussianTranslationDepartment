@@ -1,0 +1,402 @@
+{
+  "dataList": [
+    {
+      "id": "TangleBlackYarn",
+      "name": "Tangling",
+      "desc": "- Max Stack: 30\n- Take +1% damage for every Stack\n- Base Power -1 for every 10 Stacks\n- Turn End: Gain 1 Bind next turn for every 3 Stacks (max 10)\n- <color=#ff6000><mark color=#ff000040><b><u>On Defense Skill Use,</color></mark></b></u> lose half of the Stacks (rounded up)",
+      "summary": "",
+      "flavor": "The department store is a world of sewing, bound together by thread and needle. Even that which came from the sea now finds its body turned to thread, black water tangling into black yarn."
+    },
+    {
+      "id": "SickBlackYarn",
+      "name": "Bursting Blackstitch",
+      "desc": "- Max Stack: 50\n- Take +1% damage for every Stack\n- Turn Start: Gain 1 Fragile for every 25 Stacks",
+      "summary": "",
+      "flavor": "Each time a loose strand bursts from the black yarn, it carries the briny scent of tears... strangely nostalgic despite itself."
+    },
+    {
+      "id": "HeavyBlackYarn",
+      "name": "Clumped Black Threads",
+      "desc": "- Max Stack: 5\n- Gain Slot Weight equal to Stack (per Part)\n- Take +10% damage for every Stack",
+      "summary": "",
+      "flavor": "Black is an image of death and mass. Just as what holds black seawater grows heavy, black thread gains weight as it clumps together. It gathers everything into itself, knots tight, sinks, and stops."
+    },
+    {
+      "id": "HideBlackYarn",
+      "name": "Pool of Black Water",
+      "desc": "- Max Potency: 6\n- Max Count: 2\n- <color=#ff6000><mark color=#ff000040><b><u>When hit, lose 1 Potency</color></mark></b></u> (once per Skill)\n- Turn End: Lose 1 Count\n- <color=#ff6000><mark color=#ff000040><b><u>Expires if Potency or Count reaches 0</color></mark></b></u>\n- Cannot be Staggered\n- On Unopposed Attack, deal +100% damage\n- Take -100% damage",
+      "summary": "",
+      "flavor": "It is neither sea nor aquarium now, only a stagnant pond. Yet the great longing that has settled there holds enough sorrow to momentarily hide the body."
+    },
+    {
+      "id": "AngryBlackYarn",
+      "name": "Instinct of the Predator of Eld",
+      "desc": "- All Parts gain Clash Power +2 for every Part that has this effect\n- Deal +5% damage for every 3 Tangling Stacks on target (max 50%)\n- Expires at Turn End",
+      "summary": "",
+      "flavor": "Every aquarium had its predator, much like a Floor Manager in the department store. The predator now wears the shape of a fish, but in an earlier Sisyphe System, there were no fish-shaped beings in the Aquarium. The minds of those who lived there may have been fish, but their forms were human."
+    },
+    {
+      "id": "BlackYarn_LowMorale",
+      "name": "Bereaved of Child",
+      "desc": "- Low Morale\n- On Skill Use, if Pwie is the main target, Clash Power +3, Base Power +2\n- When hit, inflict 1 Tangling (3 times per Skill)",
+      "summary": ""
+    },
+    {
+      "id": "BlackYarn_Panic",
+      "name": "Bereaved of Child",
+      "desc": "- Panic\n- All Attacks target Pwie\n- On Skill Use, if Pwie is the main target, Clash Power +6, Base Power +4\n- Combat Start: Convert all Skill Coins into Unbreakable Coins\n- When hit, inflict 1 Tangling (6 times per Skill)",
+      "summary": ""
+    },
+    {
+      "id": "FlowerLaurelWreath",
+      "name": "Laurel Wreath of Atonement",
+      "desc": "- Remove all Stagger Thresholds\n- Clash Power +2\n- Take -50% SP damage from Sinking (rounded down)\n- Turn End: Heal 10 SP and gain 5 Haste next turn\n- <color=#ff6000><mark color=#ff000040><b><u>Clash Win: Heal 5 SP for all allies including this unit and Assist Units</color></mark></b></u>",
+      "summary": "",
+      "flavor": "Let the confession of its sins bloom beneath the fragrance of flowers."
+    },
+    {
+      "id": "AlriuneSillage",
+      "name": "Faint Aroma",
+      "desc": "- Max Stack: 30\n- Turn End: Take SP damage equal to Stack\n- If this unit took Sinking damage, gain 1 Stack\n- On Tremor Burst, apply 1 ~ 2 Faint Aroma on 3 other random allies\n- At max Stack:\n · Gain 2 Tremor and trigger Tremor Burst on self\n · Take Gloom damage equal to Sinking on self\n · Faint Aroma expires\n · Cannot gain for the rest of the turn\n- On death, apply half of this unit's Faint Aroma Stack randomly between this unit's allies (rounded down)",
+      "summary": "",
+      "flavor": "Fragrance begets longing. Longing, in turn, becomes yearning."
+    },
+    {
+      "id": "AlriunePetal",
+      "name": "Petals",
+      "desc": "Max Stack: 3\n- <color=#ff6000><mark color=#ff000040><b><u>At 3 Stacks, use a powerful Skill that turn</color></mark></b></u>\n- Deal +(Petals Stack on self x 10)% damage to Staggered targets\n- Turn End: Gain 1 Stack",
+      "summary": "",
+      "flavor": "One petal, two petals... and then, three."
+    },
+    {
+      "id": "ThreadDye",
+      "name": "Dyed Thread",
+      "desc": "- Max Stack: 3\n- Cannot gain Haste while having this effect\n- Turn End: Remove Haste that will be applied next turn\n- Turn End: Gain Bind next turn equal to Potency and lose 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>At max Stack, gain Immobilize this turn and next turn; then, this effect expires</color></mark></b></u>",
+      "summary": "",
+      "flavor": "Like nails, threads will hold you fast, the color of its binds predetermined."
+    },
+    {
+      "id": "SpreadingDye",
+      "name": "Gloss Medium",
+      "desc": "- If target has Bind, inflict 1 more Bleed Potency and Bleed Count\n- On Skill Use, if the main target has Dyed Thread or Tar Dye, the said Skill gains Final Power +1 and deals +20% damage",
+      "summary": "",
+      "flavor": "Most dyes are meant to have a color.\nBut this one's dye has none.\n\nApplied in rough, uneven strokes, it reveals a spectrum of colors through nothing but the reflection and refraction of pure light."
+    },
+    {
+      "id": "StickyDye",
+      "name": "Tar Dye",
+      "desc": "- Max Stack: 1\n- Min & Max Speed -1 (min 1)",
+      "summary": "",
+      "flavor": "The dye clings, making every step harder to take."
+    },
+    {
+      "id": "ChargeKhaki",
+      "name": "Inertia of Drifting",
+      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count",
+      "summary": "",
+      "flavor": "Those who are carried by the tide like buoys may not be able to change the flow of things, but they can still bolster the tide and commit to their acts within."
+    },
+    {
+      "id": "FinishedFabric",
+      "name": "Cut Fabric",
+      "desc": "- Max Stack: 30\n- Skills that gain or consume Charge Count (including Unique Charge) deal +(Stack)% damage (max 30%)\n- Turn End: Lose 5 Stacks\n  · If Shield was broken this turn, lose 10 Stacks instead",
+      "summary": "",
+      "flavor": "Fabrics with functions of their own can only serve their purpose when properly cut."
+    },
+    {
+      "id": "LargeTailoringShears",
+      "name": "Blossom Scissors",
+      "desc": "- Max Stack: 3\n- Deal +(5 + Stack x 5)% damage against Sinners (max 20%)\n- On Skill Use against Alteration Target Sinners, gain Clash Power equal to Stack",
+      "summary": "",
+      "flavor": "The scissors used to sever the primordial materials produced underground are larger and more extraordinary still. These scissors have cut and recut the very first cloth ever woven. That flowers should bloom from them is only natural, for they have always cut things at their very roots."
+    },
+    {
+      "id": "TailoringTarget",
+      "name": "Alteration Target",
+      "desc": "- Min & Max Speed +5\n- This turn's first-used Skill gains Clash Power +3\n- Combat Start: If this unit has an equipped Defense Skill, take -80% damage from Annette the Alterationist\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "flavor": "Rather than altering the clothes to fit the person, she alters the person to fit the clothes. Here, clothes are what define the wearer; preserving the garment and altering the person is how worth is protected and how the customer is served."
+    },
+    {
+      "id": "ScissorsMark",
+      "name": "Mark of Shearing",
+      "desc": "- Max Stack: 9\n- Lose Defense Level equal to Stack",
+      "summary": "",
+      "flavor": "A cutting mark used to trim fabric and other materials to the required measurements."
+    },
+    {
+      "id": "DamagedFabric",
+      "name": "Sheared Apart",
+      "desc": "- Max Stack: 30\n- Turn Start : Gain 1 HP Healing Down for every 6 Stacks (max 5)\n- Upon Clashing against \"Patterning\" or \"Surfile à la Chaîne\", lose Clash Power equal to Stack",
+      "summary": "",
+      "flavor": "Once the fabric has been cut apart, sewing the scraps back together only makes patchwork. It can never return to a single fabric woven from its original threads."
+    },
+    {
+      "id": "ThirdTailor_LowMorale",
+      "name": "Trembling Hands",
+      "desc": "- Low Morale\n- Take +7.5% damage\n- Every time this unit is hit, gain +1 Tremor Count (once per Skill, max 5 per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "My hands are starting to shake, and even the scissors won't stay steady... I won't be able to cut the pattern anymore..."
+    },
+    {
+      "id": "ThirdTailor_Panic",
+      "name": "Trembling Hands",
+      "desc": "- Panic\n- Take +15% damage\n- Every time this unit is hit, gain 1 Tremor Potency and +1 Tremor Count (once per Skill, max 5 per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "My hands are starting to shake, and even the scissors won't stay steady... I won't be able to cut the pattern anymore..."
+    },
+    {
+      "id": "GoldenLeatherEnhance",
+      "name": "Shower of Stinging Sunshine [King of Needleworks]",
+      "desc": "Skill Final Power +1 for every 3 Naildle on the target (max 3)",
+      "summary": "",
+      "flavor": "\"You don't have to listen anymore. You only have to make it so you cannot hear them. Simply do what you want. Don't deny yourself.\""
+    },
+    {
+      "id": "NoirShieldUp",
+      "name": "Blessing of the Obsidian God",
+      "desc": "- Max Potency: 999\n- Base Count: 2\n- Cannot be Staggered\n- Turn Start: The Part gains Shield equal to Stack\n- This effect counts as a \"Shield Management\" effect\n- Lose Stack when losing Shield\n- Turn End: Lose 1 Count",
+      "summary": "",
+      "flavor": "The Obsidian God. The Obsidian Giant. The Chaplain of the Hammer. The Obsidian God of the Grand Magasin, whose domain is the power of preservation, grants his blessing through direct contact. The hammer is hard, and its black hue absorbs all things and brings them to a halt... much like death itself."
+    },
+    {
+      "id": "NoirShieldPiece",
+      "name": "Apocalyptic Vengeance",
+      "desc": "- Max Stack: 2\n- Take -10% damage\n- At 2 Stacks, Final Power -2",
+      "summary": "",
+      "flavor": "It feels as though a fragment of imaginary mass is pressing down upon the body—a crude imitation of a Giant's punishment. According to the covenant, ascending to a higher place is akin to bearing a heavy boulder and climbing in silence."
+    },
+    {
+      "id": "VibrationResonance",
+      "name": "Negation of Conservation",
+      "desc": "- Max Stack: 2\n- Take -90% damage from Tremor Burst; -90% to Stagger Threshold raised\n- Deal +20% damage\n- Turn End: Lose 1 Stack ",
+      "summary": "",
+      "flavor": "A counterwave set against every motion that seeks preservation shakes preservation itself apart, preventing it from taking hold."
+    },
+    {
+      "id": "NoirField",
+      "name": "Sanctum of Conservation",
+      "desc": "- Max Stack: 2\n- Turn Start: Gain 1 Power Up and 1 Damage Up for every 20% missing HP (max 3 respectively)\n- Turn Start: All \"Le Noir\" allies' Skills gain Final Power equal to Stack\n\n- Turn Start: At 1+ Stack, apply the following effects to all \"Le Noir\" allies, including this unit:\n · SP +10\n · Attack Power +2\n · Defense Level +2\n\n- Turn Start: At 2+ Stacks, apply the following effects to all non-\"Le Noir\" enemies:\n · Max Speed -1\n · Offense Level -6\n · Defense Level -2",
+      "summary": "",
+      "flavor": "A sanctuary in which the value of conservation pursued by Le Noir is preserved. Within it, the Noirs' preservative actions are retained to their benefit. It is a realm of eternal conservation—a place that stirs the drive to infinitely approach death."
+    },
+    {
+      "id": "NoirSquareCollapse",
+      "name": "Formation Collapse",
+      "desc": "- Max Stack: 10\n- Lose Defense Level equal to Stack",
+      "summary": "",
+      "flavor": "When faith—the faith that each will dutifully carry out their assigned role—begins to crumble, doubt takes root in the cracks."
+    },
+    {
+      "id": "NoirNail",
+      "name": "Promised Nail",
+      "desc": "- Max Stack: 3\n- When Tremor Burst is triggered on this unit,\n · Take Sloth damage equal to Tremor Potency on self\n · Gain 1 Fragile\n · Lose 1 Stack",
+      "summary": "",
+      "flavor": "The promised hammer is bound by promise to drive in a nail. Therefore, whenever the hammer falls, a nail must exist there... even if there is none."
+    },
+    {
+      "id": "BuffetField",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns\n· Stage 1: Pwie\n· Stage 2: All allied Sinners\n· Stage 3: All targets",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_0",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_1",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "BuffetField_2",
+      "name": "Le Vomissement",
+      "desc": "- After entering the Encounter, Le Vomissement's influence expands at Turn Start every 2 turns",
+      "flavor": "What is devoured for survival, for growth, incorporates what was outside into what is mine. Then it is expelled once more, and what was mine becomes part of the outside.\n\nIt is cyclical, expansive, and consumptive.",
+      "summary": ""
+    },
+    {
+      "id": "GourmandiseAlly",
+      "name": "Uncontrollable Rampage",
+      "desc": "- Base Power +1, convert all Coins on all Skills into Unbreakable Coins\n- Deal +5% damage for every 3 Bleed on self (max 30%); heal +10% more HP on target (max 100%, rounded down)\n- Cannot be Staggered; take -90% damage from Bleed (excluding forced Staggers)\n- Turn End: Lose 1 Stack",
+      "summary": "Skills are strengthened"
+    },
+    {
+      "id": "BloodyMucusAlly",
+      "name": "Baptism [Crimson]",
+      "desc": "- Max Stack: 3\n- On Attack Skill Use, gain Bleed Count equal to Stack (once per Skill)\n- On Defense Skill Use, lose 1 Stack\n- Turn End: Lose 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "BuffetGold",
+      "name": "Golden Revelation",
+      "desc": "- Max Speed: 5\n- Take +5% damage for every Stack\n- At max Stack, take +10% damage if this unit has Bleed",
+      "summary": "",
+      "flavor": "The golden light guides the child toward whom they should harm next. Even under that guidance, the child believes the judgment to be entirely their own."
+    },
+    {
+      "id": "BuffetShoes",
+      "name": "Pink Mary Janes",
+      "desc": "- Min & Max Speed +3",
+      "summary": "",
+      "flavor": "Thanks... for the shoes. Can I go anywhere if I put these on? I wanna... travel with you."
+    },
+    {
+      "id": "BuffetGoldenClothes",
+      "name": "Golden Shroud",
+      "desc": "- Defense Level +10\n- Turn End: If this unit is Staggered, recover from Stagger and heal 50% HP (once per Encounter)",
+      "summary": "",
+      "flavor": "The child has donned the clothes of an adult. Not just any clothes, but a hide garment made from another's death. And so, the child takes one step closer to adulthood."
+    },
+    {
+      "id": "Buffet_LowMorale",
+      "name": "Unforgotten Pain",
+      "desc": "- Low Morale\n- Gain 3 Protection",
+      "summary": ""
+    },
+    {
+      "id": "Buffet_Panic",
+      "name": "Unforgotten Pain",
+      "desc": "- Panic\n- Gain 5 Protection",
+      "summary": ""
+    },
+    {
+      "id": "RestrictMob",
+      "name": "Rule: Raw Hide Damage Prohibited",
+      "desc": "- Combat Start: When Tanned Prisoner is targeted with an Attack Skill, this effect expires, and the attacker gains 1 Tannery Rule Violation\n- Turn End: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictBoss",
+      "name": "Rule: Tanning Rush Prohibited",
+      "desc": "- Combat Start: When the Overseer is targeted with an Attack Skill, this effect expires, and the attacker gains 1 Tannery Rule Violation\n- Turn End: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictTier1",
+      "name": "Rule: Offensive Behavior Prohibited",
+      "desc": "- Combat Start: When an Attack Skill is equipped, this effect expires and gain 1 Tannery Rule Violation (excluding E.G.O Skills)\n- Turn End: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictDef",
+      "name": "Rule: Defensive Behavior Prohibited",
+      "desc": "- Combat Start: When a Defense Skill is equipped, this effect expires and gain 1 Tannery Rule Violation\n- Turn End: This effect expires",
+      "summary": ""
+    },
+    {
+      "id": "RestrictDenied",
+      "name": "Tannery Rule Violation",
+      "desc": "- Max Stack: 1\n- Take +30% damage from the Overseer\n- At this unit's Attack End, the Overseer uses the \"Punishing Burnishing Finishing\" Skill on this unit; then, this effect expires",
+      "summary": "",
+      "flavor": "The target is a transgressor who has violated the rules by which this world is bound."
+    },
+    {
+      "id": "B3FreshMob",
+      "name": "Uncreased Hide",
+      "desc": "- Max Stack: 1\n- Turn Start: Gain 20 Shield\n- Turn End: Gain 2 Protection\n- Expires at Turn End",
+      "summary": "",
+      "flavor": "Please handle with care. If you try on a hide garment and bend too much, it will crease... and that lowers its worth."
+    },
+    {
+      "id": "RestrictFailed",
+      "name": "Rule Collapse",
+      "desc": "- Offense Level +3\n- Defense Level -3",
+      "summary": "",
+      "flavor": "Do you know the difference between a rule and a law?"
+    },
+    {
+      "id": "targetDye_LowMorale",
+      "name": "Jammed Machine",
+      "desc": "Skills deal -5% damage against targets with slower Speed than this unit's",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "targetDye_Panic",
+      "name": "Jammed Machine",
+      "desc": "Skills deal -10% damage against targets with slower Speed than this unit's",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Can that which moves faster than oneself truly be fixed in place?"
+    },
+    {
+      "id": "RouteBOneLeg",
+      "name": "원레그 B루트 강화",
+      "desc": "- Base Offense Level +25\n- Base Defense Level +25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SapsareeGold",
+      "name": "Shower of Stinging Sunshine [Sous Chef]",
+      "desc": "- On Skill Use, Final Power +1 for every \"Fiery, Tongue-scorching Sauce\" on target (max 3)\n- Gain 15 SP upon killing an ally with this unit's Skill",
+      "summary": "",
+      "flavor": "\"Sous-chef has a warm, hearty heart, you hear? Sous-chef is stuffed full of confidence, you hear?!\""
+    },
+    {
+      "id": "GoldenManager",
+      "name": "Shower of Stinging Sunshine [3F Floor Manager]",
+      "desc": "- Deal +5% damage for every Guarded Caution on target (max 50%)\n- Base Power +3 On Skill Use against target that has 0 or less SP",
+      "summary": "",
+      "flavor": "The sunshine burns hot, yet the cloth cannot be cast aside, and the heart retreats beneath the blankets... deeper beneath the blankets..."
+    },
+    {
+      "id": "SisyphusSapphire",
+      "name": "Sapphire",
+      "desc": "- Skills inflict 1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency against enemies\n- Gain +2 more Count when gaining Charge Count and Poise Count\n- Gain +10 Charge Count when gaining this effect (once per Encounter)\n- Clash Power +1\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusOnyx",
+      "name": "Onyx",
+      "desc": "- Skills inflict 1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency against enemies\n- Gain +2 more Count when gaining Charge Count and Poise Count\n- Gain +10 Charge Count when gaining this effect (once per Encounter)\n- Clash Power +2\n- Final Power +1",
+      "summary": ""
+    },
+    {
+      "id": "SisyphusDiamond",
+      "name": "Diamond",
+      "desc": "- Skills inflict 1 more Burn, Bleed, Tremor, Rupture, and Sinking Potency against enemies\n- Gain +2 more Count when gaining Charge Count and Poise Count\n- Gain +10 Charge Count when gaining this effect (once per Encounter)\n- Clash Power +2\n- Final Power +1\n- Deal +10% damage",
+      "summary": ""
+    },
+    {
+      "id": "OutOfControl_LowMorale",
+      "name": "Disabled Overseeing",
+      "desc": "- Low Morale\n- Skill Final Power +1\n- Turn Start: Apply 1 Attack Power Down to all other allies",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "OutOfControl_Panic",
+      "name": "Disabled Overseeing",
+      "desc": "- Panic\n- Skill Final Power +1\n- Turn Start: Apply 1 Attack Power Down and 1 Damage Down to all other allies",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "LaNoirSuperior_LowMorale",
+      "name": "Into the First Shell...",
+      "desc": "- Low Morale\n- Offense Level -2\n- Defense Level +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LaNoirSuperior_Panic",
+      "name": "Into the First Shell...",
+      "desc": "- Panic\n- Offense Level -3\n- Defense Level +4",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

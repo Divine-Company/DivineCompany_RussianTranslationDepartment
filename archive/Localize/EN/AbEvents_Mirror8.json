@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": 97111501,
+      "title": "Le Rouge Casualwear Hall, 1F",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "\"You're seriously going to wear these old-season castoffs?\"\n\nThe sales associate gave us a quick once-over.\n\n\"Fine, take them. Judging by what you're wearing, you'd probably wrap yourselves in filthy packing paper as long as you could call it clothes.\"\n\nWe gathered up the clothes the Le Rouge sales associate had tossed aside."
+      ],
+      "failureDesc": [
+        "\"You ought to be picking up a part-time job and earning some eyeballs, not standing around begging.\"\n\nThe tentacles on the sales associate's face shot upright and began to twitch.\n\n\"I'm busy enough as it is, and now these beggars are getting on my nerves! You can get the hell—\"\n\n\"...Hm, actually... We're short on material for the new season anyway...\"\n\n\"You people should do nicely.\""
+      ]
+    },
+    {
+      "id": 97111601,
+      "title": "Sous Chef",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "\"Ehehe~ Of course! Go on, try some, you hear?\"\n\nEyes squeezed shut, {0} took a sip of the soda...\n\n\"...Huh. That's actually...\"\n\nApparently, it was surprisingly good.\n\nWe offered a few coins in payment, but Sous Chef only returned a confused stare.\n\n\"What... are these supposed to be, you hear? I'm asking if you drank my soda without eyeballs to pay for it, you hear?!\"\n\n\"Then you've gotta at least contribute <i>something</i>, you hear?\"\n\n\"*sniff* *sniff* ... Oh! That buggy-buggy bug arm! Lemme have a lick, you hear?\"\n\nWe had little choice but to let Sous Chef lick Gregor's arm. That seemed to put her in a good mood, because we were given another cup."
+      ],
+      "failureDesc": [
+        "\"Ehehe~ Of course! Go on, try some, you hear?\"\n\nEyes squeezed shut, {0} took a sip of the soda...\n\n\"...!\"\n\n{0} couldn't bring themself to swallow the soda and spat it straight back out.\n\nThe moment it hit the floor, nearby Food Court customers rushed over and began licking up the spill.\n\n\"Such a waste, you hear?! I could've sold each of them a cup and made 30 eyeballs, you hear?\"\n\n\"Get out of the Food Court right now, you hear? Scram, you hear?!\"\n\nWe hurriedly pushed our way through the gathering crowd and made our escape."
+      ]
+    },
+    {
+      "id": 97111701,
+      "title": "Le Noir, 3F",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "\"Hm... no eyeballs?\"\n\n\"We don't accept that kind of coin here...\"\n\nThe Noir sales associate gave us an unimpressed look. {0} stepped forward and began an impassioned laudation of Le Noir's aesthetic.\n\nThey praised the Noirs' practicality, the devotion to preserving Golden Resin, and the elegance the Noirs maintained without ever compromising those principles—then somehow tied all of it back to the coins we had brought in what narrow intersection there existed.\n\n... It was, frankly, a remarkable oration.\n\n\"... To think a customer outside Le Noir could understand our philosophy and aesthetic this well...\"\n\n\"How many seasons has it been since we had a customer like this...? In fact, you may be the first since the Maison opened.\"\n\n\"Very well. They're not eyeballs... but we'll accept the coins.\"\n\nWe purchased an outfit from Maison du Noir."
+      ],
+      "failureDesc": [
+        "\"Hm... no eyeballs?\"\n\n\"We don't accept that kind of coin here...\"\n\nThe Noir sales associate gave us an unimpressed look. {0} stepped forward and began an impassioned laudation of Le Noir's aesthetic.\n\nThey praised the Noirs' practicality, the devotion to preserving Golden Resin, and the elegance the Noirs maintained without ever compromising those principles. But just as they tried to tie all of it back to the coins we had brought...\n\n\"W-wait. We understand crystal clear that you appreciate Le Noir's philosophy and aesthetic.\"\n\n\"But, regrettably...\"\n\n\"That is but one matter. Payment is another.\"\n\n\"We must charge what is owed. Otherwise, the worth of the garment itself would be diminished.\"\n\nThe Noir sales associates politely declined the offer and escorted us back to the entrance."
+      ]
+    },
+    {
+      "id": 97111801,
+      "title": "One-leg, Four-legs",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "\"*sigh* It's not enough that I have to feel the day's share of irritation from toe to head, a pack of insignificant Two-legs has to come crawling in. Are creatures born with so many legs simply incapable of recognizing how crude and wretched they are?\"\n\nOne-leg spent quite some time berating us. Apparently satisfied after venting, she eventually hopped away.\n\n\"Thank you... To think you would stand up for someone as lowly as me...\"\n\n\"It isn't much, but... please, take this—a humble token of appreciation for what you did for someone so beneath you...\""
+      ],
+      "failureDesc": [
+        "\"Exactly what I expect from uncivilized creatures with too many legs.\"\n\n\"Is it your base nature to poke your toes where they don't belong? How vulgar.\"\n\n\"I have no desire to waste another word on you. Turn those graceless feet around and leave. And you, lowly wretch—follow me to the storeroom.\"\n\n... We left Four-legs behind. The black cloth covering his face was slowly growing damp with tears."
+      ]
+    },
+    {
+      "id": 97111901,
+      "title": "Palette and Putty",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Which Sinner should go?",
+      "successDesc": [
+        "\"Back already? Thanks. You're a lot nicer than most customers.\"\n\n\"......\"\n\n\"I'd give you some dye too, but... we're backed up right now, so there's nothing to spare. Take this instead.\"\n\n\"And no, I'm not offloading my garbage, in case that's what you're thinking. It's got no use as a knee part anymore, but the dye soaked into it is rare enough. Some of those colors can't even be made anymore.\"\n\nWe received a piece of cartilage."
+      ],
+      "failureDesc": [
+        "Quite some time has passed, but {0} still hasn't returned.\n\n\"It's pretty dark back there... Maybe they wandered into that passage full of Needlekin?\"\n\nWe hurry down the passage and find {0} being carried off somewhere, hoisted overhead by a crowd of Needlekin.\n\n... We should get {0} back. And quickly."
+      ]
+    },
+    {
+      "id": 97112001,
+      "title": "Annette",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Whose head should we show her?",
+      "successDesc": [
+        "\"So... that's what it looks like inside.\"\n\nThe Alterationist muttered, peering into {0}'s open head.\n\n\"Thanks, that made the spare time a little less boring. I've seen enough now. I'll stitch you back up.\n\n\"Here. I don't know what you're planning to cut away, but you can take this for your <i>snip-snip</i>.\""
+      ],
+      "failureDesc": [
+        "\"Ah... looks like this was something you'd folded away in there. Sorry. I didn't mean to open your secret drawer.\"\n\n\"I don't think I can close it again... take this—consider it an apology.\"\n\n{0} does not move, their head still open."
+      ]
+    },
+    {
+      "id": 97111702,
+      "title": "Le Noir, 3F",
+      "eventDesc": "",
+      "prevDesc": "",
+      "behaveDesc": "Who will step forth?",
+      "successDesc": [
+        "{0} began making pointed comparisons to Boutique du Rouge, subtly putting down Le Noir's clothes.\n\nThe sales associates' faces were hidden behind black fabric, but it was easy enough to tell that their expressions were hardening.\n\n\"... You only say that because you've never worn our clothes.\"\n\n\"Leather this... fabric that... How do you know? How do you know without even trying on our clothes?\"\n\n\"You dare... compare us to the trash the Rouges call \"fashion?\"\n\n{0} paid the Noirs' angry retorts no mind and continued, becoming even more blatant with each remark.\n\n\"... Fine. So that's how you want to do this.\"\n\n\"The miserable thing about working in fashion is that even when you know you're being baited, you'll still take the loss just to prove the customer wrong... *groan*\"\n\n\"Put it on... <i>then</i> talk.\"\n\nThe fuming Noir sales associates shoved an outfit into our hands."
+      ],
+      "failureDesc": [
+        "{0} launched into an enthusiastic laudation of Boutique du Rouge's aesthetic, but... none of it landed.\n\n\"You can't even tell rigid from selvedge?\"\n\n\"You mixed up twill and plain weave... Hah. My ears are rotting just hearing your nonsensical drivel.\"\n\n\"I thought you had an eye for fashion. Turns out you're just obnoxious customers with no eye for beauty.\"\n\n\"I should've known from the way you're dressed. So you're with those hideous Rouge fools, are you?\"\n\n\"*sigh* Leave while we're still asking nicely.\"\n\nThe Noir sales associates seized us by the collar and threw us out."
+      ]
+    }
+  ]
+}

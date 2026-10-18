@@ -1,0 +1,485 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "How fareth the recall upon the fourth floor?"
+    },
+    {
+      "id": 1,
+      "teller": "Sales Associate",
+      "title": "Maison du Noir",
+      "content": "The Footwear Hall has completed its mass recall and begun inspections. The Handbags Hall, however... says it will need a little more time."
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Dispatch a few sales associates to the Handbags Hall. Should we tarry much longer, the Rouges shall drive us from the fourth floor as well."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "As for the third floor... Was Two-piece not hired to bar the corridor? Yet our foes have broken through still."
+    },
+    {
+      "id": 4,
+      "teller": "Sales Associate",
+      "title": "Maison du Noir",
+      "content": "There was an incident involving a stranger who assisted the Rouges, but most of the trouble came from those who infiltrated through the Public Address Room route."
+    },
+    {
+      "id": 5,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... This new Voice hath turned the Rouges' ears from the broadcasts. Convey this to the third floor's Floor Manager: I would have them pledge allegiance to Le Noir, and bar those intruders from our stores."
+    },
+    {
+      "id": 6,
+      "teller": "Sales Associate",
+      "title": "Maison du Noir",
+      "content": "Understood."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Hmm. And what tidings of the first floor?"
+    },
+    {
+      "id": 8,
+      "content": "Plans for running each store, plans for taking back the Luxury Hall..."
+    },
+    {
+      "id": 9,
+      "content": "The conversation beside me just kept going, filling my ears with all sorts of rumors that were all equally beyond my league."
+    },
+    {
+      "id": 10,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Um... You seem pretty busy. Would it be okay if I went on ahead by myself?"
+    },
+    {
+      "id": 11,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I really only came to pass on that rumor from Miss Alterationist. That's all..."
+    },
+    {
+      "id": 12,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... Aye. The Voice hath already revealed that to me."
+    },
+    {
+      "id": 13,
+      "content": "I'd waited for the season to change so I could make my way down to the first floor, then head for the basement floors..."
+    },
+    {
+      "id": 14,
+      "content": "... only to get stopped by Le Noir's Brand Manager. Now I was stuck tagging along with her."
+    },
+    {
+      "id": 15,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Yet thou art a Kaki, art thou not? Adrift, with no devotion to the exalted Obsidian God to guide thy path."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Until thou departest this floor, thou shalt remain at my side, where I may keep watch over thee; for I know not the definition of thy justice."
+    },
+    {
+      "id": 17,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "My definition of... justice?"
+    },
+    {
+      "id": 18,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "There is naught in the Grand Magasin of which one may be certain."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Once, the names of Le Noir and Le Rouge upheld values of their own. Yet even these were dismantled by those profane souls known as Le Néant."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Even if thou dost take the disorder of Le Kaki as thine order and live by it, the scales upon which chaos balances itself are uneven.\n"
+    },
+    {
+      "id": 21,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "You mean... like how Miss Alterationist helps the Noirs?"
+    },
+    {
+      "id": 22,
+      "content": "Ever since word got around that the Rouges had a new god..."
+    },
+    {
+      "id": 23,
+      "content": "... people in this department store started caring less and less about keeping up with the latest trends. Instead, they'd pick either Le Rouge or Le Noir, then throw themselves into that brand's fashion—and that brand's alone."
+    },
+    {
+      "id": 24,
+      "content": "But... that wasn't what I wanted."
+    },
+    {
+      "id": 25,
+      "content": "Red or black. I'd never be able to make the clothes I had in mind by limiting myself to only one of them."
+    },
+    {
+      "id": 26,
+      "content": "The two colors might clash in the same outfit. They might not blend well together, but I'd still take the chance and mix them up to make something out of both."
+    },
+    {
+      "id": 27,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I..."
+    },
+    {
+      "id": 28,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I just wanna see all sorts of things that exist here—hear about them, try them for myself... and use all that to make beautiful clothes."
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Much as thy present attire maketh no distinction between Noir and Rouge?"
+    },
+    {
+      "id": 30,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "... Yeah."
+    },
+    {
+      "id": 31,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "......."
+    },
+    {
+      "id": 32,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "The more thou dost shop, and shop again for all eternity within the Grand Magasin, the finer a designer thou shalt become."
+    },
+    {
+      "id": 33,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I... I think so too. I could become a really great one someday."
+    },
+    {
+      "id": 34,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "And I mean... good enough that even the models on 6F would ask for my brand!"
+    },
+    {
+      "id": 35,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "You know, I was something of an artist outside."
+    },
+    {
+      "id": 36,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... \"Outside\"? How distant a word that hath become."
+    },
+    {
+      "id": 37,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Tell me, what manner of person wert thou in that world?"
+    },
+    {
+      "id": 38,
+      "content": "Walking through a corridor where the sunshine was especially stinging, the Brand Manager asked the question without so much as looking my way."
+    },
+    {
+      "id": 39,
+      "content": "\"Outside.\" I could barely remember what it'd been like anymore."
+    },
+    {
+      "id": 40,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "... A pretty sorry one, I guess."
+    },
+    {
+      "id": 41,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "All I could ever create out there... were fakes."
+    },
+    {
+      "id": 42,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "I can offer thee no comforting words, for I have never led so wretched a life myself."
+    },
+    {
+      "id": 43,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Nor shall I ever know such a life, so long as I heed the Obsidian God's words and abide by the order our Lord hath proclaimed—the one true order of this department store."
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "However... I wish thee a better lot here."
+    },
+    {
+      "id": 45,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "This, uh, \"Obsidian God\"... What's he like? I've heard his Voice in the Noir stores a few times, but..."
+    },
+    {
+      "id": 46,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Shh."
+    },
+    {
+      "id": 47,
+      "content": "As we were heading to the escalator, the Manager suddenly came to a halt before the storefront of Le Rouge Contemporary Hall."
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Witness ye in silence,"
+    },
+    {
+      "id": 49,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "for the Obsidian God to me speaketh."
+    },
+    {
+      "id": 50,
+      "content": "Just when the Manager closed her eyes and knelt down as though to pray..."
+    },
+    {
+      "id": 51,
+      "content": "... a familiar silhouette came into view, past the dormant wallets littering the corridor."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 53,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "...!"
+    },
+    {
+      "id": 54,
+      "content": "Last season, I had no idea who he was—but I've had the time to learn more about him since then."
+    },
+    {
+      "id": 55,
+      "content": "The false god of Le Rouge, their new \"Voice.\""
+    },
+    {
+      "id": 56,
+      "content": "I didn't realize it then, but back at the Alteration Shop, his appearance was what indicated that the Rouges' assault was imminent."
+    },
+    {
+      "id": 57,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Manager...! Open your eyes! They're here...!"
+    },
+    {
+      "id": 58,
+      "content": "And wouldn't you know it—Le Rouge sales associates, wearing pincer-like bracelets, began marching across the corridor toward us..."
+    },
+    {
+      "id": 59,
+      "content": "... but the Manager's eyes remained shut, focused entirely on hearing the Voice."
+    },
+    {
+      "id": 60,
+      "content": "I cursed under my breath. I really didn't want to use it here, but there wasn't much else I could do... So I swallowed back the tears and brought out the fabric I'd picked up on the third floor."
+    },
+    {
+      "id": 61,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "......."
+    },
+    {
+      "id": 62,
+      "content": "As my fabric managed to briefly repel the first wave of the Rouges..."
+    },
+    {
+      "id": 63,
+      "content": "The Brand Manager slowly opened her eyes and raised her greathammer, her audience with the Voice concluded. "
+    },
+    {
+      "id": 64,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "I proclaim this land a hallowed sanctum."
+    },
+    {
+      "id": 65,
+      "content": "I shut my eyes, momentarily stunned by a burst of light. It was unlike the sunshine of this department store, but it was still blinding."
+    },
+    {
+      "id": 66,
+      "content": "Strange symbols began creeping along my clothes—the parts that were woven from Le Noir fabric, to be specific."
+    },
+    {
+      "id": 67,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... The Obsidian God hath already promised me eternity and preservation."
+    },
+    {
+      "id": 68,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Thou needst not have stood in my defense. Alas..."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Just what be that... thing?"
+    },
+    {
+      "id": 70,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I-it's a Mannequin in my storage."
+    },
+    {
+      "id": 71,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "I've dressed it up with clothes I designed, what with it being fabric and all..."
+    },
+    {
+      "id": 72,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... I cannot say that thy design is much to my liking, yet the quality is quite adequate."
+    },
+    {
+      "id": 73,
+      "content": "With each wave of the Manager's hand, brilliant nails of light materialize from thin air."
+    },
+    {
+      "id": 74,
+      "content": "The way they came into being almost looked as though threads of light were weaving them into existence, each grain falling into an orderly pattern of warps and wefts. And just as I realized every nailpoint was angled toward a different Rouge assailant..."
+    },
+    {
+      "id": 75,
+      "content": "... there was a blur, followed by a powerful gust, as the hammer struck the head of each nail as though drawn by some gravity."
+    },
+    {
+      "id": 76,
+      "content": "After a veritable storm of nails and hammers reduced the onslaught of Rouges into red paste... the false god could not be seen anywhere."
+    },
+    {
+      "id": 77,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... We must lay siege upon the second floor anon."
+    },
+    {
+      "id": 78,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Though I had intended to descend to B2F abreast thee, one of Le Kaki..."
+    },
+    {
+      "id": 79,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "'tis evident to me that now is the time to rise."
+    },
+    {
+      "id": 80,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "Did the Obsidian God tell you to... climb?"
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... Nay."
+    },
+    {
+      "id": 82,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Concerning the false god... the Lord has said that..."
+    },
+    {
+      "id": 83,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "... Tut, I shan't let doubt taint my lips, for this ordeal be but a test of my faith."
+    },
+    {
+      "id": 84,
+      "model": "돈키호테",
+      "title": "Le Noir Brand Manager",
+      "content": "Prithee, let this rumor spread far and wide."
+    },
+    {
+      "id": 85,
+      "content": "Well, now that I've seen the Brand Manager up the escalator..."
+    },
+    {
+      "id": 86,
+      "content": "... it's time to head downsta—"
+    },
+    {
+      "id": 87,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "... Huh, was this always here?"
+    },
+    {
+      "id": 88,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "\"The human forms... converge again and again... upon the structure of a... tree...\""
+    },
+    {
+      "id": 89,
+      "teller": "Dubois",
+      "title": "Le Kaki",
+      "content": "\"Past life.\" Past life, in a past life, I..."
+    }
+  ]
+}

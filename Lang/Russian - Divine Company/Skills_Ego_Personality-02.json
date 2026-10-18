@@ -1082,6 +1082,216 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2021111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Trou",
+          "abName": "Hollowed Man",
+          "desc": "[CantDuel]\nWhen used for the first time in an Encounter, consume 5 less SP, 2 fewer Gloom, 2 fewer Pride, and 2 fewer Envy E.G.O Resources\nAt 1+ [BulletHole], activate as \"Boucher un trou\" instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 5 [BulletHole]\n[EndSkill] Gain 5 [Breath] Potency\n[EndSkill] Gain +3 [Breath] Count\n[EndSkill] Gain +5 [Charge] Count\n[EndSkill] Gain 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Le Trou",
+          "abName": "Hollowed Man",
+          "desc": "[CantDuel]\nWhen used for the first time in an Encounter, consume 5 less SP, 2 fewer Gloom, 2 fewer Pride, and 2 fewer Envy E.G.O Resources\nAt 1+ [BulletHole], activate as \"Boucher un trou\" instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 5 [BulletHole]\n[EndSkill] Gain 5 [Breath] Potency\n[EndSkill] Gain +3 [Breath] Count\n[EndSkill] Gain +5 [Charge] Count\n[EndSkill] Gain 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Le Trou",
+          "abName": "Hollowed Man",
+          "desc": "[CantDuel]\nWhen used for the first time in an Encounter, consume 5 less SP, 2 fewer Gloom, 2 fewer Pride, and 2 fewer Envy E.G.O Resources\nAt 1+ [BulletHole], activate as \"Boucher un trou\" instead\nThis Skill does not hit an enemy, does not trigger Defense Skills, and external effects cannot trigger this Skill to be Reused\n[EndSkill] Gain 5 [BulletHole]\n[EndSkill] Gain 5 [Breath] Potency\n[EndSkill] Gain +3 [Breath] Count\n[EndSkill] Gain +5 [Charge] Count\n[EndSkill] Gain 4 [BlackWingHole]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Boucher un trou",
+          "abName": "Hollowed Man",
+          "desc": "External effects cannot trigger this Skill to be reused\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\nClash Power +2 for every [BulletHole]\n[BeforeAttack] Spend all [BulletHole] and apply the following effects:\n- Gain 2 [Breath] Potency, +1 [Breath] Count, and +2 [Charge] Count for every [BulletHole] spent\n- Deal +8% damage for every [BulletHole] spent\nIf this Skill spent 5 [BulletHole], heal 5 SP\n[EndSkill] Gain 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Reuse this Coin ([BulletHole] spent - 1) times (max 4 times)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Boucher un trou",
+          "abName": "Hollowed Man",
+          "desc": "External effects cannot trigger this Skill to be reused\n<style=\"highlight\">Deal +5% damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)</style>\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">7</style>)\nClash Power +2 for every [BulletHole]\n<style=\"highlight\">[BeforeAttack] When attacking just 1 target, deal +50% damage (in Focused Encounters, the Core and its connected Parts count as a single target)</style>\n[BeforeAttack] Spend all [BulletHole] and apply the following effects:\n- Gain 2 [Breath] Potency, +1 [Breath] Count, and +2 [Charge] Count for every [BulletHole] spent\n- Deal +8% damage for every [BulletHole] spent\nIf this Skill spent 5 [BulletHole], heal 5 SP\n[EndSkill] Gain 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(Reuse this Coin ([BulletHole] spent - 1) times (max 4 times)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Boucher un trou",
+          "abName": "Hollowed Man",
+          "desc": "External effects cannot trigger this Skill to be reused\nDeal <style=\"highlight\">+10%</style> damage for every excess Atk Weight beyond the # of actual targets (in Focused Encounters, the Part)\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">10</style>)\nClash Power +2 for every [BulletHole]\n[BeforeAttack] When attacking just 1 target, deal <style=\"highlight\">+100%</style> damage (in Focused Encounters, the Core and its connected Parts count as a single target)</style>\n[BeforeAttack] Spend all [BulletHole] and apply the following effects:\n- Gain 2 [Breath] Potency, +1 [Breath] Count, and +2 [Charge] Count for every [BulletHole] spent\n- Deal +8% damage for every [BulletHole] spent\n<style=\"highlight\">[EndSkill] Apply 5 [Breath] Potency and +2 [Breath] Count on (2 + highest Reson.) allies (max 7 units)</style>\nIf this Skill spent 5 [BulletHole], heal 5 SP\n[EndSkill] Gain 1 [BulletHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "(Reuse this Coin ([BulletHole] spent - 1) times (max 4 times)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2021121,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "[CantIdentify]\nTargets randomly\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max 5)\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume up to 15 excess [Charge] Count beyond 10 on self to deal +([Charge] Count consumed x 2)% damage\n[BeforeAttack] At max [BulletHole], spend all [BulletHole] to apply the following effects on all allies next turn:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (once per turn)\n- 1 [CriticalDamageUp] (once per turn)\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n[EndSkill] Gain 1 [BulletHole] and 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "[CantIdentify]\nTargets randomly\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">7</style>)\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume up to 15 excess [Charge] Count beyond 10 on self to deal +([Charge] Count consumed x <style=\"highlight\">3</style>)% damage\n[BeforeAttack] At max [BulletHole], spend all [BulletHole] to apply the following effects on all allies next turn:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (once per turn)\n- 1 [CriticalDamageUp] (once per turn)\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n[EndSkill] Gain 1 [BulletHole] and 2 [BlackWingHole]\n<style=\"highlight\">[EndSkill] Apply 5 [Breath] Potency and +2 [Breath] Count on (2 + highest Reson.) random allies (max 7 units)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hollow",
+          "abName": "Hollowed Man",
+          "desc": "[CantIdentify]\nTargets randomly\nClash Power +1 for every 4 ([Breath] Potency + [Charge] Count) on self (max <style=\"highlight\">10</style>)\n\n[BeforeAttack] Gain +3 [Breath] Count and +5 [Charge] Count\n[BeforeAttack] Consume up to 15 excess [Charge] Count beyond 10 on self to deal +([Charge] Count consumed x <style=\"highlight\">5</style>)% damage\n[BeforeAttack] At max [BulletHole], spend all [BulletHole] to apply the following effects on all allies next turn:\n- 1 [AttackUp] \n- 1 [AttackDmgUp] (once per turn)\n- 1 [CriticalDamageUp] (once per turn)\n[BeforeAttack] Base Power -3 for every Cracked Coin (max -9)\n[EndSkill] Gain 1 [BulletHole] and 2 [BlackWingHole]\n[EndSkill] Apply 5 [Breath] Potency, +2 [Breath] Count, <style=\"highlight\">and 2 [BlackWingHole]</style> on (2 + highest Reson.) random allies (max 7 units)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

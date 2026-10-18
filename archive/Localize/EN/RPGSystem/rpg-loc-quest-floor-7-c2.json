@@ -1,0 +1,30 @@
+{
+  "dataList": [
+    {
+      "key": "Q7001_C2",
+      "title": "A Bright Room",
+      "description": "Meursault rolled the boulder all the way to the summit, only for it to come tumbling down once more. And now, the place we've finally reached is... the very top of the department store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Keep moving forward."
+        },
+        {
+          "index": 1,
+          "goalDescription1": "And take a seat."
+        }
+      ]
+    },
+    {
+      "key": "Q7002_C2",
+      "title": "???",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    }
+  ]
+}
+

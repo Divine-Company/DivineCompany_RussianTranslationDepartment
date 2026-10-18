@@ -1,0 +1,256 @@
+﻿{
+  "dataList": [
+    {
+      "id": 150301,
+      "name": "Ceaseless Wailing",
+      "desc": "Encounter Start: Enter Panic state\n\nIf this unit is in Panic state, apply the following effects:\n- <color=#ff6000><mark color=#ff000040><b><u>All Attacks target Pwie</color></mark></b></u>\n- On Skill Use, if Pwie is the main target, gain Clash Power and Base Power\n- Combat Start: Convert all Coins into [SuperCoin]s",
+      "flavor": "The children of the thing of eld are no more."
+    },
+    {
+      "id": 150302,
+      "name": "Tangled Black Thread",
+      "desc": "The effects of this unit's Skills, Low Morale, and Panic inflict [TangleBlackYarn] on the enemy\n※ [TangleBlackYarn] can be reduced either by <color=#ff6000><mark color=#ff000040><b><u>using Defense Skills or via certain Skills of this unit</color></mark></b></u>\nWhen hit, activate the following effects:\n- Gain 1 [SickBlackYarn]\n- If the Skill that hit this unit is a <color=#ff6000><mark color=#ff000040><b><u>Slash Skill</color></mark></b></u>, gain 1 additional [SickBlackYarn]\n- If the Skill that hit this unit has <color=#ff6000><mark color=#ff000040><b><u>5+ Atk Weight</color></mark></b></u>, gain [HeavyBlackYarn] next turn (once per turn)",
+      "flavor": "The black thread wound around its body was not there before. By sheer fortune, when the previous age gave way to the next, those threads coiled around the body of the thing of eld. Wrapped in thread, it survived into the Age of the Department Store. Now, those black threads begin to come undone.\n\nBefore the Age of the Aquarium, came the Age of the Plaza, the Age of the Bomb Shelters, the Age of the Courtroom, and many others. Their names and forms may have differed, but the essence that drove the workings of the Sisyphe System remained ever the same.\n\nWith each passing Age, people adapted to the transformed world, enduring one era after another in their human form.\n\nWhat lies tangled in the threads of the present Age is not merely that of the two preceding Ages, but every Age that has settled here, layer upon layer."
+    },
+    {
+      "id": 150303,
+      "name": "Into the Waters of Eld",
+      "desc": "If a Part becomes <color=#ff6000><mark color=#ff000040><b><u>Staggered</color></mark></b></u>, remove <color=#ff6000><mark color=#ff000040><b><u>1 Stagger Threshold from other Parts and end the turn</color></mark></b></u>; then, all Parts gain [HideBlackYarn] next turn\n\n<color=#ff6000><mark color=#ff000040><b><u>If [HideBlackYarn] expired due to being hit</color></mark></b></u>,\n- Gain 10 [SickBlackYarn]\n- If [SickBlackYarn] was gained beyond its max cap, gain 3 Fragile this turn and next turn\n\nTurn End: If [HideBlackYarn] expired,\n- Gain (7 - remaining Potency) [SickBlackYarn]\n- Gain 1 [AngryBlackYarn] next turn",
+      "flavor": "Into the embrace of the sea from a bygone age, where once it swam as naturally and freely as could be."
+    },
+    {
+      "id": 150304,
+      "name": "Lingering Dampness",
+      "desc": "Take less HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]; -50% to Stagger Threshold raised by [Vibration]\n\nThis unit's Panic Type does not change when inflicted with an effect that changes Panic Types\nTurn End: If this unit is in Panic, SP returns to 0",
+      "flavor": "Aquarium Sisyphe is gone, yet this body still retains a faint trace of the water from those days—moisture that has not yet turned to thread."
+    },
+    {
+      "id": 150101,
+      "name": "A Doll Molded from Clay",
+      "desc": "Encounter Start: Heal to max HP\n\nThe Core and the Part do not take damage from [Combustion] and [Laceration]",
+      "flavor": "That porcelain-like skin came from clay."
+    },
+    {
+      "id": 150102,
+      "name": "Unwithering Flower",
+      "desc": "Combat Start: Gain 1 [AlriunePetal]\n\nIf this unit becomes Staggered,\n- Gain 2 [Vulnerable] next turn\n- Heal 20 SP on Sinners and Assist Units\n- Turn Start: If this unit recovered from Stagger, reset [AlriunePetal] to 1\n\nTurn Start: If no enemies have [FlowerLaurelWreath], <color=#ff6000><mark color=#ff000040><b><u>equip the \"Fragrant Laurel Wreath\" Skill</color></mark></b></u>\n- Equip the said Skill next turn if this unit equipped \"Bearing the hope to return to dust...\" this turn\n\n<color=#ff6000><mark color=#ff000040><b><u>Take -50% damage from Skills used by enemies that do not have [FlowerLaurelWreath]</color></mark></b></u>\n<color=#ff6000><mark color=#ff000040><b><u> Take +150% damage from enemies that have [FlowerLaurelWreath]</color></mark></b></u>",
+      "flavor": "Flowers wilt. Then they bloom again."
+    },
+    {
+      "id": 150103,
+      "name": "Spring's Advent",
+      "desc": "Deal 20 SP damage to Staggered enemies\n\nTurn Start: <color=#ff6000><mark color=#ff000040><b><u>If there is a target in Panic or in Corrosion, use \"... It shall go back to the grave with all that desires to live\" on the said target</color></mark></b></u> (max 2 times per turn, prioritizes the slowest enemies in ascending order of Speed, excluding Assist Units)\n\nIf the said Skill killed the target, summon 1 \"One Who Emerged from the Earth\" next turn\n- This effect does not activate when there are 4 \"One Who Emerged from the Earth\" on the field",
+      "flavor": "When spring comes, it shall bloom."
+    },
+    {
+      "id": 150201,
+      "name": "From the Earth",
+      "desc": "This unit does not take damage from [Combustion] and [Laceration]\n\n<color=#ff6000><mark color=#ff000040><b><u>+100% to Stagger Threshold raised by [Vibration]</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>This unit is defeated when Staggered</color></mark></b></u>",
+      "flavor": "Back to the earth."
+    },
+    {
+      "id": 151901,
+      "name": "Ultra-High-Speed SPM",
+      "desc": "If target's <color=#ff6000><mark color=#ff000040><b><u>Speed is slower than this unit's, Clash Power +3</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>If this unit has 11+ [ChargeKhaki] Count at the end of the turn this unit used a Skill that consumes [ChargeKhaki] Count</color></mark></b></u>, use a powerful Skill\n\nAt 50% or less HP, use a powerful Skill (once per Encounter)",
+      "summary": "If target's Speed is slower than this unit's, gain Clash Power",
+      "flavor": "Big Sis can reach 10,000 SPM."
+    },
+    {
+      "id": 151902,
+      "name": "Nailed Stitch",
+      "desc": "Deal +40% damage to Staggered or immobilized targets",
+      "flavor": "Nothing is easier than stitching something that cannot move."
+    },
+    {
+      "id": 151903,
+      "name": "Color Stitch",
+      "desc": "If this unit has [SpreadingDye], inflict 1 [StickyDye] against targets this unit's Skill hit\n\nApply the following effects to targets that have [ThreadDye]:\n- Skills inflict +([ThreadDye] Potency) more [Laceration] Potency and Count\n- When inflicting [StickyDye] via the effect above, inflict 1 [StickyDye] on a random enemy that has [ThreadDye], excluding the target that has been inflicted \n\nDoes not inflict [ThreadDye] on Skill targets that have [Inactible]",
+      "flavor": "You stitch the fabric, Big Sis. I'll dye with you."
+    },
+    {
+      "id": 151904,
+      "name": "Stitch Count Regulator Adjustment",
+      "desc": "Encounter Start: Heal max HP and 45 SP\n\nGain 1 [ChargeKhaki] for every 10 cumulative [ChargeKhaki] Count this unit consumed in this Encounter"
+    },
+    {
+      "id": 149501,
+      "name": "Alteration",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [TailoringTarget] on the Sinner that dealt the most damage</u></b></mark></color> to this unit last turn and use the \"Patterning\" Skill\n- If the [TailoringTarget] Sinner <color=#ff6000><mark=#ff000040><b><u>has 9 [ScissorsMark]</u></b></mark></color>, activate \"Patterning\" as <color=#ff6000><mark=#ff000040><b><u>\"Surfile à la Chaîne\"</u></b></mark></color> instead\n\nEvery time this unit is hit by a Sinner,\n- Inflict 1 [ScissorsMark] on the said Sinner (max 5 per turn per Sinner)\n- Gain +1 [ChargeKhaki] Count (max 5 per turn per Sinner)\n\n<color=#ff6000><mark=#ff000040><b><u>Gain 3 [ResultEnhancement] every time this unit is hit by a Sinner that has [TailoringTarget] (max 9 per turn)</u></b></mark></color>",
+      "flavor": "They say a garment is only truly finished through alteration. Unless it was made to measure, it has to be adjusted until it fits the wearer.\n\nAnd that is not true of clothing alone. Whatever is taken in from the outside must first be altered to suit oneself before it can be worn, lived in, and made to fit the heart."
+    },
+    {
+      "id": 149503,
+      "name": "Tailoring",
+      "desc": "At Encounter Start or at the start of the turn this unit recovered from Stagger, gain 30 [FinishedFabric]\n\nApply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 30\n\nTurn Start:\n- <color=#ff6000><mark=#ff000040><b><u>Gain Shield equal to ([FinishedFabric] Stack)% HP</u></b></mark></color> (max 30%)\n- Heal SP equal to [FinishedFabric] Stack",
+      "flavor": "Cutting means shaping fabric to a pattern. Cutting gives a garment its form, while alteration makes it wearable.\n\nTo fabric, then, cutting itself is a form of alteration. Once cut, the fabric takes on a shape that reflects its own properties, becoming the garment the cutter intended."
+    },
+    {
+      "id": 149504,
+      "name": "Scissors That Do Not Rest",
+      "desc": "Every time Annette the Alterationist is hit by a Sinner, <color=#ff6000><mark=#ff000040><b><u>raise Stagger Threshold equal to 0.8% HP</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>If this unit is Staggered, lose all Shield, [FinishedFabric], and [LargeTailoringShears]; then, gain 3 [Vulnerable]</u></b></mark></color>\n\nTurn Start: At 60% or less HP,\n- Gain 1 [ResultEnhancement] and 1 [SlashDamageUp] for every 20% missing HP (max 3 respectively)\n- Convert the final Coin of \"Trimming\" and Coin 2 of \"Cutting\" to [SuperCoin]",
+      "flavor": "A body whose very worth was shaped by the work of alteration goes on cutting without end, driven to alter and tailor forever.\n\nEven as the body breaks apart, she cannot bring herself to stop altering and cutting. She is made to cut things away, yet cannot cut herself free."
+    },
+    {
+      "id": 149505,
+      "name": "Inertia of Drifting",
+      "desc": "Gain 1 [ChargeKhaki] Potency for every 10 cumulative [ChargeKhaki] Count this unit consumes in this Encounter\n\nAt 3+/5+ [ChargeKhaki] Potency, [ChargeKhaki] Count max cap +5/+10",
+      "flavor": "They drift along the values shaped by the Age of the Department Store, swept onward by their inertia; and the stronger that inertia grows, the less able they are to stop drifting."
+    },
+    {
+      "id": 150601,
+      "name": "Conservation",
+      "desc": "Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n[ChargeNoir] Count max cap +10"
+    },
+    {
+      "id": 150602,
+      "name": "Malleus Promissionis",
+      "desc": "On Hit, or when hit, gain +1 [ChargeNoir] Count",
+      "flavor": "A hammer drives nails. This hammer strikes nothing but nails. Whatever it strikes is a nail. That is what was agreed upon."
+    },
+    {
+      "id": 150603,
+      "name": "Formation Conservation",
+      "desc": "Boost the level of \"Le Noir\" allies\n\nAll \"Le Noir\" allies take -5% damage for every living \"Le Noir\" ally on the field\nOn death of a \"Le Noir\" ally, all \"Le Noir\" allies gain 1 [NoirSquareCollapse] for the rest of this Encounter (including newly summoned units)",
+      "flavor": "Each stays at their post and faithfully performs the duty entrusted to them. Together, they form a formation, and that formation becomes an image that preserves the whole. Fulfill thy charge faithfully, each in thine appointed place."
+    },
+    {
+      "id": 150401,
+      "name": "Le Noir: Fabric",
+      "desc": "Upon entering the Encounter for the first time, gain 5 [NoirBindArmor]\n\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP\n\nWhen Staggered, lose all [NoirBindArmor]\nTurn Start: When this unit recovers from Stagger, gain 5 [NoirBindArmor]",
+      "flavor": "Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 150402,
+      "name": "Conservation",
+      "desc": "Apply the following effects based on cumulative [ChargeNoir] Count this unit consumes in this Encounter:\n- Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count consumed\n- Gain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count consumed\n\nAt 3+ [ChargeNoir] Potency, max [ChargeNoir] Count +5",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 150403,
+      "name": "Quality Preservation",
+      "desc": "When hit while this unit has Shield, gain +1 [ChargeNoir] Count\n\nAt 10+ [ChargeNoir] Count, use a powerful Skill",
+      "flavor": "The quality of merchandise must be strictly managed and preserved."
+    },
+    {
+      "id": 150404,
+      "name": "Fabric Density Disparity",
+      "desc": "At 3+/5+ [ChargeNoir] Potency, inflict +1/+2 more [Vibration] Potency\n\nOn Skill Use, if this unit's Defense Level is higher than the target's, deal +3% damage for every Defense Level difference (max 30%)\n- If this unit's Defense Level is 5+ levels higher, Base Power +1",
+      "flavor": "The Noirs crush whatever is softer than their own fabric."
+    },
+    {
+      "id": 150501,
+      "name": "Le Noir: Fabric",
+      "desc": "Upon entering the Encounter for the first time, gain 5 [NoirBindArmor]\n\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP\n\nWhen Staggered, lose all [NoirBindArmor]\nTurn Start: When this unit recovers from Stagger, gain 5 [NoirBindArmor]",
+      "flavor": "Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 150502,
+      "name": "Conservation",
+      "desc": "Apply the following effects based on cumulative [ChargeNoir] Count this unit consumes in this Encounter:\n- Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count consumed\n- Gain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count consumed\n\nAt 3+ [ChargeNoir] Potency, [ChargeNoir] Count max cap +5",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 150503,
+      "name": "Inspection Preservation",
+      "desc": "At 10+ [ChargeNoir] Count, use a powerful Skill",
+      "flavor": "Quality must pass inspection, and preservation must not be compromised in the process."
+    },
+    {
+      "id": 150504,
+      "name": "Fabric Density Disparity",
+      "desc": "At 3+/5+ [ChargeNoir] Potency, inflict +1/+2 more [Vibration] Potency\n\nOn Attack Skill Use, if this unit's Defense Level is higher than the target's, deal +3% damage for every Defense Level difference (max 30%)\n- If this unit's Defense Level is 5+ levels higher, Base Power +1",
+      "flavor": "Le Noir crushes whatever is softer than their own fabric."
+    },
+    {
+      "id": 148801,
+      "name": "Reaping Raw Hide: Original Sin Style",
+      "desc": "Turn Start: When there are 2 or fewer Tanned Prisoners on the field, gain additional Slot\nTurn End: Gain 1 [AttackDmgUp] next turn for every <color=#ff6000><mark=#ff000040><b><u>Tanned Prisoner on the field</u></b></mark></color>",
+      "flavor": "The transgressor's hide is torn away, and the sin clinging to it is scraped clean, leaving only the hide to be harvested."
+    },
+    {
+      "id": 148802,
+      "name": "Retanning Preparation",
+      "desc": "Gain additional Slot when there is an ally, excluding this unit, with less than 80% HP on the field",
+      "flavor": "Once sin seeps back into the leather, the Tannery takes it in and works it clean all over again."
+    },
+    {
+      "id": 148803,
+      "name": "Tannery of the Original Sin: Full Operation",
+      "desc": "At less than 50% Core HP, end the turn and enter a new pattern; all allies, including this unit, gain [RestrictFailed] for the rest of this Encounter",
+      "flavor": "Demand has gone through the roof, while raw hides have only grown harder to come by. The hide of the original sinners was once the sort nobody would so much as glance at. Then one season changed everything: demand surged, prices soared, and what used to be sold for scraps or simply thrown away became coveted material.\n\nNow even the blemishes on its surface are dressed up as character and sold as part of the appeal."
+    },
+    {
+      "id": 148804,
+      "name": "Rules of the Tannery",
+      "desc": "Starting from Turn 2, randomly inflict 1 of the following effects on 3 random enemies at the start of each turn\n- [RestrictMob]\n- [RestrictBoss]\n- [RestrictTier1]\n- [RestrictDef]\n\nWhen a Rule is violated, inflict 1 [RestrictDenied]",
+      "flavor": "What separates a slab of meat from hide is a strict regime of tanning, governed by exacting rules."
+    },
+    {
+      "id": 149101,
+      "name": "Tanned Prisoner",
+      "desc": "On Death, the Overseer permanently loses 1 Defense Level for the rest of this Encounter"
+    },
+    {
+      "id": 150604,
+      "name": "The Battle Continues",
+      "desc": "Start this Encounter with 80% HP and 45 SP"
+    },
+    {
+      "id": 151001,
+      "name": "The Sewing Commences",
+      "desc": "Turn Start: Inflict [NiddleExpected] on 2 random enemies"
+    },
+    {
+      "id": 151002,
+      "name": "Handmade",
+      "desc": "Skill Final Power +1 for every Needlekin on the field",
+      "flavor": "No hand sewing survives on one pair of hands alone. A host of practiced artisans are needed to breathe life into it."
+    },
+    {
+      "id": 151003,
+      "name": "Unending, Unavoidable Stream of Customer Complaints",
+      "desc": "\"Cry of the Cocoon\" is heard every \"multiple of 3\" turns\nUpon entering Phase 2, \"Cry of the Cocoon\" continues to be heard every turn\n\nThis unit cannot be immobilized in the turn \"Cry of the Cocoon\" is heard\n\nIf this unit's HP is brought past its Stagger Threshold, gain 2 [Vulnerable] next turn",
+      "flavor": "Voices seep from the cocoon.\n\n\"Anything under 80-count two-ply? Not even fabric!\"\n\"Why aren't the buttonholes horizontal?\"\n\"Jersey knit on machine? Really?\"\n\"Why isn't the selvage red?\"\n\"This hasn't even been shrink-proofed.\"\n\"Anything below Super 150 is cheap cloth, obviously.\"\n\"You think the Super scale is just yarn thickness? Diameter and yarn count aren't even the same thing. Don't you know that?\"\n\"You're finishing the hem with a Union Special, right? Of course you are!\"\n\"Is this Rigid? ... Oh. Selvage?\"\n\"Wait... the stitch-per-inch count is way too even. You used a machine, didn't you?\"\n\"It's not bespoke if it's not hand-stitched.\"\n\"... That's not even a Milanese buttonhole.\"\n\"Shirting needs to be over 200-count.\"\n\"Ugh, I can see the stitching on the outside.\"\n\"There, I can see two rows of stitching there. Rejected.\"\n\"What's with this seam finish?\"\n\"Three-ply, minimum.\""
+    },
+    {
+      "id": 149604,
+      "name": "Shower of Stinging Sunshine",
+      "desc": "This unit's level is raised due to the influence of the sunshine\n\nEncounter Start: Gain [GoldenLeatherEnhance]",
+      "flavor": "To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 148805,
+      "name": "The Battle Continues",
+      "desc": "Start this Encounter with 90% HP and 45 SP"
+    },
+    {
+      "id": 148305,
+      "name": "Shower of Stinging Sunshine",
+      "desc": "This unit's level is raised due to the influence of the shower of stinging sunshine\n\nEncounter Start: Gain 2 [ChargeNoir] Potency and +15 [ChargeNoir] Count\n\nStart the Encounter with 30 SP and 1000 persistent Shield\n",
+      "flavor": "To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 1590001,
+      "name": "Shower of Stinging Sunshine",
+      "desc": "This unit's level is raised due to the influence of the sunshine",
+      "flavor": "To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 149608,
+      "name": "Unending, Unavoidable Stream of Customer Complaints",
+      "desc": "\"Cry of the Cocoon\" continues to be heard every turn\nCannot be immobilized[TabExplain]"
+    },
+    {
+      "id": 151101,
+      "name": "Shower of Stinging Sunshine",
+      "desc": "This unit's level is raised due to the influence of the shower of stinging sunshine\n\nEncounter Start: Gain [SapsareeGold]",
+      "flavor": "To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 151201,
+      "name": "Shower of Stinging Sunshine",
+      "desc": "This unit's level is raised due to the influence of the shower of stinging sunshine\n\nEncounter Start: Heal all HP and gain [GoldenManager]",
+      "flavor": "To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    }
+  ]
+}

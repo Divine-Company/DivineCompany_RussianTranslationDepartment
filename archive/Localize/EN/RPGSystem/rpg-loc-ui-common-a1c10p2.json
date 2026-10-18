@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "key": "ItemFilterBuffetUpgrade",
+      "text": "Pwie Upgrades"
+    },
+    {
+      "key": "Setting_Tab_Key",
+      "text": "Key Mapping"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveUp",
+      "text": "Move up"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveDown",
+      "text": "Move down"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveLeft",
+      "text": "Move left"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveRight",
+      "text": "Move right"
+    },
+    {
+      "key": "KeyDesc_PlayerFieldAttack",
+      "text": "Attack"
+    },
+    {
+      "key": "KeyDesc_PlayerGuard",
+      "text": "Block"
+    },
+    {
+      "key": "KeyDesc_PlayerDodge",
+      "text": "Evade"
+    },
+    {
+      "key": "KeyDesc_PlayerRun",
+      "text": "Sprint"
+    },
+    {
+      "key": "KeyDesc_PlayerQuestNavigationToggle",
+      "text": "Toggle quest navigation arrow"
+    },
+    {
+      "key": "KeyDesc_PlayerLanternToggle",
+      "text": "Lantern ON/OFF"
+    },
+    {
+      "key": "KeyDesc_PlayerAutoAttackToggle",
+      "text": "Auto-attack"
+    },
+    {
+      "key": "KeyDesc_PlayerSuicide",
+      "text": "Return to the Fount"
+    },
+    {
+      "key": "KeyDesc_UiToggleInventoryTab",
+      "text": "View inventory"
+    },
+    {
+      "key": "KeyDesc_UiToggleQuestTab",
+      "text": "Journal: Quests"
+    },
+    {
+      "key": "KeyDesc_UiToggleManualTab",
+      "text": "Keyboard shortcuts guide"
+    },
+    {
+      "key": "KeyDesc_UiToggleSystemLog",
+      "text": "View Log History"
+    },
+    {
+      "key": "KeyBind_InvalidKey",
+      "text": "This key is unavailable."
+    },
+    {
+      "key": "MoveToKeyBind",
+      "text": "To Key Mapping"
+    }
+  ]
+}

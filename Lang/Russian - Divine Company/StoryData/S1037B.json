@@ -1,0 +1,639 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "A Bright Room, 7F",
+      "model": "싱클레어",
+      "content": "This is the last floor...? Then where's the Golden Bough?"
+    },
+    {
+      "id": 1,
+      "model": "로쟈",
+      "content": "Oh, yeah. There's... there's nothing in this room."
+    },
+    {
+      "id": 2,
+      "model": "파우스트",
+      "content": "Dante."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<... It's very, <i>very</i> close. I can feel it.>"
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<But... I can't tell where it is...>"
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "The Bough you're all looking for is... So close, yet so far."
+    },
+    {
+      "id": 6,
+      "model": "잔느",
+      "content": "It's \"outside\" the Grand Magasin. Not within this construct of millions of minds, but in the physical world where their bodies are."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "So we never had any hope of leaving this place with the Golden Bough to begin with? Feels like we've been down this road before..."
+    },
+    {
+      "id": 8,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 9,
+      "model": "잔느",
+      "content": "... I told you, ma puce."
+    },
+    {
+      "id": 10,
+      "model": "잔느",
+      "content": "The end is predetermined."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Then... what is this place?>"
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<Each floor of this department store had a role assigned to it, as bizarre as it was.>"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "The manager is wondering what the role of this floor is, based on the prior knowledge that each floor of the department store had some form of a role."
+    },
+    {
+      "id": 14,
+      "model": "잔느",
+      "content": "Fuhu."
+    },
+    {
+      "id": 15,
+      "model": "잔느",
+      "content": "Most customers begin to adapt and settle... about 3 days after being consigned to the Grand Magasin Sisyphe."
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "After a week, they start shopping, wearing clothes, saving up eyeballs..."
+    },
+    {
+      "id": 17,
+      "model": "잔느",
+      "content": "After two, they either choose a side—you know, the Rouges, the Noirs—or let the trends carry them without putting much thought into it."
+    },
+    {
+      "id": 18,
+      "model": "잔느",
+      "content": "And little by little... they stop being \"strangers\" to this place."
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "I still remember the first day you people came to this place. So puzzled by this curious new world. You found everything so very strange."
+    },
+    {
+      "id": 20,
+      "model": "잔느",
+      "content": "\"Why are they pocketing eyeballs?\"\n\"Why can't we touch anything?\"\n\"What the hell is Le Rouge? Le Noir?\"\n\"Why are they so obsessed with clothing? This Golden light...?\""
+    },
+    {
+      "id": 21,
+      "model": "잔느",
+      "content": "\"What a bizarre place I've fallen into. Why is this place like this\"?"
+    },
+    {
+      "id": 22,
+      "model": "잔느",
+      "content": "And look at you now. You've already begun looking for the traces of the Grand Magasin you remember, the department store you'd grown so familiar with. Ma puce, I must say, your new coworkers have made excellent customers out of themselves."
+    },
+    {
+      "id": 23,
+      "model": "오티스",
+      "content": "... We just want to know what this place is."
+    },
+    {
+      "id": 24,
+      "model": "오티스",
+      "content": "A massive, empty hall like this—there has to be a reason it exists."
+    },
+    {
+      "id": 25,
+      "model": "잔느",
+      "content": "Ugh, you can't possibly be that thick. Listen, you're still stuck thinking \"everything exists for a reason, <i>obviously</i>.\" \"There has to be some kind of meaning behind every existence\"—"
+    },
+    {
+      "id": 26,
+      "model": "잔느",
+      "content": "—and that very thought, that expectation for raison d'être... is the curse that afflicts everyone."
+    },
+    {
+      "id": 27,
+      "model": "잔느",
+      "content": "This place you've stumbled into is... my room. The rooftop of the department store. A place that used to be a <i>non-place</i>."
+    },
+    {
+      "id": 28,
+      "model": "잔느",
+      "content": "The Grand Magasin Sisyphe is a veritable setting board where countless things are nailed and pinned into existence... but this one place, I've kept pristine and free."
+    },
+    {
+      "id": 29,
+      "model": "잔느",
+      "content": "A place of my own, of primordial freedom, unbeheld by any gaze, unimagined in any mind—the realm of nothingness that is simply <i>isn't</i>."
+    },
+    {
+      "id": 30,
+      "model": "잔느",
+      "content": "Not for much longer, of course. The eyes that barged into this room with you are already gazing at it, nailing it, pinning it down to define it as <i>something</i>. When light enters a room, so do the shadows it casts. That's just the way things are, isn't it?"
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "... I can't possibly be the only one who didn't get what the lass is on about."
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "Well... she's saying the room's empty... and bright. That's about all I've understood..."
+    },
+    {
+      "id": 33,
+      "model": "잔느",
+      "content": "It's okay. I wasn't expecting to be understood, anyway."
+    },
+    {
+      "id": 34,
+      "model": "잔느",
+      "content": "... Except by you, ma puce. You understand me, don't you?"
+    },
+    {
+      "id": 35,
+      "model": "잔느",
+      "content": "Because... all our lives, we've both been so afraid... of that terror only we know of."
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "... Correct."
+    },
+    {
+      "id": 37,
+      "model": "홍루",
+      "content": "Afraid...? Could you explain what you mean by that?"
+    },
+    {
+      "id": 38,
+      "model": "잔느",
+      "content": "... So that's your starting line. How distant, these worlds we live in."
+    },
+    {
+      "id": 39,
+      "model": "잔느",
+      "content": "But... that's all well, long-standing customers of the future... and the ones who try to nail down my kindred soul."
+    },
+    {
+      "id": 40,
+      "model": "잔느",
+      "content": "Let me introduce you to my world. The world of ma puce."
+    },
+    {
+      "id": 41,
+      "content": "Jeanne twirls around to face the white void behind her. It begins to come alive in a slightly different hue, as though someone were painting it anew."
+    },
+    {
+      "id": 42,
+      "model": "잔느",
+      "content": "I was already exhausted by the time I was 8 years old."
+    },
+    {
+      "id": 43,
+      "model": "잔느",
+      "content": "I often felt as though the world had wound itself far too tightly around me."
+    },
+    {
+      "id": 44,
+      "place": "Snow Globe, 7F",
+      "model": "잔느",
+      "content": "One day, I was dragging my feet by a store, and a swirling snow globe on display behind a shop window returned my gaze."
+    },
+    {
+      "id": 45,
+      "model": "잔느",
+      "content": "Past the transparent glass sphere, I could see a miniature village and a gentle flurry of snow blanketing it flake by flake."
+    },
+    {
+      "id": 46,
+      "model": "잔느",
+      "content": "I saw a miniature child in front of a miniature house inside a miniature village. She was looking at a miniature snowman."
+    },
+    {
+      "id": 47,
+      "model": "잔느",
+      "content": "After staring at it for a while, a thought suddenly came to me."
+    },
+    {
+      "id": 48,
+      "model": "잔느",
+      "content": "Does that miniature child... understand the meaning of that snowman, or the snowflakes that made him?"
+    },
+    {
+      "id": 49,
+      "model": "잔느",
+      "content": "Does she know that there is a giant, whose gaze she came to bear, standing right by the precipice of that fragile wall of her world?"
+    },
+    {
+      "id": 50,
+      "model": "잔느",
+      "content": "Eventually, when I broke my gaze from it and looked around at my own world..."
+    },
+    {
+      "id": 51,
+      "model": "잔느",
+      "content": "... an unbearable sense of vertigo descended upon me, like an unavoidable blanket of snow threatening to smother everything."
+    },
+    {
+      "id": 52,
+      "model": "잔느",
+      "content": "I think that was when it began. My blue dress, the flickering streetlight, the attaché case that brushed against me as someone passed..."
+    },
+    {
+      "id": 53,
+      "model": "잔느",
+      "content": "... all the busy people rushing to get to wherever they needed to be, and... everything that this awful world nurtured... all of it felt so <i>nauseating</i>."
+    },
+    {
+      "id": 54,
+      "model": "잔느",
+      "content": "From then until I turned 15, I was sent to hospital after hospital, doctor after doctor."
+    },
+    {
+      "id": 55,
+      "model": "잔느",
+      "content": "Did I consume an experience I shouldn't have? Was this issue physiological? Which organ's the one that went wrong? What combination of medicine and experience should I consume to get better?"
+    },
+    {
+      "id": 56,
+      "model": "잔느",
+      "content": "But... nothing helped. The nights came, stained with fear and terror and sleeplessness. And the long years of incarceration simply went on."
+    },
+    {
+      "id": 57,
+      "model": "잔느",
+      "content": "Looking back, it's not such a mystery. Because this strange sensation that'd been haunting my waking moments was... not something those treatments could fix, let alone be diagnosed by others."
+    },
+    {
+      "id": 58,
+      "model": "잔느",
+      "content": "It was during those years that something suddenly broke inside me, like an exploding light bulb. Despair took hold of me... and for good. Do you know why?"
+    },
+    {
+      "id": 59,
+      "model": "뫼르소",
+      "content": "You realized that the world hadn't changed at all."
+    },
+    {
+      "id": 60,
+      "model": "잔느",
+      "content": "No. The world was just as it used to be when I'd left it, while I'd been irreversibly transformed."
+    },
+    {
+      "id": 61,
+      "model": "잔느",
+      "content": "Walls were still walls. Chairs were still chairs. People kept talking the same talk, and the City still ran like clockwork..."
+    },
+    {
+      "id": 62,
+      "model": "잔느",
+      "content": "I was the only one who found it all so alien. It was suffocating. Like choking on air that everyone else breathed in just fine."
+    },
+    {
+      "id": 63,
+      "model": "잔느",
+      "content": "So I decided to keep it all to myself... The nausea... the fear... the existence... <i>all</i> of it."
+    },
+    {
+      "id": 64,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 65,
+      "model": "뫼르소",
+      "content": "And that is how you were employed as a Giant."
+    },
+    {
+      "id": 66,
+      "model": "잔느",
+      "content": "That's right. Want to know the funny bit? The room I work in—my office—looks a lot like this one."
+    },
+    {
+      "id": 67,
+      "model": "잔느",
+      "content": "The rooms of the Giants who create and oversee this enormous department store... are just as empty. Call it our observation deck. Nothing is there, so that nothing can nail us down."
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "... I am aware of that. You have shared this fact with me, and so has my mother."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "Pray, how dost thou go about thy labors in a room so barren...?"
+    },
+    {
+      "id": 70,
+      "model": "잔느",
+      "content": "You'd like to know what we do at work? Well, we clock into the office, sit in rooms as empty as this, and... read the work manual aloud to the customers of the department store. We nudge them here and there, our Voices creating conflicts and behaviors that lead to the production of high-quality experiences."
+    },
+    {
+      "id": 71,
+      "model": "잔느",
+      "content": "Then... the workers at the Sisyphe Tower plaster those raw experiences with meaningless, opaque veneers... and voilà, that's a batch of Canned Experiences—packaged, labeled, and ready for distribution throughout N Corp. and the rest of the City."
+    },
+    {
+      "id": 72,
+      "model": "잔느",
+      "content": "Our customers then purchase those cans at supermarkets. They take them to the cinema, parks, homes, department stores... to consume those fresh, Grand Magasin Sisyphe-sourced experiences."
+    },
+    {
+      "id": 73,
+      "place": -1,
+      "model": "잔느",
+      "content": "What we make here defines every facet of our customers' emotions and their lives with a façade as thin as a can label."
+    },
+    {
+      "id": 74,
+      "place": "???",
+      "model": "단테",
+      "content": "<The location is shifting again.>"
+    },
+    {
+      "id": 75,
+      "place": "N Corp. Sisyphe Tower",
+      "model": "뫼르소",
+      "content": "... This... is my former place of employment, the Sisyphe Tower."
+    },
+    {
+      "id": 76,
+      "model": "잔느",
+      "content": "Yes. This is where you spent countless days of your life nailing each experience that came your way on a conveyor belt."
+    },
+    {
+      "id": 77,
+      "model": "잔느",
+      "content": "I'd heard about you, you know. You had many names—the son of a Giant, the crème de la crème among the employees of the Sisyphe Tower, our up-and-coming factory manager, the youngest One Who Nails to date—none of which meant anything to me."
+    },
+    {
+      "id": 78,
+      "model": "뫼르소",
+      "content": "It wasn't the evaluation in the eyes of others that drew your gaze to me. It was because you sensed a kindred soul when we looked into each other's eyes."
+    },
+    {
+      "id": 79,
+      "model": "잔느",
+      "content": "Despite the fundamental differences in our... <i>estrangements</i>, we still understood each other."
+    },
+    {
+      "id": 80,
+      "model": "잔느",
+      "content": "I recall how you used to furrow your brows even as you made a neat tower out of those cans, because you couldn't understand what any of that orderliness meant."
+    },
+    {
+      "id": 81,
+      "model": "뫼르소",
+      "content": "... Arranging objects in an orderly fashion did not constitute any form of meaning."
+    },
+    {
+      "id": 82,
+      "model": "뫼르소",
+      "content": "Rather, it revealed the mutual disinterest and apathy in people, which only highlighted the depth of alienation."
+    },
+    {
+      "id": 83,
+      "model": "뫼르소",
+      "content": "Consistency and structure gave me no comfort."
+    },
+    {
+      "id": 84,
+      "model": "잔느",
+      "content": "... Because you did not know why that consistency and the rules that governed it existed to begin with. Rules... truths... all dictate where our lives are supposed to go, but their reasoning? Always so flimsy and futile."
+    },
+    {
+      "id": 85,
+      "model": "잔느",
+      "content": "The only one among us who can sustain himself on crutches like that has to be the Chaplain. Structures like those are his way of struggling against this contingent world, you see."
+    },
+    {
+      "id": 86,
+      "model": "잔느",
+      "content": "Ma puce, I don't understand the point you're trying to prove by making another meaningless choice."
+    },
+    {
+      "id": 87,
+      "model": "잔느",
+      "content": "... If you're so willing to let others steer you, why don't you just embrace the sunshine instead?"
+    },
+    {
+      "id": 88,
+      "model": "뫼르소",
+      "content": "... You've been hearing it too."
+    },
+    {
+      "id": 89,
+      "model": "잔느",
+      "content": "Yes. That warm, wonderful voice... It is whispering in my ears... even as we speak."
+    },
+    {
+      "id": 90,
+      "model": "잔느",
+      "content": "... Tell me. What do the whispers from the sunshine say to you?"
+    },
+    {
+      "id": 91,
+      "model": "뫼르소",
+      "content": "The sunshine says... that I can remain as I am now."
+    },
+    {
+      "id": 92,
+      "model": "뫼르소",
+      "content": "That I don't need to change from my current state. That I can stay fettered by countless chains that bind my body, which allow me to remain unrestrained by any gaze... That it can help me live out my life in peace—in gentle indifference."
+    },
+    {
+      "id": 93,
+      "model": "잔느",
+      "content": "But you keep refusing the sunshine. Is it because of what happened with... your mother?"
+    },
+    {
+      "id": 94,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 95,
+      "model": "잔느",
+      "content": "Still not much of a talker, huh."
+    },
+    {
+      "id": 96,
+      "model": "잔느",
+      "content": "You feel it too, don't you? This sunshine, it..."
+    },
+    {
+      "id": 97,
+      "model": "잔느",
+      "content": "... it <i>gets</i> us."
+    },
+    {
+      "id": 98,
+      "place": "A Bright Room, 7F, Past",
+      "model": "잔느",
+      "content": "To imagine that there could be someone capable of speaking to us Giants in the Grand Magasin..."
+    },
+    {
+      "id": 99,
+      "model": "잔느",
+      "content": "The Voice of Voices... Are you some kind of god, wise and omniscient?"
+    },
+    {
+      "id": 100,
+      "model": "카르멘",
+      "content": "<color=#E1B643>I'm not divine, no. I wouldn't even say that I'm particularly wise, either.</color>"
+    },
+    {
+      "id": 101,
+      "model": "카르멘",
+      "content": "<color=#E1B643>I'm just someone who's honest about her feelings and has a concrete purpose...\nJust another human being, like yourself.</color>"
+    },
+    {
+      "id": 102,
+      "model": "잔느",
+      "content": "You're <i>human?</i>"
+    },
+    {
+      "id": 103,
+      "model": "카르멘",
+      "content": "<color=#E1B643>I know how this looks, but I am human.</color>"
+    },
+    {
+      "id": 104,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Which is why I'm imperfect and anxious, too.</color>"
+    },
+    {
+      "id": 105,
+      "model": "카르멘",
+      "content": "<color=#E1B643>And I worry all the time that my voice might fail to reach everyone.</color>"
+    },
+    {
+      "id": 106,
+      "model": "카르멘",
+      "content": "<color=#E1B643>The Sephirot design of the Grand Magasin Sisyphe was so flawless...\nthat I could not find a way to reach those within.</color>"
+    },
+    {
+      "id": 107,
+      "model": "잔느",
+      "content": "... But you did, eventually. Found your way through the cracks of the crumbling department store."
+    },
+    {
+      "id": 108,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Jeanne, I understand that you are still afraid.\nOf being forced to return to that world out there that so readily pins you with its nails,\nwhere you can't even be yourself.</color>"
+    },
+    {
+      "id": 109,
+      "model": "잔느",
+      "content": "... I don't have a choice anyway. This world... Sisyphe... doesn't even exist."
+    },
+    {
+      "id": 110,
+      "model": "카르멘",
+      "content": "<color=#E1B643>The important thing is... to remain yourself, no matter what. It's <i>you</i> who matter the most.</color>"
+    },
+    {
+      "id": 111,
+      "model": "카르멘",
+      "content": "<color=#E1B643>I understand the things you're feeling.\nThat guilt, that sense of duty, of responsibility... I've been there.\nI know all too well the weight of the same things that are crushing you now.</color>"
+    },
+    {
+      "id": 112,
+      "model": "카르멘",
+      "content": "<color=#E1B643>But those aren't <i>yours</i>, Jeanne—if they're feelings at all.\nThey're no more than a set of uniform, manufactured values the City instilled in you\nas it sacrificed and crushed you without ever asking for consent.</color>"
+    },
+    {
+      "id": 113,
+      "place": "A Bright Room, 7F",
+      "model": "잔느",
+      "content": "I'd considered ego molded into the form of a tool... or the bare minimum of morpheme required for communication..."
+    },
+    {
+      "id": 114,
+      "model": "잔느",
+      "content": "But... the Voice is right. I just want to be me; that's all I want. I don't want to have to cut and trim myself to fit into their arbitrary world."
+    },
+    {
+      "id": 115,
+      "model": "잔느",
+      "content": "So if you'd rather keep making those meaningless choices, keep twisting the script, hoping for something to change in this inert world..."
+    },
+    {
+      "id": 116,
+      "model": "잔느",
+      "content": "... then I'll have to fight you to make you understand..."
+    },
+    {
+      "id": 117,
+      "model": "잔느",
+      "content": "... that we don't have to be afraid anymore."
+    },
+    {
+      "id": 118,
+      "model": "잔느변신",
+      "content": "That we can remain just like this."
+    },
+    {
+      "id": 119,
+      "model": "뫼르소엄마",
+      "teller": "Mother",
+      "content": "The gaze... The sun...! The voice...!! It keeps following me!!"
+    },
+    {
+      "id": 120,
+      "model": "뫼르소엄마",
+      "teller": "Mother",
+      "content": "Stalking me ever since those long, dark days... and the painfully bright nights came and went... It's here, even now... Closing in around me...!"
+    },
+    {
+      "id": 121,
+      "model": "검사",
+      "content": "Defendant. State your reasons for committing the act. Answer!"
+    },
+    {
+      "id": 122,
+      "place": -1,
+      "model": "카르멘",
+      "content": "<color=#E1B643>No more minding the gaze of others.\nNo more minding the thoughts of others.\nYou could simply <i>be</i> yourself... <i>live</i> as yourself.</color>"
+    },
+    {
+      "id": 123,
+      "model": "카르멘",
+      "content": "<color=#E1B643>Let me help you. \nEven if yours is a color no other person can understand,\neven if that color remains only in your eyes... \nI'll still help you paint the world with it.</color>"
+    },
+    {
+      "id": 124,
+      "place": "A Bright Room, 7F",
+      "model": "뫼르소",
+      "content": "... It's sweltering."
+    }
+  ]
+}

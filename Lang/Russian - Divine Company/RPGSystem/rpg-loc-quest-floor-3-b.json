@@ -1,0 +1,199 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "Head to 3F",
+      "description": "As expected, 2F is under \"renovation\" again. Let's make our way to 3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Get on the escalator to 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "Follow the Snip-snip",
+      "description": "We've reached the 3F, and sure enough, the sound of scissors is back. Head to the Alteration Shop and find Annette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "Head to Boutique du Rouge",
+      "description": "As expected, the Two-piece is blocking the corridor again. The store on the right is out of reach. Head to Boutique du Rouge on the left instead.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to Boutique du Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "Talk to L'Inamovible",
+      "description": "Once again, the Boutique is filled with the Voice of Le Rouge's Giant—Meursault's mother. The Boutique's vendor was deeply distressed that she couldn't hear the Voice last time, and this time will likely be no different. Let's talk to her first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "Head Out to the Corridor",
+      "description": "The Boutique's vendor, who could do little but suffer before, says she can hear the Voice again. It may have something to do with the piece of flesh we're carrying. This time, she wants us to kill Annette in the Alteration Shop. We're not sure what to do yet, so for now, we decided to head to Maison du Noir on the right. Maybe the \"meeting\" is over by now...",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head out to the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3020",
+      "title": "Take a detour to Maison du Noir",
+      "description": "Two-piece is blocking the corridor again, and they seem to have noticed the piece of flesh we're carrying. Find another way to Maison du Noir by going around through the Public Address Room in Boutique du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Take a detour to Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3021",
+      "title": "Kill Flannel and Felt at Maison du Noir",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q3022",
+      "title": "Return to the Alteration Shop",
+      "description": "According to Jeanne, the Grand Magasin's ending is already set, and making other choices won't change a thing. But we can't just twiddle our thumbs and do nothing. If we're going to make a different choice, we need to head back to the Alteration Shop.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q3023",
+      "title": "Kill Annette",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q3024",
+      "title": "Return to L'Inamovible",
+      "description": "We defeated Annette, but not before she warned us that we had irrevocably made ourselves enemies of Le Noir. Maybe this choice will lead to a different ending this time. We should return to the vendor at Boutique du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3025",
+      "title": "Return to 2F",
+      "description": "The Boutique's proprietress was overjoyed and told us to head for the Luxury Hall on 2F. She says the Voice is calling us there. Maybe things would have turned out differently if we hadn't forced that thing out of the cocoon last time. We should return to 2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "Head Out to the Corridor",
+      "description": "Unlike last time, Annette refused to hand over the scissors. Without them, dealing with the Mannequin blocking the corridor may prove difficult. We need to check whether Two-piece is still guarding the way this time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head out to the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3026",
+      "title": "Head to 3F",
+      "description": "This time, we've chosen to side with Le Rouge, so we'll have to act accordingly. We should go to Boutique du Rouge's vendor on 3F, who has been waiting desperately to hear the Voice again.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3027",
+      "title": "Show the child to L'Inamovible",
+      "description": "We've arrived at 3F. Let's show the child to Boutique du Rouge's vendor.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Show the child to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3028",
+      "title": "Inspect L'Inamovible's remains",
+      "description": "The proprietress of the Boutique handed the child a handkerchief, and the moment it was accepted, she burst apart before our eyes. Search the remains for something we can use as a Nail.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Inspect L'Inamovible's remains"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전 래치"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}

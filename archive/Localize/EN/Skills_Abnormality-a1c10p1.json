@@ -75,7 +75,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 5 [Charge] Count to trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Consume 5 [ChargeNoir] Count to trigger [VibrationExplosion]"
                 }
               ]
             }
@@ -100,7 +100,7 @@
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Consume 5 [Charge] Count to trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Consume 5 [ChargeNoir] Count to trigger [VibrationExplosion]"
                 }
               ]
             }

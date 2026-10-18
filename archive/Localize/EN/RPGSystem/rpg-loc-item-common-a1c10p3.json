@@ -1,0 +1,51 @@
+{
+  "dataList": [
+    {
+      "key": "I990931",
+      "displayName": "Scarf",
+      "statText": "In the Symbolic, <color=#fe4b48>Damage</color> Dealt +350\nIn the Symbolic, <color=#00ff9c>HP</color> does not drop below 1",
+      "description": "A scarf given by the woman in blue who bears a resemblance to Demian. Carrying it brings the strange sensation of being sheltered from all things.\n\nWhether it is pity for failure or encouragement for the road still ahead, there is a warmth to it like the sea.\n\nThe sea is frightening for how little one can know of its depths... and yet it feels as though it might take everything into its embrace."
+    },
+    {
+      "key": "I990430",
+      "displayName": "Frayed Brooch",
+      "statText": "During battle in the Shadowed, when an ally is targeted by an enemy's multi-Atk Weight attack, apply Shield equal to 15% of their max <color=#00ff9c>HP</color> immediately before they are hit\n- 2 times per Encounter\n\nDuring battle in the Shadowed, when an ally or enemy dies, inflict 2 <color=#F8C200>Bind</color> on all enemies next turn\n- Once per turn",
+      "description": "Like any other stranger, he entered through 1F, became a customer, and, after a long time, endured enough to rise to Floor Manager. This is an object created by that entity.\n\nHe endured the passage of time and the Age until endurance itself became second nature."
+    },
+    {
+      "key": "I990502",
+      "displayName": "Authority",
+      "statText": "During battle in the Shadowed, on Clash Start against target with faster Speed than this unit, inflict 1 <color=#F8C200>Bind</color> on that target next turn\n- Once per turn\n\nDuring battle in the Shadowed, deal +10% <color=#fe4b48>Damage</color> to targets with slower Speed than this unit",
+      "description": "He had a role assigned to him. A job.\n\nThe work was standardized, codified into manuals. He would report to Sisyphe Tower, repeat the same lines, and make the same broadcasts day after day.\n\nLike any other employee, he would count down the minutes until the end of his shift.\n\nYet there was one conviction he held firmly: that the Sisyphe System had to exist and be maintained, for the sake of N Corp. and the City as a whole.\n\nAs One Who Nails, and the one entrusted with the hammer, that conviction had taken root in him deeply."
+    },
+    {
+      "key": "I990503",
+      "displayName": "Consumption",
+      "statText": "During battle in the Shadowed, on Clash Win, heal (Skill Final Power x 1.5) <color=#00ff9c>HP</color> (once per turn per Identity)\n- For E.G.O Skills, x1 instead of x1.5 (rounded down)\n- Identities <color=#00ff9c>healed</color> by this effect gain 1 <color=#fe4b48>Damage</color> Up next turn (once per turn per Identity)",
+      "description": "Eat and eat, but the hunger will always return. Everyone is the same; the difference is only how long it takes. Even a full stomach will empty again.\n\nFor this child, that interval is simply unnaturally short, because they were born to hunger, born with the expectation that they would go on devouring.\n\nThey were nailed fast into the role of a god who must never cease to feed."
+    },
+    {
+      "key": "I990003",
+      "displayName": "Rope",
+      "description": "A rope. It fixes its target in place by means unlike a nail. There is, after all, a world of difference between driving something through and binding something fast."
+    },
+    {
+      "key": "I990005",
+      "displayName": "Stillness",
+      "statText": "In the Symbolic, <color=#F8C200>Level 3 Garde's charge time</color> is reduced to match Level 1 Garde\n- Once fully charged, <color=#F8C200>Garde</color> always activates as <color=#F8C200>Level 3</color>\n\nIn the Symbolic, <color=#F8C200>Attack Chain 2</color> gains +1 tile of width on both the left and right sides\n- The added side range is not affected by range-increasing effects\n\nDuring battle in the Symbolic, when the Warden summons the player to a certain area,\n- The player can destroy the candles falling upon that area (destroying a candle <color=#00ff9c></color>heals 1 <color=#00ff9c>HP</color>)\n- <color=#fe4b48>Damage</color> Taken from the Warden -25% in the said Symbolic battle",
+      "description": "One may slow infinitely close to perfect stillness, but that is an unreachable state. It cannot even be pictured as an idea. Such is the architecture of the human being.\n\nThe Warden's power makes that impossibility real—\"Be still.\"\n\n\"No, that isn't me. I refuse to be still.\" These words strain to burst from within against the judgment.\n\nHe will break what has been stilled. He will rebel.\nBecause that sensation has already begun to rise."
+    },
+    {
+      "key": "I990935",
+      "displayName": "Timeworn Fan",
+      "statText": "During battle in the Shadowed:\n\"Sisyphe\" Identities deal +10% <color=#fe4b48>damage</color> against enemies",
+      "description": "This one weathered the time alongside the department store itself, stitching scar after scar together with cloth.\n\nThis is proof of victory against the one who endured the weight of time and ultimately broke beneath it."
+    },
+    {
+      "key": "I990936",
+      "displayName": "Crimson-stained Flower Shoes",
+      "statText": "During battle in the Shadowed,\n- Turn Start: 1 unit with the lowest HP among Staggered Identities <color=#F8C200>recovers from Stagger</color>; then, the said ally <color=#00ff9c>heals</color> 20% <color=#00ff9c>HP</color>\n- If the said unit is a \"Le Rouge\" Identity, gain 2 <color=#fe4b48>Attack Power Up</color> instead of HP healing effect\n- 2 times per Encounter",
+      "description": "The flower shoes that once carried the lingering scent of spring are now smothered in phlegmatic discharge, scarcely resembling what they once were.\n\nAnd yet, from somewhere buried beneath that viscous filth rise the subtle traces of a spring breeze...\n\nA faint aroma that brings to mind the days spent walking beside Pwie."
+    }
+  ]
+}

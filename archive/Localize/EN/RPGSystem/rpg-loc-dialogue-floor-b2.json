@@ -14,8 +14,8 @@
       "texts": [
         {
           "index": 0,
-          "text": "(임시)……",
-          "speaker": "Kromer's Sister"
+          "text": "……",
+          "speaker": "Kromer"
         }
       ]
     },
@@ -26,16 +26,6 @@
           "index": 0,
           "text": "... I can't do anything for you if you don't have a numbered ticket.",
           "speaker": "B2F Floor Manager"
-        }
-      ]
-    },
-    {
-      "key": "D20200350",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] …지금 몇 번까지 불렀지?",
-          "speaker": "Queueing Customer"
         }
       ]
     },
@@ -64,38 +54,8 @@
       "texts": [
         {
           "index": 0,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Naked"
-        }
-      ]
-    },
-    {
-      "key": "D20200750",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)…쥐어짜지 마. 이제 아무 색도 안 나와.",
-          "speaker": "Exploited Dye"
-        }
-      ]
-    },
-    {
-      "key": "D20200850",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)하루에 세 번 짜내지고, 세 번 채워져…",
-          "speaker": "Exploited Dye"
-        }
-      ]
-    },
-    {
-      "key": "D20200950",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)…색이 빠진다는 게 어떤 기분인지 알아?",
-          "speaker": "Exploited Dye"
         }
       ]
     },
@@ -119,58 +79,8 @@
         },
         {
           "index": 1,
-          "text": "......",
+          "text": "…….",
           "speaker": "Putty"
-        }
-      ]
-    },
-    {
-      "key": "D20201650",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)히익…! 팔레트가 보냈구나… 이제 그만…!",
-          "speaker": "Exploited Dye"
-        }
-      ]
-    },
-    {
-      "key": "D20201750",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)…도망칠 힘도 없어…",
-          "speaker": "Exploited Dye"
-        }
-      ]
-    },
-    {
-      "key": "D20201850",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)드럼통 속이 차라리 편해…",
-          "speaker": "Exploited Dye"
-        }
-      ]
-    },
-    {
-      "key": "D20201950",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)우리를 짜내면… 너도 언젠가 짜내질 거야…",
-          "speaker": "Exploited Dye"
-        }
-      ]
-    },
-    {
-      "key": "D20202050",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)……(희미하게 떨고 있다)",
-          "speaker": "Exploited Dye"
         }
       ]
     },
@@ -192,7 +102,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "......",
+          "text": "…….",
           "speaker": "Putty"
         }
       ]
@@ -202,7 +112,7 @@
       "texts": [
         {
           "index": 0,
-          "text": "......",
+          "text": "…….",
           "speaker": "Putty"
         }
       ]
@@ -213,15 +123,6 @@
         {
           "index": 0,
           "text": "They're standing in line, waiting their turn."
-        }
-      ]
-    },
-    {
-      "key": "D20220201",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] <벽에 황금빛 가죽이 걸려 있다. 눈을 뗄 수 없을 만큼 찬란하다.>"
         }
       ]
     },
@@ -240,34 +141,6 @@
         {
           "index": 0,
           "text": "<A passage leading to the dye storage. It's sealed tight for now.>"
-        }
-      ]
-    },
-    {
-      "key": "D20220501",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] <지하 2층 안내판. '방…장 → 타… 둥지 → 복… → 염색…' …낡아서 잘 보이지 않는다.>"
-        }
-      ]
-    },
-    {
-      "key": "D20209950",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] (임시)여기는 언제나 안전하단다. 피곤하면 쉬었다 가렴.",
-          "speaker": "???"
-        }
-      ]
-    },
-    {
-      "key": "D20220901",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] 지하 3층으로 내려가는 에스컬레이터. 굳게 멈춰 있다."
         }
       ]
     },
@@ -351,7 +224,7 @@
         },
         {
           "index": 2,
-          "text": "<...?>",
+          "text": "<…?>",
           "speaker": "Dante"
         },
         {
@@ -399,7 +272,7 @@
         },
         {
           "index": 12,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Outis"
         },
         {
@@ -420,7 +293,7 @@
         {
           "index": 16,
           "text": "Hahaha, what a bunch of worrywarts. Relax! You're exactly where you want to be.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         }
       ]
     },
@@ -445,7 +318,7 @@
         {
           "index": 3,
           "text": "This floor is where the Skein Nest is, folks. The one that supplies threads only to Le Noir's most illustrious labels.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 4,
@@ -455,17 +328,17 @@
         {
           "index": 5,
           "text": "Me? Oh, I thought I told you already: I can go anywhere, as long as it's not the Fount.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 6,
           "text": "The Chaplain never stops yammering about it, sure... but what choice do I have? It's an awfully tedious thing, having to walk all the way down here on foot!",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 7,
           "text": "Anyway, just how long are you people planning on dilly-dallying?",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 8,
@@ -485,11 +358,11 @@
         {
           "index": 11,
           "text": "Ugh. This stupid tick-tocking... Can you do that over there—not so close to me? Things without flesh make me uncomfortable, fancy clothes or not.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 12,
-          "text": "<.......>",
+          "text": "<…….>",
           "speaker": "Dante"
         },
         {
@@ -505,22 +378,22 @@
         {
           "index": 15,
           "text": "Really now? Haha! You really don't know what's coming for you? That snuffling, don't you hear it? It's so loud!",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 16,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Meursault"
         },
         {
           "index": 17,
           "text": "My word... Poor little dears. You have no clue, do you?",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 18,
           "text": "You'd better start running if you're really that clueless... Not that it'll help, but what else can you do?",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         }
       ]
     },
@@ -664,7 +537,7 @@
         {
           "index": 0,
           "text": "Died again, huh?",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         }
       ]
     },
@@ -674,7 +547,7 @@
         {
           "index": 0,
           "text": "See? I warned you—that snuffling is much, much too loud.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 1,
@@ -684,17 +557,17 @@
         {
           "index": 2,
           "text": "No. It went flitting off somewhere else. If it does return, it will have to take the long, long way around.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 3,
           "text": "You see, since it's so far away, it'll have to press its ear to the ground and creep along if it wants to track this snuffling down.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 4,
           "text": "Hehe, now that that's sorted, you're all free to dilly-dally like you wanted!",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 5,
@@ -704,7 +577,7 @@
         {
           "index": 6,
           "text": "Hm? Oh... Is it almost time for the next stranding? How diligent.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 7,
@@ -714,7 +587,7 @@
         {
           "index": 8,
           "text": "You don't know when the stranding hour is? You strangers haven't the slightest clue about anything.",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         },
         {
           "index": 9,
@@ -733,7 +606,7 @@
         {
           "index": 12,
           "text": "*chuckle* I'll be back when the time is ripe. In the meantime, make sure you don't die in spectacularly comical ways when I'm not even there to watch the show, hm?",
-          "speaker": "Kromer's Sister"
+          "speaker": "Kromer"
         }
       ]
     },
@@ -840,7 +713,7 @@
         },
         {
           "index": 6,
-          "text": "<Ah...>",
+          "text": "<Ahh...>",
           "speaker": "Dante"
         },
         {
@@ -913,109 +786,11 @@
       ]
     },
     {
-      "key": "D-2006-1",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] 이번 황금염료는 누가 사가는지 들었어?",
-          "speaker": "Laboring Needlekin"
-        },
-        {
-          "index": 1,
-          "text": "[미사용] 다음 대기순번이… 네이키드였나? 르누아르에서 받아간다곤 들었는데.",
-          "speaker": "Laboring Needlekin 2"
-        },
-        {
-          "index": 2,
-          "text": "[미사용] 그래? 그럼 훔치는 건 안 되겠네. 르카키들이었으면 바늘로 찌르고 염료만 가져가면 되는데…",
-          "speaker": "Laboring Needlekin"
-        },
-        {
-          "index": 3,
-          "text": "[미사용] 외관과 달리 살벌한 대화가 오가고 있다."
-        }
-      ]
-    },
-    {
-      "key": "D-2006-2",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] 엿듣고 있는 걸 눈치챘는지, 말 없이 일하기 시작했다."
-        }
-      ]
-    },
-    {
       "key": "D-2006-3",
       "texts": [
         {
           "index": 0,
           "text": "The customer is hard at work."
-        }
-      ]
-    },
-    {
-      "key": "D-2006-4",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] 이.드. 라는 놈에 대해 아는 대로 말해라.",
-          "speaker": "Ryōshū"
-        },
-        {
-          "index": 1,
-          "text": "[미사용] 이드? 네이키드?",
-          "speaker": "Laboring Needlekin"
-        },
-        {
-          "index": 2,
-          "text": "[미사용] <…알아들었는데?>",
-          "speaker": "Dante"
-        },
-        {
-          "index": 3,
-          "text": "[미사용] 지하 2층을 돌아다니는 그 재수 없는 르누아르를 말하는 거야?",
-          "speaker": "Laboring Needlekin"
-        },
-        {
-          "index": 4,
-          "text": "[미사용] 그놈이라면 자주 원단을 보러 시장에 와.",
-          "speaker": "Laboring Needlekin"
-        },
-        {
-          "index": 5,
-          "text": "[미사용] 시장이라면… 천을 잔뜩 쌓아둔 그 복도를 말하는 건가?",
-          "speaker": "Outis"
-        },
-        {
-          "index": 6,
-          "text": "[미사용] 맞아!",
-          "speaker": "Laboring Needlekin"
-        }
-      ]
-    },
-    {
-      "key": "D-2008-1",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] 무슨 일이십니까, 이방인들.",
-          "speaker": "Queueing Noir"
-        },
-        {
-          "index": 1,
-          "text": "[미사용] 음. 그런 염료는 전혀 들어보지 못했습니다.",
-          "speaker": "Queueing Noir"
-        },
-        {
-          "index": 2,
-          "text": "[미사용] 그래도 팔레트는 알고 있지 않겠습니까? 이 층의 염료는 모두 팔레트가 관리하고 있으니.",
-          "speaker": "Queueing Noir"
-        },
-        {
-          "index": 3,
-          "text": "[미사용] 건투를 빕니다.",
-          "speaker": "Queueing Noir"
         }
       ]
     },
@@ -1104,7 +879,7 @@
         },
         {
           "index": 2,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Putty"
         },
         {
@@ -1119,7 +894,7 @@
         },
         {
           "index": 5,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Outis"
         },
         {
@@ -1282,7 +1057,7 @@
         },
         {
           "index": 1,
-          "text": "... So this... is the L'Incolore...?",
+          "text": "... So this... is L'Incolore...?",
           "speaker": "Naked"
         },
         {
@@ -1312,12 +1087,12 @@
         },
         {
           "index": 7,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Naked"
         },
         {
           "index": 8,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Outis"
         },
         {
@@ -1353,31 +1128,11 @@
       ]
     },
     {
-      "key": "D-2012-1",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] 자꾸 특별한 걸 추구하다 보면, 저렇게 되는 거지.",
-          "speaker": "Palette"
-        },
-        {
-          "index": 1,
-          "text": "[미사용] 그냥 흘러가는 대로 남들처럼만 살면 될 텐데 말야.",
-          "speaker": "Palette"
-        },
-        {
-          "index": 2,
-          "text": "[미사용] 암튼 너희한텐 이득이네. 자, 여기 황금염료.",
-          "speaker": "Palette"
-        }
-      ]
-    },
-    {
       "key": "D-2013-1",
       "texts": [
         {
           "index": 0,
-          "text": "...!!!!!",
+          "text": "…!!!!!",
           "speaker": "Cocoon"
         },
         {
@@ -1486,21 +1241,11 @@
       ]
     },
     {
-      "key": "D-2016-1",
-      "texts": [
-        {
-          "index": 0,
-          "text": "[미사용] <등 뒤가 싸한데?>",
-          "speaker": "Dante"
-        }
-      ]
-    },
-    {
       "key": "D-2034-1",
       "texts": [
         {
           "index": 0,
-          "text": "!!!",
+          "text": "<!!!>",
           "speaker": "Dante"
         }
       ]
@@ -2036,7 +1781,7 @@
         },
         {
           "index": 2,
-          "text": ".......",
+          "text": "…….",
           "speaker": "Ryōshū"
         },
         {
@@ -2381,7 +2126,7 @@
         },
         {
           "index": 22,
-          "text": "I'm planning to stick around nearby. Come see me once you've obtained the L'Incolore. Anyway, I'm off—got Golden Dye to collect.",
+          "text": "I'm planning to stick around nearby. Come see me once you've obtained L'Incolore. Anyway, I'm off—got Golden Dye to collect.",
           "speaker": "Naked"
         }
       ]
@@ -2519,7 +2264,7 @@
         },
         {
           "index": 6,
-          "text": "But having caught a few scabbard-punches to the gut, Sincliar had already moved a fair bit away from Ryōshū."
+          "text": "But having caught a few scabbard-punches to the gut, Sinclair had already moved a fair bit away from Ryōshū."
         },
         {
           "index": 7,

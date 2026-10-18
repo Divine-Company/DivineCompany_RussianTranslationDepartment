@@ -1150,6 +1150,166 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2061011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repudiation",
+          "abName": "Resident of Metropolaris",
+          "desc": "[BeforeAttack] Gain +1 [Charge] Count\n[BeforeAttack] Consume up to 6 [Charge] Count on self; then, apply 5 [ChargeForceField] on self and on (1 + ([Charge] Count consumed / 2)) random other allies (max 5 units; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Repudiation",
+          "abName": "Resident of Metropolaris",
+          "desc": "<style=\"highlight\">[WhenUse] Gain Clash Power equal to [Charge] Potency on self (max 2)</style>\n[BeforeAttack] Gain +<style=\"highlight\">3</style> [Charge] Count\n[BeforeAttack] Consume up to <style=\"highlight\">8</style> [Charge] Count on self; then, apply 5 [ChargeForceField] on self and on (1 + ([Charge] Count consumed / 2)) random other allies (max <style=\"highlight\">6</style> units; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repudiation",
+          "abName": "Resident of Metropolaris",
+          "desc": "[WhenUse] Gain Clash Power equal to [Charge] Potency on self (max <style=\"highlight\">3</style>)\n[BeforeAttack] Gain +<style=\"highlight\">5</style> [Charge] Count\n[BeforeAttack] Consume up to <style=\"highlight\">10</style> [Charge] Count on self; then, apply 5 [ChargeForceField] on self and on (1 + ([Charge] Count consumed / 2)) random other allies (max <style=\"highlight\">7</style> units; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repudiation",
+          "abName": "Resident of Metropolaris",
+          "desc": "[CantIdentify]\nTargets randomly\nDeal +15% damage against targets that have Shield\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -12)\n[BeforeAttack] Gain +3 [Charge] Count\n[BeforeAttack] Consume up to 6 [Charge] Count; then, apply 7 [ChargeForceField] on self and on (1 + ([Charge] Count consumed / 2)) random other allies (max 5 units; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume up to 10 [Charge] Count; then, this Coin gains Final Power equal to Count consumed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Repudiation",
+          "abName": "Resident of Metropolaris",
+          "desc": "[CantIdentify]\nTargets randomly\nDeal +<style=\"highlight\">20</style>% damage against targets that have Shield\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -12)\n<style=\"highlight\">[BeforeAttack] Gain Final Power equal to [Charge] Potency on self (max 2)</style>\n[BeforeAttack] Gain +<style=\"highlight\">4</style> [Charge] Count\n[BeforeAttack] Consume up to <style=\"highlight\">8</style> [Charge] Count on self; then, apply 7 [ChargeForceField] on self and on (1 + ([Charge] Count consumed / 2)) random other allies (max <style=\"highlight\">6</style> units; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume up to 10 [Charge] Count; then, this Coin gains Final Power equal to Count consumed"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repudiation",
+          "abName": "Resident of Metropolaris",
+          "desc": "[CantIdentify]\nTargets randomly\nDeal +<style=\"highlight\">25</style>% damage against targets that have Shield\n[BeforeAttack] Base Power -6 for every Cracked Coin (max -12)\n[BeforeAttack] Gain Final Power equal to [Charge] Potency on self (max <style=\"highlight\">3</style>)\n[BeforeAttack] Gain +<style=\"highlight\">5</style> [Charge] Count\n[BeforeAttack] Consume up to <style=\"highlight\">10</style> [Charge] Count on self; then, apply 7 [ChargeForceField] on self and on (1 + ([Charge] Count consumed / 2)) random other allies (max <style=\"highlight\">7</style> units; rounded down)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Consume up to 10 [Charge] Count; then, this Coin gains Final Power equal to Count consumed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

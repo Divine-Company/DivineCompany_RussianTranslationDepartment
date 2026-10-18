@@ -1,0 +1,180 @@
+{
+  "dataList": [
+    {
+      "key": "Q-2000",
+      "title": "가리기 - 지하 2층 도착",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "지하 2층 방적장 진입용"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "방직장 컷씬"
+        }
+      ]
+    },
+    {
+      "key": "Q-2000A",
+      "title": "가리기 - 바늘이 대화 파트",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "줄 선 바늘이 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-2001",
+      "title": "Explore B2F",
+      "description": "We've arrived on B2F. A tightly packed line of customers is waiting for Golden Dye. Let's speak with Naked, the one we traded with before last time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to Naked"
+        }
+      ]
+    },
+    {
+      "key": "Q-2002",
+      "title": "Talk to Naked",
+      "description": "We've arrived on B2F. A tightly packed line of customers is waiting for Golden Dye. Let's speak with Naked, the one we traded with before last time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to Naked"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Fight off the Le Noir assault"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Get your bearings after the battle"
+        }
+      ]
+    },
+    {
+      "key": "Q-2003",
+      "title": "Head to the Dyehouse",
+      "description": "The Noirs have started coming after us. For now, we need to find a way farther underground. Let's ask Palette in the Dyehouse how to get down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Dyehouse"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004",
+      "title": "Head to the Dyehouse",
+      "description": "The Noirs have started coming after us. For now, we need to find a way farther underground. Let's ask Palette in the Dyehouse how to get down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Dyehouse"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004A",
+      "title": "Head to the Skein Nest",
+      "description": "Palette appears to need the Colorful Skein held by the B2F's Floor Manager. Let's head to the Skein Nest to carry out Palette's request.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Skein Nest"
+        }
+      ]
+    },
+    {
+      "key": "Q-2005",
+      "title": "Kill the Noirs",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kill the Noirs"
+        }
+      ]
+    },
+    {
+      "key": "Q-2006",
+      "title": "Kill the Noirs (2)",
+      "description": "More Noirs stand in the way. We should clear them out and press onward.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Keep clearing out the Noirs"
+        }
+      ]
+    },
+    {
+      "key": "Q-2007",
+      "title": "Press onward to the Skein Nest",
+      "description": "The Noirs blocking the way have been dealt with. Let's make for the Skein Nest.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Press onward to the Skein Nest"
+        }
+      ]
+    },
+    {
+      "key": "Q-2008",
+      "title": "Talk to B2F's Floor Manager",
+      "description": "We've arrived at the Skein Nest. Let's speak with B2F's Floor Manager.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to B2F's Floor Manager"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Kill the B2F Floor Manager"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Obtained Colorful Skein"
+        }
+      ]
+    },
+    {
+      "key": "Q-2009",
+      "title": "Bring the Skein to Palette",
+      "description": "Palette appears to need the Colorful Skein held by the B2F's Floor Manager. Let's head to the Skein Nest to carry out Palette's request.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Bring the Skein to Palette"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010",
+      "title": "Head to B3F's Escalator",
+      "description": "Palette kept her word and told us where to find the escalator to B3F. Let's head there and continue downward.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to B3F's Escalator"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010A",
+      "title": "Head down to B3F",
+      "description": "We've reached the escalator. Let's take it down to B3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head down to B3F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Explore 3F"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_56_1",
+      "dlg": "Despite observing it day after day... it still hasn't gotten any less unfamiliar. Nothing ever does."
+    },
+    {
+      "id": "announcer_cheer_56_2",
+      "dlg": "Though the cycle of <i>marée basse</i> and <i>marée haute</i> of my oceanview life is ever-consistent, I've always liked the little changes that crop up in the repeating scenery. They may never make any difference to how each day ends, but they still dredge up a certain old sensation in me... which I like."
+    },
+    {
+      "id": "announcer_specialcheer_56_1",
+      "dlg": "Some of these days, you'll miss me, ma puce."
+    },
+    {
+      "id": "announcer_specialcheer_56_2",
+      "dlg": "Let any more of those nails pin you, and you just might lose all meaning you once had."
+    },
+    {
+      "id": "announcer_enemy_break_56_1",
+      "dlg": "The customers will be pouring in soon. Bursting with their own desires, nailing them down... and buying and selling whatever they can."
+    },
+    {
+      "id": "announcer_ally_break_56_1",
+      "dlg": "Whenever the nausea sets in... I turn to music. I shut my eyes and let the rhythm carry my wandering mind away, and that usually improves my mood."
+    },
+    {
+      "id": "announcer_killenemy_56_1",
+      "dlg": "Another one to the rock bottom, it seems."
+    },
+    {
+      "id": "announcer_ally_dead_56_1",
+      "dlg": "Don't give me that look, ma puce. If anyone saw your face they'd think someone just died.\nIt's only... a minor kerfuffle in the Shadowed, isn't it?"
+    },
+    {
+      "id": "announcer_enemy_adv_56_1",
+      "dlg": "Trying to explain \"why\" this is happening is superfluous. It's just... the way the cookie crumbles. Not the result of some special chain of cause and effect, but the result of pure chance."
+    },
+    {
+      "id": "announcer_ally_adv_56_1",
+      "dlg": "Say, if enough coincidences pile up and you finally make your escape... Then... Ah, how about we get married? Then we won't have to bother scrubbing away the ex-lover baggage—because we'd still be ex-somethings... and newly-weds, to boot."
+    },
+    {
+      "id": "announcer_ally_advex_56_1",
+      "dlg": "Why don't you give up and start over from the beginning? That'd be easier than struggling to overcome an unwinnable situation."
+    },
+    {
+      "id": "announcer_danger_56_1",
+      "dlg": "Food for thought: You may believe you have gazed at me, but I cannot be gazed upon. Yet every so often, you're certain that you <i>have</i> gazed at me. I'm what people call that accidental, irreversible sensation. What am I?\nI am called \"urgency.\""
+    },
+    {
+      "id": "announcer_enemy_specialskill_56_1",
+      "dlg": "Look at them go; they've become quite restless. Is it a warning... or signs of peril...? Or simply an expression of frustration, perhaps?"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_56_1",
+      "dlg": "Stop entertaining those useless questions that begin with \"why.\"\nYou'll only disappoint yourself by expecting everything to have some sort of meaning."
+    },
+    {
+      "id": "announcer_advatk_physical_56_1",
+      "dlg": "Boring and predictable. Like something nailed into the packaging at a factory."
+    },
+    {
+      "id": "announcer_disadvatk_physical_56_1",
+      "dlg": "Fuhu, have you developed a sense of humor while I wasn't looking? I'll make sure to remember that little performance, ma puce."
+    },
+    {
+      "id": "announcer_advatk_attr_56_1",
+      "dlg": "Efficient. Just like you."
+    },
+    {
+      "id": "announcer_disadvatk_attr_56_1",
+      "dlg": "Should I say.. that was somewhat amusing?"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_56_1",
+      "dlg": "The sunshine feels especially cozy today. Perhaps a little too warm for you?"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_56_1",
+      "dlg": "Even for customers whose every facet of existence has been nailed tightly for so long, not everything in the Grand Magasin is familiar. Every now and then, they feel the same sense of unfamiliarity."
+    },
+    {
+      "id": "announcer_ally_specialbuff_56_1",
+      "dlg": "Zero hesitation in grabbing that helping hand, I see. What'll happen now, I wonder? Cold-blooded betrayal? Or nothing at all? Who knows."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_56_1",
+      "dlg": "Spend long enough in the forest of unfamiliarities, and you'll find yourself arrested by a sudden bout of nausea."
+    },
+    {
+      "id": "announcer_enemy_destroy_56_1",
+      "dlg": "They were made two from one, but were they one in the beginning?"
+    },
+    {
+      "id": "announcer_enemy_destroy_56_2",
+      "dlg": "They could've been <i>one</i> in the beginning. But once someone is assigned a role, and once they present themselves on stage and receive the gaze of the audience... nothing, no one can remain wholly \"one.\""
+    },
+    {
+      "id": "announcer_round_takebigdmg_56_1",
+      "dlg": "Don't let this bring you down. All of this... is nothing more than directionless, superfluous drifting."
+    },
+    {
+      "id": "announcer_round_takebigdmg_56_2",
+      "dlg": "Do you see now? Struggling'll only drag you deeper."
+    },
+    {
+      "id": "announcer_round_givebigdmg_56_1",
+      "dlg": "Watching them fall apart... Looks like we'll have to hit the Liquidation button pretty soon."
+    },
+    {
+      "id": "announcer_round_givebigdmg_56_2",
+      "dlg": "Persevering and achieving what you want in spite of everything... deserves applause. I designed Grand Magasin Sisyphe to be a place where we can all be true to our innermost desires, after all."
+    },
+    {
+      "id": "announcer_multikillenemy_56_1",
+      "dlg": "Already strutting down the runway with so much spirit! That new coworker of yours'll make a wonderful customer in the Grand Magasin Sisyphe."
+    },
+    {
+      "id": "announcer_battle_win_56_1",
+      "dlg": "Congratulations, ma puce. Though this small victory won't change how this ends."
+    },
+    {
+      "id": "announcer_battle_defeat_56_1",
+      "dlg": "Oh my. Have you finally decided to be with me for the rest of your life? What a romantic."
+    },
+    {
+      "id": "announcer_equip_56_1",
+      "dlg": "Do I really need an introduction? My name is Jeanne. That's the name of the Voice I've so graciously chosen to share with you... a Giant of the Grand Magasin."
+    }
+  ]
+}

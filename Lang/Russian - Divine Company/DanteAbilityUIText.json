@@ -43,6 +43,14 @@
     {
       "id": "IsUnavailableDanteAbility_DescText_RemainingCountIsZero",
       "content": "No remaining activations for today."
+    },
+    {
+      "id": "danteAbility_50101_Option_0",
+      "content": "Heads"
+    },
+    {
+      "id": "danteAbility_50101_Option_1",
+      "content": "Tails"
     }
   ]
 }

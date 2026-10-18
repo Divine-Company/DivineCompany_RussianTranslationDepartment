@@ -1,0 +1,1910 @@
+﻿{
+  "dataList": [
+    {
+      "id": 150301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Give It Back...",
+          "desc": "If target has equipped Defense Skills, deal -90% damage\nClash Power +1 for every [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 5 [TangleBlackYarn] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hand It Over...",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nGain Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Clash Power +1 for every 3 [TangleBlackYarn] on the main target (max 8)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If target <color=#ff6000><mark=#ff000040><b><u>has 15+ [TangleBlackYarn], Stagger target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't Take It Away From Me...",
+          "desc": "Gain Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 5 [TangleBlackYarn] on the main target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [TangleBlackYarn]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coiled and Tangled",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nGain Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Clash Power +1 for every 3 [TangleBlackYarn] on target (max 8)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +4 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If target <color=#ff6000><mark=#ff000040><b><u>has 15+ [TangleBlackYarn], Stagger target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thrashing of an Elden Being",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nLose Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 3 [TangleBlackYarn] on the main target (max 3)\n[WhenUse] If the main target has 15+ [TangleBlackYarn], Base Power +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If target <color=#ff6000><mark=#ff000040><b><u>has 15+ [TangleBlackYarn], Stagger target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tangling",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nLose Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 3 [TangleBlackYarn] on the main target (max 3)\n[WhenUse] If the main target has 15+ [TangleBlackYarn], Base Power +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [TangleBlackYarn]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Abyssal Maw",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[StartBattle] Base Power +1 and deal +10% damage for every 2 [TangleBlackYarn] on target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] <color=#ff6000><mark=#ff000040><b><u>Remove 10 [TangleBlackYarn]</u></b></mark></color> on target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target is <color=#ff6000><mark=#ff000040><b><u>Staggered</u></b></mark></color> or if target <color=#ff6000><mark=#ff000040><b><u>has 20+ [TangleBlackYarn]</u></b></mark></color>, Reuse this Coin (once per Skill)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Deal fixed damage equal to 150% of target's max HP</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cleansing",
+          "desc": "[DuelCounter]\n[WhenUse] Base Power +1 for every 2 [TangleBlackYarn] on target\n[WinDuel] <color=#ff6000><mark=#ff000040><b><u>Remove all [TangleBlackYarn] on target</u></b></mark></color>, then remove all [SickBlackYarn] from the Part that used this Skill\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Remove all [TangleBlackYarn] on target</u></b></mark></color>, then halve the [SickBlackYarn] from the Part that used this Skill (rounded up)",
+          "flavor": "Alas, the remnants of the elden age cannot be cleansed away in the Age of the Department Store.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spring's Genesis",
+          "desc": "[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 5 SP</color></mark></b></u>\n- Except targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Autumn's Passing",
+          "desc": "[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 5 SP</color></mark></b></u>\n- Except targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Doll Who Yearned to be Human",
+          "desc": "[WhenUse] Final Power +1 for every 3 ([Vibration] Potency + [Sinking] Potency) on target (max 2)\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 10 SP</color></mark></b></u>\n- Does not activate for targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal SP damage equal to [Sinking] Potency on target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Human Who Yearned to be a Doll",
+          "desc": "[WideAreaRampage]\n[WhenUse] Final Power +1 for every 3 ([Vibration] Potency + [Sinking] Potency) on the main target (max 2)\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>All targets lose 10 SP</color></mark></b></u>\n- Does not activate for targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [AlriuneSillage]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [AlriuneSillage]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "This Coin hits all targets of the attack"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fragrant Laurel Wreath",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Can Clash with this Skill regardless of Speed</color></mark></b></u>\nThis Skill does not deal damage and does not activate [Sinking] on target\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Apply [FlowerLaurelWreath] on target (once per turn)</color></mark></b></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Target heals 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bearing the hope to return to dust...",
+          "desc": "[WhenUse] Final Power +1 for every 3 ([Vibration] Potency + [Sinking] Potency) on the main target (max 8)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>If the main target does not have [FlowerLaurelWreath], Final Power +5</color></mark></b></u>\n[DefeatDuel]\n- Deal -80% damage\n- Damage dealt by this Skill cannot Stagger the target\n- Does not activate [Sinking] on target\n\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>All targets lose 10 SP</color></mark></b></u>\n- Does not activate for targets that have [FlowerLaurelWreath]\n[EndSkillAll] Reset [AlriunePetal] on self to 0 Stack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict [Vibration] Potency equal to [AlriuneSillage] on target (calculated per-target)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict [Sinking] Potency equal to [AlriuneSillage] on target (calculated per-target)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... It shall go back to the grave with all that desires to live",
+          "desc": "[CantDuel] [CantChangeTarget]\nThis Skill does not trigger the target's Defense Skill\nIf target is not Panicked or Corroded, cancel this attack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Deal fixed damage equal to 120% of target's max HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "When flowers substitute all the desire in everyone's hearts...",
+          "desc": "Can Clash with this Skill regardless of Speed\nThis Skill does not deal damage\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 25 SP</color></mark></b></u>\n- Except targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flower Mound",
+          "desc": "This Skill's damage is fixed to 0",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AlriuneSillage]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [AlriuneSillage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Crack in the Heart",
+          "desc": "This Skill's damage is fixed to 0\n[WhenUse] Final Power +1 for every 3 (sum of Potency of negative effects on target) (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entangling Despair",
+          "desc": "This Skill's damage is fixed to 0\n[WhenUse] Final Power +1 for every 3 types of negative effects on target (max 3)\n[DefeatDuel]\n- Does not activate [Sinking] on target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Deal SP damage equal to [Sinking] Potency on target</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Revving Up",
+          "desc": "[StartBattle]\n<color=#ff6000><mark color=#ff000040><b><u>- Gain Shield equal to 30% of this unit's max HP</color></mark></b></u>\n- Regain [ChargeKhaki] Count up to the maximum cap\n- Gain 1 [SpreadingDye] next turn",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Threading",
+          "desc": "Clash Power +1 for every 2 [ChargeKhaki] Potency on self (max 3)\n[WhenUse] Gain 1 [Agility] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Inflict 1 [Binding] next turn</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lockstitch",
+          "desc": "If this unit's Speed is faster than the target's, deal +20% damage\nCoin Power +1 for every 2 [ChargeKhaki] Potency on self (max 2)\n[WhenUse] Consume 4 [ChargeKhaki] Count to gain Coin Power +2\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>If this unit's Speed is faster than the target's, or if this unit has lower than 50% HP</color></mark></b></u>:\n- Convert all Coins to [SuperCoin]s\n- Deal +(Speed difference x 15)% damage (max 40%)\n<color=#ff6000><mark color=#ff000040><b><u>[DefeatDuel] Gain 1 [Binding] next turn</color></mark></b></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this is an [SuperCoin], <color=#ff6000><mark color=#ff000040><b><u>Gain +4 [ChargeKhaki] Count</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chainstitch",
+          "desc": "If this unit's Speed is faster than the target's, deal +20% damage\nCoin Power +1 for every 2 [ChargeKhaki] Potency on self (max 2)\n[WhenUse] Consume 4 [ChargeKhaki] Count to gain Coin Power +2\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>If this unit's Speed is faster than the target's, or if this unit has lower than 50% HP</color></mark></b></u>:\n- Convert all Coins to [SuperCoin]s\n- Deal +(Speed difference x 15)% damage (max 40%)\n[WinDuel] Gain 1 [Agility] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this is an [SuperCoin], <color=#ff6000><mark color=#ff000040><b><u>Gain +4 [ChargeKhaki] Count</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "2-needle Bottom Coverstitch Rainbow Overlock",
+          "desc": "[WideAreaRampage]\nCan Clash with this Skill regardless of Speed\nFinal Power +1 for every 2 [ChargeKhaki] Potency on self (max 3)\n[WhenUse] Consume all [ChargeKhaki] Count on self and deal +5% damage for every [ChargeKhaki] Count consumed\n[WhenUse] Coin Power +1 for every 3 ([Laceration] Potency + [Laceration] Count) on the main target (max 3)\n[DefeatDuel]\n- Gain 10 [AttackDmgDown] and 4 [Paralysis]\n- This Skill cannot Stagger the target\n[EndSkillAll] <color=#ff6000><mark color=#ff000040><b><u>End this turn</color></mark></b></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "This Coin hits all targets"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [ThreadDye] next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Apply the following on targets that have [Inactible]"
+                },
+                {
+                  "desc": "- Become Staggered next turn"
+                },
+                {
+                  "desc": "- Take (20% of this Coin's final damage) Lust damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trimming",
+          "desc": "[WhenUse]\n- At 10+ [ChargeKhaki] Count, Coin Power +1\n- If this unit has [LargeTailoringShears], deal +([LargeTailoringShears] Stack x 10)% damage (max 30%)\n[WhenUse] At fewer than 15 [ChargeKhaki] Count, gain +2 [ChargeKhaki] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeKhaki] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [ScissorsMark]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cutting",
+          "desc": "[WhenUse]\n- At 2+ [LargeTailoringShears], gain +1 Atk Weight\n- At 10+ [ChargeKhaki] Count, Coin Power +1\n[WhenUse] Gain +4 [ChargeKhaki] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ChargeKhaki] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [ScissorsMark]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [ScissorsMark]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Gain 1 [FinishedFabric] next turn</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] At 12+ [ChargeKhaki] Count, consume 4 [ChargeKhaki] Count to trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pin and Trim Along the Patterns",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[WhenUse]\n- At 10+ [ChargeKhaki] Count, consume 10 [ChargeKhaki] Count to gain Coin Power +2\n- Consume up to 20 remaining [ChargeKhaki] Count to deal +1% damage for every Count consumed (max 20%)\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]\n- Lose 3 [FinishedFabric]\n- Deal -75% damage\n- Gain 4 [Paralysis]</u></b></mark></color>\n- Damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gain +3 [ChargeKhaki] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [ScissorsMark]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Gain 3 [FinishedFabric] next turn</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coupez dans le Biais",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[WhenUse]\n- Gain +([LargeTailoringShears] Stack) Atk Weight (max 3)\n- At 10+ [ChargeKhaki] Count, consume 10 [ChargeKhaki] Count to gain Coin Power +2\n- Consume up to 20 remaining [ChargeKhaki] Count to deal +1% damage for every Count consumed (max 20%)\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]\n- Lose 3 [FinishedFabric]\n- Deal -90% damage\n- Gain 4 [Paralysis]</u></b></mark></color>\n- Damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If it is the main target, inflict 5 [ScissorsMark]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Gain 1 [FinishedFabric] next turn</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] If it is the main target, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Patterning",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\nTargets [TailoringTarget]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[OnSucceedAttack] Inflict 9 [ScissorsMark]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Surfile à la Chaîne",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\nTargets [TailoringTarget]</u></b></mark></color>\nFinal Power +1 and deal +20% damage for every [LargeTailoringShears] on self (max 3, 60 respectively)\nDeal +4% damage for every [ChargeKhaki] Potency (max 20%)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If the targeted Sinner...\n- ... has equipped Defense Skills, gain 4 [Paralysis]; damage dealt by this Skill cannot Stagger the target\n- ... has not equipped Defense Skills, gain 10 [FinishedFabric] next turn</u></b></mark></color>\n[EndSkill]\n- <color=#ff6000><mark=#ff000040><b><u>After a Clash,</u></b></mark></color> inflict (Clashing Sinner's final Clash Power / 2) [DamagedFabric] on target (max 20)\n<color=#ff6000><mark=#ff000040><b><u>- Consume all [ScissorsMark] on target</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>[EndBattle] Gain 1 [LargeTailoringShears] next turn</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cometh the Nail",
+          "desc": "[WhenUse] Coin Power +1 for every 3 [ChargeNoir] Potency on self (max 3)",
+          "flavor": "Nails exist to be driven in by hammers.\nWhat the hammer falls upon are nails.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +5 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +5 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Summoneth the Nail",
+          "desc": "[WhenUse] Coin Power +1 for every 3 [ChargeNoir] Potency on self (max 3)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "flavor": "Where hammers have fallen, nails exist.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rapping",
+          "desc": "[WhenUse] Coin Power +1 for every 3 [ChargeNoir] Potency on self (max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Witness Ye in Silence",
+          "desc": "[WinDuel] Inflict +3 [Vibration] Count\n[WinDuel] [VibrationExplosion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuelAttack] Inflict 1 [NoirShieldPiece]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Proclamation: Sanctum of Conservation",
+          "desc": "Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n\n[StartBattle] Clash Power -2 for every Defense Skill equipped by enemies (-10 max)\n\n[WhenUse] If the main target <color=#ff6000><mark=#ff000040><b><u>does not have [NoirShieldPiece], Final Power +5 for this Skill</u></b></mark></color>\n[WhenUse] Consume all [ChargeNoir] Count on self\n- Final Power +1 for every 3 [ChargeNoir] Count consumed\n- Deal +([ChargeNoir] Count consumed x 5)% damage\n<color=#ff6000><mark=#ff000040><b><u>- Gain 1 [NoirField]</u></b></mark></color>\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has [NoirShieldPiece]:"
+                },
+                {
+                  "desc": "- Target takes -95% final damage from this Coin"
+                },
+                {
+                  "desc": "- This Coin's damage cannot Stagger the target"
+                },
+                {
+                  "desc": "- Remove [NoirShieldPiece] on target and apply 2 [VibrationResonance]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold equal to this Coin's final damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Revelations",
+          "desc": "Cannot be Staggered before using this Skill\n<color=#ff6000><mark=#ff000040><b><u>[StartBattle] Gain 999 [NoirShieldUp]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Covenant",
+          "desc": "[SupportEnemy]\n\n[EndSkill] If target is an ally, apply 6 [AttackUp]\n[EndSkill] Targeted ally uses a random Attack Skill\n\n[DefeatDuel] Gain 1 [Vulnerable]\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Lose 150 [NoirShieldUp]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I sever thine advent.",
+          "desc": "Can Clash with this Skill regardless of Speed; Cannot be Staggered before using this Skill\n[WhenUse] Final Power +1 for every 100 [NoirShieldUp] on self\n[WhenUse] If target has [NoirShieldPiece], Clash Power -5\n[DefeatDuel] This Skill deals -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] End this turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [NoirNail]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion] 1 additional time for every 200 [NoirShieldUp] on self (4 times max)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 3 times"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With each smite, I sever thine advent!",
+          "desc": "Can Clash with this Skill regardless of Speed; Cannot be Staggered before using this Skill\n\n[WhenUse] Consume all [ChargeNoir] Count on self\n- Final Power -1 for every 3 [ChargeNoir] Count consumed\n- Deal +([ChargeNoir] Count consumed x 5)% damage\n\n[WhenUse] If the main target has [NoirShieldPiece], Clash Power -5\n[WhenUse] If the main target does not have [NoirShieldPiece], Final Power +5 for this Skill\n[DefeatDuel] This Skill deals -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] End this turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [NoirNail]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has [NoirShieldPiece]:"
+                },
+                {
+                  "desc": "- Target takes -95% final damage from this Coin"
+                },
+                {
+                  "desc": "- This Coin's damage cannot Stagger the target"
+                },
+                {
+                  "desc": "- Remove [NoirShieldPiece] on target and apply 2 [VibrationResonance]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heed the calling, O faithful",
+          "desc": "[StartBattle] Summon 5 Le Noir allies next turn (the number of other allies on the field cannot exceed 5)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Your purchase history, please?",
+          "desc": "Deal +(Shield on self)% damage (max 20%)\n[WhenUse] Gain +2 [ChargeNoir] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Your purchasing rights, please?",
+          "desc": "[WhenUse] Coin Power +1 for every 6 ([ChargeNoir] Count on self + [Vibration] Potency on target) (max 2)\n[WhenUse] Gain +3 [ChargeNoir] Count\n[WinDuel] Gain +2 [ChargeNoir] Count\n[WhenUse] At 3+ [ChargeNoir] Potency, convert the final coin to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stamping [Flannel]",
+          "desc": "Deal +(Shield on self)% damage (max 50%)\n[WhenUse] Final Power +1 for every 6 [Vibration] on target (max 2)\n[WhenUse] Consume up to 15 [ChargeNoir] Count on self, and gain Shield equal to ([ChargeNoir] Count consumed x 2)% of this unit's max HP; Shield gained due to this effect lasts until next turn\n[WhenUse] If this unit has consumed 10+ [ChargeNoir] Count, Coin Power +2 and convert all Coins to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +3 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- Trigger an additional time for every 2 [ChargeNoir] Potency on self (max 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reinforce Fabric",
+          "desc": "This Skill is used on allies; damage dealt to allies is fixed to 0\n[WhenUse] Final Power +2 for every 4 [Vibration] on target (max 6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 3 [DefenseUp] this turn and next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Target gains [Charge] Count equal to [ChargeNoir] Count on self\n- If target's [Charge] Count is at max, apply 3 [DefenseUp] and 5 [NoirBindArmor] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "For Conservation",
+          "desc": "This Skill is used on allies; damage dealt to allies is fixed to 0\n[WhenUse] Final Power +2 for every 4 [Vibration] on target (max 6)\n[WhenUse] At 3+ [ChargeNoir] Potency, convert all Coins to [SuperCoin]s\n[WhenUse] At fewer than 10 [ChargeNoir] Count, gain up to 10 [ChargeNoir] Count; then, gain 1 [Vulnerable] for every 2 Count gained\n[DefeatDuel] Consume half of [ChargeNoir] Count on self\n[EndSkill] Consume all [ChargeNoir] Count on self",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain 2 [DefenseUp] this turn and next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Target gains [Charge] Count equal to [ChargeNoir] Count on self\n- If target's [ChargeNoir] Count is at max, apply 3 [DefenseUp] and 5 [NoirBindArmor] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Your price range, please?",
+          "desc": "[WhenUse] Gain +2 [ChargeNoir] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Disqualifying defects, all over",
+          "desc": "[WhenUse] Coin Power +1 for every 6 ([ChargeNoir] Count on self + [Vibration] Potency on target) (max 2)\n[WhenUse] Gain +3 [ChargeNoir] Count\n[WinDuel] Gain +2 [ChargeNoir] Count\n[WhenUse] At 3+ [ChargeNoir] Potency, convert the final coin to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stamping [Felt]",
+          "desc": "Deal +(Shield on self)% damage (max 50%)\n[WhenUse] Final Power +1 for every 6 [Vibration] on target (max 2)\n[WhenUse] Consume up to 15 [ChargeNoir] Count on self, and gain Shield equal to ([ChargeNoir] Count consumed x 2)% of this unit's max HP; Shield gained due to this effect lasts until next turn\n[WhenUse] If this unit has consumed 10+ [ChargeNoir] Count, Coin Power +2 and convert all Coins to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If this unit has consumed 10+ [ChargeNoir] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stamping [Reverb]",
+          "desc": "When hit while this unit has Shield, deal ([ChargeNoir] Potency on self x [NoirBindArmor] Stack) damage on the attacker\n[WhenUse] Gain +3 [ChargeNoir] Count",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 148801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flaying",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fleshing",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Deal +10% damage for every surviving Tanned Prisoner</u></b></mark></color> on the field\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brain Tanning",
+          "desc": "Target Fixed\nThis Skill prioritizes allies that have the lowest HP\n\nIf this unit failed to attack the targeted unit, cancel this Skill",
+          "flavor": "Tanning treatment technique using the brain fat of the butchered original hides. This is B3F's secret recipe.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If the target is an ally, apply the following effects:\n- Re-insert the target into its back\n- Heal 1% HP\n- Heal 20 SP\n- Gain 2 [AttackDmgUp] this turn and next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Splitting",
+          "desc": "[EndBattle] Summon up to 2 Tanned Prisoner next turn and apply [B3FreshMob]\n\n- Summoned Tanned Prisoners cannot exceed 6 units\n- Consume 0.5% HP for every summoned Tanned Prisoner\n- <color=#ff6000><mark=#ff000040><b><u>Disable this effect if either of the following conditions is met:</u></b></mark></color>\n· If the Skill Slot using this Skill is a main target of 2+ Attack Skills\n· If there are 6 or more surviving Tanned Prisoners on the field",
+          "flavor": "A treatment process separating the Original Sin from the Original Hide",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Massive Splitting",
+          "desc": "[EndBattle] Summon up to 4 Tanned Prisoner next turn and apply [B3FreshMob]\n\n- Summoned Tanned Prisoners cannot exceed 6 units\n- Consume 0.5% HP for every summoned Tanned Prisoner\n\n[StartBattle] Apply 1 [AttackDmgUp] next turn on all allies",
+          "flavor": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leather Tumbling in Brain Fat: Original Sin Style",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Deal +10% damage for every surviving Tanned Prisoner</u></b></mark></color> on the field\n[StartBattle] Apply 2 [Enhancement] on all other allies\n[WhenUse] If this unit has lower than 50% HP, gain Final Power +1 for every Tanned Prisoner on the field\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "flavor": "Within its brain are the brains of sinners, tumbling and mixing as they are tanned by its cerebral fluid.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punishing Burnishing Finishing",
+          "desc": "[CantDuel]\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\n\n[EndSkill] Order 3 random Tanned Prisoners to use random Skills against the target (prioritizes allies that are not Staggered)",
+          "flavor": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +100% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brain Fat Spray",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Reduction] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brain Fat Buffing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 5 [DefenseDown] next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expiatory Embossing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Heal 1% HP to Overseer's Parts and Core"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 1% HP to Overseer's Parts and Core"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "key": "Q5000_C2",
+      "title": "Proceed Through 5F",
+      "description": "We're on 5F. Let's keep heading inside.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Proceed Through 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5001_C2",
+      "title": "Stop Buffet",
+      "description": "What awaited us on the 5F was Buffet, who hadn't engorged into the massive form they'd turned into before the Liquidation.\n\nThey want us to stay, but we can't. We need to defeat Buffet to keep moving forward.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Stop Buffet"
+        }
+      ]
+    },
+    {
+      "key": "Q5002_C2",
+      "title": "Proceed Through 5F",
+      "description": "Buffet, the Crimson God of Le Rouge, who was also our companion, Pwie... has gone still. We should proceed deeper into 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Proceed Through 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5003_C2",
+      "title": "Head to 6F",
+      "description": "The path to 6F opened after Meursault finished his meal.\n\nLet's head up to 6F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to 6F"
+        }
+      ]
+    },
+    {
+      "key": "Q5004T_C2",
+      "title": "뷔페 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "뷔페 개전"
+        }
+      ]
+    }
+  ]
+}

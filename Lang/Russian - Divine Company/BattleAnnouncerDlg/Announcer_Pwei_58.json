@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_58_1",
+      "dlg": "... Ah, I gotta talk into the mic now? ... But why? ... Cheer them on? Okay. Woo, you can do it...!"
+    },
+    {
+      "id": "announcer_cheer_58_2",
+      "dlg": "I'm always so... hungry... But all of that goes away when I'm watching you. Why's that?"
+    },
+    {
+      "id": "announcer_specialcheer_58_1",
+      "dlg": "Strangers, your clothes are turning redder and redder... Just like the Rouges' clothes. ... Are you becoming my followers?"
+    },
+    {
+      "id": "announcer_specialcheer_58_2",
+      "dlg": "Are you... sighing? But isn't sighing for when you're— Ohh... You're all tired..."
+    },
+    {
+      "id": "announcer_enemy_break_58_1",
+      "dlg": "They're all reeling... Are they... hurting?"
+    },
+    {
+      "id": "announcer_ally_break_58_1",
+      "dlg": "Why aren't you moving? Mm... Your legs hurt?\n... Okay. I don't like waiting, but... I'll wait for you."
+    },
+    {
+      "id": "announcer_killenemy_58_1",
+      "dlg": "They can't move anymore when they're dead...? But why...? No, no. They're gonna rise again... I don't want it to end like that."
+    },
+    {
+      "id": "announcer_ally_dead_58_1",
+      "dlg": "Ah, they've stopped moving. Mm... But they're also not in pain anymore. I'm sure we'll meet back at the Fount soon."
+    },
+    {
+      "id": "announcer_enemy_adv_58_1",
+      "dlg": "... One by one, they fall and stop moving. When that happens to everyone... will I be all alone?"
+    },
+    {
+      "id": "announcer_ally_adv_58_1",
+      "dlg": "They're bleeding all over... while you're comfortably cutting them into smaller pieces...\n... Oh, is this what \"renovation\" means?"
+    },
+    {
+      "id": "announcer_ally_advex_58_1",
+      "dlg": "Whoa. I really didn't expect that... Wow... You strangers are really strong."
+    },
+    {
+      "id": "announcer_danger_58_1",
+      "dlg": "Looks like... It'll all end soon. And when it does... I'm worried I'll be left alone...\nI want everyone to stay with me after the end."
+    },
+    {
+      "id": "announcer_enemy_specialskill_58_1",
+      "dlg": "... Splashing and cresting like tall waves... Something's gonna burst out soon. ... Maybe you should get out of the way?"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_58_1",
+      "dlg": "Ah, I know this. It's a \"game,\" right? Where a buncha people set rules and play together. Lemme join, lemme join."
+    },
+    {
+      "id": "announcer_advatk_physical_58_1",
+      "dlg": "That made a pleasant sound, like slicing clean through the flesh..."
+    },
+    {
+      "id": "announcer_disadvatk_physical_58_1",
+      "dlg": "... I dunno if you can see me, but I have my hands up. I wanna ask another question... Why did you do that?"
+    },
+    {
+      "id": "announcer_advatk_attr_58_1",
+      "dlg": "The one who used to sing to me... said clothes made of good leather make a pleasant sound when you move around in them... I think she was right."
+    },
+    {
+      "id": "announcer_disadvatk_attr_58_1",
+      "dlg": "That made a disturbing sound, like applying too much pressure on leather... I don't like it."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_58_1",
+      "dlg": "They look full of energy, like they just ate a whole bunch of something. Weird, I didn't see them put anything in their mouths...\n... Is there another way of consuming other than eating?"
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_58_1",
+      "dlg": "They look hungry... Feebly-sickly, wibbly-wobbly... Now I'm hungry, too."
+    },
+    {
+      "id": "announcer_ally_specialbuff_58_1",
+      "dlg": "... If you had snacks, why didn't you share with me?"
+    },
+    {
+      "id": "announcer_ally_specialdebuff_58_1",
+      "dlg": "You're all in a bad mood... Are you hungry? Hmm, I don't have anything to share...\n... Now I'm hungry, too."
+    },
+    {
+      "id": "announcer_enemy_destroy_58_1",
+      "dlg": "Ah, something fell off. Did it get... \"cooked\"? Like Wriggley?"
+    },
+    {
+      "id": "announcer_enemy_destroy_58_2",
+      "dlg": "Is that not... food? Why isn't anybody eating that? If nobody wants it... Then I'll eat it."
+    },
+    {
+      "id": "announcer_round_takebigdmg_58_1",
+      "dlg": "That looks... painful. Pain's no good."
+    },
+    {
+      "id": "announcer_round_takebigdmg_58_2",
+      "dlg": "I don't want you guys to get hurt. You strangers don't follow my Voice, but... you <i>listen</i> to me. So please don't hurt yourselves."
+    },
+    {
+      "id": "announcer_round_givebigdmg_58_1",
+      "dlg": "Keep moving forward, just like that. I have to keep climbing."
+    },
+    {
+      "id": "announcer_round_givebigdmg_58_2",
+      "dlg": "They've all... fallen like the setting sun, right? But... it had to happen. If they hadn't... it would've been you guys instead."
+    },
+    {
+      "id": "announcer_multikillenemy_58_1",
+      "dlg": "Everything's fallen... like cleaning a dish and moving on to the next. ... So that's your way of doing things, too."
+    },
+    {
+      "id": "announcer_battle_win_58_1",
+      "dlg": "It's over. Let's keep climbing. ... You'll stay with me up there too, right?"
+    },
+    {
+      "id": "announcer_battle_defeat_58_1",
+      "dlg": "... Don't worry. You'll rise again."
+    },
+    {
+      "id": "announcer_equip_58_1",
+      "dlg": "*tap* *tap* What's this? ... Mmkay. I gotta be the Voice, right? My name is... Pwie. I think I'm Pwie. Can you hear my voice?"
+    }
+  ]
+}

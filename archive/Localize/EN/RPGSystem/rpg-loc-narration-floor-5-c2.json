@@ -1,0 +1,484 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_SISYP_INTRO",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Thanks for joining this journey so willingly.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>So... I suppose you want to ask, \"Where are we?\" It's a difficult place to put a name to. It belongs to the <i>concept</i> of the sixth floor, but it's also where all the floors you've passed through flow backward, mixing and grinding together into sediment.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Unsold inventory, out-of-season stock, carryovers, returns, and things passed over until even the store forgot they were there. Those distinctions mean nothing here, because everything you've gone through so far has been crushed and mixed up in the same heap beneath your feet.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>Layer pressed upon layer... until they all became this hard, slippery hill.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>Try not to give too much thought, whatever you happen to tread on.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 5,
+          "text": "<color=#cf0000>Your task is simple, Meursault. Push the boulder all the way to the top.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>There's no trick to it. Just apply some force, hold your course, and keep pushing.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 7,
+          "text": "<color=#cf0000>Some stretches may be too slippery. Others may be too steep.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 8,
+          "text": "<color=#cf0000>But <i>you</i> can do it, Meursault. Remember all that training I put you through?</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ffe066>Well, would you look at that.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ffe066>Models. Walking the runway.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 11,
+          "text": "<color=#ffe066>They walk to the end, turn around... and walk back. Right where they started. Around they turn, and off they go again.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 12,
+          "text": "<color=#ffe066>Hah! Ring any bells? Looks rather like what you're doing, doesn't it?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>How are your arms holding up, by the way? I'd love to make you some tea... but perhaps not. You'd have to let go of that boulder to hold the teacup, after all.</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Starting for the first time and returning to the starting point are entirely different things, Meursault.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>First times are always the same—you have nothing to lose because you're oblivious to what's involved. But the second time starting over, and then the next... You know how far up you need to push the boulder again.</color>",
+          "speaker": "Mother"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>Pfft... Oops, I wasn't laughing at you!</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>Or maybe you expected me to offer you some sort of platitude?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>Here's what I think, actually. Sometimes, failure is just failure. Not every defeat comes with a lesson to be learned.</color>",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FALL_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>Does it anger you? That is what a prison is for.</color>",
+          "speaker": "The Chaplain"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>To keep pushing, knowing it will roll back down... To believe that this time you will reach the end, only to have that certainty shattered to pieces. That is your punishment.</color>",
+          "speaker": "The Chaplain"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>This is the path of penance. A road of suffering... laid to punish you, O Sinful One.</color>",
+          "speaker": "The Chaplain"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>Models don't stop once the runway show begins.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>I wonder if that's what makes their walk beautiful.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Or is it the other way around? Do they keep walking because they have to look beautiful?</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>To become a model was the dream of everyone living in Grand Magasin Sisyphe.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>It's a dream realized only by wearing expensive clothes and being the subject of countless gazes. That is why everyone was so desperate to climb even one floor higher.</color>",
+          "speaker": "Mother"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>And yet, after climbing and climbing...</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>There's nothing left to do but to keep walking on the runway. What a thing to congratulate, hmm?</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>Say, have you ever wondered...</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>... whether you're pushing the boulder, or if the boulder is pulling <i>you</i> uphill?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>A fun little thought exercise, isn't it? Try letting go for a moment. I'm dying to see what happens.</color>",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_5",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>Look straight ahead, Meursault.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Keep that chin up. Feet flat against the ground.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>Don't let them see your suffering and nail it in their head as suffering.</color>",
+          "speaker": "Mother"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>This... is the punishment bestowed upon you, O Sinful One.</color>",
+          "speaker": "The Chaplain"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>Do not dare wish for it to end.</color>",
+          "speaker": "The Chaplain"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_7",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>The dregs of every floor you've passed through are mixed together here.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Look closely. You'll find whole heaps of eyeballs embedded in it.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>Some have spent their entire lives collecting those.</color>",
+          "speaker": "Jeanne"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_8",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>There must be tapes of my voice somewhere there, too.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>Every day, I went to work and read them that manual, word for word, top of the sheet to the bottom.</color>",
+          "speaker": "Mother"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>That was my role. Whether I agreed with the words was irrelevant. The longings of the Grand Magasin's denizens, their pain, their delight... all of it was raw material for Canned Experiences.</color>",
+          "speaker": "Mother"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_MID_9",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ffe066>Shall I tell you how much farther to the top?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>You want to know, don't you? It's eating you alive, isn't it?</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ffe066>You might be past the halfway point. Or... Hey, maybe you're just a few steps from the summit? Or, if not... Pfft! Perhaps you've barely left the starting line? Who knows?</color>",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_LATE_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>It's all right to stop.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ffe066>Oh, you can't stop now!</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>To bear the weight in full and do nothing but ascend. That is the lot of a sinner.</color>",
+          "speaker": "The Chaplain"
+        },
+        {
+          "index": 3,
+          "text": "<color=#cf0000>The summit isn't what matters, Meursault. The important thing is...</color>",
+          "speaker": "Mother"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_LATE_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>People like to judge the journey by where it gets you.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 1,
+          "text": "<color=#e1b643>Then again... we eat, only to grow hungry again.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 2,
+          "text": "<color=#e1b643>We wash up, and become dirty again.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 3,
+          "text": "<color=#e1b643>We sleep only to grow tired again. Each of us knows this is the truth. And yet...</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 4,
+          "text": "<color=#e1b643>We continue to prepare dinner, warm the bathwater, and turn out the light, saying \"sleep tight\"s and \"good night\"s.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 5,
+          "text": "<color=#e1b643>Why do you force yourself to climb this hill, Meur?</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 6,
+          "text": "<color=#e1b643>You could have wrapped yourself in those chains and found peace of your own.</color>",
+          "speaker": "Carmen"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_ARRIVE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>You've finally reached it. The top of the hill.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 1,
+          "text": "<color=#e1b643>You can let go now.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 2,
+          "text": "<color=#e1b643>The boulder will roll back down. But... that isn't what matters, is it?</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 3,
+          "text": "<color=#e1b643>Now come and see that child. Come see the Grand Magasin... Come see <i>me</i>.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 4,
+          "text": "<color=#e1b643>The boulder will roll back down, but that's all right.</color>",
+          "speaker": "Carmen"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_FINALE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#e1b643>Come see me now.</color>",
+          "speaker": "Carmen"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>Come see me now.</color>",
+          "speaker": "Jeanne"
+        },
+        {
+          "index": 2,
+          "text": "<color=#7d7d7d>Come see me now.</color>",
+          "speaker": "The Chaplain"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ffe066>Come see me now.</color>",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "<color=#cf0000>Come see me now.</color>",
+          "speaker": "Mother"
+        }
+      ]
+    },
+    {
+      "key": "NAR_SISYP_HOKMA",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You should be allowed to be who you are.\nNot bound by anyone or anything.",
+          "speaker": ""
+        },
+        {
+          "index": 1,
+          "text": "There is a river that flows at the very bottom of the world.",
+          "speaker": ""
+        },
+        {
+          "index": 2,
+          "text": "As beings born as humans, we can't help but be affected by the dream of humanity that the river shares.\nI won't deny that. It's just part of being human.",
+          "speaker": ""
+        },
+        {
+          "index": 3,
+          "text": "But \"culture,\" which is acquired and unnatural, things that are determined by others... shouldn't define the shape.",
+          "speaker": ""
+        },
+        {
+          "index": 4,
+          "text": "I want you to be wholly yourself, even for a moment. In fact, I want mankind itself to be able to experience that.",
+          "speaker": ""
+        },
+        {
+          "index": 5,
+          "text": "I want to provide that opportunity, to grant the strength to achieve that.",
+          "speaker": ""
+        },
+        {
+          "index": 6,
+          "text": "After years upon years of toil and reflection, my junior's reached a certain enlightenment—and his philosophy was eventually set in a way that diverges from mine.",
+          "speaker": ""
+        },
+        {
+          "index": 7,
+          "text": "Ayin has the values I used to believe in and sought to convey to the world, and now seeks to give people... \"tools.\" Clothes.",
+          "speaker": ""
+        },
+        {
+          "index": 8,
+          "text": "But my answer remains the same.",
+          "speaker": ""
+        },
+        {
+          "index": 9,
+          "text": "\"You\" must be allowed to remain wholly yourself.\nUnshackled by anything.",
+          "speaker": ""
+        },
+        {
+          "index": 10,
+          "text": "",
+          "speaker": ""
+        }
+      ]
+    }
+  ]
+}

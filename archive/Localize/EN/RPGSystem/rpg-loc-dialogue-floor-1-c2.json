@@ -1,0 +1,586 @@
+{
+  "dataList": [
+    {
+      "key": "D1000_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "After our battle against the Chaplain, we... returned to the Fount,"
+        },
+        {
+          "index": 1,
+          "text": "having experienced time so vast that the very concept itself felt alien to me..."
+        }
+      ]
+    },
+    {
+      "key": "D1001_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Wait... Don't tell me we were sent back <i>again!</i>>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "No, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "It appears that... a considerable amount of time has passed.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<And... what is that thing...?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1002_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hang on... doesn't it look like it's gettin' closer...?",
+          "speaker": "Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The pile that fell from the sky turns out to be corpses, mangled beyond all recognition. A curious golden glow, bright like sunlight, winks through the gaps between the bodies."
+        },
+        {
+          "index": 1,
+          "text": "The people I assume to be the \"customers\" mentioned in the announcement are desperately scrambling among the corpses, snatching up whatever they could find."
+        }
+      ]
+    },
+    {
+      "key": "D1905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... I've never sat on this chair before."
+        },
+        {
+          "index": 1,
+          "text": "Then, is this even a \"chair\" from my point of view?"
+        },
+        {
+          "index": 2,
+          "text": "……."
+        },
+        {
+          "index": 3,
+          "text": "Questions like this have been cropping up ever since I entered this department store."
+        }
+      ]
+    },
+    {
+      "key": "D1906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "No time to sit around. We need to find a way out of here as soon as possible."
+        }
+      ]
+    },
+    {
+      "key": "D1913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Clothes hang here, unwanted and untouched. Perhaps that's because they barely contain any Golden Hide."
+        }
+      ]
+    },
+    {
+      "key": "D1963",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What's all that?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "Clothes that have fallen out of fashion due to the passing of the trend seasons.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Someone has gathered them here.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "They're tucked away in such an out-of-the-way corner. It almost seems like someone was trying to hide them away...",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "Ya know how fashion is—it's one big cycle. Maybe somebody stashed 'em here until they can come back in style?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<Could these be items for sale?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "There is very little evidence to support that possibility. They lack proper price tags and have not been maintained, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "Hup...! Aww. No dice. Figures...",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 8,
+          "text": "W-what are you doing?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "I'm tryin' to take one, obviously. Sorry, Meur, but can ya grab whichever one's in the best shape? There's a bunch of other stuff there mixed in with the clothes, too.",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 10,
+          "text": "... Understood.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "Obtained 10 eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D1964",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something is concealed within a fissure in the wall."
+        },
+        {
+          "index": 1,
+          "text": "Meursault picked up the Out-of-style Rouge Clothing."
+        }
+      ]
+    },
+    {
+      "key": "D1965",
+      "texts": [
+        {
+          "index": 0,
+          "text": "All the scents are starting to blend together."
+        }
+      ]
+    },
+    {
+      "key": "D1966",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An unfamiliar fragrance hangs in the air. This must be the perfume section."
+        }
+      ]
+    },
+    {
+      "key": "D1967",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's something strange and peculiar about the smell. ... It's starting to register more as a stench."
+        }
+      ]
+    },
+    {
+      "key": "D1968",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Doesn't smell like anything. The fragrance must have all but evaporated with the passage of time."
+        }
+      ]
+    },
+    {
+      "key": "D1969",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The merchandise here is different from what was on the displays along the way."
+        }
+      ]
+    },
+    {
+      "key": "D1970",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Unpopular clothes, perhaps? They've been tossed carelessly into a corner."
+        }
+      ]
+    },
+    {
+      "key": "D1971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Clothes have been heaped haphazardly in the corner."
+        }
+      ]
+    },
+    {
+      "key": "D1972",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A shelf with something on display."
+        }
+      ]
+    },
+    {
+      "key": "D1973",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The sign reads, \"BLOWOUT SALE\"."
+        }
+      ]
+    },
+    {
+      "key": "D1974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It says [Origami CollectioN ° 92, 1 of 5]."
+        }
+      ]
+    },
+    {
+      "key": "D1975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An exhibit shaped like a tangle of intertwined limbs."
+        }
+      ]
+    },
+    {
+      "key": "D1500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "If I sit on this object, it will become a chair."
+        },
+        {
+          "index": 1,
+          "text": "Without understanding why, I realize that I don't want to do that."
+        }
+      ]
+    },
+    {
+      "key": "D1515",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An empty display stand."
+        }
+      ]
+    },
+    {
+      "key": "D1903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This heat lamp doesn't work."
+        }
+      ]
+    },
+    {
+      "key": "D1904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ishmael called it a salon heat lamp. I doubt it would do anything beyond warming my head."
+        }
+      ]
+    },
+    {
+      "key": "D1907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... There's an eyeball here. Did someone drop it?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Is that something people normally drop like loose change?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "That woman who claimed to be Kromer's sister said these eyeballs function as currency in this place.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "So it <i>is</i> loose change, huh...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Before anyone could object, Rodya slipped the eyeball into her pocket."
+        }
+      ]
+    },
+    {
+      "key": "D1908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... There's an eyeball here. Did someone drop it?",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<... Is that something people normally drop like loose change?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "That woman who claimed to be Kromer's sister said these eyeballs function as currency in this place.",
+          "speaker": "Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "So it <i>is</i> loose change, huh...?",
+          "speaker": "Rodion"
+        },
+        {
+          "index": 4,
+          "text": "Before anyone could object, Rodya slipped the eyeball into her pocket."
+        }
+      ]
+    },
+    {
+      "key": "D1909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We picked up an eyeball dropped by a customer."
+        }
+      ]
+    },
+    {
+      "key": "D1910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We picked up an eyeball dropped by a customer."
+        }
+      ]
+    },
+    {
+      "key": "D1950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An empty display stand."
+        }
+      ]
+    },
+    {
+      "key": "D1960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A wall patched over with Golden Hide."
+        },
+        {
+          "index": 1,
+          "text": "The presence is faint, but something about it feels like the Golden Bough."
+        }
+      ]
+    },
+    {
+      "key": "D1961",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>Despite having faith in the idea that you can always choose, you've been unable to truly make a choice. So... escape. Escape from this fate, this system.</color>"
+        },
+        {
+          "index": 1,
+          "text": "A soft and warm peal of laughter brushes past the fingertips laid against the wall."
+        },
+        {
+          "index": 2,
+          "text": "A pale light, reminiscent of the Golden Bough, glimmers beneath its surface."
+        }
+      ]
+    },
+    {
+      "key": "D1502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There is something scribbled on the signpost."
+        },
+        {
+          "index": 1,
+          "text": "[Dante... Meursault... when you see this message, find me at Le Rouge Contemporary Hall. It's right up over here.]"
+        },
+        {
+          "index": 2,
+          "text": "[You didn't come this season either. Where... Where did... everyone go...?]"
+        },
+        {
+          "index": 3,
+          "text": "The scribbles continue all the way to the bottom of the signpost."
+        },
+        {
+          "index": 4,
+          "text": "... Pwie seems to have left us messages.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<These notes look... ancient... The ones Pwie wrote at the top are so weathered that I can hardly read the words.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "<Everything was Liquidated. And Pwie kept searching for us after the end... until...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "There is something written in the corner."
+        },
+        {
+          "index": 8,
+          "text": "[I cannot stay downstairs any longer. I must rise. I must devour. I must consume.]"
+        },
+        {
+          "index": 9,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A department store signpost that's been scribbled over with Pwie's messages. Just how many seasons have passed since the last message...?"
+        }
+      ]
+    },
+    {
+      "key": "D1501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An empty stall. Only empty bottles and dust motes roll around in it."
+        }
+      ]
+    },
+    {
+      "key": "D1508",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A layer of dust has settled over the figure. There are no clothes draped over it."
+        }
+      ]
+    },
+    {
+      "key": "D1505",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pieces of black fabric can be seen here and there. Must be made from members of Le Noir."
+        }
+      ]
+    },
+    {
+      "key": "D1506",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A half-torn piece of leather is patched haphazardly over it."
+        },
+        {
+          "index": 1,
+          "text": "[To think that the Voice would grace my humble Contemporary Hall in person...]"
+        },
+        {
+          "index": 2,
+          "text": "[Though we've been unable to find the group of strangers the Voice seeks...]"
+        },
+        {
+          "index": 3,
+          "text": "[... my label will finally be accepted into the Luxury Hall...]"
+        },
+        {
+          "index": 4,
+          "text": "Pwie must've gathered the Rouges here before heading to the Luxury Hall."
+        },
+        {
+          "index": 5,
+          "text": "... Though I don't know how many seasons have passed since then. Could've been dozens, or even more."
+        }
+      ]
+    },
+    {
+      "key": "D1507",
+      "texts": [
+        {
+          "index": 0,
+          "text": "According to this journal left behind by a Rouge, Pwie must've gathered the Rouges here before heading to the Luxury Hall."
+        },
+        {
+          "index": 1,
+          "text": "... Though I don't know how many seasons have passed since then. Could've been dozens, or even more."
+        }
+      ]
+    },
+    {
+      "key": "D1504",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Fallen debris stands in our way. Who will remove these for us, now that even the Kakis have disappeared?"
+        }
+      ]
+    },
+    {
+      "key": "D1509",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The basement... has fallen to bedlam. The great cycle yet persists, but it has now turned into a living hell where each devours the other.",
+          "speaker": "Le Néant"
+        },
+        {
+          "index": 1,
+          "text": "Strangers. You must continue climbing if you seek to fulfill the Voice's will. The lower floors hold no purpose for you.",
+          "speaker": "Le Néant"
+        }
+      ]
+    }
+  ]
+}

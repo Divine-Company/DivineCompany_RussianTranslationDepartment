@@ -1,0 +1,337 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Beauty Hall, 1F",
+      "model": "로쟈",
+      "content": "Why's everyone so obsessed with this... pile of mangled bodies? And what's with that bright light...? Are those people scavenging for gold these corpses were wearing when they were alive?"
+    },
+    {
+      "id": 1,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh? \"When they were alive?\""
+    },
+    {
+      "id": 2,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Bwahahaha!"
+    },
+    {
+      "id": 3,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "You guys really are always such a riot! \"Before they died\"—so good."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Could it be that she...>"
+    },
+    {
+      "id": 5,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Look, that one fell from the sixth floor, which means they gave up on reaching the Customer Service Center. Or maybe there was a kerfuffle or a fight over a piece of Golden Hide that didn't end in their favor."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Uh... okay... Gave up on reaching Customer Service... I get that, I guess, but why does giving up make you plummet all the way down to the first floor...?"
+    },
+    {
+      "id": 7,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "My turn to ask! Why do we put one foot in front of the other to walk?"
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Wha...?"
+    },
+    {
+      "id": 9,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "... And now you know how I feel listening to your endless questions. Get it now?"
+    },
+    {
+      "id": 10,
+      "model": "로쟈",
+      "content": "Not really..."
+    },
+    {
+      "id": 11,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "And the customers aren't interested in an empty husk like that, or that \"pile of bodies\" you say were once \"alive\"—they're looking for the eyeballs it had, or... scraps of Golden Hide that <i>might</i> be there if they're lucky."
+    },
+    {
+      "id": 12,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Anyway. How is it that you managed to emerge from <i>there</i>?"
+    },
+    {
+      "id": 13,
+      "model": "로쟈",
+      "content": "\"There\"...? The restroom, ya mean?"
+    },
+    {
+      "id": 14,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Shh...! Do you have to articulate every syllable so loudly like that? Are you trying to piss off the Floor Manager?"
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "...? Huh? What did I say...?"
+    },
+    {
+      "id": 16,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "I've never seen a customer walk out of the Fount. Not once. In all the seasons I've gone through, I've never seen that door open."
+    },
+    {
+      "id": 17,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "And you guys are... still lamentably shabby and out of fashion. So much for all that shopping, huh?"
+    },
+    {
+      "id": 18,
+      "content": "Something had almost imperceptibly changed from what I recalled of this exchange. Her replies were different—and so was her attitude. If I wasn't certain before, I was now:"
+    },
+    {
+      "id": 19,
+      "content": "Kromer remembers the \"end\" of the Grand Magasin that sought eternity."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "And this is supposed to answer the question of who you are?"
+    },
+    {
+      "id": 22,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, me?"
+    },
+    {
+      "id": 23,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, dear. I'm quite bashful about introducing myself out in the open, you know... I'm the \"Hermit,\" you see."
+    },
+    {
+      "id": 24,
+      "model": "히스클리프",
+      "content": "... Lass has that smarmy \"backstabber\" look written all over her mug, clear as day. We can't be arsed figurin' out what nonsense she's on about, so let's just humor her for a bit and get our arses moving."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Hey, tell that to the whole team, huh? I'm not the one you've got to convince, you know..."
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "You've done nothing but babble nonsense from the moment we ran into you. Clarify your position: are you a friend, or are you a foe?"
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "State your price if you truly intend to aid us. If you give us some absurd assurance about wanting to help for nothing in return, we'll take that as deception... and you as an enemy."
+    },
+    {
+      "id": 28,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "I only want one thing. From the day Sisyphe opened until this very moment, I've wanted one thing alone:"
+    },
+    {
+      "id": 29,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Deconstruct the very existence of the Grand Magasin—every nook and corner of it, so that no one will ever dare to create something like this again!"
+    },
+    {
+      "id": 30,
+      "content": "The woman lowered her voice as though confiding a great secret to us."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "content": "\"Deconstruct\"...?"
+    },
+    {
+      "id": 32,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Mmhmm. Blessed are those who suffer in waiting, for there is nothing they cannot do."
+    },
+    {
+      "id": 33,
+      "model": "크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "See? That's why I'm still... waiting."
+    },
+    {
+      "id": 34,
+      "content": "The fragment of my past experience reminded me that a certain Sinner should be fuming by this point. Sure enough, I turned around to find Sinclair with his fists clenched, as though he were suppressing the urge to retch."
+    },
+    {
+      "id": 35,
+      "content": "So he'd already realized who she was at this point."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<... Sinclair.>"
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "Manager... I think I know who she is."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<If that's really who you think she is... Don't tear your eyes away from her, no matter how angry or scared you might be.>"
+    },
+    {
+      "id": 39,
+      "content": "Kromer looks at me with a crooked grin. She must remember us, too..."
+    },
+    {
+      "id": 40,
+      "model": "싱클레어",
+      "content": "Kromer."
+    },
+    {
+      "id": 41,
+      "content": "The look on Sinclair's face turned to ice, his voice dripping with venom as he said the name."
+    },
+    {
+      "id": 42,
+      "model": "이상",
+      "content": "Though I could not discern her countenance, there was a certain chill pervading each turn of her speech..."
+    },
+    {
+      "id": 43,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "So you've finally decided to call me by that name. I was starting to get tired of waiting around the clock."
+    },
+    {
+      "id": 44,
+      "model": "로쟈",
+      "content": "... Oh."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Yeah... I see the resemblance now..."
+    },
+    {
+      "id": 46,
+      "content": "Rodya muttered under her breath."
+    },
+    {
+      "id": 47,
+      "model": "돈키호테",
+      "content": "Thou..."
+    },
+    {
+      "id": 48,
+      "model": "돈키호테",
+      "content": "Thou art of the same blood as Kromer. Then, mayhaps..."
+    },
+    {
+      "id": 49,
+      "content": "A sharp chill quietly slipped into Don Quixote's gaze."
+    },
+    {
+      "id": 50,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Oh, I'm her big sister, obviously. Wait, <i>don't</i> tell me you thought I was the little sister."
+    },
+    {
+      "id": 51,
+      "model": "싱클레어",
+      "content": "......."
+    },
+    {
+      "id": 52,
+      "model": "싱클레어",
+      "content": "That bitch... she killed my family. Dad... Mom... My sister... She took everyone from me!"
+    },
+    {
+      "id": 53,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Yeah, that sounds like her all right. Nasty little habit of hers. She'd pick on anyone and anything she was fond of, whether or not they could take it."
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Don't you dare trivialize—"
+    },
+    {
+      "id": 55,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Gosh, fine, fine. I'm done with this ridiculous conversation anyway. Moving on—you know the deal, right? Join me, so on and so forth, together we shall deconstruct the Grand Magasin, yadi yada."
+    },
+    {
+      "id": 56,
+      "model": "싱클레어",
+      "content": "... Fuck. You."
+    },
+    {
+      "id": 57,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Not that I didn't see that coming from a mile away, but I'm <i>so</i> heartbroken by that rejection. But don't you worry about me. You're already helping me in ways you can't even imagine!"
+    },
+    {
+      "id": 58,
+      "model": "맨얼굴크로머언니",
+      "teller": "???",
+      "title": "???",
+      "content": "Great things are beginning once again in Sisyphe, strangers mine and murderers of my sister dear. Great, spectacular, and magnificent. You may look forward to it."
+    }
+  ]
+}

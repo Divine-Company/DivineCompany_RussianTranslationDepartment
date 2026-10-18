@@ -27,7 +27,7 @@
     {
       "id": "ChargeRouge",
       "name": "Pulsation",
-      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count",
+      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count\n\n<color=#1aece7>Cumulative Count consumed: {2}</color>",
       "summary": "",
       "undefined": "-",
       "flavor": "Contraction and relaxation of flesh. The flow of blood. The explosive strength driven by them all."

@@ -1,0 +1,967 @@
+{
+  "dataList": [
+    {
+      "key": "D5004_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The escalator heading upstairs is not moving. It likely won't move until we deal with what's on the dining table."
+        }
+      ]
+    },
+    {
+      "key": "D5010_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The terrible noise that had been pursuing us for a while finally came to a stop."
+        }
+      ]
+    },
+    {
+      "key": "D5011_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We are on the fifth floor once again."
+        }
+      ]
+    },
+    {
+      "key": "D5012_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<We're... finally here.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BUFFET",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... I do remember you. The ones who called me Pwie.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "And he who never lied—Meursault.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "All who claim to be my followers ask things of me, yet none have offered answers.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 4,
+          "text": "You, on the other hand... You may be able to answer. My questions were unending, but you never failed to tell me what you knew, exactly as you knew it.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 5,
+          "text": "Meursault... Why... am I always so empty? I eat and eat in this restaurant and fill myself, yet still...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 6,
+          "text": "I wished for none of this. Wanted none of it.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 7,
+          "text": "So why must I endure... this crushing hunger?",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 8,
+          "text": "Because you were born that way.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "I see...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 10,
+          "text": "But there were times when you forgot that fact.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "When you learned something new.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "When you were with Wriggley.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "When you played games.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 14,
+          "text": "Those brief moments allowed you to forget the pain.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 15,
+          "text": "…….",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 16,
+          "text": "Yes. I did.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 17,
+          "text": "Your words bring back another vivid memory. This one you didn't mention.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 18,
+          "text": "When I followed you, you would sometimes turn to look at me. And when our eyes met...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 19,
+          "text": "There was no pain at all.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 20,
+          "text": "It made me... very happy. I enjoyed our adventure so much that I'd even forgotten my hunger.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 21,
+          "text": "Buffet stopped attacking us."
+        },
+        {
+          "index": 22,
+          "text": "Pwie. We have no wish to take up arms against you.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 23,
+          "text": "... But we will have no choice but to do so.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BUFFET-B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>That's right, Meur.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<That voice again...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<color=#E1B643>Do you know why it's so cruel to be brought into this world without having any say in it?</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#E1B643>It's because we're born to be afraid of death... even when we have chosen to die.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<I've felt it since the first floor. This voice... it's getting closer.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Closer... with each floor we ascend?",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<color=#E1B643>The guilt of having sacrificed a child.</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#E1B643>The calling to heal mankind.</color>"
+        },
+        {
+          "index": 9,
+          "text": "<color=#E1B643>The responsibility of not wanting to let your colleagues down.</color>"
+        },
+        {
+          "index": 10,
+          "text": "<color=#E1B643>... None of it means anything in the face of death.</color>"
+        },
+        {
+          "index": 11,
+          "text": "<color=#E1B643>It will be the same for that child.</color>"
+        },
+        {
+          "index": 12,
+          "text": "<color=#E1B643>The memories shared with you, the expectations the Rouges placed upon them, and the instinctive, insatiable hunger...</color>"
+        },
+        {
+          "index": 13,
+          "text": "<color=#E1B643>Buffet is bearing all that anguish. They won't stop this time.</color>"
+        },
+        {
+          "index": 14,
+          "text": "<color=#E1B643>And they must know it, too—that for anything to exist... they themselves must first exist.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BUFFET-C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... I could follow you now, but it's too late. This hunger would not disappear.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "Nor would the hopes and expectations of the Rouges fade away.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "If this hunger is to be appeased... I must devour everything here. Even the place you seek above, I must devour.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 3,
+          "text": "Why don't you remain here with me once more, strangers?",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 4,
+          "text": "<... We can't.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<Which means... we'll have to make... another choice we'll regret.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "... We will proceed to the next floor, Buffet.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "So you choose not to follow me in the end, strangers...",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5020_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5020B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Huh... Not quite the reunion I had in mind...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "It would seem our arrival has gone... unperceived. The feast persists still, with nary a pause to mark our presence.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "Now that we had broken free of fate and of the predetermined ending, the Sinners had regained their memories in this place. Gregor and Yi Sang regards the sight ahead of us sadly."
+        },
+        {
+          "index": 3,
+          "text": "At the end of Gregor and Yi Sang's troubled gaze was the being we had once called Pwie—or \"Buffet,\" as they had revealed their name. The being who had devoured the entire department store in the previous loop."
+        },
+        {
+          "index": 4,
+          "text": "<Looks like the Rouges won while the Chaplain had us trapped.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<If the Chaplain is indeed the Voice for the Noirs... His absence must have thrown the Noirs into disarray and made things easier for the Rouges.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "With the Grand Magasin's rules broken, Pwie had reached the fifth floor and eaten everything in sight, just as before."
+        },
+        {
+          "index": 7,
+          "text": "But unlike the figure we had seen in that earlier ending..."
+        },
+        {
+          "index": 8,
+          "text": "They had not grown bloated like a termite queen. Instead, their presence felt all the more imposing, as though they had come fully into their own."
+        }
+      ]
+    },
+    {
+      "key": "D5041_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "Pwie.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5021_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie slowly turned to look at us."
+        },
+        {
+          "index": 1,
+          "text": "... That is not my name.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "I am Buffet, the new Voice of Le Rouge...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 3,
+          "text": "I know.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "However... you were Pwie to us.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Pwie slowly lowered the food in their hands, as though Meursault's words had stirred an interest in them."
+        },
+        {
+          "index": 6,
+          "text": "... Doesn't look like they remember us, does it?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "<Back then, Pwie remembered what happened before the Liquidation—when the Noirs gained the upper hand. Which means they should still remember us...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Unlike ourselves, they may have had to bear witness to every minute, every second that passed within that interval. Perhaps those memories have since been consigned to oblivion... or perhaps the sentiments once bound to them have simply faded in color.",
+          "speaker": "Yi Sang"
+        },
+        {
+          "index": 9,
+          "text": "…….",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5021B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Strangers, yet... familiar. Faces from my memory...",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5022_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie... no, Buffet. We must pass through.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5023_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You cannot. This is a place for feasting.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "You must remain... until all has been consumed.",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "We cannot. We must leave this place.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "... Then I have no choice but to consume you.",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5002B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 1,
+          "text": "Ahh... How... exciting...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 2,
+          "text": "I don't feel...",
+          "speaker": "Buffet"
+        },
+        {
+          "index": 3,
+          "text": "... so hungry anymore...",
+          "speaker": "Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5029_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "You don't have to be hungry... anymore.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5037_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*hums* All right~ Here we are! You've all waited <i>so</i> patiently.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "That goes for me, too, by the way. You've got no idea how long the wait was for me. I was <i>this</i> close to losing my mind.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5038_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I had no mouth to dine, but even if I could, eating was the last thing on my mind."
+        },
+        {
+          "index": 1,
+          "text": "Meursault, however, neatly picked up his spoon."
+        }
+      ]
+    },
+    {
+      "key": "D5039_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There is a veritable feast laid out atop the broken dining table. It looks climbable."
+        }
+      ]
+    },
+    {
+      "key": "D5040_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A neatly arranged assortment of dishes on a dining table, waiting for their master to come."
+        }
+      ]
+    },
+    {
+      "key": "D5030_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... What's this?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "An assortment of dishes is laid out on the table, which is covered with a white tablecloth."
+        },
+        {
+          "index": 2,
+          "text": "It's a full-course meal. Bon appétit!",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "The reason those things never made it past the fifth floor...",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "... was that they wouldn't mind their manners in the Restaurant of Grand Magasin Sisyphe.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "You know restaurants call for civilized dining, right? Use the right utensil, put on airs, and all that. Dine, not <i>consume</i> like some starved troglodyte.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "What not to do when dining... Let's see, not knowing what the next course is, not wanting to wait, stuffing in the next mouthful before you've even had the time to properly taste the last bit... Nope, that's no way to dine!",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Now, for starters: the soup. It's been simmering long enough for everything inside to melt together into something wonderfully thick and rich. The surface looks pristine and smooth, but stir your spoon a little, and everything that's been lying at the bottom comes swirling right back up.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031A_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You must've met people with all sorts of desires here in the Grand Magasin.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "The Noirs want to preserve the department store. And the Rouges, of course, want to bleed it to depletion. There are the Kakis, interested in nothing but consuming more clothes. Next, for good measure, the Néants, who hide away to bask in the sunlight.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "The Noirs told you about the values they were trying to protect.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "And you brought them some lovely news—that the Rouge's Voice had been silenced for good.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "As for one of you being the culprit of that heinous murder... let's keep that our little secret, shall we?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "Anyway, that gave the Rouges a huge danger warning, so they've all been \"scheming\" for a long time. The plan was to birth a new Voice, molded with their own hands. They simply can't bear to go without one, after all.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "The Noirs used you to crush that little plan underfoot.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 7,
+          "text": "The cradle of the Rouge's hope was torn apart, and what crawled out there went back to sleep again before it could even learn to get a proper word out.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 8,
+          "text": "That's how the Noirs brought the eternity they so wished for into this department store. Perfect stillness—with nothing ever changing, nothing being born.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Just like this soup. Slowly cooling and forever congealing until it becomes a solid mass.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "And next:",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5031C_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Another dish was set down before us."
+        }
+      ]
+    },
+    {
+      "key": "D5032_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The appetizer.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "This isn't to fill your stomach, by the way. It's a morsel of food served to remind the customers just how hungry they are.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5032A_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What happened in the aftermath was that the Grand Magasin was reverted to the beginning, and so were you, forced to start over from the first floor. And if I'm to hazard a guess as to what your silly clockhead must've had in its mind...",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "... It probably thought that a different choice would bring a different result.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "So this time, you threw in your lot with the Rouges. Granted their wish. Helped bring the creature they so desperately wanted into their world.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "And did you leave it at that? Of course not. You gave the thing a name. Put shoes on its feet and clothes on its back. You even saw it safely up to the fifth floor.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "Thanks to you... it finally earned its place to be here—the restaurant of the fifth floor.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "Aww, but what you'd placed your hope in for the second time was nothing more than a Rouge in the end. An entity that wanted to consume the Grand Magasin to the point of depletion.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "It ate everything. Left the department store stripped to the bone... only to learn that its hunger will never ever be sated.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5032B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "All right, then...",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Time for the main course, of course! No need to dress it up with all the trimmings.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "It's the dish that takes the longest to cook. The highlight of a full-course meal.",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033A_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The Grand Magasin, unfortunately for you, decided to go through with another Liquidation.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "And in your infinite wisdom that led you to drill that subhuman prosthetic into your spine, you've figured out... precisely nothing!",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "The big question was, if neither Le Noir nor Le Rouge was the answer, then just what exactly were you supposed to change, and how?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "Being a merciful Giant, I couldn't stand to watch your stupidity any longer. So I gave you a hint.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 4,
+          "text": "To kill... a fellow Giant.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Hey, that's way too harsh, don't you think? It's not as if this world... actually exists.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "Unlike the customers, when a Giant's avatar dies here, all it does is put a little strain on us in the real world.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 7,
+          "text": "I mean, who'd willingly clock in at a job that couldn't even guarantee the employees would live to clock out, right...? Just a joke with a touch of dark humor, by the way. In case you numbskulls took it seriously.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 8,
+          "text": "Besides... I didn't know the Chaplain would push himself that far. N Corp.'s model employee, that one. Honestly.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 9,
+          "text": "Anyhow, in the end... you finally managed to get rid of the Warden and unshackled the Grand Magasin from its rules.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 10,
+          "text": "Meanwhile, a very, veeeery long time had passed in the system of the Grand Magasin...",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 11,
+          "text": "Le Noir's Voice had gone quiet during that time, and Le Rouge claimed victory. Their creation... settled on the fifth floor, following its instincts just as before.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 12,
+          "text": "Artificial or not, it was still a god within this system. Seems it used its memories with you to take over the department store a little more cleverly. Even spared itself that ugly, bloated end form or whatever it is.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 13,
+          "text": "Haha! Here's the funny part: along you came next and snuffed out its life again, just like you did the first time! What a long, clingy path to walk. Wouldn't you agree?",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033B_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "And that leaves us with...",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5033C_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A small plate was set down on the table."
+        }
+      ]
+    },
+    {
+      "key": "D5034_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The dessert. The meal's finale. Its full stop.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 1,
+          "text": "You do know that the memory of a full-course meal is always defined by the finishing dish, right?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "You... are a Giant, who is obliged to administer this department store faithfully.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Why are you helping us reach the top floor?",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "You're right. I'm a Giant. The hardest-working Giant this place has ever had, in fact.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 5,
+          "text": "I practically <i>lived</i> across these floors while the other three sat in their rooms clutching microphones. Nobody else put in more overtime than I did. Well, unpaid overtime... that is.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 6,
+          "text": "You see, we Giants have to hold up the Grand Magasin together... which makes it difficult for us to cause direct harm to one another. We're all keeping an eye on each other.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 7,
+          "text": "So what I needed... was a variable from the outside world. I don't mind playing friend or chef as the occasion demands, so long as our purposes align. I'm a people person.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 8,
+          "text": "You're no different. You didn't get in here entirely on your own, did you? And certainly not via the \"normal\" route.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 9,
+          "text": "Quite a few others have taken an interest in you, you know. That one in the restroom, for a start.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 10,
+          "text": "Saved me a great deal of legwork, I'll give them that.",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 11,
+          "text": "The Giants... are all people who fear the world.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "You must be the same.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Exactly. Scared out of my wits every single day—even now. Can you hear it? See my poor heart trembling?",
+          "speaker": "Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D5035_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meursault finished his meal."
+        }
+      ]
+    },
+    {
+      "key": "D5036_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Once he laid down the utensils, a path to the sixth floor opened through the space that had been barring our way."
+        },
+        {
+          "index": 1,
+          "text": "Bravo! Can I get a \"compliments to the chef\"?",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 2,
+          "text": "Here's hoping we can finally get to the \"off with your head\" stage the next time we meet!",
+          "speaker": "Kromer"
+        },
+        {
+          "index": 3,
+          "text": "We left the table to ascend to the sixth floor, with Kromer waving us off as enthusiastically as ever."
+        }
+      ]
+    },
+    {
+      "key": "D5503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Buffet... <i>Pwie</i> stopped moving forward because of the memories they shared with us."
+        },
+        {
+          "index": 1,
+          "text": "And yet, we've decided to move on, despite the memories shared with Pwie."
+        },
+        {
+          "index": 2,
+          "text": "If Meursault had spoken the truth, if Meursault hadn't lied to Pwie as they lay dying... I wonder if Pwie still would have felt no regret over choosing to stop."
+        },
+        {
+          "index": 3,
+          "text": "... Perhaps Pwie chose to stop not because of their memories with us, but..."
+        },
+        {
+          "index": 4,
+          "text": "... the anticipation that they might be able to experience those memories again."
+        }
+      ]
+    }
+  ]
+}

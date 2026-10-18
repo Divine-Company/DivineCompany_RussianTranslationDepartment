@@ -1,0 +1,122 @@
+{
+  "dataList": [
+    {
+      "id": 9284,
+      "name": "Out-of-style Rouge Clothing",
+      "desc": "When allies heal HP through Base Attack Skills' Skill or Coin effects, heal +50% HP (3 times per turn; rounded down)\n\n[Haute Couture::Boutique du Rouge Ishmael Exclusive Effect]\nIf Haute Couture::The Crimson God of Le Rouge Sinclair is with this unit on the field, gain 1 [RougeIshmaelCocoon] at Turn Start and enter [RougeIshmaelCocoon] state (once per Encounter)\n- If \"In this Encounter, when this unit takes damage that brings its HP down to 0, nullify that damage; then, immediately gain 2 [RougeIshmaelCocoon] and enter the [RougeIshmaelCocoon] state (once per Encounter)\" from the Passive \"Into the <noparse>Changing Room</noparse>…\" activated, the exclusive effect does not activate\n- When the exclusive effect activates, the effect \"In this Encounter, when this unit takes damage that brings its HP down to 0, nullify that damage; then, immediately gain 2 [RougeIshmaelCocoon] and enter the [RougeIshmaelCocoon] state (once per Encounter)\" from the Passive \"Into the <noparse>Changing Room</noparse>…\" does not activate",
+      "simpleDesc": [
+        {
+          "abilityID": 9284,
+          "simpleDesc": "Immediately enter [RougeIshmaelCocoon]"
+        },
+        {
+          "abilityID": 92841,
+          "simpleDesc": "Heal more HP"
+        }
+      ]
+    },
+    {
+      "id": 9285,
+      "name": "Soda Pop",
+      "desc": "Sinners who attempt to heal HP on self this turn using Skill or Coin effects gain the following effects next turn:\n- Skills deal +10% damage\n- Gain [AttackUp] equal to (sum of HP healed during the turn (including excess healing) / 10) (max 6; rounded down)\n\nIf there are other Identities on the field that are in the same faction as the units that activated the above effect, they gain half of the [AttackUp] the above units gained (min 1, max 3 per turn; rounded down)",
+      "simpleDesc": [
+        {
+          "abilityID": 9285,
+          "simpleDesc": "Deal more damage and gain [AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9286,
+      "name": "Maison du Noir Slacks",
+      "desc": "When allies that have 2+ [Charge] Potency trigger [VibrationExplosion], apply the following effects:\n- Deal ([Charge] Potency on self x [Charge] Count) Envy Damage (2 times per skill, max 100 damage per tick)\n- Every 2 times the above effect deals Envy Damage, inflict 3 [Binding] next turn on target\n\nEvery time an ally triggers [VibrationExplosion] using a Skill, gain ([Charge] Potency on self / 3) [AttackUp] next turn (max 5 per turn; rounded down)",
+      "simpleDesc": [
+        {
+          "abilityID": 9286,
+          "simpleDesc": "Deal Envy Damage and inflict [Binding]"
+        },
+        {
+          "abilityID": 92861,
+          "simpleDesc": "Gain [AttackUp]"
+        }
+      ]
+    },
+    {
+      "id": 9287,
+      "name": "Le Noir Mary Janes",
+      "desc": "Combat Start: On Hit from an Identity that has the highest Shield, deal (current Shield / 2) Sloth Damage (2 times per Skill, max 100 damage per tick; rounded down)\n- If 2+ Identities have the same Shield HP, applies to the Identity with the earlier Deployment Order\n\nIf the affected Identity is a [PersonalityCharge], deal Sloth Damage equal to current Shield instead (3 times per skill, max 100 per tick; rounded down)",
+      "simpleDesc": [
+        {
+          "abilityID": 9287,
+          "simpleDesc": "Deal Sloth Damage based on Shield"
+        }
+      ]
+    },
+    {
+      "id": 9288,
+      "name": "Straight Pin of the King of Needleworks",
+      "desc": "Turn Start: If no enemies have [SewingKingMark], inflict [SewingKingMark] on a random enemy (in Focused Encounters, a Part)",
+      "simpleDesc": [
+        {
+          "abilityID": 9288,
+          "simpleDesc": "Inflict [SewingKingMark]; deal fixed damage on death"
+        }
+      ]
+    },
+    {
+      "id": 9289,
+      "name": "Cartilage",
+      "desc": "Skills that consume [Charge] Count or Unique [Charge] deal +([Charge] Potency on self x 2)% damage (max 10%)\n\nTurn End: Units that consumed [Charge] Count or Unique [Charge] this turn gain 1 [Agility] next turn\n\nIf a unit's Speed is faster than the target's, Clash Power +1\n- If the said unit is a \"Sisyphe\" Identity, gain Final Power +1 instead",
+      "simpleDesc": [
+        {
+          "abilityID": 9289,
+          "simpleDesc": "Deal more damage, gain [Agility], and gain Clash/Final Power"
+        }
+      ]
+    },
+    {
+      "id": 9290,
+      "name": "Blanket",
+      "desc": "Identities that equipped Defense Skills this turn take -20% damage from enemy attacks\n- Combat End: If the affected Identity is a [PersonalityCharge], gain 2 [AttackUp] next turn\n- Combat End: If the affected Identity is a \"Sisyphe\" Identity, gain 1 [ResultEnhancement] next turn",
+      "simpleDesc": [
+        {
+          "abilityID": 9290,
+          "simpleDesc": "Take less damage and gain [AttackUp]/[ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9291,
+      "name": "Blossom Scissors",
+      "desc": "[Effects apply only to #1 Deployed Identity]\n\n\"Sisyphe\" Identity or [PersonalityCharge]: On Base Skill final Coin Hit, deal Slash Damage equal to 5% of the said Coin's final damage on the main target (once per Skill)",
+      "simpleDesc": [
+        {
+          "abilityID": 9291,
+          "simpleDesc": "Deal Slash Damage on the main target"
+        }
+      ]
+    },
+    {
+      "id": 19291,
+      "name": "Blossom Scissors+",
+      "desc": "[Effects apply only to #1 Deployed Identity]\n\n\"Sisyphe\" Identity or [PersonalityCharge]: On Base Skill final Coin Hit, deal Slash Damage equal to <style=\"upgradeHighlight\">10%</style> of the said Coin's final damage on the main target (once per Skill)",
+      "simpleDesc": [
+        {
+          "abilityID": 19291,
+          "simpleDesc": "Deal Slash Damage on the main target"
+        }
+      ]
+    },
+    {
+      "id": 29291,
+      "name": "Blossom Scissors++",
+      "desc": "[Effects apply only to #1 Deployed Identity]\n\n\"Sisyphe\" Identity or [PersonalityCharge]: On Base Skill final Coin Hit, deal Slash Damage equal to <style=\"upgradeHighlight\">15%</style> of the said Coin's final damage on the main target (once per Skill)",
+      "simpleDesc": [
+        {
+          "abilityID": 29291,
+          "simpleDesc": "Deal Slash Damage on the main target"
+        }
+      ]
+    }
+  ]
+}

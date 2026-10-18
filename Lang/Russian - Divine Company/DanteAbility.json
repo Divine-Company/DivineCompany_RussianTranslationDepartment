@@ -14,6 +14,11 @@
       "id": 70101,
       "desc": "- For 3 turns, set all units' Offense and Defense Levels to the average of all units' values.",
       "rawDesc": "Set all units' Offense and Defense Levels to the average of all units' values."
+    },
+    {
+      "id": 50101,
+      "desc": "- Applied Effects:\n • For this turn, all Skill Coins have a 100% chance to flip Heads or Tails, depending on the side chosen\n • Prioritize this effect over the unit's Skills, Passives, and other effects\n- All characters' targeting will be reset.\n- Units that are killed, cannot be controlled, or immobilized cannot be selected.",
+      "rawDesc": "Select 1 target to gain a 100% chance to flip either Heads or Tails for all Skill Coins"
     }
   ]
 }

@@ -76,6 +76,16 @@
             "nickName": ""
         },
         {
+            "id": "G사 직원",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "독백",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "베르길리우스",
             "name": "Vergilius",
             "nickName": "Guide"
@@ -106,9 +116,29 @@
             "nickName": "Manager"
         },
         {
+            "id": "단테1",
+            "name": "Dante",
+            "nickName": "Manager"
+        },
+        {
             "id": "단테2",
             "name": "Dante",
             "nickName": "Manager"
+        },
+        {
+            "id": "4구 불량배 1",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "4구 불량배 2",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "4구 불량배 3",
+            "name": "",
+            "nickName": ""
         },
         {
             "id": "석상머리",
@@ -261,6 +291,11 @@
             "nickName": ""
         },
         {
+            "id": "N사심문관3",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "지크프리트",
             "name": "",
             "nickName": ""
@@ -272,6 +307,11 @@
         },
         {
             "id": "침식직원1",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "침식직원2",
             "name": "",
             "nickName": ""
         },
@@ -342,11 +382,16 @@
         },
         {
             "id": "헤르만",
-            "name": "",
+            "name": "Hermann",
             "nickName": ""
         },
         {
             "id": "피묻은귀도",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "다친소드",
             "name": "",
             "nickName": ""
         },
@@ -356,13 +401,18 @@
             "nickName": ""
         },
         {
-            "id": "구보",
+            "id": "애프터팀상사",
             "name": "",
             "nickName": ""
         },
         {
+            "id": "구보",
+            "name": "Gubo",
+            "nickName": ""
+        },
+        {
             "id": "가환",
-            "name": "",
+            "name": "Jia Huan",
             "nickName": ""
         },
         {
@@ -427,6 +477,11 @@
         },
         {
             "id": "뒤틀린닭2",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "뒤틀린손님1",
             "name": "",
             "nickName": ""
         },
@@ -561,6 +616,11 @@
             "nickName": ""
         },
         {
+            "id": "동백에고각성중",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "동백에고각성",
             "name": "",
             "nickName": ""
@@ -596,6 +656,16 @@
             "nickName": ""
         },
         {
+            "id": "각성동랑",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "뒤틀린동랑",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "뒤틀린다친동랑",
             "name": "",
             "nickName": ""
@@ -627,6 +697,11 @@
         },
         {
             "id": "T사기술청2",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "변신T사기술청",
             "name": "",
             "nickName": ""
         },
@@ -741,6 +816,11 @@
             "nickName": ""
         },
         {
+            "id": "쌍갈고리파조직원5",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "클럽손님",
             "name": "",
             "nickName": ""
@@ -797,6 +877,11 @@
         },
         {
             "id": "쪽빛노인후드",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "쪽빛노인무기",
             "name": "",
             "nickName": ""
         },
@@ -976,7 +1061,17 @@
             "nickName": "The Pequod"
         },
         {
+            "id": "흑운회조직원1",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "흑운회조직원2",
+            "name": "",
+            "nickName": ""
+        },
+        {
+            "id": "검계조직원1",
             "name": "",
             "nickName": ""
         },
@@ -1076,6 +1171,11 @@
             "nickName": ""
         },
         {
+            "id": "데드레빗츠2",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "데드레빗츠보스",
             "name": "",
             "nickName": ""
@@ -1126,6 +1226,11 @@
             "nickName": ""
         },
         {
+            "id": "로쟈SD",
+            "name": "",
+            "nickName": ""
+        },
+        {
             "id": "언쇼",
             "name": "",
             "nickName": ""
@@ -1147,7 +1252,7 @@
         },
         {
             "id": "아세아",
-            "name": "",
+            "name": "Aseah",
             "nickName": ""
         },
         {
@@ -1551,6 +1656,11 @@
             "nickName": "La Manchaland"
         },
         {
+            "id": "신부",
+            "name": "The Priest",
+            "nickName": "La Manchaland"
+        },
+        {
             "id": "백발가면혈귀실루엣",
             "name": "",
             "nickName": "La Manchaland"
@@ -1856,6 +1966,11 @@
             "nickName": "???"
         },
         {
+            "id": "청소부B",
+            "name": "",
+            "nickName": "???"
+        },
+        {
             "id": "청소부C",
             "name": "",
             "nickName": "???"
@@ -1924,6 +2039,11 @@
             "id": "그레고르다침",
             "name": "Gregor",
             "nickName": "Sinner #13"
+        },
+        {
+            "id": "베르너",
+            "name": "Werner",
+            "nickName": "The Middle"
         },
         {
             "id": "베르너다침",
@@ -2326,6 +2446,11 @@
             "nickName": "Xue Family"
         },
         {
+            "id": "설씨하인",
+            "name": "Xue Family Servant",
+            "nickName": "Xue Family"
+        },
+        {
             "id": "어르신그림자",
             "name": "Elders",
             "nickName": "Daguanyuan"
@@ -2391,7 +2516,17 @@
             "nickName": "The Hierarch of Hongyuan"
         },
         {
+            "id": "가모롱",
+            "name": "Jia Mu",
+            "nickName": "The Hierarch of Hongyuan"
+        },
+        {
             "id": "가모가지",
+            "name": "Jia Mu",
+            "nickName": "The Hierarch of Hongyuan"
+        },
+        {
+            "id": "가모괴물",
             "name": "Jia Mu",
             "nickName": "The Hierarch of Hongyuan"
         },
@@ -2596,6 +2731,101 @@
             "nickName": "The Hierarch of Hongyuan"
         },
         {
+            "id": "아미야",
+            "name": "Amiya",
+            "nickName": "Rhodes Island"
+        },
+        {
+            "id": "스카디",
+            "name": "Skadi",
+            "nickName": "Rhodes Island"
+        },
+        {
+            "id": "켈시",
+            "name": "Kal'tsit",
+            "nickName": "Rhodes Island"
+        },
+        {
+            "id": "박사",
+            "name": "Doctor",
+            "nickName": "Rhodes Island"
+        },
+        {
+            "id": "아이린",
+            "name": "Irene",
+            "nickName": "Inquisition"
+        },
+        {
+            "id": "메이어스",
+            "name": "Mayors",
+            "nickName": "Faro Muerto"
+        },
+        {
+            "id": "과거메이어스",
+            "name": "Mayors",
+            "nickName": "Ægir"
+        },
+        {
+            "id": "주교메이어스",
+            "name": "Mayors",
+            "nickName": "Bishop of the Church"
+        },
+        {
+            "id": "심해신도",
+            "name": "Followers of the Deep",
+            "nickName": "Church of the Deep"
+        },
+        {
+            "id": "심해신도2",
+            "name": "Followers of the Deep",
+            "nickName": "Church of the Deep"
+        },
+        {
+            "id": "파비우스",
+            "name": "Fabius",
+            "nickName": "Church of the Deep"
+        },
+        {
+            "id": "이베리아주민1",
+            "name": "Villager",
+            "nickName": "Faro Muerto"
+        },
+        {
+            "id": "이베리아주민2",
+            "name": "Villager",
+            "nickName": "Faro Muerto"
+        },
+        {
+            "id": "뒤틀린메이어스",
+            "name": "Mayors, the Yearning Flotsam",
+            "nickName": "Distortion"
+        },
+        {
+            "id": "마지막기사",
+            "name": "The Last Knight",
+            "nickName": "Seaborn"
+        },
+        {
+            "id": "시테러",
+            "name": "Sea Terror",
+            "nickName": "???"
+        },
+        {
+            "id": "시테러들",
+            "name": "Sea Terror",
+            "nickName": "???"
+        },
+        {
+            "id": "파비우스다침",
+            "name": "Fabius",
+            "nickName": "Church of the Deep"
+        },
+        {
+            "id": "메이어스다침",
+            "name": "Mayors",
+            "nickName": "Bishop of the Church"
+        },
+        {
             "id": "엄지아비",
             "name": "Valencina",
             "nickName": "The Thumb Nursefather"
@@ -2774,6 +3004,11 @@
             "id": "베스파",
             "name": "Vespa",
             "nickName": "LCD"
+        },
+        {
+            "id": "걷는진주",
+            "name": "Ambling Pearl",
+            "nickName": ""
         },
         {
             "id": "소지아비2",
@@ -3041,6 +3276,16 @@
             "nickName": "The Red Theropod"
         },
         {
+            "id": "유리만우",
+            "name": "Yuri",
+            "nickName": ""
+        },
+        {
+            "id": "카론만우",
+            "name": "Charon",
+            "nickName": ""
+        },
+        {
             "id": "뉴키라",
             "name": "Kira",
             "nickName": "Prisoner"
@@ -3196,6 +3441,11 @@
             "nickName": "LCD"
         },
         {
+            "id": "임경업과거오라",
+            "name": "Im Gyeong-eop",
+            "nickName": "S Corp. Military Commissioner  - Sal"
+        },
+        {
             "id": "임경업뒤틀림사라짐",
             "name": "Distorted Im Gyeong-eop",
             "nickName": "Distortion"
@@ -3226,6 +3476,11 @@
             "nickName": "LCD"
         },
         {
+            "id": "뉴료슈노담다침",
+            "name": "Ryōshū",
+            "nickName": "Sinner #4"
+        },
+        {
             "id": "뉴료슈반담다침",
             "name": "Ryōshū",
             "nickName": "Sinner #4"
@@ -3243,7 +3498,7 @@
         {
             "id": "크로머언니",
             "name": "Kromer",
-            "nickName": ""
+            "nickName": "???"
         },
         {
             "id": "잔느",
@@ -3251,9 +3506,49 @@
             "nickName": "Giant"
         },
         {
+            "id": "1층백화점손님1",
+            "name": "",
+            "nickName": "Le Kaki"
+        },
+        {
+            "id": "1층백화점손님2",
+            "name": "",
+            "nickName": "Le Kaki"
+        },
+        {
+            "id": "1층스파직원",
+            "name": "",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "시지프뉴비",
+            "name": "",
+            "nickName": "Le Kaki"
+        },
+        {
+            "id": "1층컨템누아르",
+            "name": "",
+            "nickName": "Le Noir"
+        },
+        {
+            "id": "1층컨템루즈",
+            "name": "",
+            "nickName": "Le Rouge"
+        },
+        {
             "id": "맨얼굴크로머언니",
             "name": "Kromer",
             "nickName": "???"
+        },
+        {
+            "id": "2층가드루주",
+            "name": "",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "3층장기루주",
+            "name": "",
+            "nickName": "Le Rouge"
         },
         {
             "id": "3층하이도메루주",
@@ -3261,9 +3556,44 @@
             "nickName": "???"
         },
         {
+            "id": "3층하이도메누아르1",
+            "name": "",
+            "nickName": "Le Noir"
+        },
+        {
+            "id": "3층하이도메누아르2",
+            "name": "",
+            "nickName": "Le Noir"
+        },
+        {
             "id": "3층가위",
             "name": "Annette",
             "nickName": "Alteration Shop"
+        },
+        {
+            "id": "3층문셔터",
+            "name": "",
+            "nickName": "???"
+        },
+        {
+            "id": "3층하이도메루주변신전",
+            "name": "L'Inamovible",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "3층플로어매니저",
+            "name": "3F Floor Manager",
+            "nickName": "???"
+        },
+        {
+            "id": "4층원레그",
+            "name": "",
+            "nickName": "Le Noir"
+        },
+        {
+            "id": "4층행복옷장",
+            "name": "",
+            "nickName": "???"
         },
         {
             "id": "B2층염색실주인",
@@ -3273,7 +3603,7 @@
         {
             "id": "B2층플로어매니저",
             "name": "B2F Floor Manager",
-            "nickName": ""
+            "nickName": "Grand Magasin Sisyphe"
         },
         {
             "id": "3층하이도메루주번데기",
@@ -3289,6 +3619,31 @@
             "id": "검사",
             "name": "Prosecutor",
             "nickName": "N Corp. Judiciary"
+        },
+        {
+            "id": "뷔페어린이",
+            "name": "Pwie",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "뷔페어린이신발",
+            "name": "Pwie",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "뷔페어린이옷",
+            "name": "Pwie",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "뷔페어른",
+            "name": "Buffet",
+            "nickName": "Le Rouge"
+        },
+        {
+            "id": "카르멘",
+            "name": "???",
+            "nickName": ""
         },
         {
             "id": "판사",
@@ -3311,9 +3666,89 @@
             "nickName": "Giant"
         },
         {
+            "id": "과거뫼르소",
+            "name": "Meursault",
+            "nickName": "N Corp."
+        },
+        {
+            "id": "간수",
+            "name": "The Warden?",
+            "nickName": "Grand Magasin Sisyphe"
+        },
+        {
+            "id": "신부거인",
+            "name": "The Chaplain",
+            "nickName": "Giant"
+        },
+        {
             "id": "과거잔느",
             "name": "Jeanne",
             "nickName": "N Corp."
+        },
+        {
+            "id": "뫼르소엄마안경",
+            "name": "Mother",
+            "nickName": "Giant"
+        },
+        {
+            "id": "잔느변신",
+            "name": "Jeanne",
+            "nickName": "Giant"
+        },
+        {
+            "id": "잔느변신2",
+            "name": "Jeanne",
+            "nickName": "Giant"
+        },
+        {
+            "id": "카르멘진짜",
+            "name": "Carmen",
+            "nickName": "???"
+        },
+        {
+            "id": "야코프",
+            "name": "Jacob",
+            "nickName": "Nagel und Hammer"
+        },
+        {
+            "id": "신부진짜",
+            "name": "Maurice",
+            "nickName": "Giant"
+        },
+        {
+            "id": "크로머언니진짜",
+            "name": "Kromer",
+            "nickName": "Nagel und Hammer"
+        },
+        {
+            "id": "르루주브랜드디렉터",
+            "name": "???",
+            "nickName": "???"
+        },
+        {
+            "id": "르루주브랜드디렉터다침",
+            "name": "???",
+            "nickName": "???"
+        },
+        {
+            "id": "뫼르소엄마아픔",
+            "name": "Mother",
+            "nickName": "Giant"
+        },
+        {
+            "id": "야코프머리",
+            "name": "Jacob",
+            "nickName": "Nagel und Hammer"
+        },
+        {
+            "id": "뫼르소엄마뒤틀림1",
+            "name": "Mother",
+            "nickName": "???"
+        },
+        {
+            "id": "뫼르소엄마뒤틀림2",
+            "name": "Mother",
+            "nickName": "???"
         }
     ]
 }

@@ -193,7 +193,7 @@
     {
       "key": "I990408",
       "displayName": "Solid Wood Table",
-      "statText": "In the Symbolic, 15% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack (0.2 seconds hitstun)\n- Deals 3 <color=#fe4b48>Damage</color> to the 5 tiles in a cross centered on the enemy hit\n- Trigger Chance +10% for each enemy within 1 tile that has detected Meursault",
+      "statText": "In the Symbolic, 15% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack (0.2 seconds Hitstun)\n- Deals 3 <color=#fe4b48>Damage</color> to the 5 tiles in a cross centered on the enemy hit\n- Trigger Chance +10% for each enemy within 1 tile that has detected Meursault",
       "description": "A Rouge wretch once asked why we sit at a table to eat. Why go to such trouble instead of eating off the floor? Well, the ceremony makes food taste better. What is won through hardship and patience is sweeter, and therefore more valuable. By that logic, the more uncomfortable the table and chair, the more civilized the diner. Wouldn't you agree?"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "key": "I990806",
-      "displayName": "Button from the Sous Chef's Corpse",
+      "displayName": "Button",
       "statText": "In the Symbolic, upon triggering \"You Hear?\" <color=#F8C200>Extra Attack</color>, number of projectile +1\n\nDuring battle in the Shadowed, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and 10 SP for the ally that killed an enemy",
       "description": "The strangers are trying to kill me, you hear?! We could've settled this by talking, but they want me dead, you hear?!"
     },
@@ -335,7 +335,7 @@
     {
       "key": "I992701",
       "displayName": "Noonday Blue",
-      "description": "At noon, the sun reaches its highest point. The higher the sun, the shorter the shadow. The shadow shrinks beyond sight when the sunlight is blue."
+      "description": "At noon, the sun reaches its highest point. The higher the sun, the shorter the shadow. When the shadow has shrunk beyond sight, the sunlight is blue."
     },
     {
       "key": "I992702",
@@ -536,7 +536,7 @@
     {
       "key": "I1209",
       "displayName": "Tempered Sewing Scissors",
-      "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Scissors-snip Extra Attack</color> dealing 1 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)\n\nUpon entering battle in the Shadowed, inflicts on all enemies Bleed Count equal to the number of times they were struck by this effect (max 5)",
+      "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Scissors-snip Extra Attack</color> dealing 1 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)\n\nUpon entering battle in the Shadowed, inflicts on all enemies <color=#F8C200>Bleed</color> Count equal to the number of times they were struck by this effect (max 5)",
       "description": "The Alterationist cuts fabric, then joins it again according to the pattern. The snipping has grown much louder of late—the Noirs must have placed an enormous order. Perhaps a major conflict is about to break out?"
     }
   ]

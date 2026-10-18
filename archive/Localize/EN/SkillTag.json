@@ -287,6 +287,14 @@
     {
       "id": "AlwaysUseEGOPassive",
       "name": "[Always Active]"
+    },
+    {
+      "id": "CoinHead",
+      "name": "[Heads]"
+    },
+    {
+      "id": "CoinTail",
+      "name": "[Tails]"
     }
   ]
 }

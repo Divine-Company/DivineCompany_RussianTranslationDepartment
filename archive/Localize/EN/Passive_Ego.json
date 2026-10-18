@@ -615,6 +615,28 @@
       "id": 2121011,
       "name": "Processing Transfer Reg",
       "desc": "At 3+ highest Reson.: On Hit using a Skill, inflict 1 [Binding] next turn on the main target (once per turn)\n\nAt 3+ [Charge] Potency, the following Base Skills deal +10% damage:\n- Base Skills that gain or consume [Charge] Count\n- Base Skills that inflict [Combustion] Potency or Count on the enemy"
+    },
+    {
+      "id": 2061011,
+      "name": "The City Where No One Can Hurt Another",
+      "desc": "Max [Charge] Count +5\n\nSkill 3 (except E.G.O Skills) that consume [Charge] Count or Unique [Charge] deals +10% damage\n\nTurn End: If this unit was not hit this turn, heal 4 SP\n- If this unit has 2+ Minus Coin Base Attack Skills, lose 4 SP instead (this effect cannot reduce this unit's SP below -40)"
+    },
+    {
+      "id": 2091011,
+      "name": "Schismatic Stereognosis",
+      "desc": "When this unit gains [Breath] Potency or Count, gain +1 [Breath] Count (2 times per turn)\n\nIf this unit is a [PersonalityBreath] or a [PersonalityVibration], Base Skills that have 1 base Atk Weight or are [WideAreaRampage] deal +10% damage\n\nAt Attack End, if target is Staggered or defeated, randomly inflict 1/3 of [Vibration] Potency on target between other random enemies next turn (rounded up; for Focused Encounters, Parts)\n- This effect does not stack with the effects of the E.G.O Gift \"Mirror Tactile Synaesthesia\""
+    },
+    {
+      "id": 2021111,
+      "name": "Le Trou de Vidange",
+      "desc": "If this unit has 5 [BulletHole], does not consume E.G.O Resource when using \"Hollow\" E.G.O's Skills (both Awakening and Corrosion)\n\nTurn Start: Gain 1 [BulletHole] and 1 [BlackWingHole]\n\nWhen an ally defeats an enemy, the said ally heals 5 SP and gains 1 [Enhancement] next turn (once per turn)\n\n[Charge] Count max cap +5\n\nIf this unit gains [Charge] Count past the max [Charge] Count Cap, this unit randomly gains [Breath] Potency or Count equal to the surplus [Charge] Count gained (max 6 [Charge] Count converted per turn)",
+      "flavor": "It is not penetration that bores a hollow; it is emptiness.\nThe hollow desires to be filled, yet instead, things only ever spill forth from within."
+    },
+    {
+      "id": 2051011,
+      "name": "L'Hémorragie interne",
+      "desc": "[AlwaysUseEGOPassive]\nIf this unit has 5 [BulletHole], does not consume E.G.O Resource when using \"Hollow\" E.G.O's Skills (both Awakening and Corrosion)\n\nTurn Start: Gain 1 [BulletHole]\n\n[WhenUseEGOPassive]\nTurn Start: Gain 1 [BlackWingHole]\n\nHeal 5 SP every time this unit consumes or loses 3 cumulative [Bullet], and gain 1 [ResultEnhancement] next turn (including Unique [Bullet]; counts up to 9 [Bullet] per turn)",
+      "flavor": "The gaze of another nails into me, driving a hollow from which multitudes spill forth.\nThe discharge is then forged into a bullet that punches a hollow into you."
     }
   ]
 }

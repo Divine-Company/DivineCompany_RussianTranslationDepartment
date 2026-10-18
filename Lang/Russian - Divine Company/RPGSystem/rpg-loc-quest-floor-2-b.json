@@ -1,0 +1,115 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "Take a Quick Look Around 2F",
+      "description": "We're back on 2F. Just like last time, we probably won't be able to head straight in. Let's take a quick look around first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Explore 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "Enter the Luxury Hall",
+      "description": "The one guarding the entrance is gone. Maybe things have changed. Let's head inside.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Enter the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "Enter the Luxury Hall (2)",
+      "description": "The Luxury Hall is littered with Le Noir corpses. Let's keep moving in.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head deeper into the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2005",
+      "title": "Enter the Luxury Hall (3)",
+      "description": "The same entrance created by the Rouges is here again. Let's go through.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Enter the Luxury Hall via the entrance"
+        }
+      ]
+    },
+    {
+      "key": "Q2008",
+      "title": "Inspect the Cradle",
+      "description": "Le Rouge's Brand Director says whatever is sleeping in the Cradle will wake soon, and asked us to stay by its side. For now, let's approach the Cradle.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Inspect the Cradle"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Bring the piece near the Cradle"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Try feeding the piece to the Cradle"
+        },
+        {
+          "index": 3,
+          "goalDescription1": "Rescue the child from the Cradle"
+        }
+      ]
+    },
+    {
+      "key": "Q2008A",
+      "title": "Talk to the child from the Cradle",
+      "description": "What emerged from the Cradle looks like a small child. Let's try talking to them.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to the child from the Cradle"
+        }
+      ]
+    },
+    {
+      "key": "Q2008B",
+      "title": "Catch the runaway child",
+      "description": "The child from the Cradle bolted into a corner the moment they saw us. Catch up and try talking to them.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Catch the child from the Cradle"
+        }
+      ]
+    },
+    {
+      "key": "Q2009",
+      "title": "Leave the Luxury Hall",
+      "description": "The child from the Cradle has started following us, though they still keep their distance. For now, let's leave the Luxury Hall.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Leave the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2010",
+      "title": "Head to 4F",
+      "description": "We took the Rouge vendor's spine with us. There's no telling what will come next, so we may as well hold on to anything that could prove useful. We're done here for now. We should head to 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to 4F"
+        }
+      ]
+    }
+  ]
+}

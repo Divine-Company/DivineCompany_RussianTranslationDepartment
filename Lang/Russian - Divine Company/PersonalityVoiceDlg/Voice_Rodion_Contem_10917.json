@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10917_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Shoulder seams hanging a touch too low... hems of the arm a span too short. And that loose thread sticking out of your collar would look much cleaner snipped away.\nFuhu~ Lots of work to be done, this customer. So, which part would you like to have altered first?"
+    },
+    {
+      "id": "lobby_morning_10917_1",
+      "desc": "Morning Greeting",
+      "dlg": "Oh, the light's finally reaching the front door—Two-piece must've cleared out. And that means... every Noir customer who's been waiting forever for me to open is about to rush this place at once.\n... The Noirs are not so fond of strangers. Buy what you need and be on your way while you still can."
+    },
+    {
+      "id": "lobby_noon_10917_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "The sun feels especially gentle at this hour. It warms my hair and shoulders so, so cozily that I can hardly keep my eyes open...\nIf I'm not careful, I may doze off and forget that anyone ever came into the shop."
+    },
+    {
+      "id": "lobby_night_10917_1",
+      "desc": "Evening Greeting",
+      "dlg": "This season's bookings are already closed. I can still patch a tear or stitch up something simple, but... if you're after quality fabric, you'll have to settle in for a wait.\nThere isn't much left here besides second-rate thread, and no amount of skill can coax fabrics of elegance and style out of that."
+    },
+    {
+      "id": "smalltalk_10917_1",
+      "desc": "Chatter #1",
+      "dlg": "As you can see, this place you've stumbled into is quite unlike the other stores. This isn't a place of exhibition, nor is it a place for finalized pieces. This is where I sell the fabrics I've been sitting here patching up in silence. Want something sturdy with fray-resistant fabric? Or if that doesn't suit your taste, I could find you a lighter checked fabric waiting to be given shape."
+    },
+    {
+      "id": "smalltalk_10917_2",
+      "desc": "Chatter #2",
+      "dlg": "Some threads have knotted themselves past the point of untangling. Others are packed so densely that there isn't room to slip the shears through. This department store is littered with loose ends and lint that nobody has bothered to trim. Every time I spot one, I feel the urge to take my scissors to it... Whatever that loose end happens to be."
+    },
+    {
+      "id": "smalltalk_10917_3",
+      "desc": "Chatter #3",
+      "dlg": "The light leaking from the Golden Resin has been drawing more worshippers these days. Did they need more than what the stern Voice of Le Noir could give them...?\nThen again, nothing feels quite as warm or comforting as sunlight when you're feezing your fingers off."
+    },
+    {
+      "id": "smalltalk_10917_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Oh, I've heard all about those red ones. *chuckle* The thread they've stitched their innards with is so conspicuously crimson that their intentions are showing through the exterior... and it can't be more obvious.\nSooner or later, they'll visit to see me snipped away—they covet my Golden Fabric, and I'd be a fool not to notice how they fear all the garments my scissors may create."
+    },
+    {
+      "id": "smalltalk_10917_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "The fabric that goes into every article of clothing within the Grand Magasin, be it desired or abhorred, begins with a single thread. Procure the thread, and we need only a nail to complete the rest. And my scissorblades, of course."
+    },
+    {
+      "id": "neglect_10917_1",
+      "desc": "Idle",
+      "dlg": "... There, done and done. I put in a careful whipstitch. The edge won't unravel again for a good long while."
+    },
+    {
+      "id": "gacksung_10917_1",
+      "desc": "Uptying",
+      "dlg": "Torn or burnt—bring the imperfect to me, and by my fingers they will be made whole. Even the unborn... and those drifting into sleep."
+    },
+    {
+      "id": "formation_10917_1",
+      "desc": "Deployment",
+      "dlg": "I can see the desire to go <i>snip-snip!</i> in your eyes. Why don't you tell me what you'd like to put the scissors to?"
+    },
+    {
+      "id": "battleentry_10917_1",
+      "desc": "Stage Entry",
+      "dlg": "Are you prepared to be snipped away?"
+    },
+    {
+      "id": "battle_select_10917_1",
+      "desc": "Viewed in Battle",
+      "dlg": "... Which patch of fabric should I lay over that one to make the stitching easier?"
+    },
+    {
+      "id": "battle_endcommand_10917_1",
+      "desc": "Commencing Attack",
+      "dlg": "From thread to needle."
+    },
+    {
+      "id": "battle_enemy_break_10917_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Cut away along the grain..."
+    },
+    {
+      "id": "battle_break_10917_1",
+      "desc": "Staggered",
+      "dlg": "... Life hanging by a thread."
+    },
+    {
+      "id": "battle_kill_10917_1",
+      "desc": "Enemy Killed",
+      "dlg": "... to finish the seam."
+    },
+    {
+      "id": "battle_dead_10917_1",
+      "desc": "Death",
+      "dlg": "So it's all coming apart now... every last thread..."
+    },
+    {
+      "id": "choice_success_p_10917_2",
+      "desc": "Check Passed",
+      "dlg": "Told you, didn't I? Once I've properly folded a piece of fabric, it doesn't fray so easily."
+    },
+    {
+      "id": "choice_fail_n_10917_1",
+      "desc": "Check Failed",
+      "dlg": "Looks like the fit was wrong. I'll have to make a few alterations."
+    },
+    {
+      "id": "battle_clear_10917_1",
+      "desc": "Victory Cry",
+      "dlg": "You went quietly without much fuss. I suppose you really were prepared to be snipped away, hmm?\nAs for the pieces you've left behind... Hmm, sure. I'll stitch them together nice and neat.\nThe Noirs ought to love this."
+    },
+    {
+      "id": "battle_clear_ex_10917_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "The fabric's been cut to a flattering shape, and the needle's all threaded... Now all that's left is to stitch it in place, overcast the edges, and conceal the finish with a blind stitch.\nCome find me again if you ever need anything else altered. But next time... I'll be charging more eyeballs, okay?"
+    },
+    {
+      "id": "battle_defeat_10917_1",
+      "desc": "Defeat Wail",
+      "dlg": "... You're pretty good. Now that you've snipped me away, you've denied the Noirs any possibility of procuring my fabrics again.\nThose eyes of yours have beheld such a fierce pulse... So I'm sure... you'll make good use of whatever remains of me."
+    }
+  ]
+}

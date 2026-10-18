@@ -1,0 +1,118 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "Head to B1F",
+      "description": "Apparently, we're still lacking in \"virtue\" to enter 5F. Pwie said they need to wear a Golden Shroud, and that somewhere down on the underground floors, there's someone who can process hides. Let's head there.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to B1F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "Find the Ruminations of the Prey",
+      "description": "To obtain the Golden Cocoon, we need to bring the Ruminations of the Prey to Boucher, B1F's Floor Manager. It should be somewhere nearby. Let's find it quickly.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Find the Ruminations of the Prey"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "Subdue Sous Chef",
+      "description": "We returned to the Food Court with the Ruminations of the Prey. After sniffing Pwie a few times, Sous Chef suddenly began attacking us...\n\nFirst, let's subdue Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Defeat Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "Talk to B1F's Floor Manager",
+      "description": "Sous Chef suddenly attacked us after sniffing Pwie a few times, but calmed down once she heard that we'd brought Ruminations of the Prey with us, and agreed to introduce us to Boucher, the Floor Manager at B1F.\n\nLet's talk to Boucher.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Talk to B1F's Floor Manager"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Give the Ruminations of the Prey to B1F's Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "Head to the Shore",
+      "description": "The Sous Chef, panicking, told us that the larva kept in the storage had escaped. It should be on the Shore just beyond the Fish Market. With no other options, we decided to head there and look for a living larva.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Shore"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "Investigate the Squirming Larva",
+      "description": "We've reached the Shore, where countless larvae are drifting toward the sea. One of them is still moving. We should approach it.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Investigate the Squirming Larva"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "Return to Sous Chef",
+      "description": "We found one that's still breathing. Take it back to the Food Court and hand it over to the Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "To the Escalator Hall",
+      "description": "Just like last time, we've got ourselves a Golden Cocoon... or rather, \"Wriggley\". Next stop: the Escalator Hall packed with escalators.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "To the Escalator Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "Choose an Escalator",
+      "description": "We let Pwie pick whichever escalator they liked. Now to define the escalator they chose.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Choose an Escalator"
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "Head to B2F's Escalator",
+      "description": "Let's take B2F's escalator down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to B2F's Escalator"
+        }
+      ]
+    }
+  ]
+}

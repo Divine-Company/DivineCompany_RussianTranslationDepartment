@@ -58,7 +58,7 @@
     {
       "key": "Q3006",
       "title": "Head to the PA Room",
-      "description": "The Rouge employee, L'Inamovible, looks distraught that the \"Voice\" would only repeat what it has said before and wants to know why.\nBut the Voice's identity is Meursault's mother, who'd already passed away... Still, we decided to head to the PA Room as asked.",
+      "description": "The Rouge vendor looks distraught that the \"Voice\" would only repeat what it had said before and wants to know why.\nBut the Voice's identity is Meursault's mother, who'd already passed away... Still, we decided to head to the PA Room as asked.",
       "steps": [
         {
           "index": 0,
@@ -69,7 +69,7 @@
     {
       "key": "Q3007",
       "title": "Return to L'Inamovible",
-      "description": "Received an PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to L'Inamovible.",
+      "description": "Received a PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to the vendor.",
       "steps": [
         {
           "index": 0,
@@ -80,7 +80,7 @@
     {
       "key": "Q3008",
       "title": "Return to L'Inamovible",
-      "description": "Received an PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to L'Inamovible.",
+      "description": "Received a PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to the vendor.",
       "steps": [
         {
           "index": 0,
@@ -184,7 +184,7 @@
     {
       "key": "Q4017",
       "title": "Head to Boutique du Rouge",
-      "description": "Received the Golden Fabric from Annette the Alterationist... Now, to obtain the Nail.\nWe should be able to get the \"Nail\"—or, as the Noirs said, \"L'Inamovible's spine\"—from Boutique du Rouge.",
+      "description": "Received the Golden Fabric from Annette the Alterationist... Now, to obtain the Nail.\nWe should be able to get the \"Nail\"—or, as the Noirs said, the \"spine\"—from Boutique du Rouge.",
       "steps": [
         {
           "index": 0,
@@ -195,7 +195,7 @@
     {
       "key": "Q4016",
       "title": "Obtain the \"Nail\" and Return to Maison du Noir",
-      "description": "L'Inamovible's Distortion quickly exacerbated before our eyes, so we had to cut her down.\nTime to remove her spi—\"Nail.\"\nNow, we only need to drape the Golden Fabric around the nail to complete the legendary weapon of the Noirs, capable of ripping through any and all fabric.\n\nTime to return to Maison du Noir and deliver the news to Flannel and Felt.",
+      "description": "The Rouge vendor's Distortion quickly exacerbated before our eyes, so we had to cut her down.\nTime to remove her spi—\"Nail.\"\nNow, we only need to drape the Golden Fabric around the nail to complete the legendary weapon of the Noirs, capable of ripping through any and all fabric.\n\nTime to return to Maison du Noir and deliver the news to Flannel and Felt.",
       "steps": [
         {
           "index": 0,

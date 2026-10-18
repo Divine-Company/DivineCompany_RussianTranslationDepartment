@@ -1,0 +1,509 @@
+﻿{
+  "dataList": [
+    {
+      "id": "10SV-051_1",
+      "desc": "스킬2 (1/2)",
+      "dlg": "Accord."
+    },
+    {
+      "id": "10SV-051_2",
+      "desc": "스킬2 (2/2)",
+      "dlg": "Pique!"
+    },
+    {
+      "id": "10SV-052_1",
+      "desc": "스킬3 (1/2)",
+      "dlg": "Pour forth."
+    },
+    {
+      "id": "10SV-053_1",
+      "desc": "스킬4 랜덤 보이스1",
+      "dlg": "Consume. Feast."
+    },
+    {
+      "id": "10SV-053_2",
+      "desc": "스킬4 랜덤 보이스2",
+      "dlg": "Fill yourselves. Fill again."
+    },
+    {
+      "id": "10SV-054",
+      "desc": "스킬5",
+      "dlg": "Rest you not while hunger gnaws still."
+    },
+    {
+      "id": "10SV-055_1",
+      "desc": "스킬6 (준필살기) -> 합승리 시 혹은 일방 공격 시 보이스 출력 (1/2)",
+      "dlg": "On and on..."
+    },
+    {
+      "id": "10SV-055_2",
+      "desc": "스킬6 (준필살기) -> 합승리 시 혹은 일방 공격 시 보이스 출력 (2/2)",
+      "dlg": "We advance!"
+    },
+    {
+      "id": "10SV-056_1",
+      "desc": "스킬7 (2페이즈 스킬) (1/3)",
+      "dlg": "Leave no scrap."
+    },
+    {
+      "id": "10SV-056_2",
+      "desc": "스킬7 (2페이즈 스킬) (2/3)",
+      "dlg": "Not a crumb!"
+    },
+    {
+      "id": "10SV-056_3",
+      "desc": "스킬7 (2페이즈 스킬) (3/3)",
+      "dlg": "Devour it all!"
+    },
+    {
+      "id": "10SV-057_1",
+      "desc": "스킬8 (2페이즈 스킬) (1/2)",
+      "dlg": "A want that no feast can sate."
+    },
+    {
+      "id": "10SV-057_2",
+      "desc": "스킬8 (2페이즈 스킬) (2/2)",
+      "dlg": "The hollowness."
+    },
+    {
+      "id": "10SV-058",
+      "desc": "스킬9 (필살기) (1/2)",
+      "dlg": "I shall devour even these memories..."
+    },
+    {
+      "id": "10SV-058-01",
+      "desc": "스킬9 (필살기) (2/2)",
+      "dlg": "... and bring the Rouges to fullness!"
+    },
+    {
+      "id": "10SV-059",
+      "dlg": "My existence... nature... hunger... I still do not understand."
+    },
+    {
+      "id": "10SV-059_1",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (1/4)",
+      "dlg": "My existence..."
+    },
+    {
+      "id": "10SV-059_2",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (2/4)",
+      "dlg": "Nature..."
+    },
+    {
+      "id": "10SV-059_3",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (3/4)",
+      "dlg": "Hunger."
+    },
+    {
+      "id": "10SV-059_4",
+      "desc": "스킬9 (기믹 수행이 완료된 상태로 필살기 발동) (4/4)",
+      "dlg": "Still I do not understand."
+    },
+    {
+      "id": "10SV-061",
+      "desc": "꿈같은 기억 0 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "I remember. I walked the Grand Magasin in those pretty flower-shoes you gifted me."
+    },
+    {
+      "id": "10SV-062",
+      "desc": "꿈같은 기억 1 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Again have I hurt... those who I wished would never know pain."
+    },
+    {
+      "id": "10SV-063",
+      "desc": "꿈같은 기억 2 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "And I devoured... those who called me an abomination."
+    },
+    {
+      "id": "10SV-064",
+      "desc": "꿈같은 기억 3 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "Let by my nature, bound by my duty... I donned virtue and ascended as the Voice of Le Rouge..."
+    },
+    {
+      "id": "10SV-065",
+      "desc": "꿈같은 기억 4 인 상태에서 스킬6 합 패배 시 파괴불가 코인으로 대사 출력",
+      "dlg": "And so... I shall never be able to walk beside you again."
+    },
+    {
+      "id": "10SV-066",
+      "desc": "151714번 스킬 사용시 대사",
+      "dlg": "Resist not nature's urging."
+    },
+    {
+      "id": "10SV-067",
+      "desc": "2페이즈 시작 시",
+      "dlg": "I still have so many questions... But I am no longer permitted to ask them."
+    },
+    {
+      "id": "10SV-067-01",
+      "dlg": "As the Voice that holds the desires and expectations of all, my role is... to answer."
+    },
+    {
+      "id": "10SV-069",
+      "desc": "잔느 1페이즈 포착 스킬 장착",
+      "dlg": "Ma puce. It's time now to turn life into fate."
+    },
+    {
+      "id": "10SV-070_a",
+      "desc": "잔느 1페이즈 포착 기믹 성공 후 다음 턴 시작시 (마지막 남은 설계도 처치 완료)",
+      "dlg": "Stop. Don't nail my world—<i>his</i> and mine—into place with your gaze."
+    },
+    {
+      "id": "10SV-070_b",
+      "desc": "잔느 1페이즈 포착 기믹 성공 후 다음 턴 시작시 (마지막 남은 설계도 처치 완료)",
+      "dlg": "Stop gazing at me. You understand nothing about me. Stop deciding what I am in your head."
+    },
+    {
+      "id": "10SV-071",
+      "desc": "잔느 1페이즈 포착 기믹 어중간 성공 후 다음 턴 시작시 (설계도를 1~2명 죽였을 때)",
+      "dlg": "If I can drift like this forever... then I'll never have to be afraid again."
+    },
+    {
+      "id": "10SV-072",
+      "desc": "잔느 1페이즈 포착 기믹 실패 후 다음 턴 시작시 (설계도를 한명도 못 죽였을 때)",
+      "dlg": "I'll color the whole world... with my heart. With my fierce colors."
+    },
+    {
+      "id": "10SV-073",
+      "desc": "잔느 1페이즈 152203 (가중치 3 1페이즈 강한 스킬)",
+      "dlg": "The emotions nailed into my heart..."
+    },
+    {
+      "id": "10SV-073-01",
+      "dlg": "Duty? Regret? Responsibility?"
+    },
+    {
+      "id": "10SV-073-02",
+      "dlg": "Let it go. All of it."
+    },
+    {
+      "id": "10SV-074",
+      "desc": "잔느 1페이즈 152204 (회피 성공시)",
+      "dlg": "You couldn't reach me."
+    },
+    {
+      "id": "10SV-075",
+      "desc": "잔느 뫼르소가 흐트러지거나 체력 30% 미만일 때 (전투당 1회)",
+      "dlg": "You want to be understood too, don't you? Why bury your heart and offer yourself up to their nails? Ma puce, I'm finding it so hard to understand you today."
+    },
+    {
+      "id": "10SV-076_a",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Marche!"
+    },
+    {
+      "id": "10SV-076_a-01",
+      "dlg": "Côté!"
+    },
+    {
+      "id": "10SV-076_a-02",
+      "dlg": "Assemblé!"
+    },
+    {
+      "id": "10SV-076_b",
+      "desc": "잔느 2페이즈 왈츠 합 진행시 (2종)",
+      "dlg": "Un!"
+    },
+    {
+      "id": "10SV-076_b-01",
+      "dlg": "Deux!"
+    },
+    {
+      "id": "10SV-076_b-02",
+      "dlg": "Trois!"
+    },
+    {
+      "id": "10SV-077",
+      "desc": "잔느 2페이즈 152304 (왈츠 합 기믹 실패시 사용하는 스킬)",
+      "dlg": "You should never have given if you were never going to accept."
+    },
+    {
+      "id": "10SV-078_a",
+      "desc": "잔느 2페이즈 152305 (왈츠 합 기믹 성공시 사용하는 스킬) (2종)",
+      "dlg": "How do you find it? Isn't it beautiful?"
+    },
+    {
+      "id": "10SV-078_b",
+      "desc": "잔느 2페이즈 152305 (왈츠 합 기믹 성공시 사용하는 스킬) (2종)",
+      "dlg": "See? We understand each other."
+    },
+    {
+      "id": "10SV-078_c",
+      "desc": "잔느 2페이즈 152305 (왈츠 합 기믹 성공시 사용하는 스킬) (2종)",
+      "dlg": "Ma puce... my world can only be complete with you in it."
+    },
+    {
+      "id": "10SV-079",
+      "desc": "잔느 2페이즈 152306 (왈츠 합 기믹 실패시 사용하는 회피)",
+      "dlg": "Wrong foot. That's not the step!"
+    },
+    {
+      "id": "10SV-079-01",
+      "desc": "잔느 2페이즈 152306 (왈츠 합 기믹 실패시 사용하는 회피) (2종)",
+      "dlg": "Not the right tempo."
+    },
+    {
+      "id": "10SV-080_a",
+      "desc": "잔느 3페이즈 시작 전 연출 대사",
+      "dlg": "You came to me on the first step, stayed on the second, and drifted away on the third."
+    },
+    {
+      "id": "10SV-080_b",
+      "desc": "잔느 3페이즈 시작 전 연출 대사",
+      "dlg": "So... what comes next, then? Where will your foot fall now?"
+    },
+    {
+      "id": "10SV-080_c",
+      "desc": "잔느 3페이즈 시작 전 연출 대사",
+      "dlg": "Are you lost...? Then just come back to me, like the first step of this dance."
+    },
+    {
+      "id": "10SV-081_a",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "It's too late to discuss rationality. The stage—the world—was never fair to begin with. "
+    },
+    {
+      "id": "10SV-081_b",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "You people are all hemmed in by gazes. Is there even a place left for you to step?"
+    },
+    {
+      "id": "10SV-081_c",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "Hell is other people. A horrible, hideous hell I don't want to face."
+    },
+    {
+      "id": "10SV-081_d",
+      "desc": "잔느 3페이즈 합 차단 스킬 장착시 (거의 매턴 들릴 거라 3종)",
+      "dlg": "Just stop thinking. Stop thinking about not thinking, even."
+    },
+    {
+      "id": "10SV-082",
+      "desc": "잔느 3페이즈 첫번째 왈츠 합 기믹이 나왔을 때 (거미 잔느로 처음 변신했을 때)",
+      "dlg": "Time to resume our dance. Dance in the world as I see it. Dance upon the meaning I will assign."
+    },
+    {
+      "id": "10SV-083",
+      "desc": "잔느 3페이즈 왈츠 합 기믹 뫼르소로 성공 시",
+      "dlg": "Find the rhythm. Forte... and then piano."
+    },
+    {
+      "id": "10SV-084",
+      "desc": "잔느 3페이즈 왈츠 합 기믹 뫼르소로 실패 시",
+      "dlg": "You couldn't have forgotten... Is this you teasing me?"
+    },
+    {
+      "id": "10SV-085",
+      "desc": "잔느 3페이즈 왈츠 합 기믹 실패 시 (뫼르소가 아닌 수감자로 대처 시)",
+      "dlg": "None of you will ever reach this wall."
+    },
+    {
+      "id": "10SV-086",
+      "desc": "잔느 3페이즈 설계도 사망 시",
+      "dlg": "Not a single thing exists as my gaze insists it is... It's so dizzying."
+    },
+    {
+      "id": "10SV-087",
+      "desc": "잔느 3페이즈 거대 폼 필살기 스킬 대사",
+      "dlg": "My anxiety."
+    },
+    {
+      "id": "10SV-087-01",
+      "dlg": "My fears."
+    },
+    {
+      "id": "10SV-087-02",
+      "dlg": "Feel it—the incomprehension of being nailed under an alienating gaze."
+    },
+    {
+      "id": "10SV-089",
+      "desc": "뫼르소가 흐트러지거나 체력 30% 미만일 때 (전투당 1회) 답 대사",
+      "dlg": "You cannot understand me, Jeanne... that is why you keep trying. And I will, too..."
+    },
+    {
+      "id": "10SV-089-01",
+      "desc": "뫼르소가 흐트러지거나 체력 30% 미만일 때 (전투당 1회) 답 대사",
+      "dlg": "You cannot understand me, Jeanne... that is why you keep trying. And I will, too..."
+    },
+    {
+      "id": "10SV-119",
+      "desc": "[1페이즈] 스테이지 시작 시의 명령 페이즈",
+      "dlg": "The Age of Eternity hath arrived. Suffer shall the transgressor."
+    },
+    {
+      "id": "10SV-120_A",
+      "desc": "[1페이즈] 스킬 148504 사용하는 턴 시작 시의 명령 페이즈",
+      "dlg": "Vengeance upon thee."
+    },
+    {
+      "id": "10SV-120_B",
+      "desc": "[1페이즈] 스킬 148503 공격할 때",
+      "dlg": "Thou shalt fear."
+    },
+    {
+      "id": "10SV-121",
+      "desc": "[1페이즈] 스킬 148504 공격할 때",
+      "dlg": "Condemned be thou!"
+    },
+    {
+      "id": "10SV-122",
+      "desc": "[1페이즈] 스킬 148505 사용하는 턴 시작 시의 명령 페이즈",
+      "dlg": "Face thy sins. Receive thy punishment."
+    },
+    {
+      "id": "10SV-123",
+      "desc": "[1페이즈] 스킬 148505 공격할 때",
+      "dlg": "Obey."
+    },
+    {
+      "id": "10SV-124",
+      "desc": "[2페이즈] 페이즈 전환 이후 첫 턴 시작 시의 명령 페이즈",
+      "dlg": "Let the transgressor bear in mind.\nThose who do not repent...\nShall return to dust."
+    },
+    {
+      "id": "10SV-125_A",
+      "desc": "[2페이즈] 스킬 148603 합 시작 시 (대사 번갈아가며 사용)",
+      "dlg": "Remember thy transgression!"
+    },
+    {
+      "id": "10SV-125_B",
+      "desc": "[2페이즈] 스킬 148603 합 시작 시 (대사 번갈아가며 사용)",
+      "dlg": "Repent!"
+    },
+    {
+      "id": "10SV-125_C",
+      "desc": "[2페이즈] 스킬 148603 합 시작 시 (대사 번갈아가며 사용)",
+      "dlg": "Behold, the proof of judgment."
+    },
+    {
+      "id": "10SV-126",
+      "desc": "[2페이즈] 스킬 148607 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "The world hath been closed...\nNo rest shall await those who resist without faith and flee from that which is theirs to bear..."
+    },
+    {
+      "id": "10SV-127",
+      "desc": "[2페이즈] 스킬 148608 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "A day is as a thousand years... and a thousand years as a day. O transgressor, reckon thou eternity, and repent thee of thy sins..."
+    },
+    {
+      "id": "10SV-128_A",
+      "desc": "[2페이즈] 스킬 148608 공격할 때 (강제 퇴장) (데드씬 A, B, C에 맞추어 사용)",
+      "dlg": "Souls shall be broken asunder."
+    },
+    {
+      "id": "10SV-128_B",
+      "desc": "[2페이즈] 스킬 148608 공격할 때 (강제 퇴장) (데드씬 A, B, C에 맞추어 사용)",
+      "dlg": "Tremble before that which thou understandest not."
+    },
+    {
+      "id": "10SV-128_C",
+      "desc": "[2페이즈] 스킬 148608 공격할 때 (강제 퇴장) (데드씬 A, B, C에 맞추어 사용)",
+      "dlg": "The eyes of the foolish shall be blinded.\nBehold thou naught but thy transgression."
+    },
+    {
+      "id": "10SV-129_A",
+      "desc": "[2페이즈] 스킬 148607 공격할 때 (심판의 날) (대사 번갈아가며 사용)",
+      "dlg": "Let the hammer of judgment fall upon thine iniquitous and deceitful heart!"
+    },
+    {
+      "id": "10SV-129_B",
+      "desc": "[2페이즈] 스킬 148607 공격할 때 (심판의 날) (대사 번갈아가며 사용)",
+      "dlg": "I judge thee... I sentence thee... I condemn thee...!"
+    },
+    {
+      "id": "10SV-130",
+      "desc": "[2페이즈] 스킬 148607 사용하는 턴 시작 시의 명령 페이즈 (10SV-126 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "Submit to order!"
+    },
+    {
+      "id": "10SV-131",
+      "desc": "[2페이즈] 스킬 148608 사용하는 턴 시작 시의 명령 페이즈 (10SV-127 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "Obey the rules...!"
+    },
+    {
+      "id": "10SV-132",
+      "desc": "[2페이즈] 스킬 148607 스킬로 합 시작 시 대상에게 정지 버프가 있는 경우",
+      "dlg": "Dost thou place thy trust in mercy?"
+    },
+    {
+      "id": "10SV-133",
+      "desc": "[2페이즈] 스킬 148608 스킬로 합 시작 시 대상에게 박동 버프가 있는 경우",
+      "dlg": "Fragment of a false god? Transgressor, lay down not thy duty, nor cast aside thy burden."
+    },
+    {
+      "id": "10SV-134",
+      "desc": "[3페이즈] 페이즈 전환 이후 첫 턴 시작 시의 명령 페이즈",
+      "dlg": "Honestly, even a big show of repentance wouldn't cut it at this point... Keep digging your heels in like that, and you'll only make things harder for yourself."
+    },
+    {
+      "id": "10SV-135",
+      "desc": "[3페이즈] 뫼르소에게 처음으로 합에서 패배할 때",
+      "dlg": "You do know this amounts to criminal damage to property, right?"
+    },
+    {
+      "id": "10SV-136",
+      "desc": "[3페이즈] 뫼르소를 처음으로 공격할 때",
+      "dlg": "When you stand before god, you do it alone."
+    },
+    {
+      "id": "10SV-137_a",
+      "desc": "[3페이즈] 스킬 148708 사용하는 턴 시작 시의 명령 페이즈 (10SV-139 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "You're in the presence of god."
+    },
+    {
+      "id": "10SV-137_b",
+      "desc": "[3페이즈] 스킬 148703 합 시작 시",
+      "dlg": "Aren't you going to repent?"
+    },
+    {
+      "id": "10SV-137_c",
+      "desc": "[3페이즈] 스킬 148707 공격할 때 (심판의 날)",
+      "dlg": "Look straight to what you've done."
+    },
+    {
+      "id": "10SV-138",
+      "desc": "[3페이즈] 스킬 148707 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "\"At last, eternity shall lay bare thy despair, and nail thy sin into everlasting record...\" That's what I'm getting at."
+    },
+    {
+      "id": "10SV-139",
+      "desc": "[3페이즈] 스킬 148708 사용하는 턴 시작 시의 명령 페이즈 (전투당 1회)",
+      "dlg": "*sigh*... I'm getting pretty tired of dealing with you. Running into your merry band every time I clock in is honestly becoming a real pain."
+    },
+    {
+      "id": "10SV-140",
+      "desc": "[3페이즈] 스킬 148708 공격할 때 (강제 퇴장)",
+      "dlg": "Yeah, this should put an end to it."
+    },
+    {
+      "id": "10SV-141",
+      "desc": "[3페이즈] 스킬 148709 공격할 때 (강제 퇴장 강화)",
+      "dlg": "Why keep chasing after some understanding you've never known? Wouldn't it be easier to give up and repent?"
+    },
+    {
+      "id": "10SV-142",
+      "desc": "[3페이즈] 승률, 피해량 버튼 눌러서 무작위 수감자들에게 황금빛 못 꽂힐 때 (턴당 1회) [메타적인 기믹]",
+      "dlg": "\"Independent judgment\"... Yeah, we don't use words like that around here."
+    },
+    {
+      "id": "10SV-143_a",
+      "desc": "[3페이즈] 스킬 148707 사용하는 턴 시작 시의 명령 페이즈 (10SV-138 처음 보이스 나온 이후에는 계속 이걸로 나옴)",
+      "dlg": "God wills it."
+    },
+    {
+      "id": "10SV-143_b",
+      "desc": "[3페이즈] 황금빛 못 꽂힌 스킬 연결할 경우 (턴당 1회) [메타적인 기믹] ",
+      "dlg": "\"God works in mysterious ways,\" ... Just like this."
+    },
+    {
+      "id": "10SV-144",
+      "desc": "[3페이즈] 20초 이상 정보창 보다가 해당 창에 못 꽂힐때 (전투 당 1회) [메타적인 기믹]",
+      "dlg": "Hey, did you think you could get a time-out from divine retribution?"
+    },
+    {
+      "id": "s1003V-416",
+      "desc": "[3페이즈] 턴 시작 시 시간을 되돌려서 체력을 전부 회복하는 기능이 더 이상 동작하지 않을 때",
+      "dlg": "...?"
+    }
+  ]
+}

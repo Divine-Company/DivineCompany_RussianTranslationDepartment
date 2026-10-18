@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 1114,
+      "panicName": "Le Désir",
+      "lowMoraleDescription": "Offense Level +3, Defense Level +3",
+      "panicDescription": "Offense Level +5, Defense Level +5",
+      "flavor": "I don't know any of these words. They just... came from somewhere.\nThey pop into my head on their own. They get stuck in there on their own. They're all just fancy-sounding words that came from outside. I don't really know what any of them mean.\n\n... But somehow, I get it..."
+    },
+    {
+      "id": 1116,
+      "panicName": "Sync Error",
+      "lowMoraleDescription": "- Take +12.5% damage\n- Min & Max Speed -1\n- Deal -15% damage using Skills that consume [ChargeNoir]",
+      "panicDescription": "- Take +20% damage\n- Min & Max Speed -2\n- Deal -25% damage using Skills that consume [ChargeNoir]"
+    },
+    {
+      "id": 1117,
+      "panicName": "Compunction",
+      "lowMoraleDescription": "- Min & Max Speed -1\n- Take +10% damage from targets with faster Speed than self",
+      "panicDescription": "- Min & Max Speed -2\n- Take +15% damage from targets with faster Speed than self",
+      "flavor": "\"You feel your sins crawling on your back.\""
+    },
+    {
+      "id": 1118,
+      "panicName": "The Obsidian God - The Giant of Le Noir - The Chaplain - Les Marteaux",
+      "lowMoraleDescription": "Unobservable",
+      "panicDescription": "Unobservable",
+      "flavor": "Time passes at a tremendous pace within the Sisyphe System, unhindered by material resistance. Yet through their respective viewpoints, the Giants can synchronize themselves with the System's internal flow of time and communicate with its customers.\n\nAmong them, the Giant who represents the Hammers holds authority over the System's internal memories and time, with the power to reset portions of its inventory at his own discretion."
+    },
+    {
+      "id": 1120,
+      "panicName": "Farther Past the Hide!",
+      "lowMoraleDescription": "Defense Level -2, Offense Level +2",
+      "panicDescription": "Defense Level -5, Offense Level +3"
+    },
+    {
+      "id": 1122,
+      "panicName": "La Nausée",
+      "lowMoraleDescription": "Deal -10% damage",
+      "panicDescription": "Base Power -1, deal -10% damage",
+      "flavor": "Revulsion. Nausea before the world. The world simply exists. Nothing in it bears any inherent meaning; everything before our eyes is merely the product of chance.\n\nEverything is a contingency. Everything."
+    }
+  ]
+}

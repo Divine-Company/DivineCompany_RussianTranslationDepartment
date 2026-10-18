@@ -3303,6 +3303,100 @@
       "name": "[Actrice Haute Couture du Rouge] - Robes",
       "desc": "#1 and #2 Deployed allies heal +20% more HP from Passive, Skill, and Coin effects\n\nOn Lust A-Reson., #1 and #2 allies take -10% damage from Skills for the turn",
       "flavor": "When it isn't feasible to overwrite the subject with the exact form of the Mirrored Identity, a \"costume\" fitted for each actor is designed and worn.\n\nHaute Couture is a form of cinematic reinterpretation; it replaces an existent being with an outfit, and the actor, now overwritten, dutifully performs the given role in full immersion. \n\nThis deception of reality is readily accepted by the audience at the theater while the actor, at least within the confines of the narrative, embodies the original existence in earnest recreation."
+    },
+    {
+      "id": 1091701,
+      "name": "Snipping in the Alteration Shop are Blossom Scissors",
+      "desc": "Turn End: Gain Shield next turn equal to [ChargeKhaki] Count\nAt 2+/3+/5+ [ChargeKhaki] Potency, Base Skill Final Power +1/+2/+3",
+      "summary": "Gain Base Skill Final Power"
+    },
+    {
+      "id": 1091702,
+      "name": "Inertia of Drifting",
+      "desc": "Gain 1 [ChargeKhaki] Potency for every 10 cumulative [ChargeKhaki] Count this unit consumes in this Encounter\n\nAt Attack End of another ally that has [NoirScissorShield], activate \"Patterning\" against the said ally's target (once per turn)\n- [BeforeUse] If the said target has 2+ [NoirScissorAlly], activate as \"Cutout\" instead (once per turn)",
+      "summary": "Activate additional attack"
+    },
+    {
+      "id": 1091721,
+      "name": "First is Thanks-snipping",
+      "desc": "1 ally with the fastest Speed deals +10% damage using Slash Base Skills",
+      "summary": "Bonus Slash damage",
+      "flavor": "The single pair dearest to me, above all the rest... will be yours as well."
+    },
+    {
+      "id": 1031501,
+      "name": "Obsidian Covenant",
+      "desc": "Combat End: If this unit has [OathFieldDonQuixote], gain 1 [Agility] next turn\n\nThis unit's Base Attack Skills deal +([ChargeNoirAlly] Potency on self x 3)% damage against the main target (max 15%)",
+      "summary": "If [OathFieldDonQuixote] is active, gain [Agility] next turn\nBase Attack Skills deal more damage against the main target",
+      "flavor": "I heard His voice, His promise: \"Everything that exists has meaning.\""
+    },
+    {
+      "id": 1031502,
+      "name": "Malleus Promissionis",
+      "desc": "Upon entering the Encounter for the first time, gain +10 [ChargeNoirAlly] Count and apply +2 [Charge] Count on other \"Le Noir\" allied Identities\n\nWhen inflicting [NoirNailDonQuixote] using Skill effects:\n- At 12+ [ChargeNoirAlly] Count, inflict +1 more [NoirNailDonQuixote] and consume 4 [ChargeNoirAlly] Count\n- At fewer than 12 [ChargeNoirAlly] Count, consume 2 [ChargeNoirAlly] Count\n- At insufficient [ChargeNoirAlly] Count, does not inflict [NoirNailDonQuixote]\n- Skills that inflict [NoirNailDonQuixote] due to this effect count as Skills that consume [Charge] Count\n\nGain 1 [ChargeNoirAlly] Potency every time this unit consumes 10 cumulative [ChargeNoirAlly] Count in this Encounter",
+      "summary": "Gain [ChargeNoirAlly] Count; \"Le Noir\" allies gain [Charge] Count\nConsume [ChargeNoirAlly] Count when inflicting [NoirNailDonQuixote]; inflict more [NoirNailDonQuixote] when at sufficient [ChargeNoirAlly] Count\nGain [ChargeNoirAlly] Potency by consuming [ChargeNoirAlly] Count",
+      "flavor": "A hammer drives nails. This hammer strikes nothing but nails. Whatever it strikes is a nail. That is what was agreed upon."
+    },
+    {
+      "id": 1031503,
+      "name": "Mission of Conservation",
+      "desc": "Upon entering the Encounter for the first time, gain 25 [NoirShieldUpDonQuixote]\n\nWhen consuming [ChargeNoirAlly] Count, or when gaining [ChargeNoirAlly] Count past its max cap, gain ([ChargeNoirAlly] Count consumed or surplus [ChargeNoirAlly] Count x 5) [NoirShieldUpDonQuixote] (max 30 per turn)\n\nWhen an allied Identity that has Shield is hit, this unit gains 2 [NoirShieldUpDonQuixote] (max 10 per turn)\n- If the said allied Identity is a [PersonalityCharge], gain 5 [NoirShieldUpDonQuixote] instead",
+      "summary": "Gain [NoirShieldUpDonQuixote]"
+    },
+    {
+      "id": 1031504,
+      "name": "The Lord's Will and Values Be With Us...",
+      "desc": "Before Attack of another \"Le Noir\" allied Identity on an enemy, this unit uses \"Judgment!\" Skill as an Unopposed Attack against the main target (once per turn)\n\nOn the final Coin Start of a Base Skill, the said Coin gains Final Power +([ChargeNoirAlly] Potency on self + ([NoirNailDonQuixote] on target / 2)) (max 5)\n\nIf this unit has [OathFieldDonQuixote], Base Skill 1/2/3 gains Clash Power +1/+2/+3\n\nWhen [VibrationExplosion] triggers on a target that has [NoirNailDonQuixote], this unit and 1 other allied [PersonalityCharge] that has the lowest [Charge] Count gain +2 [Charge] Count (2 times per turn)",
+      "summary": "Use \"Judgment!\" Skill before a \"Le Noir\" ally attacks\nBase Skill final Coins gain Final Power\nIf [OathFieldDonQuixote] is active, Base Skills gain Clash Power\nGain [Charge] Count when triggering [VibrationExplosion] on targets that have [NoirNailDonQuixote]",
+      "flavor": "The Obsidian God's words be our guiding light, our armor and shield in this troubled world of uncertainties; becometh His Voice the shining beam of light upon us, thereby bestowing us with meaning so coveted."
+    },
+    {
+      "id": 1031511,
+      "name": "Obsidian Covenant",
+      "desc": "Combat End: If this unit has [OathFieldDonQuixote], gain 2 [Agility] next turn\n\nThis unit's Base Attack Skills deal +([ChargeNoirAlly] Potency on self x 6)% damage against the main target (max 30%)",
+      "summary": "If [OathFieldDonQuixote] is active, gain [Agility] next turn\nBase Attack Skills deal more damage against the main target",
+      "flavor": "I heard His voice, His promise: \"Everything that exists has meaning.\""
+    },
+    {
+      "id": 1031521,
+      "name": "Formation Conservation",
+      "desc": "All allied [PersonalityCharge] take -2% damage this turn for every allied [PersonalityCharge] on the field at Combat Start (max -10%)",
+      "summary": "Allied [PersonalityCharge] take less damage"
+    },
+    {
+      "id": 1101602,
+      "name": "La Jouissance phallique",
+      "desc": "Gain 1 [ChargeRougeAlly] Count every time [Laceration] is activated in this Encounter (10 times per turn)\n\nCombat End: At 15+ [ChargeRougeAlly] Count, if this unit is not in [BuffetSinclair] state, consume all [ChargeRougeAlly] Count to gain 3 [BuffetSinclair] next turn\n- Heal SP equal to (3 x [ChargeRougeAlly] Count consumed beyond 15) (max 15)\n\nWhen [BuffetSinclair] expires, consume all [ChargeRougeAlly] Count on self to heal HP equal to ([ChargeRougeAlly] Count consumed x 2)\n\nGain 1 [ChargeRougeAlly] Potency for every 10 cumulative [ChargeRougeAlly] Count this unit consumes in this Encounter\n\nThis unit's Base Attack Skills and Clashable Counter Skills are considered as Skills that gain [Charge] Count",
+      "summary": "Gain [ChargeRougeAlly] Count every time [Laceration] is activated"
+    },
+    {
+      "id": 1101603,
+      "name": "La Fin de l'Enfance",
+      "desc": "Gain [HungrySinclair] based on the following conditions (50 per turn):\n- When this unit consumes [ChargeRougeAlly] Count, gain Stack equal to [ChargeRougeAlly] Count consumed\n- When this unit's Base Skills heal other allies' HP, gain Stack equal to actual amount healed\n- Gain 1 Stack for every 10 cumulative HP allies lost\n- On Base Attack Hit by another \"Le Rouge\" allied Identity, gain 2 Stacks\n- Turn End: Gain 5 Stacks for every other \"Le Rouge\" allied Identity on the field\n\nTurn End: At 100+ [HungrySinclair], and if this unit does not have [TransformSinclair], replace the Skill on the leftmost Skill Slot's bottom row with \"La Voracité\" at the next Turn Start\n\nCombat Start: If this unit equipped \"La Voracité\" or \"La Castration\" for the first time in this Encounter, gain [BuffetThirst] and [TransformSinclair]; then, remove this unit's Stagger Threshold\n- Replace equipped Base Skills with [TransformSinclair] exclusive Skills\n- Base Skills that targeted allies activate Unopposed Attack against random enemies\n- At Attack End of the Skill activated by the said effect, consume all [HungrySinclair]\n\nTurn End: At 150 [HungrySinclair], if this unit has [TransformSinclair], and if this unit does not have \"La Voracité\" on its Dashboard at the next Turn Start, replace a Base Skill with \"La Voracité\" (prioritizes the Skill on the leftmost Slot's bottom row)",
+      "summary": "Gain [HungrySinclair] based on conditions",
+      "flavor": "Who decides where childhood ends?\n\nThe crimson child set out on an adventure all on his lonesome.\nTracing memories, longing for what was lost, the child walked on with friendless steps... and in loneliness, bade farewell to childhood."
+    },
+    {
+      "id": 1101604,
+      "name": "La Moisson",
+      "desc": "When this unit's Base Skill effects consume an ally's HP, the ally cannot become Staggered by the said effects, and its HP does not drop below 1.\n\nCombat End: At 3+ Lust Reson., apply [BuffetThirst] next turn on (Lust Reson. / 3) other allies (rounded up)\n- Prioritizes \"Le Rouge\" allies, in Deployment order\n\nWhen using a [SupportAlly] Skill on an ally, apply 1 [BuffetFriendShield] to the non-immobilized \"Le Rouge\" ally with the highest current HP (once per turn)\nAt Base Attack End by another allied [PersonalityCharge], if the said Skill did not defeat its main target, use \"Je vous aide\" against that enemy (once per turn)",
+      "summary": "When using a [SupportAlly] Skill on an ally, apply [BuffetFriendShield]\nApply [BuffetThirst] on ally next turn based on Lust Reson."
+    },
+    {
+      "id": 1101614,
+      "name": "La Moisson",
+      "desc": "When this unit's Base Skill effects consume an ally's HP, the ally cannot become Staggered by the said effects, and its HP does not drop below 1.\n\nCombat End: At 3+ Lust Reson., apply [BuffetThirst] next turn on (Lust Reson. / 3) other allies (rounded up)\n- Prioritizes \"Le Rouge\" allies, in Deployment order\n- If this unit has [TransformSinclair], apply this effect to +1 more ally (max 4 allies)\n\nIf this unit does not have [TransformSinclair],\n- When using a [SupportAlly] Skill on an ally, apply 1 [BuffetFriendShield] to the non-immobilized \"Le Rouge\" ally with the highest current HP (once per turn)\n- At Base Attack End by another allied [PersonalityCharge], if the said Skill did not defeat its main target, use \"Je vous aide\" against that enemy (once per turn)\n\nIf this unit has [TransformSinclair],\n- Gain [RougeFamilySinclair]\n- Activate [DinnerField] on the current battlefield\n- Turn End: Gain [BuffetThirst] next turn\n- Combat Start: Apply 1 [BuffetFriendShield] to the non-immobilized \"Le Rouge\" ally with the highest current HP\n- At Attack End of a Base Attack Skill against enemies, if the main target has 5 [BoneNailSinclair], use \"La Demande\" (once per turn)",
+      "summary": "When using a [SupportAlly] Skill on an ally, apply [BuffetFriendShield]\nApply [BuffetThirst] on ally next turn based on Lust Reson."
+    },
+    {
+      "id": 1101611,
+      "name": "Les Pouvoirs de la vie",
+      "desc": "When a \"Le Rouge\" ally becomes Staggered due to damage, use \"Le Manque-à-être\" on the said ally (once per turn, excluding forced Stagger)\n\nIf this unit does not have [TransformSinclair],\n- When a non-\"Le Rouge\" ally becomes Staggered due to damage, use \"Le Manque-à-être\" on the said ally (once per Encounter, excluding forced Stagger)\n\nIf this unit has [TransformSinclair],\n- When another \"Le Rouge\" ally takes damage that brings its HP down to 0, HP does not drop below 1, and the said ally heals 50% HP (rounded up, once per Encounter per Identity)"
+    },
+    {
+      "id": 1101621,
+      "name": "Voracious Overindulgence",
+      "desc": "Combat Start: Apply 2 [AttackUp] to the ally with the lowest HP\nThe said ally heals 5% HP at Attack Skill End (min 1, once per turn)"
     }
   ]
 }

@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": "get_11016_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Memories. Experiences. What could be the proof of \"me,\" I wonder?\nI've made the climb again to find the answer no one's been able to give me."
+    },
+    {
+      "id": "lobby_morning_11016_1",
+      "desc": "Morning Greeting",
+      "dlg": "A season begins again, and before long, it comes to an end. Then when one season ends, another begins.\nSeason after season, the events within remain the same; but they are, in truth, trapped in a greater cycle: the cycle of the Voices—or, rather, the \"Giants.\""
+    },
+    {
+      "id": "lobby_noon_11016_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "I thought the sunlight, the alien Voice... held the answer to my question. But... the sunlight gave me no answers, instead offering only encouragement...\nMaybe I don't yet have anything that I... truly desire..."
+    },
+    {
+      "id": "lobby_night_11016_1",
+      "desc": "Evening Greeting",
+      "dlg": "Off-season... sale...? But why keep these piled here? I don't get it.\nIf they don't sell, just eat them up. Start with the nearest dish, then move on to the next one until there's none left."
+    },
+    {
+      "id": "smalltalk_11016_1",
+      "desc": "Chatter #1",
+      "dlg": "Watching everything unfold exactly as I'd known it would is... such a scary feeling. So why does the Obsidian God keep trying to decide how everything must end? What worth could there be in a hollow cycle... that only spins in place...?"
+    },
+    {
+      "id": "smalltalk_11016_2",
+      "desc": "Chatter #2",
+      "dlg": "... The longer the adventure gets, the more I find words and expressions that I can't share with others. And even when I do, they don't seem to understand me.\nMaybe that's why I've begun talking to myself more and more frequently. At least the hunger subsides a little when I'm chewing on something."
+    },
+    {
+      "id": "smalltalk_11016_3",
+      "desc": "Chatter #3",
+      "dlg": "Why does everything have to end with death? Why can't we just start from the beginning again? I... don't get it. I don't like it.\nWhy can't we just start over after we die? That way, we wouldn't ever have to hesitate before making a choice... That way, we could keep experiencing..."
+    },
+    {
+      "id": "smalltalk_11016_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "As I uncovered more and more of the unknown world, the cold retreated to an unseen corner of my mind; the hunger beneath my notice as the hollow of my heart filled.\nBut now that I have learned all there is to be learned... I feel only the cold... and the loneliness."
+    },
+    {
+      "id": "smalltalk_11016_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "This insatiable emptiness... this unquenchable thirst... Neither of these is mine, yet I cannot help but think they are.\nEvery thread that comprises my being is... a wish of another, nailed into the sense of hunger. Then, this instinctive, unbearable voracity has to be... my nature, my fate to bear."
+    },
+    {
+      "id": "neglect_11016_1",
+      "desc": "Idle",
+      "dlg": "Undo only the silkiest threads... Grow tall and strong..."
+    },
+    {
+      "id": "gacksung_11016_1",
+      "desc": "Uptying",
+      "dlg": "At long last, the Buffet is served. We—I—shall devour this department store from foundation to apex, so that none among you shall ever scrape an empty plate again."
+    },
+    {
+      "id": "formation_11016_1",
+      "desc": "Deployment",
+      "dlg": "I can't stop if I'm going to reach what I desire."
+    },
+    {
+      "id": "battleentry_11016_1",
+      "desc": "Stage Entry",
+      "dlg": "I don the virtues and ascend."
+    },
+    {
+      "id": "battle_select_11016_1",
+      "desc": "Viewed in Battle 1",
+      "dlg": "... Why did you call me?"
+    },
+    {
+      "id": "battle_select_11016_2",
+      "desc": "Viewed in Battle 2",
+      "dlg": "... If you have questions to ask, raise your hand and wait. I will answer them one at a time."
+    },
+    {
+      "id": "battle_endcommand_11016_1",
+      "desc": "Commencing Attack 1",
+      "dlg": "I can't stop myself anymore."
+    },
+    {
+      "id": "battle_endcommand_11016_2",
+      "desc": "Commencing Attack 2",
+      "dlg": "Pour forth."
+    },
+    {
+      "id": "battle_enemy_break_11016_1",
+      "desc": "Enemy Staggered 1",
+      "dlg": "Move..."
+    },
+    {
+      "id": "battle_enemy_break_11016_2",
+      "desc": "Enemy Staggered 2",
+      "dlg": "I drink when my throat burns with thirst."
+    },
+    {
+      "id": "battle_break_11016_1",
+      "desc": "Staggered 1",
+      "dlg": "It hurts..."
+    },
+    {
+      "id": "battle_break_11016_2",
+      "desc": "Staggered 2",
+      "dlg": "It hurts..."
+    },
+    {
+      "id": "battle_kill_11016_1",
+      "desc": "On Kill 1",
+      "dlg": "... To the rock bottom you fall."
+    },
+    {
+      "id": "battle_kill_11016_2",
+      "desc": "On Kill 2",
+      "dlg": "I eat when I'm hungry, no more, no less."
+    },
+    {
+      "id": "battle_dead_11016_1",
+      "desc": "Death #1",
+      "dlg": "Next time... I'll... climb higher..."
+    },
+    {
+      "id": "battle_dead_11016_2",
+      "desc": "Death #2",
+      "dlg": "... I didn't want to... hurt anymore..."
+    },
+    {
+      "id": "choice_success_p_11016_2",
+      "desc": "Check Passed",
+      "dlg": "I just happened to know the answer ahead of time. It wasn't... a divine prophecy or anything."
+    },
+    {
+      "id": "choice_fail_n_11016_1",
+      "desc": "Check Failed",
+      "dlg": "There is no better way to escape our fate."
+    },
+    {
+      "id": "battle_clear_11016_1",
+      "desc": "Victory Cry",
+      "dlg": "I am a being woven from threads of fathomless hunger... This paltry \"feast\" cannot fill me.\nBring me more. Scour for the Obsidian God's delicacies and present them before me—I should like to devour all that comes within my sight."
+    },
+    {
+      "id": "battle_clear_ex_11016_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Mark my words, Obsidian God. At the end of this adventure... I <i>will</i> wrest free of my fate as you have gazed it."
+    },
+    {
+      "id": "battle_defeat_11016_1",
+      "desc": "Defeat Wail",
+      "dlg": "... I am once again reduced to an experience. I am still nothing more than an experience that ravenously devours..."
+    }
+  ]
+}

@@ -4104,7 +4104,7 @@
     {
       "id": "ChargeRougeAlly",
       "name": "Pulsation",
-      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count",
+      "desc": "- Unique Charge\n- Max Count: 20\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count\n\n<color=#1aece7>Cumulative Count consumed: {2}</color>",
       "summary": "",
       "undefined": "-"
     },
@@ -4123,6 +4123,237 @@
       "summary": "",
       "undefined": "-",
       "flavor": "Though she has emerged from the cocoon, she has failed to truly metamorphose—as that process involves the disintegration of the self. Still, the process has managed to boost her physical abilities."
+    },
+    {
+      "id": "EmpathicDistressAlly",
+      "name": "Fracturing of the Senses",
+      "desc": "- Max Stack: 5\n- When other allies are hit, gain +1 Tremor Count, and lose 1 Stack (once per Skill)\n- If there are no other allies on the field, gain 2 Tremor Potency when hit, and lose 1 Stack (once per Skill)\n- When hit by Crit Attack, take +(Tremor Potency on self)% damage (max 15%)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The fracturing occurs when one first recognizes the incongruity between the forms of the body and the heart."
+    },
+    {
+      "id": "PersonalityVibration",
+      "name": "Tremor Identity",
+      "desc": "Identities that have Base Attack Skills that inflict Tremor Potency, Tremor Count, or Unique Tremor",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityBreath",
+      "name": "Poise Identity",
+      "desc": "Identities that have Base Attack Skills that apply or gain Poise Potency or Poise Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityCharge",
+      "name": "Charge Identity",
+      "desc": "Identities that have Base Attack Skills that apply, gain, or consume Charge or Unique Charge",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChargeKhakiAlly",
+      "name": "Inertia of Drifting",
+      "desc": "- Max Count: 20\n- Unique Charge\n- Interacts the same way as normal Charge does to effects that raise or reduce Charge Potency and Count\n- Turn End: Lose 1 Count\n\n<color=#1aece7>Cumulative Count consumed: {2}</color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Those who are carried by the tide like buoys may not be able to change the flow of things, but they can still bolster the tide and commit to their acts within."
+    },
+    {
+      "id": "NoirScissorAlly",
+      "name": "Mark of Shearing",
+      "desc": "- Max Stack: 4\n- When a target that has this effect is defeated, the unit that inflicted this effect heals 5 SP and gains 1 Offense Level Up next turn (3 times per turn)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A cutting mark used to trim fabric and other materials to the required measurements."
+    },
+    {
+      "id": "NoirScissorCut",
+      "name": "Blossom Scissors",
+      "desc": "- Max Stack: 2\n- Deal +7% damage for every Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The scissors used to sever the primordial materials produced underground are larger and more extraordinary still. These scissors have cut and recut the very first cloth ever woven. That flowers should bloom from them is only natural, for they have always cut things at their very roots."
+    },
+    {
+      "id": "SupportAlly",
+      "name": "Duality",
+      "desc": "Skills can target allied Identities\nUpon auto-targeting Skills, or in Regular Encounters, prioritize the ally with the earliest Deployment Order\n- If target is an ally, the attack does not hit, and does not trigger Defense Skills (including Clashable Defense Skills)\nIf target is an ally, activate this Skill at Combat Start",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SupportEnemy",
+      "name": "Duality",
+      "desc": "Skills can target allies\nUpon auto-targeting Skills, or in Regular Encounters, target random allies\n- If target is an ally, the attack does not hit, and does not trigger Defense Skills (including Clashable Defense Skills)\nIf target is an ally, activate this Skill at Combat Start",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoirScissorShield",
+      "name": "Second is Welcome-snipping",
+      "desc": "- Max Stack: 1\n- Offense Level +3, Defense Level +3\n- On Skill Use, heal 5 SP if this unit is a Charge Identity (once per turn)\n- On Base Skill Hit, deal Slash damage equal to 5% of each Coin's final damage\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A pair of scissors becomes one through two, and makes two of what was one."
+    },
+    {
+      "id": "BlackWingHoleFaust",
+      "name": "Black Umbrella",
+      "desc": "- Max Stack: 5",
+      "summary": ""
+    },
+    {
+      "id": "BulletWoundHole",
+      "name": "Gunshot Wound",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletHole",
+      "name": "Ashen Bullet",
+      "desc": "- Unique Ammo\n- Max Capacity: 5\n- This Ammo cannot be gained or raised due to external effects, excluding the \"Hollow\" E.G.O Skill",
+      "summary": ""
+    },
+    {
+      "id": "BlackWingHole",
+      "name": "Black Wings",
+      "desc": "- Max Stack: 12\n- Turn Start: Gain (Stack / 4) Charge Count (rounded down)\n- Turn Start: Gain 1 Offense Level Up for every 4 Stacks\n- This unit's Skills that gain or consume Charge or Poise deal +(Stack)% damage",
+      "summary": ""
+    },
+    {
+      "id": "OathFieldDonQuixote",
+      "name": "Sanctum of Conservation",
+      "desc": "- Max Stack: 5\n- Apply the following effect on all allied Identities:\n  · On Skill Use, each ally gains Shield equal to (Preservation Potency on Don Quixote x 2)% of their respective max HP (once per turn, max 10%)\n\n- Apply the following effects on all \"Le Noir\" allied Identities:\n  · Offense Level +(Preservation Potency on Don Quixote / 3) (rounded down; max 2)\n  · Defense Level +(Preservation Potency on Don Quixote / 2) (rounded down; max 3)\n\n- Apply the following effects on all enemies:\n  · Min & Max Speed -1 (this effect cannot reduce Min & Max Speed below 1)\n  · Stagger Threshold raised by Tremor Burst +10%\n  · Take +10% damage from Skills that consume Charge Count or Unique Charge (from \"Le Noir\" allied Identities' Skills, take +20% damage instead)\n\n- Turn End: Lose 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "A sanctuary in which the value of conservation pursued by Le Noir is preserved. Within it, the Noirs' preservative actions are retained to their benefit. It is a realm of eternal conservation—a place that stirs the drive to infinitely approach death."
+    },
+    {
+      "id": "NoirShieldUpDonQuixote",
+      "name": "Blessing of the Obsidian God",
+      "desc": "- Max Stack: 100\n- Turn Start: Gain Shield equal to (Stack / 5)% of this unit's max HP (rounded down)\n- At 25+ Stack, On Base Attack Skill Use, convert all Coins into Unbreakable Coins\n- At 40+ Stack, this unit cannot be Staggered (excluding forced Staggers)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Obsidian God. The Obsidian Giant. The Chaplain of the Hammer. The Obsidian God of the Grand Magasin, whose domain is the power of preservation, grants his blessing through direct contact. The hammer is hard, and its black hue absorbs all things and brings them to a halt... much like death itself."
+    },
+    {
+      "id": "NoirNailDonQuixote",
+      "name": "Promised Nail",
+      "desc": "- Max Stack: 30\n- Upon Tremor Burst due to Skill effects, take 1 Sloth damage for every Stack (max 10; once per Skill)\n- Turn End: At 4+ Stack, gain 1 Bind next turn\n- Turn Start: If Haute Couture::Le Noir Brand Manager Don Quixote is not on the field, expires",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The promised hammer is bound by promise to drive in a nail. Therefore, whenever the hammer falls, a nail must exist there... even if there is none."
+    },
+    {
+      "id": "PersonalityCombustion",
+      "name": "Burn Identity",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityLaceration",
+      "name": "Bleed Identity",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalityBurst",
+      "name": "Rupture Identity",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PersonalitySinking",
+      "name": "Sinking Identity",
+      "desc": "",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Tiphereth_Heads",
+      "name": "Tiphereth's Expectation",
+      "desc": "- All of this unit's Skill Coins have a 100% chance to flip Heads (this effect takes precedence over the Skills, Passives, and other effects of this unit)\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Tiphereth_Tails",
+      "name": "Tiphereth's Expectation [Mirrored]",
+      "desc": "- All of this unit's Skill Coins have a 100% chance to flip Tails (this effect takes precedence over the Skills, Passives, and other effects of this unit)\n- Expires at Turn End",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SewingKingMark",
+      "name": "Mark of the King of Needleworks",
+      "desc": "- Max Stack: 1\n- Take +20% damage from \"Sisyphe\" Identities\n- Turn End: Gain 1 Bind next turn\n- Turn End: Take fixed damage equal to 5% of HP damage (including Shield damage) taken from the Sinners' Skills\n- On death, deal fixed damage equal to 10% of this unit's max HP on 1 random ally (in Focused Encounters, a Part)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HungrySinclair",
+      "name": "Relentless Hunger",
+      "desc": "- Max Stack: 150\n- Can gain up to 50 Stacks per turn",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransformSinclair",
+      "name": "Noble Dignity",
+      "desc": "Gain all of the following effects based on Pulsation Potency on self:\n- 2+: Take -25% damage from Bleed\n- 3+: Base Skills inflict +1 more Bleed Potency and Count\n- 4+: Base Skill Base Power +1\n\n- Min & Max Speed +1\n- When this unit takes damage that brings its HP down to 0, this unit's HP does not drop below 1 for the turn (once per Encounter)\n\n- Apply the following effects to \"Le Rouge\" allied Identities (including this unit):\n  · Min & Max Speed +1\n  · If there is not enough Charge Count to activate the effects of Skills that consume Charge Count, consume 1 Buffet to gain 1 Charge Count for every missing Charge Count required for activation",
+      "summary": "Strengthen Base Skills under certain conditions",
+      "undefined": "-"
+    },
+    {
+      "id": "BoneNailSinclair",
+      "name": "L'Abject",
+      "desc": "- Unique Bleed\n- Max Stack: 5\n- Take +2% damage from \"Le Rouge\" Identities for every Stack (max 10%)\n- Turn Start: Gain +1 Bleed Count\n- Turn End: Gain (Stack / 2) Bind next turn (rounded down)\n- Turn Start: If Haute Couture::The Crimson God of Le Rouge Sinclair is not on the field, this effect expires",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BuffetSinclair",
+      "name": "Uncontrollable Rampage",
+      "desc": "- Max Stack: 3\n- Offense Level +1 for every Stack (max 3)\n- Min & Max Speed +1\n- Deal +1% damage for every Bleed on self (max 15%)\n\n- Cannot become Staggered (excluding forced Stagger)\n- Take -50% damage from Bleed\n- Cannot be defeated by Bleed damage\n\n- On Base Attack Skill Use, gain +3 Bleed Count\n- On Base Attack Skill Hit, gain Bleed equal to Uncontrollable Rampage Stack\n\n- Turn End: Lose 1 Count",
+      "summary": "On Base Attack Skill Use, gain Bleed Count\nOn Base Attack Skill Hit, gain Bleed equal to Uncontrollable Rampage Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "DinnerField",
+      "name": "Buffet",
+      "desc": "- Max Value: 999\n- This value is increased by (actual HP healed / 10) whenever allies' or enemies' HP is healed on the field\n · Max 100 per instance of healing\n · Rounded up for each instance\n · Healing from E.G.O Gifts does not count\n\n- This value is shared by all characters\n- Resets when moving to a different zone",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Buffet of flesh and meat is served. Let this be a feasting hall for all."
+    },
+    {
+      "id": "BuffetFriendShield",
+      "name": "Attending the Divine",
+      "desc": "- Unique Assist Defense\n- Max Stack: 1\n\n- When Haute Couture::The Crimson God of Le Rouge Sinclair is about to take an Unopposed Attack from an enemy, consume 1 Stack to redirect the enemy's targeting to self\n · Then, copy and use Haute Couture::The Crimson God of Le Rouge Sinclair's \"La Garde\"\n- When there are multiple allies that have Assist Defense Stacks, the ally that has the highest Stack has the highest activation priority\n- This effect counts as Assist Defense, and is counted toward calculating Assist Defense Stacks\n\n- Turn End: This effect expires",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Let us attend to our new God."
+    },
+    {
+      "id": "BuffetThirst",
+      "name": "Desperate Hunger",
+      "desc": "- Offense Level +2\n\n- At Coin Start of a Base Attack Skill used against an enemy, consume 1 Charge Count to deal +5% damage\n · Skills that inflict Bleed Potency or Count deal +10% damage instead (including Unique Bleed)\n · At 1+ Buffet Value on the field, if this unit is not at max Charge Count, consume 1 Buffet to gain +1 Charge Count\n · If both Charge Count and Buffet are at 0, consume 1% HP on self instead to activate the effect (rounded down; damage dealt by this effect does not Stagger or reduce this unit's HP below 1; activates even at 1 HP)\n\n- Turn End: This effect expires",
+      "summary": "Consume Charge Count to deal more damage",
+      "undefined": "-",
+      "flavor": "The sharper one hungers, the fiercer the desperation.\nThe further one is driven, the deeper the longing."
+    },
+    {
+      "id": "RougeFamilySinclair",
+      "name": "Crimson Cradle",
+      "desc": "When conditions are met by other \"Le Rouge\" allies, activate corresponding effects for Haute Couture::The Crimson God of Le Rouge Sinclair\n- Effects remain active even if the corresponding ally is defeated",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }

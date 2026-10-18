@@ -2,55 +2,55 @@
   "dataList": [
     {
       "id": "ADDITIONAL_START_COST",
-      "description": "+{0} к начальным <color=#dd0000>Жетонам</color>"
+      "description": "+{0} к начальным <color=#627eff>Жетонам</color>"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_SLOT",
-      "description": "+{0} к количеству <color=#dd0000>Тематических наборов</color> на выбор"
+      "description": "+{0} к количеству <color=#627eff>Тематических наборов</color> на выбор"
     },
     {
       "id": "ADDITIONAL_SHOP_EGO_GIFT_SLOT",
-      "description": "+{0} к количеству <color=#dd0000>Даров ЭГО в магазине</color>"
+      "description": "+{0} к количеству <color=#627eff>Даров ЭГО в магазине</color>"
     },
     {
       "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE",
-      "description": "{0} бесплатное <color=#dd0000>Обновление магазина</color>"
+      "description": "{0} бесплатное <color=#627eff>Обновление магазина</color>"
     },
     {
       "id": "ADDITIONAL_START_COST_TEXT_HIGHLIGHT",
-      "description": "<color=#dd0000>+{0}</color> к начальным <color=#f8c200>Жетонам</color> "
+      "description": "<color=#627eff>+{0}</color> к начальным <color=#f8c200>Жетонам</color> "
     },
     {
       "id": "FREE_SHOP_REFRESH_EGO_GIFT_ONCE_TEXT_HIGHLIGHT",
-      "description": "<color=#f8c200>{0}</color> бесплатных <color=#dd0000>Обновлений магазина</color>"
+      "description": "<color=#f8c200>{0}</color> бесплатных <color=#627eff>Обновлений магазина</color>"
     },
     {
       "id": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR",
-      "description": "При переходе на следующий этаж увеличивает ваши <color=#dd0000>Жетоны</color> на {0}% (Макс. {1})"
+      "description": "При переходе на следующий этаж увеличивает ваши <color=#627eff>Жетоны</color> на {0}% (Макс. {1})"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE",
-      "description": "Увеличивает <color=#dd0000>Прибыль при продаже Даров ЭГО</color> на {0}% (Один раз за магазин)"
+      "description": "Увеличивает <color=#627eff>Прибыль при продаже Даров ЭГО</color> на {0}% (Один раз за магазин)"
     },
     {
       "id": "ADDITIONAL_COST_RATE_ON_CLEAR_FLOOR_TEXT_HIGHLIGHT",
-      "description": "При переходе на следующий этаж увеличивает ваши <color=#dd0000>Жетоны</color> на <color=#f8c200>{0}%</color> (Макс. <color=#f8c200>{1}</color>)"
+      "description": "При переходе на следующий этаж увеличивает ваши <color=#627eff>Жетоны</color> на <color=#f8c200>{0}%</color> (Макс. <color=#f8c200>{1}</color>)"
     },
     {
       "id": "ADDITIONAL_SHOP_SELL_EGO_GIFT_COST_RATE_ONCE_TEXT_HIGHLIGHT",
-      "description": "Увеличивает <color=#dd0000>Прибыль при продаже Даров ЭГО</color> на <color=#f8c200>{0}%</color> (Один раз за магазин)"
+      "description": "Увеличивает <color=#627eff>Прибыль при продаже Даров ЭГО</color> на <color=#f8c200>{0}%</color> (Один раз за магазин)"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_REFRESH",
-      "description": "+{0} к количеству <color=#dd0000>Обновлений тематических наборов</color>"
+      "description": "+{0} к количеству <color=#627eff>Обновлений тематических наборов</color>"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_SELECT_NEW_FLOOR_THEME",
-      "description": "Выбрав новый тематический набор в первый раз, все Личности получают {0} <color=#dd0000>Уровня</color> (Макс. 9)"
+      "description": "Выбрав новый тематический набор в первый раз, все Личности получают {0} <color=#627eff>Уровня</color> (Макс. 9)"
     },
     {
       "id": "ADDITIONAL_FLOOR_THEME_REFRESH_TEXT_HIGHLIGHT",
-      "description": "+{0}</color> к количеству <color=#dd0000>Обновлений тематических наборов</color>"
+      "description": "+{0}</color> к количеству <color=#627eff>Обновлений тематических наборов</color>"
     },
     {
       "id": "GiveBuffOnRSOnNewFloorTheme",
@@ -62,7 +62,7 @@
     },
     {
       "id": "ADDITIONAL_START_EGO_GIFT_SELECT",
-      "description": "+{0} к количеству начальных <color=#dd0000>Даров ЭГО</color>"
+      "description": "+{0} к количеству начальных <color=#627eff>Даров ЭГО</color>"
     },
     {
       "id": "ACQUIRE_COST_AFTER_SELECT_STARLIGHT_BATTLE_REWARD",
@@ -70,15 +70,15 @@
     },
     {
       "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE",
-      "description": "+{0}% к количеству <color=#dd0000>Жетонов</color> за бой"
+      "description": "+{0}% к количеству <color=#627eff>Жетонов</color> за бой"
     },
     {
       "id": "ADDITIONAL_SHOP_HIGH_TIER_EGO_GIFT_CHANCE",
-      "description": "<color=#dd0000>Увеличивает шанс появления Даров ЭГО высокого ранга</color> в магазине"
+      "description": "<color=#627eff>Увеличивает шанс появления Даров ЭГО высокого ранга</color> в магазине"
     },
     {
       "id": "ADDITIONAL_COST_AFTER_WIN_BATTLE_TEXT_HIGHLIGHT",
-      "description": "<color=#f8c200>+{0}%</color> к количеству <color=#dd0000>Жетонов</color> за бой"
+      "description": "<color=#f8c200>+{0}%</color> к количеству <color=#627eff>Жетонов</color> за бой"
     },
     {
       "id": "ACQUIRE_COST_BY_EGOGIFT_TIER_TOTAL_ON_ENTER_SHOP",
@@ -86,19 +86,19 @@
     },
     {
       "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE",
-      "description": "{0} бесплатное <color=#dd0000>Обновление магазина по ключевым словам</color>"
+      "description": "{0} бесплатное <color=#627eff>Обновление магазина по ключевым словам</color>"
     },
     {
       "id": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "При входе на 1 этаж даёт {0} случайный <color=#dd0000>Дар ЭГО</color> 1 ранга"
+      "description": "При входе на 1 этаж даёт {0} случайный <color=#627eff>Дар ЭГО</color> 1 ранга"
     },
     {
       "id": "FREE_SHOP_KEYWORD_REFRESH_EGO_GIFT_ONCE_TEXT_HIGHLIGHT",
-      "description": "<color=#f8c200>{0}</color> бесплатных <color=#dd0000>Обновлений магазина по ключевым словам</color>"
+      "description": "<color=#f8c200>{0}</color> бесплатных <color=#627eff>Обновлений магазина по ключевым словам</color>"
     },
     {
       "id": "ACQUIRE_1_TIER_RANDOM_EGO_GIFT_ON_ENTER_1ST_FLOOR_TEXT_HIGHLIGHT",
-      "description": "При входе на 1 этаж даёт <color=#f8c200>{0}</color> случайных <color=#dd0000>Даров ЭГО</color> 1 ранга"
+      "description": "При входе на 1 этаж даёт <color=#f8c200>{0}</color> случайных <color=#627eff>Даров ЭГО</color> 1 ранга"
     },
     {
       "id": "ADDITIONAL_ENHANCED_SHOP_APPEARANCE_PROB",
@@ -106,15 +106,15 @@
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_1ST_FLOOR",
-      "description": "При входе на 1 этаж все Личности получают {0} <color=#dd0000>Уровня</color>"
+      "description": "При входе на 1 этаж все Личности получают {0} <color=#627eff>Уровня</color>"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR",
-      "description": "При прохождении этажа все Личности получают {0} <color=#dd0000>Уровень</color> (Макс. {1})"
+      "description": "При прохождении этажа все Личности получают {0} <color=#627eff>Уровень</color> (Макс. {1})"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_CLEAR_FLOOR_TEXT_HIGHLIGHT",
-      "description": "При прохождении этажа все Личности получают {0} <color=#dd0000>Уровень</color> (Макс. <color=#f8c200>{1}</color>)"
+      "description": "При прохождении этажа все Личности получают {0} <color=#627eff>Уровень</color> (Макс. <color=#f8c200>{1}</color>)"
     },
     {
       "id": "ADDITIONAL_PERSONALITY_LEVEL_ON_ENTER_6TH_FLOOR",
@@ -122,71 +122,71 @@
     },
     {
       "id": "MaxSpeedUpAdder",
-      "description": "+{0} к <color=#dd0000>максимальной Скорости</color>"
+      "description": "+{0} к <color=#627eff>максимальной Скорости</color>"
     },
     {
       "id": "GiveBuffOnRoundStart",
-      "description": "Накладывается {2} <color=#dd0000>{1}</color>"
+      "description": "Накладывается {2} <color=#627eff>{1}</color>"
     },
     {
       "id": "MaxSpeedUpAdder_TEXT_HIGHLIGHT",
-      "description": "<color=#f8c200>+{0}</color> к <color=#dd0000>максимальной Скорости</color>"
+      "description": "<color=#f8c200>+{0}</color> к <color=#627eff>максимальной Скорости</color>"
     },
     {
       "id": "GiveBuffOnRoundStart_TEXT_HIGHLIGHT",
-      "description": "Накладывается <color=#f8c200>{2}</color> <color=#dd0000>{1}</color>"
+      "description": "Накладывается <color=#f8c200>{2}</color> <color=#627eff>{1}</color>"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP",
-      "description": "При входе в магазин даёт {0} <color=#dd0000>«Дар ЭГО только для слияния или продажи»</color> 3 ранга или меньше"
+      "description": "При входе в магазин даёт {0} <color=#627eff>«Дар ЭГО только для слияния или продажи»</color> 3 ранга или меньше"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3RD_FLOOR",
-      "description": "При входе на 3 этаж даёт {0} случайный <color=#dd0000>Дар ЭГО</color> 3 ранга"
+      "description": "При входе на 3 этаж даёт {0} случайный <color=#627eff>Дар ЭГО</color> 3 ранга"
     },
     {
       "id": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE",
-      "description": "При слиянии в 3 ранг или больше дополнительно даёт <color=#dd0000>Случайный Дар ЭГО</color> на 2 ранга ниже результата слияния (Один раз за магазин)"
+      "description": "При слиянии в 3 ранг или больше дополнительно даёт <color=#627eff>Случайный Дар ЭГО</color> на 2 ранга ниже результата слияния (Один раз за магазин)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP_2",
-      "description": "При входе в магазин даёт 1 <color=#dd0000>«Дар ЭГО только для слияния или продажи»</color>\n<color=#f8c200>· До 6 этажа: 3-1 ранга\n· После: 3-2 ранга</color>"
+      "description": "При входе в магазин даёт 1 <color=#627eff>«Дар ЭГО только для слияния или продажи»</color>\n<color=#f8c200>· До 6 этажа: 3-1 ранга\n· После: 3-2 ранга</color>"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_MATERIAL_EGO_GIFT_ON_ENTER_SHOP_3",
-      "description": "При входе в магазин даёт 1 <color=#dd0000>«Дар ЭГО только для слияния или продажи»</color>\n<color=#f8c200>· До 6 этажа: 3-2 ранга\n· После: 4-3 ранга</color>"
+      "description": "При входе в магазин даёт 1 <color=#627eff>«Дар ЭГО только для слияния или продажи»</color>\n<color=#f8c200>· До 6 этажа: 3-2 ранга\n· После: 4-3 ранга</color>"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_EGO_GIFT_ON_ENTER_3F_5F",
-      "description": "При входе на 3 <color=#f8c200>и 5 этажи</color> даёт 1 <color=#dd0000>Дар ЭГО</color> 3 ранга <color=#f8c200>начальной ключевой категории</color>"
+      "description": "При входе на 3 <color=#f8c200>и 5 этажи</color> даёт 1 <color=#627eff>Дар ЭГО</color> 3 ранга <color=#f8c200>начальной ключевой категории</color>"
     },
     {
       "id": "ACQUIRE_4_TIER_RANDOM_EGO_GIFT_ON_ENTER_3F_5F_7F",
-      "description": "При входе на 3<color=#f8c200>, 5 и 7 этажи</color> даёт {0} <color=#dd0000>Дар ЭГО</color> <color=#f8c200>4 ранга</color> <color=#f8c200>начальной ключевой категории</color>"
+      "description": "При входе на 3<color=#f8c200>, 5 и 7 этажи</color> даёт {0} <color=#627eff>Дар ЭГО</color> <color=#f8c200>4 ранга</color> <color=#f8c200>начальной ключевой категории</color>"
     },
     {
       "id": "ACQUIRE_LOWER_TIER_RANDOM_EGO_GIFT_ON_COMBINE_1",
-      "description": "При слиянии в 3 ранг или больше дополнительно даёт <color=#dd0000>Случайный Дар ЭГО</color> на <color=#f8c200>1 ранг</color> ниже результата слияния (Один раз за магазин)"
+      "description": "При слиянии в 3 ранг или больше дополнительно даёт <color=#627eff>Случайный Дар ЭГО</color> на <color=#f8c200>1 ранг</color> ниже результата слияния (Один раз за магазин)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "При входе даёт выбрать {0} из 3 <color=#dd0000>Даров ЭГО</color> 3 ранга начального ключевого слова (Если подходящих Даров не осталось, появится Дар на ранг ниже)"
+      "description": "При входе даёт выбрать {0} из 3 <color=#627eff>Даров ЭГО</color> 3 ранга начального ключевого слова (Если подходящих Даров не осталось, появится Дар на ранг ниже)"
     },
     {
       "id": "ACQUIRE_3_TIER_RANDOM_KEYWORD_EGO_GIFT_ON_ENTER_1ST_FLOOR_TEXT_HIGHLIGHT",
-      "description": "При входе даёт выбрать <color=#f8c200>{0}</color> из 3 <color=#dd0000>Даров ЭГО</color> 3 ранга начального ключевого слова (Если подходящих Даров не осталось, появится Дар на ранг ниже)"
+      "description": "При входе даёт выбрать <color=#f8c200>{0}</color> из 3 <color=#627eff>Даров ЭГО</color> 3 ранга начального ключевого слова (Если подходящих Даров не осталось, появится Дар на ранг ниже)"
     },
     {
       "id": "ACQUIRE_1_TIER_MATERIAL_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "При входе даёт 1 <color=#dd0000>Dark Vestige</color>"
+      "description": "При входе даёт 1 <color=#627eff>Dark Vestige</color>"
     },
     {
       "id": "ACQUIRE_12_TIER_MATERIAL_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "При входе даёт 1 <color=#dd0000>Dark Vestige</color> и 1 <color=#f8c200>Faint Vestige</color>"
+      "description": "При входе даёт 1 <color=#627eff>Dark Vestige</color> и 1 <color=#f8c200>Faint Vestige</color>"
     },
     {
       "id": "ACQUIRE_123_TIER_MATERIAL_EGO_GIFT_ON_ENTER_1ST_FLOOR",
-      "description": "При входе даёт 1 <color=#dd0000>Dark Vestige</color>,1 <color=#f8c200>Faint Vestige и 1 Twinkling Vestige</color>"
+      "description": "При входе даёт 1 <color=#627eff>Dark Vestige</color>,1 <color=#f8c200>Faint Vestige и 1 Twinkling Vestige</color>"
     }
   ]
 }

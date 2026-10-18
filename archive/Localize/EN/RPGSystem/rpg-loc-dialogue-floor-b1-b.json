@@ -1,0 +1,3821 @@
+{
+  "dataList": [
+    {
+      "key": "D-1006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*gulp* *gulp* *glhhrrrk*",
+          "speaker": "Thirsty Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "5 hour rule, man... It's still food... Finders keepers...",
+          "speaker": "Hungry Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*glhhrrrk* *glhhrrrk*",
+          "speaker": "Hungry Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They appear occupied with arranging the fabric."
+        }
+      ]
+    },
+    {
+      "key": "D-1054",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Oh. You have brought a most precious thing indeed.",
+          "speaker": "Le Noir Porter"
+        },
+        {
+          "index": 1,
+          "text": "May your descent be untroubled, Strangers.",
+          "speaker": "Le Noir Porter"
+        }
+      ]
+    },
+    {
+      "key": "D-1055",
+      "texts": [
+        {
+          "index": 0,
+          "text": "May your descent be untroubled, Strangers.",
+          "speaker": "Le Noir Porter"
+        }
+      ]
+    },
+    {
+      "key": "D-1056",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Should've brought another pair of hands...",
+          "speaker": "Le Rouge Porter"
+        },
+        {
+          "index": 1,
+          "text": "Who the hell are you people?",
+          "speaker": "Le Rouge Porter"
+        },
+        {
+          "index": 2,
+          "text": "<Are you waiting for something here?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "We are curious as to what you are awaiting here.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "Need to strip the Hides from B3 and haul 'em back. Don't know why, but supplies haven't been coming through lately—",
+          "speaker": "Le Rouge Porter"
+        },
+        {
+          "index": 5,
+          "text": "...! Wait. Shh... I can hear the Voice again!",
+          "speaker": "Le Rouge Porter"
+        },
+        {
+          "index": 6,
+          "text": "The Rouge porter shoved past us, pressed themself against the wall, and broke into a blissful grin."
+        }
+      ]
+    },
+    {
+      "key": "D-1057",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They are pressed against the wall with a blissful grin."
+        }
+      ]
+    },
+    {
+      "key": "D-1201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Felt lucky for a minute there; thought I'd get to rest after breezing through the fifth floor... So much for that, huh? Ah, well.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Everyone raised hell when we popped right back into the restroom so soon after leaving. Something about uneven workload, floor lottery, and all that...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "And meanwhile, Yi Sang was looking downright glum because he felt he hadn't done enough. Hah.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<How are things in the restroom?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Same as ever, I'd say. Don Quixote's regaling everyone with her grand adventures... telling them all about Pwie here, too...",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Compared to when we first encountered them, Pwie has become...",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Become?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "... Closer to you.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "I could not tell whether Faust meant the physical distance between us, or our camaraderie, so to speak..."
+        },
+        {
+          "index": 3,
+          "text": "<Yeah. I suppose we have.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "All right, then... So this lineup's supposed to track down the Leather Hall somewhere on the basement floors, huh?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<Right. We need to have clothes made for Pwie...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-5",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Faust"
+        },
+        {
+          "index": 1,
+          "text": "<Why are you looking at me like that?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "You appear to be proceeding with conviction.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "You are <i>confident</i> that this course of action—and no other—is the necessary one for the mission to advance according to plan.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "I didn't know how much longer I could continue hiding the truth from the Sinners..."
+        },
+        {
+          "index": 6,
+          "text": "But even so, my judgment remained unchanged: it was better not to tell them about the Liquidation for the time being."
+        },
+        {
+          "index": 7,
+          "text": "Some Sinners seemed to have caught on to it in their own ways, but... I'd say none of them could recall it with the same terrible clarity as Meursault and I."
+        },
+        {
+          "index": 8,
+          "text": "Aside from the gnawing unease in my gut, there was also that cryptic warning that the lady in the restroom gave us—until I fully understand what she meant, I can't share this with the rest of the team."
+        },
+        {
+          "index": 9,
+          "text": "<We need Meursault to \"define\" the escalator again to go down to B2. But I doubt that's all there is to it.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... No, Manager. We will also require the cocoon... that advanced toward the center and emitted light.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "The sole benefit of running in a loop... was that I could get my bearings far more quickly than I would've been able to otherwise."
+        }
+      ]
+    },
+    {
+      "key": "D-1201-7",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... What's a cocoon?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Yeah, what's this \"cocoon\" supposed to mean, Manager Bud?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-8",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Now I'm getting the same question in stereo...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "It is the mechanism required for us to continue our descent belowground.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Right... And this is something you learned up on one of the higher floors?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "<Well... more or less.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "... I see. But what's a bug got to do with getting an escalator running?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "<.......>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "... I'm not the only one wondering that, am I? Am I?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 8,
+          "text": "I know where it is located.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 9,
+          "text": "Taking the relative location of the escalator we are facing as our point of reference, it should be stored in the butcher shop's storage area to the southeast.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "... Th-that's awfully precise, isn't it? Huh. I don't think even Frau Faust has ever dropped a location on us down to the compass point like that.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 11,
+          "text": "The two methods are categorically dissimilar, so comparing this to Faust's process is irrational. A more accurate characterization would be...",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-9",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<H-he just did a very thorough job asking around. That's all.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-10",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Well, whatever got us there, we've got a straight road ahead. Let's take it.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-11",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Think they might be Noirs?",
+          "speaker": "Thirsty Kaki"
+        },
+        {
+          "index": 1,
+          "text": "No! Look at that wallet—they've got to be the Rouges!",
+          "speaker": "Hungry Kaki"
+        },
+        {
+          "index": 2,
+          "text": "Either way, they're clearly in higher tiers than us...",
+          "speaker": "Thirsty Kaki"
+        },
+        {
+          "index": 3,
+          "text": "Th-they saw us. Should we run?",
+          "speaker": "Hungry Kaki"
+        },
+        {
+          "index": 4,
+          "text": "No. They're obviously loaded. Maybe they'd be willing to give us a few eyeballs...",
+          "speaker": "Thirsty Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-12",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Why are they scared of us?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Probably because we don't look anything like them. The air down here is different from the upper floors... more like the Backstreets, if I had to make a comparison...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "<Normally, we'd stop those two and squeeze whatever information we could out of them...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "But this time, we already know where the cocoon is. Which means..."
+        },
+        {
+          "index": 4,
+          "text": "<... Let's leave them alone and collect the Ruminations of the Prey.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-13",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Understood.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-13A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They're ignoring us... Good... Keep your eyes down. Don't give them a reason to look back...",
+          "speaker": "Thirsty Kaki"
+        },
+        {
+          "index": 1,
+          "text": "J-just hurry up and go away...",
+          "speaker": "Hungry Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-13B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "To spare myself another volley of identical questions, I lowered my voice to a whisper..."
+        },
+        {
+          "index": 1,
+          "text": "... And led everyone straight past the residents muttering in our wake."
+        }
+      ]
+    },
+    {
+      "key": "D-1201-14",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What are they all shoveling into their mouths like that?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "It is Meat Soda.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1201-15",
+      "texts": [
+        {
+          "index": 0,
+          "text": "\"Meat Soda\"?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "\"Meat Soda\"?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "... The cheapest available foodstuff, consumed solely to suppress hunger. It recreates... flavors retained in the consumer's memory.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "Meursault somehow looked a fraction more tired than usual as the question marks kept on multiplying."
+        }
+      ]
+    },
+    {
+      "key": "D-1201-16",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Maybe we can find something down here that Pwie can actually eat?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1205",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Boucher! Boucher!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "... You brought strangers with you. What is it, Head Chef?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 2,
+          "text": "It's Sous Chef; not Head Chef, you hear? I got promoted last time, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "*sigh*... Yes. You were promoted from Sous Chef to Head Chef.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 4,
+          "text": "But Sous Chef sounds fancier, you hear? Which means I was promoted to Sous Chef, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "... Why have you come here, Sous Chef?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 6,
+          "text": "These strangers... they said they'd contribute... <i>that</i>... to our soda, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 7,
+          "text": "... Stop braising the sentence and serve it already. What ingredient is it?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 8,
+          "text": "Ruminations of the Prey! The ingredient Boucher is always talking about... you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 9,
+          "text": "... Ruminations of the Prey?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 10,
+          "text": "Ah... I remember that cut of meat. Its flavor was nothing short of ecstatic.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 11,
+          "text": "So, speak then, strangers. What do you want in exchange?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 12,
+          "text": "We demand a dish cooked with the Golden Cocoon—a larva that has stranded ashore.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 13,
+          "text": "Hah. You speak as though you already know there's a living larva squirming in my storage.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 14,
+          "text": "Is the flambé-head over there your Head Chef?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 15,
+          "text": "... You could say that.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 16,
+          "text": "You don't strike me as the sort to bluff about ingredients. Very well—a bargain it is.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 17,
+          "text": "Handed over the \"Ruminations of the Prey\" to Boucher."
+        },
+        {
+          "index": 18,
+          "text": "Now that is what I call \"downright delectable.\"",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 19,
+          "text": "This should give me something to feed everyone to the point of bursting—and maybe even beyond that—for seasons to come.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 20,
+          "text": "Look at that meaty juice, you hear...? Looks so yummy, so sweet, you hear? Getting to eat this is like a dream on a plate, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 21,
+          "text": "Sous Chef. Bring a larva from the storage and give it to them.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 22,
+          "text": "On it, Boucher, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 23,
+          "text": "And no secretly sampling any ingredients like last time.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 24,
+          "text": "That was just quality control to check how fresh they were, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 25,
+          "text": "You, waity-waity here, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-12052",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Something happen? Why the long face?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "A full-blown disaster... you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "The one and only surviving larva in storage—it's escaped, you hear...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": " <This... isn't how things went last time...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "<... Those things can run away?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 6,
+          "text": "The only obvious difference from before... was that we had reached B1 much sooner."
+        },
+        {
+          "index": 7,
+          "text": "Well, not the <i>only</i> difference, strictly speaking, I guess..."
+        },
+        {
+          "index": 8,
+          "text": "<What now...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": "... Maybe you should've kept a closer eye on your inventory. Don't you work here?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 10,
+          "text": "I... I did keep a proper track, you hear...? Something is just strange, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 11,
+          "text": "Strange enough to spook the fizz off the soda, you hear...? There aren't any ways out of the storage unless you can pass through the walls, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "But... it did get out... Does that mean it can pass through walls...?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 13,
+          "text": "I have no idea, you hear...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "*whimper* If Boucher ever finds out... I'm going to get demoted to Sous Chef from Sous Chef, you hear? Then I'll be scraping by on watery soda skimmed from the top layer again, you hear...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 15,
+          "text": "Where can we find the larva?",
+          "speaker": "Faust"
+        },
+        {
+          "index": 16,
+          "text": "There's only one place an escaped larva would run to, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 17,
+          "text": "The Shore.",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "But you must hurry, you hear? That larva's gone there to die while listening to the waves, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 19,
+          "text": "Are you saying there's a <i>beach</i> down here?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 20,
+          "text": "<Oh, then that must be where the sand leaking from the opening on the right came from...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 21,
+          "text": "Pass through the fish market to find the Shore, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 22,
+          "text": "You go now bring the larva back, you hear? Dead larva is useless, you hear? It has to stay alive, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 23,
+          "text": "Bring the larva back alive, and Boucher will cook it to perfection, you hear? Sizzle sizzle, simmer simmer...",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1206",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Is this... the Shore?>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1206-1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<They're... uh.... fishing, it looks like. Technically.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1206-2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It smells odd.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-1206-3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The sound of surf brings with it the smell of putrefaction.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1206-4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Almost convincing, isn't it? Shut your eyes, and you could almost imagine yourself at a seaside resort... right up until the smell punches you in the nose.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "You all look a little happier. Why?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "Well... 'cause vacations and trips are the first things that spring to mind when it comes to beaches, I suppose?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "<The water at this beach is... uh, black, though.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1206-5",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The substance does not conform to the physical characteristics of water either.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1206-6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What are those things floating out there?",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-12061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Larvae trying to sink themselves back into the sea.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 1,
+          "text": "As you may know, everything springs forth from the sea. For larvae, once they've had their fill of living on land, they begin to long to return to the place they came from.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 2,
+          "text": "And those are the impatient ones, trying to hurry their return...",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 3,
+          "text": "Well, with some luck, you may still find one with breath clinging by a thread.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 4,
+          "text": "There's no way to tell, though, if a larva is washing ashore or being carried back out....",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 5,
+          "text": "... because they come from something that's even older than the Grand Magasin.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 6,
+          "text": "There, that one—it's still squirming.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-1207",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We approached the larva Pwie pointed at. It was drawing one thin, desperate breath after another."
+        },
+        {
+          "index": 1,
+          "text": "We located it considerably sooner than expected.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "Sous Chef wasn't exaggerating. A few minutes later and this one would've joined the rest bobbing out there in the water. I mean, it looks barely alive...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "<Yeah... It looks like it's running on fumes.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "Its range of movement has decreased markedly since the last time we saw it.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "I think it's hurting.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "Like how I was last time.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "<Pwie really knows how to guilt trip without meaning to...> ",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "I don't want to watch things hurting.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-12071",
+      "texts": [
+        {
+          "index": 0,
+          "text": "So. You found a stranded one on the beach.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 1,
+          "text": "I didn't think any still had breath to lose. Poor thing.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 2,
+          "text": "Keep your guard up. The Shore is crawling with starved residents who'd tear each other apart for that catch.",
+          "speaker": "Fisherman"
+        },
+        {
+          "index": 3,
+          "text": "Now then... which stinking fish will take the hook today...?",
+          "speaker": "Fisherman"
+        }
+      ]
+    },
+    {
+      "key": "D-1260",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... What...? That's... a larva... How did you...",
+          "speaker": "Thirsty Kaki"
+        },
+        {
+          "index": 1,
+          "text": "It's... breathing still. It's alive.",
+          "speaker": "Hungry Kaki"
+        },
+        {
+          "index": 2,
+          "text": "Hand it over... I'll trade you eyeballs. Anything...",
+          "speaker": "Thirsty Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1261",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Is this thing... worth its weight in gold down here?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "... We are not considering relinquishing the larva.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "That heavy gray broth... I could taste it again... Squeeze the juices straight from a living one...",
+          "speaker": "Thirsty Kaki"
+        },
+        {
+          "index": 3,
+          "text": "Chop, dice, stir-fry... tiny pulps, bursting with juices between my teeth... aah... I'm salivating.",
+          "speaker": "Hungry Kaki"
+        },
+        {
+          "index": 4,
+          "text": "Don't let them take it. They'll kill it.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "Wasn't planning on handing it over without a fight. Hm? Hold on. You're worried about the larva itself?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1208",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Then... we'll take it from you...",
+          "speaker": "Thirsty Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1209",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Glad you saved it in time, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1209B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A moment later and it would've become one with the sea, you hear? You were more lickety-split than I thought, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Now, Boucher will cook it to perfection like I said, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1209C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Uh, what's the holdup, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Uh, Pwie... Aren't you gonna let go?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "What's going to happen to it if I let go?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "It appears the larva will undergo a form of culinary processing.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": "I don't know what \"processing\" means. I just don't want it to hurt.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "Now this is awkward... Feels like taking a doll from a baby, except it's alive...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "Pwie clutched the larva in their two tiny hands, pressing it protectively against their chest."
+        }
+      ]
+    },
+    {
+      "key": "D-1209D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Meursault lowered himself onto one knee until he and Pwie were looking directly into one another's eyes."
+        },
+        {
+          "index": 3,
+          "text": "I do not lie.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "So I will tell you this:",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "Nothing bad will happen to it.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "... You hurt me before. You aren't going to hurt it too?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "No.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "Only after getting Meursault's reassurance did Pwie loosen their grip and carefully place the larva into Meursault's hands."
+        }
+      ]
+    },
+    {
+      "key": "D-1209E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "Did you go out foraging for it or something? What took you so long?",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 2,
+          "text": "There was a minor spill, but Sous Chef took care of it squeaky-clean, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "Bring it here. I'll prepare it.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 4,
+          "text": "... This thing must be quite an ingredient, from the way people went mad for it at the Fish Market... Thanks for letting us have it, pal.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Many misunderstand that cocoons are the favorite ingredient of us chefs, but a true practitioner of our vocation doesn't rely on cocoons. Cocoons may imitate any flavor imaginable... but that's it. Just deceiving the tongue into believing that the flavor is real.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 6,
+          "text": "I've grown tired of eating a lie. Here's what I'll do: I will take the finest, the most genuine ingredient and make of it the finest, the most genuine dish.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 7,
+          "text": "Okay, then... Let's get to it.",
+          "speaker": "Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1209F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A crimson screen dropped into place, leaving only Boucher's silhouette wavering behind a furnace-bright curtain of flame."
+        },
+        {
+          "index": 1,
+          "text": "The fire roared higher. Within it, the silhouette jerked and twisted with such violence that the entire screen trembled."
+        }
+      ]
+    },
+    {
+      "key": "D-1209G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Hey, champ. Staring at it's only gonna make you worry more. Why don't we step away and check out the fountain for a minute?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "It's all right. I want to keep watching. Besides...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "If he's not hurting it, then I <i>know</i> it's not in pain. No matter how it looks.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-1209H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Cuisine is served. Take it.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "No more business here, yes? Then piss off. I've work to do.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 2,
+          "text": "Won't let strangers get even a single bite of the Ruminations of the Prey, you hear? *slurp*",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1209I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What a cryin' shame. Not that I wanted a bite in the first place...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "... It's smaller now. Its shape changed.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "In place of the larva, a newly formed cocoon squirmed and pulsed."
+        },
+        {
+          "index": 3,
+          "text": "Now it needs a name.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "You... want to give the bug a name?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "They appear to have developed a significant emotional attachment to it.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Mhm. You call me \"Pwie.\" This one needs a name, too.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "... Well, your bug, your call. How about you pick whatever feels right?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 8,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 9,
+          "text": "... \"Wriggle.\"",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 10,
+          "text": "Wrigglewrigglewrigglewrigglewrigglewriggle... It's how it moves.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 11,
+          "text": "\"Wriggly\" should be an appropriate compression. Repeating \"wriggle\" six consecutive times is inefficient.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 12,
+          "text": "\"Wriggley.\" It's nice.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 13,
+          "text": "... And just like that, we gained a new companion by the name of Wriggley."
+        },
+        {
+          "index": 14,
+          "text": "It was, admittedly, a speechless insect prone to screaming incomprehensibly every once in a while, but..."
+        },
+        {
+          "index": 15,
+          "text": "Pwie's got their heart in the right place, caring for such a tiny thing as a bug, even... Yeah, kid's gonna grow into something special.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 16,
+          "text": "Gregor looked thoroughly pleased with this conclusion... for reasons known only to him."
+        }
+      ]
+    },
+    {
+      "key": "D-1209J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Our next stop is the escalator hall.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1213",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Then... this one.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "<Good. This one it is. Down we go.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1213B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "… Dante.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 1,
+          "text": "I assume you do not intend to explain the full basis of your decisions...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 2,
+          "text": "Nevertheless, your seeming prescience and unexpected familiarity with this place have not gone unnoticed.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "<…….>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "So far, I have generally kept the specific inferential chain behind my conclusions undisclosed...",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": "... and I am aware this has become a source of frustration for many of the Sinners—including yourself.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "... I believe I now understand a small portion of that frustration.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 7,
+          "text": "<Maybe the day will come when we can both talk to each other with all of our cards on the table.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 8,
+          "text": "Perhaps.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 9,
+          "text": "And... it has been some time since Faust's operational utility was reduced to so marginal a degree.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 10,
+          "text": "<... That's not true.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "<Faust has already more than pulled Faust's weight.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 12,
+          "text": "... I see. Yes, certainly... Faust... would have done so.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>So this escalator's finally been nailed down completely.</color>"
+        },
+        {
+          "index": 14,
+          "text": "<color=#ebcaa2>Now it'll forever stay as a ladder going downward.</color>"
+        },
+        {
+          "index": 15,
+          "text": "<color=#ebcaa2>Poor thing. Thrown over the edge to go down and never up... all for your sake, and it'll never even know why.</color>"
+        },
+        {
+          "index": 16,
+          "text": "<color=#ebcaa2>Until... as always... the Grand Magasin reaches its end.</color>"
+        },
+        {
+          "index": 17,
+          "text": "Meursault's expression did not change. Even so..."
+        },
+        {
+          "index": 18,
+          "text": "... I would prefer that you refrain from saying such things.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 19,
+          "text": "<color=#ebcaa2>Why? Did I strike too close to your mother?</color>"
+        },
+        {
+          "index": 20,
+          "text": "<color=#ebcaa2>Just remember—the entire reason your mother was here, and... the reason I'm still here... is to keep on nailing.</color>"
+        },
+        {
+          "index": 21,
+          "text": "Leaving Jeanne's voice echoing behind us, Meursault and I continued down toward B2."
+        }
+      ]
+    },
+    {
+      "key": "D-1225",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<... We did spend quite a lot of time down here...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "What've you got that faraway look for, Manager Bud?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1225B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Up, down, up, down... There are so many.",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-1225C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Man... Checking every last one would take us all day, even with Pwie pitching in.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<It's fine. We already learned the trick for getting down on the other floor.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "That is fortunate news. We are spared from having to unwillingly partake in an inefficient and methodologically unsound group scavenger hunt through each and every escalator in this chamber.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 3,
+          "text": "<... So that's what you were thinking earlier.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "…?",
+          "speaker": "Faust"
+        },
+        {
+          "index": 5,
+          "text": "We possess the Golden... correction, we possess Wriggley... And we know the definition required to establish the destination. The descent should present no further difficulty.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<... In that case...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1225D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Maybe we can let Pwie pick whichever escalator catches their eye.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1225E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... The escalator is merely a medium, Manager. The specific unit selected will not affect the result.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1225F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<I know. I just thought having a choice might make the whole thing more fun for Pwie.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "... I see.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "Pwie. Select the escalator you like best.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1225G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The one I like best? Like Wriggley...?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Correct. Choose the one you find yourself looking at the longest.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-1230",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…?",
+          "speaker": "Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1231",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Welcome back, you hear?!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1232",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Now then... which stinking fish will take the hook today...?",
+          "speaker": "Fisherman"
+        }
+      ]
+    },
+    {
+      "key": "D-1233",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What's taking her so long? She just needs to grab the larva from the storage and come back, right?",
+          "speaker": "Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1234",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Do you have further business down here?",
+          "speaker": "Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1235",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They look busy. Better not get too close."
+        }
+      ]
+    },
+    {
+      "key": "D-1236",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Strangers, wondering if you have eyeballs on you, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1240",
+      "texts": [
+        {
+          "index": 0,
+          "text": "No need to proceed to the Food Court now, Manager. We should inspect the meat hanging from the ceiling first.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1241",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A sign marked \"No Entry\" blocks the path leading downward."
+        },
+        {
+          "index": 1,
+          "text": "I can hear the faint sound of waves from the other side."
+        }
+      ]
+    },
+    {
+      "key": "D-1244",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The path ahead is thick with fishy odor and densely obstructed by fabric."
+        },
+        {
+          "index": 1,
+          "text": "For now, there seems to be no reason to force our way through."
+        }
+      ]
+    },
+    {
+      "key": "D-1250",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We examine the cut of meat hanging from the ceiling."
+        },
+        {
+          "index": 1,
+          "text": "A scrap of Golden Hide is lodged between the ribs. When peeled free, it quivers ever so softly in my hand."
+        },
+        {
+          "index": 2,
+          "text": "Obtained \"Ruminations of the Prey\"."
+        },
+        {
+          "index": 3,
+          "text": "<... Let's head to the Food Court. Best we save as much time as we can.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1251",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An ascending escalator with no end in sight. There is no telling where it might... My head's starting to spin. I should just stop thinking about it."
+        }
+      ]
+    },
+    {
+      "key": "D-1252",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A descending escalator whose depth is impossible to gauge. Perhaps its far end is sealed."
+        }
+      ]
+    },
+    {
+      "key": "D-1253",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An escalator that leads to a blocked wall."
+        },
+        {
+          "index": 1,
+          "text": "A staircase, a ladder, a hill, a shoe... I try repeating what Meursault said, but to me, it remains an inactive escalator going nowhere."
+        }
+      ]
+    },
+    {
+      "key": "D-1254",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Though only a small part of it has been trimmed, it's turned into a foul cut of spoiled meat."
+        }
+      ]
+    },
+    {
+      "key": "D-1256",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A sign blocks the path farther in."
+        }
+      ]
+    },
+    {
+      "key": "D-1291",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Sous Chef lies motionless on the ground."
+        },
+        {
+          "index": 1,
+          "text": "<... I don't feel good about this.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "I will now collect the Golden Hide, Manager.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Obtained Sous Chef's Golden Hide."
+        }
+      ]
+    },
+    {
+      "key": "D-1192",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... A shame. I promote her to Sous Chef, and out she goes.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "Now Food Court's Soda won't have the kick it needs for a while.",
+          "speaker": "Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1181",
+      "texts": [
+        {
+          "index": 0,
+          "text": "....."
+        },
+        {
+          "index": 1,
+          "text": ".....",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "....."
+        }
+      ]
+    },
+    {
+      "key": "D-1293",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Who's going to keep an eye on the soda now...?"
+        }
+      ]
+    },
+    {
+      "key": "D-1294",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Well, can't say that's an unreasonable reaction. Got any plans, Manager Bud?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<We may have to fight if nothing else works... But let's offer a trade first.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "What will you offer, Manager?",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1294A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "That... that is a very tempting offer, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "I want to cut it off right now, you hear? I'll hand over the Golden Hide right away, too, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "<... She bit our hand off for that deal.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "<Gregor... I hate asking this... so I'll just say \"please.\">",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "It's fine. If one lousy bug arm gets us a Golden Hide, then I say we do it.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "It grows back anyway... Just cut it off before I change my mind.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "So exciting, you hear? With this, I—",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1294B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I wonder what this is, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "A vertebra taken from a Rouge employee.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 2,
+          "text": "It's a rare ingredient... But not rare enough to trade for the Golden Hide...",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "...? *sniff* *sniff*",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "This golden glow in every joint... And it is bursting with want—marinated to the bone, alllll the way into the marrows, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "... You offered the trade first, you hear? Strangers wanted this deal first, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "No refunds, no returns, absolutely no backing out, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 7,
+          "text": "Yes, we hear. We have no intention of withdrawing the offer. Please present the Golden Hide for exchange.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 8,
+          "text": "The Sous Chef happily hopped into the storage room and came back with the Golden Hide."
+        },
+        {
+          "index": 9,
+          "text": "With this... the Meat Soda will get its fizz back, you hear? Emotion soaked this deeply could last 10 seasons... no, 20...!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 10,
+          "text": "Uh... Great. Good for you, huh?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 11,
+          "text": "Good-bye, you hear? You strangers are all suckers, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "She appears exceptionally pleased. We likely accepted an unfavorable exchange.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 13,
+          "text": "<... I mean, if both sides walk away happy...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1294C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Eyeballs are small potatoes, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "The Golden Hide is the real meat of the matter, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Then... the negotiation has failed.",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-SOUSCHEF",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I just got promoted to Sous Chef, you hear? So I gotta be responsible for the Food Court soda, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A descending escalator. There's no point in taking this—it'll just stop at a random point and not let us through."
+        }
+      ]
+    },
+    {
+      "key": "D-1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A desiccated slab of meat, closer to jerky than anything else."
+        }
+      ]
+    },
+    {
+      "key": "D-1014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A cut of rib eye, the marbling blooming like a flower... quite literally."
+        }
+      ]
+    },
+    {
+      "key": "D-1015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What blooms there is the rot. Is it even edible?"
+        },
+        {
+          "index": 1,
+          "text": "Can I eat this?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "No way, kid.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 3,
+          "text": "Why? Why not?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "Well, I mean... just look at it, it's spoiled. It'll give you the rumblies.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "... We can't eat what's spoiled? Is rumblies... bad?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "Oh, uh... Well, that's...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "... You may eat it.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 8,
+          "text": "With Meursault's permission, Pwie takes a big bite out of the meat."
+        },
+        {
+          "index": 9,
+          "text": "H-hold on! I get this isn't the most normal place, Meursault, but you can't just tell that kid to eat a rotten piece of—",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 10,
+          "text": "The \"common sense\" outside the department store does not apply here. That cut of meat is but another article of clothing here, and considering that Pwie is a product of the Grand Magasin... it is unlikely to cause any issues.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 11,
+          "text": "I'm done. Don't wanna eat more.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 12,
+          "text": "*sigh* Fine, guess you're right. There's no rule saying Pwie should eat the same things that we do, but...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 13,
+          "text": "For a moment, Gregor gave a conflicted look toward the spoiled piece of meat... then turned away."
+        }
+      ]
+    },
+    {
+      "key": "D-1016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Its juice has frozen and turned blue. It <i>is</i> meat juice, right...?"
+        }
+      ]
+    },
+    {
+      "key": "D-1065",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1066",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There are eyeballs inside, piled up high. A customer who seems to be the owner lies dead nearby, their belly swollen like a mountain."
+        }
+      ]
+    },
+    {
+      "key": "D-1067",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The swollen belly has burst, spraying the floor with its innards."
+        }
+      ]
+    },
+    {
+      "key": "D-1068",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1069",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There are eyeballs inside, piled up high. A customer who seems to be the owner lies dead nearby, their belly swollen like a mountain."
+        }
+      ]
+    },
+    {
+      "key": "D-1059",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A house resembling an ordinary private residence. No one responds when we knock."
+        },
+        {
+          "index": 1,
+          "text": "Something beyond the windows met my gaze."
+        },
+        {
+          "index": 2,
+          "text": "It gestured us to be silent, then disappeared."
+        }
+      ]
+    },
+    {
+      "key": "D-1060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The house appears uninhabited. Meat, hides, and similar materials are heaped inside in place of furniture."
+        }
+      ]
+    },
+    {
+      "key": "D-1061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1062",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Entered through the open door."
+        }
+      ]
+    },
+    {
+      "key": "D-1063",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1064",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Entered through the open door."
+        }
+      ]
+    },
+    {
+      "key": "D-1058",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A desiccated slab of meat. It gives off a cold, fishy odor."
+        }
+      ]
+    },
+    {
+      "key": "D-1051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Neatly folded stacks of fabric, most likely woven from B2F, are piled here."
+        },
+        {
+          "index": 1,
+          "text": "These'll probably stay down here until the... Porters bring them upstairs when enough seasons pass."
+        }
+      ]
+    },
+    {
+      "key": "D-1049",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door opens onto an empty space drowned in darkness."
+        },
+        {
+          "index": 1,
+          "text": "Last time, entering this door led us to the Fount."
+        },
+        {
+          "index": 2,
+          "text": "... So dark. Don't go in there.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "100% agreed.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "Uh... We're not going in there, are we, Manager Bud?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "Considering what happened when we tried this entrance before the Liquidation... it would be common sense not to try it again."
+        },
+        {
+          "index": 6,
+          "text": "But the Grand Magasin this time has changed in some significant ways since our last visit."
+        }
+      ]
+    },
+    {
+      "key": "D-1050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Besides... it didn't make much sense to make judgments based on \"common sense\" in here."
+        },
+        {
+          "index": 1,
+          "text": "Maybe... it'll be different this time?"
+        }
+      ]
+    },
+    {
+      "key": "D-1045",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A pristine white table. Various cuts of meat and hides lie arranged across it."
+        }
+      ]
+    },
+    {
+      "key": "D-1046",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... I make these benches, and no one sits on 'em anyway.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 1,
+          "text": "Except for Head Chef—no, what she's doing doesn't even count as cooking.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 2,
+          "text": "I'd much rather smash this whole business to pieces. Yeah, that's much sweeter to my ears.",
+          "speaker": "Boucher"
+        },
+        {
+          "index": 3,
+          "text": "He's muttering to himself as he slams the cleaver down on chunk after chunk of meat. ... Probably not the best time to chat him up."
+        }
+      ]
+    },
+    {
+      "key": "D-1047",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's a ticket laid atop the drawing of a ladder."
+        },
+        {
+          "index": 1,
+          "text": "[A ticket alone cannot take you anywhere.]"
+        },
+        {
+          "index": 2,
+          "text": "[It is mererly a promise to bring you somewhere.]"
+        },
+        {
+          "index": 3,
+          "text": "[Thus, those who know their destinations nail the ladder down as a ticket.]"
+        },
+        {
+          "index": 4,
+          "text": "<Who do you suppose left this here?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 5,
+          "text": "Perhaps a stranger struggling to make use of the escalator all... no, that doesn't seem very probable. This is most likely nothing more than Giant mischief.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<You mean people like Jeanne... or the Chaplain... left this here?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "... Or Mother. Or one of the current Giants' predecessors, perhaps.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1048",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's a compass laid atop the drawing of a ladder."
+        },
+        {
+          "index": 1,
+          "text": "[I'm quite fond of compasses. It abides by the absolute rule of cardinal directions—north, east, south, and west... Beautiful.]"
+        },
+        {
+          "index": 2,
+          "text": "[One may harbor certain doubts in their hearts, yes: are these rules the \"right\" rules? Does the compass work according to the rules? ... Indeed, all valid concerns.]"
+        },
+        {
+          "index": 3,
+          "text": "[But the point of a compass is to guide you when you're lost. You get the idea.]"
+        },
+        {
+          "index": 4,
+          "text": "[All good? Very well. I'll be clocking out now.]"
+        },
+        {
+          "index": 5,
+          "text": "What's \"clocking out\"?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 6,
+          "text": "It means to wrap up a day's work and return home.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 7,
+          "text": "... You have to leave home to work?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 8,
+          "text": "Well... some works can be done from home. But for most people, \"work\" means leaving home.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 9,
+          "text": "Then... I think work kinda sucks.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 10,
+          "text": "<... Is it just me, or did that sound just like what Bamboo-hatted Kim would say?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 11,
+          "text": "Everybody wants to go home, but they still gotta hold that in and leave home...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 12,
+          "text": "As Meursault continued to answer Pwie's stream of questions about \"home,\" Faust quietly approached me from the side."
+        },
+        {
+          "index": 13,
+          "text": "... There is something about \"going home.\" Though the note may have been written from a Giant's point of view... it may also imply that there is, in fact, a way out of here.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 14,
+          "text": "<... Sure hope so. This time, we'll succeed.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Several residents have their heads plunged into the fountain."
+        }
+      ]
+    },
+    {
+      "key": "D-1043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They are guzzling soda with their faces submerged, right up to the brink of drowning. Some have already gone completely still."
+        }
+      ]
+    },
+    {
+      "key": "D-1044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The Meat Soda is ready. I doubt I could bring myself to try it even if I were the subject of the Symbolic who could interact with it better than Meursault."
+        }
+      ]
+    },
+    {
+      "key": "D-1040",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more."
+        },
+        {
+          "index": 1,
+          "text": "What are they all doing in there? All huddled in a group...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "<Huddled in a group...? Who?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "The Manager asks whether you can see through the blocked door.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "Blocked door...? It's not blocked, though...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "It is likely that we and Pwie are looking at different things.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Pwie hovered in front of the door for a while, then their curiosity seemingly sated—or simply dwindled—turned around and began looking elsewhere."
+        }
+      ]
+    },
+    {
+      "key": "D-1041",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more."
+        }
+      ]
+    },
+    {
+      "key": "D-1071",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Knocked on the door, but there's no response. Or any signs of life, for that matter."
+        },
+        {
+          "index": 1,
+          "text": "There is nothing but the chilling silence."
+        },
+        {
+          "index": 2,
+          "text": "<I think we're being avoided...>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1073",
+      "texts": [
+        {
+          "index": 0,
+          "text": "When we approached the door, someone—or something—behind it snickers."
+        }
+      ]
+    },
+    {
+      "key": "D-1074",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Meursault!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<Are you all right?!>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "I've sustained dermal lacerations, but they are not severe enough to impede me.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "As Meursault rises and briskly dusts himself off, I could hear someone—or something—snickering at him."
+        }
+      ]
+    },
+    {
+      "key": "D-1075",
+      "texts": [
+        {
+          "index": 0,
+          "text": " Mm.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<This one won't be opening, it seems.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "What happened?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 3,
+          "text": "We were refused entry.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "We can't... go in?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "No. It appears that Meursault does not meet the conditions required to enter.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Just like me.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 7,
+          "text": "Pwie smiled lightly, then stood a step closer to Meursault."
+        }
+      ]
+    },
+    {
+      "key": "D-1077",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It looks as though a thick blackout curtain has been drawn behind the narrow window."
+        },
+        {
+          "index": 1,
+          "text": "... Every so often, something makes a wet <i>squelch</i> as though something is being wrung out."
+        }
+      ]
+    },
+    {
+      "key": "D-1078",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Leaned in toward the curtain again to listen some more."
+        },
+        {
+          "index": 1,
+          "text": "A wet patter sounded from within. A moment later, the curtain gave a small twitch with a sharp smack."
+        },
+        {
+          "index": 2,
+          "text": "... Something appears to have sprayed out and splattered all over it."
+        }
+      ]
+    },
+    {
+      "key": "D-1079",
+      "texts": [
+        {
+          "index": 0,
+          "text": "No other sounds follow."
+        },
+        {
+          "index": 1,
+          "text": "... Though every so often, I think I hear droplets falling from beneath the curtain."
+        }
+      ]
+    },
+    {
+      "key": "D-1080",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Peering through the slightly open door reveals rows of meaty chunks, densely arranged all over the wooden floor."
+        },
+        {
+          "index": 1,
+          "text": "... It is difficult to tell where or what that meat came from."
+        }
+      ]
+    },
+    {
+      "key": "D-1081",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Through the window, a huge, unidentifiable thing is feeding what looks like hide into a hole in the wall."
+        },
+        {
+          "index": 1,
+          "text": "I wanna see, too.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Pwie stands on tiptoes, trying to see what's beyond the window."
+        },
+        {
+          "index": 3,
+          "text": "That aperture is the kind commonly employed for waste disposal in multi-unit residences. It is also referred to as \"dust chute.\"",
+          "speaker": "Faust"
+        },
+        {
+          "index": 4,
+          "text": "But... isn't this just a detached house?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 5,
+          "text": "That is common sense as established within the City, Herr Gregor. It is difficult to apply the same standard to the way things are in the Symbolic.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 6,
+          "text": "Huh... you're saying a dust chute isn't a common-sense concept here then...?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 7,
+          "text": "... Once again, I pull the two Sinners apart before their squabbling can get worse."
+        }
+      ]
+    },
+    {
+      "key": "D-1082",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Only one bizarre adventure per attempt, it seems."
+        }
+      ]
+    },
+    {
+      "key": "D-1085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Reddish pieces of meat, hides, and the like have been put on display. They look fresher than the cuts hanging outside."
+        }
+      ]
+    },
+    {
+      "key": "D-1086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something lies on the floor before the escalator."
+        },
+        {
+          "index": 1,
+          "text": "Meursault obtained 10 eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D-1087",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An escalator whose origin and terminus alike lie beyond perception... An escalator that doesn't even move in either direction... What would I have defined this escalator as?"
+        }
+      ]
+    },
+    {
+      "key": "D-1088",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Something is visible among the corpses that have been gnawed clean."
+        }
+      ]
+    },
+    {
+      "key": "D-1083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A vending machine and directory in one. A vendingrectory machine. We can buy something from here."
+        },
+        {
+          "index": 1,
+          "text": "Something is stuck to its edge."
+        }
+      ]
+    },
+    {
+      "key": "D-1084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        }
+      ]
+    },
+    {
+      "key": "D-1203",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What are you people supposed to be, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Huh. A talking doll... Are you another one of those Mannequin things?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "I am not a doll, you hear?! I am the Sous Chef, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "\"Sous Chef\"?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 4,
+          "text": "\"Sous Chef\"?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1203B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Why did I just repeat that? Yeah, Sous Chef is like an assistant head cook. Second-highest chef in the kitchen, basically.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "Huh. This question-and-answer routine's catching. Nearly asked about something I already knew.",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1203C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "We are searching for the Golden Cocoon, a specialty item kept in Boucher's meat storage.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 1,
+          "text": "But ingredients in Boucher's meat storage are not for sale, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Every last bit of them have to go into the soda, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "Tch. We need it pretty badly ourselves... Any way we can work something out?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "Hmm... Maybe if you bring the right substitute, you can barter for it, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "Let's see if you can be the right substitute, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "<Uh…>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1203D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Hmm... Certainly not you, you hear? Squid-ink heads come in all the time; they're dime-a-dozen, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1203E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "This one looks much too tough to cook, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": " Mm.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1203F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "And this one's... rare, but our brew doesn't need more stretched time, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1203G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The Sous Chef circled us, sniffed the air, then seemed to briefly pause in front of Gregor... before making her way to Pwie."
+        },
+        {
+          "index": 1,
+          "text": "... What?",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "*sniff* *sniff*",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1203H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*sniff* *sniff*",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Hrrrnnn...",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1203I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... It tickles.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "…!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1203J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Whoever made this, they made it with a greed far too big for anyone, you hear? This is...",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "<Does she want to... use Pwie as an ingredient?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1203K",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Yikes, this is...",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "You can't <i>ever</i> contribute this ingredient, you hear? If something like this were chucked into our soda... the consequences would be a <i>BIG</i> no-no, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "... But why?",
+          "speaker": "Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-1203L",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You can't become an ingredient, you hear? You shouldn't even be down here, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "This is a disaster, you hear?! Something really bad's gonna happen, you hear?! I'm saying what have you done, you hear?!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1203M",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<Looks like she's about to attack us...> ",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "Hey, snap out of it...",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1204",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Time... Time out, you hear?! That hurts, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Look... you're the one who attacked us first. You know that.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "But still... that ingredient cannot be allowed to mix into anything, you hear...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "You can stop hammering that point in. We never had the slightest intention of turning the kid into food...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "... Returning to the interrupted negotiation: in exchange for the Golden Cocoon, we can contribute the Ruminations of the Prey.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1204B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "I'm surprised a stranger knows that name, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "The Ruminations of the Prey is Boucher's favorite ingredient... of all ingredients—",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "We know. And we have it in our possession.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 4,
+          "text": "…!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "*slurp*",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "Just hearing the name makes my mouth water, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 7,
+          "text": "All of you, follow me, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 8,
+          "text": "*huff* *huff* It's been ages... since I last had to run, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 9,
+          "text": "We politely waited for the Sous Chef to finish wrestling her breath back under control."
+        }
+      ]
+    },
+    {
+      "key": "D-1296",
+      "texts": [
+        {
+          "index": 0,
+          "text": "And who the heck are you, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Ah, a familiar face, a face to be welcomed, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "Boucher is almost done putting the garnish on the Ruminations of the Prey, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "If the smell drew you back, too bad; you hear? Strangers aren't getting a single bite, you hear?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "... We need the Golden Hide in your storage.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 5,
+          "text": "The strangers' business here is over, so I don't know what this is about, you hear?! The Golden Hide is in storage for next season's soda, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "Sous Chef has to taste the Ruminations of the Prey, you hear?! Boucher said the Meat Soda doesn't even compare, you hear?!",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 7,
+          "text": "With that, the Sous Chef threateningly raised the kitchen knife as high as her arms would go."
+        }
+      ]
+    },
+    {
+      "key": "D-1285",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I'll never give it up, you hear?!!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1286",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Ack! Don't hit me, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1287",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It hurts, you hear?! Leave me alone, you hear?!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1288",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Why won't you stop beating me, you hear...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "You must be doing this for a reason, you hear...? Why won't you say anything, you hear...?!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1295",
+      "texts": [
+        {
+          "index": 0,
+          "text": "You have so much... but would still just kill me for it...? Mean... stingy... strangers... you hear...?",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "And... I just... got promoted... you... hear...?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Won't be thirsty anymore."
+        }
+      ]
+    },
+    {
+      "key": "D-1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "In the Grand Magasin, where neither hunger nor thirst exist... what is it that they crave? How is their hunger different from that of Le Rouge?"
+        }
+      ]
+    },
+    {
+      "key": "D-1095",
+      "texts": [
+        {
+          "index": 0,
+          "text": "No answer."
+        }
+      ]
+    },
+    {
+      "key": "D-1096",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's hard to tell whether the briny smell in the air is coming from the sea or the blood."
+        }
+      ]
+    },
+    {
+      "key": "D-1097",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The light has completely gone out of their eyes."
+        }
+      ]
+    },
+    {
+      "key": "D-1098",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Doesn't even so much as twitch. Most likely dead."
+        }
+      ]
+    },
+    {
+      "key": "D-1390",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Owie! That hurts, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1391",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Stop that, you hear?! Mean outsiders, you hear?!",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1216",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rotten meat. Pwie ate it no problem, but we probably shouldn't."
+        }
+      ]
+    },
+    {
+      "key": "D-1263",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's twitching weakly. It will die soon."
+        }
+      ]
+    },
+    {
+      "key": "D-1264",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Its eyes and tentacles are twitching violently like it's seizing."
+        }
+      ]
+    },
+    {
+      "key": "D-1265",
+      "texts": [
+        {
+          "index": 0,
+          "text": "So that's where the fishy smell was coming from."
+        }
+      ]
+    },
+    {
+      "key": "D-1266",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The eye darts around."
+        }
+      ]
+    },
+    {
+      "key": "D-1267",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pwie's eyes dart around."
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 2,
+          "text": "Pwie is poking a creature wriggling around inside the water tank. It seems to have drawn their interest."
+        },
+        {
+          "index": 3,
+          "text": "Gheee...",
+          "speaker": "???"
+        },
+        {
+          "index": 4,
+          "text": "Poke, poke, poke... Did they just poke it in the eye?"
+        },
+        {
+          "index": 5,
+          "text": "<i>GHEEEEEEEHHHHH!</i>",
+          "speaker": "???"
+        },
+        {
+          "index": 6,
+          "text": "<... Meursault, can you stop Pwie from doing that?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 7,
+          "text": "Meursault picked Pwie up and put them down a good distance away from the water tank."
+        },
+        {
+          "index": 8,
+          "text": "<Huh, a creature inside a water tank... I wonder if it's food?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 9,
+          "text": ".. Yes. It appears to be one of the cooking ingredients sold at the Food Court.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "... Darn, do we have to pay for this? Pwie just poked it, and y'know, with the \"you touch it, you buy it\" rule and everything...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 11,
+          "text": "According to the announcement heard upon our entry to the Grand Magasin, it is likely that this degree of contact is permitted.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 12,
+          "text": "<Hey, wait a minute... Is this another larva? Looks a bit like that larva from Boucher's storehouse.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 13,
+          "text": "It has been altered to fool the viewer. Patches of leather and flesh were sown together to resemble the outward appearance of a larva.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 14,
+          "text": "Really? Who'd lie about this kinda stuff?",
+          "speaker": "Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1268",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's something at the bottom of the water tank, slowly being crushed by the weight of what is laid on top of it.\nIt doesn't take long before more are poured over it, crushing what was once on top of the tank."
+        }
+      ]
+    },
+    {
+      "key": "D-1269",
+      "texts": [
+        {
+          "index": 0,
+          "text": "They twitch intermittently, rapping on the tank walls... but the noise eventually dies down."
+        }
+      ]
+    },
+    {
+      "key": "D-1270",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... It looks like it's hurting.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 1,
+          "text": "Pwie pointed to the bottom of the water tank. "
+        },
+        {
+          "index": 2,
+          "text": "Something shriveled and dried up is slowly getting flattened beneath the weight pressing down on it."
+        },
+        {
+          "index": 3,
+          "text": "Oof... yeah, that's kinda rough to look at. Want me to pull it out?",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 4,
+          "text": "But... then the ones on top would get hurt...",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 5,
+          "text": "Fair point... Then should we pull all of them out? Not sure that's such a good idea, though...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 6,
+          "text": "... It's too late.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 7,
+          "text": "Just as Faust said, it was already too late. The thing being flattened gave one last sickening whimper before it was crushed completely."
+        },
+        {
+          "index": 8,
+          "text": "...If you die, it doesn't hurt anymore. But... I still don't like it.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 9,
+          "text": "Because death is the end.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 10,
+          "text": "... Death is the end? But... Even if they die, they can start again.",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 11,
+          "text": "That distinction is meaningless. The new existence is not a continuation of the previous one.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 12,
+          "text": "…….",
+          "speaker": "Pwie"
+        },
+        {
+          "index": 13,
+          "text": "Pwie turned toward another being that existed within the water tank and observed it thoughtfully, watching as it was slowly crushed to death under the weight of others."
+        }
+      ]
+    },
+    {
+      "key": "D-1271",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It seems whatever falls here is picked up and placed inside the water tank."
+        }
+      ]
+    },
+    {
+      "key": "D-1272",
+      "texts": [
+        {
+          "index": 0,
+          "text": "It's been abandoned for a while."
+        }
+      ]
+    },
+    {
+      "key": "D-1273",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Wonder if digging in will reveal the ship?"
+        }
+      ]
+    },
+    {
+      "key": "D-1274",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The ship is buried so deeply. We're going to need some machinery to pull it out."
+        }
+      ]
+    },
+    {
+      "key": "D-1275",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Tried digging into the side, but the ship's body is still far from visible."
+        }
+      ]
+    },
+    {
+      "key": "D-1276",
+      "texts": [
+        {
+          "index": 0,
+          "text": "What look like black threads wrap around my ankles. Somehow, I don't soak up the water."
+        }
+      ]
+    },
+    {
+      "key": "D-1277",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Too ragged to block out the sun or the rain."
+        }
+      ]
+    },
+    {
+      "key": "D-1278",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Reminiscent of the U Corp. beach beyond the boundary we weren't allowed past."
+        }
+      ]
+    },
+    {
+      "key": "D-1279",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Meursault tried to push it open to no avail. It looks as though it was designed to never be opened."
+        }
+      ]
+    },
+    {
+      "key": "D-1280",
+      "texts": [
+        {
+          "index": 0,
+          "text": "I stand beneath the shade."
+        },
+        {
+          "index": 1,
+          "text": "Feeling the ocean breeze."
+        },
+        {
+          "index": 2,
+          "text": "For the first time since we entered the department store, I feel like I'm taking a break."
+        },
+        {
+          "index": 3,
+          "text": "This looks nothing like a real beach,"
+        },
+        {
+          "index": 4,
+          "text": "but it felt like one, at least for the briefest moment."
+        }
+      ]
+    },
+    {
+      "key": "D-1281",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Just what could possibly be living in here?"
+        },
+        {
+          "index": 1,
+          "text": "Ominous warning signs have been nailed into the wall."
+        }
+      ]
+    },
+    {
+      "key": "D-1217",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Found a few dead larvae tucked in some corner of a dark alleyway."
+        }
+      ]
+    },
+    {
+      "key": "D-1219",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... Unlike during our last attempt, Le Néant are starting to reveal themselves."
+        }
+      ]
+    },
+    {
+      "key": "D-1294D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<We're back in the restroom...?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 1,
+          "text": "<M-Meursault, what... What just happened?>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "Immediately after Gregor's arm was severed, my vision went dark. We were then returned to the restroom.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<... Right. So Gregor's arm is officially a red line. We don't touch it.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1220",
+      "texts": [
+        {
+          "index": 0,
+          "text": "In the Grand Magasin, where neither hunger nor thirst exist... what is it that they crave? How is their hunger different from that of Le Rouge?"
+        }
+      ]
+    },
+    {
+      "key": "D-1237",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Boucher's here, you hear? *slurp*",
+          "speaker": "Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "Sous Chef tells us while wiping the saliva off her mouth."
+        }
+      ]
+    },
+    {
+      "key": "D-1238",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Pass through the fish market to find the Shore, you hear? You go now bring the larva back, you hear?",
+          "speaker": "Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "DDS601",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Jeez... Almost got chopped down like those meat slabs on hooks.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<... Meursault <i>did</i> get turned into a meat slab on a hook.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<We can look at their appearances to predict what kind of trajectory their throws'll have.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "DDS602",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Colliding with that enemy immediately dragged us into the Shadowed.",
+          "speaker": "Faust"
+        },
+        {
+          "index": 1,
+          "text": "<Yeah, which is why I decided to give up on fighting them and return straight away to the Fount, but...>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 2,
+          "text": "<Mm... Let's head out.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 3,
+          "text": "Understood.",
+          "speaker": "Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DDS603",
+      "texts": [
+        {
+          "index": 0,
+          "text": "For all that talk about how dangerous Pwie is...",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 1,
+          "text": "... she ended up chopping Meursault's arm off.",
+          "speaker": "Gregor"
+        },
+        {
+          "index": 2,
+          "text": "Her butchershop skills live up to her title as the Sous Chef.",
+          "speaker": "Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<Well... We just need to pressure her until she gets scared, and she'll give up on her own.>",
+          "speaker": "Dante"
+        },
+        {
+          "index": 4,
+          "text": "<Let's head back to the Food Court.>",
+          "speaker": "Dante"
+        }
+      ]
+    },
+    {
+      "key": "SO-8000",
+      "texts": [
+        {
+          "index": 0,
+          "text": "Rotten meat."
+        }
+      ]
+    },
+    {
+      "key": "SO-1500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's a glob of grease dribbling out of the wall. Closer inspection reveals a rotten larva stuck halfway into the wall, dangling limply in place."
+        },
+        {
+          "index": 1,
+          "text": "Perhaps someone lost it here while while trying to walk through the wall."
+        }
+      ]
+    },
+    {
+      "key": "SO-1810",
+      "texts": [
+        {
+          "index": 0,
+          "text": "An empty space drowned in darkness. There's no reason to go in there."
+        }
+      ]
+    },
+    {
+      "key": "SO-1064_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "A pristine white table. Various cuts of meat and hides lie arranged across it."
+        }
+      ]
+    },
+    {
+      "key": "SO-1044_C2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more."
+        }
+      ]
+    },
+    {
+      "key": "SO-1808",
+      "texts": [
+        {
+          "index": 0,
+          "text": "There's something at the bottom of the water tank, slowly being crushed by the weight of what is laid on top of it.\nIt doesn't take long before more are poured over it, crushing what was once on top of the tank."
+        }
+      ]
+    }
+  ]
+}

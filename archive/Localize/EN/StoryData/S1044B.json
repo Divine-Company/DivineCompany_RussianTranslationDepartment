@@ -1,0 +1,871 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "N Corp., Suicide Vending Machine Entrance",
+      "model": "단테",
+      "content": "<Is everyone okay?>"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "I'm achin' all over... and I feel like the world's spinnin', but..."
+    },
+    {
+      "id": 2,
+      "model": "홍루",
+      "content": "... We're unhurt."
+    },
+    {
+      "id": 3,
+      "content": "When we left the Suicide Vending Machine, the sight of the New League of Nine Littérateurs, all in various E.G.O gear, greeted us."
+    },
+    {
+      "id": 4,
+      "content": "Every now and then, we catch sight of passersby, or people who look like N Corp. employees poking around nearby... but they walk right past us as if we're not even there."
+    },
+    {
+      "id": 5,
+      "content": "Is this some effect of a new E.G.O developed by N Corp.? Or..."
+    },
+    {
+      "id": 6,
+      "model": "에고가환",
+      "content": "*sigh* Finally."
+    },
+    {
+      "id": 7,
+      "model": "에고가환",
+      "content": "We can put this irritating bodyguard mission behind us."
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "... The environment outside has... changed significantly."
+    },
+    {
+      "id": 9,
+      "model": "넬리2",
+      "content": "Much has occurred in the last 3 months."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Huh, I see... wait, 3 months?"
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "We've been in there for <i>how long?!</i>"
+    },
+    {
+      "id": 12,
+      "model": "에고구보",
+      "content": "Yes, much credit goes to our employees, who worked valiantly to keep you from losing your miserable lives in that box."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "... There seems to be some sort of commotion afoot... I hear screaming. And what's that smoke in the distance?"
+    },
+    {
+      "id": 15,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "We've just received a transmission from Director Hermann. That man, the Chaplain... has... pressed the button."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "The button—?"
+    },
+    {
+      "id": 17,
+      "model": "에고가환",
+      "content": "I won't stop you if you'd rather stick around looking confused, but I would hurry if I were you—your colleague doesn't have much time left."
+    },
+    {
+      "id": 18,
+      "model": "에고가환",
+      "content": "Oh, I suppose death comes lightly to you since you can simply rewind the dead back to life."
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<First things first, we've got to go save Meursault. We can get our bearings about what's been happening outside after that.>"
+    },
+    {
+      "id": 20,
+      "content": "Some time later..."
+    },
+    {
+      "id": 21,
+      "place": "Inside N Corp. Sisyphe Tower",
+      "model": "싱클레어",
+      "content": "This is... what Grand Magasin Sisyphe looks like from the outside..."
+    },
+    {
+      "id": 22,
+      "model": "이상",
+      "content": "All are aslumber within the vats... prisons."
+    },
+    {
+      "id": 23,
+      "content": "A silhouette of a man, carrying someone in his arms, emerged from the factory through the rising wall of smoke. It was Meursault."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Meursault!>"
+    },
+    {
+      "id": 25,
+      "model": "뫼르소",
+      "content": "Manager. I have secured the Golden Bough."
+    },
+    {
+      "id": 26,
+      "content": "A Golden Bough was emitting a faint glow in Meursault's grip."
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28,
+      "model": "그레고르",
+      "content": "Is that... Jeanne?"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Yes. A Giant who has suffered significant psychological damage, caused by events such as the death of their avatar, becomes immobilized for an extended period of time. Therefore, I have decided to carry her outside."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "You can just... barge into a Giant's office and haul them out like a sack of potatoes?"
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Yes. It was not a difficult task, as the password for the office hasn't been changed."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<That's good, I guess... So, what's up with all the fire? And this smoke...?>"
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Wait, this sensation—>"
+    },
+    {
+      "id": 34,
+      "content": "Sunlight radiates through the thick plume of smoke,"
+    },
+    {
+      "id": 35,
+      "content": "and a sudden, splitting headache overwhelms me as an unbearable wall of pressure threatens to crush my chest."
+    },
+    {
+      "id": 36,
+      "content": "If my senses—smell, touch, sight, taste, hearing—could scream out in pain, they would have."
+    },
+    {
+      "id": 37,
+      "content": "Familiar yet alien beings begin crawling out of the factory..."
+    },
+    {
+      "id": 38,
+      "content": "The customers of the Grand Magasin... prisoners from years upon years of serving the Sisyphe Penalty..."
+    },
+    {
+      "id": 39,
+      "content": "I feel it—no, it closes in from all around me, the inconceivably overpowering presence of..."
+    },
+    {
+      "id": 40,
+      "content": "of..."
+    },
+    {
+      "id": 41,
+      "content": "... Distortions. Distortions that were contained within the Grand Magasin... all 300 million of them..."
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "content": "The Mannequins are... pouring out of the factory."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Could it be... that the Distortions within the Grand Magasin are being unleashed upon the City...?>"
+    },
+    {
+      "id": 44,
+      "content": "My mind flashes back to the sights within the Grand Magasin. Dead customers, customers turned into clothing, Mannequins, and everything that comprised that department store..."
+    },
+    {
+      "id": 45,
+      "model": "르루주브랜드디렉터",
+      "content": "... What is the meaning of this...? Have we been cast out of our Cradle, into this alien world beyond our veils of memory...?"
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "We have seen some of them before. Then that means—"
+    },
+    {
+      "id": 47,
+      "model": "크로머언니진짜",
+      "content": "That means the party's just getting started, boys and girls."
+    },
+    {
+      "id": 48,
+      "model": "크로머언니진짜",
+      "content": "We will seize our glory once again, as 300 million Distortions wreak havoc through N Corp."
+    },
+    {
+      "id": 49,
+      "model": "크로머언니진짜",
+      "content": "Jacob, ETA for our team?"
+    },
+    {
+      "id": 50,
+      "model": "야코프",
+      "content": "They will be deployed soon. Though tests will be conducted once all Distortions have been subdued... I have authorized summary decisions for those foul prosthetic wearers."
+    },
+    {
+      "id": 51,
+      "model": "크로머언니진짜",
+      "content": "Pay special attention to the ones that aren't immediately obvious. They're what the trials are really for."
+    },
+    {
+      "id": 52,
+      "model": "크로머언니진짜",
+      "content": "Wait a minute."
+    },
+    {
+      "id": 53,
+      "model": "크로머언니진짜",
+      "content": "That smoke, it's... it's not just smoke from malfunctioning machines... It's..."
+    },
+    {
+      "id": 54,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 55,
+      "model": "뫼르소",
+      "content": "We must evacuate, Manager."
+    },
+    {
+      "id": 56,
+      "model": "뫼르소",
+      "content": "Someone has pressed the button and activated the site termination protocol."
+    },
+    {
+      "id": 57,
+      "content": "At that moment, someone stumbles into view..."
+    },
+    {
+      "id": 58,
+      "model": "신부진짜",
+      "content": "Meursault! Convict Meursault!"
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<... The Chaplain!>"
+    },
+    {
+      "id": 60,
+      "model": "신부진짜",
+      "content": "It was me. I triggered the Sisyphe Tower's incinerator!"
+    },
+    {
+      "id": 61,
+      "model": "신부진짜",
+      "content": "You all saw those monsters inside the Grand Magasin too, didn't you? Those things aren't <i>human</i>. If they are unleashed... they will surely destroy our Wing."
+    },
+    {
+      "id": 62,
+      "model": "신부진짜",
+      "content": "I did what I had to! I had to burn all of them to ashes!"
+    },
+    {
+      "id": 63,
+      "model": "신부진짜",
+      "content": "You there, help me stop the ones who've managed to escape!"
+    },
+    {
+      "id": 64,
+      "model": "신부진짜",
+      "content": "In fact, I'll—Yes, I'll hire you! You're Distortion specialists, aren't you? I'll hire you to—aagh!"
+    },
+    {
+      "id": 65,
+      "model": "크로머언니진짜",
+      "content": "How could you?! How could you, you bastard?!!!"
+    },
+    {
+      "id": 66,
+      "content": "The capsule vats are being consumed by the dancing flames."
+    },
+    {
+      "id": 67,
+      "content": "The air is soon filled with a cacophony of voices. Some scream. Some sing. Some speak in an incoherent, alien language."
+    },
+    {
+      "id": 68,
+      "model": "크로머언니진짜",
+      "content": "Ahhhh...!"
+    },
+    {
+      "id": 69,
+      "model": "크로머언니진짜",
+      "content": "No... No... This can't be real...!"
+    },
+    {
+      "id": 70,
+      "model": "크로머언니진짜",
+      "content": "All those lives, precious lives... Humans, humans of flesh, humans who bleed... Oh, the tears... they won't stop. All we had to do was cull the ones that looked like prosthetic users...!"
+    },
+    {
+      "id": 71,
+      "model": "크로머언니진짜",
+      "content": "Damn you, you charlatan of a priest! Damn you!!"
+    },
+    {
+      "id": 72,
+      "model": "야코프",
+      "content": "......."
+    },
+    {
+      "id": 73,
+      "content": "Kromer screams in utter despair, tears of fury and hatred streaming down her cheeks."
+    },
+    {
+      "id": 74,
+      "model": "뫼르소",
+      "content": "We have to go, Manager. <i>Now.</i>"
+    },
+    {
+      "id": 75,
+      "place": "Outside N Corp. Sisyphe Tower",
+      "content": "From a distance, the Sisyphe Tower, this mega prison, appeared like a lighthouse. But now... it looked more like a chimney."
+    },
+    {
+      "id": 76,
+      "content": "Too many people, too many Distortions burned all at once, their number so inconceivably large that I could hardly imagine it. Black smoke rose—no, gushed out of the skyward chimney, smothering the sky above N Corp."
+    },
+    {
+      "id": 77,
+      "content": "But the smoke showed no sign of slowing down. It endlessly spewed from the opening, as though it were trying to devour the City whole."
+    },
+    {
+      "id": 78,
+      "content": "And soon, it began to rain. Rain that carried ashes, tainted crimson and black by the smoke."
+    },
+    {
+      "id": 79,
+      "model": "그레고르",
+      "content": "... The scent... of humans..."
+    },
+    {
+      "id": 80,
+      "content": "Gregor began to tremble. The cigarette he'd been smoking slipped out of his fingers."
+    },
+    {
+      "id": 81,
+      "model": "오티스",
+      "content": "Executive Manager."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "Please steel yourself. I suspect the events of today have set things in motion that cannot be stopped."
+    },
+    {
+      "id": 83,
+      "content": "Some Sinners mutter helplessly as the foreboding smoke rises and spreads endlessly in the sky."
+    },
+    {
+      "id": 84,
+      "content": "Meursault, too, stands with the other Sinners and looks up toward the rising smoke with an inscrutable expression."
+    },
+    {
+      "id": 85,
+      "model": "단테",
+      "content": "<... How do you feel about this, Meursault?>"
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "... I believe I feel horror, devastation... and grief."
+    },
+    {
+      "id": 87,
+      "content": "I had no way of knowing exactly what was captured in Meursault's gaze, or whether our understanding of the \"horrified\" sentiment was the same feeling he expressed, but..."
+    },
+    {
+      "id": 88,
+      "content": "... I could feel through his words that whatever bound him had loosened tangibly."
+    },
+    {
+      "id": 89,
+      "model": "뫼르소",
+      "content": "The chains... cannot be broken, and they will always constrict around me."
+    },
+    {
+      "id": 90,
+      "content": "The sun sinks into the devouring maw of the smoke."
+    },
+    {
+      "id": 91,
+      "content": "Together, we despair."
+    },
+    {
+      "id": 92,
+      "content": "Together, we are afraid. Together, we watch as the boulder once again teeters at the edge, a portent of its falling."
+    },
+    {
+      "id": 93,
+      "content": "But Meursault does not look away; he wants his gaze to linger, even as the day comes to an end."
+    },
+    {
+      "id": 94,
+      "place": "Aboard Mephistopheles",
+      "model": "베르길리우스",
+      "content": "Sinner #5. The one who was never meant to return."
+    },
+    {
+      "id": 95,
+      "model": "베르길리우스",
+      "content": "Welcome back."
+    },
+    {
+      "id": 96,
+      "model": "카론",
+      "content": "Here we go again. Vroom once, vroom twice."
+    },
+    {
+      "id": 97,
+      "model": "뫼르소",
+      "content": "For now..."
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "Even as we wait for the terrible night to claim us all..."
+    },
+    {
+      "id": 99,
+      "model": "뫼르소",
+      "content": "I think we can watch the sunset together and endure it."
+    },
+    {
+      "id": 100,
+      "place": -1,
+      "content": "He walks forward, wading resolutely into the infinite dark."
+    },
+    {
+      "id": 101
+    },
+    {
+      "id": 102,
+      "place": "Somewhere in N Corp.",
+      "teller": "N Corp. Staff",
+      "title": "N Corp.",
+      "content": "The continuation of the Canned Experience business, the backbone of N Corp.'s economy, has become... unsustainable."
+    },
+    {
+      "id": 103,
+      "model": "크로머언니진짜",
+      "content": "Sure, but that's just a supply issue. There's plenty of demand for experiences only the Cans can provide."
+    },
+    {
+      "id": 104,
+      "model": "크로머언니진짜",
+      "content": "Not a single N Corp. citizen can go 2 days without gorging on some Canned Experience."
+    },
+    {
+      "id": 105,
+      "teller": "N Corp. Staff",
+      "title": "N Corp.",
+      "content": "... Then what are we to—"
+    },
+    {
+      "id": 106,
+      "model": "크로머언니진짜",
+      "content": "Oh, come on! What's wrong with everyone? The Sisyphe System is hardly the only way to procure Experience Soup. You know, the way things were done in the good ol' days!"
+    },
+    {
+      "id": 107,
+      "model": "크로머언니진짜",
+      "content": "Yes, that's what I'm talking about—draining the Experience Soup <i>straight</i> from the brain matter."
+    },
+    {
+      "id": 108,
+      "model": "크로머언니진짜",
+      "content": "Experiences of unrivaled freshness! Sensational! <i>Human!</i>"
+    },
+    {
+      "id": 109,
+      "teller": "N Corp. Staff",
+      "title": "N Corp.",
+      "content": "Well, yes, but... That method is..."
+    },
+    {
+      "id": 110,
+      "model": "크로머언니진짜",
+      "content": "Is what? What's your problem?"
+    },
+    {
+      "id": 111,
+      "model": "크로머언니진짜",
+      "content": "Ohh, are you scared of that stuck-up Chaplain?"
+    },
+    {
+      "id": 112,
+      "model": "야코프머리",
+      "content": "......."
+    },
+    {
+      "id": 113,
+      "model": "크로머언니진짜",
+      "content": "Wow, when'd you go and get him?"
+    },
+    {
+      "id": 114,
+      "model": "크로머언니진짜",
+      "content": "Anyway, that takes care of that, right? The Inquisition has gripped the nail and smote your \"problem\" away!"
+    },
+    {
+      "id": 115,
+      "teller": "N Corp. Staff",
+      "title": "N Corp.",
+      "content": "......."
+    },
+    {
+      "id": 116,
+      "model": "크로머언니진짜",
+      "content": "Wait, wait. A moment of silence for our valued teammate. 1... 2... 3..."
+    },
+    {
+      "id": 117,
+      "model": "크로머언니진짜",
+      "content": "Now that that's done and over with, let's get siphoning, shall we? The most human experience of them all, from the brain of a Giant..."
+    },
+    {
+      "id": 118,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Have you procured it?"
+    },
+    {
+      "id": 119,
+      "model": "에고구보",
+      "content": "Yes, and without much difficulty. All I had to do was gently pick up this slow, crawling thing from the ground."
+    },
+    {
+      "id": 120,
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 121,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "A pair of eyes, connected to a brain, hugged by an external membrane. This is it."
+    },
+    {
+      "id": 122,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "The dough from Wuthering Heights, Xianhuang Worm from Hongyuan, and now, this <i>human</i> from the Grand Magasin..."
+    },
+    {
+      "id": 123,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "We've certainly gathered many clues, haven't we? For the appearance of the Protoplast... I'd say the fall of N Corp. is a fair trade."
+    },
+    {
+      "id": 124,
+      "place": "Outside N Corp. Sisyphe Tower",
+      "teller": "N Corp. Staff",
+      "title": "N Corp.",
+      "content": "Wait, this one isn't—"
+    },
+    {
+      "id": 125,
+      "teller": "Inquisitor",
+      "title": "Nagel und Hammer",
+      "content": "Eliminate, purge...!"
+    },
+    {
+      "id": 126,
+      "model": "르루주브랜드디렉터다침",
+      "content": "How could they... burn the Rouges..."
+    },
+    {
+      "id": 127,
+      "teller": "Puzzled Fixer",
+      "title": "???",
+      "content": "What are these monsters...?"
+    },
+    {
+      "id": 128,
+      "teller": "Serious Fixer",
+      "title": "???",
+      "content": "... Distortions."
+    },
+    {
+      "id": 129,
+      "place": "Somewhere in N Corp.",
+      "model": "넬리2",
+      "content": "It's raining."
+    },
+    {
+      "id": 130,
+      "model": "에고가환",
+      "content": "Hah... I can hardly tell them apart. Which are human, and which are Distortions?"
+    },
+    {
+      "id": 131,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Brief me on the situation, Nelly."
+    },
+    {
+      "id": 132,
+      "model": "넬리2",
+      "content": "Distortions that weren't incinerated by the Sisyphe Tower's disposal system have been unleashed, wreaking havoc on the District, Backstreets and Nest alike."
+    },
+    {
+      "id": 133,
+      "model": "넬리2",
+      "content": "Kromer has... summoned the board of directors again, but the current crisis is unlikely to be resolved in the foreseeable future."
+    },
+    {
+      "id": 134,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "I see. So far, no deviations from the predicted development."
+    },
+    {
+      "id": 135,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Hm."
+    },
+    {
+      "id": 136,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "The outward appearances of Distortions vary—some assume a mechanical form, while others are biological, bearing much resemblance to those of beasts."
+    },
+    {
+      "id": 137,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "It will become harder to... distinguish prosthesis users from Distortions."
+    },
+    {
+      "id": 138,
+      "model": "에고구보",
+      "content": "They will be subjected to constant mistrust, living under the endless suspicion of being Distortions."
+    },
+    {
+      "id": 139,
+      "model": "넬리2",
+      "content": "Still, it is unlikely that people will indiscriminately persecute all prosthetic users. Too many vested interests are involved to turn on prosthetic users merely because they might be Distortions. It's a huge tangled knot of monetary and political interests..."
+    },
+    {
+      "id": 140,
+      "model": "에고가환",
+      "content": "Even if they were to risk going against the countless Fixers and Syndicates, several Wings tap their water into the root of the prosthesis industry. They'd be mad to make enemies of them all..."
+    },
+    {
+      "id": 141,
+      "model": "넬리2",
+      "content": "The Malleus Maleficarum has also finished its preparations and is now ready for combat deployment. They need only give the word to have them march into battle."
+    },
+    {
+      "id": 142,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "With three Ones Who Nail who have been holding the Ones Who Grip at the Sisyphe Tower gone... there isn't anyone left in N Corp. to stop them."
+    },
+    {
+      "id": 143,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "... I presume this is developing precisely as the Ones Who Grip have envisioned."
+    },
+    {
+      "id": 144,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "The unleashed Distortions cause violence, instilling fear in people."
+    },
+    {
+      "id": 145,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "And it just happens that fear is a very good justification for the enactment of policies that require one to \"prove\" one's humanity."
+    },
+    {
+      "id": 146,
+      "model": "에고가환",
+      "content": "Kromer and Jacob's influence in N Corp. will burgeon."
+    },
+    {
+      "id": 147,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Yes, it will. And the Malleus Maleficarum has been waiting with bated breath for those plumes of smoke in the sky to turn into a downpour."
+    },
+    {
+      "id": 148,
+      "model": "에고구보",
+      "content": "I have little faith that the incinerator at the Grand Magasin Sisyphe was sufficient. They had quite a number of prisoners, didn't they?"
+    },
+    {
+      "id": 149,
+      "model": "아세아",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Well... we can all predict the kind of rain that will fall from that smoke-cloud of crimson black."
+    },
+    {
+      "id": 150,
+      "model": "헤르만",
+      "title": "N Corp. - New League of Nine Littérateurs",
+      "content": "Some have already coined the term \"Sisyphean Rain.\" I wonder if the name will stick."
+    },
+    {
+      "id": 151,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "That cloud is a smoke of Distortions. When it rains, its essence will seep into the soil... and the Distortions of the Grand Magasin Sisyphe will be reborn from the earth."
+    },
+    {
+      "id": 152,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Kromer found the incineration genuinely tragic, but to Jacob... that was just another part of the plan."
+    },
+    {
+      "id": 153,
+      "model": "에고가환",
+      "content": "It will be as you predicted, Director. The threat of Distortions will come to the forefront in the City, as a highly observable phenomenon—which will make for the perfect justification to wield power with abandon."
+    },
+    {
+      "id": 154,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Yes, it will. This smoke... will start a war."
+    },
+    {
+      "id": 155,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Let's seize our opportunity while all hell breaks loose."
+    },
+    {
+      "id": 156,
+      "model": "넬리2",
+      "content": "Ah. Must've been just a brief shower. It's stopped raining."
+    },
+    {
+      "id": 157,
+      "model": "넬리2",
+      "content": "... Huh?"
+    },
+    {
+      "id": 158,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Hm? What is it?"
+    },
+    {
+      "id": 159,
+      "model": "넬리2",
+      "content": "I think I saw a... small child. We only made eye contact for a second, but their eyes just reminded me of another I used to look after. Had the same look to them, and... was about the same height, too."
+    },
+    {
+      "id": 160,
+      "model": "넬리2",
+      "content": "They were limping into the Backstreets, wearing some kind of ragged covering soaked through with rain. I couldn't make it out clearly because it was so worn, but... the color of that cloak reminded me of a Golden Bough's."
+    },
+    {
+      "id": 161,
+      "model": "헤르만",
+      "title": "N Corp. New League of Nine Littérateurs",
+      "content": "Did you now? Well, I hope that child gets home safely."
+    },
+    {
+      "id": 162,
+      "model": "넬리2",
+      "content": "Hmm... With the chaos unfolding within the District... I wonder if that child will even live to see tomorrow."
+    },
+    {
+      "id": 163,
+      "model": "넬리2",
+      "content": "There's probably no one to look after them with everything that's happening."
+    },
+    {
+      "id": 164,
+      "place": "???",
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>Thank you for looking after those children.</color>"
+    },
+    {
+      "id": 165,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>I think the Fount was integral in keeping their minds from breaking.</color>"
+    },
+    {
+      "id": 166,
+      "model": "푸른여인",
+      "content": "<color=#4457b1>For... the homeward journey... to the star...</color>"
+    },
+    {
+      "id": 167,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>I'm sorry about what happened before. I know an apology is hardly enough to make amends...</color>"
+    },
+    {
+      "id": 168,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>... There's something I'd been meaning to ask. How are you able to stay within the limits of the City?</color>"
+    },
+    {
+      "id": 169,
+      "model": "카르멘진짜",
+      "content": "<color=#E1B643>You're not... humans.</color>"
+    },
+    {
+      "id": 170,
+      "model": "푸른여인",
+      "content": "<color=#4457b1>.......</color>"
+    },
+    {
+      "id": 171,
+      "model": "푸른여인",
+      "content": "<color=#4457b1>... What about you?</color>"
+    },
+    {
+      "id": 172
+    }
+  ]
+}

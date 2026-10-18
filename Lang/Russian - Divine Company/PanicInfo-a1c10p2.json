@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 1109,
+      "panicName": "Unforgotten Pain",
+      "lowMoraleDescription": "Gain 3 [Protection]",
+      "panicDescription": "Gain 5 [Protection]",
+      "flavor": "... It hurt. They tore me apart. But now they protect me. It's weird. I like it now. I'm still scared they'll hurt me again, though..."
+    },
+    {
+      "id": 1113,
+      "panicName": "Bereaved of Child",
+      "lowMoraleDescription": "- Low Morale\n- On Skill Use, <color=#ff6000><mark=#ff000040><b><u>if Pwie is the main target, Clash Power +3, Base Power +2</u></b></mark></color>\n- When hit, inflict 1 [TangleBlackYarn] (3 times per Skill)",
+      "panicDescription": "- <color=#ff6000><mark=#ff000040><b><u>All Attacks target Pwie</u></b></mark></color>\n- Combat Start: Convert all Skill Coins into <color=#ff6000><mark=#ff000040><b><u>Unbreakable Coins</u></b></mark></color>\n- On Skill Use, <color=#ff6000><mark=#ff000040><b><u>if Pwie is the main target, Clash Power +6, Base Power +4</u></b></mark></color>\n- When hit, inflict 1 [TangleBlackYarn] (6 times per Skill)",
+      "flavor": "It rages, grieves, and howls, but these emotions are its karma. Birth is bound to death, and it cradled the egg without knowing that to bring something forth is to accept the weight of a greater loss.\nThere is neither good nor evil in this, but only folly."
+    },
+    {
+      "id": 1110,
+      "panicName": "Trembling Hands",
+      "lowMoraleDescription": "- Take +7.5% damage\n- Every time this unit is hit, gain +1 [Vibration] Count (once per Skill, max 5 per turn)",
+      "panicDescription": "- Take +15% damage\n- Every time this unit is hit, gain 1 [Vibration] Potency and +1 [Vibration] Count (once per Skill, max 5 per turn)",
+      "flavor": "My hands are starting to shake, and even the scissors won't stay steady... I won't be able to cut the pattern anymore..."
+    },
+    {
+      "id": 1115,
+      "panicName": "Jammed Machine",
+      "lowMoraleDescription": "Skills deal -5% damage against targets with slower Speed than this unit's",
+      "panicDescription": "Skills deal -10% damage against targets with slower Speed than this unit's",
+      "flavor": "Can that which moves faster than oneself truly be fixed in place?"
+    },
+    {
+      "id": 1112,
+      "panicName": "Disabled Overseeing",
+      "lowMoraleDescription": "- Skill Final Power +1\n- Turn Start: Apply 1 [Reduction] to all other allies",
+      "panicDescription": "- Skill Final Power +1\n- Turn Start: Apply 1 [Reduction] and 1 [AttackDmgDown] to all other allies"
+    },
+    {
+      "id": 1111,
+      "panicName": "Into the First Shell...",
+      "lowMoraleDescription": "Offense Level -2, Defense Level +2",
+      "panicDescription": "Offense Level -3, Defense Level +4"
+    }
+  ]
+}

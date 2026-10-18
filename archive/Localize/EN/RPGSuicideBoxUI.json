@@ -6,7 +6,7 @@
     },
     {
       "id": "rpg_suicidebox_reset_confirm_desc",
-      "content": "Proceed with Liquidation?\n\nSelecting this option will reset your current run and cannot be reverted."
+      "content": "Proceed with Liquidation?\n\nSelecting this option will reset your current run and cannot be reverted.\n※ Items that have not been obtained from this Part can be obtained in the next Part.\n※ You can still get all of the items without using resetting your run via the Liquidation function."
     },
     {
       "id": "rpg_suicidebox_hardreset_button_text",
@@ -45,8 +45,12 @@
       "content": "Pregnant users, elderly guests, persons using substances, and patients with cardiovascular conditions are advised to proceed with caution.\nAny accidents resulting from excessive use remain the sole responsibility of the user."
     },
     {
+      "id": "rpg_suicidebox_pressed_dialog_c",
+      "content": "The multitude tightens its hold.\nYour motion will stop, and pain will cease with it."
+    },
+    {
       "id": "rpg_suicidebox_enter_notice_condition_b",
-      "content": "- Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4"
+      "content": "- Identity: Uptie Tier 4"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_b",
@@ -54,7 +58,7 @@
     },
     {
       "id": "rpg_suicidebox_enter_notice_condition_c",
-      "content": "- Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4"
+      "content": "- Identity: Uptie Tier 4"
     },
     {
       "id": "rpg_suicidebox_enter_notice_question_c",

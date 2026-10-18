@@ -193,7 +193,7 @@
     {
       "key": "I990408",
       "displayName": "Solid Wood Table",
-      "statText": "In the Symbolic, 15% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack (0.2 seconds hitstun)\n- Deals 3 <color=#fe4b48>Damage</color> to the 5 tiles in a cross centered on the enemy hit\n- Trigger Chance +10% for each enemy within 1 tile that has detected Meursault",
+      "statText": "In the Symbolic, 15% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack (0.2 seconds Hitstun)\n- Deals 3 <color=#fe4b48>Damage</color> to the 5 tiles in a cross centered on the enemy hit\n- Trigger Chance +10% for each enemy within 1 tile that has detected Meursault",
       "description": "A Rouge wretch once asked why we sit at a table to eat. Why go to such trouble instead of eating off the floor? Well, the ceremony makes food taste better. What is won through hardship and patience is sweeter, and therefore more valuable. By that logic, the more uncomfortable the table and chair, the more civilized the diner. Wouldn't you agree?"
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "key": "I990806",
-      "displayName": "Button from the Sous Chef's Corpse",
+      "displayName": "Button",
       "statText": "In the Symbolic, upon triggering \"You Hear?\" <color=#F8C200>Extra Attack</color>, number of projectile +1\n\nDuring battle in the Shadowed, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and 10 SP for the ally that killed an enemy",
       "description": "The strangers are trying to kill me, you hear?! We could've settled this by talking, but they want me dead, you hear?!"
     },
@@ -335,7 +335,7 @@
     {
       "key": "I992701",
       "displayName": "Noonday Blue",
-      "description": "At noon, the sun reaches its highest point. The higher the sun, the shorter the shadow. The shadow shrinks beyond sight when the sunlight is blue."
+      "description": "At noon, the sun reaches its highest point. The higher the sun, the shorter the shadow. When the shadow has shrunk beyond sight, the sunlight is blue."
     },
     {
       "key": "I992702",
@@ -427,37 +427,37 @@
     },
     {
       "key": "I990008",
-      "displayName": "Ли Сан",
+      "displayName": "Yi Sang",
       "statText": "<color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, upon landing an attack, target's <color=#fe4b48>Damage</color> Dealt -1 for 5 seconds (10 seconds cooldown)",
       "description": "Symbol of Wings. To become free."
     },
     {
       "key": "I990009",
-      "displayName": "Фауст",
+      "displayName": "Faust",
       "statText": "In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +2",
       "description": "Symbol of Knowledge. To become clever."
     },
     {
       "key": "I990010",
-      "displayName": "Дон Кихот",
+      "displayName": "Don Quixote",
       "statText": "In the Symbolic, <color=#00ff9c>heals</color> 5% Symbolic <color=#00ff9c>HP</color> upon killing an enemy (10 seconds cooldown)",
       "description": "Symbol of Action. To become vigorous."
     },
     {
       "key": "I990011",
-      "displayName": "Рёсю",
+      "displayName": "Ryōshū",
       "statText": "In the Symbolic, 20% chance to inflict 1 <color=#F8C200>Fragile Mark</color> upon landing an attack\n(<color=#F8C200>Fragile Mark</color>: <color=#fe4b48>Damage</color> Taken +10%)",
       "description": "Symbol of Affection and Resentment. To <s>sever</s> twine."
     },
     {
       "key": "I990012",
-      "displayName": "Хун Лу",
+      "displayName": "Hong Lu",
       "statText": "Upon entering battle in the Shadowed via Meursault's Attack, all allies on the field <color=#F8C200>heal 5~10 SP</color>",
       "description": "Symbol of Insight. To watch."
     },
     {
       "key": "I990013",
-      "displayName": "Хитклиф",
+      "displayName": "Heathcliff",
       "statText": "<color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, Attack <color=#fe4b48>Damage</color> Dealt +2 for 20 seconds upon killing an enemy (30 seconds cooldown)",
       "description": "Symbol of the Storm. To remember !@#!$."
     },
@@ -475,19 +475,19 @@
     },
     {
       "key": "I990016",
-      "displayName": "Синклер",
+      "displayName": "Sinclair",
       "statText": "In the Symbolic:\n- <color=#fe4b48>Damage</color> Dealt +2 against enemies in the front\n- <color=#fe4b48>Damage</color> Taken -2 from enemies behind",
       "description": "Symbol of Awakening. To awaken."
     },
     {
       "key": "I990017",
-      "displayName": "Утис",
+      "displayName": "Outis",
       "statText": "If the target has lower than 50% Symbolic <color=#00ff9c>HP</color>, <color=#fe4b48>Damage</color> Dealt +1",
       "description": "Symbol of Guile. To wander."
     },
     {
       "key": "I990018",
-      "displayName": "Грегор",
+      "displayName": "Gregor",
       "statText": "At lower than 25% Symbolic HP, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and <color=#fe4b48>Damage</color> Taken -20% for the next 10 seconds (19 seconds cooldown)",
       "description": "Symbol of Metamorphosis. To consume."
     },
@@ -536,7 +536,7 @@
     {
       "key": "I1209",
       "displayName": "Tempered Sewing Scissors",
-      "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Scissors-snip Extra Attack</color> dealing 1 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)\n\nUpon entering battle in the Shadowed, inflicts on all enemies Bleed Count equal to the number of times they were struck by this effect (max 5)",
+      "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Scissors-snip Extra Attack</color> dealing 1 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)\n\nUpon entering battle in the Shadowed, inflicts on all enemies <color=#F8C200>Bleed</color> Count equal to the number of times they were struck by this effect (max 5)",
       "description": "The Alterationist cuts fabric, then joins it again according to the pattern. The snipping has grown much louder of late—the Noirs must have placed an enormous order. Perhaps a major conflict is about to break out?"
     }
   ]

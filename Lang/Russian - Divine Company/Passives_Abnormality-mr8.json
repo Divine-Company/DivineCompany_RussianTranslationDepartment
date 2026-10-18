@@ -1,0 +1,33 @@
+{
+  "dataList": [
+    {
+      "id": 155101,
+      "name": "I can cook up delicious dishes so good, you hear?",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>If this unit has [SapsareeCooking], use the \"Aah! I'm on lunch break, you hear?\" Skill at the very end of the turn</u></b></mark></color>\n(does not activate if all other targets are defeated, or if this unit is Staggered)\nTurn End: If this unit failed to use the \"Aah! I'm on lunch break, you hear?\" Skill, gain 1 [SapsareeHungry]",
+      "flavor": "The restaurant on 5F would not dignify this with the word \"cooking.\""
+    },
+    {
+      "id": 155702,
+      "name": "Handmade",
+      "desc": "Skill Final Power +1 for every Needlekin on the field",
+      "flavor": "No hand sewing survives on one pair of hands alone. A host of practiced artisans are needed to breathe life into it."
+    },
+    {
+      "id": 156301,
+      "name": "Le Noir: Gabardine Fabric",
+      "desc": "Encounter Start: Gain 30 [NoirSuit]\n\nTurn Start: Gain Shield equal to ([NoirSuit] / 5)% of this unit's max HP (unless Staggered)",
+      "flavor": "The Noirs' flagship gabardine, tailored toward formality without sacrificing firmness."
+    },
+    {
+      "id": 156403,
+      "name": "Formation Conservation",
+      "desc": "Boost the level of \"Le Noir\" allies\n\nAll \"Le Noir\" allies take -5% damage for every living \"Le Noir\" ally on the field\nOn death of a \"Le Noir\" ally, all \"Le Noir\" allies gain 1 [NoirSquareCollapse] for the rest of this Encounter (including newly summoned units)",
+      "flavor": "Each stays at their post and faithfully performs the duty entrusted to them. Together, they form a formation, and that formation becomes an image that preserves the whole. Fulfill thy charge faithfully, each in thine appointed place."
+    },
+    {
+      "id": 156404,
+      "name": "The Battle Continues",
+      "desc": "Start this Encounter with 45 SP"
+    }
+  ]
+}

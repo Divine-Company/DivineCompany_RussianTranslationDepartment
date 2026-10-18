@@ -1,0 +1,621 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "뫼르소",
+      "content": "I look up."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "There's the sun, shining from above us all. Just as it did on the day I killed Mother."
+    },
+    {
+      "id": 2,
+      "place": "???",
+      "model": "뫼르소",
+      "content": "Something screams. It doesn't sound like anything I've heard before."
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "I would compare it to the cry of a wounded animal if I were compelled to do so."
+    },
+    {
+      "id": 4,
+      "model": "뫼르소엄마아픔",
+      "content": "It doesn't matter where I go—it's always there! It won't leave me. I'm never alone!\nThis voice, it—it—it won't look away from me!"
+    },
+    {
+      "id": 5,
+      "model": "뫼르소엄마아픔",
+      "content": "Ohh... how the sunlight prickles my skin... how horribly... warm..."
+    },
+    {
+      "id": 6,
+      "model": "뫼르소엄마아픔",
+      "content": "I thought I could be alone in the darkness of my room... Just for one precious moment of solitude... Without anyone watching me... without pinning me with their gaze...!"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소엄마아픔",
+      "content": "Hnnh... I... Even now, I feel it...! The gaze... The sun...! The voice...!! It keeps following me!! Stalking me ever since those long, dark days... and the painfully bright nights came and went... It's here, even now... Closing in around me...!"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소엄마아픔",
+      "content": "It... understands me... It... <i>AAAAHHHH!!!</i> It's pinned me... with nails... and hammers...!!!"
+    },
+    {
+      "id": 9,
+      "model": "뫼르소엄마아픔",
+      "content": "The gaze... the gaze boring into me... I... see now... It's you...! Don't look at me! Stop following me!!"
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Mother bursts out of the room with enough force to knock the door off its hinges."
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "As her body writhes and spasms, something bursts out of her."
+    },
+    {
+      "id": 12,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Meursault...! That gaze that watches me... it's... it's mine...! It's <i>becoming</i> mine, I'm being watched by my own gaze...!"
+    },
+    {
+      "id": 13,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "I can't... I can't... Has it finally come for me, the final nothingness...? Oh, yes... I tried... I really, really tried my best..."
+    },
+    {
+      "id": 14,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "I'm not even permitted... the briefest of moments to breathe... It's all over now... It was never going to—"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "I can't run... I can't breathe... I can't do anything, Meursault...!"
+    },
+    {
+      "id": 16,
+      "model": "뫼르소",
+      "content": "Mother..."
+    },
+    {
+      "id": 17,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "No...! Meursault, my son!"
+    },
+    {
+      "id": 18,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Before I hurt you, before I— Before I gouge out your eyes, you have to..."
+    },
+    {
+      "id": 19,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Oh, I'll end up killing my boy!!"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Come, while compunction still strangles me... while the guilt of a failed mother who will kill her son holds me back... Oh, I never wanted this, this maternal love... <i>Do it, kill me now!</i>"
+    },
+    {
+      "id": 21,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "You're right, I never chose any of this...! These feelings, they're, they're all just biology—chemical reactions in my brain instilling me with these emotions... just because I was born as this creature... a human...!"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "AHHHH!! Stop, please stop... Those eyes are hammering their nails into me... I am... watching myself...! No, I don't want this... I don't want you to understand me..."
+    },
+    {
+      "id": 23,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "I just want to... breathe... I can't live anymore... I can't live like this... Knowing that someone is always watching me... Fixed by their gaze..."
+    },
+    {
+      "id": 24,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Meursault, dear... please let me nail the role of my son onto you for a moment...! If you're human... if you're something that came out of my womb, then <i>kill me!</i>"
+    },
+    {
+      "id": 25,
+      "model": "뫼르소엄마뒤틀림2",
+      "content": "Kill me, Meursault... You're my son... It's the least you can do for your maman... Meursault..."
+    },
+    {
+      "id": 26,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "Though I did not hear anything that sounded like crying from Mother, I judged that she was."
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "... Is she? She is wailing and screaming, yes. But is that enough to be defined as <i>crying</i>?"
+    },
+    {
+      "id": 28,
+      "model": "뫼르소",
+      "content": "The ray of sunlight on my mother almost made it look as though she were laughing. From a different angle, she looks to be moments away from true liberation. Then..."
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "The stems of my thought beget stems that beget stems that are finer still. A lively bloom of compunction in my heart, creeping toward my judgmental, disobedient brain."
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "Mother takes a step toward me. Then another."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Every step taken is a step removed from the form of hum—no. I mustn't define what is human. Mother is afraid of the gaze. I must not fix and nail my mother down. I mustn't judge... so I stop."
+    },
+    {
+      "id": 32,
+      "place": "???",
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "Stop thinking about it, Meursault—kill that thought! <i>Just kill me!!</i>"
+    },
+    {
+      "id": 33,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "The same chains Mother and I used to regard slither from the ceiling."
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Despite the chains that have entangled her, Mother continues to take her steps toward me, through the pain."
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "Her hands reach out to me, then enclose around my neck. They begin to strangle. A puff of exhalation, a reflex, ekes out of my throat."
+    },
+    {
+      "id": 36,
+      "place": "???",
+      "model": "뫼르소엄마뒤틀림1",
+      "content": "No more judgments, okay? Just... act. It's the... only way to... save... yourself..."
+    },
+    {
+      "id": 37,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 38,
+      "model": "뫼르소",
+      "content": "I grab the chains that have fallen on Mother—and pull."
+    },
+    {
+      "id": 39,
+      "model": "뫼르소",
+      "content": "The being not in the shape of Mother but the one I have defined as Mother thrashes violently."
+    },
+    {
+      "id": 40,
+      "model": "뫼르소",
+      "content": "Mother thrashes violently."
+    },
+    {
+      "id": 41,
+      "model": "뫼르소",
+      "content": "I act to relieve my mother from her suffering. I act to kill my mother. As a son should."
+    },
+    {
+      "id": 42,
+      "model": "뫼르소엄마",
+      "content": "Ghk... Kergh..."
+    },
+    {
+      "id": 43,
+      "model": "뫼르소",
+      "content": "My fingers strain around the chains as I pull. I hear Mother groaning in pain."
+    },
+    {
+      "id": 44,
+      "model": "뫼르소",
+      "content": "Mother not in the shape of Mother thrashes violently. She is trying to kill me."
+    },
+    {
+      "id": 45,
+      "model": "뫼르소",
+      "content": "Earlier, Mother in the shape of Mother screamed at me: \"kill me.\" Did Mother truly wish to die, or did she—"
+    },
+    {
+      "id": 46,
+      "model": "뫼르소",
+      "content": "I do not judge. I act as I'm told. I pull on the chains as far as their tensile force will allow me. I pull more. I pull beyond it."
+    },
+    {
+      "id": 47,
+      "model": "뫼르소",
+      "content": "I sense a gaze. The same gaze Mother was afraid of. It is watching someone.\n<i>It is watching me.</i>"
+    },
+    {
+      "id": 48,
+      "model": "뫼르소",
+      "content": "I am afraid. Mother who does not look like Mother cannot go to work tomorrow because her appearance does not align with the definition of what a human looks like. She cannot participate as a member of society. Then the being defined as Mother is gone, and a newborn something has taken her place.\n"
+    },
+    {
+      "id": 49,
+      "model": "뫼르소",
+      "content": "Then perhaps that being is not Mother after all."
+    },
+    {
+      "id": 50,
+      "model": "뫼르소",
+      "content": "The waves of remorse take hold of me. Of guilt. Compunction. The same emotions that were nailed into me at the birth of my existence, as Mother had said, surge uncontrollably."
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "Then perhaps that being is—"
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "I stop judging. I stop thinking. Until I am no longer a subject of anyone's attention, until silence comes—however long that takes—I pull the chain."
+    },
+    {
+      "id": 53,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 54,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 55,
+      "model": "뫼르소",
+      "content": "The chain broke."
+    },
+    {
+      "id": 56,
+      "model": "뫼르소",
+      "content": "Mother who does not look like Mother, Mother, the thing that was Mother, is motionless on the ground."
+    },
+    {
+      "id": 57,
+      "model": "뫼르소",
+      "content": "Then... the curtains open."
+    },
+    {
+      "id": 58,
+      "model": "뫼르소",
+      "content": "Sunlight shines through, and the Voice—"
+    },
+    {
+      "id": 59,
+      "model": "뫼마지막임시",
+      "content": "I shut my eyes, but the light penetrates the lids, filling my vision with hot red.\nWhispers. Heat. Kindness. Nausea."
+    },
+    {
+      "id": 60,
+      "model": "뫼마지막임시",
+      "content": "Existence is unbearably discomforting. Freedom, terrifying. Definitions, arbitrary and fragile."
+    },
+    {
+      "id": 61,
+      "model": "뫼마지막임시",
+      "content": "What, in this life, could be the proof of \"me\", then?"
+    },
+    {
+      "id": 62,
+      "model": "뫼마지막임시",
+      "content": "Memory? Experience?"
+    },
+    {
+      "id": 63,
+      "model": "뫼르소",
+      "content": "Neither. What I thought, what I choose to accept..."
+    },
+    {
+      "id": 64,
+      "model": "뫼르소",
+      "content": "... is the now."
+    },
+    {
+      "id": 65,
+      "model": "뫼르소",
+      "content": "I feel... the moment. The <i>now</i>."
+    },
+    {
+      "id": 66,
+      "place": "N Corp. Courthouse, Past",
+      "model": "판사",
+      "content": "Defendant. State the time when you murdered your mother."
+    },
+    {
+      "id": 67,
+      "model": "뫼르소",
+      "content": "Before I realized it, I was brought before the court. When did Mother breathe last? I felt the warm slickness in my palms. Blood from the torn skin."
+    },
+    {
+      "id": 68,
+      "model": "뫼르소",
+      "content": "I lost track of time. Mother lost track of time, too. Mother had stated her wish to die, clearly and desperately."
+    },
+    {
+      "id": 69,
+      "model": "뫼르소",
+      "content": "But they ask persistently—when did Mother breathe last?"
+    },
+    {
+      "id": 70,
+      "model": "뫼르소",
+      "content": "The dead thing was defined as Mother, but it wasn't Mother. It was something else."
+    },
+    {
+      "id": 71,
+      "model": "뫼르소",
+      "content": "My chains broke not long after Mother died. My chains broke long after Mother died. Or maybe Mother died before my chains broke."
+    },
+    {
+      "id": 72,
+      "model": "과거뫼르소",
+      "content": "I killed Mother today. Or maybe it was yesterday."
+    },
+    {
+      "id": 73,
+      "model": "뫼르소",
+      "content": "They responded with unanimous outrage. They claimed that I did not understand the gravity of my actions and cited that as evidence of my ambiguous, dithering reply."
+    },
+    {
+      "id": 74,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 75,
+      "model": "뫼르소",
+      "content": "I said nothing in response. They were already hammering the nails into me at that point, and I had already made the decision to remain bound."
+    },
+    {
+      "id": 76,
+      "model": "판사",
+      "content": "Defendant. State your reasons for committing the act."
+    },
+    {
+      "id": 77,
+      "model": "뫼르소",
+      "content": "I had no way of knowing. I would have liked for someone else to state that in my stead."
+    },
+    {
+      "id": 78,
+      "model": "뫼르소",
+      "content": "I killed Mother? But I thought I killed something that was no longer Mother."
+    },
+    {
+      "id": 79,
+      "model": "뫼르소",
+      "content": "Mother was always afraid of the gaze. When she realized that there was no escaping the gaze, she instead desired death."
+    },
+    {
+      "id": 80,
+      "model": "뫼르소",
+      "content": "The sunshine transformed Mother into a form that was no longer recognizable as human, and I wrapped the chain around Mother's throat and brought her to death."
+    },
+    {
+      "id": 81,
+      "model": "과거뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 82,
+      "model": "판사",
+      "content": "<i>Answer!</i>"
+    },
+    {
+      "id": 83,
+      "model": "뫼르소",
+      "content": "Shrill cries tore at the eardrums and mercilessly beat upon my ears."
+    },
+    {
+      "id": 84,
+      "model": "뫼르소",
+      "content": "The collective gaze of the eyes from the second column on the left to the fifteenth column on the right bears down upon me."
+    },
+    {
+      "id": 85,
+      "model": "뫼르소",
+      "content": "From eighty-nine index fingers and eighty-six throats pour a deluge of grief, fear, hate, revilement."
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "Questions shaped from various emotions slowly smother my breathing."
+    },
+    {
+      "id": 87,
+      "model": "뫼르소",
+      "content": "It's just that..."
+    },
+    {
+      "id": 88,
+      "model": "과거뫼르소",
+      "content": "The sunlight... was overwhelming..."
+    },
+    {
+      "id": 89,
+      "model": "뫼르소",
+      "content": "The sunlight was overwhelming, that's all."
+    },
+    {
+      "id": 90,
+      "model": "판사",
+      "content": "......."
+    },
+    {
+      "id": 91,
+      "model": "뫼르소",
+      "content": "The courthouse is silent. The sunlight continues to whisper in my ears."
+    },
+    {
+      "id": 92,
+      "model": "뫼르소",
+      "content": "Just as it did to Mother's."
+    },
+    {
+      "id": 93,
+      "model": "뫼르소",
+      "content": "The sunlight spoke of warmth and blinding, prickling radiance..."
+    },
+    {
+      "id": 94,
+      "model": "뫼르소",
+      "content": "... and I trembled with fear, which brought with it a bout of migraine."
+    },
+    {
+      "id": 95,
+      "model": "뫼르소",
+      "content": "I gave up on trying to express these thoughts in words."
+    },
+    {
+      "id": 96,
+      "model": "뫼르소",
+      "content": "They weren't actually curious about what I thought, anyway."
+    },
+    {
+      "id": 97,
+      "model": "판사",
+      "content": "The court hereby sentences the defendant, Meursault, to..."
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "I felt dizzy."
+    },
+    {
+      "id": 99,
+      "model": "뫼르소",
+      "content": "I will dare to judge, act willingly, and if I am wrong, I will change. But I will move forward."
+    },
+    {
+      "id": 100,
+      "model": "뫼르소",
+      "content": "I was afraid of speaking my mind, and following through, because there was no way to know what was right."
+    },
+    {
+      "id": 101,
+      "model": "뫼르소",
+      "content": "A world without certainties is a world without answers, and cast upon this answerless world, I was just so afraid of the <i>now</i> that—"
+    },
+    {
+      "id": 102,
+      "place": -1,
+      "model": "뫼르소",
+      "content": "But I reach out with my hands anyway. Even if I am afraid."
+    },
+    {
+      "id": 103,
+      "model": "뫼르소",
+      "content": "I reach out toward the sun."
+    },
+    {
+      "id": 104,
+      "model": "잔느변신2",
+      "content": "Ma puce... they'll pin you with nails and leave you behind, just as they did at the courthouse."
+    },
+    {
+      "id": 105,
+      "model": "뫼르소",
+      "content": "I don't care. That is within their freedoms."
+    },
+    {
+      "id": 106,
+      "model": "뫼르소",
+      "content": "But if I believe that they have misunderstood me..."
+    },
+    {
+      "id": 107,
+      "model": "뫼르소",
+      "content": "I will speak again."
+    },
+    {
+      "id": 108,
+      "model": "잔느변신2",
+      "content": "They'll misunderstand you again."
+    },
+    {
+      "id": 109,
+      "model": "뫼르소",
+      "content": "Then I'll speak again."
+    },
+    {
+      "id": 110,
+      "model": "뫼르소",
+      "content": "I'll gladly be wrong again and again, misspeak and be misunderstood countless times."
+    },
+    {
+      "id": 111,
+      "model": "뫼르소",
+      "content": "Even if the entire premise was wrong, even if everything is just a passing illusion..."
+    },
+    {
+      "id": 112,
+      "model": "뫼르소",
+      "content": "Based on my sensations, I will judge. Based on my sensations, I will speak without hesitation."
+    },
+    {
+      "id": 113,
+      "model": "잔느변신2",
+      "content": "So that's your answer, ma puce."
+    },
+    {
+      "id": 114,
+      "model": "카르멘",
+      "content": "So that's your answer, Meur."
+    },
+    {
+      "id": 115,
+      "model": "뫼르소",
+      "content": "So..."
+    },
+    {
+      "id": 116,
+      "model": "뫼르소",
+      "teller": "Monologue",
+      "content": "The kind sunlight, with heart to spare for all of existence, the irresponsible sunshine..."
+    },
+    {
+      "id": 117,
+      "model": "뫼르소",
+      "teller": "Monologue",
+      "content": "This light that pursues me, it's..."
+    },
+    {
+      "id": 118,
+      "model": "뫼르소",
+      "teller": "Monologue",
+      "content": "... noisy."
+    },
+    {
+      "id": 119,
+      "model": "뫼르소",
+      "teller": "Monologue",
+      "content": "So..."
+    },
+    {
+      "id": 120,
+      "model": "뫼르소",
+      "content": "Shut up."
+    }
+  ]
+}

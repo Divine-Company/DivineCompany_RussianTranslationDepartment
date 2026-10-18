@@ -911,6 +911,268 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mirror-touch",
+          "abName": "Wandering Heart",
+          "desc": "Clash Power +1 for every 6 ([Breath] Potency on self + [Vibration] Potency on the main target) (max 2)\n[BeforeAttack] Gain (2 + highest Reson.) [Breath] (max 8)\n[BeforeAttack] Gain +2 [Breath] Count\n[EndSkill] Randomly inflict (1 + highest Reson.) [EmpathicDistressAlly] between targets, 1 Stack at a time (max 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mirror-touch",
+          "abName": "Wandering Heart",
+          "desc": "Clash Power +1 for every 6 ([Breath] Potency on self + [Vibration] Potency on the main target) (max <style=\"highlight\">3</style>)\n[BeforeAttack] Gain (<style=\"highlight\">3</style> + highest Reson.) [Breath] (max 8)\n[BeforeAttack] Gain +<style=\"highlight\">3</style> [Breath] Count\n[EndSkill] Randomly inflict (1 + highest Reson.) [EmpathicDistressAlly] between targets, 1 Stack at a time (max 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mirror-touch",
+          "abName": "Wandering Heart",
+          "desc": "Clash Power +1 for every 6 ([Breath] Potency on self + [Vibration] Potency on the main target) (max <style=\"highlight\">4</style>)\n[BeforeAttack] Gain (<style=\"highlight\">4</style> + highest Reson.) [Breath] (max 8)\n[BeforeAttack] Gain +<style=\"highlight\">4</style> [Breath] Count\n[EndSkill] Randomly inflict (1 + highest Reson.) [EmpathicDistressAlly] between targets, 1 Stack at a time (max 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+3</style> [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mirror-touch",
+          "abName": "Wandering Heart",
+          "desc": "[CantIdentify]\nTargets randomly\nClash Power +1 for every 6 ([Breath] Potency on self + [Vibration] Potency on the main target) (max 2)\n[BeforeAttack] Gain (2 + highest Reson.) [Breath] (max 10)\n[BeforeAttack] Gain +2 [Breath] Count\n[BeforeAttack] Base Power -4 for every Cracked Coin (max -12)\n[BeforeAttack] At 10+ [Breath] Count, consume 4 [Breath] Count on self and deal +20% damage on Critical Hit against the main target\n[EndSkill] Randomly inflict (1 + highest Reson.) [EmpathicDistressAlly] between targets, 1 Stack at a time (max 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 4+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 4+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mirror-touch",
+          "abName": "Wandering Heart",
+          "desc": "[CantIdentify]\nTargets randomly\nClash Power +1 for every 6 ([Breath] Potency on self + [Vibration] Potency on the main target) (max <style=\"highlight\">3</style>)\n[BeforeAttack] Gain (<style=\"highlight\">3</style> + highest Reson.) [Breath] (max 10)\n[BeforeAttack] Gain +<style=\"highlight\">3</style> [Breath] Count\n[BeforeAttack] Base Power -4 for every Cracked Coin (max -12)\n[BeforeAttack] At 10+ [Breath] Count, consume 4 [Breath] Count on self and deal +<style=\"highlight\">30</style>% damage on Critical Hit against the main target\n[EndSkill] Randomly inflict (1 + highest Reson.) [EmpathicDistressAlly] between targets, 1 Stack at a time (max 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 4+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 4+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict +1 [Vibration] Count</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mirror-touch",
+          "abName": "Wandering Heart",
+          "desc": "[CantIdentify]\nTargets randomly\nClash Power +1 for every 6 ([Breath] Potency on self + [Vibration] Potency on the main target) (max <style=\"highlight\">4</style>)\n[BeforeAttack] Gain (<style=\"highlight\">4</style> + highest Reson.) [Breath] (max 10)\n[BeforeAttack] Gain +<style=\"highlight\">4</style> [Breath] Count\n[BeforeAttack] Base Power -4 for every Cracked Coin (max -12)\n[BeforeAttack] At 10+ [Breath] Count, consume 4 [Breath] Count on self and deal +<style=\"highlight\">40</style>% damage on Critical Hit against the main target\n[EndSkill] Randomly inflict (1 + highest Reson.) [EmpathicDistressAlly] between targets, 1 Stack at a time (max 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 4+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] If target has 4+ [Vibration] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

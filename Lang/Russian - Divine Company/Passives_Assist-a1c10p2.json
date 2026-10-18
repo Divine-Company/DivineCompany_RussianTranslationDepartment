@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "id": 40004101,
+      "name": "The Nascent Crimson God",
+      "desc": "When this unit gains [Charge], gains [ChargeRouge] instead\n\nEncounter Start: Gain 1 [ChargeRouge] Potency\n\nTurn Start: At 2+ [ChargeRouge] Potency, gain +([ChargeRouge] Potency x 2) [ChargeRouge] Count",
+      "summary": "Gain [ChargeRouge]",
+      "flavor": "A young god, but a god nonetheless."
+    },
+    {
+      "id": 40004102,
+      "name": "Pulsating Nature",
+      "desc": "Gain +1 [ChargeRouge] Count every time [Laceration] effect is activated in an Encounter",
+      "summary": "Gain [ChargeRouge] Count",
+      "flavor": "Why... does blood make my heart rush so excitedly?"
+    },
+    {
+      "id": 40004103,
+      "name": "The Adventure",
+      "desc": "Gain the following effects based on [ChargeRouge] Potency on self\n- 1+: For every [ChargeRouge] Count, deal +2% damage and heal +10% HP on target (max 20%, 100% respectively; rounded down)\n- 2+: Base Power +1 for every 2 [ChargeRouge] Potency on self\n- 3+: Turn Start: If this unit does not have [GourmandiseAlly], and if this unit has 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain 3 [GourmandiseAlly]\n- 4+: Skill Slot +1\n- 5+: Encounter Start: Gain 3 [GourmandiseAlly] and inflict 3 [BloodyMucusAlly] on all enemies",
+      "summary": "Effect enhanced based on [ChargeRouge] Potency on self",
+      "flavor": "With every step they take, toddling from behind their first guardians, the child learns about the world, about the department store... and themself, for their eyes were the clearest and the most natural part of their body."
+    },
+    {
+      "id": 40004104,
+      "name": "A Helping Hand",
+      "desc": "When an ally is Staggered during an Encounter, use \"Grab My Hand\" on the said ally (2 times per turn)"
+    },
+    {
+      "id": 40004105,
+      "name": "Body Out of Control",
+      "desc": "If this unit has [GourmandiseAlly], gain the following effects:\n- Heal HP equal to 20% of damage dealt\n- On Skill Use, gain +3 [Laceration] Count\n- On Hit using a Skill, gain 1 [Laceration]",
+      "summary": "Gain 1 [Laceration]",
+      "flavor": "Though the arms, legs, and everything else about their body feels alien to the child, the faint beating from their core will soon begin its mad pulsation."
+    },
+    {
+      "id": 40004107,
+      "name": "Leather-sewing Nail",
+      "desc": "When this unit fails to defeat an enemy using its Attack Skills, use \"I'll End It for You...\" on the said enemy (once per turn)",
+      "flavor": "They said I needed a thick, sturdy nail to punch through leather for sewing. If that didn't work, I just need to try again...!"
+    },
+    {
+      "id": 40004108,
+      "name": "Fate Lost",
+      "desc": "Lose this Encounter if this unit is killed",
+      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+    },
+    {
+      "id": 40004202,
+      "name": "Fate Lost",
+      "desc": "Lose this Encounter if this unit is killed",
+      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+    },
+    {
+      "id": 40004203,
+      "name": "Le Visqueux-Abject",
+      "desc": "This unit takes damage only from Skills mainly targeting this unit, and it takes no other damage\n\nUpon entering the Encounter for the first time, generate [BuffetField] on the field\n\nTurn Start: Targets within the [BuffetField] gain the following effects:\n- Allies (including this unit)\n  · Heal 5% HP\n  · Gain +4 [Charge] Count\n  · Gain 1 [Protection]\n  · If the affected ally is a \"Le Rouge\" unit, gain 2 [Enhancement]\n  · E.G.O Skills deal +50% damage\n\n- Enemies\n  · Gain 3 [AttackDown]\n  · Gain 3 [DefenseDown]\n  · Gain 2 [BloodyMucusAlly]",
+      "flavor": "In an endless feast, the Crimson God consumes and consumes; what is devoured is then digested and excreted as a field of mucus around them.\nThis is the outcome of consumption, where the distinction between self and other blurs. Is this phlegmatic discharge a part of me, or is it of another? Within this boundary, all that is mine pulsates, while all that is not disintegrates.\n\nFor I am afraid of what lies outside the periphery."
+    },
+    {
+      "id": 40004204,
+      "name": "La Fin de l'Enfance",
+      "desc": "Encounter Start: Gain 5 [ChargeRouge] Potency\n\nTurn End: At 15+ [ChargeRouge] Count, equip \"La Nausée\" Skill\nEvery Turn Start: Gain +20 [Aggro]",
+      "flavor": "Who determines the childhood's end?\n\nThe crimson child matured throughout the adventure, shaped by their experiences and sketching their own future at the end of the journey—or so they thought. Their childhood came to a sudden halt, and so too did the adventure; it was never something they could've ended on their own terms.\n\nChildhood's end is a sudden, violent intrusion of reality from the world outside, more a forceful notice than a promised ritual: \"You're not a child anymore.\""
+    }
+  ]
+}

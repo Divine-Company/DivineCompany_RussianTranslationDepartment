@@ -1,0 +1,314 @@
+{
+  "dataList": [
+    {
+      "id": 148511,
+      "name": "... Impossible!",
+      "desc": "Encounter Start: Meursault gains [MeursaultBuffWarderFirstPhase]\n\nTurn Start: Random Sinners gain [GoldenHideWarderFirstPhase] and [GoldenFabricWarderFirstPhase]",
+      "flavor": "\"That which betokeneth stillness and change... is reserved for none but God...!!\"",
+      "summary": "Meursault gains [MeursaultBuffWarderFirstPhase]\nRandom Sinners gain [GoldenHideWarderFirstPhase] and [GoldenFabricWarderFirstPhase] every turn"
+    },
+    {
+      "id": 148501,
+      "name": "Vicarius Dei",
+      "desc": "Apply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 30\n\nEncounter Start:\n- Begin with 50% HP\n- Gain 2 [UnstableConnection]\n\nOn Turn 3, use a powerful Skill\n- During that turn, when hit by a Sinner, gain 1 [ParryingResultDown] (once per Sinner)\n\nWhen this unit's HP drops to 1 or below, or at the end of the turn 3, enter a new Phase",
+      "flavor": "The Vicar of the Obsidian God who visits punishment upon those who have gone astray.",
+      "summary": "Use a powerful Skill on Turn 3\nChange the phase at the end of Turn 3"
+    },
+    {
+      "id": 148502,
+      "name": "Hallowed Candles of Retribution",
+      "desc": "Turn Start: <color=#ff6000><mark=#ff000040><b><u>Summon 2 Candle of Retribution</u></b></mark></color>\n- Summon <color=#ff6000><mark=#ff000040><b><u>+1 more Candle of Retribution</u></b></mark></color> at Turn Start with every passing turn\n- Up to 4 Candles of Retribution can exist simultaneously on the field\n\nEvery time a Candle of Retribution is destroyed, the Warden gains 1 [Vulnerable]\n\nOn Skill Use:\n- <color=#ff6000><mark=#ff000040><b><u>If the main target has 1 Speed, convert all Coins on this unit's Skill into [SuperCoin]s, gain Final Power +2, and deal +100% damage</u></b></mark></color>\n- If there are no Candles of Retribution on the field, Clash Power -1",
+      "flavor": "The candle that smites those sinful ones who dare defy the fate allotted by the department store.",
+      "summary": "Summon Candle of Retribution every turn, gain [Vulnerable] when Candle is destroyed\nIf the main target has 1 Speed, strengthen the Skill"
+    },
+    {
+      "id": 148503,
+      "name": "Tears shall soak the cloth",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>This unit does not lose SP from [Sinking] effects</u></b></mark></color>; instead, when [Sinking] effects trigger, this unit takes Gloom damage equal to Sinking Potency\n\nWhen hit by a Sinner, the said Sinner gains +1 [Sinking] Count (2 per turn per Sinner)",
+      "summary": "Take Gloom damage from [Sinking] instead of losing SP\nWhen hit, the attacker gains [Sinking] Count"
+    },
+    {
+      "id": 148504,
+      "name": "Perfect Conservation",
+      "desc": "Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nTurn Start: At fewer than 3 [ChargeNoir] Potency and fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n\nThe \"Turn End: Lose 1 Count\" effect on [ChargeNoir] does not trigger",
+      "flavor": "Within the Sisyphe System, conservation itself is preserved perfectly.",
+      "summary": "Gain [ChargeNoir] Potency when consuming [ChargeNoir] Count cumulatively\n[ChargeNoir] Count is not lost at Turn End"
+    },
+    {
+      "id": 152001,
+      "name": "Chastening Bonds",
+      "desc": "Turn End: Inflict <color=#ff6000><mark=#ff000040><b><u>2 [Binding]</u></b></mark></color> next turn on all Sinners\n- This effect does not trigger after Phase change",
+      "flavor": "Let the sinful one be bound.",
+      "summary": "Inflict [Binding] on all Sinners next turn"
+    },
+    {
+      "id": 152002,
+      "name": "Sin Aflame",
+      "desc": "When this unit is sub-targeted by a Sinner's Skill, take -50% damage from the said Skill\n\nUpon defeat:\n- Give 1 E.G.O resource for all Affinities\n- The last Sinner to attack this unit heals 5 SP\n  · If the said Sinner has [Binding], heal 10 SP instead\n  · If the \"last Sinner\" to attack this unit cannot be determined, above effects activate for the Sinner that has the lowest SP",
+      "summary": "Take less damage when sub-targeted\nOn death, give E.G.O resource; heal attacker's SP"
+    },
+    {
+      "id": 148611,
+      "name": "... Impossible!",
+      "desc": "Turn Start: Random Sinners gain [GoldenHideWarderSecondPhase] and [GoldenFabricWarderSecondPhase]",
+      "flavor": "\"That which betokeneth stillness and change... is reserved for none but God...!!\"",
+      "summary": "Random Sinners gain [GoldenHideWarderSecondPhase] and [GoldenFabricWarderSecondPhase] every turn"
+    },
+    {
+      "id": 148605,
+      "name": "Implements of Confession",
+      "desc": "When the Warden inflicts [ConfessionSecondPhase] on Sinners using its Skill effects, apply the following:\n- The following effects are <color=#ff6000><mark=#ff000040><b><u>collectively referred to as [ConfessionSecondPhase]:</u></b></mark></color>\n  · [RestrainingNailSecondPhase]\n  · [ExecutionNailSecondPhase]\n  · [CeremonialNail]\n  · [MarkingNail]\n- When the Warden inflicts Nail[TabExplain] or Hammernail on the Sinners, <color=#ff6000><mark=#ff000040><b><u>only the effect that is inflicted last remains</u></b></mark></color>; however, Stacks between Nail[TabExplain] and Hammernail accumulate\n- <color=#ff6000><mark=#ff000040><b><u>Hammernail does not convert into Nail[TabExplain]</u></b></mark></color>\n\nOn Hit against a Sinner, <color=#ff6000><mark=#ff000040><b><u>deal +3% damage for every [ConfessionSecondPhase] on target</u></b></mark></color> (max 27%, separately for each target)\n\nTurn Start: <color=#ff6000><mark=#ff000040><b><u>If the Warden has 50% or lower HP</u></b></mark></color>, all Skills inflict <color=#ff6000><mark=#ff000040><b><u>+1 more [ConfessionSecondPhase]</u></b></mark></color>",
+      "summary": "Deal more damage based on [ConfessionSecondPhase] on target\nAt 50%- HP, inflict more [ConfessionSecondPhase]"
+    },
+    {
+      "id": 148601,
+      "name": "As Ordained by the Rule of Conservation",
+      "desc": "Apply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 30\n\nFirst Turn Start after entry:\n- Change SP to 45\n- Gain 0 [EncompassingVoiceSecondPhase] and 1 [LeaderVoiceSecondPhase]\n- [ChargeNoir] Potency and Count carry over from the preceding Phase",
+      "summary": "[PanicChangeLock]\n[ChargeNoir] Potency and Count carry over from the preceding Phase"
+    },
+    {
+      "id": 148602,
+      "name": "Dies Irae",
+      "desc": "Turn Start: If this unit has [SpreadingVoiceSecondPhase], gain a new pattern and <color=#ff6000><mark=#ff000040><b><u>use a powerful Skill, \"Judgment... Sentencing... Condemnation!\"</u></b></mark></color>\n- Min & Max Speed +20 for the turn\n- <color=#ff6000><mark=#ff000040><b><u>If the Warden loses the Clash while in this pattern</u></b></mark></color>, gain a changed pattern next turn, and <color=#ff6000><mark=#ff000040><b><u>use a powerful Skill, \"Death Unto the Condemned\"</u></b></mark></color>\n\nEvery time [SpreadingVoiceSecondPhase] and [EncompassingVoiceSecondPhase] are converted, <color=#ff6000><mark=#ff000040><b><u>heal 45 SP</u></b></mark></color> and <color=#ff6000><mark=#ff000040><b><u>gain 1 [LeaderVoiceSecondPhase]</u></b></mark></color>\n\nAt 50% or lower HP, end the turn (excluding certain Skills); if Staggered, recover from Stagger\nAt 1 or lower HP, enter a new Phase",
+      "flavor": "They who have failed to atone through punishment shall perish on the Day of Judgment.",
+      "summary": "Use a powerful Skill if this unit has [SpreadingVoiceSecondPhase]\nOn Clash Lose in this pattern, use \"Death Unto the Condemned\" next turn"
+    },
+    {
+      "id": 148603,
+      "name": "Tears shall soak the cloth, cloth shall close about the throat...",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>This unit does not lose SP from [Sinking] effects</u></b></mark></color>; instead, this unit takes Gloom damage equal to Sinking Potency\n\nWhen hit by a Sinner, the said Sinner gains +1 [Sinking] Count (2 times per turn per Sinner)\n\nThis unit cannot gain [Breath] Potency past 20; <color=#ff6000><mark=#ff000040><b><u>instead, heal SP equal to excess [Breath] Potency gained</u></b></mark></color>",
+      "summary": "Take Gloom damage from [Sinking] instead of losing SP\nWhen hit, the attacker gains [Sinking] Count"
+    },
+    {
+      "id": 148604,
+      "name": "Perfect Conservation",
+      "desc": "Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nTurn Start: At fewer than 5 [ChargeNoir] Potency and fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n\nThe \"Turn End: Lose 1 Count\" effect on [ChargeNoir] does not trigger\n\nAt 5+/10+ [ChargeNoir] Potency, [ChargeNoir] Count max cap +5/+10",
+      "flavor": "Within the Sisyphe System, conservation itself is preserved perfectly.",
+      "summary": "Gain [ChargeNoir] Potency when consuming [ChargeNoir] Count cumulatively\n[ChargeNoir] Count is not lost at Turn End"
+    },
+    {
+      "id": 148711,
+      "name": "Goddammit. How did you manage to find a glitch like that?",
+      "desc": "Turn Start: Random Sinners gain [GoldenHideWarderThirdPhase] and [GoldenFabricWarderThirdPhase]\n\n<color=#ff6000><mark=#ff000040><b><u>When \"the Manager\" takes a certain action, the Chaplain deals damage to a random Sinner based on the said Sinner's max HP and inflicts [GoldenNail] on them</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>At lower than 50% HP, the Chaplain manipulates his status on a system level</u></b></mark></color> to <color=#ff6000><mark=#ff000040><b><u>heal both HP and SP up to max and remove all negative effects from self</u></b></mark></color>",
+      "flavor": "\"No system's glitch-free all the time, of course, but a bug this bad...? Tsk. Looks like I'll have to call maintenance.\"",
+      "summary": "Random Sinners gain [GoldenHideWarderThirdPhase] and [GoldenFabricWarderThirdPhase] every turn\nWhen reaching lower than 50% HP, fully heal and remove negative effects"
+    },
+    {
+      "id": 148705,
+      "name": "Sisyphe System Maintenance Tool",
+      "desc": "When the Chaplain inflicts [ConfessionThirdPhase] on Sinners using its Skill effects, apply the following:\n- The following effects are <color=#ff6000><mark=#ff000040><b><u>collectively referred to as [ConfessionThirdPhase]</u></b></mark></color>:\n  · [RestrainingNailThirdPhase]\n  · [ExecutionNailThirdPhase]\n  · [GoldenNail]\n- When the Chaplain inflicts Nail[TabExplain] on the Sinners, <color=#ff6000><mark=#ff000040><b><u>only the effect that is inflicted last remains</u></b></mark></color>; however, Stacks between effects accumulate\n<color=#ff6000><mark=#ff000040><b><u>- [RestrainingNailThirdPhase] and [ExecutionNailThirdPhase] do not convert into [GoldenNail]</u></b></mark></color>\n\nOn Hit against a Sinner, <color=#ff6000><mark=#ff000040><b><u>deal +5% damage for every [ConfessionThirdPhase]</u></b></mark></color> on target (max 45%, separately for each target)\n\nTurn Start: <color=#ff6000><mark=#ff000040><b><u>If the Chaplain has 50% or lower HP</u></b></mark></color>, all Skills inflict <color=#ff6000><mark=#ff000040><b><u>+1 more [ConfessionThirdPhase]</u></b></mark></color>",
+      "flavor": "\"According to the manual... when this happens, everything has to be readjusted. It's all been laid out in the regulations already. You can see it right here in the manual... ah. Right. You can't see this from where you are.\"",
+      "summary": "Deal more damage based on [ConfessionThirdPhase] on target\nAt 50%- HP, inflict more [ConfessionThirdPhase]"
+    },
+    {
+      "id": 148701,
+      "name": "\"As Ordained by the Rule of Conservation\"",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>At 10+ Clashes</u></b></mark></color>, the said Skill <color=#ff6000><mark=#ff000040><b><u>gains Clash Power by (Clash Count)</u></b></mark></color>\n\nFor [Combustion], [Laceration], [Vibration], [Burst], [Sinking]:\n- <color=#ff6000><mark=#ff000040><b><u>Max Potency cap: 50\n- Max Count cap: 15</u></b></mark></color>\n- Take -50% damage from above effects\n\nApply the [PanicChangeLock] effect, and <color=#ff6000><mark=#ff000040><b><u>this unit's SP does not drop below 0</u></b></mark></color>\n\nFirst Turn Start after entry:\n- Change SP to 45\n- Gain 0 [EncompassingVoiceThirdPhase] and 1 [LeaderVoiceThirdPhase]\n- [ChargeNoir] Potency and Count carry over from the preceding Phase",
+      "summary": "At 10+ Clash Count, gain Clash Power\nTake less damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]"
+    },
+    {
+      "id": 148702,
+      "name": "\"Dies Irae\"",
+      "desc": "Turn Start: If this unit has [SpreadingVoiceThirdPhase], gain a new pattern and use a <color=#ff6000><mark=#ff000040><b><u>powerful Skill, \"Do you seriously mean to break the Sisyphe System?\"</u></b></mark></color>\n- Min & Max Speed +20 for the turn\n- <color=#ff6000><mark=#ff000040><b><u>If the Chaplain loses the Clash</u></b></mark></color> while in this pattern, gain a changed pattern next turn, and <color=#ff6000><mark=#ff000040><b><u>use a powerful Skill, \"Systemwide Ban\"</u></b></mark></color>\n\nEvery time [SpreadingVoiceThirdPhase] and [EncompassingVoiceThirdPhase] are converted, <color=#ff6000><mark=#ff000040><b><u>heal 45 SP</u></b></mark></color> and <color=#ff6000><mark=#ff000040><b><u>gain 1 [LeaderVoiceThirdPhase]</u></b></mark></color>",
+      "flavor": "If getting punished still wasn't enough to make you reflect, then I guess it's time for judgment. Enough to kill you, that is.",
+      "summary": "Use a powerful Skill if this unit has [SpreadingVoiceThirdPhase]\nOn Clash Lose in this pattern, use \"Systemwide Ban\" next turn"
+    },
+    {
+      "id": 148703,
+      "name": "Tears shall soak the cloth, cloth shall close about the throat... now I can't even remember what's next.",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>This unit does not lose SP from [Sinking] effects</u></b></mark></color>; instead, when [Sinking] effects trigger, this unit takes Gloom damage equal to Sinking Potency\n\nWhen hit by a Sinner, the said Sinner gains +1 [Sinking] Count (2 per turn per Sinner)\n\nThis unit cannot gain [Breath] Potency past 20; <color=#ff6000><mark=#ff000040><b><u>instead, heal SP equal to excess [Breath] Potency gained</u></b></mark></color>\n\nWhen triggering [VibrationExplosion] on Sinners, <color=#ff6000><mark=#ff000040><b><u>if the targeted Sinner does not have a Stagger Threshold</u></b></mark></color>, <color=#ff6000><mark=#ff000040><b><u>deal ([Vibration] Potency on target / 2) Sloth damage</u></b></mark></color> (except Staggered targets; calculated separately for each target)",
+      "flavor": "“About time you started 'praying,' don't you think?”",
+      "summary": "When hit, inflict [Sinking] Count on the attacker\nOn [VibrationExplosion], deal Sloth damage if target does not have a Stagger Threshold"
+    },
+    {
+      "id": 148704,
+      "name": "Perfect Conservation",
+      "desc": "Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nTurn Start: At fewer than 10 [ChargeNoir] Potency and fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n\nThe \"Turn End: Lose 1 Count\" effect on [ChargeNoir] does not trigger\n\nAt 5+/10+ [ChargeNoir] Potency, [ChargeNoir] Count max cap +5/+10",
+      "flavor": "Within the Sisyphe System, conservation itself is preserved perfectly.",
+      "summary": "Gain [ChargeNoir] Potency when consuming [ChargeNoir] Count cumulatively\n[ChargeNoir] Count is not lost at Turn End"
+    },
+    {
+      "id": 148706,
+      "name": "All right. Time to clock out.",
+      "desc": "Turn End: At more than 10 [ChargeNoir] Potency, consume excess [ChargeNoir] Potency and gain ([ChargeNoir] Potency consumed) [Dominion]\n- This effect does not trigger again after all [Dominion] has been consumed by the effects of this Passive\n\nWhen this unit's HP drops to <color=#ff6000><mark=#ff000040><b><u>33% or lower for the first time in this Encounter, gain a new pattern</u></b></mark></color>\n- Consume all [Dominion] on self and <color=#ff6000><mark=#ff000040><b><u>gain persistent Shield equal to (25 + [Dominion] Stack)% of this unit's max HP</u></b></mark></color>\n- Permanently lose Defense Level equal to [Dominion] Stack consumed",
+      "flavor": "\"Say what you want, the Sisyphe System is something N Corp. absolutely needs. If this system goes down... we're back to barbarism.\"\n\n\"So, just like the manual says, you don't get to leave this department store. No exceptions.\"",
+      "summary": "Convert 10 surplus [ChargeNoir] Potency into [Dominion]\nAt 33% or lower HP, change the pattern and gain Shield"
+    },
+    {
+      "id": 152201,
+      "name": "Mauvaise Foi",
+      "desc": "Gain 1 [ChargeKhaki] Potency for every 10 cumulative [ChargeKhaki] Count this unit consumes in this Encounter\n- The \"Turn End: Lose 1 Count\" effect on [ChargeKhaki] does not trigger\n\nTurn End: Gain [Breath] Potency equal to [ChargeKhaki] Count on self (max 10)\nTurn End: Gain [Breath] Count equal to [ChargeKhaki] Potency on self (max 5)\n\nTake -60% damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Stagger Threshold raised from [Vibration] -60%\n\nAt 10+ Clashes against the same target, gain Clash Power by (Clash Count / 10)",
+      "flavor": "Bad faith.\n\nA flight from the world—from a world of fear and anxiety. Escape is sought again and again. \n\nOne escapes onto the stage by nailing oneself firmly into place. Like an actor upon a stage, the role is inhabited completely. Total immersion gives way to deception, and deception to self-deception."
+    },
+    {
+      "id": 152202,
+      "name": "Remember the rhythm of the waltz?",
+      "desc": "At 4+ Clashes in the same Clash:\n- From the 3rd Clash, the winner of the 3rd Clash deals +15% damage for every 4th Clash won (3 times max)\n- If the Skill that won the Clash won the first Clash, Final Power +1",
+      "flavor": "It was a shared experience, wasn't it?"
+    },
+    {
+      "id": 152203,
+      "name": "Sartre",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>Summon 3 \"Grand Magasin Sisyphe Blueprint\" every 3 turns</color></mark></b></u> and gain Shield equal to this unit's max HP\n- For that turn, when Staggered, recover from Stagger and cannot be Staggered again for the rest of the turn\n\n<color=#ff6000><mark color=#ff000040><b><u>After killing a \"Grand Magasin Sisyphe Blueprint\" with the \"Focusing\" Skill, gain [JeanneDesign]</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>At 3 [JeanneDesign], convert [JeanneDesign] into [JeanneManager]</color></mark></b></u>\n<color=#ff6000><mark color=#ff000040><b><u>If this unit failed to kill a single \"Grand Magasin Sisyphe Blueprint\" with its \"Focusing\" Skill</color></mark></b></u>, gain 1 [Vulnerable] next turn",
+      "flavor": "One of the four Giants of Sisyphe Tower.\n\nAmong them, she is the architect of the Sisyphe System—a tailor, a designer, the executor of the role, or a job, or something... that builds the world up according to a viewpoint of her own.\n\nCut to her measure, nailed into place, stitched together piece by piece—this is a sartorial world shaped so that she might look upon it without being nauseated.\n\nThis is Grand Magasin Sisyphe."
+    },
+    {
+      "id": 152204,
+      "name": "You know, I...",
+      "desc": "Start this Encounter with 45 SP\n\nWhen Meursault is defeated, the Sinners lose the Encounter\n\n<color=#ff6000><mark color=#ff000040><b><u>At 50%- HP</color></mark></b></u>, stop taking any damage and enter a new Phase\n- When entering a new Phase, remove all removable negative effects on self",
+      "flavor": "I don't want you going back outside.\n\nCome with me onto the next stage instead, ma puce."
+    },
+    {
+      "id": 152301,
+      "name": "Remember the experience of the waltz?",
+      "desc": "Does not take any damage for this Phase\n\nTurn Start (once per Encounter): \n- Jeanne gains 1 [JeannePartnerTwo] and 1 [JeannePathos]\n- Meursault gains 1 [JeannePartner] and 1 [JeanneLogos]\n\nWhen attacked by Unopposed Attacks, or when losing a Clash, activate the \"We had our little quarrels, yes.\" Skill\n<color=#ff6000><mark color=#ff000040><b><u>Generate a unique Skill in Meursault's upper Skill Slot</color></mark></b></u>",
+      "flavor": "That waltz in your memory—let's re-experience it."
+    },
+    {
+      "id": 152302,
+      "name": "La Nausée",
+      "desc": "When Meursault is defeated, the Sinners lose the Encounter\n\nCurrent Skill End: <color=#ff6000><mark color=#ff000040><b><u>At 100 [JeannePathos]</color></mark></b></u>, enter a new Phase\n- When entering a new Phase, remove all removable negative effects on self",
+      "flavor": "Feeling dizzy? But the climax comes next."
+    },
+    {
+      "id": 152401,
+      "name": "L'enfer, c'est les autres",
+      "desc": "When Jeanne's HP drops to 10% or below...",
+      "flavor": "We live in a hell where we're forever nailed beneath the gaze of others. So... tell me everything you're feeling, Meur. You can always decide what to make of it afterward, can't you?"
+    },
+    {
+      "id": 152402,
+      "name": "Gaze: Grand Magasin Sisyphe",
+      "desc": "This unit's SP is fixed at 45 \n\nTurn Start: Summon \"Sisyphe System Blueprint - Le Rouge\" and \"Sisyphe System Blueprint - Le Noir\" until there are 2 of each on the field\n\n2nd turn after Phase change: Convert 1 Blueprint unit into \"Jeanne Sartre, the Sartorial Tailor\" form\n- Prioritize the Blueprint unit that does not have [Vulnerable]\n- Exclude the Blueprint unit that entered the \"Jeanne Sartre, the Sartorial Tailor\" state on the previous turn\n- If Staggered, recover from Stagger\n\nWhen entering the \"Jeanne Sartre, the Sartorial Tailor\" state, use the \"At least on this stage, everything's set and fixed.\" Skill\n- If Meursault's Skill wins the Clash against \"At least on this stage, everything's set and fixed.\", the said Blueprint unit gains 5 [Vulnerable] every turn starting from the next turn\n\nEvery time \"Jeanne Sartre, the Sartorial Tailor\" state is disabled, 1 Blueprint unit equips Jeanne's \"Rights: Ban\" Skill next turn\n- The number of Blueprint units that equip Jeanne's Skills increases cumulatively by 1\n\nWhen a Blueprint unit is defeated,\n- Jeanne loses 5% HP\n- All other Blueprint units gain 1 [JeanneBlueprint]\n- 1 Blueprint unit equips Jeanne's \"Rights: Gaze\" Skill instead of \"Rights: Ban\" next turn",
+      "flavor": "To Jeanne, the department store was the world she could perceive most comfortably.\n\nShe was given the office chair of Le Kaki's Giant, a role that was supposed to remain neutral. But as you can see for yourself... She wanted to bloom in all those brilliant colors more than anybody else. She wanted to burn with passion, Meur, to stand on that stage and dance with you.\n\nIt's unfortunate that she couldn't let herself do so. There were too many gazes to mind, too many expectations to satisfy... until they wound themselves around her like chains. She couldn't blossom vibrantly as she wanted. Even the budding wish had to be hidden away.\n\nI can't make Jeanne's nausea disappear, but I can give her the chance to be herself, to bloom as herself without worrying about anyone's gaze in this world she was thrown into. Perhaps, if she's deep in that passion, she'll get to forget the nausea for a little while.\n\nAnd... I don't think Jeanne is the only one who needs that. Everyone in the City does. They might refuse, but I do believe that everyone deserves the same chance."
+    },
+    {
+      "id": 152501,
+      "name": "Outfit Ensemble Blueprint",
+      "desc": "During the Encounter, <color=#ff6000><mark color=#ff000040><b><u>immediately before taking a hit for the first time</color></mark></b></u>, <color=#ff6000><mark color=#ff000040><b><u>use the equipped \"Department Store Blueprint\"</color></mark></b></u> regardless of how this unit's Skills are Chained (once per turn)\n\nTake -50% damage from Base Skills\n\n<color=#ff6000><mark color=#ff000040><b><u>Take +100% damage from E.G.O Skills</color></mark></b></u>\n\nThis unit is defeated when hit by the \"Focusing\" Skill of \"Jeanne Sartre, the Sartorial Tailor\"",
+      "flavor": "This is the department store's blueprint."
+    },
+    {
+      "id": 152502,
+      "name": "Blueprint of the Self",
+      "desc": "When killed by a Sinner's Skill, give 1 E.G.O resource each from 5 of the E.G.O Affinities with the least amount of resources (if 2 or more least-owned Affinities share the resource quantity, it is distributed randomly)",
+      "flavor": "Undesigned design."
+    },
+    {
+      "id": 152601,
+      "name": "Pattern: Grand Magasin Sisyphe",
+      "desc": "When Clashing against the same target, Clash Power +1 for every 10 Clashes\n\nStarting from the turn after this unit enters the field, 1 Blueprint unit enters the <color=#ff6000><mark color=#ff000040><b><u>\"Jeanne Sartre, the Sartorial Tailor\" state</color></mark></b></u>\n- Prioritize the Blueprint unit that does not have [Vulnerable]\n- Exclude the Blueprint unit that entered the \"Jeanne Sartre, the Sartorial Tailor\" state on the previous turn\n- If Staggered, recover from Stagger\n\nWhen entering the \"Jeanne Sartre, the Sartorial Tailor\" state, use the <color=#ff6000><mark color=#ff000040><b><u>\"At least on this stage, everything's set and fixed.\" Skill</color></mark></b></u>\n- <color=#ff6000><mark color=#ff000040><b><u>If Meursault's Skill wins the Clash</color></mark></b></u> against \"At least on this stage, everything's set and fixed.\", the said Blueprint unit <color=#ff6000><mark color=#ff000040><b><u>gains 5 [Vulnerable] every turn</color></mark></b></u> starting from the next turn\n\nWhen a Blueprint unit is defeated,\n- <color=#ff6000><mark color=#ff000040><b><u>Jeanne loses 5% HP</color></mark></b></u>\n- All other Blueprint units gain 1 [JeanneBlueprint]"
+    },
+    {
+      "id": 152602,
+      "name": "Metabolic Action and Reaction",
+      "desc": "Gain 1 [ChargeRouge] Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nThis unit's Skill effects cannot drop this unit's HP below 1",
+      "flavor": "Consume, replenish, deplete, then consume again.\nSimple repetitions are born of yearning."
+    },
+    {
+      "id": 152701,
+      "name": "Conservation",
+      "desc": "Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter",
+      "flavor": "Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 151701,
+      "name": "La Jouissance Autre",
+      "desc": "Turn End: Does not lose [ChargeRouge] Count\nGain +1 [ChargeRouge] Count every time [Laceration] damage is activated in an Encounter\nTurn Start: Heal 2 SP for every [ChargeRouge] Count on self",
+      "flavor": "A throbbing felt through the whole body, yet beyond the reach of words—the totality of every pulsation born of one's very nature.",
+      "summary": "Gain Pulsation Count"
+    },
+    {
+      "id": 151702,
+      "name": "L'Extimité",
+      "desc": "Start the Encounter with 50% missing HP\nEncounter Start: Apply [BuffetScruple] on all enemies (including Backup Units)\n\nOn Skill Use, <color=#ff6000><mark=#ff000040><b><u>if target has [BuffetScruple]</u></b></mark></color>, lose 10 SP",
+      "flavor": "... You're there at the very edge of my body, and yet somehow, you are also rooted in the deepest part of me.",
+      "summary": "Lose SP"
+    },
+    {
+      "id": 151703,
+      "name": "Le Moi",
+      "desc": "When the Sinner who has [BuffetScruple] wins a Clash against a certain Skill, <color=#ff6000><mark=#ff000040><b><u>The Crimson God gains 1 [BuffetDream]</u></b></mark></color>\nWhen The Crimson God reaches 5 [BuffetDream] Stacks, it gains a new pattern; winning the Clash against the Skill in that new pattern will win the Encounter\n\nRaise max Potency and Count cap for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] to 50 and 15, respectively\n\nTake -50% HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Fixed Panic\n- Turn End: If this unit is in Panic, SP becomes 0",
+      "flavor": "I saw my reflection in the water. My body, it's been... completed..."
+    },
+    {
+      "id": 151704,
+      "name": "Pouvoirs de la vie",
+      "desc": "If an ally becomes Staggered due to damage, <color=#ff6000><mark=#ff000040><b><u>un-Stagger the ally, then use the \"Le Manque-à-être\" Skill that activates the said ally's <noparse>Assist Attack</noparse></u></b></mark></color> (once per turn)\n\nIf an ally is defeated, summon a Ripped Flesh of the Crimson God that has 3 [BuffetRevival] at the next Turn Start",
+      "flavor": "The violence by which things are brought into being. The God of the Rouges possesses the authority of birth.\n\nWhere does consciousness go when we die? And before we are born, from where does it emerge?\n\nTo send it back to that place, or to tear it forth from there... both are workings of the same violent power."
+    },
+    {
+      "id": 151705,
+      "name": "La Jouissance phallique",
+      "desc": "Turn Start: If this unit does not have [BuffetRouge] and is at 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain up to max [BuffetRouge] Stack; then, heal 2 SP for every [ChargeRouge] Count consumed\n\nOn Skill Use, if this unit does not have [BuffetRouge] and is at 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1",
+      "flavor": "There are conditions to tasting the pleasures of life, and as it is with all things conditional, this carnal pleasure is fated to fail.\n\nThe stipulated limits and end have deemed it so.",
+      "summary": "Consume Pulsation Count to gain Coin Power"
+    },
+    {
+      "id": 151706,
+      "name": "La Moisson",
+      "desc": "Attack End: If the main target has <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, use <color=#ff6000><mark=#ff000040><b><u>a powerful Skill</u></b></mark></color> against the main target this unit attacked (once per turn)",
+      "flavor": "The jutting appendage is thrust into another, calling me from beyond the periphery.\n\nIs this compulsion to return to my birthplace an impulse for death, or impulse for life?"
+    },
+    {
+      "id": 151707,
+      "name": "Le Besoin",
+      "desc": "Gain 1 Pulsation Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nGain all of the following effects based on [ChargeRouge] Potency on self:\n- 1+: Deal +([ChargeRouge] Potency x 20)% damage if this unit's Speed is faster than the target's\n- 2+: Skill Final Power +1\n- 3+: Skills inflict +1 more [Laceration] Potency\n- 4+: Skill Coin Power +1\n- 5+: Do not lose [BuffetRouge] Stack on self",
+      "flavor": "The destined and inevitable desire of those who live, those who are birthed.\nA curselike need, its inescapability threaded by fate.",
+      "summary": "Enhance Skills based on Pulsation Potency"
+    },
+    {
+      "id": 151708,
+      "name": "Time to Answer",
+      "desc": "If any of the following conditions are met, change the pattern:\n- <color=#ff6000><mark=#ff000040><b><u>[BuffetDream] is at 3 Stacks</u></b></mark></color>\n- Current HP falls below 25% of max HP",
+      "flavor": "Keep teaching me things... I wanna go with you..."
+    },
+    {
+      "id": 152101,
+      "name": "Emptiness Begets Satiation",
+      "desc": "Gain 1 [ChargeRouge] Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nOn Skill Use, at 3+ [ChargeRouge] Potency, Coin Power +1\n\nGain 1 Offense Level (max 3) and deal +20% damage (max 60%) for every 20% missing HP",
+      "summary": "Gain Coin Power"
+    },
+    {
+      "id": 152102,
+      "name": "The Sickle Seeks the Slow",
+      "desc": "Prioritize targets with slower Speed than self\n\nOn Skill Use, if this unit's Speed is faster than the target's gain Offense Level equal to the Speed difference\n\nTurn Start: At 3+ [ChargeRouge] Potency, use a powerful Skill",
+      "flavor": "Pulsating predators pursue the slow prey, seeking to sink their fangs into the neck. Their fatality is determined by the speed differential."
+    },
+    {
+      "id": 152103,
+      "name": "Persistent Pulsation Beside The Cherished One",
+      "desc": "When The Crimson God is on the field, this unit does not lose [ChargeRouge] Count at Turn End\n\nWhen Staggered due to getting hit: When this unit recovers from Stagger due to The Crimson God's Skill, use \"With sickles mine I answer your calling!\" as Unopposed Attack against the attacker",
+      "flavor": "Against their wishes, neither breathing nor the thumping pulse in their hearts would stop."
+    },
+    {
+      "id": 152104,
+      "name": "Traces of Life",
+      "desc": "Upon death, grant 2 E.G.O Resource of a random Affinity among least-owned Affinities",
+      "flavor": "Traces left behind by those who live, those who lived."
+    },
+    {
+      "id": 152105,
+      "name": "Blessings Upon the Flesh",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>If this unit has [BuffetRouge]</u></b></mark></color>, apply the following effects:\n- Take -50% damage from Skills\n- Turn Start: Heal SP to max and gain 1 [ChargeRouge]; gain +5 [ChargeRouge] Count",
+      "flavor": "To receive that divinity whole with one's body."
+    },
+    {
+      "id": 151801,
+      "name": "Body Forced to Live Again",
+      "desc": "When [BuffetRevival] expires, return to Le Rouge Senior Staff form; heal 5 SP for every 10 HP that remained while this unit was in Ripped Flesh of the Crimson God form; gain +2 [ChargeRouge] Count\n- If this unit gained 10+ [ChargeRouge] Count, consume all [ChargeRouge] Count; then, gain 1 [BuffetRouge] next turn for every 5 Stacks consumed"
+    },
+    {
+      "id": 151802,
+      "name": "Flesh Gummed to the Ground",
+      "desc": "Sinners cannot target this unit"
+    },
+    {
+      "id": 151709,
+      "name": "The hand they could neither push away nor hold",
+      "desc": "Turn Start: Gain 2 [Protection] for every Le Rouge Senior Staff on the field\n- Lose 2 [Protection] every time a Le Rouge Senior Staff is defeated\n\n<color=#ff6000><mark=#ff000040><b><u>If all Le Rouge Senior Staff are defeated</u></b></mark></color>, apply the following effects:\n- Gain 2 [Vulnerable]\n- On Skill Use, <color=#ff6000><mark=#ff000040><b><u>if target has [BuffetScruple], Coin Power -1</u></b></mark></color>",
+      "flavor": "Will you still... hold my hand?",
+      "summary": "Lose Coin Power"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "dataList": [
+    {
+      "key": "Q-3000",
+      "title": "Fetch the Hide",
+      "description": "The Overseer requested 8 pieces of hide in return for making the Golden Shroud. We need to gather the hides scattered across the Grand Magasin.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "B2F: 3 Hide Pieces",
+          "goalDescription2": "B1F: Hide Piece",
+          "goalDescription3": "1F: Hide Piece",
+          "goalDescription4": "2F: Hide Piece",
+          "goalDescription5": "3F: Hide Piece",
+          "goalDescription6": "4F: Hide Piece"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010",
+      "title": "Collect the Pieces of Golden Hide",
+      "description": "We encountered the Overseer on B3F. The Overseer said that in order to make clothing from the Golden Hide, we need to collect the pieces from all the location we've visited so far. The exact locations were given to us. Now we need to go fetch the Golden Hide for the Overseer.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Collect Palette's Golden Resin",
+          "goalDescription2": "Collect B2F Floor Manager's Golden Hide",
+          "goalDescription3": "Collect the King of Needlework's Golden Hide",
+          "goalDescription4": "Collect Sous Chef's Golden Hide",
+          "goalDescription5": "Collect the Golden Hide from 1F's corpse pile",
+          "goalDescription6": "Collect the Golden Hide from the wall on 4F",
+          "goalDescription7": "Collect the Golden Hide from the Rouge Brand Director's corpse",
+          "goalDescription8": "Collect the Golden Hide from 3F's Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011",
+      "title": "Gather the Hide - B1F",
+      "description": "One of the eight pieces of hide demanded by the Overseer can be found on B1F. It has to be flayed off the Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "To B1F Food Court",
+          "goalDescription2": "Sous Chef's Golden Hide (4/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3012",
+      "title": "Gather the Hide - 1F",
+      "description": "One of the eight pieces of hide demanded by the Overseer can be found on 1F. It should be somewhere in the corpse pile.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Find the Golden Hide hidden in the corpse pile (5/8)",
+          "goalDescription2": "Corpse Pile's Golden Hide (5/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3013",
+      "title": "Gather the Hide - 2F",
+      "description": "One of the eight pieces of hide demanded by the Overseer can be found on 2F. It has to be flayed off the Brand Director.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Take the Brand Director's Golden Hide (7/8)",
+          "goalDescription2": "Brand Director's Golden Hide (7/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3014",
+      "title": "Gather the Hide - 3F",
+      "description": "One of the eight pieces of hide demanded by the Overseer can be found on 3F. It has to be flayed off the Floor Manager.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "To the 3F Floor Manager's Room",
+          "goalDescription2": "3F Floor Manager's Golden Hide (8/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3015",
+      "title": "Gather the Hide - 4F",
+      "description": "One of the eight pieces of hide demanded by the Overseer can be found on 4F. We should search through the concrete rubble left behind by the Deconstructionists.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Pick up the Golden Hide stuffed inside the crack in the wall (6/8)",
+          "goalDescription2": "Obtained Golden Hide from the crack in the wall (6/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3006",
+      "title": "Return to the Overseer",
+      "description": "We've finally procured all eight pieces of the Golden Hide. Let's return to the Overseer on B3F and hand over what we've collected so he can craft Pwie an outfit out of the Golden Hide.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Return to the Overseer"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003",
+      "title": "Head to the Tannery",
+      "description": "We've brought all eight pieces of the Golden Hide, but our journey didn't end there. To make bespoke garment, said the Overseer, Pwie should first head to the Tannery and get their size measured.\nLet's head to the Tannery and meet the... Tanner.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Tannery"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Hold the position against the onslaught of enemies until the patterning process is completed."
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Talk to the Tanner"
+        }
+      ]
+    },
+    {
+      "key": "Q-3004",
+      "title": "Head to the Cutting Room",
+      "description": "Pwie's size has been measured, and patterns have been patterned. Now, it's time for cutting and sewing.\n\nLet's head to the Cutting Room.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Cutting Room"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Hold the position against the onslaught of enemies until the cutting process is completed."
+        },
+        {
+          "index": 2,
+          "goalDescription1": "Check the cutting machine"
+        }
+      ]
+    },
+    {
+      "key": "Q-3007",
+      "title": "Finish the Sewing Process",
+      "description": "The cutting is complete. Once the Nurturer handles the stitching, the Golden Hide garment should be finished.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Head to the Nurturer"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "Hold off the incoming enemies until the Nurturer finishes stitching"
+        }
+      ]
+    },
+    {
+      "key": "Q-3001",
+      "title": "Receive the Golden Shroud from the Overseer",
+      "description": "Looks like the whole process is complete. We should collect the finished garment from the Overseer.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Receive the Golden Shroud from the Overseer"
+        }
+      ]
+    },
+    {
+      "key": "Q-3005",
+      "title": "Kill the Overseer",
+      "description": "The Overseer finished the Golden Hide garment, but apparently couldn't bear to hand it over and turned on us instead. We should defeat the Overseer and claim the finished garment.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Kill the Overseer"
+        }
+      ]
+    },
+    {
+      "key": "Q-3002",
+      "title": "Head to 5F",
+      "description": "The Overseer completed the Golden Hide, allowing Pwie to don clothing made from it. Pwie, however, doesn't seem glad at all after devouring Wriggley.\n... It's time to head to 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Reach 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010A",
+      "title": "(내부) 팔레트 가죽 확보 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "팔레트의 가죽 확보 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010B",
+      "title": "(내부) 플로어 매니저 가죽 확보 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "플로어 매니저 가죽 확보 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010S",
+      "title": "(내부) 보디가드 교대 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "보디가드 교대 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011S",
+      "title": "(내부) 황금가죽 수주 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "황금가죽 수주 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011T",
+      "title": "(내부) 삽살이 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 개전 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H1",
+      "title": "(내부) 삽살이 타격 1",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 1 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H2",
+      "title": "(내부) 삽살이 타격 2",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 2 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H3",
+      "title": "(내부) 삽살이 타격 3",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 3 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003A",
+      "title": "The Process at the Tannery",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "See the tanning process through to completion"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003B",
+      "title": "The Process at the Cutting Room",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "See the cutting process through to completion"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003C",
+      "title": "The Process at the Outdoor Plaza",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "See the process at the Outdoor Plaza through to completion"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011R",
+      "title": "Negotiate with Sous Chef again",
+      "description": "The consequence of giving up the arm was too dire. Let's return to Sous Chef on B1F's Food Court and offer her another trade.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "Negotiate with Sous Chef again"
+        }
+      ]
+    }
+  ]
+}
